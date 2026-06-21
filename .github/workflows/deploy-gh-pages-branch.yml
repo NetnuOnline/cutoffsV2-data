@@ -3,6 +3,7 @@ name: Deploy gh-pages branch
 on:
   push:
     branches: [gh-pages]
+  workflow_dispatch:
 
 permissions:
   contents: read
@@ -21,6 +22,8 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: gh-pages
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3

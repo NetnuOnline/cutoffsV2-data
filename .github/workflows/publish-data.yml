@@ -32,6 +32,9 @@ jobs:
       - name: Fetch WARN marts
         run: ./data/scripts/fetch-warn.sh
 
+      - name: Merge H-1B LCA counts into company pages
+        run: python3 ./data/scripts/fetch-warn-airtable.py --merge-lca-only
+
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:

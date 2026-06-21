@@ -52,7 +52,12 @@ if [[ "$SKIP_FETCH" -eq 0 ]]; then
   echo "    This can take 1–2 hours for ~37k companies (rate-limited requests)."
   WARNTRACKER_COMPANY_LIMIT=0 "$DATA_ROOT/scripts/fetch-warntracker.sh" \
     --warn-slugs-only \
-    --limit 0
+    --limit 0 \
+    --skip-existing
+
+  echo ""
+  echo "==> [2b/3] Merge H-1B LCA counts into company browse pages"
+  python3 "$DATA_ROOT/scripts/fetch-warn-airtable.py" --merge-lca-only
 else
   echo "==> Skipping fetch (--skip-fetch)"
 fi
@@ -69,14 +74,25 @@ if [[ "$SKIP_DEPLOY" -eq 0 ]]; then
   DEPLOY_DIR="$(mktemp -d)"
   trap 'rm -rf "$DEPLOY_DIR"' EXIT
 
-  rsync -a --delete "$PUBLISH_DIR/" "$DEPLOY_DIR/"
+  rsync -a --delete \
+    --exclude='.gitignore' \
+    --exclude='.cache/' \
+    "$PUBLISH_DIR/" "$DEPLOY_DIR/"
 
   cd "$DEPLOY_DIR"
   git init -q
   git config user.name "Cutoffs Data Publish"
   git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
   git add -A
-  git commit -q -m "Deploy data $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+  if ! git diff --cached --quiet; then
+    git commit -q -m "Deploy data $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+  else
+    echo "Nothing to deploy (no file changes)." >&2
+    exit 1
+  fi
+
+  api_count="$(find api -type f 2>/dev/null | wc -l | tr -d ' ')"
+  echo "    Staged ${api_count} files under api/"
 
   REMOTE="https://x-access-token:${TOKEN}@github.com/${GITHUB_REPO}.git"
   git branch -M "$GITHUB_PAGES_BRANCH"

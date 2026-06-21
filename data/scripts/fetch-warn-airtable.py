@@ -12,7 +12,7 @@ import urllib.error
 import urllib.parse
 import urllib.request
 from collections import defaultdict
-from datetime import date, datetime, timezone
+from datetime import date, datetime, timedelta, timezone
 from http.cookiejar import CookieJar
 from pathlib import Path
 from typing import Any
@@ -36,8 +36,10 @@ TIMEZONE = os.environ.get("AIRTABLE_TIMEZONE", "America/Los_Angeles")
 
 BROWSE_PAGE_SIZE = 50
 RECENT_FEED_LIMIT = 100
+RECENT_WINDOW_DAYS = 30
 MAP_LIMIT = 500
 COMPANIES_PAGE_SIZE = 500
+COMPANIES_DIR = PUBLISH_ROOT / "api" / "companies"
 
 PROMO_MARKERS = (
     "warntracker.com/get-data",
@@ -320,6 +322,14 @@ def is_upcoming(effective_date: str | None) -> bool:
     return parsed > date.today()
 
 
+def is_recent_notice(notice_date: str | None, window_days: int = RECENT_WINDOW_DAYS) -> bool:
+    parsed = parse_warn_date(notice_date)
+    if not parsed:
+        return False
+    cutoff = date.today() - timedelta(days=window_days)
+    return parsed >= cutoff
+
+
 def write_json(path: Path, payload: Any) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(json.dumps(payload, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
@@ -364,7 +374,50 @@ def write_pages_index(summary: dict[str, Any]) -> None:
     log(f"Wrote {index_path.relative_to(DATA_ROOT)} ({index_path.stat().st_size:,} bytes)")
 
 
-def patch_summary(warn_count: int, company_count: int) -> None:
+def load_company_lca_overlay(slug: str) -> dict[str, Any]:
+    path = COMPANIES_DIR / f"{slug}.json"
+    if not path.is_file():
+        return {}
+
+    try:
+        profile = json.loads(path.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError):
+        return {}
+
+    top_states = profile.get("top_states") or []
+    top_titles = profile.get("top_titles") or []
+    return {
+        "lca_filing_count": int(profile.get("lca_filing_count") or 0),
+        "median_wage_usd": profile.get("median_wage_usd"),
+        "top_state": top_states[0]["state"] if top_states else None,
+        "top_job_title": top_titles[0]["title"] if top_titles else None,
+    }
+
+
+def apply_lca_overlay(row: dict[str, Any]) -> dict[str, Any]:
+    overlay = load_company_lca_overlay(row["slug"])
+    if not overlay:
+        return row
+
+    merged = dict(row)
+    lca_count = overlay.get("lca_filing_count") or 0
+    if lca_count > 0:
+        merged["lca_filing_count"] = lca_count
+    if overlay.get("median_wage_usd") is not None:
+        merged["median_wage_usd"] = overlay["median_wage_usd"]
+    if overlay.get("top_job_title"):
+        merged["top_job_title"] = overlay["top_job_title"]
+    if overlay.get("top_state") and not merged.get("top_state"):
+        merged["top_state"] = overlay["top_state"]
+    return merged
+
+
+def patch_summary(
+    warn_count: int,
+    company_count: int,
+    *,
+    total_lca_filings: int | None = None,
+) -> None:
     summary_path = PUBLISH_ROOT / "api" / "summary.json"
     if summary_path.is_file():
         summary = json.loads(summary_path.read_text(encoding="utf-8"))
@@ -374,8 +427,66 @@ def patch_summary(warn_count: int, company_count: int) -> None:
     totals = summary.setdefault("totals", {})
     totals["warn_notices"] = warn_count
     totals.setdefault("companies", company_count)
+    if total_lca_filings is not None and not totals.get("lca_filings"):
+        totals["lca_filings"] = total_lca_filings
     summary["generated_at"] = datetime.now(timezone.utc).isoformat()
     write_json(summary_path, summary)
+
+
+def merge_lca_into_company_pages() -> int:
+    """Patch existing companies-page-*.json from WARNTracker profile JSON."""
+    api_root = PUBLISH_ROOT / "api" / "marts"
+    index_path = api_root / "companies-index.json"
+    if not index_path.is_file():
+        raise SystemExit(f"Missing companies index: {index_path}")
+
+    index = json.loads(index_path.read_text(encoding="utf-8"))
+    page_count = int(index.get("page_count") or 0)
+    if page_count <= 0:
+        raise SystemExit("companies-index.json has no pages")
+
+    company_list: list[dict[str, Any]] = []
+    for page_num in range(1, page_count + 1):
+        page_path = api_root / f"companies-page-{page_num:03d}.json"
+        if not page_path.is_file():
+            raise SystemExit(f"Missing companies page: {page_path}")
+        page_rows = json.loads(page_path.read_text(encoding="utf-8"))
+        merged_rows = [apply_lca_overlay(row) for row in page_rows]
+        write_json(page_path, merged_rows)
+        company_list.extend(merged_rows)
+
+    total_lca_filings = sum(int(row.get("lca_filing_count") or 0) for row in company_list)
+    search_index = [
+        {
+            "slug": row["slug"],
+            "name": row["canonical_name"],
+            "lca_filing_count": row.get("lca_filing_count") or 0,
+        }
+        for row in company_list
+    ]
+    write_json(PUBLISH_ROOT / "api" / "search" / "index.min.json", search_index)
+
+    index["total_lca_filings"] = total_lca_filings
+    write_json(index_path, index)
+
+    warn_count = 0
+    summary_path = PUBLISH_ROOT / "api" / "summary.json"
+    if summary_path.is_file():
+        summary = json.loads(summary_path.read_text(encoding="utf-8"))
+        warn_count = int(summary.get("totals", {}).get("warn_notices") or 0)
+
+    patch_summary(
+        warn_count,
+        len(company_list),
+        total_lca_filings=total_lca_filings,
+    )
+
+    with_lca = sum(1 for row in company_list if int(row.get("lca_filing_count") or 0) > 0)
+    log(
+        f"Merged LCA overlays into {len(company_list):,} company rows "
+        f"({with_lca:,} with LCA data, {total_lca_filings:,} total filings)"
+    )
+    return total_lca_filings
 
 
 def build_marts(records: list[dict[str, Any]]) -> None:
@@ -395,14 +506,16 @@ def build_marts(records: list[dict[str, Any]]) -> None:
         ]
     )
 
-    sorted_recent = sorted(
-        layoff_rows,
+    upcoming_rows = [row for row in layoff_rows if is_upcoming(row["effective_date"])]
+    upcoming_rows.sort(key=lambda row: parse_warn_date(row["effective_date"]) or date.max)
+
+    past_rows = [row for row in layoff_rows if not is_upcoming(row["effective_date"])]
+    recent_past_rows = [row for row in past_rows if is_recent_notice(row["date"])]
+    sorted_recent_past = sorted(
+        recent_past_rows,
         key=lambda row: parse_warn_date(row["date"]) or date.min,
         reverse=True,
     )
-
-    upcoming_rows = [row for row in layoff_rows if is_upcoming(row["effective_date"])]
-    upcoming_rows.sort(key=lambda row: parse_warn_date(row["effective_date"]) or date.max)
 
     by_company: dict[str, dict[str, Any]] = defaultdict(
         lambda: {"notice_count": 0, "workers_affected": 0, "states": defaultdict(int)}
@@ -437,17 +550,20 @@ def build_marts(records: list[dict[str, Any]]) -> None:
         return max(states.items(), key=lambda item: item[1])[0]
 
     company_list = [
-        {
-            "slug": row["slug"],
-            "canonical_name": row["canonical_name"],
-            "lca_filing_count": 0,
-            "warn_notice_count": row["notice_count"],
-            "median_wage_usd": None,
-            "top_state": top_state(row["slug"]),
-            "top_job_title": None,
-        }
+        apply_lca_overlay(
+            {
+                "slug": row["slug"],
+                "canonical_name": row["canonical_name"],
+                "lca_filing_count": 0,
+                "warn_notice_count": row["notice_count"],
+                "median_wage_usd": None,
+                "top_state": top_state(row["slug"]),
+                "top_job_title": None,
+            }
+        )
         for row in warn_by_company
     ]
+    total_lca_filings = sum(int(row.get("lca_filing_count") or 0) for row in company_list)
     company_pages: list[list[dict[str, Any]]] = []
     for offset in range(0, len(company_list), COMPANIES_PAGE_SIZE):
         company_pages.append(company_list[offset : offset + COMPANIES_PAGE_SIZE])
@@ -456,25 +572,30 @@ def build_marts(records: list[dict[str, Any]]) -> None:
         {
             "slug": row["slug"],
             "name": row["canonical_name"],
-            "lca_filing_count": 0,
+            "lca_filing_count": row.get("lca_filing_count") or 0,
         }
-        for row in warn_by_company
+        for row in company_list
     ]
 
     layoffs_summary = {
         "total_filings": len(layoff_rows),
         "total_workers": sum(row["workers"] or 0 for row in layoff_rows),
         "total_companies": len(by_company),
+        "past_filings": len(past_rows),
+        "upcoming_filings": len(upcoming_rows),
+        "recent_30d_filings": len(recent_past_rows),
     }
 
     browse_pages: list[list[dict[str, Any]]] = []
-    for offset in range(0, len(sorted_recent), BROWSE_PAGE_SIZE):
-        browse_pages.append(sorted_recent[offset : offset + BROWSE_PAGE_SIZE])
+    for offset in range(0, len(sorted_recent_past), BROWSE_PAGE_SIZE):
+        browse_pages.append(sorted_recent_past[offset : offset + BROWSE_PAGE_SIZE])
 
     id_to_page: dict[str, int] = {}
     for page_num, page_rows in enumerate(browse_pages, start=1):
         for row in page_rows:
             id_to_page[row["id"]] = page_num
+    for row in upcoming_rows:
+        id_to_page[row["id"]] = 0
 
     api_root = PUBLISH_ROOT / "api" / "marts"
     write_json(CACHE_DIR / "warntracker-raw.json", records)
@@ -487,18 +608,19 @@ def build_marts(records: list[dict[str, Any]]) -> None:
             "total": len(company_list),
             "page_size": COMPANIES_PAGE_SIZE,
             "page_count": len(company_pages),
+            "total_lca_filings": total_lca_filings,
         },
     )
     for page_num, page_rows in enumerate(company_pages, start=1):
         write_json(api_root / f"companies-page-{page_num:03d}.json", page_rows)
     write_json(PUBLISH_ROOT / "api" / "search" / "index.min.json", search_index)
     write_json(api_root / "layoffs-summary.json", layoffs_summary)
-    write_json(api_root / "layoffs-recent-feed.json", sorted_recent[:RECENT_FEED_LIMIT])
-    write_json(api_root / "layoffs-map.json", sorted_recent[:MAP_LIMIT])
+    write_json(api_root / "layoffs-recent-feed.json", sorted_recent_past[:RECENT_FEED_LIMIT])
+    write_json(api_root / "layoffs-map.json", sorted_recent_past[:MAP_LIMIT])
     write_json(
         api_root / "layoffs-browse-index.json",
         {
-            "total": len(sorted_recent),
+            "total": len(sorted_recent_past),
             "page_size": BROWSE_PAGE_SIZE,
             "page_count": len(browse_pages),
         },
@@ -511,14 +633,18 @@ def build_marts(records: list[dict[str, Any]]) -> None:
             page_rows,
         )
 
-    patch_summary(len(records), len(warn_by_company))
+    patch_summary(
+        len(records),
+        len(warn_by_company),
+        total_lca_filings=total_lca_filings,
+    )
     summary = json.loads((PUBLISH_ROOT / "api" / "summary.json").read_text(encoding="utf-8"))
     write_pages_index(summary)
 
     log(
         f"Published {len(layoff_rows):,} layoffs "
-        f"({len(upcoming_rows):,} upcoming, {len(warn_by_company):,} companies, "
-        f"{len(browse_pages):,} browse pages)"
+        f"({len(upcoming_rows):,} upcoming, {len(recent_past_rows):,} recent 30d, "
+        f"{len(warn_by_company):,} companies, {len(browse_pages):,} browse pages)"
     )
 
 
@@ -549,7 +675,16 @@ def main() -> None:
         action="store_true",
         help="Scrape and normalize only; do not write publish artifacts.",
     )
+    parser.add_argument(
+        "--merge-lca-only",
+        action="store_true",
+        help="Merge H-1B LCA counts from api/companies/*.json into company pages (no scrape).",
+    )
     args = parser.parse_args()
+
+    if args.merge_lca_only:
+        merge_lca_into_company_pages()
+        return
 
     table = fetch_shared_view_table(args.embed_url)
 
