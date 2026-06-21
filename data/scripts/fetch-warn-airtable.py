@@ -325,6 +325,44 @@ def write_json(path: Path, payload: Any) -> None:
     log(f"Wrote {path.relative_to(DATA_ROOT)} ({path.stat().st_size:,} bytes)")
 
 
+def write_pages_index(summary: dict[str, Any]) -> None:
+    """GitHub Pages serves data/publish/ at the site root — add a landing page."""
+    totals = summary.get("totals", {})
+    generated = summary.get("generated_at", "unknown")
+    warn = totals.get("warn_notices", 0)
+    companies = totals.get("companies", 0)
+    html = f"""<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Cutoffs data CDN</title>
+  <style>
+    body {{ font-family: system-ui, sans-serif; max-width: 42rem; margin: 2rem auto; padding: 0 1rem; line-height: 1.5; }}
+    code {{ background: #f4f4f5; padding: 0.1rem 0.35rem; border-radius: 0.25rem; }}
+    ul {{ padding-left: 1.2rem; }}
+  </style>
+</head>
+<body>
+  <h1>Cutoffs data CDN</h1>
+  <p>Static JSON for the Cutoffs app. Generated <time>{generated}</time>.</p>
+  <p><strong>{warn:,}</strong> WARN notices · <strong>{companies:,}</strong> companies</p>
+  <h2>Endpoints</h2>
+  <ul>
+    <li><a href="api/summary.json"><code>api/summary.json</code></a></li>
+    <li><a href="api/marts/layoffs-summary.json"><code>api/marts/layoffs-summary.json</code></a></li>
+    <li><a href="api/marts/layoffs-recent-feed.json"><code>api/marts/layoffs-recent-feed.json</code></a></li>
+    <li><a href="api/marts/warn-layoffs.json"><code>api/marts/warn-layoffs.json</code></a> (full index)</li>
+  </ul>
+  <p>App config: <code>NEXT_PUBLIC_DATA_BASE_URL=https://netnuonline.github.io/cutoffsV2-data</code></p>
+</body>
+</html>
+"""
+    index_path = PUBLISH_ROOT / "index.html"
+    index_path.write_text(html, encoding="utf-8")
+    log(f"Wrote {index_path.relative_to(DATA_ROOT)} ({index_path.stat().st_size:,} bytes)")
+
+
 def patch_summary(warn_count: int, company_count: int) -> None:
     summary_path = PUBLISH_ROOT / "api" / "summary.json"
     if summary_path.is_file():
@@ -428,6 +466,8 @@ def build_marts(records: list[dict[str, Any]]) -> None:
         )
 
     patch_summary(len(records), len(warn_by_company))
+    summary = json.loads((PUBLISH_ROOT / "api" / "summary.json").read_text(encoding="utf-8"))
+    write_pages_index(summary)
 
     log(
         f"Published {len(layoff_rows):,} layoffs "
