@@ -2,6 +2,15 @@ name: Publish data to GitHub Pages
 
 on:
   workflow_dispatch:
+    inputs:
+      source:
+        description: "Data source"
+        required: true
+        default: gh-pages
+        type: choice
+        options:
+          - gh-pages
+          - fetch-warn
   schedule:
     - cron: "0 12 * * *"
   repository_dispatch:
@@ -24,21 +33,24 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event_name == 'workflow_dispatch' && inputs.source == 'fetch-warn' && 'main' || 'gh-pages' }}
 
       - uses: actions/setup-python@v5
+        if: github.event_name == 'workflow_dispatch' && inputs.source == 'fetch-warn'
         with:
           python-version: "3.12"
 
       - name: Fetch WARN marts
-        run: ./data/scripts/fetch-warn.sh
-
-      - name: Merge H-1B LCA counts into company pages
-        run: python3 ./data/scripts/fetch-warn-airtable.py --merge-lca-only
+        if: github.event_name != 'workflow_dispatch' || inputs.source == 'fetch-warn'
+        run: |
+          ./data/scripts/fetch-warn.sh
+          python3 ./data/scripts/fetch-warn-airtable.py --merge-lca-only
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: data/publish
+          path: ${{ github.event_name == 'workflow_dispatch' && inputs.source == 'fetch-warn' && 'data/publish' || '.' }}
 
       - name: Deploy to GitHub Pages
         id: deployment
