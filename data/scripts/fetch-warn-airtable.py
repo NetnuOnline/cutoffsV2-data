@@ -37,6 +37,7 @@ TIMEZONE = os.environ.get("AIRTABLE_TIMEZONE", "America/Los_Angeles")
 BROWSE_PAGE_SIZE = 50
 RECENT_FEED_LIMIT = 100
 MAP_LIMIT = 500
+COMPANIES_PAGE_SIZE = 500
 
 PROMO_MARKERS = (
     "warntracker.com/get-data",
@@ -404,13 +405,16 @@ def build_marts(records: list[dict[str, Any]]) -> None:
     upcoming_rows.sort(key=lambda row: parse_warn_date(row["effective_date"]) or date.max)
 
     by_company: dict[str, dict[str, Any]] = defaultdict(
-        lambda: {"notice_count": 0, "workers_affected": 0}
+        lambda: {"notice_count": 0, "workers_affected": 0, "states": defaultdict(int)}
     )
     for row in records:
         bucket = by_company[row["company_slug"]]
         bucket["canonical_name"] = row["company"]
         bucket["notice_count"] += 1
         bucket["workers_affected"] += row["workers"] or 0
+        region = row.get("region")
+        if region:
+            bucket["states"][region] += 1
 
     warn_by_company = [
         {
@@ -425,6 +429,37 @@ def build_marts(records: list[dict[str, Any]]) -> None:
         key=lambda row: (row["workers_affected"], row["notice_count"]),
         reverse=True,
     )
+
+    def top_state(slug: str) -> str | None:
+        states = by_company[slug]["states"]
+        if not states:
+            return None
+        return max(states.items(), key=lambda item: item[1])[0]
+
+    company_list = [
+        {
+            "slug": row["slug"],
+            "canonical_name": row["canonical_name"],
+            "lca_filing_count": 0,
+            "warn_notice_count": row["notice_count"],
+            "median_wage_usd": None,
+            "top_state": top_state(row["slug"]),
+            "top_job_title": None,
+        }
+        for row in warn_by_company
+    ]
+    company_pages: list[list[dict[str, Any]]] = []
+    for offset in range(0, len(company_list), COMPANIES_PAGE_SIZE):
+        company_pages.append(company_list[offset : offset + COMPANIES_PAGE_SIZE])
+
+    search_index = [
+        {
+            "slug": row["slug"],
+            "name": row["canonical_name"],
+            "lca_filing_count": 0,
+        }
+        for row in warn_by_company
+    ]
 
     layoffs_summary = {
         "total_filings": len(layoff_rows),
@@ -446,6 +481,17 @@ def build_marts(records: list[dict[str, Any]]) -> None:
     write_json(api_root / "warn-layoffs.json", layoff_rows)
     write_json(api_root / "upcoming-layoffs.json", upcoming_rows)
     write_json(api_root / "warn-by-company-top.json", warn_by_company)
+    write_json(
+        api_root / "companies-index.json",
+        {
+            "total": len(company_list),
+            "page_size": COMPANIES_PAGE_SIZE,
+            "page_count": len(company_pages),
+        },
+    )
+    for page_num, page_rows in enumerate(company_pages, start=1):
+        write_json(api_root / f"companies-page-{page_num:03d}.json", page_rows)
+    write_json(PUBLISH_ROOT / "api" / "search" / "index.min.json", search_index)
     write_json(api_root / "layoffs-summary.json", layoffs_summary)
     write_json(api_root / "layoffs-recent-feed.json", sorted_recent[:RECENT_FEED_LIMIT])
     write_json(api_root / "layoffs-map.json", sorted_recent[:MAP_LIMIT])
