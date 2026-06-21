@@ -31,18 +31,20 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
+    env:
+      USE_FETCH: ${{ github.event_name == 'schedule' || github.event_name == 'repository_dispatch' || (github.event_name == 'workflow_dispatch' && inputs.source == 'fetch-warn') }}
     steps:
       - uses: actions/checkout@v4
         with:
-          ref: ${{ github.event_name == 'workflow_dispatch' && inputs.source == 'fetch-warn' && 'main' || 'gh-pages' }}
+          ref: ${{ env.USE_FETCH == 'true' && 'main' || 'gh-pages' }}
 
       - uses: actions/setup-python@v5
-        if: github.event_name == 'workflow_dispatch' && inputs.source == 'fetch-warn'
+        if: env.USE_FETCH == 'true'
         with:
           python-version: "3.12"
 
       - name: Fetch WARN marts
-        if: github.event_name != 'workflow_dispatch' || inputs.source == 'fetch-warn'
+        if: env.USE_FETCH == 'true'
         run: |
           ./data/scripts/fetch-warn.sh
           python3 ./data/scripts/fetch-warn-airtable.py --merge-lca-only
@@ -50,7 +52,7 @@ jobs:
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ${{ github.event_name == 'workflow_dispatch' && inputs.source == 'fetch-warn' && 'data/publish' || '.' }}
+          path: ${{ env.USE_FETCH == 'true' && 'data/publish' || '.' }}
 
       - name: Deploy to GitHub Pages
         id: deployment
