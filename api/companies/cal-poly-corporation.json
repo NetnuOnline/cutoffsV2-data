@@ -1,0 +1,50 @@
+{
+  "slug": "cal-poly-corporation",
+  "canonical_name": "Cal Poly Corporation",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 3,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 3
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "04/26/2023",
+      "effective_date": "06/30/2023",
+      "state": "CA",
+      "workers": 149,
+      "city": "1 Grand Ave Building 19  San Luis Obispo CA 93407"
+    },
+    {
+      "date": "05/26/2020",
+      "effective_date": "05/30/2020",
+      "state": "CA",
+      "workers": 120,
+      "city": "San Luis Obispo"
+    },
+    {
+      "date": "04/03/2020",
+      "effective_date": "04/06/2020",
+      "state": "CA",
+      "workers": 2626,
+      "city": "San Luis Obispo"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "san-luis-obispo-county-wib",
+      "name": "San Luis Obispo County WIB",
+      "state": "CA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

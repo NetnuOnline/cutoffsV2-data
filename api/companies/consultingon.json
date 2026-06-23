@@ -1,0 +1,100 @@
+{
+  "slug": "consultingon",
+  "canonical_name": "CONSULTINGON INC",
+  "fein": null,
+  "lca_filing_count": 13,
+  "warn_notice_count": 0,
+  "median_wage_usd": 142300.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 9,
+      "median_wage_usd": 142320.0
+    },
+    {
+      "fy": 2023,
+      "filings": 4,
+      "median_wage_usd": 116650.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Software Associate",
+      "count": 4,
+      "median_wage_usd": 116650.0
+    },
+    {
+      "title": "Data engineer",
+      "count": 2,
+      "median_wage_usd": 142300.0
+    },
+    {
+      "title": "Salesforce Cloudcraze Developer",
+      "count": 1,
+      "median_wage_usd": 143200.0
+    },
+    {
+      "title": "SOLUTIONS ARCHITECT",
+      "count": 1,
+      "median_wage_usd": 112433.0
+    },
+    {
+      "title": "Mainframes",
+      "count": 1,
+      "median_wage_usd": 143400.0
+    },
+    {
+      "title": "Senior Software Developer",
+      "count": 1,
+      "median_wage_usd": 142320.0
+    },
+    {
+      "title": "Senior Consultant",
+      "count": 1,
+      "median_wage_usd": 143500.0
+    },
+    {
+      "title": "Oracle/Sql Dba",
+      "count": 1,
+      "median_wage_usd": 94800.0
+    },
+    {
+      "title": "ETL Informatica Developer",
+      "count": 1,
+      "median_wage_usd": 143500.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 9
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 4
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 9
+    },
+    {
+      "state": "NY",
+      "count": 4
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 13,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 142300.0,
+    "gap_usd": 12140.0
+  }
+}

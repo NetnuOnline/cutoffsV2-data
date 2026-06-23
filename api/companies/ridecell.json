@@ -1,0 +1,127 @@
+{
+  "slug": "ridecell",
+  "canonical_name": "Ridecell, Inc.",
+  "fein": "26-3425928",
+  "lca_filing_count": 19,
+  "lca_worker_positions": 19,
+  "warn_notice_count": 0,
+  "median_wage_usd": 175065.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 8,
+      "median_wage_usd": 150750.0
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 175065.0
+    },
+    {
+      "fy": 2022,
+      "filings": 3,
+      "median_wage_usd": 180000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 250000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 180000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 180000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 200000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Lead, Learned Driving Team",
+      "count": 3,
+      "median_wage_usd": 176550.0
+    },
+    {
+      "title": "Senior QA Engineer",
+      "count": 2,
+      "median_wage_usd": 140500.0
+    },
+    {
+      "title": "ENGINEERING MANAGER",
+      "count": 2,
+      "median_wage_usd": 183500.0
+    },
+    {
+      "title": "Principal Product Manager",
+      "count": 1,
+      "median_wage_usd": 250000.0
+    },
+    {
+      "title": "SOFTWARE DEVELOPMENT ENGINEER IN TEST",
+      "count": 1,
+      "median_wage_usd": 117000.0
+    },
+    {
+      "title": "Principal Technical Product Manager",
+      "count": 1,
+      "median_wage_usd": 200000.0
+    },
+    {
+      "title": "Senior Perception Engineer - Lidar",
+      "count": 1,
+      "median_wage_usd": 205000.0
+    },
+    {
+      "title": "SENIOR BACKEND ENGINEER",
+      "count": 1,
+      "median_wage_usd": 153000.0
+    },
+    {
+      "title": "SENIOR TECHNICAL PRODUCT MANAGER, CARSHARING",
+      "count": 1,
+      "median_wage_usd": 162000.0
+    },
+    {
+      "title": "SYSTEMS ARCHITECT",
+      "count": 1,
+      "median_wage_usd": 180000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 12
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 4
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 19
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3021",
+    "soc_title": "Computer and Information Systems Managers",
+    "market_median_usd": 169510.0,
+    "employer_median_usd": 175065.0,
+    "gap_usd": 5555.0
+  }
+}

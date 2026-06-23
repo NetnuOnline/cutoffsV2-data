@@ -1,0 +1,132 @@
+{
+  "slug": "ingevity-corporation",
+  "canonical_name": "Ingevity Corporation",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 6,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "LA",
+      "count": 6
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "11/01/2023",
+      "effective_date": "12/31/2025",
+      "state": "LA",
+      "workers": 2,
+      "city": "Deridder"
+    },
+    {
+      "date": "11/01/2023",
+      "effective_date": "02/26/2025",
+      "state": "LA",
+      "workers": 0,
+      "city": "Deridder"
+    },
+    {
+      "date": "11/01/2023",
+      "effective_date": "05/05/2024",
+      "state": "LA",
+      "workers": 0,
+      "city": "Deridder"
+    },
+    {
+      "date": "11/01/2023",
+      "effective_date": "03/04/2024",
+      "state": "LA",
+      "workers": 0,
+      "city": "Deridder"
+    },
+    {
+      "date": "11/01/2023",
+      "effective_date": "02/05/2024",
+      "state": "LA",
+      "workers": 0,
+      "city": "Deridder"
+    },
+    {
+      "date": "11/01/2023",
+      "effective_date": "11/01/2023",
+      "state": "LA",
+      "workers": 182,
+      "city": "Deridder"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "calcasieu-parish-consortium-wia",
+      "name": "Calcasieu Parish Consortium WIA",
+      "state": "LA"
+    }
+  ],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2025-05-01",
+        "formType": "8-K",
+        "accessionNumber": "0001653477-25-000058",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001653477&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2024-07-31",
+        "formType": "8-K",
+        "accessionNumber": "0001653477-24-000078",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001653477&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2023-11-01",
+        "formType": "8-K",
+        "accessionNumber": "0001653477-23-000053",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001653477&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2016-11-03",
+        "formType": "8-K",
+        "accessionNumber": "0001653477-16-000086",
+        "items": [
+          "2.05",
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities",
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001653477&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 4,
+    "itemCounts": {
+      "5.02": 1,
+      "2.05": 3,
+      "2.06": 1
+    },
+    "latestFilingDate": "2025-05-01",
+    "earliestFilingDate": "2016-11-03"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

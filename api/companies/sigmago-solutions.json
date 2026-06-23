@@ -1,0 +1,79 @@
+{
+  "slug": "sigmago-solutions",
+  "canonical_name": "Sigmago Solutions Inc",
+  "fein": "87-1646742",
+  "lca_filing_count": 7,
+  "warn_notice_count": 0,
+  "median_wage_usd": 101421.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 101192.0
+    },
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 103210.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 101670.5
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 4,
+      "median_wage_usd": 101306.5
+    },
+    {
+      "title": "Software Developer",
+      "count": 3,
+      "median_wage_usd": 101920.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 5
+    },
+    {
+      "state": "MD",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 7,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 101306.5,
+    "gap_usd": -28853.5
+  }
+}

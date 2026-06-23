@@ -1,0 +1,108 @@
+{
+  "slug": "symplore",
+  "canonical_name": "Symplore Inc",
+  "fein": "99-2698869",
+  "lca_filing_count": 6,
+  "lca_worker_positions": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 81713.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 71510.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 109283.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 87474.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 79373.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 1,
+      "median_wage_usd": 90896.0
+    },
+    {
+      "title": "DATA ENGINEER",
+      "count": 1,
+      "median_wage_usd": 60000.0
+    },
+    {
+      "title": ".Net Developer",
+      "count": 1,
+      "median_wage_usd": 109283.0
+    },
+    {
+      "title": "Systems Engineer",
+      "count": 1,
+      "median_wage_usd": 71510.0
+    },
+    {
+      "title": "Software Development Engineer",
+      "count": 1,
+      "median_wage_usd": 84053.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NJ",
+      "county": "HUDSON",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "county": "OAKLAND",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MI",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 87474.5,
+    "gap_usd": -42685.5
+  }
+}

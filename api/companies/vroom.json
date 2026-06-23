@@ -1,0 +1,242 @@
+{
+  "slug": "vroom",
+  "canonical_name": "Vroom, Inc.",
+  "fein": null,
+  "lca_filing_count": 5,
+  "warn_notice_count": 2,
+  "median_wage_usd": 125000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 95160.0
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 127500.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 192500.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Supply Chain Analytics Analyst",
+      "count": 1,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "title": "Senior Supply Chain Analyst, Advanced Analytics",
+      "count": 1,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 1,
+      "median_wage_usd": 192500.0
+    },
+    {
+      "title": "Software Engineer \u00f1 Front End\t",
+      "count": 1,
+      "median_wage_usd": 95160.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MI",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "count": 1
+    },
+    {
+      "state": "AZ",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MI",
+      "county": "WAYNE",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "county": "CAMBRIDGE CITY",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "county": "DEKALB",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 1
+    },
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "01/25/2024",
+      "effective_date": "03/23/2024",
+      "state": "TX",
+      "workers": 283,
+      "city": "Stafford"
+    },
+    {
+      "date": "04/14/2020",
+      "effective_date": "05/03/2020",
+      "state": "TX",
+      "workers": 59,
+      "city": "Stafford"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2024-03-13",
+        "formType": "8-K/A",
+        "accessionNumber": "0000950170-24-030786",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001580864&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2024-01-22",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-24-012173",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001580864&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2022-05-26",
+        "formType": "8-K",
+        "accessionNumber": "0000950170-22-010761",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001580864&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 3,
+    "itemCounts": {
+      "2.05": 2,
+      "5.02": 1
+    },
+    "latestFilingDate": "2024-03-13",
+    "earliestFilingDate": "2022-05-26"
+  },
+  "bankruptcy_data": {
+    "filings": [
+      {
+        "filingDate": "2025-01-15",
+        "formType": "8-K",
+        "accessionNumber": "0000950170-25-005647",
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001580864&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2024-11-13",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-24-256669",
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001580864&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 2,
+    "latestFilingDate": "2025-01-15",
+    "earliestFilingDate": "2024-11-13"
+  },
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 5,
+    "initial_denials": 0,
+    "continuing_approvals": 10,
+    "continuing_denials": 1,
+    "total_approvals": 15,
+    "by_fy": [
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 4,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 6
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 4
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 5,
+        "continuing_denials": 1,
+        "total_approvals": 5
+      }
+    ]
+  },
+  "lca_worker_positions": 5,
+  "top_socs": [],
+  "lca_periods": []
+}

@@ -1,0 +1,107 @@
+{
+  "slug": "vitol",
+  "canonical_name": "Vitol, Inc.",
+  "fein": "20-5733288",
+  "lca_filing_count": 9,
+  "lca_worker_positions": 9,
+  "warn_notice_count": 0,
+  "median_wage_usd": 130000.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 101077.5
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 127500.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 167000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 147000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Customs Compliance Analyst 8621828",
+      "count": 1,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "title": "Trade Settlements Analyst 6771476",
+      "count": 1,
+      "median_wage_usd": 72155.0
+    },
+    {
+      "title": "Applications Developer 6771389",
+      "count": 1,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Desk Applications Developer 9928749",
+      "count": 1,
+      "median_wage_usd": 147000.0
+    },
+    {
+      "title": "Database Administrator 9700652",
+      "count": 1,
+      "median_wage_usd": 174000.0
+    },
+    {
+      "title": "Data Feeds Developer 9725030",
+      "count": 1,
+      "median_wage_usd": 160000.0
+    },
+    {
+      "title": "Python Developer 8542377",
+      "count": 1,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "title": "Deal Accountant",
+      "count": 1,
+      "median_wage_usd": 95000.0
+    },
+    {
+      "title": "Python Developer",
+      "count": 1,
+      "median_wage_usd": 105000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 6
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 9
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 147000.0,
+    "gap_usd": 16840.0
+  }
+}

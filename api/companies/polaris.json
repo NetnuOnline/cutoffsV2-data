@@ -1,0 +1,152 @@
+{
+  "slug": "polaris",
+  "canonical_name": "Polaris Inc.",
+  "fein": "41-1857431",
+  "lca_filing_count": 3,
+  "warn_notice_count": 2,
+  "median_wage_usd": 113485.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 113485.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 111649.07500000001
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Supplier Quality Engineer",
+      "count": 1,
+      "median_wage_usd": 95248.55
+    },
+    {
+      "title": "Senior Design Engineer",
+      "count": 1,
+      "median_wage_usd": 113485.0
+    },
+    {
+      "title": "Engineer, IT Data Sr.",
+      "count": 1,
+      "median_wage_usd": 128049.6
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MN",
+      "count": 3
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MN",
+      "county": "CHISAGO",
+      "count": 2
+    },
+    {
+      "state": "MN",
+      "county": "HENNEPIN",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "04/21/2026",
+      "effective_date": "07/27/2026",
+      "state": "WI",
+      "workers": 189,
+      "city": "Osceola"
+    },
+    {
+      "date": "04/25/2017",
+      "effective_date": "07/01/2017",
+      "state": "IA",
+      "workers": 275,
+      "city": "Milford"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "region-3-4-spencer-wib",
+      "name": "Region 3 & 4 - Spencer WIB",
+      "state": "IA"
+    }
+  ],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2025-10-14",
+        "formType": "8-K",
+        "accessionNumber": "0001628280-25-044839",
+        "items": [
+          "2.06",
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Material Impairments",
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000931015&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2022-06-16",
+        "formType": "8-K",
+        "accessionNumber": "0001628280-22-017368",
+        "items": [
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000931015&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2010-05-21",
+        "formType": "8-K",
+        "accessionNumber": "0001157523-10-003324",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000931015&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2004-09-02",
+        "formType": "8-K",
+        "accessionNumber": "0000950134-04-013126",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000931015&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 4,
+    "itemCounts": {
+      "2.06": 2,
+      "5.02": 1,
+      "2.05": 2
+    },
+    "latestFilingDate": "2025-10-14",
+    "earliestFilingDate": "2004-09-02"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Business Intelligence Analysts",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 128049.6,
+    "gap_usd": 20029.6
+  }
+}

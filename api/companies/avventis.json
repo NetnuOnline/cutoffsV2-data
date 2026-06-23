@@ -1,0 +1,203 @@
+{
+  "slug": "avventis",
+  "canonical_name": "Avventis, Inc.",
+  "fein": "45-0920077",
+  "lca_filing_count": 34,
+  "lca_worker_positions": 33,
+  "warn_notice_count": 0,
+  "median_wage_usd": 105000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 5,
+      "median_wage_usd": 90000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 4,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 10,
+      "median_wage_usd": 100750.0
+    },
+    {
+      "fy": 2023,
+      "filings": 8,
+      "median_wage_usd": 103000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 107000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 4,
+      "median_wage_usd": 121461.5
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 120000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "IT Consultant (SAP)",
+      "count": 13,
+      "median_wage_usd": 112923.0
+    },
+    {
+      "title": "IT Consultant",
+      "count": 4,
+      "median_wage_usd": 100938.4
+    },
+    {
+      "title": "IT CONSULTANT (SAP)",
+      "count": 3,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "IT CONSULTANT (VIM BCC)",
+      "count": 2,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "IT Consultant (SQL)",
+      "count": 2,
+      "median_wage_usd": 101750.0
+    },
+    {
+      "title": "IT Consultant (SAP ABAP)",
+      "count": 1,
+      "median_wage_usd": 107000.0
+    },
+    {
+      "title": "IT Consultant (Salesforce)",
+      "count": 1,
+      "median_wage_usd": 103000.0
+    },
+    {
+      "title": "Salesforce IT Consultant",
+      "count": 1,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "IT Consultant (SAP BRIM/RAR)",
+      "count": 1,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Accountant",
+      "count": 1,
+      "median_wage_usd": 83000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 4
+    },
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "county": "FORT BEND",
+      "count": 3
+    },
+    {
+      "state": "GA",
+      "county": "FORSYTH",
+      "count": 3
+    },
+    {
+      "state": "NC",
+      "county": "CABARRUS",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "county": "HUDSON",
+      "count": 2
+    },
+    {
+      "state": "PA",
+      "county": "DELAWARE",
+      "count": 1
+    },
+    {
+      "state": "OR",
+      "county": "WASHINGTON",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "county": "PASCO",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 11
+    },
+    {
+      "state": "WA",
+      "count": 4
+    },
+    {
+      "state": "GA",
+      "count": 4
+    },
+    {
+      "state": "NJ",
+      "count": 3
+    },
+    {
+      "state": "PA",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "count": 2
+    },
+    {
+      "state": "NC",
+      "count": 2
+    },
+    {
+      "state": "OR",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 105000.0,
+    "gap_usd": -25160.0
+  }
+}

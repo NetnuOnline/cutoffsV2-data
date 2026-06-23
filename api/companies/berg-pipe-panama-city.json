@@ -1,0 +1,92 @@
+{
+  "slug": "berg-pipe-panama-city",
+  "canonical_name": "Berg Pipe Panama City Corp",
+  "fein": "26-3090236",
+  "lca_filing_count": 3,
+  "warn_notice_count": 1,
+  "median_wage_usd": 101783.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 82624.56
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 101783.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Quality Control Manager",
+      "count": 2,
+      "median_wage_usd": 101783.0
+    },
+    {
+      "title": "Technical Services Manager",
+      "count": 1,
+      "median_wage_usd": 82624.56
+    }
+  ],
+  "top_states": [
+    {
+      "state": "FL",
+      "count": 3
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "FL",
+      "county": "BAY",
+      "count": 3
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "01/11/2021",
+      "effective_date": "02/27/2021",
+      "state": "FL",
+      "workers": 87,
+      "city": "PANAMA CITY"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "careersource-gulf-coast",
+      "name": "CareerSource Gulf Coast",
+      "state": "FL"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 2,
+    "continuing_denials": 0,
+    "total_approvals": 2,
+    "by_fy": [
+      {
+        "fy": 2020,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": []
+}

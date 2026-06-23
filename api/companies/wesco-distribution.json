@@ -1,0 +1,127 @@
+{
+  "slug": "wesco-distribution",
+  "canonical_name": "Wesco Distribution, Inc.",
+  "fein": "25-1723345",
+  "lca_filing_count": 9,
+  "lca_worker_positions": 9,
+  "warn_notice_count": 0,
+  "median_wage_usd": 150000.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 127000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 6,
+      "median_wage_usd": 148702.965
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 168096.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Manager - IT",
+      "count": 2,
+      "median_wage_usd": 169048.0
+    },
+    {
+      "title": "Manager - Master Data Governance",
+      "count": 1,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Senior Architect - Development",
+      "count": 1,
+      "median_wage_usd": 153495.93
+    },
+    {
+      "title": "Architect - Development",
+      "count": 1,
+      "median_wage_usd": 127000.0
+    },
+    {
+      "title": "Technology Lead - IT",
+      "count": 1,
+      "median_wage_usd": 127275.0
+    },
+    {
+      "title": "Architect \u201c Development",
+      "count": 1,
+      "median_wage_usd": 143910.0
+    },
+    {
+      "title": "Manager - IT",
+      "count": 1,
+      "median_wage_usd": 157500.0
+    },
+    {
+      "title": "Coach.DevSecOps",
+      "count": 1,
+      "median_wage_usd": 150000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "VA",
+      "county": "HANOVER",
+      "count": 1
+    },
+    {
+      "state": "OH",
+      "county": "CLERMONT",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "county": "ALLEGHENY",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "PA",
+      "count": 3
+    },
+    {
+      "state": "OH",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 150000.0,
+    "gap_usd": 19840.0
+  }
+}

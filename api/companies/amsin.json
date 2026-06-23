@@ -1,0 +1,122 @@
+{
+  "slug": "amsin",
+  "canonical_name": "Amsin LLC",
+  "fein": "87-1226510",
+  "lca_filing_count": 12,
+  "lca_worker_positions": 12,
+  "warn_notice_count": 0,
+  "median_wage_usd": 90048.5,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 4,
+      "median_wage_usd": 78757.0
+    },
+    {
+      "fy": 2025,
+      "filings": 5,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 108160.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Sr. Software Developer",
+      "count": 3,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "Software Developer ",
+      "count": 2,
+      "median_wage_usd": 78757.0
+    },
+    {
+      "title": "Salesforce Consultant",
+      "count": 1,
+      "median_wage_usd": 108160.0
+    },
+    {
+      "title": "Full Stack Software Engineer",
+      "count": 1,
+      "median_wage_usd": 131040.0
+    },
+    {
+      "title": "Full Stack Software Engineer 2",
+      "count": 1,
+      "median_wage_usd": 131040.0
+    },
+    {
+      "title": "Technical Business Analyst",
+      "count": 1,
+      "median_wage_usd": 65000.0
+    },
+    {
+      "title": "Workplace Technology Coordinator",
+      "count": 1,
+      "median_wage_usd": 63960.0
+    },
+    {
+      "title": "Network Administrator/Engineer",
+      "count": 1,
+      "median_wage_usd": 99840.0
+    },
+    {
+      "title": "Technical Architect",
+      "count": 1,
+      "median_wage_usd": 77257.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "FL",
+      "county": "BROWARD",
+      "count": 3
+    },
+    {
+      "state": "FL",
+      "county": "MIAMI-DADE  (OLD DEF)",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "FL",
+      "count": 6
+    },
+    {
+      "state": "VA",
+      "count": 2
+    },
+    {
+      "state": "IA",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 108160.0,
+    "gap_usd": -22000.0
+  }
+}

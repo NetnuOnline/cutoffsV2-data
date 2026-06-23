@@ -1,0 +1,138 @@
+{
+  "slug": "webster-bank",
+  "canonical_name": "Webster Bank",
+  "fein": "06-0273620",
+  "lca_filing_count": 12,
+  "lca_worker_positions": 12,
+  "warn_notice_count": 0,
+  "median_wage_usd": 142373.75,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 156000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 4,
+      "median_wage_usd": 133100.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 195000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 5,
+      "median_wage_usd": 126000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Director, Data Engineer",
+      "count": 2,
+      "median_wage_usd": 144500.0
+    },
+    {
+      "title": "Director, AI Engineer",
+      "count": 1,
+      "median_wage_usd": 126000.0
+    },
+    {
+      "title": "Managing Director, Credit Analytics",
+      "count": 1,
+      "median_wage_usd": 177500.0
+    },
+    {
+      "title": "MANAGING DIRECTOR - SERVICE DELIVERY",
+      "count": 1,
+      "median_wage_usd": 156000.0
+    },
+    {
+      "title": "Director InterSYNC Insured Sweep Technology",
+      "count": 1,
+      "median_wage_usd": 140247.5
+    },
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 121700.0
+    },
+    {
+      "title": "Business Systems Analyst",
+      "count": 1,
+      "median_wage_usd": 118900.0
+    },
+    {
+      "title": "Manager Software Engineering",
+      "count": 1,
+      "median_wage_usd": 121700.0
+    },
+    {
+      "title": "Managing Director \u201c Service Delivery",
+      "count": 1,
+      "median_wage_usd": 195000.0
+    },
+    {
+      "title": "Managing Director Data Architecture",
+      "count": 1,
+      "median_wage_usd": 195000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "WESTCHESTER",
+      "count": 2
+    },
+    {
+      "state": "CT",
+      "county": "NEW BRITAIN CITY",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "county": "WAKE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CT",
+      "count": 4
+    },
+    {
+      "state": "NC",
+      "count": 3
+    },
+    {
+      "state": "NY",
+      "count": 3
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3021",
+    "soc_title": "Computer and Information Systems Managers",
+    "market_median_usd": 169510.0,
+    "employer_median_usd": 186250.0,
+    "gap_usd": 16740.0
+  }
+}

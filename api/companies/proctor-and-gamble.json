@@ -1,0 +1,47 @@
+{
+  "slug": "proctor-and-gamble",
+  "canonical_name": "Proctor And Gamble",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "01/11/2013",
+      "effective_date": "01/11/2013",
+      "state": "GA",
+      "workers": 130,
+      "city": "Augusta"
+    },
+    {
+      "date": "12/15/2008",
+      "effective_date": "01/01/2009",
+      "state": "NY",
+      "workers": 0,
+      "city": "Norwich"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "richmondburke-wib",
+      "name": "Richmond/Burke WIB",
+      "state": "GA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

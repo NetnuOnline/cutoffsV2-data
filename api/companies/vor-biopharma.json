@@ -1,0 +1,144 @@
+{
+  "slug": "vor-biopharma",
+  "canonical_name": "Vor Biopharma Inc.",
+  "fein": "81-1591163",
+  "lca_filing_count": 5,
+  "warn_notice_count": 1,
+  "median_wage_usd": 87500.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 85000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 90500.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 100000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Lead Manufacturing Specialist (Medical Researcher)",
+      "count": 1,
+      "median_wage_usd": 112500.0
+    },
+    {
+      "title": "Senior Associate Scientist",
+      "count": 1,
+      "median_wage_usd": 85000.0
+    },
+    {
+      "title": "Manufacturing Specialist II",
+      "count": 1,
+      "median_wage_usd": 87500.0
+    },
+    {
+      "title": "Associate Scientist",
+      "count": 1,
+      "median_wage_usd": 81000.0
+    },
+    {
+      "title": "Senior Quality Assurance Specialist, Vendor Operations",
+      "count": 1,
+      "median_wage_usd": 100000.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MA",
+      "count": 5
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MA",
+      "county": "CAMBRIDGE CITY",
+      "count": 5
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "05/28/2025",
+      "effective_date": "05/08/2025",
+      "state": "MA",
+      "workers": 155,
+      "city": "Cambridge"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "north-central-wia-ma",
+      "name": "North Central WIA",
+      "state": "MA"
+    }
+  ],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2025-05-08",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-25-115554",
+        "items": [
+          "2.05",
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities",
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001817229&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 1,
+    "itemCounts": {
+      "2.05": 1,
+      "5.02": 1
+    },
+    "latestFilingDate": "2025-05-08",
+    "earliestFilingDate": "2025-05-08"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 9,
+    "initial_denials": 0,
+    "continuing_approvals": 13,
+    "continuing_denials": 0,
+    "total_approvals": 22,
+    "by_fy": [
+      {
+        "fy": 2021,
+        "initial_approvals": 4,
+        "initial_denials": 0,
+        "continuing_approvals": 6,
+        "continuing_denials": 0,
+        "total_approvals": 10
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 5,
+        "initial_denials": 0,
+        "continuing_approvals": 4,
+        "continuing_denials": 0,
+        "total_approvals": 9
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      }
+    ]
+  },
+  "lca_worker_positions": 5,
+  "top_socs": [],
+  "lca_periods": []
+}

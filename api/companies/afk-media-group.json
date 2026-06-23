@@ -1,0 +1,46 @@
+{
+  "slug": "afk-media-group",
+  "canonical_name": "AFK MEDIA GROUP CORP",
+  "fein": "46-2021595",
+  "lca_filing_count": 2,
+  "lca_worker_positions": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 68473.6,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 68473.6
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 68473.6,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Business Data Analyst",
+      "count": 2,
+      "median_wage_usd": 68473.6
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "FL",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 68473.6,
+    "gap_usd": -39546.4
+  }
+}

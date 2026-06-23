@@ -1,0 +1,46 @@
+{
+  "slug": "epar",
+  "canonical_name": "ePAR LLC",
+  "fein": "45-1604941",
+  "lca_filing_count": 1,
+  "warn_notice_count": 0,
+  "median_wage_usd": 147000.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 147000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Sr. Java Application Developer / System Architect",
+      "count": 1,
+      "median_wage_usd": 147000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NE",
+      "county": "DOUGLAS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NE",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 1,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 147000.0,
+    "gap_usd": 16840.0
+  }
+}

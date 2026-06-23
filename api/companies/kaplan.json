@@ -1,0 +1,244 @@
+{
+  "slug": "kaplan",
+  "canonical_name": "Kaplan, Inc.",
+  "fein": null,
+  "lca_filing_count": 6,
+  "warn_notice_count": 5,
+  "median_wage_usd": 135000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 122763.0
+    },
+    {
+      "fy": 2021,
+      "filings": 4,
+      "median_wage_usd": 135000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Principal Data Engineer",
+      "count": 1,
+      "median_wage_usd": 102000.0
+    },
+    {
+      "title": "QA Automation Engineer",
+      "count": 1,
+      "median_wage_usd": 100526.0
+    },
+    {
+      "title": "Director of Engineering",
+      "count": 1,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "title": "Head of Product Innovation, Retail",
+      "count": 1,
+      "median_wage_usd": 161866.0
+    },
+    {
+      "title": "Director of Engineering, QA",
+      "count": 1,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Director, Data Architecture",
+      "count": 1,
+      "median_wage_usd": 145000.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 4
+    },
+    {
+      "state": "NY",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NJ",
+      "county": "MIDDLESEX",
+      "count": 3
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "county": "WINCHESTER",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "county": "HUDSON",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "09/01/2015",
+      "effective_date": "09/01/2015",
+      "state": "GA",
+      "workers": 77,
+      "city": "Alpharetta"
+    },
+    {
+      "date": "02/06/2013",
+      "effective_date": "02/06/2013",
+      "state": "NY",
+      "workers": 0,
+      "city": "New York"
+    },
+    {
+      "date": "05/08/2009",
+      "effective_date": "08/03/2009",
+      "state": "NY",
+      "workers": 0,
+      "city": "888 Seventh Avenue  New York, NY, 10106"
+    },
+    {
+      "date": "01/30/2008",
+      "effective_date": "04/01/2008",
+      "state": "IL",
+      "workers": 150,
+      "city": "Chicago"
+    },
+    {
+      "date": "12/29/2005",
+      "effective_date": "12/29/2005",
+      "state": "GA",
+      "workers": 20,
+      "city": "Atlanta"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 4,
+    "initial_denials": 0,
+    "continuing_approvals": 50,
+    "continuing_denials": 0,
+    "total_approvals": 54,
+    "by_fy": [
+      {
+        "fy": 2009,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2011,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2012,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2013,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2014,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2016,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2017,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 36,
+        "continuing_denials": 0,
+        "total_approvals": 38
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 11,
+        "continuing_denials": 0,
+        "total_approvals": 13
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      }
+    ]
+  },
+  "lca_worker_positions": 6,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3021",
+    "soc_title": "Computer and Information Systems Managers",
+    "market_median_usd": 169510.0,
+    "employer_median_usd": 140000.0,
+    "gap_usd": -29510.0
+  }
+}

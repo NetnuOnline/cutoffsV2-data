@@ -1,0 +1,167 @@
+{
+  "slug": "merastar-insurance-company",
+  "canonical_name": "Merastar Insurance Company",
+  "fein": "62-0928337",
+  "lca_filing_count": 24,
+  "lca_worker_positions": 24,
+  "warn_notice_count": 0,
+  "median_wage_usd": 122681.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 110250.5
+    },
+    {
+      "fy": 2022,
+      "filings": 8,
+      "median_wage_usd": 110906.0
+    },
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 129314.0
+    },
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 140317.0
+    },
+    {
+      "fy": 2025,
+      "filings": 6,
+      "median_wage_usd": 128696.5
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 131344.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Developer 4, Systems Software",
+      "count": 6,
+      "median_wage_usd": 118001.0
+    },
+    {
+      "title": "Developer 5, Systems Software",
+      "count": 4,
+      "median_wage_usd": 136163.0
+    },
+    {
+      "title": "Architect 5, IT Systems",
+      "count": 2,
+      "median_wage_usd": 125621.5
+    },
+    {
+      "title": "Developer 3, Systems Software",
+      "count": 2,
+      "median_wage_usd": 92283.0
+    },
+    {
+      "title": "Developer 4, Systems Software ",
+      "count": 1,
+      "median_wage_usd": 114224.0
+    },
+    {
+      "title": "Director, IT",
+      "count": 1,
+      "median_wage_usd": 147396.0
+    },
+    {
+      "title": "Sr. Manager, Enterprise Risk Mgmt.",
+      "count": 1,
+      "median_wage_usd": 138632.0
+    },
+    {
+      "title": "Senior Data Engineer",
+      "count": 1,
+      "median_wage_usd": 121306.0
+    },
+    {
+      "title": "Sr Manager, Risk Analytics",
+      "count": 1,
+      "median_wage_usd": 105465.0
+    },
+    {
+      "title": "Sr. Manager, IT",
+      "count": 1,
+      "median_wage_usd": 116563.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "FL",
+      "county": "DUVAL",
+      "count": 8
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 4
+    },
+    {
+      "state": "IL",
+      "county": "DUPAGE",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "county": "ST JOHNS",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "HIDALGO",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "FL",
+      "count": 12
+    },
+    {
+      "state": "IL",
+      "count": 6
+    },
+    {
+      "state": "TX",
+      "count": 3
+    },
+    {
+      "state": "GA",
+      "count": 1
+    },
+    {
+      "state": "AL",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 129314.0,
+    "gap_usd": -846.0
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "slug": "revvity",
+  "canonical_name": "REVVITY, INC.",
+  "fein": "04-2052042",
+  "lca_filing_count": 4,
+  "warn_notice_count": 5,
+  "median_wage_usd": 157394.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 4,
+      "median_wage_usd": 157394.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Sr. Director, Global Operations Integration & Inventory Mgmt",
+      "count": 2,
+      "median_wage_usd": 157394.0
+    },
+    {
+      "title": "Manager, Global IT Cloud Operations",
+      "count": 1,
+      "median_wage_usd": 151923.0
+    },
+    {
+      "title": "Director IT - Ecommerce Solutions",
+      "count": 1,
+      "median_wage_usd": 206190.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MA",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MA",
+      "county": "WALTHAM CITY",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "county": "BURLINGTON",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "03/24/2026",
+      "effective_date": "06/01/2026",
+      "state": "MA",
+      "workers": 29,
+      "city": "Boston, MA"
+    },
+    {
+      "date": "12/01/2025",
+      "effective_date": "12/09/2025",
+      "state": "MA",
+      "workers": 52,
+      "city": "Lawrence, MA"
+    },
+    {
+      "date": "10/08/2025",
+      "effective_date": "01/01/2026",
+      "state": "MA",
+      "workers": 51,
+      "city": "Lawrence, MA"
+    },
+    {
+      "date": "10/03/2025",
+      "effective_date": "11/01/2025",
+      "state": "MA",
+      "workers": 76,
+      "city": "Boston, MA"
+    },
+    {
+      "date": "09/10/2025",
+      "effective_date": "11/01/2025",
+      "state": "MA",
+      "workers": 74,
+      "city": "Boston, MA"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "lower-merrimack-valley-wia",
+      "name": "Lower Merrimack Valley WIA",
+      "state": "MA"
+    },
+    {
+      "slug": "metro-north-wia",
+      "name": "Metro North WIA",
+      "state": "MA"
+    }
+  ],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2006-12-22",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-06-259170",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000031791&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2005-07-08",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-05-139726",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000031791&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 2,
+    "itemCounts": {
+      "5.02": 1,
+      "2.05": 1
+    },
+    "latestFilingDate": "2006-12-22",
+    "earliestFilingDate": "2005-07-08"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": []
+}

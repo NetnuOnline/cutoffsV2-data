@@ -1,0 +1,78 @@
+{
+  "slug": "siemens-gamesa",
+  "canonical_name": "SIEMENS GAMESA RENEWABLE ENERGY, LLC",
+  "fein": null,
+  "lca_filing_count": 2,
+  "warn_notice_count": 4,
+  "median_wage_usd": 106149,
+  "by_fy": [
+    {
+      "fy": 2026,
+      "filings": 0,
+      "median_wage_usd": null
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "System Engineer and Project Manager - SCADA",
+      "count": 0,
+      "median_wage_usd": null
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IA",
+      "count": 3
+    },
+    {
+      "state": "KS",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "05/20/2022",
+      "effective_date": "05/20/2022",
+      "state": "IA",
+      "workers": 172,
+      "city": "Fort Madison"
+    },
+    {
+      "date": "02/09/2022",
+      "effective_date": "02/09/2022",
+      "state": "IA",
+      "workers": 121,
+      "city": "Fort Madison"
+    },
+    {
+      "date": "04/14/2021",
+      "effective_date": "04/14/2021",
+      "state": "KS",
+      "workers": 40,
+      "city": "Hutchinson"
+    },
+    {
+      "date": "09/14/2020",
+      "effective_date": "09/14/2020",
+      "state": "IA",
+      "workers": 129,
+      "city": "Fort Madison"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "region-16-burlington-wib",
+      "name": "Region 16 - Burlington WIB",
+      "state": "IA"
+    },
+    {
+      "slug": "local-area-i-western-wib",
+      "name": "Local Area I - Western WIB",
+      "state": "KS"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

@@ -1,0 +1,69 @@
+{
+  "slug": "nash-finch-company",
+  "canonical_name": "Nash Finch Company",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 4,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "SD",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "KS",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "02/03/2015",
+      "effective_date": "02/03/2015",
+      "state": "SD",
+      "workers": 49,
+      "city": "Rapid City"
+    },
+    {
+      "date": "12/05/2011",
+      "effective_date": "01/31/2012",
+      "state": "TX",
+      "workers": 4,
+      "city": "San Antonio"
+    },
+    {
+      "date": "09/22/1998",
+      "effective_date": "09/22/1998",
+      "state": "KS",
+      "workers": 0,
+      "city": "1 - Workforce Investment Area I"
+    },
+    {
+      "date": "07/17/1996",
+      "effective_date": "07/17/1996",
+      "state": "GA",
+      "workers": 113,
+      "city": "Macon"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "rapid-city-msa-wib",
+      "name": "Rapid City MSA WIB",
+      "state": "SD"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

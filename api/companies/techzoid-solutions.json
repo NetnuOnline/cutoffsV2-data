@@ -1,0 +1,123 @@
+{
+  "slug": "techzoid-solutions",
+  "canonical_name": "TechZoid Solutions LLC",
+  "fein": null,
+  "lca_filing_count": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 101750.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 95200.0
+    },
+    {
+      "fy": 2023,
+      "filings": 5,
+      "median_wage_usd": 102000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Java Developer",
+      "count": 3,
+      "median_wage_usd": 101500.0
+    },
+    {
+      "title": "Hadoop Lead Engineer",
+      "count": 1,
+      "median_wage_usd": 102000.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 1,
+      "median_wage_usd": 95200.0
+    },
+    {
+      "title": "Full Stack Developer",
+      "count": 1,
+      "median_wage_usd": 102000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MI",
+      "county": "OAKLAND",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "county": "MCLEAN",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 1
+    },
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "MI",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "count": 1
+    },
+    {
+      "state": "AZ",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 7,
+    "initial_denials": 0,
+    "continuing_approvals": 0,
+    "continuing_denials": 0,
+    "total_approvals": 7,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 5,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 5
+      }
+    ]
+  },
+  "lca_worker_positions": 6,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 101750.0,
+    "gap_usd": -28410.0
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "slug": "ifco",
+  "canonical_name": "IFCO, Inc.",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 4,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "count": 1
+    },
+    {
+      "state": "TN",
+      "count": 1
+    },
+    {
+      "state": "LA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "05/04/2018",
+      "effective_date": "05/04/2018",
+      "state": "GA",
+      "workers": 130,
+      "city": "McDonough"
+    },
+    {
+      "date": "01/05/2016",
+      "effective_date": "03/01/2016",
+      "state": "IL",
+      "workers": 20,
+      "city": "Bolingbrook"
+    },
+    {
+      "date": "11/04/2013",
+      "effective_date": "11/01/2013",
+      "state": "TN",
+      "workers": 40,
+      "city": "Martin"
+    },
+    {
+      "date": "05/19/2008",
+      "effective_date": "05/31/2008",
+      "state": "LA",
+      "workers": 56,
+      "city": "Hammond"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "11-local-workforce-investment-area",
+      "name": "11 Local Workforce Investment Area",
+      "state": "TN"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

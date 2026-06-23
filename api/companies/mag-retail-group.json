@@ -1,0 +1,47 @@
+{
+  "slug": "mag-retail-group",
+  "canonical_name": "MAG Retail Group",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "IA",
+      "count": 1
+    },
+    {
+      "state": "OR",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "07/28/2015",
+      "effective_date": "09/30/2015",
+      "state": "IA",
+      "workers": 158,
+      "city": "Anamosa"
+    },
+    {
+      "date": "07/02/2015",
+      "effective_date": "09/04/2015",
+      "state": "OR",
+      "workers": 114,
+      "city": "Medford"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "rogue-valley-wia",
+      "name": "Rogue Valley WIA",
+      "state": "OR"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

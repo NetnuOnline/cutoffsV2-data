@@ -1,0 +1,97 @@
+{
+  "slug": "mcdermott",
+  "canonical_name": "McDermott, Inc.",
+  "fein": "76-0151356",
+  "lca_filing_count": 7,
+  "lca_worker_positions": 7,
+  "warn_notice_count": 0,
+  "median_wage_usd": 129000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 80000.39
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 80396.4
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 122741.47
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 170000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 129000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 143910.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior IT Pillar Specialist",
+      "count": 2,
+      "median_wage_usd": 136455.0
+    },
+    {
+      "title": "Principal Pipeline Engineer",
+      "count": 1,
+      "median_wage_usd": 143000.0
+    },
+    {
+      "title": "Senior Manager Technology (IT)",
+      "count": 1,
+      "median_wage_usd": 170000.0
+    },
+    {
+      "title": "Senior Principal Civil/Structural Designer",
+      "count": 1,
+      "median_wage_usd": 102482.94
+    },
+    {
+      "title": "Associate DP&I Specialist",
+      "count": 1,
+      "median_wage_usd": 80396.4
+    },
+    {
+      "title": "Senior Procurement Specialist ",
+      "count": 1,
+      "median_wage_usd": 80000.39
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 6
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 7
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Information Security Engineers",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 170000.0,
+    "gap_usd": 52000.0
+  }
+}

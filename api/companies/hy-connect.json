@@ -1,0 +1,96 @@
+{
+  "slug": "hy-connect",
+  "canonical_name": "HY Connect, Inc.",
+  "fein": "47-4199332",
+  "lca_filing_count": 6,
+  "lca_worker_positions": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 120398.36,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 180000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 87485.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 127600.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 102877.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 113196.72,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Back-End Developer",
+      "count": 3,
+      "median_wage_usd": 102877.0
+    },
+    {
+      "title": "Vice President- Technology",
+      "count": 1,
+      "median_wage_usd": 180000.0
+    },
+    {
+      "title": "Vice President- Technology ",
+      "count": 1,
+      "median_wage_usd": 180000.0
+    },
+    {
+      "title": "Sr. Back-End Developer",
+      "count": 1,
+      "median_wage_usd": 127600.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 2
+    },
+    {
+      "state": "GA",
+      "county": "GWINNETT",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 4
+    },
+    {
+      "state": "IL",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3021",
+    "soc_title": "Computer and Information Systems Managers",
+    "market_median_usd": 169510.0,
+    "employer_median_usd": 180000.0,
+    "gap_usd": 10490.0
+  }
+}

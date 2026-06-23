@@ -1,0 +1,52 @@
+{
+  "slug": "parker-drilling",
+  "canonical_name": "Parker Drilling",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "AK",
+      "count": 1
+    },
+    {
+      "state": "LA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "03/21/2016",
+      "effective_date": "03/01/2016",
+      "state": "AK",
+      "workers": 55,
+      "city": "Anchorage/ North Slope"
+    },
+    {
+      "date": "02/24/2015",
+      "effective_date": "03/04/2015",
+      "state": "LA",
+      "workers": 50,
+      "city": "New Iberia"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "alaska-wib",
+      "name": "Alaska WIB",
+      "state": "AK"
+    },
+    {
+      "slug": "fourth-planning-district-consortium-wia",
+      "name": "Fourth Planning District Consortium WIA",
+      "state": "LA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

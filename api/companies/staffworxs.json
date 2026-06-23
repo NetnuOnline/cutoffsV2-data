@@ -1,0 +1,140 @@
+{
+  "slug": "staffworxs",
+  "canonical_name": "STAFFWORXS, LLC",
+  "fein": "81-4103927",
+  "lca_filing_count": 14,
+  "lca_worker_positions": 14,
+  "warn_notice_count": 0,
+  "median_wage_usd": 101754.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 89877.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 91021.0
+    },
+    {
+      "fy": 2024,
+      "filings": 5,
+      "median_wage_usd": 101754.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 112236.5
+    },
+    {
+      "fy": 2026,
+      "filings": 4,
+      "median_wage_usd": 96740.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SOFTWARE DEVELOPER",
+      "count": 6,
+      "median_wage_usd": 101754.0
+    },
+    {
+      "title": "SOFTWARE ENGINEER",
+      "count": 4,
+      "median_wage_usd": 112923.0
+    },
+    {
+      "title": "NETWORK ENGINEER",
+      "count": 2,
+      "median_wage_usd": 94016.0
+    },
+    {
+      "title": "COMPUTER PROGRAMMER",
+      "count": 1,
+      "median_wage_usd": 82243.0
+    },
+    {
+      "title": "SYSTEMS ENGINEER",
+      "count": 1,
+      "median_wage_usd": 111550.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NJ",
+      "county": "MIDDLESEX",
+      "count": 3
+    },
+    {
+      "state": "MI",
+      "county": "OAKLAND",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "CONTRA COSTA",
+      "count": 1
+    },
+    {
+      "state": "TN",
+      "county": "HAMILTON",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "county": "SNOHOMISH",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "count": 3
+    },
+    {
+      "state": "MI",
+      "count": 2
+    },
+    {
+      "state": "WA",
+      "count": 2
+    },
+    {
+      "state": "TN",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "count": 1
+    },
+    {
+      "state": "OH",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 102190.0,
+    "gap_usd": -27970.0
+  }
+}

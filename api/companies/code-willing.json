@@ -1,0 +1,81 @@
+{
+  "slug": "code-willing",
+  "canonical_name": "Code Willing, LLC",
+  "fein": "46-5146207",
+  "lca_filing_count": 5,
+  "lca_worker_positions": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 95493.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 83500.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 200000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 88246.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Chief Product Officer",
+      "count": 2,
+      "median_wage_usd": 200000.0
+    },
+    {
+      "title": "Data Scientist",
+      "count": 1,
+      "median_wage_usd": 81000.0
+    },
+    {
+      "title": "C   Developer",
+      "count": 1,
+      "median_wage_usd": 95493.0
+    },
+    {
+      "title": "C Developer ",
+      "count": 1,
+      "median_wage_usd": 83500.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 2
+    },
+    {
+      "state": "LA",
+      "county": "EAST BATON ROUGE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 4
+    },
+    {
+      "state": "LA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Information Technology Project Managers",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 200000.0,
+    "gap_usd": 82000.0
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "slug": "resource-innovative-technologies",
+  "canonical_name": "RESOURCE INNOVATIVE TECHNOLOGIES LLC",
+  "fein": "99-1335608",
+  "lca_filing_count": 8,
+  "lca_worker_positions": 8,
+  "warn_notice_count": 0,
+  "median_wage_usd": 106000.0,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 4,
+      "median_wage_usd": 103710.5
+    },
+    {
+      "fy": 2026,
+      "filings": 4,
+      "median_wage_usd": 107818.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "JAVA DEVELOPER",
+      "count": 4,
+      "median_wage_usd": 103710.5
+    },
+    {
+      "title": "SENIOR JAVA DEVELOPER",
+      "count": 1,
+      "median_wage_usd": 120640.0
+    },
+    {
+      "title": "SENIOR DATA SCIENTIST",
+      "count": 1,
+      "median_wage_usd": 141773.0
+    },
+    {
+      "title": "SENIOR DATA ENGINEER",
+      "count": 1,
+      "median_wage_usd": 109637.0
+    },
+    {
+      "title": "DATA ENGINEER",
+      "count": 1,
+      "median_wage_usd": 90000.0
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "MD",
+      "count": 4
+    },
+    {
+      "state": "GA",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 106000.0,
+    "gap_usd": -24160.0
+  }
+}

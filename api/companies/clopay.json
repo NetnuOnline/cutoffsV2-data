@@ -1,0 +1,99 @@
+{
+  "slug": "clopay",
+  "canonical_name": "Clopay Corporation",
+  "fein": "11-2808682",
+  "lca_filing_count": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 105456.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 108680.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 105456.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 90000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "IT Quality Assurance (QA) Lead",
+      "count": 1,
+      "median_wage_usd": 90000.0
+    },
+    {
+      "title": "Decision Support Analyst 10455.22",
+      "count": 1,
+      "median_wage_usd": 108680.0
+    },
+    {
+      "title": "Sr. Oracle Business Analyst",
+      "count": 1,
+      "median_wage_usd": 105456.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "OH",
+      "county": "WARREN",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "OH",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 1,
+    "continuing_denials": 0,
+    "total_approvals": 1,
+    "by_fy": [
+      {
+        "fy": 2017,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1211",
+    "soc_title": "Computer Systems Analysts",
+    "market_median_usd": 103800.0,
+    "employer_median_usd": 105456.0,
+    "gap_usd": 1656.0
+  }
+}

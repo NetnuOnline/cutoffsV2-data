@@ -1,0 +1,36 @@
+{
+  "slug": "falck-northwest-corporation",
+  "canonical_name": "Falck Northwest Corporation",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 1,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "WA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "09/16/2022",
+      "effective_date": "12/15/2022",
+      "state": "WA",
+      "workers": 123,
+      "city": "Mountlake Terrace, Fife"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "snohomish-county-wib",
+      "name": "Snohomish County WIB",
+      "state": "WA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

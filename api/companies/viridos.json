@@ -1,0 +1,60 @@
+{
+  "slug": "viridos",
+  "canonical_name": "Viridos Inc.",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "10/28/2022",
+      "effective_date": "10/28/2022",
+      "state": "CA",
+      "workers": 101,
+      "city": "11149 N. Torrey Pines Rd.  La Jolla CA 92037"
+    },
+    {
+      "date": "10/28/2022",
+      "effective_date": "10/28/2022",
+      "state": "CA",
+      "workers": 36,
+      "city": "Calipatria"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "imperial-county-wib",
+      "name": "Imperial County WIB",
+      "state": "CA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 1,
+    "continuing_denials": 0,
+    "total_approvals": 2,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      }
+    ]
+  }
+}

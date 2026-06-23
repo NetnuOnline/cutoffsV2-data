@@ -1,0 +1,165 @@
+{
+  "slug": "sims-group-usa-holdings",
+  "canonical_name": "Sims Group USA Holdings Corporation",
+  "fein": null,
+  "lca_filing_count": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 137500.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 277868.5
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 118643.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 126682.5
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Business Analyst",
+      "count": 2,
+      "median_wage_usd": 126682.5
+    },
+    {
+      "title": "SAP CPI Integration Developer",
+      "count": 1,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "title": "Chief Operating Officer",
+      "count": 1,
+      "median_wage_usd": 118643.0
+    },
+    {
+      "title": "Chief Operating Officer ",
+      "count": 1,
+      "median_wage_usd": 415737.0
+    },
+    {
+      "title": "Senior Human Resources Manager",
+      "count": 1,
+      "median_wage_usd": 140000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "ORANGE",
+      "count": 2
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "county": "HUDSON",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "county": "WESTCHESTER",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 2
+    },
+    {
+      "state": "WA",
+      "count": 2
+    },
+    {
+      "state": "NY",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 2,
+    "continuing_denials": 0,
+    "total_approvals": 2,
+    "by_fy": [
+      {
+        "fy": 2011,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2014,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2016,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2017,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 6,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Business Intelligence Analysts",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 126682.5,
+    "gap_usd": 18662.5
+  }
+}

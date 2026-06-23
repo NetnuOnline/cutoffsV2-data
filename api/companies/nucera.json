@@ -1,0 +1,43 @@
+{
+  "slug": "nucera",
+  "canonical_name": "NuCera",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "OK",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "07/30/2024",
+      "effective_date": "07/30/2024",
+      "state": "OK",
+      "workers": 93,
+      "city": "Oklahoma City"
+    },
+    {
+      "date": "07/30/2024",
+      "effective_date": "07/30/2024",
+      "state": "OK",
+      "workers": 0,
+      "city": "Barnsdall"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "cleveland-wia",
+      "name": "Cleveland WIA",
+      "state": "OK"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

@@ -1,0 +1,96 @@
+{
+  "slug": "lyra-health",
+  "canonical_name": "Lyra Health, Inc.",
+  "fein": "47-2935915",
+  "lca_filing_count": 5,
+  "lca_worker_positions": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 159328.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 166000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 170000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 137786.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 159328.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 153317.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 166000.0
+    },
+    {
+      "title": "Data Engineer",
+      "count": 1,
+      "median_wage_usd": 137786.0
+    },
+    {
+      "title": "Growth - Strategy & Ops Senior Manager",
+      "count": 1,
+      "median_wage_usd": 159328.0
+    },
+    {
+      "title": "Blended Care, Strategy & Operations Manager",
+      "count": 1,
+      "median_wage_usd": 170000.0
+    },
+    {
+      "title": "Staff Salesforce Developer",
+      "count": 1,
+      "median_wage_usd": 153317.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SAN MATEO",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 4
+    },
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1161",
+    "soc_title": "Market Research Analysts and Marketing Specialists",
+    "market_median_usd": 74680.0,
+    "employer_median_usd": 164664.0,
+    "gap_usd": 89984.0
+  }
+}

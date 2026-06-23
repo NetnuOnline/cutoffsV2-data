@@ -1,0 +1,74 @@
+{
+  "slug": "datacor",
+  "canonical_name": "Datacor, Inc.",
+  "fein": "22-2363717",
+  "lca_filing_count": 5,
+  "lca_worker_positions": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 136200.0,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 4,
+      "median_wage_usd": 122200.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 235000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Principal AI Engineer",
+      "count": 1,
+      "median_wage_usd": 235000.0
+    },
+    {
+      "title": "Lead Software Engineer",
+      "count": 1,
+      "median_wage_usd": 136200.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 104700.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 1,
+      "median_wage_usd": 108200.0
+    },
+    {
+      "title": "Manager, Software Engineering",
+      "count": 1,
+      "median_wage_usd": 136200.0
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 3
+    },
+    {
+      "state": "NC",
+      "count": 1
+    },
+    {
+      "state": "TN",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 122200.0,
+    "gap_usd": -7960.0
+  }
+}

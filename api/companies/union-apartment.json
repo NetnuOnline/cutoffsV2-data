@@ -1,0 +1,104 @@
+{
+  "slug": "union-apartment",
+  "canonical_name": "Union Apartment LLC",
+  "fein": "82-2489223",
+  "lca_filing_count": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 63658.4,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 55390.4
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 124987.20000000001
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 69680.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Risk Management Specialist",
+      "count": 1,
+      "median_wage_usd": 53144.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 124987.20000000001
+    },
+    {
+      "title": "Public Relations Specialist",
+      "count": 1,
+      "median_wage_usd": 69680.0
+    },
+    {
+      "title": "Market Research Analyst",
+      "count": 1,
+      "median_wage_usd": 57636.8
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 4
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 7,
+    "initial_denials": 1,
+    "continuing_approvals": 2,
+    "continuing_denials": 0,
+    "total_approvals": 9,
+    "by_fy": [
+      {
+        "fy": 2020,
+        "initial_approvals": 5,
+        "initial_denials": 1,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 6
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 124987.2,
+    "gap_usd": -5172.8
+  }
+}

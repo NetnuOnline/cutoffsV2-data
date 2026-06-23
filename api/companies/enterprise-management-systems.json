@@ -1,0 +1,74 @@
+{
+  "slug": "enterprise-management-systems",
+  "canonical_name": "ENTERPRISE MANAGEMENT SYSTEMS INC",
+  "fein": "88-3288983",
+  "lca_filing_count": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 80080.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 80600.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 79768.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Application Developer",
+      "count": 1,
+      "median_wage_usd": 80080.0
+    },
+    {
+      "title": "Business System Analyst",
+      "count": 1,
+      "median_wage_usd": 79456.0
+    },
+    {
+      "title": "Business Analyst",
+      "count": 1,
+      "median_wage_usd": 80600.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "PA",
+      "county": "CHESTER",
+      "count": 1
+    },
+    {
+      "state": "AL",
+      "county": "MONTGOMERY",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "AL",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1111",
+    "soc_title": "Management Analysts",
+    "market_median_usd": 99000.0,
+    "employer_median_usd": 80600.0,
+    "gap_usd": -18400.0
+  }
+}

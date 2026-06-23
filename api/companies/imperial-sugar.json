@@ -1,0 +1,68 @@
+{
+  "slug": "imperial-sugar",
+  "canonical_name": "Imperial Sugar",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 5,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 4
+    },
+    {
+      "state": "LA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "10/26/2010",
+      "effective_date": "12/31/2010",
+      "state": "LA",
+      "workers": 170,
+      "city": "Jeanerette"
+    },
+    {
+      "date": "02/21/2003",
+      "effective_date": "04/21/2003",
+      "state": "TX",
+      "workers": 160,
+      "city": "Sugar Land"
+    },
+    {
+      "date": "02/03/2003",
+      "effective_date": "04/04/2003",
+      "state": "TX",
+      "workers": 14,
+      "city": "Sugar Land"
+    },
+    {
+      "date": "12/03/2002",
+      "effective_date": "12/20/2002",
+      "state": "TX",
+      "workers": 300,
+      "city": "Sugar Land"
+    },
+    {
+      "date": "12/03/2002",
+      "effective_date": "12/13/2002",
+      "state": "TX",
+      "workers": 4,
+      "city": "Galveston"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "fourth-planning-district-consortium-wia",
+      "name": "Fourth Planning District Consortium WIA",
+      "state": "LA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

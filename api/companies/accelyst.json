@@ -1,0 +1,133 @@
+{
+  "slug": "accelyst",
+  "canonical_name": "ACCELYST, LLC",
+  "fein": "33-3733752",
+  "lca_filing_count": 27,
+  "lca_worker_positions": 27,
+  "warn_notice_count": 0,
+  "median_wage_usd": 106579.0,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 11,
+      "median_wage_usd": 105976.0
+    },
+    {
+      "fy": 2026,
+      "filings": 16,
+      "median_wage_usd": 107931.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SYSTEMS CONSULTANT",
+      "count": 3,
+      "median_wage_usd": 100942.0
+    },
+    {
+      "title": "ITX/WTX CONSULTANT",
+      "count": 3,
+      "median_wage_usd": 109283.0
+    },
+    {
+      "title": "TECHNICAL PROJECT MANAGER",
+      "count": 3,
+      "median_wage_usd": 100942.40000000001
+    },
+    {
+      "title": "SAP Procurement Functional Consultant",
+      "count": 2,
+      "median_wage_usd": 109449.5
+    },
+    {
+      "title": "CLOUD ARCHITECT",
+      "count": 2,
+      "median_wage_usd": 108825.5
+    },
+    {
+      "title": "SOFTWARE ARCHITECT",
+      "count": 2,
+      "median_wage_usd": 166400.0
+    },
+    {
+      "title": "Senior System Analyst",
+      "count": 1,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "DIGITAL PLATFORM ENGINEER",
+      "count": 1,
+      "median_wage_usd": 112424.0
+    },
+    {
+      "title": "SYSTEM ANALYST",
+      "count": 1,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "SOFTWARE QA ANALYST",
+      "count": 1,
+      "median_wage_usd": 91374.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "GA",
+      "county": "FORSYTH",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NC",
+      "count": 7
+    },
+    {
+      "state": "GA",
+      "count": 6
+    },
+    {
+      "state": "TX",
+      "count": 4
+    },
+    {
+      "state": "MN",
+      "count": 2
+    },
+    {
+      "state": "VA",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "count": 1
+    },
+    {
+      "state": "AZ",
+      "count": 1
+    },
+    {
+      "state": "MD",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 106579.0,
+    "gap_usd": -23581.0
+  }
+}

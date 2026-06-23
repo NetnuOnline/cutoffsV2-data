@@ -1,0 +1,203 @@
+{
+  "slug": "u-s-bank-national-association",
+  "canonical_name": "U.S. Bank National Association",
+  "fein": "31-0841368",
+  "lca_filing_count": 932,
+  "lca_worker_positions": 918,
+  "warn_notice_count": 0,
+  "median_wage_usd": 125288.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 67,
+      "median_wage_usd": 105561.0
+    },
+    {
+      "fy": 2021,
+      "filings": 145,
+      "median_wage_usd": 111176.0
+    },
+    {
+      "fy": 2022,
+      "filings": 191,
+      "median_wage_usd": 126402.0
+    },
+    {
+      "fy": 2023,
+      "filings": 97,
+      "median_wage_usd": 122450.0
+    },
+    {
+      "fy": 2024,
+      "filings": 114,
+      "median_wage_usd": 131509.5
+    },
+    {
+      "fy": 2025,
+      "filings": 168,
+      "median_wage_usd": 131154.5
+    },
+    {
+      "fy": 2026,
+      "filings": 136,
+      "median_wage_usd": 130707.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 180,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 148,
+      "median_wage_usd": 134971.0
+    },
+    {
+      "title": "SOFTWARE ENGINEER",
+      "count": 76,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "title": "Lead Software Engineer",
+      "count": 46,
+      "median_wage_usd": 154569.825
+    },
+    {
+      "title": "SENIOR SOFTWARE ENGINEER",
+      "count": 23,
+      "median_wage_usd": 125288.0
+    },
+    {
+      "title": "Sr. Software Engineer",
+      "count": 16,
+      "median_wage_usd": 140180.5
+    },
+    {
+      "title": "Automation Engineer",
+      "count": 15,
+      "median_wage_usd": 117166.0
+    },
+    {
+      "title": "Reliability Engineer",
+      "count": 13,
+      "median_wage_usd": 124163.0
+    },
+    {
+      "title": "Quantitative Model Analyst",
+      "count": 13,
+      "median_wage_usd": 119721.0
+    },
+    {
+      "title": "Software Engineering Manager",
+      "count": 13,
+      "median_wage_usd": 136136.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 172
+    },
+    {
+      "state": "MN",
+      "county": "HENNEPIN",
+      "count": 122
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 44
+    },
+    {
+      "state": "NC",
+      "county": "MECKLENBURG",
+      "count": 30
+    },
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 25
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 17
+    },
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 16
+    },
+    {
+      "state": "OR",
+      "county": "MULTNOMAH",
+      "count": 15
+    },
+    {
+      "state": "OH",
+      "county": "HAMILTON",
+      "count": 14
+    },
+    {
+      "state": "WI",
+      "county": "WAUKESHA",
+      "count": 13
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 291
+    },
+    {
+      "state": "MN",
+      "count": 167
+    },
+    {
+      "state": "CA",
+      "count": 74
+    },
+    {
+      "state": "GA",
+      "count": 74
+    },
+    {
+      "state": "NC",
+      "count": 62
+    },
+    {
+      "state": "OH",
+      "count": 36
+    },
+    {
+      "state": "IL",
+      "count": 33
+    },
+    {
+      "state": "WI",
+      "count": 23
+    },
+    {
+      "state": "AZ",
+      "count": 22
+    },
+    {
+      "state": "OR",
+      "count": 19
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 128960.0,
+    "gap_usd": -1200.0
+  }
+}

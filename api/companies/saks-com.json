@@ -1,0 +1,212 @@
+{
+  "slug": "saks-com",
+  "canonical_name": "Saks.com LLC",
+  "fein": "86-1572853",
+  "lca_filing_count": 49,
+  "warn_notice_count": 0,
+  "median_wage_usd": 123000.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 17,
+      "median_wage_usd": 133390.0
+    },
+    {
+      "fy": 2023,
+      "filings": 8,
+      "median_wage_usd": 115762.5
+    },
+    {
+      "fy": 2024,
+      "filings": 12,
+      "median_wage_usd": 109500.0
+    },
+    {
+      "fy": 2025,
+      "filings": 12,
+      "median_wage_usd": 131935.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Database Administrator",
+      "count": 4,
+      "median_wage_usd": 119350.0
+    },
+    {
+      "title": "Sr. Analyst, Application Systems",
+      "count": 4,
+      "median_wage_usd": 102062.5
+    },
+    {
+      "title": "Analyst, Marketing",
+      "count": 2,
+      "median_wage_usd": 76734.0
+    },
+    {
+      "title": "Principal Software Engineer- Search",
+      "count": 2,
+      "median_wage_usd": 122792.5
+    },
+    {
+      "title": "OMS Software Engineer",
+      "count": 2,
+      "median_wage_usd": 123000.0
+    },
+    {
+      "title": "Manager, OMS Applications",
+      "count": 2,
+      "median_wage_usd": 155000.0
+    },
+    {
+      "title": "Sr Integrations Engineer - Mulesoft",
+      "count": 2,
+      "median_wage_usd": 131000.0
+    },
+    {
+      "title": "Senior Analyst, Application",
+      "count": 2,
+      "median_wage_usd": 132870.0
+    },
+    {
+      "title": "Sr. SQL Server DBA ",
+      "count": 2,
+      "median_wage_usd": 119350.0
+    },
+    {
+      "title": "FP&A Manager",
+      "count": 2,
+      "median_wage_usd": 96000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 20
+    },
+    {
+      "state": "NJ",
+      "county": "HUDSON",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 2
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 2
+    },
+    {
+      "state": "OH",
+      "county": "DELAWARE",
+      "count": 1
+    },
+    {
+      "state": "MS",
+      "county": "MADISON",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "county": "ESSEX",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "county": "COBB",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SAN MATEO",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 25
+    },
+    {
+      "state": "NJ",
+      "count": 7
+    },
+    {
+      "state": "TX",
+      "count": 5
+    },
+    {
+      "state": "WA",
+      "count": 2
+    },
+    {
+      "state": "OH",
+      "count": 2
+    },
+    {
+      "state": "GA",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "count": 2
+    },
+    {
+      "state": "MD",
+      "count": 1
+    },
+    {
+      "state": "MS",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 8,
+    "initial_denials": 0,
+    "continuing_approvals": 31,
+    "continuing_denials": 0,
+    "total_approvals": 39,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 8,
+        "initial_denials": 0,
+        "continuing_approvals": 27,
+        "continuing_denials": 0,
+        "total_approvals": 35
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 4,
+        "continuing_denials": 0,
+        "total_approvals": 4
+      }
+    ]
+  },
+  "lca_worker_positions": 49,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 133390.0,
+    "gap_usd": 3230.0
+  }
+}

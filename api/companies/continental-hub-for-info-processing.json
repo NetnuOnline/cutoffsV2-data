@@ -1,0 +1,105 @@
+{
+  "slug": "continental-hub-for-info-processing",
+  "canonical_name": "CONTINENTAL HUB FOR INFO PROCESSING INC",
+  "fein": "30-0457010",
+  "lca_filing_count": 6,
+  "lca_worker_positions": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 85207.5,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 76440.0
+    },
+    {
+      "fy": 2021,
+      "filings": 3,
+      "median_wage_usd": 82202.0
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 96366.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 115939.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "BUSINESS ANALYST",
+      "count": 2,
+      "median_wage_usd": 82202.0
+    },
+    {
+      "title": "APPLICATION DEVELOPER",
+      "count": 1,
+      "median_wage_usd": 76440.0
+    },
+    {
+      "title": "DATA SCIENTIST",
+      "count": 1,
+      "median_wage_usd": 88213.0
+    },
+    {
+      "title": "Data Engineer",
+      "count": 1,
+      "median_wage_usd": 115939.0
+    },
+    {
+      "title": "COMPUTER PROGRAMMER",
+      "count": 1,
+      "median_wage_usd": 96366.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 2
+    },
+    {
+      "state": "AR",
+      "county": "BENTON",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "county": "FAIRFAX CITY",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 3
+    },
+    {
+      "state": "VA",
+      "count": 2
+    },
+    {
+      "state": "AR",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1111",
+    "soc_title": "Management Analysts",
+    "market_median_usd": 99000.0,
+    "employer_median_usd": 82202.0,
+    "gap_usd": -16798.0
+  }
+}

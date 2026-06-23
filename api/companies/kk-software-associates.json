@@ -1,0 +1,54 @@
+{
+  "slug": "kk-software-associates",
+  "canonical_name": "KK Software Associates, LLC.",
+  "fein": "20-2062239",
+  "lca_filing_count": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 96250.0,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 4,
+      "median_wage_usd": 96250.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "ETL Developer",
+      "count": 2,
+      "median_wage_usd": 96000.0
+    },
+    {
+      "title": "Data Engineer",
+      "count": 1,
+      "median_wage_usd": 96500.0
+    },
+    {
+      "title": "System Engineer",
+      "count": 1,
+      "median_wage_usd": 101899.0
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "VA",
+      "count": 3
+    },
+    {
+      "state": "OH",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 96000.0,
+    "gap_usd": -34160.0
+  }
+}

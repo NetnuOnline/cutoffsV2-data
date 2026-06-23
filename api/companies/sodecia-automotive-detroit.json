@@ -1,0 +1,117 @@
+{
+  "slug": "sodecia-automotive-detroit",
+  "canonical_name": "Sodecia Automotive Detroit Corp.",
+  "fein": null,
+  "lca_filing_count": 2,
+  "warn_notice_count": 3,
+  "median_wage_usd": 70500.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 63000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 78000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Quality Engineer",
+      "count": 2,
+      "median_wage_usd": 70500.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MI",
+      "count": 2
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MI",
+      "county": "MACOMB",
+      "count": 2
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "10/14/2024",
+      "effective_date": "10/14/2024",
+      "state": "MI",
+      "workers": 100,
+      "city": "Center Line"
+    },
+    {
+      "date": "10/04/2023",
+      "effective_date": "10/04/2023",
+      "state": "MI",
+      "workers": 143,
+      "city": "Center Line, Michigan"
+    },
+    {
+      "date": "09/25/2023",
+      "effective_date": "09/25/2023",
+      "state": "MI",
+      "workers": 143,
+      "city": "Center Line"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "macombst-clair-workforce-development-board-inc",
+      "name": "Macomb/St. Clair Workforce Development Board, Inc.",
+      "state": "MI"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 4,
+    "initial_denials": 0,
+    "continuing_approvals": 3,
+    "continuing_denials": 0,
+    "total_approvals": 7,
+    "by_fy": [
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      }
+    ]
+  },
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": []
+}

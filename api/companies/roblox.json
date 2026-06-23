@@ -1,0 +1,163 @@
+{
+  "slug": "roblox",
+  "canonical_name": "Roblox Corporation",
+  "fein": "20-0991664",
+  "lca_filing_count": 250,
+  "lca_worker_positions": 249,
+  "warn_notice_count": 0,
+  "median_wage_usd": 267720.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 20,
+      "median_wage_usd": 184500.0
+    },
+    {
+      "fy": 2021,
+      "filings": 21,
+      "median_wage_usd": 222600.0
+    },
+    {
+      "fy": 2022,
+      "filings": 35,
+      "median_wage_usd": 275000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 49,
+      "median_wage_usd": 267720.0
+    },
+    {
+      "fy": 2024,
+      "filings": 40,
+      "median_wage_usd": 276960.0
+    },
+    {
+      "fy": 2025,
+      "filings": 50,
+      "median_wage_usd": 273070.0
+    },
+    {
+      "fy": 2026,
+      "filings": 34,
+      "median_wage_usd": 262710.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Software Engineer",
+      "count": 67,
+      "median_wage_usd": 259420.0
+    },
+    {
+      "title": "Principal Software Engineer",
+      "count": 21,
+      "median_wage_usd": 322170.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 16,
+      "median_wage_usd": 164875.0
+    },
+    {
+      "title": "Senior Data Scientist",
+      "count": 16,
+      "median_wage_usd": 285500.0
+    },
+    {
+      "title": "Senior Machine Learning Engineer",
+      "count": 7,
+      "median_wage_usd": 273070.0
+    },
+    {
+      "title": "Senior Site Reliability Engineer",
+      "count": 6,
+      "median_wage_usd": 261535.0
+    },
+    {
+      "title": "Data Scientist",
+      "count": 4,
+      "median_wage_usd": 220340.0
+    },
+    {
+      "title": "Engineering Manager",
+      "count": 4,
+      "median_wage_usd": 326905.0
+    },
+    {
+      "title": "Lead QA Coordinator",
+      "count": 4,
+      "median_wage_usd": 222460.0
+    },
+    {
+      "title": "Principal Machine Learning Engineer",
+      "count": 4,
+      "median_wage_usd": 306925.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SAN MATEO",
+      "count": 159
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 3
+    },
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 2
+    },
+    {
+      "state": "OR",
+      "county": "DESCHUTES",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "county": "ALLEGHENY",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 243
+    },
+    {
+      "state": "WA",
+      "count": 3
+    },
+    {
+      "state": "VA",
+      "count": 2
+    },
+    {
+      "state": "OR",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 273070.0,
+    "gap_usd": 142910.0
+  }
+}

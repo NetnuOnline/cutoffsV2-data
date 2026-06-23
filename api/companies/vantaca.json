@@ -1,0 +1,45 @@
+{
+  "slug": "vantaca",
+  "canonical_name": "Vantaca, LLC",
+  "fein": "81-1401225",
+  "lca_filing_count": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 260000.0,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 260000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Product Manager - HOAi",
+      "count": 2,
+      "median_wage_usd": 260000.0
+    },
+    {
+      "title": "Full Stack Engineer - HOAi",
+      "count": 1,
+      "median_wage_usd": 240000.0
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3021",
+    "soc_title": "Computer and Information Systems Managers",
+    "market_median_usd": 169510.0,
+    "employer_median_usd": 260000.0,
+    "gap_usd": 90490.0
+  }
+}

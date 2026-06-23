@@ -1,0 +1,55 @@
+{
+  "slug": "planettogether",
+  "canonical_name": "PlanetTogether, Inc.",
+  "fein": "26-4011281",
+  "lca_filing_count": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 82000.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 73750.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software developer",
+      "count": 3,
+      "median_wage_usd": 82000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "OK",
+      "county": "POTTAWATOMIE",
+      "count": 2
+    },
+    {
+      "state": "IN",
+      "county": "ALLEN",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "OK",
+      "count": 2
+    },
+    {
+      "state": "IN",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 73750.0,
+    "gap_usd": -56410.0
+  }
+}

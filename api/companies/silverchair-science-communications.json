@@ -1,0 +1,90 @@
+{
+  "slug": "silverchair-science-communications",
+  "canonical_name": "Silverchair Science & Communications, LLC",
+  "fein": "54-2034704",
+  "lca_filing_count": 11,
+  "lca_worker_positions": 10,
+  "warn_notice_count": 0,
+  "median_wage_usd": 130770.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 3,
+      "median_wage_usd": 98530.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 141315.12
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 149718.0
+    },
+    {
+      "fy": 2026,
+      "filings": 4,
+      "median_wage_usd": 123467.96,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Technical Leader",
+      "count": 6,
+      "median_wage_usd": 145516.56
+    },
+    {
+      "title": "Senior Development Operations Engineer",
+      "count": 3,
+      "median_wage_usd": 107848.0
+    },
+    {
+      "title": "Technical Lead",
+      "count": 1,
+      "median_wage_usd": 98530.0
+    },
+    {
+      "title": "Software Developer 2",
+      "count": 1,
+      "median_wage_usd": 91800.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "VA",
+      "county": "CHARLOTTESVILLE CITY",
+      "count": 4
+    },
+    {
+      "state": "OH",
+      "county": "WARREN",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "VA",
+      "count": 8
+    },
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "OH",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 141315.12,
+    "gap_usd": 11155.12
+  }
+}

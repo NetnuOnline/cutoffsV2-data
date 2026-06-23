@@ -1,0 +1,57 @@
+{
+  "slug": "alecto-healthcare-services",
+  "canonical_name": "Alecto Healthcare Services LLC",
+  "fein": "46-0829723",
+  "lca_filing_count": 1,
+  "warn_notice_count": 0,
+  "median_wage_usd": 120000.0,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 120000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior System Analyst",
+      "count": 1,
+      "median_wage_usd": 120000.0
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 1,
+    "continuing_denials": 0,
+    "total_approvals": 1,
+    "by_fy": [
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 1,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1211",
+    "soc_title": "Computer Systems Analysts",
+    "market_median_usd": 103800.0,
+    "employer_median_usd": 120000.0,
+    "gap_usd": 16200.0
+  }
+}

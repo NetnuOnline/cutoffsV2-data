@@ -1,0 +1,73 @@
+{
+  "slug": "d3uc-limited-liability-company",
+  "canonical_name": "D3UC LIMITED LIABILITY COMPANY",
+  "fein": "46-4185115",
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 91260.1,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 87859.2
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 94661.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "NETWORK ADMINISTRATOR ",
+      "count": 2,
+      "median_wage_usd": 91260.1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NJ",
+      "county": "MONMOUTH",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "county": "HUDSON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 1,
+    "continuing_denials": 0,
+    "total_approvals": 1,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1244",
+    "soc_title": "Network and Computer Systems Administrators",
+    "market_median_usd": 95000.0,
+    "employer_median_usd": 94661.0,
+    "gap_usd": -339.0
+  }
+}

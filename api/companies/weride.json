@@ -1,0 +1,160 @@
+{
+  "slug": "weride",
+  "canonical_name": "WeRide Corp.",
+  "fein": "81-5463676",
+  "lca_filing_count": 19,
+  "warn_notice_count": 0,
+  "median_wage_usd": 153037.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 190000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 5,
+      "median_wage_usd": 139000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 82500.0
+    },
+    {
+      "fy": 2023,
+      "filings": 7,
+      "median_wage_usd": 158000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 4,
+      "median_wage_usd": 155000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 8,
+      "median_wage_usd": 155000.0
+    },
+    {
+      "title": "System Engineer",
+      "count": 2,
+      "median_wage_usd": 149000.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 2,
+      "median_wage_usd": 185000.0
+    },
+    {
+      "title": "Technical Program/Project Manager",
+      "count": 1,
+      "median_wage_usd": 129780.0
+    },
+    {
+      "title": "HR specialist",
+      "count": 1,
+      "median_wage_usd": 80000.0
+    },
+    {
+      "title": "Staff Mechanical Engineer",
+      "count": 1,
+      "median_wage_usd": 212427.0
+    },
+    {
+      "title": "Planning and Control Engineer ",
+      "count": 1,
+      "median_wage_usd": 139000.0
+    },
+    {
+      "title": "Production Engineer",
+      "count": 1,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "SOFTWARE ENGINEER",
+      "count": 1,
+      "median_wage_usd": 153037.0
+    },
+    {
+      "title": "Accountant",
+      "count": 1,
+      "median_wage_usd": 85000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 19
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 19
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 23,
+    "initial_denials": 0,
+    "continuing_approvals": 47,
+    "continuing_denials": 0,
+    "total_approvals": 70,
+    "by_fy": [
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 10,
+        "initial_denials": 0,
+        "continuing_approvals": 8,
+        "continuing_denials": 0,
+        "total_approvals": 18
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 5,
+        "initial_denials": 0,
+        "continuing_approvals": 20,
+        "continuing_denials": 0,
+        "total_approvals": 25
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 8,
+        "initial_denials": 0,
+        "continuing_approvals": 15,
+        "continuing_denials": 0,
+        "total_approvals": 23
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 4,
+        "continuing_denials": 0,
+        "total_approvals": 4
+      }
+    ]
+  },
+  "lca_worker_positions": 19,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 156500.0,
+    "gap_usd": 26340.0
+  }
+}

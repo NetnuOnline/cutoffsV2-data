@@ -1,0 +1,47 @@
+{
+  "slug": "hancock-fabrics",
+  "canonical_name": "Hancock Fabrics",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 1
+    },
+    {
+      "state": "NE",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "04/30/2016",
+      "effective_date": "04/30/2016",
+      "state": "GA",
+      "workers": 12,
+      "city": "Rome"
+    },
+    {
+      "date": "02/28/2016",
+      "effective_date": "02/28/2016",
+      "state": "NE",
+      "workers": 0,
+      "city": "Lincoln"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "northwest-georgia-wib",
+      "name": "Northwest Georgia WIB",
+      "state": "GA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

@@ -1,0 +1,103 @@
+{
+  "slug": "sientra",
+  "canonical_name": "Sientra, Inc.",
+  "fein": null,
+  "lca_filing_count": 2,
+  "warn_notice_count": 2,
+  "median_wage_usd": 138015.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 165000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 111030.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Engineer, Research and Development ",
+      "count": 1,
+      "median_wage_usd": 111030.0
+    },
+    {
+      "title": "Oracle Cloud Engineer",
+      "count": 1,
+      "median_wage_usd": 165000.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 2
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "ORANGE",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SANTA BARBARA",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "04/19/2024",
+      "effective_date": "06/18/2024",
+      "state": "WI",
+      "workers": 128,
+      "city": "Franklin"
+    },
+    {
+      "date": "11/19/2019",
+      "effective_date": "01/20/2020",
+      "state": "CA",
+      "workers": 55,
+      "city": "Santa Clara"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "milwaukee-wda",
+      "name": "Milwaukee WDA",
+      "state": "WI"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 1,
+    "continuing_denials": 0,
+    "total_approvals": 1,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Computer Systems Engineers/Architects",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 165000.0,
+    "gap_usd": 47000.0
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "slug": "rue-21",
+  "canonical_name": "Rue 21",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 6,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "NE",
+      "count": 3
+    },
+    {
+      "state": "ME",
+      "count": 2
+    },
+    {
+      "state": "MN",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "05/01/2024",
+      "effective_date": "05/01/2024",
+      "state": "MN",
+      "workers": 144,
+      "city": "Warrendale"
+    },
+    {
+      "date": "04/26/2017",
+      "effective_date": "04/26/2017",
+      "state": "ME",
+      "workers": 3,
+      "city": "4 - Coastal Counties Local Area 4"
+    },
+    {
+      "date": "04/18/2017",
+      "effective_date": "04/18/2017",
+      "state": "ME",
+      "workers": 15,
+      "city": "1 - Northeastern Workforce Board"
+    },
+    {
+      "date": "04/17/2017",
+      "effective_date": "04/17/2017",
+      "state": "NE",
+      "workers": 14,
+      "city": "Gretna"
+    },
+    {
+      "date": "04/17/2017",
+      "effective_date": "04/17/2017",
+      "state": "NE",
+      "workers": 12,
+      "city": "Lincoln"
+    },
+    {
+      "date": "04/17/2017",
+      "effective_date": "04/17/2017",
+      "state": "NE",
+      "workers": 9,
+      "city": "North Platte"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "mid-plains-economic-region",
+      "name": "Mid Plains Economic Region",
+      "state": "NE"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

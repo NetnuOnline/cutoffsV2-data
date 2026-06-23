@@ -1,0 +1,92 @@
+{
+  "slug": "mahle-industries-incorporated",
+  "canonical_name": "MAHLE Industries, Incorporated",
+  "fein": "58-2431334",
+  "lca_filing_count": 6,
+  "lca_worker_positions": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 134270.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 84074.0
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 100097.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 138540.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 130000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Sales and Application Engineer",
+      "count": 1,
+      "median_wage_usd": 100097.0
+    },
+    {
+      "title": "Transition&Transform. Team Lead-App Integration(Supervisor)",
+      "count": 1,
+      "median_wage_usd": 138540.0
+    },
+    {
+      "title": "EDI Business Specialist",
+      "count": 1,
+      "median_wage_usd": 84074.0
+    },
+    {
+      "title": "Transition & Transformation Lead - Application Integration",
+      "count": 1,
+      "median_wage_usd": 138540.0
+    },
+    {
+      "title": "Applications Analyst, Shopfloor Service Delivery-PP, MM",
+      "count": 1,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Head of Sales & Application Engineering",
+      "count": 1,
+      "median_wage_usd": 150000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MI",
+      "county": "OAKLAND",
+      "count": 4
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MI",
+      "count": 6
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1211",
+    "soc_title": "Computer Systems Analysts",
+    "market_median_usd": 103800.0,
+    "employer_median_usd": 130000.0,
+    "gap_usd": 26200.0
+  }
+}

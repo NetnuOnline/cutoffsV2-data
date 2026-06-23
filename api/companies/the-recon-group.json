@@ -1,0 +1,59 @@
+{
+  "slug": "the-recon-group",
+  "canonical_name": "The Recon Group LLP",
+  "fein": null,
+  "lca_filing_count": 1,
+  "warn_notice_count": 2,
+  "median_wage_usd": 55931,
+  "by_fy": [
+    {
+      "fy": 2026,
+      "filings": 0,
+      "median_wage_usd": null
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Operations Manager",
+      "count": 0,
+      "median_wage_usd": null
+    }
+  ],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 1
+    },
+    {
+      "state": "NV",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "09/20/2022",
+      "effective_date": "11/23/2022",
+      "state": "GA",
+      "workers": 119,
+      "city": "Palmetto"
+    },
+    {
+      "date": "09/07/2022",
+      "effective_date": "09/06/2022",
+      "state": "NV",
+      "workers": 74,
+      "city": "N. Las Vegas, Clark County"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "city-of-atlanta-wib",
+      "name": "City of Atlanta WIB",
+      "state": "GA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

@@ -1,0 +1,203 @@
+{
+  "slug": "spotify-usa",
+  "canonical_name": "Spotify USA, Inc.",
+  "fein": "80-0555431",
+  "lca_filing_count": 260,
+  "lca_worker_positions": 255,
+  "warn_notice_count": 0,
+  "median_wage_usd": 190000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 23,
+      "median_wage_usd": 183880.0
+    },
+    {
+      "fy": 2021,
+      "filings": 74,
+      "median_wage_usd": 164965.0
+    },
+    {
+      "fy": 2022,
+      "filings": 64,
+      "median_wage_usd": 190000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 41,
+      "median_wage_usd": 190000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 22,
+      "median_wage_usd": 215855.0
+    },
+    {
+      "fy": 2025,
+      "filings": 15,
+      "median_wage_usd": 217040.0
+    },
+    {
+      "fy": 2026,
+      "filings": 16,
+      "median_wage_usd": 203945.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Engineer",
+      "count": 14,
+      "median_wage_usd": 216595.0
+    },
+    {
+      "title": "Senior Backend Engineer",
+      "count": 12,
+      "median_wage_usd": 221980.0
+    },
+    {
+      "title": "SENIOR DATA ENGINEER",
+      "count": 9,
+      "median_wage_usd": 225000.0
+    },
+    {
+      "title": "Engineer II",
+      "count": 9,
+      "median_wage_usd": 171170.0
+    },
+    {
+      "title": "SENIOR ENGINEER",
+      "count": 7,
+      "median_wage_usd": 218400.0
+    },
+    {
+      "title": "Engineering Manager",
+      "count": 7,
+      "median_wage_usd": 202800.0
+    },
+    {
+      "title": "ENGINEER II",
+      "count": 7,
+      "median_wage_usd": 165000.0
+    },
+    {
+      "title": "RPA - Automation Developer",
+      "count": 6,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Data Engineer",
+      "count": 6,
+      "median_wage_usd": 185000.0
+    },
+    {
+      "title": "Senior Data Scientist",
+      "count": 5,
+      "median_wage_usd": 175000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 152
+    },
+    {
+      "state": "MA",
+      "county": "BOSTON CITY",
+      "count": 12
+    },
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 12
+    },
+    {
+      "state": "FL",
+      "county": "MIAMI-DADE",
+      "count": 7
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 7
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 6
+    },
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 6
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 3
+    },
+    {
+      "state": "OH",
+      "county": "CUYAHOGA",
+      "count": 2
+    },
+    {
+      "state": "DC",
+      "county": "DISTRICT OF COLUMBIA",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 172
+    },
+    {
+      "state": "CA",
+      "count": 26
+    },
+    {
+      "state": "MA",
+      "count": 15
+    },
+    {
+      "state": "TX",
+      "count": 10
+    },
+    {
+      "state": "FL",
+      "count": 10
+    },
+    {
+      "state": "WA",
+      "count": 7
+    },
+    {
+      "state": "GA",
+      "count": 3
+    },
+    {
+      "state": "DC",
+      "count": 2
+    },
+    {
+      "state": "OH",
+      "count": 2
+    },
+    {
+      "state": "KS",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 215000.0,
+    "gap_usd": 84840.0
+  }
+}

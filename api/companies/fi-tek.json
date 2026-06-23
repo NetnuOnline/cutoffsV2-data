@@ -1,0 +1,72 @@
+{
+  "slug": "fi-tek",
+  "canonical_name": "Fi-Tek, LLC",
+  "fein": "22-3744467",
+  "lca_filing_count": 4,
+  "lca_worker_positions": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 109675.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 107432.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 127234.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 100000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Database Administrator ",
+      "count": 1,
+      "median_wage_usd": 119350.0
+    },
+    {
+      "title": "Business Technology Analyst - Wealth Management",
+      "count": 1,
+      "median_wage_usd": 127234.0
+    },
+    {
+      "title": "Computer Programmer",
+      "count": 1,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "title": "Business Technology Analyst  - Wealth Management ",
+      "count": 1,
+      "median_wage_usd": 95514.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NJ",
+      "county": "MIDDLESEX",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 4
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1211",
+    "soc_title": "Computer Systems Analysts",
+    "market_median_usd": 103800.0,
+    "employer_median_usd": 111374.0,
+    "gap_usd": 7574.0
+  }
+}

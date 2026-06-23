@@ -1,0 +1,43 @@
+{
+  "slug": "m-m-manufacturing",
+  "canonical_name": "M & M Manufacturing, Inc.",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "10/13/2025",
+      "effective_date": "12/15/2025",
+      "state": "TX",
+      "workers": 75,
+      "city": "Houston"
+    },
+    {
+      "date": "03/13/2020",
+      "effective_date": "05/15/2020",
+      "state": "TX",
+      "workers": 43,
+      "city": "Fort Worth"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "gulf-coast-wda",
+      "name": "Gulf Coast WDA",
+      "state": "TX"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

@@ -1,0 +1,131 @@
+{
+  "slug": "goodreads",
+  "canonical_name": "Goodreads LLC",
+  "fein": "20-8239253",
+  "lca_filing_count": 16,
+  "lca_worker_positions": 101,
+  "warn_notice_count": 0,
+  "median_wage_usd": 176875.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 128000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 4,
+      "median_wage_usd": 160375.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 211550.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 129380.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 220000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 4,
+      "median_wage_usd": 188720.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 173600.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Development Engineer II",
+      "count": 4,
+      "median_wage_usd": 208150.0
+    },
+    {
+      "title": "SOFTWARE DEVELOPMENT ENGINEER I",
+      "count": 3,
+      "median_wage_usd": 128000.0
+    },
+    {
+      "title": "Manager III, Quality",
+      "count": 2,
+      "median_wage_usd": 220000.0
+    },
+    {
+      "title": "UX Designer III",
+      "count": 1,
+      "median_wage_usd": 178000.0
+    },
+    {
+      "title": "Software Development Engineer III-TEST",
+      "count": 1,
+      "median_wage_usd": 173600.0
+    },
+    {
+      "title": "SOFTWARE DEVELOPMENT ENGINEER II",
+      "count": 1,
+      "median_wage_usd": 179200.0
+    },
+    {
+      "title": "Technical Program Manager III",
+      "count": 1,
+      "median_wage_usd": 212200.0
+    },
+    {
+      "title": "Product MKTG II",
+      "count": 1,
+      "median_wage_usd": 109100.0
+    },
+    {
+      "title": "Program Manager II",
+      "count": 1,
+      "median_wage_usd": 79560.0
+    },
+    {
+      "title": "DATA SCIENTIST II",
+      "count": 1,
+      "median_wage_usd": 175750.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 10
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 12
+    },
+    {
+      "state": "WA",
+      "count": 4
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 214700.0,
+    "gap_usd": 84540.0
+  }
+}

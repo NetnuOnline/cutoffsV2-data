@@ -1,0 +1,65 @@
+{
+  "slug": "omf-services",
+  "canonical_name": "OMF Services, LLC",
+  "fein": "93-2894679",
+  "lca_filing_count": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 138570.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 108732.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 154669.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "VP/D Analytics",
+      "count": 1,
+      "median_wage_usd": 78894.0
+    },
+    {
+      "title": "VP/D Engineer Software",
+      "count": 1,
+      "median_wage_usd": 154669.0
+    },
+    {
+      "title": "Associate Director",
+      "count": 1,
+      "median_wage_usd": 138570.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "DE",
+      "county": "NEW CASTLE",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "DE",
+      "count": 2
+    },
+    {
+      "state": "NC",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 154669.0,
+    "gap_usd": 24509.0
+  }
+}

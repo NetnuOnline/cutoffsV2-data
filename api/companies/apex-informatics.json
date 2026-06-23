@@ -1,0 +1,188 @@
+{
+  "slug": "apex-informatics",
+  "canonical_name": "Apex Informatics, LLC",
+  "fein": "46-1017343",
+  "lca_filing_count": 9,
+  "warn_notice_count": 0,
+  "median_wage_usd": 96616.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 96616.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 110300.0
+    },
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 98600.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 94000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 78500.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "BI Developer",
+      "count": 3,
+      "median_wage_usd": 110300.0
+    },
+    {
+      "title": ".Net Developer",
+      "count": 2,
+      "median_wage_usd": 89100.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 94000.0
+    },
+    {
+      "title": "Data Engineer",
+      "count": 1,
+      "median_wage_usd": 98600.0
+    },
+    {
+      "title": "Hadoop Developer",
+      "count": 1,
+      "median_wage_usd": 96616.0
+    },
+    {
+      "title": "Java Developer",
+      "count": 1,
+      "median_wage_usd": 72000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "VA",
+      "county": "FAIRFAX",
+      "count": 2
+    },
+    {
+      "state": "NE",
+      "county": "DOUGLAS",
+      "count": 2
+    },
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "county": "MECKLENBURG",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NE",
+      "count": 3
+    },
+    {
+      "state": "VA",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "count": 1
+    },
+    {
+      "state": "AZ",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 9,
+    "initial_denials": 1,
+    "continuing_approvals": 3,
+    "continuing_denials": 0,
+    "total_approvals": 12,
+    "by_fy": [
+      {
+        "fy": 2015,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2016,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 5,
+        "initial_denials": 1,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 6
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 9,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 98147.0,
+    "gap_usd": -32013.0
+  }
+}

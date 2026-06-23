@@ -1,0 +1,56 @@
+{
+  "slug": "everexpanse",
+  "canonical_name": "EverExpanse LLC",
+  "fein": "86-2136302",
+  "lca_filing_count": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 119017.5,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 101046.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 136989.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "IT Program Manager",
+      "count": 2,
+      "median_wage_usd": 136989.0
+    },
+    {
+      "title": "Computer Systems Analyst",
+      "count": 2,
+      "median_wage_usd": 101046.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 4
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 4
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Information Technology Project Managers",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 136989.0,
+    "gap_usd": 18989.0
+  }
+}

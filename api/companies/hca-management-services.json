@@ -1,0 +1,199 @@
+{
+  "slug": "hca-management-services",
+  "canonical_name": "HCA Management Services, LP",
+  "fein": "62-1778108",
+  "lca_filing_count": 173,
+  "lca_worker_positions": 168,
+  "warn_notice_count": 0,
+  "median_wage_usd": 109595.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 10,
+      "median_wage_usd": 94973.0
+    },
+    {
+      "fy": 2021,
+      "filings": 28,
+      "median_wage_usd": 94973.0
+    },
+    {
+      "fy": 2022,
+      "filings": 19,
+      "median_wage_usd": 102918.0
+    },
+    {
+      "fy": 2023,
+      "filings": 24,
+      "median_wage_usd": 110136.0
+    },
+    {
+      "fy": 2024,
+      "filings": 35,
+      "median_wage_usd": 116438.0
+    },
+    {
+      "fy": 2025,
+      "filings": 30,
+      "median_wage_usd": 122117.0
+    },
+    {
+      "fy": 2026,
+      "filings": 22,
+      "median_wage_usd": 122117.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Consulting Application Engineer",
+      "count": 34,
+      "median_wage_usd": 116438.0
+    },
+    {
+      "title": "Senior Application Engineer",
+      "count": 16,
+      "median_wage_usd": 113287.0
+    },
+    {
+      "title": "Application Engineer II",
+      "count": 5,
+      "median_wage_usd": 84864.0
+    },
+    {
+      "title": "Software Development Engineer in Test II",
+      "count": 4,
+      "median_wage_usd": 86310.0
+    },
+    {
+      "title": "Consulting BizTalk Engineer",
+      "count": 4,
+      "median_wage_usd": 127504.0
+    },
+    {
+      "title": "Sr. Database Administrator",
+      "count": 4,
+      "median_wage_usd": 99798.0
+    },
+    {
+      "title": "Consulting Data Integration Engineer",
+      "count": 3,
+      "median_wage_usd": 102918.0
+    },
+    {
+      "title": "Principal Architect",
+      "count": 3,
+      "median_wage_usd": 122117.0
+    },
+    {
+      "title": "Senior Product Analyst",
+      "count": 3,
+      "median_wage_usd": 94973.0
+    },
+    {
+      "title": "Consulting Product Analyst",
+      "count": 3,
+      "median_wage_usd": 94973.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TN",
+      "county": "DAVIDSON",
+      "count": 105
+    },
+    {
+      "state": "TN",
+      "county": "WILLIAMSON",
+      "count": 8
+    },
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 2
+    },
+    {
+      "state": "NC",
+      "county": "WAKE",
+      "count": 2
+    },
+    {
+      "state": "VA",
+      "county": "HENRICO",
+      "count": 1
+    },
+    {
+      "state": "AR",
+      "county": "BENTON",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "county": "PASCO",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "county": "KANE",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TN",
+      "count": 157
+    },
+    {
+      "state": "TX",
+      "count": 4
+    },
+    {
+      "state": "NC",
+      "count": 3
+    },
+    {
+      "state": "FL",
+      "count": 3
+    },
+    {
+      "state": "MN",
+      "count": 2
+    },
+    {
+      "state": "MI",
+      "count": 1
+    },
+    {
+      "state": "AR",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 116438.0,
+    "gap_usd": -13722.0
+  }
+}

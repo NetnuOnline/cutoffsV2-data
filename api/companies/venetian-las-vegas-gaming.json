@@ -1,0 +1,96 @@
+{
+  "slug": "venetian-las-vegas-gaming",
+  "canonical_name": "Venetian Las Vegas Gaming, LLC",
+  "fein": "86-2889081",
+  "lca_filing_count": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 150718.5,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 153700.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 131310.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 150868.5
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Manager, Systems Software Development",
+      "count": 1,
+      "median_wage_usd": 154000.0
+    },
+    {
+      "title": "Executive Director - Sustainability",
+      "count": 1,
+      "median_wage_usd": 153700.0
+    },
+    {
+      "title": "Sr Developer \u2013 Finance Analytics",
+      "count": 1,
+      "median_wage_usd": 131310.0
+    },
+    {
+      "title": "Principal Engineer \u201c Digital Automation",
+      "count": 1,
+      "median_wage_usd": 147737.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NV",
+      "county": "CLARK",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NV",
+      "count": 4
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 3,
+    "continuing_denials": 0,
+    "total_approvals": 3,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      }
+    ]
+  },
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 142655.0,
+    "gap_usd": 12495.0
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "slug": "saks-cloud-services",
+  "canonical_name": "Saks Cloud Services LLC",
+  "fein": "92-1313970",
+  "lca_filing_count": 12,
+  "lca_worker_positions": 12,
+  "warn_notice_count": 0,
+  "median_wage_usd": 171000.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 111394.0
+    },
+    {
+      "fy": 2025,
+      "filings": 6,
+      "median_wage_usd": 142000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 4,
+      "median_wage_usd": 200000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Director, Cloud Engineering",
+      "count": 6,
+      "median_wage_usd": 200000.0
+    },
+    {
+      "title": "Sr. Manager, Governance, Risk, and Compliance",
+      "count": 2,
+      "median_wage_usd": 142000.0
+    },
+    {
+      "title": "Sr. Database Administrator",
+      "count": 2,
+      "median_wage_usd": 107000.0
+    },
+    {
+      "title": "Sr. Systems Engineer",
+      "count": 2,
+      "median_wage_usd": 111394.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 5
+    },
+    {
+      "state": "NJ",
+      "county": "MIDDLESEX",
+      "count": 3
+    },
+    {
+      "state": "MA",
+      "county": "EVERETT CITY",
+      "count": 1
+    },
+    {
+      "state": "MO",
+      "county": "ST LOUIS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 6
+    },
+    {
+      "state": "NJ",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "MO",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3021",
+    "soc_title": "Computer and Information Systems Managers",
+    "market_median_usd": 169510.0,
+    "employer_median_usd": 200000.0,
+    "gap_usd": 30490.0
+  }
+}

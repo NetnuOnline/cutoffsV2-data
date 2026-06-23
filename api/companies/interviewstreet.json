@@ -1,0 +1,79 @@
+{
+  "slug": "interviewstreet",
+  "canonical_name": "Interviewstreet, Inc.",
+  "fein": "38-3841758",
+  "lca_filing_count": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 170000.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 172500.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 169850.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Data Engineer",
+      "count": 1,
+      "median_wage_usd": 170000.0
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "count": 1,
+      "median_wage_usd": 175000.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 1,
+      "median_wage_usd": 169850.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "county": "LOUDOUN",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 170000.0,
+    "gap_usd": 39840.0
+  }
+}

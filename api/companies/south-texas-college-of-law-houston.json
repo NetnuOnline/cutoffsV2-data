@@ -1,0 +1,78 @@
+{
+  "slug": "south-texas-college-of-law-houston",
+  "canonical_name": "South Texas College of Law Houston, Inc.",
+  "fein": "74-1554976",
+  "lca_filing_count": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 80949.15,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 78972.15
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 96192.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": " Database Programmer & Analyst",
+      "count": 2,
+      "median_wage_usd": 78972.15
+    },
+    {
+      "title": "Database Programmer and Analyst",
+      "count": 1,
+      "median_wage_usd": 81000.0
+    },
+    {
+      "title": "Senior Database Programmer & Analyst",
+      "count": 1,
+      "median_wage_usd": 111384.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 4
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 1,
+    "continuing_denials": 0,
+    "total_approvals": 2,
+    "by_fy": [
+      {
+        "fy": 2023,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      }
+    ]
+  },
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Computer Systems Engineers/Architects",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 80949.15,
+    "gap_usd": -37050.85
+  }
+}

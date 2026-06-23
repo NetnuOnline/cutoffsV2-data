@@ -1,0 +1,126 @@
+{
+  "slug": "notion-labs",
+  "canonical_name": "Notion Labs, Inc.",
+  "fein": "45-5580473",
+  "lca_filing_count": 35,
+  "lca_worker_positions": 34,
+  "warn_notice_count": 0,
+  "median_wage_usd": 240000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 250000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 225000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 7,
+      "median_wage_usd": 200000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 210000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 11,
+      "median_wage_usd": 253800.0
+    },
+    {
+      "fy": 2026,
+      "filings": 10,
+      "median_wage_usd": 232350.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 15,
+      "median_wage_usd": 231000.0
+    },
+    {
+      "title": "Engineering Manager",
+      "count": 4,
+      "median_wage_usd": 240000.0
+    },
+    {
+      "title": "Product Designer",
+      "count": 2,
+      "median_wage_usd": 260000.0
+    },
+    {
+      "title": "Data Engineer",
+      "count": 2,
+      "median_wage_usd": 220000.0
+    },
+    {
+      "title": "Communications Manager",
+      "count": 1,
+      "median_wage_usd": 250000.0
+    },
+    {
+      "title": "Enterprise Technical Support Specialist",
+      "count": 1,
+      "median_wage_usd": 159700.0
+    },
+    {
+      "title": "Strategic Sourcing Manager, Technology",
+      "count": 1,
+      "median_wage_usd": 180000.0
+    },
+    {
+      "title": "Head of Technical Accounting and Reporting",
+      "count": 1,
+      "median_wage_usd": 265000.0
+    },
+    {
+      "title": "Enterprise Technical Support",
+      "count": 1,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "title": "Security Infrastructure Manager",
+      "count": 1,
+      "median_wage_usd": 282000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 11
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 5
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 26
+    },
+    {
+      "state": "NY",
+      "count": 9
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 232350.0,
+    "gap_usd": 102190.0
+  }
+}

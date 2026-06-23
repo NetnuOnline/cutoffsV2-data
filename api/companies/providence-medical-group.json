@@ -1,0 +1,80 @@
+{
+  "slug": "providence-medical-group",
+  "canonical_name": "Providence Medical Foundation",
+  "fein": null,
+  "lca_filing_count": 1,
+  "warn_notice_count": 5,
+  "median_wage_usd": 103979,
+  "by_fy": [
+    {
+      "fy": 2026,
+      "filings": 0,
+      "median_wage_usd": null
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Project Manager",
+      "count": 0,
+      "median_wage_usd": null
+    }
+  ],
+  "top_states": [
+    {
+      "state": "WA",
+      "count": 3
+    },
+    {
+      "state": "CA",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "11/04/2024",
+      "effective_date": "12/31/2024",
+      "state": "WA",
+      "workers": 106,
+      "city": "Battleground, Camas, Vancouver"
+    },
+    {
+      "date": "11/04/2024",
+      "effective_date": "12/31/2024",
+      "state": "WA",
+      "workers": 9,
+      "city": "Vancouver"
+    },
+    {
+      "date": "02/16/2023",
+      "effective_date": "04/16/2023",
+      "state": "CA",
+      "workers": 8,
+      "city": "Irvine"
+    },
+    {
+      "date": "07/17/2019",
+      "effective_date": "09/16/2019",
+      "state": "CA",
+      "workers": 1,
+      "city": "Ventura"
+    },
+    {
+      "date": "10/10/2017",
+      "effective_date": "12/08/2017",
+      "state": "WA",
+      "workers": 62,
+      "city": "Everett"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "southwest-washington-wib",
+      "name": "Southwest Washington WIB",
+      "state": "WA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

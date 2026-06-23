@@ -1,0 +1,216 @@
+{
+  "slug": "nio-usa",
+  "canonical_name": "NIO USA, Inc.",
+  "fein": "47-4596669",
+  "lca_filing_count": 26,
+  "warn_notice_count": 4,
+  "median_wage_usd": 175000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 5,
+      "median_wage_usd": 155000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 5,
+      "median_wage_usd": 170000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 5,
+      "median_wage_usd": 175000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 5,
+      "median_wage_usd": 174362.76
+    },
+    {
+      "fy": 2024,
+      "filings": 4,
+      "median_wage_usd": 229233.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 237500.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Sr. Engineer, Embedded Machine Learning",
+      "count": 3,
+      "median_wage_usd": 155000.0
+    },
+    {
+      "title": "Sr. Software Engineer ",
+      "count": 2,
+      "median_wage_usd": 175000.0
+    },
+    {
+      "title": "Senior Full Stack Engineer - Autonomous Driving Tools",
+      "count": 2,
+      "median_wage_usd": 160000.0
+    },
+    {
+      "title": "Staff Systems Administrator",
+      "count": 1,
+      "median_wage_usd": 174362.76
+    },
+    {
+      "title": "Sr. Manager Firmware Engineering",
+      "count": 1,
+      "median_wage_usd": 245000.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 144214.0
+    },
+    {
+      "title": "Sr. Staff, Software Architect",
+      "count": 1,
+      "median_wage_usd": 245000.0
+    },
+    {
+      "title": "Senior Software QA Engineer",
+      "count": 1,
+      "median_wage_usd": 170000.0
+    },
+    {
+      "title": "Staff Algorithm Engineer",
+      "count": 1,
+      "median_wage_usd": 182413.0
+    },
+    {
+      "title": "Staff Software Development Engineer in Systems Test",
+      "count": 1,
+      "median_wage_usd": 170000.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 24
+    },
+    {
+      "state": "MA",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 22
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "county": "BOSTON CITY",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "12/06/2019",
+      "effective_date": "02/04/2020",
+      "state": "CA",
+      "workers": 141,
+      "city": "San Jose"
+    },
+    {
+      "date": "08/16/2019",
+      "effective_date": "10/15/2019",
+      "state": "CA",
+      "workers": 62,
+      "city": "San Jose"
+    },
+    {
+      "date": "04/09/2019",
+      "effective_date": "06/08/2019",
+      "state": "CA",
+      "workers": 50,
+      "city": "San Jose"
+    },
+    {
+      "date": "04/09/2019",
+      "effective_date": "06/08/2019",
+      "state": "CA",
+      "workers": 20,
+      "city": "San Francisco"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 7,
+    "initial_denials": 0,
+    "continuing_approvals": 43,
+    "continuing_denials": 1,
+    "total_approvals": 50,
+    "by_fy": [
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 9,
+        "continuing_denials": 0,
+        "total_approvals": 11
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 11,
+        "continuing_denials": 0,
+        "total_approvals": 12
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 18,
+        "continuing_denials": 1,
+        "total_approvals": 20
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 5,
+        "continuing_denials": 0,
+        "total_approvals": 7
+      }
+    ]
+  },
+  "lca_worker_positions": 26,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 175000.0,
+    "gap_usd": 44840.0
+  }
+}

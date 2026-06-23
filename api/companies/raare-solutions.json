@@ -1,0 +1,119 @@
+{
+  "slug": "raare-solutions",
+  "canonical_name": "Raare Solutions LLC",
+  "fein": "46-3546007",
+  "lca_filing_count": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 91000.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 89000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 91000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "CRM Data Analyst",
+      "count": 2,
+      "median_wage_usd": 90000.0
+    },
+    {
+      "title": "Senior Campaign Analyst",
+      "count": 1,
+      "median_wage_usd": 100000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NJ",
+      "county": "BERGEN",
+      "count": 2
+    },
+    {
+      "state": "SC",
+      "county": "YORK",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 2
+    },
+    {
+      "state": "SC",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 1,
+    "continuing_approvals": 3,
+    "continuing_denials": 0,
+    "total_approvals": 4,
+    "by_fy": [
+      {
+        "fy": 2014,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2016,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 1,
+        "initial_denials": 1,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      }
+    ]
+  },
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Computer Occupations, All Other",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 90000.0,
+    "gap_usd": -28000.0
+  }
+}

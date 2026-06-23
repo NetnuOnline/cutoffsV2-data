@@ -1,0 +1,81 @@
+{
+  "slug": "zignex",
+  "canonical_name": "ZignEx, Inc",
+  "fein": "85-1665801",
+  "lca_filing_count": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 102837.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 80000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 150000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Product Manager",
+      "count": 3,
+      "median_wage_usd": 125674.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 63000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "MONTGOMERY",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 4
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 1,
+    "continuing_denials": 0,
+    "total_approvals": 2,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 125674.0,
+    "gap_usd": -4486.0
+  }
+}

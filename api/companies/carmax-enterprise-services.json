@@ -1,0 +1,144 @@
+{
+  "slug": "carmax-enterprise-services",
+  "canonical_name": "CarMax Enterprise Services, LLC",
+  "fein": "87-2574952",
+  "lca_filing_count": 17,
+  "lca_worker_positions": 17,
+  "warn_notice_count": 0,
+  "median_wage_usd": 155000.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 155000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 7,
+      "median_wage_usd": 162000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 7,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 135000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Principal Engineer, Quality",
+      "count": 3,
+      "median_wage_usd": 145000.0
+    },
+    {
+      "title": "Principal Engineer, Cloud",
+      "count": 2,
+      "median_wage_usd": 149000.0
+    },
+    {
+      "title": "Principal Engineer, Software",
+      "count": 2,
+      "median_wage_usd": 175000.0
+    },
+    {
+      "title": "Senior Engineer, Cloud",
+      "count": 2,
+      "median_wage_usd": 157500.0
+    },
+    {
+      "title": "Senior Architect, Application Systems",
+      "count": 1,
+      "median_wage_usd": 210000.0
+    },
+    {
+      "title": "Architect, Database Engineering",
+      "count": 1,
+      "median_wage_usd": 170000.0
+    },
+    {
+      "title": "Senior Engineer, Software (Salesforce)",
+      "count": 1,
+      "median_wage_usd": 162000.0
+    },
+    {
+      "title": "Sr. Engineer, Software",
+      "count": 1,
+      "median_wage_usd": 155000.0
+    },
+    {
+      "title": "Senior Engineer, Software",
+      "count": 1,
+      "median_wage_usd": 155000.0
+    },
+    {
+      "title": "Architect, Applications Systems",
+      "count": 1,
+      "median_wage_usd": 180000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 4
+    },
+    {
+      "state": "VA",
+      "county": "RICHMOND CITY",
+      "count": 3
+    },
+    {
+      "state": "NC",
+      "county": "GUILFORD",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "county": "MECKLENBURG",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "county": "COBB",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "county": "FORSYTH",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "VA",
+      "count": 7
+    },
+    {
+      "state": "TX",
+      "count": 6
+    },
+    {
+      "state": "NC",
+      "count": 2
+    },
+    {
+      "state": "GA",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 155000.0,
+    "gap_usd": 24840.0
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "slug": "lenovo-united-states",
+  "canonical_name": "Lenovo (United States) Inc",
+  "fein": "52-2449153",
+  "lca_filing_count": 56,
+  "lca_worker_positions": 156,
+  "warn_notice_count": 0,
+  "median_wage_usd": 111550.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 6,
+      "median_wage_usd": 85866.0
+    },
+    {
+      "fy": 2021,
+      "filings": 8,
+      "median_wage_usd": 103178.0
+    },
+    {
+      "fy": 2022,
+      "filings": 10,
+      "median_wage_usd": 118362.5
+    },
+    {
+      "fy": 2023,
+      "filings": 7,
+      "median_wage_usd": 102690.0
+    },
+    {
+      "fy": 2024,
+      "filings": 6,
+      "median_wage_usd": 119805.0
+    },
+    {
+      "fy": 2025,
+      "filings": 4,
+      "median_wage_usd": 142781.5
+    },
+    {
+      "fy": 2026,
+      "filings": 15,
+      "median_wage_usd": 111526.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "MDM Advisory Engineer",
+      "count": 4,
+      "median_wage_usd": 115273.5
+    },
+    {
+      "title": "Advisory IT Engineer",
+      "count": 2,
+      "median_wage_usd": 95201.0
+    },
+    {
+      "title": "Sr. Engineer, SW",
+      "count": 2,
+      "median_wage_usd": 156062.5
+    },
+    {
+      "title": "Software Architecture Manager - Workstation",
+      "count": 2,
+      "median_wage_usd": 180802.5
+    },
+    {
+      "title": "Senior Manager, SaaS Cloud",
+      "count": 1,
+      "median_wage_usd": 189215.0
+    },
+    {
+      "title": "Solution Product Manager",
+      "count": 1,
+      "median_wage_usd": 94952.0
+    },
+    {
+      "title": "Advisory DevOps Engineer",
+      "count": 1,
+      "median_wage_usd": 113547.0
+    },
+    {
+      "title": "Global Services CRM Program Manager",
+      "count": 1,
+      "median_wage_usd": 132000.0
+    },
+    {
+      "title": "Principal Industrial Designer",
+      "count": 1,
+      "median_wage_usd": 119538.0
+    },
+    {
+      "title": "Advisory Engineer",
+      "count": 1,
+      "median_wage_usd": 109262.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NC",
+      "county": "WAKE",
+      "count": 29
+    },
+    {
+      "state": "GA",
+      "county": "FORSYTH",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 2
+    },
+    {
+      "state": "FL",
+      "county": "SEMINOLE",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "county": "GUILFORD",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "FORT BEND",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "county": "PASCO",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NC",
+      "count": 44
+    },
+    {
+      "state": "FL",
+      "count": 3
+    },
+    {
+      "state": "IL",
+      "count": 3
+    },
+    {
+      "state": "GA",
+      "count": 2
+    },
+    {
+      "state": "WA",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 113547.0,
+    "gap_usd": -16613.0
+  }
+}

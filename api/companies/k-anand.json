@@ -1,0 +1,129 @@
+{
+  "slug": "k-anand",
+  "canonical_name": "K Anand Corporation",
+  "fein": "42-1679845",
+  "lca_filing_count": 10,
+  "lca_worker_positions": 10,
+  "warn_notice_count": 0,
+  "median_wage_usd": 91301.6,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 84177.5
+    },
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 96865.6
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 91041.6
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 84198.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 103750.40000000001,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Network and Computer Systems Administrator",
+      "count": 2,
+      "median_wage_usd": 81764.8
+    },
+    {
+      "title": "SAP Consultant",
+      "count": 2,
+      "median_wage_usd": 91301.6
+    },
+    {
+      "title": "SAP FSCD Consultant",
+      "count": 1,
+      "median_wage_usd": 84198.0
+    },
+    {
+      "title": "Sales Engineer",
+      "count": 1,
+      "median_wage_usd": 96054.0
+    },
+    {
+      "title": "SAP FICO Consultant",
+      "count": 1,
+      "median_wage_usd": 72301.0
+    },
+    {
+      "title": "Program / Project Manager",
+      "count": 1,
+      "median_wage_usd": 131144.0
+    },
+    {
+      "title": "Software Quality Assurance Engineer",
+      "count": 1,
+      "median_wage_usd": 103750.40000000001
+    },
+    {
+      "title": "Technology Lead",
+      "count": 1,
+      "median_wage_usd": 96865.6
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 6
+    },
+    {
+      "state": "CA",
+      "count": 2
+    },
+    {
+      "state": "IN",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1244",
+    "soc_title": "Network and Computer Systems Administrators",
+    "market_median_usd": 95000.0,
+    "employer_median_usd": 81764.8,
+    "gap_usd": -13235.2
+  }
+}

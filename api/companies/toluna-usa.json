@@ -1,0 +1,50 @@
+{
+  "slug": "toluna-usa",
+  "canonical_name": "Toluna USA, Inc.",
+  "fein": "20-5461944",
+  "lca_filing_count": 2,
+  "lca_worker_positions": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 107449.0,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 107341.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 107557.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 2,
+      "median_wage_usd": 107449.0
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "CT",
+      "count": 1
+    },
+    {
+      "state": "NH",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 107449.0,
+    "gap_usd": -22711.0
+  }
+}

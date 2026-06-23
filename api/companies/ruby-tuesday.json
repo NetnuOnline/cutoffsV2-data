@@ -1,0 +1,63 @@
+{
+  "slug": "ruby-tuesday",
+  "canonical_name": "Ruby Tuesday",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 3,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "NE",
+      "count": 1
+    },
+    {
+      "state": "TN",
+      "count": 1
+    },
+    {
+      "state": "AL",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "08/26/2018",
+      "effective_date": "08/26/2018",
+      "state": "NE",
+      "workers": 45,
+      "city": "Grand Island"
+    },
+    {
+      "date": "11/26/2013",
+      "effective_date": "11/20/2013",
+      "state": "TN",
+      "workers": 42,
+      "city": "Maryville"
+    },
+    {
+      "date": "02/11/2000",
+      "effective_date": "05/10/2000",
+      "state": "AL",
+      "workers": 160,
+      "city": "Mobile"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "grand-island-msa",
+      "name": "Grand Island MSA",
+      "state": "NE"
+    },
+    {
+      "slug": "03-local-workforce-investment-area",
+      "name": "03 Local Workforce Investment Area",
+      "state": "TN"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

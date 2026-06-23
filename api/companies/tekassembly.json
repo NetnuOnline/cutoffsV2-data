@@ -1,0 +1,198 @@
+{
+  "slug": "tekassembly",
+  "canonical_name": "tekAssembly Corporation",
+  "fein": "20-4249751",
+  "lca_filing_count": 54,
+  "lca_worker_positions": 51,
+  "warn_notice_count": 0,
+  "median_wage_usd": 101200.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 8,
+      "median_wage_usd": 93100.0
+    },
+    {
+      "fy": 2022,
+      "filings": 14,
+      "median_wage_usd": 94650.0
+    },
+    {
+      "fy": 2023,
+      "filings": 19,
+      "median_wage_usd": 102700.0
+    },
+    {
+      "fy": 2024,
+      "filings": 6,
+      "median_wage_usd": 106000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 109500.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 115000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 24,
+      "median_wage_usd": 102700.0
+    },
+    {
+      "title": "SOFTWARE ENGINEER",
+      "count": 3,
+      "median_wage_usd": 101200.0
+    },
+    {
+      "title": "Software Testing and Quality Assurance",
+      "count": 3,
+      "median_wage_usd": 90000.0
+    },
+    {
+      "title": "Software Developer ",
+      "count": 2,
+      "median_wage_usd": 94100.0
+    },
+    {
+      "title": "Java Developer",
+      "count": 2,
+      "median_wage_usd": 109950.0
+    },
+    {
+      "title": "Consultant",
+      "count": 1,
+      "median_wage_usd": 87200.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 102700.0
+    },
+    {
+      "title": "UIUX Designer",
+      "count": 1,
+      "median_wage_usd": 80000.0
+    },
+    {
+      "title": "Devops Engineer",
+      "count": 1,
+      "median_wage_usd": 130894.0
+    },
+    {
+      "title": "Python Developer",
+      "count": 1,
+      "median_wage_usd": 94100.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IL",
+      "county": "LAKE",
+      "count": 10
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 7
+    },
+    {
+      "state": "NY",
+      "county": "ALBANY",
+      "count": 6
+    },
+    {
+      "state": "MO",
+      "county": "ST LOUIS",
+      "count": 3
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 2
+    },
+    {
+      "state": "VA",
+      "county": "FAIRFAX",
+      "count": 2
+    },
+    {
+      "state": "MI",
+      "county": "MACOMB",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "county": "DURHAM",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "county": "MIDDLESEX",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 14
+    },
+    {
+      "state": "IL",
+      "count": 13
+    },
+    {
+      "state": "NY",
+      "count": 6
+    },
+    {
+      "state": "MO",
+      "count": 3
+    },
+    {
+      "state": "GA",
+      "count": 3
+    },
+    {
+      "state": "VA",
+      "count": 2
+    },
+    {
+      "state": "MN",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "count": 2
+    },
+    {
+      "state": "NC",
+      "count": 2
+    },
+    {
+      "state": "FL",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 102700.0,
+    "gap_usd": -27460.0
+  }
+}

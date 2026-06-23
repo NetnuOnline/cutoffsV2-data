@@ -1,0 +1,104 @@
+{
+  "slug": "iron-mountain",
+  "canonical_name": "Iron Mountain",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "VA",
+      "count": 1
+    },
+    {
+      "state": "IN",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "04/30/2024",
+      "effective_date": "06/28/2024",
+      "state": "VA",
+      "workers": 64,
+      "city": "Sterling, VA"
+    },
+    {
+      "date": "06/29/2020",
+      "effective_date": "09/25/2020",
+      "state": "IN",
+      "workers": 68,
+      "city": "Indianapolis"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "northern-virginia-lwia-xi",
+      "name": "Northern Virginia LWIA XI",
+      "state": "VA"
+    }
+  ],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2019-10-31",
+        "formType": "8-K",
+        "accessionNumber": "0001020569-19-000220",
+        "items": [
+          "2.05",
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities",
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001020569&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 1,
+    "itemCounts": {
+      "2.05": 1,
+      "5.02": 1
+    },
+    "latestFilingDate": "2019-10-31",
+    "earliestFilingDate": "2019-10-31"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 1,
+    "continuing_denials": 0,
+    "total_approvals": 1,
+    "by_fy": [
+      {
+        "fy": 2009,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2017,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "eastern-air-lines",
+  "canonical_name": "Eastern Air Lines, Inc.",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "04/19/2000",
+      "effective_date": "04/19/2000",
+      "state": "GA",
+      "workers": 2000,
+      "city": "Atlanta"
+    },
+    {
+      "date": "07/17/1991",
+      "effective_date": "07/17/1991",
+      "state": "GA",
+      "workers": 7379,
+      "city": "Atlanta"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "city-of-atlanta-wib",
+      "name": "City of Atlanta WIB",
+      "state": "GA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

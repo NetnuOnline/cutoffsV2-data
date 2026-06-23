@@ -1,0 +1,77 @@
+{
+  "slug": "keefe-group",
+  "canonical_name": "Keefe Group, LLC",
+  "fein": "47-4965474",
+  "lca_filing_count": 7,
+  "lca_worker_positions": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 118014.52,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 121576.0
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 105000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 122500.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 118014.52,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 5,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "title": "Quality Assurance Engineer in Testing",
+      "count": 1,
+      "median_wage_usd": 118014.52
+    },
+    {
+      "title": "Senior Software Developer",
+      "count": 1,
+      "median_wage_usd": 121576.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MO",
+      "county": "ST LOUIS",
+      "count": 6
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MO",
+      "count": 7
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 120000.0,
+    "gap_usd": -10160.0
+  }
+}

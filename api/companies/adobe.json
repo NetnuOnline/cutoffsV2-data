@@ -1,0 +1,203 @@
+{
+  "slug": "adobe",
+  "canonical_name": "Adobe Inc.",
+  "fein": "77-0019522",
+  "lca_filing_count": 991,
+  "lca_worker_positions": 1468,
+  "warn_notice_count": 0,
+  "median_wage_usd": 170872.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 110,
+      "median_wage_usd": 144737.0
+    },
+    {
+      "fy": 2021,
+      "filings": 192,
+      "median_wage_usd": 145246.0
+    },
+    {
+      "fy": 2022,
+      "filings": 154,
+      "median_wage_usd": 152620.0
+    },
+    {
+      "fy": 2023,
+      "filings": 116,
+      "median_wage_usd": 185000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 148,
+      "median_wage_usd": 185000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 136,
+      "median_wage_usd": 204603.0
+    },
+    {
+      "fy": 2026,
+      "filings": 129,
+      "median_wage_usd": 205000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Development Engineer",
+      "count": 285,
+      "median_wage_usd": 174000.0
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "count": 42,
+      "median_wage_usd": 213500.0
+    },
+    {
+      "title": "SOFTWARE DEVELOPMENT ENGINEER",
+      "count": 37,
+      "median_wage_usd": 145246.0
+    },
+    {
+      "title": "Product Manager",
+      "count": 29,
+      "median_wage_usd": 180000.0
+    },
+    {
+      "title": "Mgr, Software Development",
+      "count": 19,
+      "median_wage_usd": 239200.0
+    },
+    {
+      "title": "Data Science Engineer",
+      "count": 18,
+      "median_wage_usd": 177500.0
+    },
+    {
+      "title": "Professional Services Consultant",
+      "count": 17,
+      "median_wage_usd": 143978.0
+    },
+    {
+      "title": "User Experience Designer",
+      "count": 16,
+      "median_wage_usd": 161250.0
+    },
+    {
+      "title": "Technical Support Engineer",
+      "count": 13,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "title": "Business Intelligence Analyst",
+      "count": 13,
+      "median_wage_usd": 151882.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 385
+    },
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 80
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 61
+    },
+    {
+      "state": "UT",
+      "county": "UTAH",
+      "count": 37
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 30
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 25
+    },
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 23
+    },
+    {
+      "state": "MA",
+      "county": "WALTHAM CITY",
+      "count": 12
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 7
+    },
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 7
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 701
+    },
+    {
+      "state": "WA",
+      "count": 84
+    },
+    {
+      "state": "TX",
+      "count": 51
+    },
+    {
+      "state": "UT",
+      "count": 48
+    },
+    {
+      "state": "NY",
+      "count": 38
+    },
+    {
+      "state": "MA",
+      "count": 25
+    },
+    {
+      "state": "NC",
+      "count": 8
+    },
+    {
+      "state": "IL",
+      "count": 7
+    },
+    {
+      "state": "CO",
+      "count": 4
+    },
+    {
+      "state": "CT",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 192941.0,
+    "gap_usd": 62781.0
+  }
+}

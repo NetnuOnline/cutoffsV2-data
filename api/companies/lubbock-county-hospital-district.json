@@ -1,0 +1,64 @@
+{
+  "slug": "lubbock-county-hospital-district",
+  "canonical_name": "Lubbock County Hospital District",
+  "fein": "75-1301362",
+  "lca_filing_count": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 76648.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 46113.600000000006
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 302400.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 76648.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Physician",
+      "count": 2,
+      "median_wage_usd": 302400.0
+    },
+    {
+      "title": "Medical Laboratory Technologist",
+      "count": 2,
+      "median_wage_usd": 46113.600000000006
+    },
+    {
+      "title": "Physical Therapist II",
+      "count": 1,
+      "median_wage_usd": 76648.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "LUBBOCK",
+      "count": 4
+    },
+    {
+      "state": "TX",
+      "county": "CROSBY",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 5
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 5,
+  "top_socs": [],
+  "lca_periods": []
+}

@@ -1,0 +1,82 @@
+{
+  "slug": "bolide-technology-group",
+  "canonical_name": "Bolide Technology Group, Inc.",
+  "fein": "95-4535206",
+  "lca_filing_count": 8,
+  "lca_worker_positions": 7,
+  "warn_notice_count": 0,
+  "median_wage_usd": 48700.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 48200.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 55710.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 57950.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 48700.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 46900.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Accountant",
+      "count": 4,
+      "median_wage_usd": 55710.0
+    },
+    {
+      "title": "Event Planner",
+      "count": 2,
+      "median_wage_usd": 46900.0
+    },
+    {
+      "title": "Market Research Analyst",
+      "count": 1,
+      "median_wage_usd": 48700.0
+    },
+    {
+      "title": "Business Development Specialist",
+      "count": 1,
+      "median_wage_usd": 48700.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 6
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 8
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-2011",
+    "soc_title": "Accountants and Auditors",
+    "market_median_usd": 79000.0,
+    "employer_median_usd": 55710.0,
+    "gap_usd": -23290.0
+  }
+}

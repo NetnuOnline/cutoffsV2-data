@@ -1,0 +1,56 @@
+{
+  "slug": "brighterion",
+  "canonical_name": "Brighterion, Inc.",
+  "fein": "91-2026077",
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 152794.5,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 139589.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 166000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Lead Data Scientist",
+      "count": 1,
+      "median_wage_usd": 166000.0
+    },
+    {
+      "title": "Lead Customer Experience and Engagement Analyst",
+      "count": 1,
+      "median_wage_usd": 139589.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Computer Systems Engineers/Architects",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 139589.0,
+    "gap_usd": 21589.0
+  }
+}

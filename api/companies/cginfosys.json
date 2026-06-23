@@ -1,0 +1,203 @@
+{
+  "slug": "cginfosys",
+  "canonical_name": "CGINFOSYS LLC",
+  "fein": "47-2055586",
+  "lca_filing_count": 26,
+  "lca_worker_positions": 26,
+  "warn_notice_count": 0,
+  "median_wage_usd": 92539.5,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 102107.5
+    },
+    {
+      "fy": 2021,
+      "filings": 4,
+      "median_wage_usd": 111789.5
+    },
+    {
+      "fy": 2022,
+      "filings": 4,
+      "median_wage_usd": 97115.0
+    },
+    {
+      "fy": 2023,
+      "filings": 7,
+      "median_wage_usd": 101192.0
+    },
+    {
+      "fy": 2024,
+      "filings": 4,
+      "median_wage_usd": 83657.79999999999
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 79819.8
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 82243.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 8,
+      "median_wage_usd": 95649.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 4,
+      "median_wage_usd": 83658.0
+    },
+    {
+      "title": "DevOps Engineer",
+      "count": 3,
+      "median_wage_usd": 130894.0
+    },
+    {
+      "title": "ServiceNow Developer",
+      "count": 2,
+      "median_wage_usd": 83148.0
+    },
+    {
+      "title": " Java Full Stack Developer",
+      "count": 1,
+      "median_wage_usd": 101192.0
+    },
+    {
+      "title": "Devops Engineer",
+      "count": 1,
+      "median_wage_usd": 120578.0
+    },
+    {
+      "title": "Java Full Stack Engineer",
+      "count": 1,
+      "median_wage_usd": 83637.0
+    },
+    {
+      "title": "Robotic Process Automation (RPA) Engineer",
+      "count": 1,
+      "median_wage_usd": 95326.0
+    },
+    {
+      "title": "Java Full Stack Developer",
+      "count": 1,
+      "median_wage_usd": 92685.0
+    },
+    {
+      "title": "Windows Applications developer",
+      "count": 1,
+      "median_wage_usd": 90750.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 4
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 3
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 1
+    },
+    {
+      "state": "UT",
+      "county": "SALT LAKE",
+      "count": 1
+    },
+    {
+      "state": "NV",
+      "county": "CLARK",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "county": "FAIRFAX CITY",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "county": "UNION",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 12
+    },
+    {
+      "state": "CA",
+      "count": 3
+    },
+    {
+      "state": "OH",
+      "count": 2
+    },
+    {
+      "state": "MN",
+      "count": 2
+    },
+    {
+      "state": "WI",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "count": 1
+    },
+    {
+      "state": "UT",
+      "count": 1
+    },
+    {
+      "state": "NV",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 101192.0,
+    "gap_usd": -28968.0
+  }
+}

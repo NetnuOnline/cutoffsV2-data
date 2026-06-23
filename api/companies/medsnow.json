@@ -1,0 +1,47 @@
+{
+  "slug": "medsnow",
+  "canonical_name": "MedsNow, Inc.",
+  "fein": "81-4161262",
+  "lca_filing_count": 1,
+  "lca_worker_positions": 1,
+  "warn_notice_count": 0,
+  "median_wage_usd": 102481.6,
+  "by_fy": [
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 102481.6,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Financial Data Analyst",
+      "count": 1,
+      "median_wage_usd": 102481.6
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 102481.6,
+    "gap_usd": -5538.4
+  }
+}

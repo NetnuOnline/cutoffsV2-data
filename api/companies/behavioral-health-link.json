@@ -1,0 +1,95 @@
+{
+  "slug": "behavioral-health-link",
+  "canonical_name": "Behavioral Health Link",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 7,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "FL",
+      "count": 3
+    },
+    {
+      "state": "AZ",
+      "count": 2
+    },
+    {
+      "state": "WV",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "02/19/2025",
+      "effective_date": "02/19/2025",
+      "state": "AZ",
+      "workers": 2,
+      "city": "Atlanta"
+    },
+    {
+      "date": "02/19/2025",
+      "effective_date": "02/19/2025",
+      "state": "WV",
+      "workers": 1,
+      "city": null
+    },
+    {
+      "date": "02/19/2025",
+      "effective_date": "02/19/2025",
+      "state": "AZ",
+      "workers": 0,
+      "city": "Atlanta"
+    },
+    {
+      "date": "02/18/2025",
+      "effective_date": "03/23/2025",
+      "state": "FL",
+      "workers": 1,
+      "city": "MIDDLEBURG"
+    },
+    {
+      "date": "02/18/2025",
+      "effective_date": "03/23/2025",
+      "state": "FL",
+      "workers": 1,
+      "city": "JACKSONVILLE"
+    },
+    {
+      "date": "02/18/2025",
+      "effective_date": "03/23/2025",
+      "state": "FL",
+      "workers": 1,
+      "city": "ROTONDA WEST"
+    },
+    {
+      "date": "02/17/2025",
+      "effective_date": "03/25/2025",
+      "state": "NC",
+      "workers": 2,
+      "city": "1201 Peachtree St NE, Atlanta GA"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "careersource-northeast-florida",
+      "name": "CareerSource Northeast Florida",
+      "state": "FL"
+    },
+    {
+      "slug": "careersource-southwest-florida",
+      "name": "CareerSource Southwest Florida",
+      "state": "FL"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

@@ -1,0 +1,148 @@
+{
+  "slug": "aktra",
+  "canonical_name": "Aktra, Inc.",
+  "fein": "20-2627941",
+  "lca_filing_count": 15,
+  "lca_worker_positions": 14,
+  "warn_notice_count": 0,
+  "median_wage_usd": 106000.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 95000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 8,
+      "median_wage_usd": 98500.0
+    },
+    {
+      "fy": 2025,
+      "filings": 4,
+      "median_wage_usd": 108000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 98000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 3,
+      "median_wage_usd": 116000.0
+    },
+    {
+      "title": "Business Data Analyst",
+      "count": 2,
+      "median_wage_usd": 98000.0
+    },
+    {
+      "title": "Business Analyst",
+      "count": 2,
+      "median_wage_usd": 91000.0
+    },
+    {
+      "title": "Data Analyst ",
+      "count": 2,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "title": "Data Analyst",
+      "count": 2,
+      "median_wage_usd": 91000.0
+    },
+    {
+      "title": "Financial Engineer ",
+      "count": 1,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "title": "Software QA Engineer",
+      "count": 1,
+      "median_wage_usd": 95000.0
+    },
+    {
+      "title": "Financial Data Analyst",
+      "count": 1,
+      "median_wage_usd": 87000.0
+    },
+    {
+      "title": "Financial Quantitative Modeler",
+      "count": 1,
+      "median_wage_usd": 145000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "DC",
+      "county": "DISTRICT OF COLUMBIA",
+      "count": 4
+    },
+    {
+      "state": "VA",
+      "county": "ARLINGTON",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "county": "HUDSON",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "RIVERSIDE",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "county": "FAIRFAX",
+      "count": 1
+    },
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "VA",
+      "count": 6
+    },
+    {
+      "state": "DC",
+      "count": 5
+    },
+    {
+      "state": "CA",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    },
+    {
+      "state": "AZ",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 98000.0,
+    "gap_usd": -10020.0
+  }
+}

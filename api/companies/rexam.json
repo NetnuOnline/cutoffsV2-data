@@ -1,0 +1,128 @@
+{
+  "slug": "rexam",
+  "canonical_name": "Rexam",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 10,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "AL",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "count": 2
+    },
+    {
+      "state": "GA",
+      "count": 2
+    },
+    {
+      "state": "WA",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "OK",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "12/28/2023",
+      "effective_date": "02/29/2024",
+      "state": "WA",
+      "workers": 121,
+      "city": "Kent"
+    },
+    {
+      "date": "07/31/2018",
+      "effective_date": "09/30/2018",
+      "state": "TX",
+      "workers": 85,
+      "city": "Longview"
+    },
+    {
+      "date": "06/18/2018",
+      "effective_date": "08/17/2018",
+      "state": "CA",
+      "workers": 107,
+      "city": "Chatsworth"
+    },
+    {
+      "date": "05/01/2018",
+      "effective_date": "06/30/2018",
+      "state": "AL",
+      "workers": 73,
+      "city": "Birmingham"
+    },
+    {
+      "date": "12/09/2015",
+      "effective_date": "12/28/2015",
+      "state": "AL",
+      "workers": 13,
+      "city": "Birmingham"
+    },
+    {
+      "date": "01/10/2012",
+      "effective_date": "03/01/2012",
+      "state": "IL",
+      "workers": 121,
+      "city": "Buffalo Grove"
+    },
+    {
+      "date": "12/10/2008",
+      "effective_date": "12/10/2008",
+      "state": "OK",
+      "workers": 82,
+      "city": "05 - CentralRegion"
+    },
+    {
+      "date": "07/31/2008",
+      "effective_date": "07/31/2008",
+      "state": "GA",
+      "workers": 92,
+      "city": "Forest Park"
+    },
+    {
+      "date": "04/07/2008",
+      "effective_date": "04/07/2008",
+      "state": "GA",
+      "workers": 75,
+      "city": "Rossville"
+    },
+    {
+      "date": "02/15/1999",
+      "effective_date": "02/15/1999",
+      "state": "IL",
+      "workers": 0,
+      "city": "Chicago"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "central-six-alabama-works",
+      "name": "Central Six Alabama Works",
+      "state": "AL"
+    },
+    {
+      "slug": "east-texas-wda",
+      "name": "East Texas WDA",
+      "state": "TX"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

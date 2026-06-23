@@ -1,0 +1,71 @@
+{
+  "slug": "creatify-lab",
+  "canonical_name": "Creatify Lab Inc.",
+  "fein": "93-2442544",
+  "lca_filing_count": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 150000.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 167331.2
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 72529.59999999999
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 140000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 2,
+      "median_wage_usd": 167331.2
+    },
+    {
+      "title": "Digital & Product Designer",
+      "count": 1,
+      "median_wage_usd": 90000.0
+    },
+    {
+      "title": "Data Analyst",
+      "count": 1,
+      "median_wage_usd": 72529.59999999999
+    },
+    {
+      "title": "Full Stack Engineer",
+      "count": 1,
+      "median_wage_usd": 190000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 5
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 5,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 184662.4,
+    "gap_usd": 54502.4
+  }
+}

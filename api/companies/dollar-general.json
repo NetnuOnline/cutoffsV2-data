@@ -1,0 +1,198 @@
+{
+  "slug": "dollar-general",
+  "canonical_name": "Dollar General Corporation",
+  "fein": "61-0502302",
+  "lca_filing_count": 58,
+  "lca_worker_positions": 54,
+  "warn_notice_count": 0,
+  "median_wage_usd": 120994.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 3,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 4,
+      "median_wage_usd": 92580.5
+    },
+    {
+      "fy": 2023,
+      "filings": 15,
+      "median_wage_usd": 110136.0
+    },
+    {
+      "fy": 2024,
+      "filings": 7,
+      "median_wage_usd": 149781.0
+    },
+    {
+      "fy": 2025,
+      "filings": 17,
+      "median_wage_usd": 127067.0
+    },
+    {
+      "fy": 2026,
+      "filings": 8,
+      "median_wage_usd": 108680.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Lead Software Engineer",
+      "count": 10,
+      "median_wage_usd": 128826.5
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 7,
+      "median_wage_usd": 116438.0
+    },
+    {
+      "title": "Solution Architect",
+      "count": 4,
+      "median_wage_usd": 127067.0
+    },
+    {
+      "title": "Principal Software Engineer",
+      "count": 4,
+      "median_wage_usd": 141461.0
+    },
+    {
+      "title": "Senior Scrum Master",
+      "count": 2,
+      "median_wage_usd": 97510.5
+    },
+    {
+      "title": "IT Engineering Senior Manager",
+      "count": 2,
+      "median_wage_usd": 148669.0
+    },
+    {
+      "title": "Senior Quality Engineer",
+      "count": 2,
+      "median_wage_usd": 107598.0
+    },
+    {
+      "title": "Director, Applications Development",
+      "count": 2,
+      "median_wage_usd": 179264.5
+    },
+    {
+      "title": "Principal Technology Program Manager",
+      "count": 2,
+      "median_wage_usd": 138985.5
+    },
+    {
+      "title": "Software Engineer II (Mobile App)",
+      "count": 2,
+      "median_wage_usd": 101192.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TN",
+      "county": "DAVIDSON",
+      "count": 6
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 3
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 3
+    },
+    {
+      "state": "GA",
+      "county": "COBB",
+      "count": 3
+    },
+    {
+      "state": "NJ",
+      "county": "MIDDLESEX",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 2
+    },
+    {
+      "state": "FL",
+      "county": "ORANGE",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 2
+    },
+    {
+      "state": "TN",
+      "county": "SUMNER",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TN",
+      "count": 21
+    },
+    {
+      "state": "TX",
+      "count": 14
+    },
+    {
+      "state": "GA",
+      "count": 6
+    },
+    {
+      "state": "FL",
+      "count": 3
+    },
+    {
+      "state": "WA",
+      "count": 3
+    },
+    {
+      "state": "NJ",
+      "count": 2
+    },
+    {
+      "state": "AR",
+      "count": 2
+    },
+    {
+      "state": "MI",
+      "count": 2
+    },
+    {
+      "state": "NY",
+      "count": 1
+    },
+    {
+      "state": "WI",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 118830.0,
+    "gap_usd": -11330.0
+  }
+}

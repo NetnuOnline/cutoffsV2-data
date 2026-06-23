@@ -1,0 +1,80 @@
+{
+  "slug": "wipro-nextgen-enterprise",
+  "canonical_name": "Wipro NextGen Enterprise Inc.,",
+  "fein": "45-0610401",
+  "lca_filing_count": 5,
+  "lca_worker_positions": 15,
+  "warn_notice_count": 0,
+  "median_wage_usd": 86400.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 86400.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 85800.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 198288.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Consultant-Tech & Impl Cons L1",
+      "count": 2,
+      "median_wage_usd": 198288.0
+    },
+    {
+      "title": "Solution Architect L1",
+      "count": 2,
+      "median_wage_usd": 86400.0
+    },
+    {
+      "title": "Technical Lead L1",
+      "count": 1,
+      "median_wage_usd": 85800.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "GA",
+      "county": "DEKALB",
+      "count": 1
+    },
+    {
+      "state": "RI",
+      "county": "PAWTUCKET CITY",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NC",
+      "count": 2
+    },
+    {
+      "state": "GA",
+      "count": 2
+    },
+    {
+      "state": "RI",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Computer Systems Engineers/Architects",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 86400.0,
+    "gap_usd": -31600.0
+  }
+}

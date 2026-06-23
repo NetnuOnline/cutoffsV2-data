@@ -1,0 +1,234 @@
+{
+  "slug": "perdue-farms",
+  "canonical_name": "Perdue Farms Inc.",
+  "fein": "52-0888853",
+  "lca_filing_count": 7,
+  "warn_notice_count": 5,
+  "median_wage_usd": 131061.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 93600.0
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 104291.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 141991.5
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 140893.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Systems Analyst - Procurement",
+      "count": 2,
+      "median_wage_usd": 93600.0
+    },
+    {
+      "title": "Sr IT Tech Lead",
+      "count": 1,
+      "median_wage_usd": 146786.0
+    },
+    {
+      "title": "Analytics System Development Manager",
+      "count": 1,
+      "median_wage_usd": 131061.0
+    },
+    {
+      "title": "Sr. Developer Business Analytics (Finance)",
+      "count": 1,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "title": "SAP Technical Lead - FICO",
+      "count": 1,
+      "median_wage_usd": 104291.0
+    },
+    {
+      "title": "Data Analytic Center of Excellence Manager",
+      "count": 1,
+      "median_wage_usd": 152922.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MD",
+      "count": 5
+    },
+    {
+      "state": "IN",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MD",
+      "county": "WICOMICO",
+      "count": 4
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 1
+    },
+    {
+      "state": "IN",
+      "county": "BARTHOLOMEW",
+      "count": 1
+    },
+    {
+      "state": "MD",
+      "county": "WASHINGTON",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "03/16/2026",
+      "effective_date": "04/19/2026",
+      "state": "NC",
+      "workers": 104,
+      "city": "242 Perdue Road, Cofield"
+    },
+    {
+      "date": "09/03/2025",
+      "effective_date": "11/02/2025",
+      "state": "IN",
+      "workers": 293,
+      "city": "Washington"
+    },
+    {
+      "date": "01/21/2025",
+      "effective_date": "03/28/2025",
+      "state": "TN",
+      "workers": 433,
+      "city": "Putnam County"
+    },
+    {
+      "date": "05/01/2017",
+      "effective_date": "05/01/2017",
+      "state": "GA",
+      "workers": 60,
+      "city": "Gainesville"
+    },
+    {
+      "date": "04/30/2012",
+      "effective_date": "04/11/2012",
+      "state": "TN",
+      "workers": 142,
+      "city": "Monterey"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "georgia-mountains-wib",
+      "name": "Georgia Mountains WIB",
+      "state": "GA"
+    },
+    {
+      "slug": "07-local-workforce-investment-area",
+      "name": "07 Local Workforce Investment Area",
+      "state": "TN"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 6,
+    "continuing_denials": 0,
+    "total_approvals": 7,
+    "by_fy": [
+      {
+        "fy": 2011,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2013,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2014,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2015,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2016,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2017,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 4,
+        "continuing_denials": 0,
+        "total_approvals": 4
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      }
+    ]
+  },
+  "lca_worker_positions": 7,
+  "top_socs": [],
+  "lca_periods": []
+}

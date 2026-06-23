@@ -1,0 +1,126 @@
+{
+  "slug": "sunray-it",
+  "canonical_name": "Sunray IT, Inc.",
+  "fein": "20-1463118",
+  "lca_filing_count": 15,
+  "lca_worker_positions": 14,
+  "warn_notice_count": 0,
+  "median_wage_usd": 112000.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 116875.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 112000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 9,
+      "median_wage_usd": 110864.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 133536.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Data Engineer",
+      "count": 7,
+      "median_wage_usd": 114566.0
+    },
+    {
+      "title": "Senior Snowflake Developer",
+      "count": 2,
+      "median_wage_usd": 133536.0
+    },
+    {
+      "title": "BI Developer",
+      "count": 2,
+      "median_wage_usd": 97386.0
+    },
+    {
+      "title": "ORACLE DATABASE ADMINISTRATOR",
+      "count": 1,
+      "median_wage_usd": 112000.0
+    },
+    {
+      "title": "ETL Developer",
+      "count": 1,
+      "median_wage_usd": 84614.0
+    },
+    {
+      "title": "SQL Developer",
+      "count": 1,
+      "median_wage_usd": 149136.0
+    },
+    {
+      "title": "Database Administrator",
+      "count": 1,
+      "median_wage_usd": 109283.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "ORANGE",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "county": "ALBANY",
+      "count": 1
+    },
+    {
+      "state": "OH",
+      "county": "MONTGOMERY",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TN",
+      "count": 6
+    },
+    {
+      "state": "NC",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "MO",
+      "count": 2
+    },
+    {
+      "state": "NY",
+      "count": 1
+    },
+    {
+      "state": "OH",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 115461.0,
+    "gap_usd": -14699.0
+  }
+}

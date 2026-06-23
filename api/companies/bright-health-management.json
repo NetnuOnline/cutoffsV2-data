@@ -1,0 +1,112 @@
+{
+  "slug": "bright-health-management",
+  "canonical_name": "Bright Health Management, Inc.",
+  "fein": null,
+  "lca_filing_count": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 175000.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 4,
+      "median_wage_usd": 190000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 156270.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineering Architect",
+      "count": 2,
+      "median_wage_usd": 205000.0
+    },
+    {
+      "title": "LEAD BUSINESS SYSTEMS ANALYST",
+      "count": 2,
+      "median_wage_usd": 133775.0
+    },
+    {
+      "title": "Software Engineer 4",
+      "count": 1,
+      "median_wage_usd": 175000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CT",
+      "county": "MANCHESTER",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "SAN BERNARDINO",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "CT",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 5,
+    "continuing_denials": 0,
+    "total_approvals": 5,
+    "by_fy": [
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 4,
+        "continuing_denials": 0,
+        "total_approvals": 4
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 5,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Computer Systems Engineers/Architects",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 205000.0,
+    "gap_usd": 87000.0
+  }
+}

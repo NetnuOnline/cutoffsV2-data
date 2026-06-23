@@ -1,0 +1,100 @@
+{
+  "slug": "zero-hash-holdings",
+  "canonical_name": "Zero Hash Holdings Ltd.",
+  "fein": "47-4553345",
+  "lca_filing_count": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 160000.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 200000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 160000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 62000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Associate - GTM ",
+      "count": 1,
+      "median_wage_usd": 160000.0
+    },
+    {
+      "title": "Senior VP of Growth ",
+      "count": 1,
+      "median_wage_usd": 200000.0
+    },
+    {
+      "title": "Accountant",
+      "count": 1,
+      "median_wage_usd": 62000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 5,
+    "continuing_denials": 0,
+    "total_approvals": 6,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 4,
+        "continuing_denials": 0,
+        "total_approvals": 5
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1161",
+    "soc_title": "Market Research Analysts and Marketing Specialists",
+    "market_median_usd": 74680.0,
+    "employer_median_usd": 160000.0,
+    "gap_usd": 85320.0
+  }
+}

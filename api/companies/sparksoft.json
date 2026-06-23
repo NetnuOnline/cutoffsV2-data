@@ -1,0 +1,198 @@
+{
+  "slug": "sparksoft",
+  "canonical_name": "Sparksoft Corporation",
+  "fein": "20-1779865",
+  "lca_filing_count": 55,
+  "lca_worker_positions": 55,
+  "warn_notice_count": 0,
+  "median_wage_usd": 125000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 7,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 9,
+      "median_wage_usd": 113300.0
+    },
+    {
+      "fy": 2022,
+      "filings": 7,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 4,
+      "median_wage_usd": 109720.0
+    },
+    {
+      "fy": 2024,
+      "filings": 10,
+      "median_wage_usd": 126500.0
+    },
+    {
+      "fy": 2025,
+      "filings": 9,
+      "median_wage_usd": 128698.5
+    },
+    {
+      "fy": 2026,
+      "filings": 9,
+      "median_wage_usd": 130000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 7,
+      "median_wage_usd": 90000.0
+    },
+    {
+      "title": "Computer Programmer",
+      "count": 5,
+      "median_wage_usd": 106120.8
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 4,
+      "median_wage_usd": 137500.0
+    },
+    {
+      "title": "Software Test Engineer",
+      "count": 3,
+      "median_wage_usd": 116751.64
+    },
+    {
+      "title": "Business Analyst",
+      "count": 3,
+      "median_wage_usd": 102500.0
+    },
+    {
+      "title": "DevSecOps Engineer",
+      "count": 3,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "title": "AWS Database Admin ",
+      "count": 2,
+      "median_wage_usd": 145000.0
+    },
+    {
+      "title": "Sr. Full Stack Developer",
+      "count": 2,
+      "median_wage_usd": 161027.5
+    },
+    {
+      "title": "Lead Software Engineer",
+      "count": 2,
+      "median_wage_usd": 148850.0
+    },
+    {
+      "title": "Big Data ETL Developer",
+      "count": 2,
+      "median_wage_usd": 130000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MD",
+      "county": "HOWARD",
+      "count": 23
+    },
+    {
+      "state": "WV",
+      "county": "MARION",
+      "count": 3
+    },
+    {
+      "state": "VA",
+      "county": "FAIRFAX",
+      "count": 3
+    },
+    {
+      "state": "WA",
+      "county": "SNOHOMISH",
+      "count": 2
+    },
+    {
+      "state": "CT",
+      "county": "FAIRFIELD",
+      "count": 2
+    },
+    {
+      "state": "NC",
+      "county": "MECKLENBURG",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "SAN DIEGO",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "county": "LOUDOUN",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MD",
+      "count": 33
+    },
+    {
+      "state": "VA",
+      "count": 6
+    },
+    {
+      "state": "WV",
+      "count": 3
+    },
+    {
+      "state": "CT",
+      "count": 3
+    },
+    {
+      "state": "WA",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "NC",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 135057.0,
+    "gap_usd": 4897.0
+  }
+}

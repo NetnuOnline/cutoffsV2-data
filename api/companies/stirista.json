@@ -1,0 +1,71 @@
+{
+  "slug": "stirista",
+  "canonical_name": "Stirista, LLC",
+  "fein": "27-1382122",
+  "lca_filing_count": 4,
+  "lca_worker_positions": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 86500.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 88000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 85000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 130000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Strategist and Project Manager",
+      "count": 2,
+      "median_wage_usd": 85000.0
+    },
+    {
+      "title": "Senior Software Developer",
+      "count": 1,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Data Scientist",
+      "count": 1,
+      "median_wage_usd": 88000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "BEXAR",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1161",
+    "soc_title": "Search Marketing Strategists",
+    "market_median_usd": 74680.0,
+    "employer_median_usd": 85000.0,
+    "gap_usd": 10320.0
+  }
+}

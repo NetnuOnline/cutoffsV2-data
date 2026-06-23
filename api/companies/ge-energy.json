@@ -1,0 +1,58 @@
+{
+  "slug": "ge-energy",
+  "canonical_name": "GE Energy",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 3,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "WI",
+      "count": 1
+    },
+    {
+      "state": "KY",
+      "count": 1
+    },
+    {
+      "state": "DE",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "06/29/2018",
+      "effective_date": "08/31/2018",
+      "state": "WI",
+      "workers": 236,
+      "city": "Waukesha"
+    },
+    {
+      "date": "06/29/2010",
+      "effective_date": "06/29/2010",
+      "state": "KY",
+      "workers": 88,
+      "city": null
+    },
+    {
+      "date": "03/13/2009",
+      "effective_date": "03/13/2009",
+      "state": "DE",
+      "workers": 86,
+      "city": null
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "washington-ozaukee-waukesha-wda",
+      "name": "Washington-Ozaukee-Waukesha WDA",
+      "state": "WI"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

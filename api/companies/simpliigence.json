@@ -1,0 +1,70 @@
+{
+  "slug": "simpliigence",
+  "canonical_name": "Simpliigence Inc.",
+  "fein": "84-3082252",
+  "lca_filing_count": 3,
+  "lca_worker_positions": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 95000.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 95000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 113498.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Salesforce Lead Consultant",
+      "count": 1,
+      "median_wage_usd": 95000.0
+    },
+    {
+      "title": "AUTOMATION ARCHITECT",
+      "count": 1,
+      "median_wage_usd": 95000.0
+    },
+    {
+      "title": "SALESFORCE CONSULTANT",
+      "count": 1,
+      "median_wage_usd": 131997.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "FL",
+      "county": "PINELLAS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CT",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "count": 1
+    },
+    {
+      "state": "DE",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 113498.5,
+    "gap_usd": -16661.5
+  }
+}

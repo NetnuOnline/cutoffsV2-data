@@ -1,0 +1,127 @@
+{
+  "slug": "american-eagle",
+  "canonical_name": "American Eagle",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 1,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "VA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "03/31/2014",
+      "effective_date": "06/04/2014",
+      "state": "VA",
+      "workers": 62,
+      "city": "Washington, DC"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "piedmont-workforce-network-lwia-vi",
+      "name": "Piedmont Workforce Network LWIA VI",
+      "state": "VA"
+    }
+  ],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2013-09-09",
+        "formType": "8-K",
+        "accessionNumber": "0000919012-13-000016",
+        "items": [
+          "2.05",
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities",
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000919012&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2012-06-29",
+        "formType": "8-K/A",
+        "accessionNumber": "0001193125-12-289975",
+        "items": [
+          "2.05",
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities",
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000919012&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2012-05-24",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-12-247042",
+        "items": [
+          "2.05",
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities",
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000919012&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2010-03-09",
+        "formType": "8-K",
+        "accessionNumber": "0000919012-10-000010",
+        "items": [
+          "2.05",
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities",
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000919012&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2008-12-23",
+        "formType": "8-K",
+        "accessionNumber": "0000919012-08-000032",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000919012&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2008-11-20",
+        "formType": "8-K",
+        "accessionNumber": "0000919012-08-000026",
+        "items": [
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000919012&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 6,
+    "itemCounts": {
+      "2.05": 4,
+      "2.06": 5,
+      "5.02": 1
+    },
+    "latestFilingDate": "2013-09-09",
+    "earliestFilingDate": "2008-11-20"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

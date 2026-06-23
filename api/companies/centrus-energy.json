@@ -1,0 +1,54 @@
+{
+  "slug": "centrus-energy",
+  "canonical_name": "Centrus Energy",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 3,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "OH",
+      "count": 2
+    },
+    {
+      "state": "TN",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "11/16/2015",
+      "effective_date": "01/11/2016",
+      "state": "OH",
+      "workers": 0,
+      "city": "Piketon/Pike"
+    },
+    {
+      "date": "11/05/2015",
+      "effective_date": "11/10/2015",
+      "state": "TN",
+      "workers": 12,
+      "city": "Oak Ridge"
+    },
+    {
+      "date": "09/22/2015",
+      "effective_date": "11/10/2015",
+      "state": "OH",
+      "workers": 0,
+      "city": "Piketon/Pike"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "04-local-workforce-investment-area",
+      "name": "04 Local Workforce Investment Area",
+      "state": "TN"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

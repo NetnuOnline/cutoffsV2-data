@@ -1,0 +1,151 @@
+{
+  "slug": "tekprism",
+  "canonical_name": "Tekprism Inc",
+  "fein": "87-3998098",
+  "lca_filing_count": 16,
+  "lca_worker_positions": 16,
+  "warn_notice_count": 0,
+  "median_wage_usd": 83564.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 9,
+      "median_wage_usd": 83470.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 94682.0
+    },
+    {
+      "fy": 2026,
+      "filings": 6,
+      "median_wage_usd": 82857.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "QA Automation Engineer",
+      "count": 2,
+      "median_wage_usd": 93090.0
+    },
+    {
+      "title": "Java Full Stack Developer",
+      "count": 2,
+      "median_wage_usd": 109460.0
+    },
+    {
+      "title": "PL/SQL Developer",
+      "count": 2,
+      "median_wage_usd": 77293.0
+    },
+    {
+      "title": "Computer Programmer",
+      "count": 2,
+      "median_wage_usd": 75803.0
+    },
+    {
+      "title": "Systems Engineer",
+      "count": 1,
+      "median_wage_usd": 83658.0
+    },
+    {
+      "title": "Computer Systems Engineer",
+      "count": 1,
+      "median_wage_usd": 85700.0
+    },
+    {
+      "title": "Database Programmer",
+      "count": 1,
+      "median_wage_usd": 79000.0
+    },
+    {
+      "title": "Data and Systems Engineer",
+      "count": 1,
+      "median_wage_usd": 76253.0
+    },
+    {
+      "title": "Senior Systems Engineer",
+      "count": 1,
+      "median_wage_usd": 94682.0
+    },
+    {
+      "title": "Sr. Dell Boomi/Integration Developer",
+      "count": 1,
+      "median_wage_usd": 150000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "county": "RENSSELAER",
+      "count": 1
+    },
+    {
+      "state": "AR",
+      "county": "BENTON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 10
+    },
+    {
+      "state": "AR",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "count": 1
+    },
+    {
+      "state": "RI",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Computer Systems Engineers/Architects",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 80475.5,
+    "gap_usd": -37524.5
+  }
+}

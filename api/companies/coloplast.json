@@ -1,0 +1,124 @@
+{
+  "slug": "coloplast",
+  "canonical_name": "Coloplast Corp.",
+  "fein": null,
+  "lca_filing_count": 2,
+  "warn_notice_count": 2,
+  "median_wage_usd": 187500.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 250000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Vice President of Direct",
+      "count": 1,
+      "median_wage_usd": 250000.0
+    },
+    {
+      "title": "Principal Regulatory Affairs Specialist",
+      "count": 1,
+      "median_wage_usd": 125000.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MN",
+      "count": 2
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MN",
+      "county": "HENNEPIN",
+      "count": 2
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "09/06/2006",
+      "effective_date": "09/06/2006",
+      "state": "GA",
+      "workers": 96,
+      "city": "Marietta"
+    },
+    {
+      "date": "11/07/2002",
+      "effective_date": "11/07/2002",
+      "state": "GA",
+      "workers": 76,
+      "city": "Marietta"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 4,
+    "continuing_denials": 0,
+    "total_approvals": 4,
+    "by_fy": [
+      {
+        "fy": 2011,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2017,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      }
+    ]
+  },
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-2021",
+    "soc_title": "Marketing Managers",
+    "market_median_usd": 157620.0,
+    "employer_median_usd": 250000.0,
+    "gap_usd": 92380.0
+  }
+}

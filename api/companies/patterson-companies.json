@@ -1,0 +1,125 @@
+{
+  "slug": "patterson-companies",
+  "canonical_name": "Patterson Companies, Inc.",
+  "fein": "41-0886515",
+  "lca_filing_count": 11,
+  "lca_worker_positions": 11,
+  "warn_notice_count": 0,
+  "median_wage_usd": 115315.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 122741.0
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 77000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 3,
+      "median_wage_usd": 95326.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 117522.5
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 142900.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 115315.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Business Warehouse Developer III",
+      "count": 3,
+      "median_wage_usd": 115315.0
+    },
+    {
+      "title": "Sr. SAP PI Developer",
+      "count": 2,
+      "median_wage_usd": 113913.0
+    },
+    {
+      "title": "Business Warehouse Developer II",
+      "count": 1,
+      "median_wage_usd": 95326.0
+    },
+    {
+      "title": "Principal Software Engineer",
+      "count": 1,
+      "median_wage_usd": 142900.0
+    },
+    {
+      "title": "SAP Sr. Developer",
+      "count": 1,
+      "median_wage_usd": 122741.0
+    },
+    {
+      "title": "SAP EWM Technical/Functional Developer",
+      "count": 1,
+      "median_wage_usd": 161637.0
+    },
+    {
+      "title": "Principal Software Enginer",
+      "count": 1,
+      "median_wage_usd": 113152.0
+    },
+    {
+      "title": "SAP QA ANALYST II",
+      "count": 1,
+      "median_wage_usd": 77000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MN",
+      "county": "RAMSEY",
+      "count": 4
+    },
+    {
+      "state": "MN",
+      "county": "HENNEPIN",
+      "count": 2
+    },
+    {
+      "state": "MN",
+      "county": "DAKOTA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MN",
+      "count": 9
+    },
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 122826.0,
+    "gap_usd": -7334.0
+  }
+}

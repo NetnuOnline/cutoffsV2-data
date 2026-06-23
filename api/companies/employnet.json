@@ -1,0 +1,36 @@
+{
+  "slug": "employnet",
+  "canonical_name": "Employnet",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 1,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "03/04/2022",
+      "effective_date": "05/06/2022",
+      "state": "CA",
+      "workers": 36,
+      "city": "Moss Landing"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "monterey-county-wib",
+      "name": "Monterey County WIB",
+      "state": "CA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

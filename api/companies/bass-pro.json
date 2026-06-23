@@ -1,0 +1,234 @@
+{
+  "slug": "bass-pro",
+  "canonical_name": "Bass Pro, LLC",
+  "fein": "43-1869775",
+  "lca_filing_count": 18,
+  "warn_notice_count": 0,
+  "median_wage_usd": 108431.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 5,
+      "median_wage_usd": 105000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 6,
+      "median_wage_usd": 115931.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 6,
+      "median_wage_usd": 107500.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Developer 4",
+      "count": 4,
+      "median_wage_usd": 105000.0
+    },
+    {
+      "title": "Developer 4 (Frontend React)",
+      "count": 2,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "title": "Developer 5",
+      "count": 2,
+      "median_wage_usd": 120795.56
+    },
+    {
+      "title": "Systems Engineer 2",
+      "count": 2,
+      "median_wage_usd": 72500.0
+    },
+    {
+      "title": "Solutions Delivery Manager",
+      "count": 2,
+      "median_wage_usd": 134000.0
+    },
+    {
+      "title": "Systems Engineer 4",
+      "count": 1,
+      "median_wage_usd": 99507.0
+    },
+    {
+      "title": "OMS Microservices Developer",
+      "count": 1,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "System Engineer 4 - Active Directory ",
+      "count": 1,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "QA Lead",
+      "count": 1,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "title": "Solution Architect, Data Science",
+      "count": 1,
+      "median_wage_usd": 115000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MO",
+      "county": "GREENE",
+      "count": 6
+    },
+    {
+      "state": "MI",
+      "county": "OAKLAND",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "county": "WAYNE",
+      "count": 1
+    },
+    {
+      "state": "TN",
+      "county": "DAVIDSON",
+      "count": 1
+    },
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 1
+    },
+    {
+      "state": "NE",
+      "county": "LANCASTER",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "county": "ALLEGHENY",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "county": "GASTON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MO",
+      "count": 9
+    },
+    {
+      "state": "MI",
+      "count": 2
+    },
+    {
+      "state": "NE",
+      "count": 2
+    },
+    {
+      "state": "NC",
+      "count": 1
+    },
+    {
+      "state": "OH",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "count": 1
+    },
+    {
+      "state": "AZ",
+      "count": 1
+    },
+    {
+      "state": "TN",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 5,
+    "initial_denials": 0,
+    "continuing_approvals": 24,
+    "continuing_denials": 0,
+    "total_approvals": 29,
+    "by_fy": [
+      {
+        "fy": 2016,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 6,
+        "continuing_denials": 0,
+        "total_approvals": 6
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 4,
+        "initial_denials": 0,
+        "continuing_approvals": 10,
+        "continuing_denials": 0,
+        "total_approvals": 14
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 6,
+        "continuing_denials": 0,
+        "total_approvals": 6
+      }
+    ]
+  },
+  "lca_worker_positions": 18,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 122500.0,
+    "gap_usd": -7660.0
+  }
+}

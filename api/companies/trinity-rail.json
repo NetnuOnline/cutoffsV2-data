@@ -1,0 +1,84 @@
+{
+  "slug": "trinity-rail",
+  "canonical_name": "Trinity Rail",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 6,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 3
+    },
+    {
+      "state": "OK",
+      "count": 2
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "07/30/2025",
+      "effective_date": "09/30/2025",
+      "state": "TX",
+      "workers": 170,
+      "city": "Longview"
+    },
+    {
+      "date": "01/28/2021",
+      "effective_date": "04/30/2021",
+      "state": "TX",
+      "workers": 59,
+      "city": "Vidor"
+    },
+    {
+      "date": "01/08/2017",
+      "effective_date": "01/08/2017",
+      "state": "GA",
+      "workers": 298,
+      "city": "Cartersville"
+    },
+    {
+      "date": "03/15/2016",
+      "effective_date": "05/15/2016",
+      "state": "TX",
+      "workers": 236,
+      "city": "Longview"
+    },
+    {
+      "date": "11/03/2008",
+      "effective_date": "11/03/2008",
+      "state": "OK",
+      "workers": 254,
+      "city": "05 - CentralRegion"
+    },
+    {
+      "date": "07/10/2002",
+      "effective_date": "07/10/2002",
+      "state": "OK",
+      "workers": 118,
+      "city": "05 - CentralRegion"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "northwest-georgia-wib",
+      "name": "Northwest Georgia WIB",
+      "state": "GA"
+    },
+    {
+      "slug": "east-texas-wda",
+      "name": "East Texas WDA",
+      "state": "TX"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

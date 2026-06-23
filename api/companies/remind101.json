@@ -1,0 +1,65 @@
+{
+  "slug": "remind101",
+  "canonical_name": "Remind101, Inc.",
+  "fein": null,
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 162500.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 155000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 170000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 155000.0
+    },
+    {
+      "title": "Senior Accounting Manager",
+      "count": 1,
+      "median_wage_usd": 170000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 1
+    },
+    {
+      "state": "NV",
+      "county": "CLARK",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NV",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3031",
+    "soc_title": "Treasurers and Controllers",
+    "market_median_usd": 156100.0,
+    "employer_median_usd": 170000.0,
+    "gap_usd": 13900.0
+  }
+}

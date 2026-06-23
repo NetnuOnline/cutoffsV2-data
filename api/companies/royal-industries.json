@@ -1,0 +1,47 @@
+{
+  "slug": "royal-industries",
+  "canonical_name": "Royal Industries",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 1,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "09/21/2018",
+      "effective_date": "01/11/2019",
+      "state": "NY",
+      "workers": 77,
+      "city": "Brooklyn"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 0,
+    "continuing_denials": 0,
+    "total_approvals": 1,
+    "by_fy": [
+      {
+        "fy": 2020,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  }
+}

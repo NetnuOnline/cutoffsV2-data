@@ -1,0 +1,140 @@
+{
+  "slug": "kontoor-services",
+  "canonical_name": "Kontoor Services, LLC",
+  "fein": "83-2156199",
+  "lca_filing_count": 11,
+  "warn_notice_count": 0,
+  "median_wage_usd": 135000.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 4,
+      "median_wage_usd": 129492.0
+    },
+    {
+      "fy": 2022,
+      "filings": 3,
+      "median_wage_usd": 143170.0
+    },
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 145000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Identity & Access Management Manager ",
+      "count": 1,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "title": "Senior Engineer, Cloud Infrastructure & Automation",
+      "count": 1,
+      "median_wage_usd": 145800.0
+    },
+    {
+      "title": "Analyst, SAP Production Planning",
+      "count": 1,
+      "median_wage_usd": 131984.0
+    },
+    {
+      "title": "Sr Analyst, SAP OTC Configuration",
+      "count": 1,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "title": "SAP Basis Manager",
+      "count": 1,
+      "median_wage_usd": 150831.0
+    },
+    {
+      "title": "SAP Master Data Governance Sr Configuration Analyst",
+      "count": 1,
+      "median_wage_usd": 127000.0
+    },
+    {
+      "title": "Business Intelligence & Reporting Lead",
+      "count": 1,
+      "median_wage_usd": 143170.0
+    },
+    {
+      "title": "Identity & Access Management Manager",
+      "count": 1,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "title": "Systems Analyst III",
+      "count": 1,
+      "median_wage_usd": 145000.0
+    },
+    {
+      "title": "IT Retail Point of Sale Application Lead",
+      "count": 1,
+      "median_wage_usd": 132870.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NC",
+      "county": "GUILFORD",
+      "count": 9
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NC",
+      "count": 10
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 2,
+    "initial_denials": 0,
+    "continuing_approvals": 20,
+    "continuing_denials": 1,
+    "total_approvals": 22,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 8,
+        "continuing_denials": 0,
+        "total_approvals": 10
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 12,
+        "continuing_denials": 1,
+        "total_approvals": 12
+      }
+    ]
+  },
+  "lca_worker_positions": 11,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1211",
+    "soc_title": "Computer Systems Analysts",
+    "market_median_usd": 103800.0,
+    "employer_median_usd": 137187.5,
+    "gap_usd": 33387.5
+  }
+}

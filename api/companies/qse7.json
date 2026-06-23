@@ -1,0 +1,55 @@
+{
+  "slug": "qse7",
+  "canonical_name": "QSE7, LLC",
+  "fein": "81-4403598",
+  "lca_filing_count": 4,
+  "lca_worker_positions": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 141775.0,
+  "by_fy": [
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 131387.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Project Manager",
+      "count": 2,
+      "median_wage_usd": 141775.0
+    },
+    {
+      "title": "QSE7, LLC",
+      "count": 1,
+      "median_wage_usd": 141775.0
+    },
+    {
+      "title": "Data Analyst",
+      "count": 1,
+      "median_wage_usd": 121000.0
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 3
+    },
+    {
+      "state": "PA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Information Technology Project Managers",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 141775.0,
+    "gap_usd": 23775.0
+  }
+}

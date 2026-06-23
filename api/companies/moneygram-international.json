@@ -1,0 +1,130 @@
+{
+  "slug": "moneygram-international",
+  "canonical_name": "Moneygram International Inc.",
+  "fein": "16-1690064",
+  "lca_filing_count": 19,
+  "lca_worker_positions": 18,
+  "warn_notice_count": 0,
+  "median_wage_usd": 130998.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 5,
+      "median_wage_usd": 116938.0
+    },
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 141439.0
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 134971.0
+    },
+    {
+      "fy": 2026,
+      "filings": 5,
+      "median_wage_usd": 148000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer IV",
+      "count": 8,
+      "median_wage_usd": 144000.0
+    },
+    {
+      "title": "Software Engineer III",
+      "count": 2,
+      "median_wage_usd": 117994.0
+    },
+    {
+      "title": "IT Analyst IV",
+      "count": 2,
+      "median_wage_usd": 124000.0
+    },
+    {
+      "title": "IT Analyst III",
+      "count": 2,
+      "median_wage_usd": 101515.5
+    },
+    {
+      "title": "IT Engineer III",
+      "count": 1,
+      "median_wage_usd": 131000.0
+    },
+    {
+      "title": "Supervisor, Software Development",
+      "count": 1,
+      "median_wage_usd": 160000.0
+    },
+    {
+      "title": "Product Manager IV",
+      "count": 1,
+      "median_wage_usd": 126838.0
+    },
+    {
+      "title": "IT Operations Analyst",
+      "count": 1,
+      "median_wage_usd": 134971.0
+    },
+    {
+      "title": "Sr. Data Engineer",
+      "count": 1,
+      "median_wage_usd": 128000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 7
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "county": "CABARRUS",
+      "count": 1
+    },
+    {
+      "state": "MN",
+      "county": "HENNEPIN",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 15
+    },
+    {
+      "state": "MN",
+      "count": 3
+    },
+    {
+      "state": "NC",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 140000.0,
+    "gap_usd": 9840.0
+  }
+}

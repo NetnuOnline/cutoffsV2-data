@@ -1,0 +1,237 @@
+{
+  "slug": "zulily",
+  "canonical_name": "zulily, LLC.",
+  "fein": null,
+  "lca_filing_count": 36,
+  "warn_notice_count": 3,
+  "median_wage_usd": 145000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 9,
+      "median_wage_usd": 139256.0
+    },
+    {
+      "fy": 2021,
+      "filings": 21,
+      "median_wage_usd": 142000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 5,
+      "median_wage_usd": 160000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 145000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer II",
+      "count": 13,
+      "median_wage_usd": 145000.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 3,
+      "median_wage_usd": 181555.92
+    },
+    {
+      "title": "Lead Business Analyst ",
+      "count": 2,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "title": "Senior Technology Product Manager",
+      "count": 1,
+      "median_wage_usd": 175000.0
+    },
+    {
+      "title": "Software Development Engineer II",
+      "count": 1,
+      "median_wage_usd": 154672.5
+    },
+    {
+      "title": "Sr. Financial Reporting Accountant",
+      "count": 1,
+      "median_wage_usd": 90000.0
+    },
+    {
+      "title": "Manager, Product Management",
+      "count": 1,
+      "median_wage_usd": 200000.0
+    },
+    {
+      "title": "Program Manager II",
+      "count": 1,
+      "median_wage_usd": 97850.0
+    },
+    {
+      "title": "Software Engineer I",
+      "count": 1,
+      "median_wage_usd": 152181.75
+    },
+    {
+      "title": "Senior Automation Controls Engineer",
+      "count": 1,
+      "median_wage_usd": 95000.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "WA",
+      "count": 34
+    },
+    {
+      "state": "OH",
+      "count": 2
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 34
+    },
+    {
+      "state": "OH",
+      "county": "FRANKLIN",
+      "count": 2
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "12/07/2023",
+      "effective_date": "02/07/2024",
+      "state": "OH",
+      "workers": 274,
+      "city": "Lockbourne/Franklin"
+    },
+    {
+      "date": "12/07/2023",
+      "effective_date": "02/07/2024",
+      "state": "WA",
+      "workers": 292,
+      "city": "Seattle"
+    },
+    {
+      "date": "12/07/2023",
+      "effective_date": "02/07/2024",
+      "state": "NV",
+      "workers": 273,
+      "city": "McCarran, Lyon County"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "central-ohio",
+      "name": "Central Ohio",
+      "state": "OH"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 17,
+    "initial_denials": 2,
+    "continuing_approvals": 110,
+    "continuing_denials": 1,
+    "total_approvals": 127,
+    "by_fy": [
+      {
+        "fy": 2013,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2014,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2015,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2016,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2017,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 8,
+        "initial_denials": 0,
+        "continuing_approvals": 24,
+        "continuing_denials": 1,
+        "total_approvals": 32
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 37,
+        "continuing_denials": 0,
+        "total_approvals": 38
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 8,
+        "initial_denials": 1,
+        "continuing_approvals": 35,
+        "continuing_denials": 0,
+        "total_approvals": 43
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 1,
+        "continuing_approvals": 14,
+        "continuing_denials": 0,
+        "total_approvals": 14
+      }
+    ]
+  },
+  "lca_worker_positions": 36,
+  "top_socs": [],
+  "lca_periods": []
+}

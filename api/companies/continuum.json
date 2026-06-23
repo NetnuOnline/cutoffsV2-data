@@ -1,0 +1,74 @@
+{
+  "slug": "continuum",
+  "canonical_name": "Continuum",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 5,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "MD",
+      "count": 1
+    },
+    {
+      "state": "OR",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "count": 1
+    },
+    {
+      "state": "OK",
+      "count": 1
+    },
+    {
+      "state": "KY",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "02/20/2023",
+      "effective_date": "04/24/2023",
+      "state": "MD",
+      "workers": 51,
+      "city": "Yonkers"
+    },
+    {
+      "date": "06/10/2020",
+      "effective_date": "08/12/2020",
+      "state": "OR",
+      "workers": 255,
+      "city": "Portland"
+    },
+    {
+      "date": "01/30/2020",
+      "effective_date": "03/31/2020",
+      "state": "NC",
+      "workers": 428,
+      "city": "2745-A, Whitehall Park Charlotte"
+    },
+    {
+      "date": "06/14/2019",
+      "effective_date": "06/14/2019",
+      "state": "OK",
+      "workers": 80,
+      "city": null
+    },
+    {
+      "date": "04/23/2019",
+      "effective_date": "06/21/2019",
+      "state": "KY",
+      "workers": 117,
+      "city": "Fayette"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

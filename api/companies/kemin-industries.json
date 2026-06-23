@@ -1,0 +1,81 @@
+{
+  "slug": "kemin-industries",
+  "canonical_name": "Kemin Industries, Inc.",
+  "fein": "42-0886654",
+  "lca_filing_count": 5,
+  "lca_worker_positions": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 73611.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 80922.5
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 60840.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 84686.66,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Market Intelligence Research Analyst",
+      "count": 2,
+      "median_wage_usd": 75883.33
+    },
+    {
+      "title": "Sr. Technical Service Manager - Bakery",
+      "count": 1,
+      "median_wage_usd": 88234.0
+    },
+    {
+      "title": "Senior Research Associate II, KFT",
+      "count": 1,
+      "median_wage_usd": 73611.0
+    },
+    {
+      "title": "Worldwide Market Intelligence and Data Analyst, KI",
+      "count": 1,
+      "median_wage_usd": 60840.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IA",
+      "county": "POLK",
+      "count": 2
+    },
+    {
+      "state": "GA",
+      "county": "COBB",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IA",
+      "count": 4
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1161",
+    "soc_title": "Market Research Analysts and Marketing Specialists",
+    "market_median_usd": 74680.0,
+    "employer_median_usd": 72763.33,
+    "gap_usd": -1916.67
+  }
+}

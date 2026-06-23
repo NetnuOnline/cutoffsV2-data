@@ -1,0 +1,133 @@
+{
+  "slug": "mustang-bio",
+  "canonical_name": "Mustang Bio, Inc.",
+  "fein": null,
+  "lca_filing_count": 3,
+  "warn_notice_count": 1,
+  "median_wage_usd": 115000.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 116465.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "TRANSLATIONAL SCIENTIST",
+      "count": 2,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "title": "Translational Scientist",
+      "count": 1,
+      "median_wage_usd": 117930.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MA",
+      "count": 3
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MA",
+      "county": "WORCESTER CITY",
+      "count": 3
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "04/16/2024",
+      "effective_date": "04/16/2024",
+      "state": "MA",
+      "workers": 47,
+      "city": "Worcester"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "franklinhampshire-wia",
+      "name": "Franklin/Hampshire WIA",
+      "state": "MA"
+    }
+  ],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2024-04-12",
+        "formType": "8-K",
+        "accessionNumber": "0001558370-24-005022",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001680048&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2023-05-22",
+        "formType": "8-K",
+        "accessionNumber": "0001558370-23-010276",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001680048&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 2,
+    "itemCounts": {
+      "2.05": 2
+    },
+    "latestFilingDate": "2024-04-12",
+    "earliestFilingDate": "2023-05-22"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 2,
+    "continuing_denials": 0,
+    "total_approvals": 3,
+    "by_fy": [
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      }
+    ]
+  },
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": []
+}

@@ -1,0 +1,145 @@
+{
+  "slug": "med-metrix",
+  "canonical_name": "Med-Metrix, LLC",
+  "fein": null,
+  "lca_filing_count": 3,
+  "warn_notice_count": 1,
+  "median_wage_usd": 130000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 122680.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 145000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SENIOR ENGINEER, SSAS DEVELOPER",
+      "count": 1,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Sr. Software Engineer",
+      "count": 1,
+      "median_wage_usd": 145000.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 1,
+      "median_wage_usd": 115360.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 3
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NJ",
+      "county": "MORRIS",
+      "count": 3
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "06/20/2025",
+      "effective_date": "06/20/2025",
+      "state": "PA",
+      "workers": 142,
+      "city": "Chester"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "delaware-county-wia",
+      "name": "Delaware County WIA",
+      "state": "PA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 4,
+    "initial_denials": 0,
+    "continuing_approvals": 7,
+    "continuing_denials": 0,
+    "total_approvals": 11,
+    "by_fy": [
+      {
+        "fy": 2013,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2014,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2015,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 3,
+        "initial_denials": 0,
+        "continuing_approvals": 4,
+        "continuing_denials": 0,
+        "total_approvals": 7
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": []
+}

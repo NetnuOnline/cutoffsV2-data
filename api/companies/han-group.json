@@ -1,0 +1,136 @@
+{
+  "slug": "han-group",
+  "canonical_name": "Han Group LLC",
+  "fein": "26-3151447",
+  "lca_filing_count": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 68000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 65000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 68000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 94000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Accountant",
+      "count": 1,
+      "median_wage_usd": 94000.0
+    },
+    {
+      "title": "ACCOUNTANT",
+      "count": 1,
+      "median_wage_usd": 65000.0
+    },
+    {
+      "title": "Auditor ",
+      "count": 1,
+      "median_wage_usd": 68000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "DC",
+      "county": "DISTRICT OF COLUMBIA",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "county": "HUDSON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MD",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    },
+    {
+      "state": "DC",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 3,
+    "initial_denials": 0,
+    "continuing_approvals": 3,
+    "continuing_denials": 0,
+    "total_approvals": 6,
+    "by_fy": [
+      {
+        "fy": 2014,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2017,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 4
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      }
+    ]
+  },
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-2011",
+    "soc_title": "Accountants and Auditors",
+    "market_median_usd": 79000.0,
+    "employer_median_usd": 81000.0,
+    "gap_usd": 2000.0
+  }
+}

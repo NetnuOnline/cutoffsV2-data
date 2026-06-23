@@ -1,0 +1,613 @@
+{
+  "slug": "cingular-wireless",
+  "canonical_name": "Cingular Wireless",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 80,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "WA",
+      "count": 42
+    },
+    {
+      "state": "TX",
+      "count": 20
+    },
+    {
+      "state": "NJ",
+      "count": 11
+    },
+    {
+      "state": "OR",
+      "count": 2
+    },
+    {
+      "state": "GA",
+      "count": 2
+    },
+    {
+      "state": "AL",
+      "count": 2
+    },
+    {
+      "state": "KY",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "03/28/2006",
+      "effective_date": "03/28/2006",
+      "state": "WA",
+      "workers": 34,
+      "city": "Bothell, Redmond"
+    },
+    {
+      "date": "03/14/2006",
+      "effective_date": "03/14/2006",
+      "state": "WA",
+      "workers": 2,
+      "city": "Bothell, Redmond"
+    },
+    {
+      "date": "03/13/2006",
+      "effective_date": "05/09/2006",
+      "state": "WA",
+      "workers": 2,
+      "city": "Redmond"
+    },
+    {
+      "date": "03/02/2006",
+      "effective_date": "04/25/2006",
+      "state": "WA",
+      "workers": 17,
+      "city": "Bothell, Redmond"
+    },
+    {
+      "date": "02/17/2006",
+      "effective_date": "04/11/2006",
+      "state": "WA",
+      "workers": 6,
+      "city": "Bothell, Redmond"
+    },
+    {
+      "date": "02/14/2006",
+      "effective_date": "02/14/2006",
+      "state": "WA",
+      "workers": 1,
+      "city": "Bothell, Redmond"
+    },
+    {
+      "date": "01/31/2006",
+      "effective_date": "03/28/2006",
+      "state": "WA",
+      "workers": 34,
+      "city": "Bothell, Redmond"
+    },
+    {
+      "date": "01/31/2006",
+      "effective_date": "01/31/2006",
+      "state": "WA",
+      "workers": 16,
+      "city": "Bothell, Redmond"
+    },
+    {
+      "date": "01/27/2006",
+      "effective_date": "03/28/2006",
+      "state": "TX",
+      "workers": 1,
+      "city": "El Paso"
+    },
+    {
+      "date": "01/27/2006",
+      "effective_date": "03/28/2006",
+      "state": "TX",
+      "workers": 5,
+      "city": "Richardson"
+    },
+    {
+      "date": "01/17/2006",
+      "effective_date": "03/14/2006",
+      "state": "WA",
+      "workers": 2,
+      "city": "Bothell, Redmond"
+    },
+    {
+      "date": "01/13/2006",
+      "effective_date": "03/14/2006",
+      "state": "TX",
+      "workers": 8,
+      "city": "Houston"
+    },
+    {
+      "date": "12/20/2005",
+      "effective_date": "02/14/2006",
+      "state": "WA",
+      "workers": 1,
+      "city": "Bothell, Redmond"
+    },
+    {
+      "date": "12/06/2005",
+      "effective_date": "01/31/2006",
+      "state": "WA",
+      "workers": 16,
+      "city": "Bothell, Redmond"
+    },
+    {
+      "date": "12/06/2005",
+      "effective_date": "12/06/2005",
+      "state": "WA",
+      "workers": 24,
+      "city": "Bothell, Redmond"
+    },
+    {
+      "date": "12/06/2005",
+      "effective_date": "12/06/2005",
+      "state": "OR",
+      "workers": 1,
+      "city": "Portland"
+    },
+    {
+      "date": "11/08/2005",
+      "effective_date": "11/08/2005",
+      "state": "WA",
+      "workers": 7,
+      "city": "Bothell, Redmond"
+    },
+    {
+      "date": "11/07/2005",
+      "effective_date": "01/03/2006",
+      "state": "WA",
+      "workers": 7,
+      "city": "Bothell, Redmond"
+    },
+    {
+      "date": "10/21/2005",
+      "effective_date": "12/20/2005",
+      "state": "TX",
+      "workers": 2,
+      "city": "Dallas"
+    },
+    {
+      "date": "10/21/2005",
+      "effective_date": "12/20/2005",
+      "state": "WA",
+      "workers": 25,
+      "city": "Bothell, Redmond"
+    },
+    {
+      "date": "10/11/2005",
+      "effective_date": "12/06/2005",
+      "state": "WA",
+      "workers": 24,
+      "city": "Bothell, Redmond"
+    },
+    {
+      "date": "10/11/2005",
+      "effective_date": "10/11/2005",
+      "state": "WA",
+      "workers": 9,
+      "city": "Bothell, Redmond"
+    },
+    {
+      "date": "09/27/2005",
+      "effective_date": "11/22/2005",
+      "state": "WA",
+      "workers": 15,
+      "city": "Bothell, Redmond"
+    },
+    {
+      "date": "09/14/2005",
+      "effective_date": "09/14/2005",
+      "state": "WA",
+      "workers": 10,
+      "city": "Bothell, Redmond"
+    },
+    {
+      "date": "09/13/2005",
+      "effective_date": "11/08/2005",
+      "state": "WA",
+      "workers": 7,
+      "city": "Bothell, Redmond"
+    },
+    {
+      "date": "08/26/2005",
+      "effective_date": "10/25/2005",
+      "state": "TX",
+      "workers": 11,
+      "city": "Plano"
+    },
+    {
+      "date": "08/26/2005",
+      "effective_date": "10/25/2005",
+      "state": "TX",
+      "workers": 5,
+      "city": "Richardson"
+    },
+    {
+      "date": "08/26/2005",
+      "effective_date": "10/25/2005",
+      "state": "TX",
+      "workers": 1,
+      "city": "Houston"
+    },
+    {
+      "date": "08/26/2005",
+      "effective_date": "10/25/2005",
+      "state": "TX",
+      "workers": 1,
+      "city": "Farmers Branch"
+    },
+    {
+      "date": "08/16/2005",
+      "effective_date": "08/16/2005",
+      "state": "WA",
+      "workers": 4,
+      "city": "Bothell, Redmond"
+    },
+    {
+      "date": "08/14/2005",
+      "effective_date": "10/11/2005",
+      "state": "WA",
+      "workers": 9,
+      "city": "Bothell, Redmond"
+    },
+    {
+      "date": "08/02/2005",
+      "effective_date": "09/27/2005",
+      "state": "WA",
+      "workers": 6,
+      "city": "Bothell, Redmond"
+    },
+    {
+      "date": "07/29/2005",
+      "effective_date": "09/27/2005",
+      "state": "TX",
+      "workers": 3,
+      "city": "Austin"
+    },
+    {
+      "date": "07/22/2005",
+      "effective_date": "09/14/2005",
+      "state": "WA",
+      "workers": 10,
+      "city": "Bothell, Redmond"
+    },
+    {
+      "date": "07/19/2005",
+      "effective_date": "07/19/2005",
+      "state": "WA",
+      "workers": 15,
+      "city": "Bothell, Redmond"
+    },
+    {
+      "date": "07/05/2005",
+      "effective_date": "07/05/2005",
+      "state": "WA",
+      "workers": 12,
+      "city": "Bothell, Redmond"
+    },
+    {
+      "date": "06/21/2005",
+      "effective_date": "08/16/2005",
+      "state": "WA",
+      "workers": 4,
+      "city": "Bothell, Redmond"
+    },
+    {
+      "date": "06/20/2005",
+      "effective_date": "08/16/2005",
+      "state": "TX",
+      "workers": 2,
+      "city": "Dallas"
+    },
+    {
+      "date": "05/23/2005",
+      "effective_date": "07/19/2005",
+      "state": "WA",
+      "workers": 15,
+      "city": "Bothell, Redmond"
+    },
+    {
+      "date": "05/13/2005",
+      "effective_date": "05/13/2005",
+      "state": "WA",
+      "workers": 26,
+      "city": "Bothell, Redmond"
+    },
+    {
+      "date": "05/09/2005",
+      "effective_date": "07/05/2005",
+      "state": "WA",
+      "workers": 12,
+      "city": "Bothell, Redmond"
+    },
+    {
+      "date": "05/09/2005",
+      "effective_date": "07/03/2005",
+      "state": "OR",
+      "workers": 1,
+      "city": "Portland"
+    },
+    {
+      "date": "04/29/2005",
+      "effective_date": "04/29/2005",
+      "state": "WA",
+      "workers": 73,
+      "city": "Bothell, Redmond"
+    },
+    {
+      "date": "04/25/2005",
+      "effective_date": "06/21/2005",
+      "state": "WA",
+      "workers": 4,
+      "city": "Redmond"
+    },
+    {
+      "date": "04/15/2005",
+      "effective_date": "04/15/2005",
+      "state": "WA",
+      "workers": 182,
+      "city": "Bothell, Redmond"
+    },
+    {
+      "date": "04/11/2005",
+      "effective_date": "05/13/2005",
+      "state": "WA",
+      "workers": 26,
+      "city": "Bothell, Redmond"
+    },
+    {
+      "date": "04/04/2005",
+      "effective_date": "04/04/2005",
+      "state": "WA",
+      "workers": 160,
+      "city": "Bothell, Redmond"
+    },
+    {
+      "date": "03/18/2005",
+      "effective_date": "03/18/2005",
+      "state": "WA",
+      "workers": 88,
+      "city": "Bothell, Redmond"
+    },
+    {
+      "date": "03/07/2005",
+      "effective_date": "03/07/2005",
+      "state": "WA",
+      "workers": 155,
+      "city": "Bothell, Redmond"
+    },
+    {
+      "date": "03/07/2005",
+      "effective_date": "03/07/2005",
+      "state": "NJ",
+      "workers": 14,
+      "city": "PARAMUS/B. RIDGE"
+    },
+    {
+      "date": "03/07/2005",
+      "effective_date": "03/07/2005",
+      "state": "NJ",
+      "workers": 32,
+      "city": "PARAMUS/B. RIDGE"
+    },
+    {
+      "date": "03/01/2005",
+      "effective_date": "04/29/2005",
+      "state": "WA",
+      "workers": 73,
+      "city": "Bothell, Redmond"
+    },
+    {
+      "date": "02/14/2005",
+      "effective_date": "04/15/2005",
+      "state": "WA",
+      "workers": 182,
+      "city": "Bothell, Redmond"
+    },
+    {
+      "date": "02/01/2005",
+      "effective_date": "04/04/2005",
+      "state": "WA",
+      "workers": 160,
+      "city": "Bothell, Redmond"
+    },
+    {
+      "date": "01/31/2005",
+      "effective_date": "04/04/2005",
+      "state": "TX",
+      "workers": 10,
+      "city": "Houston"
+    },
+    {
+      "date": "01/31/2005",
+      "effective_date": "03/07/2005",
+      "state": "TX",
+      "workers": 6,
+      "city": "Dallas"
+    },
+    {
+      "date": "01/29/2005",
+      "effective_date": "01/29/2005",
+      "state": "NJ",
+      "workers": 13,
+      "city": "PARAMUS/B. RIDGE"
+    },
+    {
+      "date": "01/21/2005",
+      "effective_date": "01/21/2005",
+      "state": "NJ",
+      "workers": 5,
+      "city": "PARAMUS/B. RIDGE"
+    },
+    {
+      "date": "01/19/2005",
+      "effective_date": "01/19/2005",
+      "state": "NJ",
+      "workers": 19,
+      "city": "PARAMUS"
+    },
+    {
+      "date": "01/18/2005",
+      "effective_date": "03/18/2005",
+      "state": "WA",
+      "workers": 88,
+      "city": "Bothell, Redmond"
+    },
+    {
+      "date": "01/17/2005",
+      "effective_date": "03/07/2005",
+      "state": "TX",
+      "workers": 1,
+      "city": "Wichita Falls"
+    },
+    {
+      "date": "01/17/2005",
+      "effective_date": "03/07/2005",
+      "state": "TX",
+      "workers": 21,
+      "city": "Richardson"
+    },
+    {
+      "date": "01/17/2005",
+      "effective_date": "03/07/2005",
+      "state": "TX",
+      "workers": 24,
+      "city": "Dallas"
+    },
+    {
+      "date": "01/17/2005",
+      "effective_date": "03/07/2005",
+      "state": "TX",
+      "workers": 17,
+      "city": "Austin"
+    },
+    {
+      "date": "01/15/2005",
+      "effective_date": "01/15/2005",
+      "state": "NJ",
+      "workers": 34,
+      "city": "PARAMUS/B. RIDGE"
+    },
+    {
+      "date": "01/13/2005",
+      "effective_date": "01/13/2005",
+      "state": "NJ",
+      "workers": 2,
+      "city": "PARAMUS/B. RIDGE"
+    },
+    {
+      "date": "01/07/2005",
+      "effective_date": "01/07/2005",
+      "state": "NJ",
+      "workers": 3,
+      "city": "PARAMUS/B. RIDGE"
+    },
+    {
+      "date": "01/07/2005",
+      "effective_date": "01/07/2005",
+      "state": "NJ",
+      "workers": 67,
+      "city": "PARAMUS/B. RIDGE"
+    },
+    {
+      "date": "01/04/2005",
+      "effective_date": "03/07/2005",
+      "state": "TX",
+      "workers": 42,
+      "city": "Houston"
+    },
+    {
+      "date": "01/03/2005",
+      "effective_date": "03/07/2005",
+      "state": "WA",
+      "workers": 155,
+      "city": "Bothell, Redmond"
+    },
+    {
+      "date": "01/03/2005",
+      "effective_date": "01/03/2005",
+      "state": "NJ",
+      "workers": 8,
+      "city": "PARAMUS"
+    },
+    {
+      "date": "12/30/2004",
+      "effective_date": "03/07/2005",
+      "state": "TX",
+      "workers": 62,
+      "city": "Plano"
+    },
+    {
+      "date": "12/30/2004",
+      "effective_date": "03/07/2005",
+      "state": "TX",
+      "workers": 6,
+      "city": "Farmers Branch"
+    },
+    {
+      "date": "11/30/2004",
+      "effective_date": "11/30/2004",
+      "state": "NJ",
+      "workers": 387,
+      "city": "WOODBRIDGE"
+    },
+    {
+      "date": "08/18/2003",
+      "effective_date": "08/18/2003",
+      "state": "GA",
+      "workers": 68,
+      "city": "Forest Park"
+    },
+    {
+      "date": "07/30/2001",
+      "effective_date": "07/30/2001",
+      "state": "KY",
+      "workers": 140,
+      "city": "Louisville"
+    },
+    {
+      "date": "07/11/2001",
+      "effective_date": "09/15/2001",
+      "state": "AL",
+      "workers": 89,
+      "city": "Mobile"
+    },
+    {
+      "date": "07/03/2001",
+      "effective_date": "08/31/2001",
+      "state": "AL",
+      "workers": 208,
+      "city": "Birmingham"
+    },
+    {
+      "date": "07/03/2001",
+      "effective_date": "07/03/2001",
+      "state": "GA",
+      "workers": 244,
+      "city": "Atlanta"
+    },
+    {
+      "date": "05/22/2001",
+      "effective_date": "06/04/2001",
+      "state": "TX",
+      "workers": 300,
+      "city": "Houston"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "snohomish-county-wib",
+      "name": "Snohomish County WIB",
+      "state": "WA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

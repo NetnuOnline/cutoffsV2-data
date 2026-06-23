@@ -1,0 +1,59 @@
+{
+  "slug": "giant-delivers",
+  "canonical_name": "Giant Delivers",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 3,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "VA",
+      "count": 2
+    },
+    {
+      "state": "MD",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "12/12/2025",
+      "effective_date": "02/10/2026",
+      "state": "VA",
+      "workers": 90,
+      "city": "Manassas, VA"
+    },
+    {
+      "date": "08/28/2023",
+      "effective_date": "10/21/2023",
+      "state": "MD",
+      "workers": 362,
+      "city": "Hanover"
+    },
+    {
+      "date": "08/28/2023",
+      "effective_date": "10/21/2023",
+      "state": "VA",
+      "workers": 72,
+      "city": "Manassas, VA"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "anne-arundel-wia",
+      "name": "Anne Arundel WIA",
+      "state": "MD"
+    },
+    {
+      "slug": "northern-virginia-lwia-xi",
+      "name": "Northern Virginia LWIA XI",
+      "state": "VA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

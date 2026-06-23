@@ -1,0 +1,162 @@
+{
+  "slug": "eisner-advisory-group",
+  "canonical_name": "Eisner Advisory Group LLC",
+  "fein": "87-1353108",
+  "lca_filing_count": 19,
+  "warn_notice_count": 0,
+  "median_wage_usd": 140595.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 3,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 140595.0
+    },
+    {
+      "fy": 2024,
+      "filings": 8,
+      "median_wage_usd": 115244.0
+    },
+    {
+      "fy": 2025,
+      "filings": 6,
+      "median_wage_usd": 139400.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Tax Senior",
+      "count": 4,
+      "median_wage_usd": 86242.48
+    },
+    {
+      "title": "Audit Manager",
+      "count": 3,
+      "median_wage_usd": 140595.0
+    },
+    {
+      "title": "Assurance Staff II",
+      "count": 3,
+      "median_wage_usd": 74173.0
+    },
+    {
+      "title": "Audit Senior Manager",
+      "count": 3,
+      "median_wage_usd": 172000.0
+    },
+    {
+      "title": "Partner",
+      "count": 2,
+      "median_wage_usd": 180000.0
+    },
+    {
+      "title": "Tax Manager",
+      "count": 2,
+      "median_wage_usd": 137500.0
+    },
+    {
+      "title": "Sharepoint Manager",
+      "count": 1,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "title": "ERP Integration Lead",
+      "count": 1,
+      "median_wage_usd": 165000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MN",
+      "county": "HENNEPIN",
+      "count": 5
+    },
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 3
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "MARIN",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "county": "MIDDLESEX",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "county": "MIAMI-DADE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 7
+    },
+    {
+      "state": "MN",
+      "count": 6
+    },
+    {
+      "state": "NJ",
+      "count": 3
+    },
+    {
+      "state": "NY",
+      "count": 2
+    },
+    {
+      "state": "FL",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 18,
+    "continuing_denials": 0,
+    "total_approvals": 19,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 15,
+        "continuing_denials": 0,
+        "total_approvals": 16
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      }
+    ]
+  },
+  "lca_worker_positions": 19,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-2011",
+    "soc_title": "Accountants and Auditors",
+    "market_median_usd": 79000.0,
+    "employer_median_usd": 140595.0,
+    "gap_usd": 61595.0
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "radioshack-corporation",
+  "canonical_name": "RadioShack Corporation",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "MD",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "02/04/2015",
+      "effective_date": "03/11/2015",
+      "state": "MD",
+      "workers": 87,
+      "city": "Hagerstown"
+    },
+    {
+      "date": "01/05/2015",
+      "effective_date": "03/06/2015",
+      "state": "CA",
+      "workers": 57,
+      "city": "Woodland"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "western-maryland-wia",
+      "name": "Western Maryland WIA",
+      "state": "MD"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "hudson-yards-catering",
+  "canonical_name": "Hudson Yards Catering LLC",
+  "fein": null,
+  "lca_filing_count": 1,
+  "warn_notice_count": 1,
+  "median_wage_usd": 68000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 68000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Marketing Specialist ",
+      "count": 1,
+      "median_wage_usd": 68000.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "03/31/2020",
+      "effective_date": "03/18/2020",
+      "state": "NY",
+      "workers": 416,
+      "city": "New York"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "lca_worker_positions": 1,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1161",
+    "soc_title": "Market Research Analysts and Marketing Specialists",
+    "market_median_usd": 74680.0,
+    "employer_median_usd": 68000.0,
+    "gap_usd": -6680.0
+  }
+}

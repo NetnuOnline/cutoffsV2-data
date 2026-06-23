@@ -1,0 +1,135 @@
+{
+  "slug": "daramic",
+  "canonical_name": "Daramic, LLC",
+  "fein": null,
+  "lca_filing_count": 2,
+  "warn_notice_count": 3,
+  "median_wage_usd": 82596.71,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 76918.43
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 88275.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Research Scientist ",
+      "count": 1,
+      "median_wage_usd": 88275.0
+    },
+    {
+      "title": "Process Engineer",
+      "count": 1,
+      "median_wage_usd": 76918.43
+    }
+  ],
+  "top_states": [
+    {
+      "state": "KY",
+      "count": 2
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "KY",
+      "county": "DAVIESS",
+      "count": 2
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "07/08/2024",
+      "effective_date": "07/08/2024",
+      "state": "KY",
+      "workers": 156,
+      "city": "Daviess"
+    },
+    {
+      "date": "06/01/2020",
+      "effective_date": "06/30/2021",
+      "state": "IN",
+      "workers": 74,
+      "city": "Corydon"
+    },
+    {
+      "date": "11/09/2009",
+      "effective_date": "11/09/2009",
+      "state": "KY",
+      "workers": 180,
+      "city": "Owensboro"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "economic-growth-region-10",
+      "name": "Economic Growth Region 10",
+      "state": "IN"
+    },
+    {
+      "slug": "j-green-river-wib",
+      "name": "J Green River WIB",
+      "state": "KY"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 1,
+    "continuing_denials": 0,
+    "total_approvals": 1,
+    "by_fy": [
+      {
+        "fy": 2009,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2015,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2017,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": []
+}

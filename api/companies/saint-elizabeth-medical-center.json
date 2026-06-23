@@ -1,0 +1,51 @@
+{
+  "slug": "saint-elizabeth-medical-center",
+  "canonical_name": "Saint Elizabeth Medical Center",
+  "fein": "61-0445850",
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 85862.4,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 85862.4
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Certified Athletic Trainer",
+      "count": 1,
+      "median_wage_usd": 48360.0
+    },
+    {
+      "title": "ETL Administrator",
+      "count": 1,
+      "median_wage_usd": 123364.8
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "KY",
+      "county": "KENTON",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "KY",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Computer Occupations, All Other",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 123364.8,
+    "gap_usd": 5364.8
+  }
+}

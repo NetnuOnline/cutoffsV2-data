@@ -1,0 +1,77 @@
+{
+  "slug": "daybreak-game-company",
+  "canonical_name": "Daybreak Game Company LLC",
+  "fein": "20-4347762",
+  "lca_filing_count": 5,
+  "lca_worker_positions": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 120000.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 120112.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 81000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 104541.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Accounting Supervisor",
+      "count": 2,
+      "median_wage_usd": 92770.5
+    },
+    {
+      "title": "Senior Accounting Manager",
+      "count": 1,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "Senior Software Engineer I",
+      "count": 1,
+      "median_wage_usd": 120224.0
+    },
+    {
+      "title": "Lead Database Administrator ",
+      "count": 1,
+      "median_wage_usd": 125000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SAN DIEGO",
+      "count": 4
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 5
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-2011",
+    "soc_title": "Accountants and Auditors",
+    "market_median_usd": 79000.0,
+    "employer_median_usd": 104541.0,
+    "gap_usd": 25541.0
+  }
+}

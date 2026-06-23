@@ -1,0 +1,66 @@
+{
+  "slug": "mr-yum-trading",
+  "canonical_name": "Mr Yum Trading Inc",
+  "fein": "85-2322073",
+  "lca_filing_count": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 165000.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 5,
+      "median_wage_usd": 230000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 100000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "VP of Product/Engineering, Strategic Projects",
+      "count": 3,
+      "median_wage_usd": 230000.0
+    },
+    {
+      "title": "Venue Partnerships (Sales), SMB",
+      "count": 1,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "title": "Account Manager USA ",
+      "count": 1,
+      "median_wage_usd": 90000.0
+    },
+    {
+      "title": "Senior Account Manager",
+      "count": 1,
+      "median_wage_usd": 100000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 6
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 6
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 6,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3021",
+    "soc_title": "Computer and Information Systems Managers",
+    "market_median_usd": 169510.0,
+    "employer_median_usd": 230000.0,
+    "gap_usd": 60490.0
+  }
+}

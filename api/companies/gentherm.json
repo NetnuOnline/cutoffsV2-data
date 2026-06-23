@@ -1,0 +1,106 @@
+{
+  "slug": "gentherm",
+  "canonical_name": "Gentherm Incorporated",
+  "fein": null,
+  "lca_filing_count": 12,
+  "warn_notice_count": 1,
+  "median_wage_usd": 149914,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 0,
+      "median_wage_usd": null
+    },
+    {
+      "fy": 2026,
+      "filings": 0,
+      "median_wage_usd": null
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Lead, UX Engineer",
+      "count": 0,
+      "median_wage_usd": null
+    },
+    {
+      "title": "Lead Systems Verification Engineer",
+      "count": 0,
+      "median_wage_usd": null
+    }
+  ],
+  "top_states": [
+    {
+      "state": "SC",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "03/01/2024",
+      "effective_date": "05/03/2024",
+      "state": "SC",
+      "workers": 124,
+      "city": "Greenville"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "greenville-wib",
+      "name": "Greenville WIB",
+      "state": "SC"
+    }
+  ],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2023-09-19",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-23-237293",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000903129&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2023-01-06",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-23-003553",
+        "items": [
+          "2.05",
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities",
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000903129&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2019-09-27",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-19-256683",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000903129&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 3,
+    "itemCounts": {
+      "2.05": 3,
+      "2.06": 1
+    },
+    "latestFilingDate": "2023-09-19",
+    "earliestFilingDate": "2019-09-27"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

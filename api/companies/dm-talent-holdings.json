@@ -1,0 +1,50 @@
+{
+  "slug": "dm-talent-holdings",
+  "canonical_name": "DM Talent Holdings, LLC",
+  "fein": "99-4145597",
+  "lca_filing_count": 3,
+  "lca_worker_positions": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 74506.0,
+  "by_fy": [
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 75803.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Tax Associate (Non-Licensed)",
+      "count": 2,
+      "median_wage_usd": 74506.0
+    },
+    {
+      "title": "Audit Senior (Licensed)",
+      "count": 1,
+      "median_wage_usd": 77100.0
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "MI",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-2011",
+    "soc_title": "Accountants and Auditors",
+    "market_median_usd": 79000.0,
+    "employer_median_usd": 75803.0,
+    "gap_usd": -3197.0
+  }
+}

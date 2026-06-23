@@ -1,0 +1,74 @@
+{
+  "slug": "teknowleap",
+  "canonical_name": "Teknowleap Inc",
+  "fein": "92-3659456",
+  "lca_filing_count": 8,
+  "warn_notice_count": 0,
+  "median_wage_usd": 122699.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 101192.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 122699.0
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 131997.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SENIOR SOFTWARE ENGINEER",
+      "count": 7,
+      "median_wage_usd": 122699.0
+    },
+    {
+      "title": "SOFTWARE ENGINEER",
+      "count": 1,
+      "median_wage_usd": 114026.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "VA",
+      "county": "FAIRFAX",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "VA",
+      "count": 5
+    },
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 8,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 122699.0,
+    "gap_usd": -7461.0
+  }
+}

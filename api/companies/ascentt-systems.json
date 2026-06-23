@@ -1,0 +1,102 @@
+{
+  "slug": "ascentt-systems",
+  "canonical_name": "Ascentt Systems, Inc.",
+  "fein": "88-4002016",
+  "lca_filing_count": 14,
+  "lca_worker_positions": 14,
+  "warn_notice_count": 0,
+  "median_wage_usd": 149370.5,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 5,
+      "median_wage_usd": 155000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 5,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 4,
+      "median_wage_usd": 129300.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Software Developer",
+      "count": 2,
+      "median_wage_usd": 155000.0
+    },
+    {
+      "title": "Manager-Data Engineering",
+      "count": 2,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "title": "Principal Data Scientist - I",
+      "count": 2,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Principal ML Engineer - II",
+      "count": 1,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Senior Manager Solution Architect",
+      "count": 1,
+      "median_wage_usd": 160000.0
+    },
+    {
+      "title": "Sr Project Manager",
+      "count": 1,
+      "median_wage_usd": 128601.0
+    },
+    {
+      "title": "Principal Applications Engineer - I",
+      "count": 1,
+      "median_wage_usd": 112923.0
+    },
+    {
+      "title": "Manager BI",
+      "count": 1,
+      "median_wage_usd": 148741.0
+    },
+    {
+      "title": "Principal Data Scientist",
+      "count": 1,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "title": "Senior Data Scientist",
+      "count": 1,
+      "median_wage_usd": 145000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 5
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 14
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 145000.0,
+    "gap_usd": 36980.0
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "slug": "umass-memorial-medical-center",
+  "canonical_name": "UMass Memorial Medical Center, Inc.",
+  "fein": "04-3358564",
+  "lca_filing_count": 9,
+  "lca_worker_positions": 9,
+  "warn_notice_count": 0,
+  "median_wage_usd": 111675.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 100318.5
+    },
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 111141.5
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 91197.5
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 109873.5
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 116251.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Data Scientist",
+      "count": 1,
+      "median_wage_usd": 70283.0
+    },
+    {
+      "title": "Manager, 340B Compliance & Business Office",
+      "count": 1,
+      "median_wage_usd": 152000.0
+    },
+    {
+      "title": "Speech / Language Pathologist",
+      "count": 1,
+      "median_wage_usd": 92867.0
+    },
+    {
+      "title": "Medical Technologist II",
+      "count": 1,
+      "median_wage_usd": 70720.0
+    },
+    {
+      "title": "Sr. SQL Server Database Administrator",
+      "count": 1,
+      "median_wage_usd": 117312.0
+    },
+    {
+      "title": "Sr. Applications / Systems Analyst ERP",
+      "count": 1,
+      "median_wage_usd": 111675.0
+    },
+    {
+      "title": "Clinical Pharmacist",
+      "count": 1,
+      "median_wage_usd": 126880.0
+    },
+    {
+      "title": "Reporting Operational Metrics Analyst",
+      "count": 1,
+      "median_wage_usd": 83325.0
+    },
+    {
+      "title": "Manager, Applications",
+      "count": 1,
+      "median_wage_usd": 116251.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MA",
+      "county": "WORCESTER CITY",
+      "count": 8
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MA",
+      "count": 9
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Information Technology Project Managers",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 116251.0,
+    "gap_usd": -1749.0
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "slug": "waltz-health",
+  "canonical_name": "Waltz Health, Inc.",
+  "fein": "86-2309889",
+  "lca_filing_count": 2,
+  "lca_worker_positions": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 115725.0,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 144450.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 87000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Full Stack Software Engineer",
+      "count": 1,
+      "median_wage_usd": 144450.0
+    },
+    {
+      "title": "UI/UX Designer",
+      "count": 1,
+      "median_wage_usd": 87000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 144450.0,
+    "gap_usd": 14290.0
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "slug": "crest-software-services",
+  "canonical_name": "CREST Software Services Inc",
+  "fein": "88-3144877",
+  "lca_filing_count": 14,
+  "warn_notice_count": 0,
+  "median_wage_usd": 76502.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 90000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 9,
+      "median_wage_usd": 76502.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 87838.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SOFTWARE ENGINEER/ARCHITECT",
+      "count": 9,
+      "median_wage_usd": 76502.0
+    },
+    {
+      "title": "Network and System Administrator",
+      "count": 2,
+      "median_wage_usd": 87838.0
+    },
+    {
+      "title": "DATA ENGINEER",
+      "count": 2,
+      "median_wage_usd": 90000.0
+    },
+    {
+      "title": "DEVOPS ENGINEER",
+      "count": 1,
+      "median_wage_usd": 65000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NJ",
+      "county": "MERCER",
+      "count": 9
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 2
+    },
+    {
+      "state": "VA",
+      "county": "FAIRFAX",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 9
+    },
+    {
+      "state": "WA",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "VA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 14,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Computer Systems Engineers/Architects",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 76502.0,
+    "gap_usd": -41498.0
+  }
+}

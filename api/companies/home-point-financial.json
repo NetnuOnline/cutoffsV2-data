@@ -1,0 +1,139 @@
+{
+  "slug": "home-point-financial",
+  "canonical_name": "Home Point Financial Corporation",
+  "fein": null,
+  "lca_filing_count": 7,
+  "warn_notice_count": 0,
+  "median_wage_usd": 115000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 3,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 148000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 120000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Data Developer",
+      "count": 2,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "title": "Senior Systems Administrator",
+      "count": 2,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "Solution Architect",
+      "count": 1,
+      "median_wage_usd": 148000.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 1,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "Managing Director, Enterprise Architecture",
+      "count": 1,
+      "median_wage_usd": 210000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 2
+    },
+    {
+      "state": "MI",
+      "county": "WASHTENAW",
+      "count": 2
+    },
+    {
+      "state": "MN",
+      "county": "WASHINGTON",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 3
+    },
+    {
+      "state": "MI",
+      "count": 2
+    },
+    {
+      "state": "MN",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 1,
+    "continuing_approvals": 11,
+    "continuing_denials": 0,
+    "total_approvals": 11,
+    "by_fy": [
+      {
+        "fy": 2020,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 1,
+        "continuing_approvals": 7,
+        "continuing_denials": 0,
+        "total_approvals": 7
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 7,
+  "top_socs": [],
+  "lca_periods": []
+}

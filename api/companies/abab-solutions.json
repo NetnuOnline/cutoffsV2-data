@@ -1,0 +1,210 @@
+{
+  "slug": "abab-solutions",
+  "canonical_name": "ABAB Solutions Inc.",
+  "fein": "45-5093181",
+  "lca_filing_count": 16,
+  "warn_notice_count": 0,
+  "median_wage_usd": 98595.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 99600.0
+    },
+    {
+      "fy": 2023,
+      "filings": 8,
+      "median_wage_usd": 90510.5
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 99302.5
+    },
+    {
+      "fy": 2025,
+      "filings": 4,
+      "median_wage_usd": 102190.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Platform Engineer",
+      "count": 4,
+      "median_wage_usd": 102190.0
+    },
+    {
+      "title": "Cassandra Administrator",
+      "count": 3,
+      "median_wage_usd": 90000.0
+    },
+    {
+      "title": "Cassandra Consultant",
+      "count": 2,
+      "median_wage_usd": 116000.0
+    },
+    {
+      "title": "Java Developer",
+      "count": 2,
+      "median_wage_usd": 91021.0
+    },
+    {
+      "title": "Database Engineer",
+      "count": 1,
+      "median_wage_usd": 85000.0
+    },
+    {
+      "title": "Software Tester",
+      "count": 1,
+      "median_wage_usd": 74610.0
+    },
+    {
+      "title": "DevOps Engineer",
+      "count": 1,
+      "median_wage_usd": 103605.0
+    },
+    {
+      "title": "Cassandra Engineer",
+      "count": 1,
+      "median_wage_usd": 108000.0
+    },
+    {
+      "title": "Oracle Technical Consultant",
+      "count": 1,
+      "median_wage_usd": 79685.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MI",
+      "county": "OAKLAND",
+      "count": 4
+    },
+    {
+      "state": "MN",
+      "county": "HENNEPIN",
+      "count": 3
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 2
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 2
+    },
+    {
+      "state": "OH",
+      "county": "HAMILTON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MI",
+      "count": 8
+    },
+    {
+      "state": "MN",
+      "count": 3
+    },
+    {
+      "state": "WA",
+      "count": 2
+    },
+    {
+      "state": "GA",
+      "count": 2
+    },
+    {
+      "state": "OH",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 14,
+    "initial_denials": 2,
+    "continuing_approvals": 11,
+    "continuing_denials": 0,
+    "total_approvals": 25,
+    "by_fy": [
+      {
+        "fy": 2016,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2017,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 7,
+        "initial_denials": 2,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 10
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 3,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 6
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 3,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 6
+      }
+    ]
+  },
+  "lca_worker_positions": 16,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 102190.0,
+    "gap_usd": -27970.0
+  }
+}

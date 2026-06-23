@@ -1,0 +1,79 @@
+{
+  "slug": "ams-osram-usa",
+  "canonical_name": "AMS-OSRAM USA INC.",
+  "fein": null,
+  "lca_filing_count": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 103225.04,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 4,
+      "median_wage_usd": 103225.04
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Scientist 7627511",
+      "count": 1,
+      "median_wage_usd": 93150.04
+    },
+    {
+      "title": "Senior Project Manager, R&D 7629408",
+      "count": 1,
+      "median_wage_usd": 81120.0
+    },
+    {
+      "title": "Senior Principal Engineer 7627506",
+      "count": 1,
+      "median_wage_usd": 180000.0
+    },
+    {
+      "title": "Staff Engineer, RD Verification 7629354",
+      "count": 1,
+      "median_wage_usd": 113300.04
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 2
+    },
+    {
+      "state": "NY",
+      "county": "MONROE",
+      "count": 1
+    },
+    {
+      "state": "OR",
+      "county": "WASHINGTON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "OR",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Information Technology Project Managers",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 81120.0,
+    "gap_usd": -36880.0
+  }
+}

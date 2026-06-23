@@ -1,0 +1,67 @@
+{
+  "slug": "washington-state-department-of-enterprise-services",
+  "canonical_name": "Washington State Department of Enterprise Services",
+  "fein": "45-2096870",
+  "lca_filing_count": 3,
+  "lca_worker_positions": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 120000.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 109452.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 132768.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 120000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "IT Project Management, Senior Specialist",
+      "count": 1,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "IT Project Management Manager",
+      "count": 1,
+      "median_wage_usd": 132768.0
+    },
+    {
+      "title": "IT APPLICATION DEVELOPER, SENIOR/SPECIALIST",
+      "count": 1,
+      "median_wage_usd": 109452.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "WA",
+      "county": "THURSTON",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "WA",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Information Technology Project Managers",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 126384.0,
+    "gap_usd": 8384.0
+  }
+}

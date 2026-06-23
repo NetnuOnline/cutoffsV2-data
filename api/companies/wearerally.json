@@ -1,0 +1,103 @@
+{
+  "slug": "wearerally",
+  "canonical_name": "WeAreRally, Inc",
+  "fein": "26-4433321",
+  "lca_filing_count": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 100000.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 90000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 105105.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Research Analyst - Politics and Policies",
+      "count": 1,
+      "median_wage_usd": 80000.0
+    },
+    {
+      "title": "Associate Director",
+      "count": 1,
+      "median_wage_usd": 105105.0
+    },
+    {
+      "title": "Digital Account Manager",
+      "count": 1,
+      "median_wage_usd": 100000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "county": "KINGS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 2
+    },
+    {
+      "state": "NY",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 3,
+    "initial_denials": 0,
+    "continuing_approvals": 1,
+    "continuing_denials": 0,
+    "total_approvals": 4,
+    "by_fy": [
+      {
+        "fy": 2020,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      }
+    ]
+  },
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1161",
+    "soc_title": "Market Research Analysts and Marketing Specialists",
+    "market_median_usd": 74680.0,
+    "employer_median_usd": 80000.0,
+    "gap_usd": 5320.0
+  }
+}

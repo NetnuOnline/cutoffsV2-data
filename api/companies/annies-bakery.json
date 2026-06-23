@@ -1,0 +1,36 @@
+{
+  "slug": "annies-bakery",
+  "canonical_name": "Annie's Bakery LLC",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 1,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "MO",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "10/12/2015",
+      "effective_date": "12/31/2015",
+      "state": "MO",
+      "workers": 119,
+      "city": "Joplin"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "southwest-region-wib",
+      "name": "Southwest Region WIB",
+      "state": "MO"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

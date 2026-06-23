@@ -1,0 +1,41 @@
+{
+  "slug": "mytility",
+  "canonical_name": "Mytility Corp.",
+  "fein": "98-1287000",
+  "lca_filing_count": 1,
+  "lca_worker_positions": 1,
+  "warn_notice_count": 0,
+  "median_wage_usd": 139443.0,
+  "by_fy": [
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 139443.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "IT Consultant (Security Officer)",
+      "count": 1,
+      "median_wage_usd": 139443.0
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Information Security Engineers",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 139443.0,
+    "gap_usd": 21443.0
+  }
+}

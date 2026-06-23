@@ -1,0 +1,197 @@
+{
+  "slug": "darigold",
+  "canonical_name": "Darigold, Inc.",
+  "fein": "91-0730043",
+  "lca_filing_count": 22,
+  "warn_notice_count": 3,
+  "median_wage_usd": 122500.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 4,
+      "median_wage_usd": 113110.0
+    },
+    {
+      "fy": 2021,
+      "filings": 4,
+      "median_wage_usd": 132500.0
+    },
+    {
+      "fy": 2022,
+      "filings": 4,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 5,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 172000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 185500.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Business System Analyst",
+      "count": 3,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "title": "Enterprise Integration Engineer",
+      "count": 3,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "title": "Senior Business Systems Analyst",
+      "count": 2,
+      "median_wage_usd": 167593.5
+    },
+    {
+      "title": "Supply Chain Process Improvement Analyst ",
+      "count": 2,
+      "median_wage_usd": 79000.0
+    },
+    {
+      "title": "Business System Analyst",
+      "count": 2,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "title": "President, Global Ingredients",
+      "count": 1,
+      "median_wage_usd": 475000.0
+    },
+    {
+      "title": "Product Development and Commercialization Manager",
+      "count": 1,
+      "median_wage_usd": 105000.0
+    },
+    {
+      "title": "Director, Product Innovation",
+      "count": 1,
+      "median_wage_usd": 179000.0
+    },
+    {
+      "title": "Systems and Database Engineer ",
+      "count": 1,
+      "median_wage_usd": 113110.0
+    },
+    {
+      "title": "Business Systems Analyst \u2013 Supply Chain",
+      "count": 1,
+      "median_wage_usd": 130000.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "WA",
+      "count": 22
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 20
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "11/23/2025",
+      "effective_date": "11/23/2025",
+      "state": "WA",
+      "workers": 55,
+      "city": "Chehalis"
+    },
+    {
+      "date": "09/23/2025",
+      "effective_date": "11/23/2025",
+      "state": "WA",
+      "workers": 55,
+      "city": "Chehalis"
+    },
+    {
+      "date": "05/24/2012",
+      "effective_date": "05/24/2012",
+      "state": "UT",
+      "workers": 86,
+      "city": "Salt Lake City"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "pacific-mountain-wib",
+      "name": "Pacific Mountain WIB",
+      "state": "WA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 4,
+    "initial_denials": 1,
+    "continuing_approvals": 26,
+    "continuing_denials": 0,
+    "total_approvals": 30,
+    "by_fy": [
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 1,
+        "initial_denials": 1,
+        "continuing_approvals": 5,
+        "continuing_denials": 0,
+        "total_approvals": 6
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 12,
+        "continuing_denials": 0,
+        "total_approvals": 14
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 6,
+        "continuing_denials": 0,
+        "total_approvals": 7
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      }
+    ]
+  },
+  "lca_worker_positions": 21,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1211",
+    "soc_title": "Computer Systems Analysts",
+    "market_median_usd": 103800.0,
+    "employer_median_usd": 115000.0,
+    "gap_usd": 11200.0
+  }
+}

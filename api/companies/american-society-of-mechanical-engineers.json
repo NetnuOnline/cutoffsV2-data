@@ -1,0 +1,65 @@
+{
+  "slug": "american-society-of-mechanical-engineers",
+  "canonical_name": "AMERICAN SOCIETY OF MECHANICAL ENGINEERS",
+  "fein": null,
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 115125.04,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 138000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 92250.08
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Director, Analytics",
+      "count": 1,
+      "median_wage_usd": 138000.0
+    },
+    {
+      "title": "Learning Experience Designer ",
+      "count": 1,
+      "median_wage_usd": 92250.08
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "county": "PASSAIC",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3031",
+    "soc_title": "Financial Managers",
+    "market_median_usd": 156100.0,
+    "employer_median_usd": 138000.0,
+    "gap_usd": -18100.0
+  }
+}

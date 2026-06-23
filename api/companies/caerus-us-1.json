@@ -1,0 +1,99 @@
+{
+  "slug": "caerus-us-1",
+  "canonical_name": "Caerus US 1 Inc.",
+  "fein": "88-0547633",
+  "lca_filing_count": 7,
+  "warn_notice_count": 0,
+  "median_wage_usd": 160000.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 215000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 4,
+      "median_wage_usd": 160000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 123000.14
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "RWD Solution Architect",
+      "count": 2,
+      "median_wage_usd": 160000.0
+    },
+    {
+      "title": "VP, Product Readiness ",
+      "count": 2,
+      "median_wage_usd": 215000.0
+    },
+    {
+      "title": "Engagement Manager  Real World Data",
+      "count": 1,
+      "median_wage_usd": 171000.0
+    },
+    {
+      "title": "Engagement Manager \u2013 Real World Data",
+      "count": 1,
+      "median_wage_usd": 152000.0
+    },
+    {
+      "title": "Data Engineer",
+      "count": 1,
+      "median_wage_usd": 123000.14
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "county": "HUDSON",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "county": "MIDDLESEX",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 3
+    },
+    {
+      "state": "NJ",
+      "count": 3
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 7,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Clinical Data Managers",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 187500.0,
+    "gap_usd": 79480.0
+  }
+}

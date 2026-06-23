@@ -1,0 +1,53 @@
+{
+  "slug": "freddie-mac",
+  "canonical_name": "Freddie Mac",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "04/22/2008",
+      "effective_date": "06/01/2008",
+      "state": "IL",
+      "workers": 118,
+      "city": "Schaumburg"
+    },
+    {
+      "date": "03/29/2000",
+      "effective_date": "03/29/2000",
+      "state": "GA",
+      "workers": 45,
+      "city": "Atlanta"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": {
+    "filings": [
+      {
+        "filingDate": "2008-09-11",
+        "formType": "8-K",
+        "accessionNumber": "0001026214-08-000030",
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001026214&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 1,
+    "latestFilingDate": "2008-09-11",
+    "earliestFilingDate": "2008-09-11"
+  },
+  "source": "warntracker"
+}

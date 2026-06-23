@@ -1,0 +1,83 @@
+{
+  "slug": "bluebris-systems",
+  "canonical_name": "BLUEBRIS SYSTEMS, INC.",
+  "fein": "88-0603418",
+  "lca_filing_count": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 86496.6,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 86611.2
+    },
+    {
+      "fy": 2025,
+      "filings": 5,
+      "median_wage_usd": 86382.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SYSTEM ADMINISTRATOR",
+      "count": 2,
+      "median_wage_usd": 86382.0
+    },
+    {
+      "title": "APPLICATION DEVELOPER",
+      "count": 1,
+      "median_wage_usd": 71053.0
+    },
+    {
+      "title": "DATA ENGINEER/SCIENTIST",
+      "count": 1,
+      "median_wage_usd": 96928.0
+    },
+    {
+      "title": "Software Quality Analyst",
+      "count": 1,
+      "median_wage_usd": 88088.0
+    },
+    {
+      "title": "SOFTWARE QUALITY ANALYST",
+      "count": 1,
+      "median_wage_usd": 86611.2
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "VA",
+      "county": "FAIRFAX",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 3
+    },
+    {
+      "state": "PA",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "count": 1
+    },
+    {
+      "state": "IN",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 6,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1253",
+    "soc_title": "Software Quality Assurance Analysts and Testers",
+    "market_median_usd": 101800.0,
+    "employer_median_usd": 87349.6,
+    "gap_usd": -14450.4
+  }
+}

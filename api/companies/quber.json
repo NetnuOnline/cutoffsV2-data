@@ -1,0 +1,140 @@
+{
+  "slug": "quber",
+  "canonical_name": "Quber, Inc.",
+  "fein": "86-1921073",
+  "lca_filing_count": 10,
+  "lca_worker_positions": 10,
+  "warn_notice_count": 0,
+  "median_wage_usd": 93600.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 3,
+      "median_wage_usd": 87360.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 101920.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 91520.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 96720.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 89440.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 6,
+      "median_wage_usd": 94640.0
+    },
+    {
+      "title": "Software Developer ",
+      "count": 2,
+      "median_wage_usd": 101920.0
+    },
+    {
+      "title": "Software Automation Tester",
+      "count": 1,
+      "median_wage_usd": 87360.0
+    },
+    {
+      "title": "Devops Engineer",
+      "count": 1,
+      "median_wage_usd": 87360.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "FL",
+      "county": "HILLSBOROUGH",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "county": "FAIRFAX",
+      "count": 1
+    },
+    {
+      "state": "WI",
+      "county": "MILWAUKEE",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 1
+    },
+    {
+      "state": "KY",
+      "county": "JEFFERSON",
+      "count": 1
+    },
+    {
+      "state": "OH",
+      "county": "HAMILTON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "VA",
+      "count": 2
+    },
+    {
+      "state": "FL",
+      "count": 1
+    },
+    {
+      "state": "KY",
+      "count": 1
+    },
+    {
+      "state": "OH",
+      "count": 1
+    },
+    {
+      "state": "WI",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 95680.0,
+    "gap_usd": -34480.0
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "slug": "delight-farm",
+  "canonical_name": "Delight Farm Inc.",
+  "fein": null,
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 52010.4,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 52010.4
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Food Scientists and Technologists",
+      "count": 1,
+      "median_wage_usd": 47840.0
+    },
+    {
+      "title": "Market Research Analyst",
+      "count": 1,
+      "median_wage_usd": 56180.8
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "TOMPKINS",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 4,
+    "initial_denials": 0,
+    "continuing_approvals": 0,
+    "continuing_denials": 0,
+    "total_approvals": 4,
+    "by_fy": [
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1161",
+    "soc_title": "Market Research Analysts and Marketing Specialists",
+    "market_median_usd": 74680.0,
+    "employer_median_usd": 56180.8,
+    "gap_usd": -18499.2
+  }
+}

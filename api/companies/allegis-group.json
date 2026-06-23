@@ -1,0 +1,182 @@
+{
+  "slug": "allegis-group",
+  "canonical_name": "Allegis Group, Inc.",
+  "fein": "52-1304931",
+  "lca_filing_count": 42,
+  "lca_worker_positions": 42,
+  "warn_notice_count": 0,
+  "median_wage_usd": 134500.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 5,
+      "median_wage_usd": 105119.0
+    },
+    {
+      "fy": 2021,
+      "filings": 9,
+      "median_wage_usd": 127254.0
+    },
+    {
+      "fy": 2022,
+      "filings": 3,
+      "median_wage_usd": 118210.61
+    },
+    {
+      "fy": 2023,
+      "filings": 7,
+      "median_wage_usd": 135572.0
+    },
+    {
+      "fy": 2024,
+      "filings": 7,
+      "median_wage_usd": 143695.24
+    },
+    {
+      "fy": 2025,
+      "filings": 7,
+      "median_wage_usd": 145000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 4,
+      "median_wage_usd": 156971.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Developer",
+      "count": 6,
+      "median_wage_usd": 123679.465
+    },
+    {
+      "title": "IS Manager",
+      "count": 5,
+      "median_wage_usd": 165000.0
+    },
+    {
+      "title": "Systems Analyst",
+      "count": 5,
+      "median_wage_usd": 118124.0
+    },
+    {
+      "title": "Test Engineer",
+      "count": 4,
+      "median_wage_usd": 124858.14
+    },
+    {
+      "title": "DevOps Engineer",
+      "count": 3,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "title": "Domain Architect",
+      "count": 3,
+      "median_wage_usd": 146615.26
+    },
+    {
+      "title": "Lead Cloud Data Engineer",
+      "count": 2,
+      "median_wage_usd": 145000.0
+    },
+    {
+      "title": "Systems Analyst - Lead",
+      "count": 2,
+      "median_wage_usd": 135172.255
+    },
+    {
+      "title": "Business Analyst",
+      "count": 2,
+      "median_wage_usd": 110867.82999999999
+    },
+    {
+      "title": "Senior Systems Analyst",
+      "count": 1,
+      "median_wage_usd": 109883.24
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MD",
+      "county": "ANNE ARUNDEL",
+      "count": 23
+    },
+    {
+      "state": "NJ",
+      "county": "MIDDLESEX",
+      "count": 1
+    },
+    {
+      "state": "MD",
+      "county": "HOWARD",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "county": "DUVAL",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MD",
+      "count": 32
+    },
+    {
+      "state": "TX",
+      "count": 5
+    },
+    {
+      "state": "NJ",
+      "count": 2
+    },
+    {
+      "state": "FL",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 139331.26,
+    "gap_usd": 9171.26
+  }
+}

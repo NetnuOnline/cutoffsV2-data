@@ -1,0 +1,322 @@
+{
+  "slug": "new-york-air-brake",
+  "canonical_name": "New York Air Brake LLC",
+  "fein": "16-1385584",
+  "lca_filing_count": 12,
+  "warn_notice_count": 6,
+  "median_wage_usd": 97500.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 114500.0
+    },
+    {
+      "fy": 2022,
+      "filings": 3,
+      "median_wage_usd": 90000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 6,
+      "median_wage_usd": 102358.5
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 95000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 125861.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Systems Engineer 2",
+      "count": 2,
+      "median_wage_usd": 100981.0
+    },
+    {
+      "title": "Test Engineer 3",
+      "count": 2,
+      "median_wage_usd": 89881.675
+    },
+    {
+      "title": "Manager, Systems Test Engineer",
+      "count": 1,
+      "median_wage_usd": 125861.0
+    },
+    {
+      "title": "Quality Engineer 3",
+      "count": 1,
+      "median_wage_usd": 90000.0
+    },
+    {
+      "title": "Systems Engineer IV",
+      "count": 1,
+      "median_wage_usd": 139500.0
+    },
+    {
+      "title": "Systems Engineer 4",
+      "count": 1,
+      "median_wage_usd": 137654.0
+    },
+    {
+      "title": "Supplier Quality Engineer II",
+      "count": 1,
+      "median_wage_usd": 95000.0
+    },
+    {
+      "title": "Supplier Quality Engineer 2",
+      "count": 1,
+      "median_wage_usd": 91695.0
+    },
+    {
+      "title": "Supplier Quality Engineer 3",
+      "count": 1,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "title": "Test Engineer 4",
+      "count": 1,
+      "median_wage_usd": 114500.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 5
+    },
+    {
+      "state": "NC",
+      "count": 3
+    },
+    {
+      "state": "NY",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "count": 1
+    },
+    {
+      "state": "MO",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 5
+    },
+    {
+      "state": "NC",
+      "county": "ROWAN",
+      "count": 3
+    },
+    {
+      "state": "NY",
+      "county": "JEFFERSON",
+      "count": 1
+    },
+    {
+      "state": "MO",
+      "county": "PLATTE",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "county": "LAKE",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "04/05/2022",
+      "effective_date": "03/18/2022",
+      "state": "NY",
+      "workers": 109,
+      "city": "Watertown"
+    },
+    {
+      "date": "12/22/2021",
+      "effective_date": "12/22/2021",
+      "state": "NY",
+      "workers": 109,
+      "city": "Watertown"
+    },
+    {
+      "date": "10/01/2021",
+      "effective_date": "10/01/2021",
+      "state": "NY",
+      "workers": 0,
+      "city": null
+    },
+    {
+      "date": "09/30/2021",
+      "effective_date": "03/18/2022",
+      "state": "NY",
+      "workers": 109,
+      "city": "Watertown"
+    },
+    {
+      "date": "09/30/2021",
+      "effective_date": "09/30/2021",
+      "state": "NY",
+      "workers": 153,
+      "city": "Watertown"
+    },
+    {
+      "date": "08/17/2017",
+      "effective_date": "11/14/2017",
+      "state": "NY",
+      "workers": 39,
+      "city": "Watertown"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "jeffersonlewis-lwia",
+      "name": "Jefferson/Lewis LWIA",
+      "state": "NY"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 5,
+    "initial_denials": 0,
+    "continuing_approvals": 26,
+    "continuing_denials": 0,
+    "total_approvals": 31,
+    "by_fy": [
+      {
+        "fy": 2009,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2010,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2011,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2012,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2013,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2014,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2015,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2016,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2017,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 3,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 5
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 8,
+        "continuing_denials": 0,
+        "total_approvals": 10
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 11,
+        "continuing_denials": 0,
+        "total_approvals": 11
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 5,
+        "continuing_denials": 0,
+        "total_approvals": 5
+      }
+    ]
+  },
+  "lca_worker_positions": 12,
+  "top_socs": [],
+  "lca_periods": []
+}

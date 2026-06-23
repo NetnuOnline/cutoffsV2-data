@@ -1,0 +1,85 @@
+{
+  "slug": "tech-era",
+  "canonical_name": "TECH ERA LLC",
+  "fein": "30-1343326",
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 96730.5,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 92040.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 101421.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Data Analyst",
+      "count": 1,
+      "median_wage_usd": 92040.0
+    },
+    {
+      "title": "ETL Data Engineer",
+      "count": 1,
+      "median_wage_usd": 101421.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "VA",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 6,
+    "initial_denials": 0,
+    "continuing_approvals": 0,
+    "continuing_denials": 0,
+    "total_approvals": 6,
+    "by_fy": [
+      {
+        "fy": 2020,
+        "initial_approvals": 3,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 3,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      }
+    ]
+  },
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 101421.0,
+    "gap_usd": -28739.0
+  }
+}

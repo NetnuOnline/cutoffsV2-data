@@ -1,0 +1,106 @@
+{
+  "slug": "datacloud-technologies",
+  "canonical_name": "DataCloud Technologies LLC",
+  "fein": "87-4023077",
+  "lca_filing_count": 14,
+  "lca_worker_positions": 14,
+  "warn_notice_count": 0,
+  "median_wage_usd": 108222.0,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 10,
+      "median_wage_usd": 108222.0
+    },
+    {
+      "fy": 2026,
+      "filings": 4,
+      "median_wage_usd": 108222.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 9,
+      "median_wage_usd": 108222.0
+    },
+    {
+      "title": "Sr Java Backend Engineer",
+      "count": 1,
+      "median_wage_usd": 187741.0
+    },
+    {
+      "title": "Oracle EPM Consultant",
+      "count": 1,
+      "median_wage_usd": 118102.0
+    },
+    {
+      "title": "Angular Developer",
+      "count": 1,
+      "median_wage_usd": 126090.0
+    },
+    {
+      "title": "Database Administrator",
+      "count": 1,
+      "median_wage_usd": 68515.0
+    },
+    {
+      "title": "Data Scientist",
+      "count": 1,
+      "median_wage_usd": 96928.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NJ",
+      "county": "MERCER",
+      "count": 1
+    },
+    {
+      "state": "MD",
+      "county": "ANNE ARUNDEL",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 8
+    },
+    {
+      "state": "MD",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 108222.0,
+    "gap_usd": -21938.0
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "slug": "intellan-technologies",
+  "canonical_name": "Intellan Technologies LLC",
+  "fein": "47-5430836",
+  "lca_filing_count": 10,
+  "lca_worker_positions": 10,
+  "warn_notice_count": 0,
+  "median_wage_usd": 101899.0,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 5,
+      "median_wage_usd": 99082.5
+    },
+    {
+      "fy": 2026,
+      "filings": 5,
+      "median_wage_usd": 101899.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 5,
+      "median_wage_usd": 103000.0
+    },
+    {
+      "title": "Sr. Software Developer",
+      "count": 2,
+      "median_wage_usd": 104199.5
+    },
+    {
+      "title": "DevOps Engineer",
+      "count": 2,
+      "median_wage_usd": 86965.0
+    },
+    {
+      "title": "Senior ETL Developer",
+      "count": 1,
+      "median_wage_usd": null
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 4
+    },
+    {
+      "state": "OH",
+      "count": 3
+    },
+    {
+      "state": "OK",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 103000.0,
+    "gap_usd": -27160.0
+  }
+}

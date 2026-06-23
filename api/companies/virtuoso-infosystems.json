@@ -1,0 +1,106 @@
+{
+  "slug": "virtuoso-infosystems",
+  "canonical_name": "VIRTUOSO INFOSYSTEMS INC",
+  "fein": null,
+  "lca_filing_count": 8,
+  "warn_notice_count": 0,
+  "median_wage_usd": 98904.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 7,
+      "median_wage_usd": 98904.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 100069.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 4,
+      "median_wage_usd": 100006.5
+    },
+    {
+      "title": "Software Engineer",
+      "count": 3,
+      "median_wage_usd": 98904.0
+    },
+    {
+      "title": "SOFTWARE ENGINEER",
+      "count": 1,
+      "median_wage_usd": 98904.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 3
+    },
+    {
+      "state": "FL",
+      "county": "DUVAL",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "county": "MECKLENBURG",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "county": "PHILADELPHIA",
+      "count": 1
+    },
+    {
+      "state": "WI",
+      "county": "DANE",
+      "count": 1
+    },
+    {
+      "state": "OK",
+      "county": "TULSA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 3
+    },
+    {
+      "state": "NC",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "count": 1
+    },
+    {
+      "state": "OK",
+      "count": 1
+    },
+    {
+      "state": "WI",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 8,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 98904.0,
+    "gap_usd": -31256.0
+  }
+}

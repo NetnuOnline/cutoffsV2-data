@@ -1,0 +1,114 @@
+{
+  "slug": "leez",
+  "canonical_name": "Leez Inc.",
+  "fein": "46-0645944",
+  "lca_filing_count": 8,
+  "warn_notice_count": 0,
+  "median_wage_usd": 70522.5,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 57689.0
+    },
+    {
+      "fy": 2022,
+      "filings": 3,
+      "median_wage_usd": 54475.200000000004
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 155417.6
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 75733.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Asia Trade Sales and Marketing Manager",
+      "count": 3,
+      "median_wage_usd": 125361.6
+    },
+    {
+      "title": "Management Analyst",
+      "count": 2,
+      "median_wage_usd": 70522.5
+    },
+    {
+      "title": "Market Analyst",
+      "count": 2,
+      "median_wage_usd": 52270.4
+    },
+    {
+      "title": "Market  Analyst",
+      "count": 1,
+      "median_wage_usd": 50066.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "DUTCHESS",
+      "count": 6
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 8
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 2,
+    "initial_denials": 0,
+    "continuing_approvals": 2,
+    "continuing_denials": 0,
+    "total_approvals": 4,
+    "by_fy": [
+      {
+        "fy": 2021,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 7,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1161",
+    "soc_title": "Market Research Analysts and Marketing Specialists",
+    "market_median_usd": 74680.0,
+    "employer_median_usd": 50066.0,
+    "gap_usd": -24614.0
+  }
+}

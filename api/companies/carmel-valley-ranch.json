@@ -1,0 +1,43 @@
+{
+  "slug": "carmel-valley-ranch",
+  "canonical_name": "Carmel Valley Ranch",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "04/02/2020",
+      "effective_date": "03/18/2020",
+      "state": "CA",
+      "workers": 588,
+      "city": "Carmel"
+    },
+    {
+      "date": "03/18/2020",
+      "effective_date": "03/18/2020",
+      "state": "CA",
+      "workers": 600,
+      "city": "Carmel"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "monterey-county-wib",
+      "name": "Monterey County WIB",
+      "state": "CA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

@@ -1,0 +1,68 @@
+{
+  "slug": "industrial-and-commercial-bank-of-china-new-york-branch",
+  "canonical_name": "Industrial and Commercial Bank of China Ltd New York Branch",
+  "fein": null,
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 75000.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 75000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Associate/Marketing Analyst",
+      "count": 1,
+      "median_wage_usd": 65000.0
+    },
+    {
+      "title": "Expense Management Accountant/AVP",
+      "count": 1,
+      "median_wage_usd": 85000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 5,
+    "initial_denials": 1,
+    "continuing_approvals": 6,
+    "continuing_denials": 0,
+    "total_approvals": 11,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 5,
+        "initial_denials": 1,
+        "continuing_approvals": 6,
+        "continuing_denials": 0,
+        "total_approvals": 11
+      }
+    ]
+  },
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1161",
+    "soc_title": "Market Research Analysts and Marketing Specialists",
+    "market_median_usd": 74680.0,
+    "employer_median_usd": 65000.0,
+    "gap_usd": -9680.0
+  }
+}

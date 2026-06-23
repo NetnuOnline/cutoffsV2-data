@@ -1,0 +1,137 @@
+{
+  "slug": "groksys",
+  "canonical_name": "GROKSYS LLC",
+  "fein": "36-4842779",
+  "lca_filing_count": 15,
+  "lca_worker_positions": 15,
+  "warn_notice_count": 0,
+  "median_wage_usd": 87984.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 6,
+      "median_wage_usd": 94026.5
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 80371.0
+    },
+    {
+      "fy": 2026,
+      "filings": 8,
+      "median_wage_usd": 92373.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "PROJECT MANAGER",
+      "count": 3,
+      "median_wage_usd": 86445.0
+    },
+    {
+      "title": "DATA SCIENTIST",
+      "count": 3,
+      "median_wage_usd": 109491.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 2,
+      "median_wage_usd": 101192.0
+    },
+    {
+      "title": "Business  Data Analyst",
+      "count": 1,
+      "median_wage_usd": 84448.0
+    },
+    {
+      "title": "Software Engineer (IT Business Analyst)",
+      "count": 1,
+      "median_wage_usd": 100069.0
+    },
+    {
+      "title": "Business Analyst",
+      "count": 1,
+      "median_wage_usd": 87984.0
+    },
+    {
+      "title": "Data Engineer",
+      "count": 1,
+      "median_wage_usd": 98301.0
+    },
+    {
+      "title": "AWS Cloud Solutions Architect",
+      "count": 1,
+      "median_wage_usd": 80371.0
+    },
+    {
+      "title": "Project Manager",
+      "count": 1,
+      "median_wage_usd": 86445.0
+    },
+    {
+      "title": "Business  Analyst",
+      "count": 1,
+      "median_wage_usd": 77979.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 2
+    },
+    {
+      "state": "PA",
+      "county": "CHESTER",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "county": "PEORIA",
+      "count": 2
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "AL",
+      "count": 6
+    },
+    {
+      "state": "PA",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "count": 2
+    },
+    {
+      "state": "GA",
+      "count": 2
+    },
+    {
+      "state": "NY",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Information Technology Project Managers",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 86445.0,
+    "gap_usd": -31555.0
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "compass-one-healthcare",
+  "canonical_name": "Compass One Healthcare",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "VA",
+      "count": 1
+    },
+    {
+      "state": "CT",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "11/15/2024",
+      "effective_date": "02/02/2025",
+      "state": "VA",
+      "workers": 203,
+      "city": "Norfolk, VA"
+    },
+    {
+      "date": "01/01/2020",
+      "effective_date": "12/20/2020",
+      "state": "CT",
+      "workers": 72,
+      "city": "Torrington, CT"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "hampton-roads-lwia-xvi",
+      "name": "Hampton Roads LWIA XVI",
+      "state": "VA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

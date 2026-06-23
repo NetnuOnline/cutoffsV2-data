@@ -1,0 +1,100 @@
+{
+  "slug": "williams-wpc-i",
+  "canonical_name": "Williams WPC-I, LLC",
+  "fein": "73-1547570",
+  "lca_filing_count": 6,
+  "lca_worker_positions": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 131250.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 112500.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 116900.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 131250.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 174050.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Engineer Sr. 9858580",
+      "count": 1,
+      "median_wage_usd": 170000.0
+    },
+    {
+      "title": "IT Business Systems Analyst III",
+      "count": 1,
+      "median_wage_usd": 112500.0
+    },
+    {
+      "title": "Software Developer III 9593682",
+      "count": 1,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Engineer, Senior 8576267",
+      "count": 1,
+      "median_wage_usd": 116900.0
+    },
+    {
+      "title": "Data Scientist V 9712561",
+      "count": 1,
+      "median_wage_usd": 178100.0
+    },
+    {
+      "title": "Software Developer 9725867",
+      "count": 1,
+      "median_wage_usd": 132500.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 2
+    },
+    {
+      "state": "OK",
+      "county": "TULSA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "OK",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "WA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 131250.0,
+    "gap_usd": 1090.0
+  }
+}

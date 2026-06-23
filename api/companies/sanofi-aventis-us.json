@@ -1,0 +1,72 @@
+{
+  "slug": "sanofi-aventis-us",
+  "canonical_name": "Sanofi-Aventis US LLC",
+  "fein": "36-4406953",
+  "lca_filing_count": 5,
+  "lca_worker_positions": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 177000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 248000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 156645.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 177000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Director, Insights and Analytics (RSV)",
+      "count": 2,
+      "median_wage_usd": 177000.0
+    },
+    {
+      "title": "Global Head, Consumer Healthcare Medical Ops & Effectiveness",
+      "count": 1,
+      "median_wage_usd": 248000.0
+    },
+    {
+      "title": "Associate Director, Field Reporting",
+      "count": 1,
+      "median_wage_usd": 156645.0
+    },
+    {
+      "title": "Senior Director, Insights and Analytics (Pediatric Vaccines)",
+      "count": 1,
+      "median_wage_usd": 177000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NJ",
+      "county": "SOMERSET",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 5
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1111",
+    "soc_title": "Management Analysts",
+    "market_median_usd": 99000.0,
+    "employer_median_usd": 156645.0,
+    "gap_usd": 57645.0
+  }
+}

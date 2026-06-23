@@ -1,0 +1,55 @@
+{
+  "slug": "true-leaf-farms",
+  "canonical_name": "True Leaf Farms, LLC",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 3,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 3
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "02/12/2021",
+      "effective_date": "04/14/2021",
+      "state": "CA",
+      "workers": 44,
+      "city": "Gonzales"
+    },
+    {
+      "date": "11/04/2020",
+      "effective_date": "12/01/2020",
+      "state": "CA",
+      "workers": 202,
+      "city": "Gonzales"
+    },
+    {
+      "date": "04/02/2020",
+      "effective_date": "04/01/2020",
+      "state": "CA",
+      "workers": 27,
+      "city": "San Juan Bautista"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "monterey-county-wib",
+      "name": "Monterey County WIB",
+      "state": "CA"
+    },
+    {
+      "slug": "san-benito-county-wib",
+      "name": "San Benito County WIB",
+      "state": "CA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

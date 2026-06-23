@@ -1,0 +1,47 @@
+{
+  "slug": "hood-container",
+  "canonical_name": "Hood Container",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "SC",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "04/15/2025",
+      "effective_date": "06/15/2025",
+      "state": "SC",
+      "workers": 60,
+      "city": "Simpsonville"
+    },
+    {
+      "date": "10/19/2023",
+      "effective_date": "12/19/2023",
+      "state": "NC",
+      "workers": 88,
+      "city": "11135 Monroe Road, Matthews"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "greenville-wib",
+      "name": "Greenville WIB",
+      "state": "SC"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

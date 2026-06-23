@@ -1,0 +1,62 @@
+{
+  "slug": "riverside-pace",
+  "canonical_name": "Riverside Pace",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 4,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "VA",
+      "count": 4
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "11/07/2016",
+      "effective_date": "02/03/2017",
+      "state": "VA",
+      "workers": 37,
+      "city": "Richmond, VA"
+    },
+    {
+      "date": "11/07/2016",
+      "effective_date": "02/03/2017",
+      "state": "VA",
+      "workers": 96,
+      "city": "Hampton, VA"
+    },
+    {
+      "date": "03/12/2015",
+      "effective_date": "05/15/2015",
+      "state": "VA",
+      "workers": 90,
+      "city": "Richmond, VA"
+    },
+    {
+      "date": "02/27/2015",
+      "effective_date": "04/30/2015",
+      "state": "VA",
+      "workers": 67,
+      "city": "Petersburg, VA"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "greater-peninsula-lwia-xiv",
+      "name": "Greater Peninsula LWIA XIV",
+      "state": "VA"
+    },
+    {
+      "slug": "crater-area-lwia-xv",
+      "name": "Crater Area LWIA XV",
+      "state": "VA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

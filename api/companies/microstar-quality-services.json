@@ -1,0 +1,52 @@
+{
+  "slug": "microstar-quality-services",
+  "canonical_name": "MicroStar Quality Services",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "WI",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "03/26/2020",
+      "effective_date": "03/27/2020",
+      "state": "WI",
+      "workers": 44,
+      "city": "Green Bay"
+    },
+    {
+      "date": "03/26/2020",
+      "effective_date": "03/27/2020",
+      "state": "TX",
+      "workers": 74,
+      "city": "Eagle Pass"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "middle-rio-grande-wda",
+      "name": "Middle Rio Grande WDA",
+      "state": "TX"
+    },
+    {
+      "slug": "bay-area-wda",
+      "name": "Bay Area WDA",
+      "state": "WI"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

@@ -1,0 +1,98 @@
+{
+  "slug": "benefits-data-trust",
+  "canonical_name": "Benefits Data Trust",
+  "fein": null,
+  "lca_filing_count": 1,
+  "warn_notice_count": 1,
+  "median_wage_usd": 82687.54,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 82687.54
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Logistics Analyst (BI Manager)",
+      "count": 1,
+      "median_wage_usd": 82687.54
+    }
+  ],
+  "top_states": [
+    {
+      "state": "WI",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "WI",
+      "county": "DANE",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "08/24/2024",
+      "effective_date": "08/24/2024",
+      "state": "PA",
+      "workers": 273,
+      "city": "Philadelphia"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "philadelphia-county-wia",
+      "name": "Philadelphia County WIA",
+      "state": "PA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 3,
+    "continuing_denials": 0,
+    "total_approvals": 4,
+    "by_fy": [
+      {
+        "fy": 2017,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 1,
+  "top_socs": [],
+  "lca_periods": []
+}

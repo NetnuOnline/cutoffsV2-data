@@ -1,0 +1,66 @@
+{
+  "slug": "as-america",
+  "canonical_name": "AS America Inc.",
+  "fein": "26-0887443",
+  "lca_filing_count": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 132296.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 200000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 132296.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SAP SENIOR BASIS ADMINISTRATOR",
+      "count": 2,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "title": "STIBO Developer",
+      "count": 1,
+      "median_wage_usd": 132296.0
+    },
+    {
+      "title": "Senior Director, IoT Smart Products",
+      "count": 1,
+      "median_wage_usd": 200000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NJ",
+      "county": "MIDDLESEX",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 4
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 132296.0,
+    "gap_usd": 2136.0
+  }
+}

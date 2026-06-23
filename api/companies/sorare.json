@@ -1,0 +1,71 @@
+{
+  "slug": "sorare",
+  "canonical_name": "Sorare, Inc.",
+  "fein": null,
+  "lca_filing_count": 1,
+  "warn_notice_count": 0,
+  "median_wage_usd": 140000.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 140000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Marketplace Operations Manager ",
+      "count": 1,
+      "median_wage_usd": 140000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 2,
+    "initial_denials": 0,
+    "continuing_approvals": 2,
+    "continuing_denials": 0,
+    "total_approvals": 4,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 1,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3031",
+    "soc_title": "Financial Managers",
+    "market_median_usd": 156100.0,
+    "employer_median_usd": 140000.0,
+    "gap_usd": -16100.0
+  }
+}

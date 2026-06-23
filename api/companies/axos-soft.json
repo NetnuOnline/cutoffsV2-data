@@ -1,0 +1,41 @@
+{
+  "slug": "axos-soft",
+  "canonical_name": "AXOS SOFT LLC",
+  "fein": "93-2452106",
+  "lca_filing_count": 1,
+  "lca_worker_positions": 1,
+  "warn_notice_count": 0,
+  "median_wage_usd": 78312.0,
+  "by_fy": [
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 78312.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "programmer analyst",
+      "count": 1,
+      "median_wage_usd": 78312.0
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "NC",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1211",
+    "soc_title": "Computer Systems Analysts",
+    "market_median_usd": 103800.0,
+    "employer_median_usd": 78312.0,
+    "gap_usd": -25488.0
+  }
+}

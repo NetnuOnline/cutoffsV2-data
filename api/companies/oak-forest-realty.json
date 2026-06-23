@@ -1,0 +1,57 @@
+{
+  "slug": "oak-forest-realty",
+  "canonical_name": "Oak Forest Realty, LLC",
+  "fein": "88-0597547",
+  "lca_filing_count": 3,
+  "lca_worker_positions": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 81120.0,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 80080.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 90230.40000000001,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Data Scientists",
+      "count": 2,
+      "median_wage_usd": 85675.20000000001
+    },
+    {
+      "title": "Financial Analyst",
+      "count": 1,
+      "median_wage_usd": 79040.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MA",
+      "county": "BROOKLINE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MA",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 85675.2,
+    "gap_usd": -22344.8
+  }
+}

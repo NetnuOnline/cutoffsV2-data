@@ -1,0 +1,81 @@
+{
+  "slug": "mark-anthony-brewing",
+  "canonical_name": "Mark Anthony Brewing, Inc.",
+  "fein": null,
+  "lca_filing_count": 2,
+  "warn_notice_count": 1,
+  "median_wage_usd": 130021.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 130021.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "CAPEX Manager, Corporate Engineering",
+      "count": 2,
+      "median_wage_usd": 130021.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 2
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 2
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "01/26/2025",
+      "effective_date": "01/26/2025",
+      "state": "NJ",
+      "workers": 143,
+      "city": "Hillside"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "union-wib",
+      "name": "Union WIB",
+      "state": "NJ"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 1,
+    "continuing_denials": 0,
+    "total_approvals": 1,
+    "by_fy": [
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3021",
+    "soc_title": "Computer and Information Systems Managers",
+    "market_median_usd": 169510.0,
+    "employer_median_usd": 130021.0,
+    "gap_usd": -39489.0
+  }
+}

@@ -1,0 +1,4415 @@
+{
+  "slug": "boeing",
+  "canonical_name": "Boeing",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 598,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 187
+    },
+    {
+      "state": "KS",
+      "count": 151
+    },
+    {
+      "state": "WA",
+      "count": 100
+    },
+    {
+      "state": "TX",
+      "count": 94
+    },
+    {
+      "state": "FL",
+      "count": 25
+    },
+    {
+      "state": "GA",
+      "count": 9
+    },
+    {
+      "state": "OK",
+      "count": 8
+    },
+    {
+      "state": "AL",
+      "count": 4
+    },
+    {
+      "state": "IL",
+      "count": 4
+    },
+    {
+      "state": "SC",
+      "count": 3
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "04/13/2026",
+      "effective_date": "06/12/2026",
+      "state": "CA",
+      "workers": 13,
+      "city": "Palmdale"
+    },
+    {
+      "date": "04/13/2026",
+      "effective_date": "06/12/2026",
+      "state": "CA",
+      "workers": 1,
+      "city": "San Diego"
+    },
+    {
+      "date": "04/13/2026",
+      "effective_date": "06/12/2026",
+      "state": "CA",
+      "workers": 1,
+      "city": "Dresden"
+    },
+    {
+      "date": "04/13/2026",
+      "effective_date": "06/12/2026",
+      "state": "CA",
+      "workers": 2,
+      "city": "El Segundo"
+    },
+    {
+      "date": "04/13/2026",
+      "effective_date": "06/12/2026",
+      "state": "CA",
+      "workers": 2,
+      "city": "Edwards"
+    },
+    {
+      "date": "02/21/2025",
+      "effective_date": "02/21/2025",
+      "state": "WA",
+      "workers": 396,
+      "city": "Various locations in Washington"
+    },
+    {
+      "date": "02/18/2025",
+      "effective_date": "04/18/2025",
+      "state": "AL",
+      "workers": 71,
+      "city": "Huntsville"
+    },
+    {
+      "date": "02/15/2025",
+      "effective_date": "04/18/2025",
+      "state": "LA",
+      "workers": 89,
+      "city": "13800 Old Gentilly Rd New Orleans, LA 70129"
+    },
+    {
+      "date": "02/15/2025",
+      "effective_date": "04/04/2025",
+      "state": "SC",
+      "workers": 8,
+      "city": "North Charleston"
+    },
+    {
+      "date": "01/17/2025",
+      "effective_date": "01/17/2025",
+      "state": "PA",
+      "workers": 101,
+      "city": "Ridley Park"
+    },
+    {
+      "date": "12/09/2024",
+      "effective_date": "02/21/2025",
+      "state": "WA",
+      "workers": 396,
+      "city": "Various locations in Washington"
+    },
+    {
+      "date": "12/06/2024",
+      "effective_date": "02/21/2025",
+      "state": "CA",
+      "workers": 7,
+      "city": "Seal Beach"
+    },
+    {
+      "date": "12/06/2024",
+      "effective_date": "02/21/2025",
+      "state": "CA",
+      "workers": 4,
+      "city": "Dresden"
+    },
+    {
+      "date": "12/06/2024",
+      "effective_date": "02/21/2025",
+      "state": "CA",
+      "workers": 26,
+      "city": "Long Beach"
+    },
+    {
+      "date": "12/06/2024",
+      "effective_date": "02/21/2025",
+      "state": "CA",
+      "workers": 5,
+      "city": "Palmdale"
+    },
+    {
+      "date": "12/06/2024",
+      "effective_date": "02/21/2025",
+      "state": "CA",
+      "workers": 13,
+      "city": "El Segundo"
+    },
+    {
+      "date": "12/06/2024",
+      "effective_date": "02/21/2025",
+      "state": "CA",
+      "workers": 4,
+      "city": "Edwards"
+    },
+    {
+      "date": "12/06/2024",
+      "effective_date": "02/21/2025",
+      "state": "SC",
+      "workers": 67,
+      "city": "North Charleston"
+    },
+    {
+      "date": "11/20/2024",
+      "effective_date": "01/07/2025",
+      "state": "MO",
+      "workers": 692,
+      "city": "BerkeleyHazelwoodKansas CityKingsvilleMaryland HeightsO'FallonSt. CharlesSt. Louis (city)St. Ann"
+    },
+    {
+      "date": "11/18/2024",
+      "effective_date": "01/17/2025",
+      "state": "FL",
+      "workers": 1,
+      "city": "TAMPA"
+    },
+    {
+      "date": "11/18/2024",
+      "effective_date": "01/17/2025",
+      "state": "FL",
+      "workers": 1,
+      "city": "PANAMA CITY"
+    },
+    {
+      "date": "11/18/2024",
+      "effective_date": "01/17/2025",
+      "state": "FL",
+      "workers": 1,
+      "city": "NICEVILLE"
+    },
+    {
+      "date": "11/18/2024",
+      "effective_date": "01/17/2025",
+      "state": "FL",
+      "workers": 1,
+      "city": "MELBOURNE"
+    },
+    {
+      "date": "11/18/2024",
+      "effective_date": "01/17/2025",
+      "state": "FL",
+      "workers": 1,
+      "city": "DAYTONA BEACH"
+    },
+    {
+      "date": "11/18/2024",
+      "effective_date": "01/17/2025",
+      "state": "FL",
+      "workers": 1,
+      "city": "CRESTVIEW"
+    },
+    {
+      "date": "11/18/2024",
+      "effective_date": "01/17/2025",
+      "state": "FL",
+      "workers": 3,
+      "city": "SAINT PETERSBURG"
+    },
+    {
+      "date": "11/18/2024",
+      "effective_date": "01/17/2025",
+      "state": "FL",
+      "workers": 1,
+      "city": "COCOA BEACH"
+    },
+    {
+      "date": "11/18/2024",
+      "effective_date": "01/17/2025",
+      "state": "FL",
+      "workers": 1,
+      "city": "STUART"
+    },
+    {
+      "date": "11/18/2024",
+      "effective_date": "01/17/2025",
+      "state": "FL",
+      "workers": 1,
+      "city": "CAPE CANAVERAL"
+    },
+    {
+      "date": "11/18/2024",
+      "effective_date": "01/17/2025",
+      "state": "FL",
+      "workers": 1,
+      "city": "PENSACOLA"
+    },
+    {
+      "date": "11/18/2024",
+      "effective_date": "01/17/2025",
+      "state": "FL",
+      "workers": 4,
+      "city": "ORLANDO"
+    },
+    {
+      "date": "11/18/2024",
+      "effective_date": "01/17/2025",
+      "state": "FL",
+      "workers": 6,
+      "city": "FORT WALTON BEACH"
+    },
+    {
+      "date": "11/18/2024",
+      "effective_date": "01/17/2025",
+      "state": "FL",
+      "workers": 7,
+      "city": "MIAMI"
+    },
+    {
+      "date": "11/18/2024",
+      "effective_date": "01/17/2025",
+      "state": "FL",
+      "workers": 7,
+      "city": "FORT WALTON BEACH"
+    },
+    {
+      "date": "11/18/2024",
+      "effective_date": "01/17/2025",
+      "state": "FL",
+      "workers": 5,
+      "city": "MIAMI"
+    },
+    {
+      "date": "11/18/2024",
+      "effective_date": "01/17/2025",
+      "state": "FL",
+      "workers": 7,
+      "city": "JACKSONVILLE"
+    },
+    {
+      "date": "11/18/2024",
+      "effective_date": "01/17/2025",
+      "state": "FL",
+      "workers": 8,
+      "city": "JACKSONVILLE"
+    },
+    {
+      "date": "11/18/2024",
+      "effective_date": "01/17/2025",
+      "state": "FL",
+      "workers": 3,
+      "city": "FORT LAUDERDALE"
+    },
+    {
+      "date": "11/18/2024",
+      "effective_date": "01/17/2025",
+      "state": "FL",
+      "workers": 6,
+      "city": "MERRITT ISLAND"
+    },
+    {
+      "date": "11/18/2024",
+      "effective_date": "01/17/2025",
+      "state": "FL",
+      "workers": 5,
+      "city": "MERRITT ISLAND"
+    },
+    {
+      "date": "11/18/2024",
+      "effective_date": "01/17/2025",
+      "state": "FL",
+      "workers": 20,
+      "city": "TITUSVILLE"
+    },
+    {
+      "date": "11/18/2024",
+      "effective_date": "01/17/2025",
+      "state": "FL",
+      "workers": 3,
+      "city": "EGLIN AIR FORCE BASE"
+    },
+    {
+      "date": "11/18/2024",
+      "effective_date": "01/17/2025",
+      "state": "FL",
+      "workers": 1,
+      "city": "JACKSONVILLE"
+    },
+    {
+      "date": "11/18/2024",
+      "effective_date": "01/17/2025",
+      "state": "FL",
+      "workers": 3,
+      "city": "HURLBURT FIELD"
+    },
+    {
+      "date": "11/18/2024",
+      "effective_date": "11/18/2024",
+      "state": "AZ",
+      "workers": 0,
+      "city": "Mesa"
+    },
+    {
+      "date": "11/15/2024",
+      "effective_date": "01/17/2025",
+      "state": "OR",
+      "workers": 50,
+      "city": "Portland"
+    },
+    {
+      "date": "11/15/2024",
+      "effective_date": "01/17/2025",
+      "state": "AL",
+      "workers": 158,
+      "city": "Huntsville"
+    },
+    {
+      "date": "11/15/2024",
+      "effective_date": "01/17/2025",
+      "state": "CA",
+      "workers": 1,
+      "city": "Ventura"
+    },
+    {
+      "date": "11/15/2024",
+      "effective_date": "01/17/2025",
+      "state": "CA",
+      "workers": 4,
+      "city": "Mountain View"
+    },
+    {
+      "date": "11/15/2024",
+      "effective_date": "01/17/2025",
+      "state": "CA",
+      "workers": 1,
+      "city": "Lompoc"
+    },
+    {
+      "date": "11/15/2024",
+      "effective_date": "01/17/2025",
+      "state": "CA",
+      "workers": 21,
+      "city": "San Diego"
+    },
+    {
+      "date": "11/15/2024",
+      "effective_date": "01/17/2025",
+      "state": "CA",
+      "workers": 4,
+      "city": "San Diego"
+    },
+    {
+      "date": "11/15/2024",
+      "effective_date": "01/17/2025",
+      "state": "CA",
+      "workers": 1,
+      "city": "18368 Phantom St.  Victorville CA 92394"
+    },
+    {
+      "date": "11/15/2024",
+      "effective_date": "01/17/2025",
+      "state": "CA",
+      "workers": 89,
+      "city": "Seal Beach"
+    },
+    {
+      "date": "11/15/2024",
+      "effective_date": "01/17/2025",
+      "state": "CA",
+      "workers": 90,
+      "city": "Seal Beach"
+    },
+    {
+      "date": "11/15/2024",
+      "effective_date": "01/17/2025",
+      "state": "CA",
+      "workers": 57,
+      "city": "Dresden"
+    },
+    {
+      "date": "11/15/2024",
+      "effective_date": "01/17/2025",
+      "state": "CA",
+      "workers": 1,
+      "city": "Van Nuys"
+    },
+    {
+      "date": "11/15/2024",
+      "effective_date": "01/17/2025",
+      "state": "CA",
+      "workers": 1,
+      "city": "Palmdale"
+    },
+    {
+      "date": "11/15/2024",
+      "effective_date": "01/17/2025",
+      "state": "CA",
+      "workers": 115,
+      "city": "Long Beach"
+    },
+    {
+      "date": "11/15/2024",
+      "effective_date": "01/17/2025",
+      "state": "CA",
+      "workers": 144,
+      "city": "El Segundo"
+    },
+    {
+      "date": "11/15/2024",
+      "effective_date": "01/17/2025",
+      "state": "CA",
+      "workers": 1,
+      "city": "210 D Reeves Blvd.  Lemoore CA 93246"
+    },
+    {
+      "date": "11/15/2024",
+      "effective_date": "01/17/2025",
+      "state": "CA",
+      "workers": 3,
+      "city": "Edwards"
+    },
+    {
+      "date": "11/15/2024",
+      "effective_date": "01/17/2025",
+      "state": "CA",
+      "workers": 1,
+      "city": "Pleasanton"
+    },
+    {
+      "date": "11/15/2024",
+      "effective_date": "01/17/2025",
+      "state": "CO",
+      "workers": 62,
+      "city": "Arapahoe, Denver, El Paso"
+    },
+    {
+      "date": "11/15/2024",
+      "effective_date": "01/17/2025",
+      "state": "WA",
+      "workers": 2192,
+      "city": "Various locations in Washington"
+    },
+    {
+      "date": "11/15/2024",
+      "effective_date": "01/17/2025",
+      "state": "SC",
+      "workers": 220,
+      "city": "North Charleston"
+    },
+    {
+      "date": "11/15/2024",
+      "effective_date": "01/17/2025",
+      "state": "VA",
+      "workers": 68,
+      "city": "Arlington, Fairfax, Newport News, Richmond, VA"
+    },
+    {
+      "date": "11/15/2024",
+      "effective_date": "12/20/2024",
+      "state": "WA",
+      "workers": 7,
+      "city": "Various locations in Washington"
+    },
+    {
+      "date": "08/16/2024",
+      "effective_date": "08/16/2024",
+      "state": "PA",
+      "workers": 69,
+      "city": "Ridley Park"
+    },
+    {
+      "date": "04/30/2024",
+      "effective_date": "06/28/2024",
+      "state": "AL",
+      "workers": 128,
+      "city": "Huntsville"
+    },
+    {
+      "date": "04/29/2024",
+      "effective_date": "06/28/2024",
+      "state": "LA",
+      "workers": 57,
+      "city": "13800 Gentilly Rd. New Orleans, LA 70129"
+    },
+    {
+      "date": "11/08/2023",
+      "effective_date": "01/19/2024",
+      "state": "CA",
+      "workers": 1,
+      "city": "El Segundo"
+    },
+    {
+      "date": "11/08/2023",
+      "effective_date": "01/19/2024",
+      "state": "CA",
+      "workers": 22,
+      "city": "Seal Beach"
+    },
+    {
+      "date": "11/08/2023",
+      "effective_date": "01/19/2024",
+      "state": "CA",
+      "workers": 1,
+      "city": "12200 Monarch St.  Garden Grove CA 92841"
+    },
+    {
+      "date": "10/02/2020",
+      "effective_date": "10/02/2020",
+      "state": "WA",
+      "workers": 940,
+      "city": "Puget Sound Area"
+    },
+    {
+      "date": "09/21/2020",
+      "effective_date": "11/20/2020",
+      "state": "WA",
+      "workers": 530,
+      "city": "Puget Sound Area"
+    },
+    {
+      "date": "08/31/2020",
+      "effective_date": "10/30/2020",
+      "state": "WA",
+      "workers": 592,
+      "city": "Puget Sound Area"
+    },
+    {
+      "date": "08/28/2020",
+      "effective_date": "10/30/2020",
+      "state": "CA",
+      "workers": 10,
+      "city": "Seal Beach"
+    },
+    {
+      "date": "07/31/2020",
+      "effective_date": "10/02/2020",
+      "state": "CA",
+      "workers": 107,
+      "city": "Seal Beach"
+    },
+    {
+      "date": "07/31/2020",
+      "effective_date": "10/02/2020",
+      "state": "WA",
+      "workers": 940,
+      "city": "Puget Sound Area"
+    },
+    {
+      "date": "07/31/2020",
+      "effective_date": "07/31/2020",
+      "state": "WA",
+      "workers": 5798,
+      "city": "Puget Sound Area"
+    },
+    {
+      "date": "06/29/2020",
+      "effective_date": "08/28/2020",
+      "state": "WA",
+      "workers": 668,
+      "city": "Puget Sound Area"
+    },
+    {
+      "date": "06/26/2020",
+      "effective_date": "08/28/2020",
+      "state": "CA",
+      "workers": 24,
+      "city": "Huntington Beach"
+    },
+    {
+      "date": "06/26/2020",
+      "effective_date": "08/28/2020",
+      "state": "CA",
+      "workers": 19,
+      "city": "Long Beach"
+    },
+    {
+      "date": "06/26/2020",
+      "effective_date": "08/28/2020",
+      "state": "CA",
+      "workers": 3,
+      "city": "El Segundo"
+    },
+    {
+      "date": "06/26/2020",
+      "effective_date": "08/28/2020",
+      "state": "CA",
+      "workers": 6,
+      "city": "Edwards"
+    },
+    {
+      "date": "06/08/2020",
+      "effective_date": "07/31/2020",
+      "state": "WA",
+      "workers": 5798,
+      "city": "Puget Sound Area"
+    },
+    {
+      "date": "05/29/2020",
+      "effective_date": "07/31/2020",
+      "state": "CA",
+      "workers": 86,
+      "city": "Huntington Beach"
+    },
+    {
+      "date": "12/13/2019",
+      "effective_date": "02/21/2020",
+      "state": "CA",
+      "workers": 7,
+      "city": "Huntington Beach"
+    },
+    {
+      "date": "11/22/2019",
+      "effective_date": "01/24/2020",
+      "state": "CA",
+      "workers": 7,
+      "city": "Huntington Beach"
+    },
+    {
+      "date": "11/01/2019",
+      "effective_date": "01/01/2020",
+      "state": "CA",
+      "workers": 9,
+      "city": "Huntington Beach"
+    },
+    {
+      "date": "09/20/2019",
+      "effective_date": "11/22/2019",
+      "state": "CA",
+      "workers": 26,
+      "city": "Huntington Beach"
+    },
+    {
+      "date": "07/22/2019",
+      "effective_date": "09/20/2019",
+      "state": "TX",
+      "workers": 2,
+      "city": "El Paso"
+    },
+    {
+      "date": "06/21/2019",
+      "effective_date": "08/23/2019",
+      "state": "TX",
+      "workers": 3,
+      "city": "El Paso"
+    },
+    {
+      "date": "04/24/2019",
+      "effective_date": "06/21/2019",
+      "state": "TX",
+      "workers": 2,
+      "city": "El Paso"
+    },
+    {
+      "date": "02/15/2019",
+      "effective_date": "04/19/2019",
+      "state": "CA",
+      "workers": 17,
+      "city": "Huntington"
+    },
+    {
+      "date": "01/29/2019",
+      "effective_date": "03/22/2019",
+      "state": "TX",
+      "workers": 6,
+      "city": "Houston"
+    },
+    {
+      "date": "12/27/2018",
+      "effective_date": "02/02/2019",
+      "state": "TX",
+      "workers": 1,
+      "city": "Houston"
+    },
+    {
+      "date": "11/21/2018",
+      "effective_date": "01/25/2019",
+      "state": "TX",
+      "workers": 2,
+      "city": "El Paso"
+    },
+    {
+      "date": "11/21/2018",
+      "effective_date": "01/23/2019",
+      "state": "CA",
+      "workers": 10,
+      "city": "Huntington"
+    },
+    {
+      "date": "11/05/2018",
+      "effective_date": "01/01/2019",
+      "state": "TX",
+      "workers": 1,
+      "city": "El Paso"
+    },
+    {
+      "date": "10/03/2018",
+      "effective_date": "12/14/2018",
+      "state": "TX",
+      "workers": 146,
+      "city": "El Paso"
+    },
+    {
+      "date": "09/14/2018",
+      "effective_date": "11/16/2018",
+      "state": "TX",
+      "workers": 1,
+      "city": "Houston"
+    },
+    {
+      "date": "05/21/2018",
+      "effective_date": "07/13/2018",
+      "state": "KY",
+      "workers": 99,
+      "city": "Fayette"
+    },
+    {
+      "date": "05/18/2018",
+      "effective_date": "07/20/2018",
+      "state": "TX",
+      "workers": 1,
+      "city": "Houston"
+    },
+    {
+      "date": "02/02/2018",
+      "effective_date": "04/06/2018",
+      "state": "TX",
+      "workers": 1,
+      "city": "Houston"
+    },
+    {
+      "date": "02/02/2018",
+      "effective_date": "04/06/2018",
+      "state": "CA",
+      "workers": 3,
+      "city": "Huntington"
+    },
+    {
+      "date": "01/19/2018",
+      "effective_date": "03/23/2018",
+      "state": "CA",
+      "workers": 3,
+      "city": "Huntington"
+    },
+    {
+      "date": "01/19/2018",
+      "effective_date": "02/16/2018",
+      "state": "CA",
+      "workers": 5,
+      "city": "El Segundo"
+    },
+    {
+      "date": "12/21/2017",
+      "effective_date": "02/16/2018",
+      "state": "TX",
+      "workers": 1,
+      "city": "Houston"
+    },
+    {
+      "date": "12/15/2017",
+      "effective_date": "02/16/2018",
+      "state": "CA",
+      "workers": 2,
+      "city": "Huntington"
+    },
+    {
+      "date": "12/15/2017",
+      "effective_date": "02/16/2018",
+      "state": "CA",
+      "workers": 1,
+      "city": "El Segundo"
+    },
+    {
+      "date": "11/17/2017",
+      "effective_date": "01/19/2018",
+      "state": "CA",
+      "workers": 4,
+      "city": "Huntington"
+    },
+    {
+      "date": "11/17/2017",
+      "effective_date": "01/09/2018",
+      "state": "CA",
+      "workers": 1,
+      "city": "El Segundo"
+    },
+    {
+      "date": "11/02/2017",
+      "effective_date": "01/01/2018",
+      "state": "WA",
+      "workers": 2,
+      "city": "Puget Sound Area"
+    },
+    {
+      "date": "10/27/2017",
+      "effective_date": "01/01/2018",
+      "state": "CA",
+      "workers": 9,
+      "city": "Huntington"
+    },
+    {
+      "date": "10/27/2017",
+      "effective_date": "01/01/2018",
+      "state": "CA",
+      "workers": 6,
+      "city": "El Segundo"
+    },
+    {
+      "date": "10/13/2017",
+      "effective_date": "12/15/2017",
+      "state": "CA",
+      "workers": 38,
+      "city": "El Segundo"
+    },
+    {
+      "date": "10/13/2017",
+      "effective_date": "11/17/2017",
+      "state": "CA",
+      "workers": 46,
+      "city": "Huntington"
+    },
+    {
+      "date": "09/18/2017",
+      "effective_date": "11/17/2017",
+      "state": "TX",
+      "workers": 3,
+      "city": "Houston"
+    },
+    {
+      "date": "09/18/2017",
+      "effective_date": "11/17/2017",
+      "state": "WA",
+      "workers": 18,
+      "city": "Puget Sound Area"
+    },
+    {
+      "date": "09/15/2017",
+      "effective_date": "11/17/2017",
+      "state": "CA",
+      "workers": 21,
+      "city": "El Segundo"
+    },
+    {
+      "date": "09/15/2017",
+      "effective_date": "11/17/2017",
+      "state": "CA",
+      "workers": 12,
+      "city": "Huntington"
+    },
+    {
+      "date": "08/24/2017",
+      "effective_date": "10/20/2017",
+      "state": "WA",
+      "workers": 74,
+      "city": "Puget Sound Area"
+    },
+    {
+      "date": "08/18/2017",
+      "effective_date": "10/20/2017",
+      "state": "CA",
+      "workers": 21,
+      "city": "Huntington"
+    },
+    {
+      "date": "08/18/2017",
+      "effective_date": "10/20/2017",
+      "state": "CA",
+      "workers": 11,
+      "city": "El Segundo"
+    },
+    {
+      "date": "07/27/2017",
+      "effective_date": "09/22/2017",
+      "state": "WA",
+      "workers": 220,
+      "city": "Puget Sound"
+    },
+    {
+      "date": "07/21/2017",
+      "effective_date": "09/22/2017",
+      "state": "CA",
+      "workers": 54,
+      "city": "Huntington"
+    },
+    {
+      "date": "07/21/2017",
+      "effective_date": "09/22/2017",
+      "state": "CA",
+      "workers": 21,
+      "city": "El Segundo"
+    },
+    {
+      "date": "07/21/2017",
+      "effective_date": "07/21/2017",
+      "state": "WA",
+      "workers": 337,
+      "city": "Puget Sound Area"
+    },
+    {
+      "date": "07/21/2017",
+      "effective_date": "07/21/2017",
+      "state": "GA",
+      "workers": 5,
+      "city": "Macon"
+    },
+    {
+      "date": "06/30/2017",
+      "effective_date": "08/25/2017",
+      "state": "TX",
+      "workers": 3,
+      "city": "Houston"
+    },
+    {
+      "date": "06/30/2017",
+      "effective_date": "08/25/2017",
+      "state": "WA",
+      "workers": 89,
+      "city": "Puget Sound Area"
+    },
+    {
+      "date": "06/23/2017",
+      "effective_date": "08/25/2017",
+      "state": "CA",
+      "workers": 47,
+      "city": "Huntington"
+    },
+    {
+      "date": "06/23/2017",
+      "effective_date": "08/25/2017",
+      "state": "CA",
+      "workers": 40,
+      "city": "El Segundo"
+    },
+    {
+      "date": "06/23/2017",
+      "effective_date": "06/23/2017",
+      "state": "WA",
+      "workers": 580,
+      "city": "Puget Sound Area"
+    },
+    {
+      "date": "05/29/2017",
+      "effective_date": "07/21/2017",
+      "state": "TX",
+      "workers": 2,
+      "city": "Houston"
+    },
+    {
+      "date": "05/23/2017",
+      "effective_date": "07/21/2017",
+      "state": "WA",
+      "workers": 337,
+      "city": "Puget Sound Area"
+    },
+    {
+      "date": "05/19/2017",
+      "effective_date": "07/21/2017",
+      "state": "CA",
+      "workers": 14,
+      "city": "Huntington Beach"
+    },
+    {
+      "date": "05/19/2017",
+      "effective_date": "07/21/2017",
+      "state": "CA",
+      "workers": 24,
+      "city": "El Segundo"
+    },
+    {
+      "date": "05/19/2017",
+      "effective_date": "05/19/2017",
+      "state": "WA",
+      "workers": 245,
+      "city": "Puget Sound Area"
+    },
+    {
+      "date": "05/08/2017",
+      "effective_date": "06/23/2017",
+      "state": "WA",
+      "workers": 580,
+      "city": "Puget Sound Area"
+    },
+    {
+      "date": "04/25/2017",
+      "effective_date": "06/23/2017",
+      "state": "TX",
+      "workers": 1,
+      "city": "Houston"
+    },
+    {
+      "date": "04/21/2017",
+      "effective_date": "06/23/2017",
+      "state": "CA",
+      "workers": 2,
+      "city": "Long Beach"
+    },
+    {
+      "date": "04/21/2017",
+      "effective_date": "06/23/2017",
+      "state": "CA",
+      "workers": 21,
+      "city": "Huntington Beach"
+    },
+    {
+      "date": "04/21/2017",
+      "effective_date": "06/23/2017",
+      "state": "CA",
+      "workers": 43,
+      "city": "El Segundo"
+    },
+    {
+      "date": "03/24/2017",
+      "effective_date": "03/24/2017",
+      "state": "GA",
+      "workers": 18,
+      "city": "Macon"
+    },
+    {
+      "date": "03/23/2017",
+      "effective_date": "05/19/2017",
+      "state": "WA",
+      "workers": 245,
+      "city": "Puget Sound Area"
+    },
+    {
+      "date": "03/17/2017",
+      "effective_date": "05/19/2017",
+      "state": "CA",
+      "workers": 47,
+      "city": "Huntington Beach"
+    },
+    {
+      "date": "03/17/2017",
+      "effective_date": "05/19/2017",
+      "state": "CA",
+      "workers": 27,
+      "city": "El Segundo"
+    },
+    {
+      "date": "02/17/2017",
+      "effective_date": "04/21/2017",
+      "state": "CA",
+      "workers": 16,
+      "city": "Huntington Beach"
+    },
+    {
+      "date": "02/17/2017",
+      "effective_date": "04/21/2017",
+      "state": "CA",
+      "workers": 78,
+      "city": "El Segundo"
+    },
+    {
+      "date": "02/10/2017",
+      "effective_date": "04/07/2017",
+      "state": "TX",
+      "workers": 1,
+      "city": "Houston"
+    },
+    {
+      "date": "02/03/2017",
+      "effective_date": "04/07/2017",
+      "state": "CA",
+      "workers": 9,
+      "city": "Huntington Beach"
+    },
+    {
+      "date": "02/03/2017",
+      "effective_date": "04/07/2017",
+      "state": "CA",
+      "workers": 16,
+      "city": "El Segundo"
+    },
+    {
+      "date": "01/20/2017",
+      "effective_date": "03/24/2017",
+      "state": "CA",
+      "workers": 3,
+      "city": "Long Beach"
+    },
+    {
+      "date": "01/20/2017",
+      "effective_date": "03/24/2017",
+      "state": "CA",
+      "workers": 5,
+      "city": "Huntington Beach"
+    },
+    {
+      "date": "01/20/2017",
+      "effective_date": "03/24/2017",
+      "state": "CA",
+      "workers": 6,
+      "city": "El Segundo"
+    },
+    {
+      "date": "12/16/2016",
+      "effective_date": "02/17/2017",
+      "state": "CA",
+      "workers": 13,
+      "city": "Huntington Beach"
+    },
+    {
+      "date": "12/16/2016",
+      "effective_date": "02/17/2017",
+      "state": "CA",
+      "workers": 9,
+      "city": "El Segundo"
+    },
+    {
+      "date": "12/16/2016",
+      "effective_date": "12/16/2016",
+      "state": "GA",
+      "workers": 39,
+      "city": "Macon"
+    },
+    {
+      "date": "12/12/2016",
+      "effective_date": "02/03/2017",
+      "state": "TX",
+      "workers": 1,
+      "city": "Houston"
+    },
+    {
+      "date": "11/18/2016",
+      "effective_date": "11/20/2017",
+      "state": "TX",
+      "workers": 1,
+      "city": "Houston"
+    },
+    {
+      "date": "11/18/2016",
+      "effective_date": "01/20/2017",
+      "state": "CA",
+      "workers": 13,
+      "city": "Huntington Beach"
+    },
+    {
+      "date": "11/18/2016",
+      "effective_date": "01/20/2017",
+      "state": "CA",
+      "workers": 45,
+      "city": "El Segundo"
+    },
+    {
+      "date": "10/28/2016",
+      "effective_date": "01/02/2017",
+      "state": "CA",
+      "workers": 9,
+      "city": "Huntington Beach"
+    },
+    {
+      "date": "10/28/2016",
+      "effective_date": "01/02/2017",
+      "state": "CA",
+      "workers": 15,
+      "city": "El Segundo"
+    },
+    {
+      "date": "10/18/2016",
+      "effective_date": "12/16/2016",
+      "state": "WA",
+      "workers": 56,
+      "city": "Puget Sound"
+    },
+    {
+      "date": "10/14/2016",
+      "effective_date": "12/16/2016",
+      "state": "TX",
+      "workers": 3,
+      "city": "Houston"
+    },
+    {
+      "date": "10/14/2016",
+      "effective_date": "12/16/2016",
+      "state": "CA",
+      "workers": 13,
+      "city": "Huntington Beach"
+    },
+    {
+      "date": "10/14/2016",
+      "effective_date": "12/16/2016",
+      "state": "CA",
+      "workers": 33,
+      "city": "El Segundo"
+    },
+    {
+      "date": "09/30/2016",
+      "effective_date": "12/02/2016",
+      "state": "CA",
+      "workers": 3,
+      "city": "El Segundo"
+    },
+    {
+      "date": "09/20/2016",
+      "effective_date": "11/18/2016",
+      "state": "TX",
+      "workers": 2,
+      "city": "Houston"
+    },
+    {
+      "date": "09/16/2016",
+      "effective_date": "11/18/2016",
+      "state": "CA",
+      "workers": 23,
+      "city": "Huntington Beach"
+    },
+    {
+      "date": "09/16/2016",
+      "effective_date": "11/18/2016",
+      "state": "CA",
+      "workers": 59,
+      "city": "El Segundo"
+    },
+    {
+      "date": "08/24/2016",
+      "effective_date": "10/21/2016",
+      "state": "WA",
+      "workers": 116,
+      "city": "Puget Sound"
+    },
+    {
+      "date": "08/22/2016",
+      "effective_date": "10/21/2016",
+      "state": "TX",
+      "workers": 2,
+      "city": "Houston"
+    },
+    {
+      "date": "08/19/2016",
+      "effective_date": "10/21/2016",
+      "state": "CA",
+      "workers": 37,
+      "city": "Huntington Beach"
+    },
+    {
+      "date": "08/19/2016",
+      "effective_date": "10/21/2016",
+      "state": "CA",
+      "workers": 20,
+      "city": "El Segundo"
+    },
+    {
+      "date": "07/27/2016",
+      "effective_date": "09/23/2016",
+      "state": "TX",
+      "workers": 7,
+      "city": "Houston"
+    },
+    {
+      "date": "07/22/2016",
+      "effective_date": "09/23/2016",
+      "state": "CA",
+      "workers": 73,
+      "city": "Huntington Beach"
+    },
+    {
+      "date": "07/22/2016",
+      "effective_date": "09/23/2016",
+      "state": "CA",
+      "workers": 38,
+      "city": "El Segundo"
+    },
+    {
+      "date": "06/22/2016",
+      "effective_date": "08/19/2016",
+      "state": "WA",
+      "workers": 99,
+      "city": "Puget Sound"
+    },
+    {
+      "date": "06/17/2016",
+      "effective_date": "08/19/2016",
+      "state": "TX",
+      "workers": 4,
+      "city": "Houston"
+    },
+    {
+      "date": "06/17/2016",
+      "effective_date": "08/19/2016",
+      "state": "CA",
+      "workers": 42,
+      "city": "Huntington Beach"
+    },
+    {
+      "date": "06/17/2016",
+      "effective_date": "08/19/2016",
+      "state": "CA",
+      "workers": 41,
+      "city": "El Segundo"
+    },
+    {
+      "date": "06/01/2016",
+      "effective_date": "07/22/2016",
+      "state": "WA",
+      "workers": 211,
+      "city": "Puget Sound"
+    },
+    {
+      "date": "05/24/2016",
+      "effective_date": "07/22/2016",
+      "state": "TX",
+      "workers": 11,
+      "city": "Houston"
+    },
+    {
+      "date": "05/20/2016",
+      "effective_date": "07/22/2016",
+      "state": "CA",
+      "workers": 73,
+      "city": "Huntington Beach"
+    },
+    {
+      "date": "05/20/2016",
+      "effective_date": "07/22/2016",
+      "state": "CA",
+      "workers": 45,
+      "city": "El Segundo"
+    },
+    {
+      "date": "04/29/2016",
+      "effective_date": "07/01/2016",
+      "state": "CA",
+      "workers": 2,
+      "city": "El Segundo"
+    },
+    {
+      "date": "04/26/2016",
+      "effective_date": "06/24/2016",
+      "state": "TX",
+      "workers": 8,
+      "city": "Houston"
+    },
+    {
+      "date": "04/22/2016",
+      "effective_date": "06/24/2016",
+      "state": "CA",
+      "workers": 36,
+      "city": "Huntington Beach"
+    },
+    {
+      "date": "04/22/2016",
+      "effective_date": "06/24/2016",
+      "state": "CA",
+      "workers": 36,
+      "city": "El Segundo"
+    },
+    {
+      "date": "03/22/2016",
+      "effective_date": "03/22/2016",
+      "state": "TX",
+      "workers": 15,
+      "city": "Houston"
+    },
+    {
+      "date": "03/18/2016",
+      "effective_date": "05/20/2016",
+      "state": "CA",
+      "workers": 23,
+      "city": "Huntington Beach"
+    },
+    {
+      "date": "03/18/2016",
+      "effective_date": "05/20/2016",
+      "state": "CA",
+      "workers": 26,
+      "city": "El Segundo"
+    },
+    {
+      "date": "02/23/2016",
+      "effective_date": "04/22/2016",
+      "state": "TX",
+      "workers": 15,
+      "city": "Houston"
+    },
+    {
+      "date": "02/19/2016",
+      "effective_date": "04/22/2016",
+      "state": "CA",
+      "workers": 3,
+      "city": "Long Beach"
+    },
+    {
+      "date": "02/19/2016",
+      "effective_date": "04/22/2016",
+      "state": "CA",
+      "workers": 44,
+      "city": "Huntington Beach"
+    },
+    {
+      "date": "02/19/2016",
+      "effective_date": "04/22/2016",
+      "state": "CA",
+      "workers": 45,
+      "city": "El Segundo"
+    },
+    {
+      "date": "02/02/2016",
+      "effective_date": "04/01/2016",
+      "state": "TX",
+      "workers": 1,
+      "city": "Houston"
+    },
+    {
+      "date": "01/29/2016",
+      "effective_date": "04/01/2016",
+      "state": "CA",
+      "workers": 15,
+      "city": "Huntington Beach"
+    },
+    {
+      "date": "01/29/2016",
+      "effective_date": "04/01/2016",
+      "state": "CA",
+      "workers": 25,
+      "city": "El Segundo"
+    },
+    {
+      "date": "01/27/2016",
+      "effective_date": "03/25/2016",
+      "state": "TX",
+      "workers": 2,
+      "city": "Houston"
+    },
+    {
+      "date": "01/22/2016",
+      "effective_date": "03/25/2016",
+      "state": "CA",
+      "workers": 11,
+      "city": "Long Beach"
+    },
+    {
+      "date": "01/22/2016",
+      "effective_date": "03/25/2016",
+      "state": "CA",
+      "workers": 15,
+      "city": "Huntington Beach"
+    },
+    {
+      "date": "01/22/2016",
+      "effective_date": "03/25/2016",
+      "state": "CA",
+      "workers": 6,
+      "city": "El Segundo"
+    },
+    {
+      "date": "12/23/2015",
+      "effective_date": "02/19/2016",
+      "state": "TX",
+      "workers": 29,
+      "city": "Houston"
+    },
+    {
+      "date": "12/18/2015",
+      "effective_date": "02/19/2016",
+      "state": "CA",
+      "workers": 9,
+      "city": "Long Beach"
+    },
+    {
+      "date": "12/18/2015",
+      "effective_date": "02/19/2016",
+      "state": "CA",
+      "workers": 35,
+      "city": "Huntington Beach"
+    },
+    {
+      "date": "12/18/2015",
+      "effective_date": "02/19/2016",
+      "state": "CA",
+      "workers": 35,
+      "city": "El Segundo"
+    },
+    {
+      "date": "11/30/2015",
+      "effective_date": "01/22/2016",
+      "state": "TX",
+      "workers": 5,
+      "city": "Houston"
+    },
+    {
+      "date": "11/20/2015",
+      "effective_date": "01/22/2016",
+      "state": "CA",
+      "workers": 10,
+      "city": "Long Beach"
+    },
+    {
+      "date": "11/20/2015",
+      "effective_date": "01/22/2016",
+      "state": "CA",
+      "workers": 28,
+      "city": "Huntington Beach"
+    },
+    {
+      "date": "11/20/2015",
+      "effective_date": "01/22/2016",
+      "state": "CA",
+      "workers": 28,
+      "city": "El Segundo"
+    },
+    {
+      "date": "11/04/2015",
+      "effective_date": "01/01/2016",
+      "state": "TX",
+      "workers": 11,
+      "city": "Houston"
+    },
+    {
+      "date": "10/30/2015",
+      "effective_date": "01/01/2016",
+      "state": "CA",
+      "workers": 13,
+      "city": "Long Beach"
+    },
+    {
+      "date": "10/30/2015",
+      "effective_date": "01/01/2016",
+      "state": "CA",
+      "workers": 35,
+      "city": "Huntington Beach"
+    },
+    {
+      "date": "10/30/2015",
+      "effective_date": "01/01/2016",
+      "state": "CA",
+      "workers": 17,
+      "city": "El Segundo"
+    },
+    {
+      "date": "10/30/2015",
+      "effective_date": "12/31/2015",
+      "state": "CA",
+      "workers": 1,
+      "city": "Long Beach"
+    },
+    {
+      "date": "10/15/2015",
+      "effective_date": "12/11/2015",
+      "state": "TX",
+      "workers": 14,
+      "city": "Houston"
+    },
+    {
+      "date": "10/09/2015",
+      "effective_date": "12/11/2015",
+      "state": "CA",
+      "workers": 36,
+      "city": "Long Beach"
+    },
+    {
+      "date": "10/09/2015",
+      "effective_date": "12/11/2015",
+      "state": "CA",
+      "workers": 76,
+      "city": "Huntington Beach"
+    },
+    {
+      "date": "10/09/2015",
+      "effective_date": "12/11/2015",
+      "state": "CA",
+      "workers": 109,
+      "city": "El Segundo"
+    },
+    {
+      "date": "10/01/2015",
+      "effective_date": "11/30/2015",
+      "state": "CA",
+      "workers": 1,
+      "city": "Long Beach"
+    },
+    {
+      "date": "09/29/2015",
+      "effective_date": "11/20/2015",
+      "state": "TX",
+      "workers": 15,
+      "city": "Houston"
+    },
+    {
+      "date": "09/18/2015",
+      "effective_date": "11/20/2015",
+      "state": "CA",
+      "workers": 37,
+      "city": "Long Beach"
+    },
+    {
+      "date": "09/18/2015",
+      "effective_date": "11/20/2015",
+      "state": "CA",
+      "workers": 23,
+      "city": "Huntington Beach"
+    },
+    {
+      "date": "09/18/2015",
+      "effective_date": "11/20/2015",
+      "state": "CA",
+      "workers": 54,
+      "city": "El Segundo"
+    },
+    {
+      "date": "09/11/2015",
+      "effective_date": "11/13/2015",
+      "state": "CA",
+      "workers": 3,
+      "city": "El Segundo"
+    },
+    {
+      "date": "09/04/2015",
+      "effective_date": "11/06/2015",
+      "state": "CA",
+      "workers": 2,
+      "city": "Long Beach"
+    },
+    {
+      "date": "08/28/2015",
+      "effective_date": "10/30/2015",
+      "state": "CA",
+      "workers": 2,
+      "city": "Long Beach"
+    },
+    {
+      "date": "08/28/2015",
+      "effective_date": "10/30/2015",
+      "state": "CA",
+      "workers": 6,
+      "city": "Huntington Beach"
+    },
+    {
+      "date": "08/28/2015",
+      "effective_date": "10/30/2015",
+      "state": "CA",
+      "workers": 106,
+      "city": "El Segundo"
+    },
+    {
+      "date": "08/26/2015",
+      "effective_date": "10/23/2015",
+      "state": "TX",
+      "workers": 70,
+      "city": "Houston"
+    },
+    {
+      "date": "08/24/2015",
+      "effective_date": "10/23/2015",
+      "state": "WA",
+      "workers": 39,
+      "city": "Puget Sound"
+    },
+    {
+      "date": "08/21/2015",
+      "effective_date": "10/23/2015",
+      "state": "CA",
+      "workers": 113,
+      "city": "Long Beach"
+    },
+    {
+      "date": "08/21/2015",
+      "effective_date": "10/23/2015",
+      "state": "CA",
+      "workers": 26,
+      "city": "Huntington Beach"
+    },
+    {
+      "date": "08/21/2015",
+      "effective_date": "10/23/2015",
+      "state": "CA",
+      "workers": 39,
+      "city": "El Segundo"
+    },
+    {
+      "date": "08/21/2015",
+      "effective_date": "08/21/2015",
+      "state": "WA",
+      "workers": 23,
+      "city": "Puget Sound"
+    },
+    {
+      "date": "07/31/2015",
+      "effective_date": "10/02/2015",
+      "state": "CA",
+      "workers": 8,
+      "city": "Long Beach"
+    },
+    {
+      "date": "07/22/2015",
+      "effective_date": "09/18/2015",
+      "state": "WA",
+      "workers": 172,
+      "city": "Puget Sound"
+    },
+    {
+      "date": "07/20/2015",
+      "effective_date": "09/18/2015",
+      "state": "TX",
+      "workers": 5,
+      "city": "Houston"
+    },
+    {
+      "date": "07/17/2015",
+      "effective_date": "09/18/2015",
+      "state": "CA",
+      "workers": 113,
+      "city": "Long Beach"
+    },
+    {
+      "date": "07/17/2015",
+      "effective_date": "09/18/2015",
+      "state": "CA",
+      "workers": 65,
+      "city": "Huntington Beach"
+    },
+    {
+      "date": "07/17/2015",
+      "effective_date": "09/18/2015",
+      "state": "CA",
+      "workers": 66,
+      "city": "El Segundo"
+    },
+    {
+      "date": "07/17/2015",
+      "effective_date": "07/17/2015",
+      "state": "KS",
+      "workers": 1,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "07/14/2015",
+      "effective_date": "07/14/2015",
+      "state": "WA",
+      "workers": 18,
+      "city": "Puget Sound"
+    },
+    {
+      "date": "07/02/2015",
+      "effective_date": "09/04/2015",
+      "state": "CA",
+      "workers": 56,
+      "city": "Long Beach"
+    },
+    {
+      "date": "06/24/2015",
+      "effective_date": "08/21/2015",
+      "state": "TX",
+      "workers": 3,
+      "city": "Houston"
+    },
+    {
+      "date": "06/22/2015",
+      "effective_date": "08/21/2015",
+      "state": "WA",
+      "workers": 23,
+      "city": "Puget Sound"
+    },
+    {
+      "date": "06/19/2015",
+      "effective_date": "08/21/2015",
+      "state": "CA",
+      "workers": 6,
+      "city": "Huntington Beach"
+    },
+    {
+      "date": "06/19/2015",
+      "effective_date": "08/21/2015",
+      "state": "CA",
+      "workers": 28,
+      "city": "Long Beach"
+    },
+    {
+      "date": "06/19/2015",
+      "effective_date": "08/21/2015",
+      "state": "CA",
+      "workers": 26,
+      "city": "El Segundo"
+    },
+    {
+      "date": "06/19/2015",
+      "effective_date": "06/19/2015",
+      "state": "WA",
+      "workers": 153,
+      "city": "Puget Sound"
+    },
+    {
+      "date": "06/11/2015",
+      "effective_date": "07/14/2015",
+      "state": "WA",
+      "workers": 18,
+      "city": "Puget Sound"
+    },
+    {
+      "date": "06/05/2015",
+      "effective_date": "08/07/2015",
+      "state": "CA",
+      "workers": 15,
+      "city": "Long Beach"
+    },
+    {
+      "date": "05/27/2015",
+      "effective_date": "07/24/2015",
+      "state": "TX",
+      "workers": 8,
+      "city": "Houston"
+    },
+    {
+      "date": "05/22/2015",
+      "effective_date": "07/24/2015",
+      "state": "CA",
+      "workers": 40,
+      "city": "El Segundo"
+    },
+    {
+      "date": "05/22/2015",
+      "effective_date": "07/24/2015",
+      "state": "CA",
+      "workers": 91,
+      "city": "Long Beach"
+    },
+    {
+      "date": "05/22/2015",
+      "effective_date": "07/24/2015",
+      "state": "CA",
+      "workers": 32,
+      "city": "Huntington Beach"
+    },
+    {
+      "date": "05/08/2015",
+      "effective_date": "07/10/2015",
+      "state": "CA",
+      "workers": 26,
+      "city": "Long Beach"
+    },
+    {
+      "date": "04/23/2015",
+      "effective_date": "06/19/2015",
+      "state": "WA",
+      "workers": 153,
+      "city": "Puget Sound"
+    },
+    {
+      "date": "04/21/2015",
+      "effective_date": "06/19/2015",
+      "state": "TX",
+      "workers": 1,
+      "city": "Houston"
+    },
+    {
+      "date": "04/17/2015",
+      "effective_date": "06/19/2015",
+      "state": "CA",
+      "workers": 48,
+      "city": "Long Beach"
+    },
+    {
+      "date": "04/17/2015",
+      "effective_date": "06/19/2015",
+      "state": "CA",
+      "workers": 28,
+      "city": "Huntington Beach"
+    },
+    {
+      "date": "04/17/2015",
+      "effective_date": "06/19/2015",
+      "state": "CA",
+      "workers": 49,
+      "city": "El Segundo"
+    },
+    {
+      "date": "04/17/2015",
+      "effective_date": "04/17/2015",
+      "state": "KS",
+      "workers": 3,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "04/03/2015",
+      "effective_date": "06/05/2015",
+      "state": "CA",
+      "workers": 8,
+      "city": "Long Beach"
+    },
+    {
+      "date": "04/03/2015",
+      "effective_date": "06/05/2015",
+      "state": "CA",
+      "workers": 1,
+      "city": "El Segundo"
+    },
+    {
+      "date": "03/23/2015",
+      "effective_date": "05/25/2015",
+      "state": "TX",
+      "workers": 9,
+      "city": "Houston"
+    },
+    {
+      "date": "03/20/2015",
+      "effective_date": "05/25/2015",
+      "state": "CA",
+      "workers": 119,
+      "city": "Long Beach"
+    },
+    {
+      "date": "03/20/2015",
+      "effective_date": "05/25/2015",
+      "state": "CA",
+      "workers": 32,
+      "city": "Huntington Beach"
+    },
+    {
+      "date": "03/20/2015",
+      "effective_date": "05/25/2015",
+      "state": "CA",
+      "workers": 45,
+      "city": "El Segundo"
+    },
+    {
+      "date": "02/26/2015",
+      "effective_date": "04/24/2015",
+      "state": "WA",
+      "workers": 319,
+      "city": "Puget Sound"
+    },
+    {
+      "date": "02/25/2015",
+      "effective_date": "04/24/2015",
+      "state": "TX",
+      "workers": 7,
+      "city": "Houston"
+    },
+    {
+      "date": "02/20/2015",
+      "effective_date": "04/24/2015",
+      "state": "CA",
+      "workers": 35,
+      "city": "El Segundo"
+    },
+    {
+      "date": "02/20/2015",
+      "effective_date": "04/24/2015",
+      "state": "CA",
+      "workers": 71,
+      "city": "Long Beach"
+    },
+    {
+      "date": "02/20/2015",
+      "effective_date": "04/24/2015",
+      "state": "CA",
+      "workers": 59,
+      "city": "Huntington Beach"
+    },
+    {
+      "date": "02/20/2015",
+      "effective_date": "02/20/2015",
+      "state": "KS",
+      "workers": 1,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "02/06/2015",
+      "effective_date": "04/10/2015",
+      "state": "CA",
+      "workers": 9,
+      "city": "El Segundo"
+    },
+    {
+      "date": "02/05/2015",
+      "effective_date": "04/03/2015",
+      "state": "TX",
+      "workers": 2,
+      "city": "Houston"
+    },
+    {
+      "date": "01/30/2015",
+      "effective_date": "04/03/2015",
+      "state": "CA",
+      "workers": 66,
+      "city": "Long Beach"
+    },
+    {
+      "date": "01/30/2015",
+      "effective_date": "04/03/2015",
+      "state": "CA",
+      "workers": 25,
+      "city": "Huntington Beach"
+    },
+    {
+      "date": "01/30/2015",
+      "effective_date": "04/03/2015",
+      "state": "CA",
+      "workers": 36,
+      "city": "El Segundo"
+    },
+    {
+      "date": "01/20/2015",
+      "effective_date": "03/20/2015",
+      "state": "TX",
+      "workers": 3,
+      "city": "Houston"
+    },
+    {
+      "date": "01/16/2015",
+      "effective_date": "03/20/2015",
+      "state": "CA",
+      "workers": 36,
+      "city": "Long Beach"
+    },
+    {
+      "date": "01/16/2015",
+      "effective_date": "03/20/2015",
+      "state": "CA",
+      "workers": 9,
+      "city": "Huntington Beach"
+    },
+    {
+      "date": "01/16/2015",
+      "effective_date": "03/20/2015",
+      "state": "CA",
+      "workers": 15,
+      "city": "El Segundo"
+    },
+    {
+      "date": "01/16/2015",
+      "effective_date": "01/16/2015",
+      "state": "KS",
+      "workers": 1,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "01/03/2015",
+      "effective_date": "03/06/2015",
+      "state": "CA",
+      "workers": 23,
+      "city": "Long Beach"
+    },
+    {
+      "date": "12/22/2014",
+      "effective_date": "02/20/2015",
+      "state": "TX",
+      "workers": 1,
+      "city": "Houston"
+    },
+    {
+      "date": "12/19/2014",
+      "effective_date": "02/20/2015",
+      "state": "CA",
+      "workers": 119,
+      "city": "Long Beach"
+    },
+    {
+      "date": "12/19/2014",
+      "effective_date": "02/20/2015",
+      "state": "CA",
+      "workers": 20,
+      "city": "Huntington Beach"
+    },
+    {
+      "date": "12/19/2014",
+      "effective_date": "02/20/2015",
+      "state": "CA",
+      "workers": 33,
+      "city": "El Segundo"
+    },
+    {
+      "date": "12/05/2014",
+      "effective_date": "02/06/2015",
+      "state": "CA",
+      "workers": 21,
+      "city": "Long Beach"
+    },
+    {
+      "date": "12/02/2014",
+      "effective_date": "01/23/2015",
+      "state": "WA",
+      "workers": 83,
+      "city": "Puget Sound"
+    },
+    {
+      "date": "11/24/2014",
+      "effective_date": "11/23/2015",
+      "state": "TX",
+      "workers": 6,
+      "city": "Houston"
+    },
+    {
+      "date": "11/21/2014",
+      "effective_date": "01/23/2015",
+      "state": "CA",
+      "workers": 95,
+      "city": "Long Beach"
+    },
+    {
+      "date": "11/21/2014",
+      "effective_date": "01/23/2015",
+      "state": "CA",
+      "workers": 29,
+      "city": "Huntington Beach"
+    },
+    {
+      "date": "11/21/2014",
+      "effective_date": "01/23/2015",
+      "state": "CA",
+      "workers": 57,
+      "city": "El Segundo"
+    },
+    {
+      "date": "11/21/2014",
+      "effective_date": "11/21/2014",
+      "state": "KS",
+      "workers": 1,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "11/06/2014",
+      "effective_date": "01/01/2015",
+      "state": "TX",
+      "workers": 1,
+      "city": "Houston"
+    },
+    {
+      "date": "10/31/2014",
+      "effective_date": "01/01/2015",
+      "state": "CA",
+      "workers": 93,
+      "city": "Long Beach"
+    },
+    {
+      "date": "10/31/2014",
+      "effective_date": "01/01/2015",
+      "state": "CA",
+      "workers": 64,
+      "city": "El Segundo"
+    },
+    {
+      "date": "10/31/2014",
+      "effective_date": "01/01/2015",
+      "state": "CA",
+      "workers": 64,
+      "city": "Huntington Beach"
+    },
+    {
+      "date": "10/31/2014",
+      "effective_date": "10/31/2014",
+      "state": "KS",
+      "workers": 1,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "10/24/2014",
+      "effective_date": "10/24/2014",
+      "state": "WA",
+      "workers": 70,
+      "city": "Puget Sound"
+    },
+    {
+      "date": "10/14/2014",
+      "effective_date": "12/12/2014",
+      "state": "TX",
+      "workers": 14,
+      "city": "Houston"
+    },
+    {
+      "date": "10/10/2014",
+      "effective_date": "12/12/2014",
+      "state": "CA",
+      "workers": 44,
+      "city": "Long Beach"
+    },
+    {
+      "date": "10/10/2014",
+      "effective_date": "12/12/2014",
+      "state": "CA",
+      "workers": 61,
+      "city": "Huntington Beach"
+    },
+    {
+      "date": "10/10/2014",
+      "effective_date": "12/12/2014",
+      "state": "CA",
+      "workers": 34,
+      "city": "El Segundo"
+    },
+    {
+      "date": "10/10/2014",
+      "effective_date": "10/10/2014",
+      "state": "KS",
+      "workers": 6,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "09/22/2014",
+      "effective_date": "11/21/2014",
+      "state": "TX",
+      "workers": 34,
+      "city": "Houston"
+    },
+    {
+      "date": "09/22/2014",
+      "effective_date": "11/21/2014",
+      "state": "CA",
+      "workers": 51,
+      "city": "El Segundo"
+    },
+    {
+      "date": "09/22/2014",
+      "effective_date": "11/21/2014",
+      "state": "CA",
+      "workers": 227,
+      "city": "Long Beach"
+    },
+    {
+      "date": "09/22/2014",
+      "effective_date": "11/21/2014",
+      "state": "CA",
+      "workers": 40,
+      "city": "Huntington Beach"
+    },
+    {
+      "date": "09/19/2014",
+      "effective_date": "09/19/2014",
+      "state": "KS",
+      "workers": 1,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "08/30/2014",
+      "effective_date": "08/30/2014",
+      "state": "GA",
+      "workers": 464,
+      "city": "Macon"
+    },
+    {
+      "date": "08/25/2014",
+      "effective_date": "10/24/2014",
+      "state": "TX",
+      "workers": 3,
+      "city": "Houston"
+    },
+    {
+      "date": "08/25/2014",
+      "effective_date": "10/24/2014",
+      "state": "WA",
+      "workers": 70,
+      "city": "Puget Sound"
+    },
+    {
+      "date": "08/22/2014",
+      "effective_date": "10/24/2014",
+      "state": "CA",
+      "workers": 37,
+      "city": "El Segundo"
+    },
+    {
+      "date": "08/22/2014",
+      "effective_date": "10/24/2014",
+      "state": "CA",
+      "workers": 49,
+      "city": "Long Beach"
+    },
+    {
+      "date": "08/22/2014",
+      "effective_date": "10/24/2014",
+      "state": "CA",
+      "workers": 53,
+      "city": "Huntington Beach"
+    },
+    {
+      "date": "08/22/2014",
+      "effective_date": "08/22/2014",
+      "state": "KS",
+      "workers": 55,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "08/01/2014",
+      "effective_date": "09/19/2014",
+      "state": "CA",
+      "workers": 158,
+      "city": "Long Beach"
+    },
+    {
+      "date": "07/22/2014",
+      "effective_date": "09/19/2014",
+      "state": "TX",
+      "workers": 3,
+      "city": "Houston"
+    },
+    {
+      "date": "07/21/2014",
+      "effective_date": "09/19/2014",
+      "state": "WA",
+      "workers": 95,
+      "city": "Puget Sound"
+    },
+    {
+      "date": "07/18/2014",
+      "effective_date": "09/19/2014",
+      "state": "CA",
+      "workers": 35,
+      "city": "Long Beach"
+    },
+    {
+      "date": "07/18/2014",
+      "effective_date": "09/19/2014",
+      "state": "CA",
+      "workers": 23,
+      "city": "El Segundo"
+    },
+    {
+      "date": "07/18/2014",
+      "effective_date": "07/18/2014",
+      "state": "KS",
+      "workers": 66,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "06/23/2014",
+      "effective_date": "08/22/2014",
+      "state": "TX",
+      "workers": 189,
+      "city": "Houston"
+    },
+    {
+      "date": "06/20/2014",
+      "effective_date": "06/20/2014",
+      "state": "KS",
+      "workers": 17,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "05/30/2014",
+      "effective_date": "07/25/2014",
+      "state": "TX",
+      "workers": 4,
+      "city": "Houston"
+    },
+    {
+      "date": "05/23/2014",
+      "effective_date": "05/23/2014",
+      "state": "KS",
+      "workers": 68,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "04/21/2014",
+      "effective_date": "06/20/2014",
+      "state": "TX",
+      "workers": 12,
+      "city": "Houston"
+    },
+    {
+      "date": "04/18/2014",
+      "effective_date": "04/18/2014",
+      "state": "KS",
+      "workers": 38,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "03/21/2014",
+      "effective_date": "03/21/2014",
+      "state": "KS",
+      "workers": 131,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "02/28/2014",
+      "effective_date": "05/02/2014",
+      "state": "TX",
+      "workers": 268,
+      "city": "San Antonio"
+    },
+    {
+      "date": "02/19/2014",
+      "effective_date": "04/18/2014",
+      "state": "TX",
+      "workers": 4,
+      "city": "Houston"
+    },
+    {
+      "date": "02/18/2014",
+      "effective_date": "04/18/2014",
+      "state": "WA",
+      "workers": 79,
+      "city": "Puget Sound"
+    },
+    {
+      "date": "02/14/2014",
+      "effective_date": "02/14/2014",
+      "state": "KS",
+      "workers": 124,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "02/04/2014",
+      "effective_date": "04/04/2014",
+      "state": "TX",
+      "workers": 3,
+      "city": "Houston"
+    },
+    {
+      "date": "02/03/2014",
+      "effective_date": "04/04/2014",
+      "state": "WA",
+      "workers": 9,
+      "city": "Puget Sound"
+    },
+    {
+      "date": "02/01/2014",
+      "effective_date": "02/01/2014",
+      "state": "KS",
+      "workers": 18,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "01/24/2014",
+      "effective_date": "01/24/2014",
+      "state": "WA",
+      "workers": 71,
+      "city": "Puget Sound"
+    },
+    {
+      "date": "01/21/2014",
+      "effective_date": "03/21/2014",
+      "state": "TX",
+      "workers": 1,
+      "city": "Houston"
+    },
+    {
+      "date": "01/21/2014",
+      "effective_date": "03/21/2014",
+      "state": "WA",
+      "workers": 8,
+      "city": "Puget Sound"
+    },
+    {
+      "date": "01/17/2014",
+      "effective_date": "01/17/2014",
+      "state": "KS",
+      "workers": 82,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "01/04/2014",
+      "effective_date": "01/04/2014",
+      "state": "KY",
+      "workers": 49,
+      "city": "Statewide"
+    },
+    {
+      "date": "12/23/2013",
+      "effective_date": "02/21/2014",
+      "state": "WA",
+      "workers": 11,
+      "city": "Puget Sound"
+    },
+    {
+      "date": "12/20/2013",
+      "effective_date": "12/20/2013",
+      "state": "KS",
+      "workers": 121,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "12/13/2013",
+      "effective_date": "12/13/2013",
+      "state": "WA",
+      "workers": 200,
+      "city": "Puget Sound"
+    },
+    {
+      "date": "11/25/2013",
+      "effective_date": "01/24/2014",
+      "state": "TX",
+      "workers": 1,
+      "city": "Houston"
+    },
+    {
+      "date": "11/25/2013",
+      "effective_date": "01/24/2014",
+      "state": "WA",
+      "workers": 71,
+      "city": "Puget Sound"
+    },
+    {
+      "date": "11/22/2013",
+      "effective_date": "11/22/2013",
+      "state": "KS",
+      "workers": 162,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "11/06/2013",
+      "effective_date": "01/01/2014",
+      "state": "WA",
+      "workers": 39,
+      "city": "Puget Sound"
+    },
+    {
+      "date": "11/01/2013",
+      "effective_date": "11/01/2013",
+      "state": "KS",
+      "workers": 65,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "10/15/2013",
+      "effective_date": "12/13/2013",
+      "state": "WA",
+      "workers": 200,
+      "city": "Puget Sound"
+    },
+    {
+      "date": "10/14/2013",
+      "effective_date": "12/13/2013",
+      "state": "TX",
+      "workers": 7,
+      "city": "Houston"
+    },
+    {
+      "date": "10/11/2013",
+      "effective_date": "10/11/2013",
+      "state": "KS",
+      "workers": 22,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "09/27/2013",
+      "effective_date": "09/27/2013",
+      "state": "WA",
+      "workers": 3,
+      "city": "Puget Sound"
+    },
+    {
+      "date": "09/23/2013",
+      "effective_date": "11/22/2013",
+      "state": "WA",
+      "workers": 266,
+      "city": "Puget Sound"
+    },
+    {
+      "date": "09/20/2013",
+      "effective_date": "09/20/2013",
+      "state": "WA",
+      "workers": 143,
+      "city": "Puget Sound"
+    },
+    {
+      "date": "09/20/2013",
+      "effective_date": "09/20/2013",
+      "state": "KS",
+      "workers": 58,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "08/26/2013",
+      "effective_date": "10/25/2013",
+      "state": "TX",
+      "workers": 7,
+      "city": "Houston"
+    },
+    {
+      "date": "08/23/2013",
+      "effective_date": "08/23/2013",
+      "state": "WA",
+      "workers": 266,
+      "city": "Puget Sound"
+    },
+    {
+      "date": "08/23/2013",
+      "effective_date": "08/23/2013",
+      "state": "KS",
+      "workers": 43,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "07/29/2013",
+      "effective_date": "09/27/2013",
+      "state": "WA",
+      "workers": 3,
+      "city": "Puget Sound"
+    },
+    {
+      "date": "07/25/2013",
+      "effective_date": "09/20/2013",
+      "state": "WA",
+      "workers": 143,
+      "city": "Puget Sound"
+    },
+    {
+      "date": "07/23/2013",
+      "effective_date": "09/20/2013",
+      "state": "TX",
+      "workers": 14,
+      "city": "Houston"
+    },
+    {
+      "date": "07/19/2013",
+      "effective_date": "07/19/2013",
+      "state": "WA",
+      "workers": 253,
+      "city": "Puget Sound"
+    },
+    {
+      "date": "07/19/2013",
+      "effective_date": "07/19/2013",
+      "state": "KS",
+      "workers": 55,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "06/25/2013",
+      "effective_date": "08/23/2013",
+      "state": "WA",
+      "workers": 266,
+      "city": "Puget Sound"
+    },
+    {
+      "date": "06/21/2013",
+      "effective_date": "08/23/2013",
+      "state": "VA",
+      "workers": 5,
+      "city": "Fairfaix, VA"
+    },
+    {
+      "date": "06/21/2013",
+      "effective_date": "06/21/2013",
+      "state": "WA",
+      "workers": 99,
+      "city": "Puget Sound"
+    },
+    {
+      "date": "06/21/2013",
+      "effective_date": "06/21/2013",
+      "state": "KS",
+      "workers": 40,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "06/07/2013",
+      "effective_date": "06/07/2013",
+      "state": "WA",
+      "workers": 939,
+      "city": "Puget Sound"
+    },
+    {
+      "date": "05/21/2013",
+      "effective_date": "07/19/2013",
+      "state": "WA",
+      "workers": 253,
+      "city": "Puget Sound"
+    },
+    {
+      "date": "05/20/2013",
+      "effective_date": "07/19/2013",
+      "state": "TX",
+      "workers": 11,
+      "city": "Houston"
+    },
+    {
+      "date": "05/17/2013",
+      "effective_date": "05/17/2013",
+      "state": "KS",
+      "workers": 61,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "04/23/2013",
+      "effective_date": "06/21/2013",
+      "state": "WA",
+      "workers": 99,
+      "city": "Puget Sound"
+    },
+    {
+      "date": "04/22/2013",
+      "effective_date": "06/21/2013",
+      "state": "TX",
+      "workers": 39,
+      "city": "Houston"
+    },
+    {
+      "date": "04/19/2013",
+      "effective_date": "04/19/2013",
+      "state": "KS",
+      "workers": 29,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "04/08/2013",
+      "effective_date": "06/07/2013",
+      "state": "WA",
+      "workers": 939,
+      "city": "Puget Sound"
+    },
+    {
+      "date": "03/25/2013",
+      "effective_date": "05/27/2013",
+      "state": "TX",
+      "workers": 17,
+      "city": "Houston"
+    },
+    {
+      "date": "03/22/2013",
+      "effective_date": "03/22/2013",
+      "state": "KS",
+      "workers": 70,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "02/20/2013",
+      "effective_date": "04/19/2013",
+      "state": "TX",
+      "workers": 1,
+      "city": "Houston"
+    },
+    {
+      "date": "02/15/2013",
+      "effective_date": "02/15/2013",
+      "state": "KS",
+      "workers": 36,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "02/08/2013",
+      "effective_date": "04/05/2013",
+      "state": "TX",
+      "workers": 9,
+      "city": "Houston"
+    },
+    {
+      "date": "02/01/2013",
+      "effective_date": "02/01/2013",
+      "state": "KS",
+      "workers": 5,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "01/22/2013",
+      "effective_date": "03/22/2013",
+      "state": "TX",
+      "workers": 10,
+      "city": "Houston"
+    },
+    {
+      "date": "01/18/2013",
+      "effective_date": "01/18/2013",
+      "state": "KS",
+      "workers": 100,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "01/18/2013",
+      "effective_date": "01/18/2013",
+      "state": "KY",
+      "workers": 2,
+      "city": null
+    },
+    {
+      "date": "12/21/2012",
+      "effective_date": "12/21/2012",
+      "state": "KS",
+      "workers": 5,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "11/21/2012",
+      "effective_date": "11/21/2012",
+      "state": "KS",
+      "workers": 92,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "11/08/2012",
+      "effective_date": "11/08/2012",
+      "state": "KS",
+      "workers": 2,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "11/05/2012",
+      "effective_date": "01/01/2013",
+      "state": "TX",
+      "workers": 3,
+      "city": "Houston"
+    },
+    {
+      "date": "11/02/2012",
+      "effective_date": "11/02/2012",
+      "state": "KS",
+      "workers": 31,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "10/12/2012",
+      "effective_date": "10/12/2012",
+      "state": "KS",
+      "workers": 39,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "09/17/2012",
+      "effective_date": "11/16/2012",
+      "state": "TX",
+      "workers": 6,
+      "city": "Houston"
+    },
+    {
+      "date": "09/14/2012",
+      "effective_date": "09/14/2012",
+      "state": "KS",
+      "workers": 58,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "08/21/2012",
+      "effective_date": "10/19/2012",
+      "state": "TX",
+      "workers": 1,
+      "city": "Houston"
+    },
+    {
+      "date": "08/17/2012",
+      "effective_date": "08/17/2012",
+      "state": "KS",
+      "workers": 49,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "07/20/2012",
+      "effective_date": "07/20/2012",
+      "state": "KS",
+      "workers": 35,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "06/29/2012",
+      "effective_date": "06/29/2012",
+      "state": "KS",
+      "workers": 2,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "06/25/2012",
+      "effective_date": "08/24/2012",
+      "state": "TX",
+      "workers": 2,
+      "city": "Houston"
+    },
+    {
+      "date": "06/22/2012",
+      "effective_date": "06/22/2012",
+      "state": "KS",
+      "workers": 46,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "05/28/2012",
+      "effective_date": "05/28/2012",
+      "state": "WA",
+      "workers": 39,
+      "city": "Puget Sound"
+    },
+    {
+      "date": "05/21/2012",
+      "effective_date": "07/20/2012",
+      "state": "TX",
+      "workers": 1,
+      "city": "Houston"
+    },
+    {
+      "date": "05/18/2012",
+      "effective_date": "05/18/2012",
+      "state": "KS",
+      "workers": 9,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "04/24/2012",
+      "effective_date": "06/22/2012",
+      "state": "TX",
+      "workers": 5,
+      "city": "Houston"
+    },
+    {
+      "date": "04/20/2012",
+      "effective_date": "04/20/2012",
+      "state": "KS",
+      "workers": 13,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "03/26/2012",
+      "effective_date": "05/28/2012",
+      "state": "TX",
+      "workers": 2,
+      "city": "Houston"
+    },
+    {
+      "date": "03/26/2012",
+      "effective_date": "05/28/2012",
+      "state": "WA",
+      "workers": 39,
+      "city": "Puget Sound"
+    },
+    {
+      "date": "03/23/2012",
+      "effective_date": "03/23/2012",
+      "state": "KS",
+      "workers": 7,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "02/17/2012",
+      "effective_date": "02/17/2012",
+      "state": "KS",
+      "workers": 70,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "02/03/2012",
+      "effective_date": "04/06/2012",
+      "state": "TX",
+      "workers": 3,
+      "city": "Houston"
+    },
+    {
+      "date": "02/03/2012",
+      "effective_date": "02/03/2012",
+      "state": "KS",
+      "workers": 5,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "01/27/2012",
+      "effective_date": "03/30/2012",
+      "state": "TX",
+      "workers": 1,
+      "city": "Houston"
+    },
+    {
+      "date": "01/20/2012",
+      "effective_date": "03/23/2012",
+      "state": "TX",
+      "workers": 1,
+      "city": "Houston"
+    },
+    {
+      "date": "01/20/2012",
+      "effective_date": "01/20/2012",
+      "state": "KS",
+      "workers": 1,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "12/16/2011",
+      "effective_date": "02/17/2012",
+      "state": "TX",
+      "workers": 1,
+      "city": "Houston"
+    },
+    {
+      "date": "12/16/2011",
+      "effective_date": "12/16/2011",
+      "state": "KS",
+      "workers": 4,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "12/05/2011",
+      "effective_date": "01/31/2012",
+      "state": "AL",
+      "workers": 164,
+      "city": "Huntsville"
+    },
+    {
+      "date": "11/18/2011",
+      "effective_date": "01/20/2012",
+      "state": "TX",
+      "workers": 1,
+      "city": "Houston"
+    },
+    {
+      "date": "11/18/2011",
+      "effective_date": "11/18/2011",
+      "state": "KS",
+      "workers": 73,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "10/31/2011",
+      "effective_date": "01/02/2012",
+      "state": "TX",
+      "workers": 2,
+      "city": "Houston"
+    },
+    {
+      "date": "10/28/2011",
+      "effective_date": "10/28/2011",
+      "state": "KS",
+      "workers": 1,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "10/14/2011",
+      "effective_date": "12/16/2011",
+      "state": "TX",
+      "workers": 4,
+      "city": "Houston"
+    },
+    {
+      "date": "10/14/2011",
+      "effective_date": "10/14/2011",
+      "state": "KS",
+      "workers": 25,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "09/30/2011",
+      "effective_date": "12/02/2011",
+      "state": "TX",
+      "workers": 1,
+      "city": "Houston"
+    },
+    {
+      "date": "09/30/2011",
+      "effective_date": "09/30/2011",
+      "state": "KS",
+      "workers": 73,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "09/16/2011",
+      "effective_date": "11/18/2011",
+      "state": "TX",
+      "workers": 7,
+      "city": "Houston"
+    },
+    {
+      "date": "09/16/2011",
+      "effective_date": "09/16/2011",
+      "state": "KS",
+      "workers": 10,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "08/19/2011",
+      "effective_date": "10/21/2011",
+      "state": "TX",
+      "workers": 5,
+      "city": "Houston"
+    },
+    {
+      "date": "08/19/2011",
+      "effective_date": "08/19/2011",
+      "state": "KS",
+      "workers": 6,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "07/22/2011",
+      "effective_date": "09/23/2011",
+      "state": "TX",
+      "workers": 41,
+      "city": "Houston"
+    },
+    {
+      "date": "07/22/2011",
+      "effective_date": "07/22/2011",
+      "state": "KS",
+      "workers": 12,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "07/01/2011",
+      "effective_date": "07/01/2011",
+      "state": "KS",
+      "workers": 4,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "06/17/2011",
+      "effective_date": "08/19/2011",
+      "state": "TX",
+      "workers": 9,
+      "city": "Houston"
+    },
+    {
+      "date": "06/17/2011",
+      "effective_date": "06/17/2011",
+      "state": "KS",
+      "workers": 89,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "06/03/2011",
+      "effective_date": "08/05/2011",
+      "state": "TX",
+      "workers": 239,
+      "city": "Houston"
+    },
+    {
+      "date": "06/03/2011",
+      "effective_date": "06/03/2011",
+      "state": "KS",
+      "workers": 3,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "05/05/2011",
+      "effective_date": "05/05/2011",
+      "state": "KS",
+      "workers": 2,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "02/18/2011",
+      "effective_date": "02/18/2011",
+      "state": "KS",
+      "workers": 11,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "01/21/2011",
+      "effective_date": "01/21/2011",
+      "state": "KS",
+      "workers": 14,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "12/17/2010",
+      "effective_date": "12/17/2010",
+      "state": "KS",
+      "workers": 3,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "11/19/2010",
+      "effective_date": "11/19/2010",
+      "state": "KS",
+      "workers": 3,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "10/15/2010",
+      "effective_date": "10/15/2010",
+      "state": "KS",
+      "workers": 97,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "09/17/2010",
+      "effective_date": "09/17/2010",
+      "state": "KS",
+      "workers": 17,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "08/20/2010",
+      "effective_date": "08/20/2010",
+      "state": "KS",
+      "workers": 12,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "07/23/2010",
+      "effective_date": "07/23/2010",
+      "state": "WA",
+      "workers": 17,
+      "city": "Puget Sound"
+    },
+    {
+      "date": "07/23/2010",
+      "effective_date": "07/23/2010",
+      "state": "KS",
+      "workers": 102,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "06/18/2010",
+      "effective_date": "06/18/2010",
+      "state": "WA",
+      "workers": 125,
+      "city": "Puget Sound"
+    },
+    {
+      "date": "06/18/2010",
+      "effective_date": "06/18/2010",
+      "state": "KS",
+      "workers": 37,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "05/21/2010",
+      "effective_date": "07/23/2010",
+      "state": "WA",
+      "workers": 17,
+      "city": "Puget Sound"
+    },
+    {
+      "date": "05/21/2010",
+      "effective_date": "05/21/2010",
+      "state": "WA",
+      "workers": 65,
+      "city": "Puget Sound"
+    },
+    {
+      "date": "05/21/2010",
+      "effective_date": "05/21/2010",
+      "state": "KS",
+      "workers": 22,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "04/23/2010",
+      "effective_date": "04/23/2010",
+      "state": "WA",
+      "workers": 527,
+      "city": "Puget Sound"
+    },
+    {
+      "date": "04/19/2010",
+      "effective_date": "06/18/2010",
+      "state": "WA",
+      "workers": 125,
+      "city": "Puget Sound"
+    },
+    {
+      "date": "04/16/2010",
+      "effective_date": "04/16/2010",
+      "state": "KS",
+      "workers": 42,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "03/26/2010",
+      "effective_date": "03/26/2010",
+      "state": "WA",
+      "workers": 9,
+      "city": "Puget Sound"
+    },
+    {
+      "date": "03/19/2010",
+      "effective_date": "05/21/2010",
+      "state": "WA",
+      "workers": 65,
+      "city": "Puget Sound"
+    },
+    {
+      "date": "03/19/2010",
+      "effective_date": "03/19/2010",
+      "state": "WA",
+      "workers": 20,
+      "city": "Puget Sound"
+    },
+    {
+      "date": "03/19/2010",
+      "effective_date": "03/19/2010",
+      "state": "KS",
+      "workers": 25,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "02/19/2010",
+      "effective_date": "04/23/2010",
+      "state": "WA",
+      "workers": 527,
+      "city": "Puget Sound"
+    },
+    {
+      "date": "02/19/2010",
+      "effective_date": "02/19/2010",
+      "state": "WA",
+      "workers": 56,
+      "city": "Puget Sound"
+    },
+    {
+      "date": "02/19/2010",
+      "effective_date": "02/19/2010",
+      "state": "KS",
+      "workers": 22,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "01/22/2010",
+      "effective_date": "03/26/2010",
+      "state": "WA",
+      "workers": 9,
+      "city": "Puget Sound"
+    },
+    {
+      "date": "01/22/2010",
+      "effective_date": "01/22/2010",
+      "state": "WA",
+      "workers": 49,
+      "city": "Puget Sound"
+    },
+    {
+      "date": "01/15/2010",
+      "effective_date": "03/19/2010",
+      "state": "WA",
+      "workers": 20,
+      "city": "Puget Sound"
+    },
+    {
+      "date": "01/15/2010",
+      "effective_date": "01/15/2010",
+      "state": "KS",
+      "workers": 7,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "01/01/2010",
+      "effective_date": "01/01/2010",
+      "state": "WA",
+      "workers": 48,
+      "city": "Puget Sound"
+    },
+    {
+      "date": "12/18/2009",
+      "effective_date": "02/19/2010",
+      "state": "WA",
+      "workers": 56,
+      "city": "Puget Sound"
+    },
+    {
+      "date": "12/18/2009",
+      "effective_date": "12/18/2009",
+      "state": "KS",
+      "workers": 54,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "11/20/2009",
+      "effective_date": "01/22/2010",
+      "state": "WA",
+      "workers": 49,
+      "city": "Puget Sound"
+    },
+    {
+      "date": "11/20/2009",
+      "effective_date": "11/20/2009",
+      "state": "KS",
+      "workers": 77,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "10/30/2009",
+      "effective_date": "01/01/2010",
+      "state": "WA",
+      "workers": 48,
+      "city": "Puget Sound"
+    },
+    {
+      "date": "10/30/2009",
+      "effective_date": "10/30/2009",
+      "state": "KS",
+      "workers": 85,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "10/23/2009",
+      "effective_date": "10/23/2009",
+      "state": "WA",
+      "workers": 279,
+      "city": "Puget Sound"
+    },
+    {
+      "date": "10/09/2009",
+      "effective_date": "12/11/2009",
+      "state": "WA",
+      "workers": 53,
+      "city": "Puget Sound"
+    },
+    {
+      "date": "10/02/2009",
+      "effective_date": "10/02/2009",
+      "state": "WA",
+      "workers": 45,
+      "city": "Puget Sound"
+    },
+    {
+      "date": "09/18/2009",
+      "effective_date": "11/20/2009",
+      "state": "WA",
+      "workers": 126,
+      "city": "Puget Sound"
+    },
+    {
+      "date": "09/18/2009",
+      "effective_date": "09/18/2009",
+      "state": "KS",
+      "workers": 22,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "08/21/2009",
+      "effective_date": "10/23/2009",
+      "state": "WA",
+      "workers": 279,
+      "city": "Puget Sound"
+    },
+    {
+      "date": "08/21/2009",
+      "effective_date": "08/21/2009",
+      "state": "WA",
+      "workers": 157,
+      "city": "Puget Sound"
+    },
+    {
+      "date": "08/21/2009",
+      "effective_date": "08/21/2009",
+      "state": "KS",
+      "workers": 21,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "07/31/2009",
+      "effective_date": "10/02/2009",
+      "state": "WA",
+      "workers": 45,
+      "city": "Puget Sound"
+    },
+    {
+      "date": "07/24/2009",
+      "effective_date": "07/24/2009",
+      "state": "WA",
+      "workers": 117,
+      "city": "Puget Sound"
+    },
+    {
+      "date": "07/17/2009",
+      "effective_date": "09/18/2009",
+      "state": "WA",
+      "workers": 104,
+      "city": "Puget Sound"
+    },
+    {
+      "date": "07/17/2009",
+      "effective_date": "07/17/2009",
+      "state": "KS",
+      "workers": 53,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "06/19/2009",
+      "effective_date": "08/21/2009",
+      "state": "WA",
+      "workers": 157,
+      "city": "Puget Sound"
+    },
+    {
+      "date": "06/19/2009",
+      "effective_date": "06/19/2009",
+      "state": "WA",
+      "workers": 119,
+      "city": "Puget Sound"
+    },
+    {
+      "date": "06/19/2009",
+      "effective_date": "06/19/2009",
+      "state": "KS",
+      "workers": 16,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "05/22/2009",
+      "effective_date": "07/24/2009",
+      "state": "WA",
+      "workers": 117,
+      "city": "Puget Sound"
+    },
+    {
+      "date": "05/22/2009",
+      "effective_date": "05/22/2009",
+      "state": "WA",
+      "workers": 710,
+      "city": "Puget Sound"
+    },
+    {
+      "date": "05/21/2009",
+      "effective_date": "05/21/2009",
+      "state": "KS",
+      "workers": 41,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "04/24/2009",
+      "effective_date": "04/24/2009",
+      "state": "WA",
+      "workers": 781,
+      "city": "Puget Sound"
+    },
+    {
+      "date": "04/21/2009",
+      "effective_date": "06/19/2009",
+      "state": "WA",
+      "workers": 119,
+      "city": "Puget Sound"
+    },
+    {
+      "date": "04/20/2009",
+      "effective_date": "04/20/2009",
+      "state": "KS",
+      "workers": 36,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "03/23/2009",
+      "effective_date": "03/23/2009",
+      "state": "KS",
+      "workers": 35,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "03/20/2009",
+      "effective_date": "05/22/2009",
+      "state": "WA",
+      "workers": 710,
+      "city": "Puget Sound"
+    },
+    {
+      "date": "03/20/2009",
+      "effective_date": "03/20/2009",
+      "state": "WA",
+      "workers": 668,
+      "city": "Puget Sound"
+    },
+    {
+      "date": "02/25/2009",
+      "effective_date": "04/24/2009",
+      "state": "WA",
+      "workers": 781,
+      "city": "Puget Sound"
+    },
+    {
+      "date": "02/24/2009",
+      "effective_date": "02/24/2009",
+      "state": "KS",
+      "workers": 30,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "02/05/2009",
+      "effective_date": "03/20/2009",
+      "state": "WA",
+      "workers": 668,
+      "city": "Puget Sound"
+    },
+    {
+      "date": "01/19/2009",
+      "effective_date": "01/19/2009",
+      "state": "KS",
+      "workers": 22,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "11/24/2008",
+      "effective_date": "11/24/2008",
+      "state": "KS",
+      "workers": 37,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "01/24/2007",
+      "effective_date": "01/24/2007",
+      "state": "KS",
+      "workers": 54,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "11/21/2006",
+      "effective_date": "11/21/2006",
+      "state": "KS",
+      "workers": 34,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "08/21/2006",
+      "effective_date": "08/21/2006",
+      "state": "KS",
+      "workers": 118,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "04/18/2006",
+      "effective_date": "04/18/2006",
+      "state": "KS",
+      "workers": 313,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "01/23/2006",
+      "effective_date": "01/23/2006",
+      "state": "KS",
+      "workers": 82,
+      "city": "5 - Workforce Investment Area V"
+    },
+    {
+      "date": "12/16/2005",
+      "effective_date": "12/16/2005",
+      "state": "KS",
+      "workers": 12,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "11/11/2005",
+      "effective_date": "11/11/2005",
+      "state": "KS",
+      "workers": 258,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "09/16/2005",
+      "effective_date": "09/16/2005",
+      "state": "KS",
+      "workers": 1,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "08/19/2005",
+      "effective_date": "08/19/2005",
+      "state": "KS",
+      "workers": 4,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "06/24/2005",
+      "effective_date": "06/24/2005",
+      "state": "KS",
+      "workers": 28,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "06/17/2005",
+      "effective_date": "06/17/2005",
+      "state": "KS",
+      "workers": 3,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "06/07/2005",
+      "effective_date": "06/07/2005",
+      "state": "KS",
+      "workers": 74,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "06/01/2005",
+      "effective_date": "06/01/2005",
+      "state": "OK",
+      "workers": 65,
+      "city": null
+    },
+    {
+      "date": "05/27/2005",
+      "effective_date": "05/27/2005",
+      "state": "KS",
+      "workers": 3,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "05/20/2005",
+      "effective_date": "05/20/2005",
+      "state": "KS",
+      "workers": 25,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "05/13/2005",
+      "effective_date": "05/13/2005",
+      "state": "KS",
+      "workers": 18,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "05/06/2005",
+      "effective_date": "05/06/2005",
+      "state": "KS",
+      "workers": 19,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "04/29/2005",
+      "effective_date": "04/29/2005",
+      "state": "KS",
+      "workers": 27,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "04/22/2005",
+      "effective_date": "04/22/2005",
+      "state": "KS",
+      "workers": 19,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "04/15/2005",
+      "effective_date": "04/15/2005",
+      "state": "KS",
+      "workers": 20,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "04/08/2005",
+      "effective_date": "04/08/2005",
+      "state": "KS",
+      "workers": 17,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "04/01/2005",
+      "effective_date": "04/01/2005",
+      "state": "KS",
+      "workers": 23,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "03/25/2005",
+      "effective_date": "03/25/2005",
+      "state": "KS",
+      "workers": 67,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "03/18/2005",
+      "effective_date": "03/18/2005",
+      "state": "KS",
+      "workers": 64,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "03/11/2005",
+      "effective_date": "03/11/2005",
+      "state": "KS",
+      "workers": 8116,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "10/08/2004",
+      "effective_date": "10/08/2004",
+      "state": "OK",
+      "workers": 15,
+      "city": null
+    },
+    {
+      "date": "06/18/2004",
+      "effective_date": "06/18/2004",
+      "state": "KS",
+      "workers": 84,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "05/21/2004",
+      "effective_date": "05/21/2004",
+      "state": "KS",
+      "workers": 29,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "04/16/2004",
+      "effective_date": "04/16/2004",
+      "state": "KS",
+      "workers": 27,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "02/20/2004",
+      "effective_date": "02/20/2004",
+      "state": "KS",
+      "workers": 37,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "12/19/2003",
+      "effective_date": "12/19/2003",
+      "state": "KS",
+      "workers": 62,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "11/21/2003",
+      "effective_date": "11/21/2003",
+      "state": "KS",
+      "workers": 12,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "10/24/2003",
+      "effective_date": "10/24/2003",
+      "state": "KS",
+      "workers": 76,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "10/10/2003",
+      "effective_date": "10/10/2003",
+      "state": "KS",
+      "workers": 9,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "09/19/2003",
+      "effective_date": "09/19/2003",
+      "state": "KS",
+      "workers": 2,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "08/22/2003",
+      "effective_date": "08/22/2003",
+      "state": "KS",
+      "workers": 66,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "08/05/2003",
+      "effective_date": "09/30/2003",
+      "state": "TX",
+      "workers": 450,
+      "city": "Kingsville"
+    },
+    {
+      "date": "07/21/2003",
+      "effective_date": "07/21/2003",
+      "state": "KS",
+      "workers": 25,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "06/23/2003",
+      "effective_date": "06/23/2003",
+      "state": "KS",
+      "workers": 41,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "06/23/2003",
+      "effective_date": "06/23/2003",
+      "state": "GA",
+      "workers": 59,
+      "city": "Macon"
+    },
+    {
+      "date": "05/23/2003",
+      "effective_date": "05/23/2003",
+      "state": "KS",
+      "workers": 69,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "04/21/2003",
+      "effective_date": "04/21/2003",
+      "state": "KS",
+      "workers": 43,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "03/24/2003",
+      "effective_date": "03/24/2003",
+      "state": "KS",
+      "workers": 26,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "02/17/2003",
+      "effective_date": "02/17/2003",
+      "state": "KS",
+      "workers": 16,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "01/20/2003",
+      "effective_date": "01/20/2003",
+      "state": "KS",
+      "workers": 47,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "01/13/2003",
+      "effective_date": "01/13/2003",
+      "state": "OK",
+      "workers": 52,
+      "city": null
+    },
+    {
+      "date": "12/19/2002",
+      "effective_date": "12/19/2002",
+      "state": "KS",
+      "workers": 17,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "11/25/2002",
+      "effective_date": "11/25/2002",
+      "state": "KS",
+      "workers": 9,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "10/07/2002",
+      "effective_date": "10/07/2002",
+      "state": "KS",
+      "workers": 71,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "09/23/2002",
+      "effective_date": "09/23/2002",
+      "state": "KS",
+      "workers": 110,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "09/03/2002",
+      "effective_date": "10/24/2002",
+      "state": "TX",
+      "workers": 52,
+      "city": "Irving"
+    },
+    {
+      "date": "08/26/2002",
+      "effective_date": "08/26/2002",
+      "state": "KS",
+      "workers": 23,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "08/09/2002",
+      "effective_date": "08/09/2002",
+      "state": "KS",
+      "workers": 137,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "07/22/2002",
+      "effective_date": "07/22/2002",
+      "state": "KS",
+      "workers": 70,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "07/22/2002",
+      "effective_date": "07/22/2002",
+      "state": "KS",
+      "workers": 70,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "07/19/2002",
+      "effective_date": "07/19/2002",
+      "state": "GA",
+      "workers": 93,
+      "city": "Macon"
+    },
+    {
+      "date": "06/24/2002",
+      "effective_date": "06/24/2002",
+      "state": "KS",
+      "workers": 81,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "06/10/2002",
+      "effective_date": "06/18/2002",
+      "state": "TX",
+      "workers": 27,
+      "city": "Irving"
+    },
+    {
+      "date": "04/22/2002",
+      "effective_date": "04/22/2002",
+      "state": "KS",
+      "workers": 652,
+      "city": "same"
+    },
+    {
+      "date": "04/11/2002",
+      "effective_date": "04/11/2002",
+      "state": "OK",
+      "workers": 65,
+      "city": null
+    },
+    {
+      "date": "04/08/2002",
+      "effective_date": "06/15/2002",
+      "state": "TX",
+      "workers": 162,
+      "city": "Irving"
+    },
+    {
+      "date": "03/21/2002",
+      "effective_date": "05/21/2002",
+      "state": "TX",
+      "workers": 150,
+      "city": "El Paso"
+    },
+    {
+      "date": "03/14/2002",
+      "effective_date": "03/14/2002",
+      "state": "OK",
+      "workers": 60,
+      "city": "08 - SouthernRegion"
+    },
+    {
+      "date": "01/15/2002",
+      "effective_date": "01/15/2002",
+      "state": "OK",
+      "workers": 65,
+      "city": null
+    },
+    {
+      "date": "12/07/2001",
+      "effective_date": "12/07/2001",
+      "state": "OK",
+      "workers": 63,
+      "city": null
+    },
+    {
+      "date": "11/15/2001",
+      "effective_date": "11/15/2001",
+      "state": "OK",
+      "workers": 47,
+      "city": null
+    },
+    {
+      "date": "10/08/2001",
+      "effective_date": "12/13/2001",
+      "state": "TX",
+      "workers": 140,
+      "city": "Irving"
+    },
+    {
+      "date": "03/29/2000",
+      "effective_date": "03/29/2000",
+      "state": "GA",
+      "workers": 122,
+      "city": "Macon"
+    },
+    {
+      "date": "03/29/2000",
+      "effective_date": "03/29/2000",
+      "state": "GA",
+      "workers": 58,
+      "city": "Macon"
+    },
+    {
+      "date": "01/17/2000",
+      "effective_date": "01/17/2000",
+      "state": "KS",
+      "workers": 59,
+      "city": "MacArthur and Oliver"
+    },
+    {
+      "date": "12/14/1999",
+      "effective_date": "12/14/1999",
+      "state": "KS",
+      "workers": 49,
+      "city": "MacArthur and Oliver"
+    },
+    {
+      "date": "10/05/1999",
+      "effective_date": "10/05/1999",
+      "state": "KS",
+      "workers": 285,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "09/03/1999",
+      "effective_date": "09/03/1999",
+      "state": "KS",
+      "workers": 428,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "07/12/1999",
+      "effective_date": "07/12/1999",
+      "state": "KS",
+      "workers": 309,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "06/14/1999",
+      "effective_date": "06/14/1999",
+      "state": "KS",
+      "workers": 585,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "01/26/1999",
+      "effective_date": "01/26/1999",
+      "state": "GA",
+      "workers": 825,
+      "city": "Duluth"
+    },
+    {
+      "date": "11/30/1998",
+      "effective_date": "11/30/1998",
+      "state": "KS",
+      "workers": 249,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "11/30/1998",
+      "effective_date": "11/30/1998",
+      "state": "KS",
+      "workers": 281,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "11/30/1998",
+      "effective_date": "11/30/1998",
+      "state": "KS",
+      "workers": 407,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "11/30/1998",
+      "effective_date": "11/30/1998",
+      "state": "KS",
+      "workers": 177,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "11/30/1998",
+      "effective_date": "11/30/1998",
+      "state": "KS",
+      "workers": 236,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "11/30/1998",
+      "effective_date": "11/30/1998",
+      "state": "KS",
+      "workers": 404,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "11/30/1998",
+      "effective_date": "11/30/1998",
+      "state": "KS",
+      "workers": 98,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "11/30/1998",
+      "effective_date": "11/30/1998",
+      "state": "KS",
+      "workers": 16,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "01/08/1991",
+      "effective_date": "05/01/1991",
+      "state": "IL",
+      "workers": 5,
+      "city": "PO BOX 516  ST. LOUIS, MO 63166-0516"
+    },
+    {
+      "date": "01/08/1991",
+      "effective_date": "01/01/1991",
+      "state": "IL",
+      "workers": 581,
+      "city": "PO BOX 516  ST. LOUIS, MO 63166-0516"
+    },
+    {
+      "date": "06/22/1990",
+      "effective_date": "10/01/1990",
+      "state": "IL",
+      "workers": 67,
+      "city": "PO BOX 516  ST. LOUIS, MO 63166-0516"
+    },
+    {
+      "date": "06/22/1990",
+      "effective_date": "09/01/1990",
+      "state": "IL",
+      "workers": 150,
+      "city": "PO BOX 516  ST. LOUIS, MO 63166-0516"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "north-alabama-works",
+      "name": "North Alabama Works",
+      "state": "AL"
+    },
+    {
+      "slug": "kern-inyo-mono-consortium-wib",
+      "name": "Kern, Inyo, Mono Consortium WIB",
+      "state": "CA"
+    },
+    {
+      "slug": "los-angeles-county-wib",
+      "name": "Los Angeles County WIB",
+      "state": "CA"
+    },
+    {
+      "slug": "orange-county-wib",
+      "name": "Orange County WIB",
+      "state": "CA"
+    },
+    {
+      "slug": "santa-barbara-county-wib",
+      "name": "Santa Barbara County WIB",
+      "state": "CA"
+    },
+    {
+      "slug": "ventura-county-wib",
+      "name": "Ventura County WIB",
+      "state": "CA"
+    },
+    {
+      "slug": "careersource-escarosa",
+      "name": "CareerSource Escarosa",
+      "state": "FL"
+    },
+    {
+      "slug": "careersource-okaloosa-walton",
+      "name": "CareerSource Okaloosa Walton",
+      "state": "FL"
+    },
+    {
+      "slug": "careersource-gulf-coast",
+      "name": "CareerSource Gulf Coast",
+      "state": "FL"
+    },
+    {
+      "slug": "careersource-northeast-florida",
+      "name": "CareerSource Northeast Florida",
+      "state": "FL"
+    },
+    {
+      "slug": "careersource-flagler-volusia",
+      "name": "CareerSource Flagler Volusia",
+      "state": "FL"
+    },
+    {
+      "slug": "careersource-brevard",
+      "name": "CareerSource Brevard",
+      "state": "FL"
+    },
+    {
+      "slug": "careersource-pinellas",
+      "name": "CareerSource Pinellas",
+      "state": "FL"
+    },
+    {
+      "slug": "careersource-tampa-bay",
+      "name": "CareerSource Tampa Bay",
+      "state": "FL"
+    },
+    {
+      "slug": "careersource-research-coast",
+      "name": "CareerSource Research Coast",
+      "state": "FL"
+    },
+    {
+      "slug": "careersource-broward",
+      "name": "CareerSource Broward",
+      "state": "FL"
+    },
+    {
+      "slug": "careersource-south-florida",
+      "name": "CareerSource South Florida",
+      "state": "FL"
+    },
+    {
+      "slug": "atlanta-regional-wib",
+      "name": "Atlanta Regional WIB",
+      "state": "GA"
+    },
+    {
+      "slug": "macon-bibb-wib",
+      "name": "Macon-Bibb WIB",
+      "state": "GA"
+    },
+    {
+      "slug": "portland-metro-wia",
+      "name": "Portland Metro WIA",
+      "state": "OR"
+    },
+    {
+      "slug": "delaware-county-wia",
+      "name": "Delaware County WIA",
+      "state": "PA"
+    },
+    {
+      "slug": "trident-wib",
+      "name": "Trident WIB",
+      "state": "SC"
+    },
+    {
+      "slug": "upper-rio-grande-wda",
+      "name": "Upper Rio Grande WDA",
+      "state": "TX"
+    },
+    {
+      "slug": "coastal-bend-wda",
+      "name": "Coastal Bend WDA",
+      "state": "TX"
+    }
+  ],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2007-10-17",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-07-220382",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000012927&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2006-08-22",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-06-177709",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000012927&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2005-01-19",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-05-008279",
+        "items": [
+          "2.05",
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities",
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000012927&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 3,
+    "itemCounts": {
+      "5.02": 1,
+      "2.05": 2,
+      "2.06": 1
+    },
+    "latestFilingDate": "2007-10-17",
+    "earliestFilingDate": "2005-01-19"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

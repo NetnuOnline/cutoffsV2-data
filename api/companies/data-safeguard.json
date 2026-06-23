@@ -1,0 +1,85 @@
+{
+  "slug": "data-safeguard",
+  "canonical_name": "Data Safeguard, Inc.",
+  "fein": "87-1382288",
+  "lca_filing_count": 7,
+  "lca_worker_positions": 7,
+  "warn_notice_count": 0,
+  "median_wage_usd": 105000.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 5,
+      "median_wage_usd": 95000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 181293.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 126818.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Product Development Analyst ",
+      "count": 3,
+      "median_wage_usd": 94000.0
+    },
+    {
+      "title": "software engineer ",
+      "count": 2,
+      "median_wage_usd": 112500.0
+    },
+    {
+      "title": "Director of Engineering",
+      "count": 2,
+      "median_wage_usd": 154055.5
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 3
+    },
+    {
+      "state": "NC",
+      "county": "ROWAN",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "county": "CABARRUS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 4
+    },
+    {
+      "state": "NC",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1111",
+    "soc_title": "Management Analysts",
+    "market_median_usd": 99000.0,
+    "employer_median_usd": 94000.0,
+    "gap_usd": -5000.0
+  }
+}

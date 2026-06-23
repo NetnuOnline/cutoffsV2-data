@@ -1,0 +1,77 @@
+{
+  "slug": "tensor-auto",
+  "canonical_name": "TENSOR AUTO INC.",
+  "fein": "81-3490792",
+  "lca_filing_count": 6,
+  "lca_worker_positions": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 161148.0,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 5,
+      "median_wage_usd": 172931.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 131934.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "IT System Administrator",
+      "count": 1,
+      "median_wage_usd": 131934.0
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "count": 1,
+      "median_wage_usd": 172931.0
+    },
+    {
+      "title": "Senior Embedded Software Engineer",
+      "count": 1,
+      "median_wage_usd": 199534.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 1,
+      "median_wage_usd": 187741.0
+    },
+    {
+      "title": "Embedded Software Engineer",
+      "count": 1,
+      "median_wage_usd": 149365.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 149365.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 6
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 172931.0,
+    "gap_usd": 42771.0
+  }
+}

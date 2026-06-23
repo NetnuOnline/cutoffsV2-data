@@ -1,0 +1,139 @@
+{
+  "slug": "allied-tube-and-conduit",
+  "canonical_name": "Allied Tube and Conduit Corporation",
+  "fein": "36-2425517",
+  "lca_filing_count": 8,
+  "warn_notice_count": 0,
+  "median_wage_usd": 110474.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 3,
+      "median_wage_usd": 110344.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 106500.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 106864.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 125730.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Automation Engineer",
+      "count": 2,
+      "median_wage_usd": 108734.0
+    },
+    {
+      "title": "Senior Business Analyst \u2013 JDE Sales Order Management",
+      "count": 1,
+      "median_wage_usd": 110344.0
+    },
+    {
+      "title": "Sr. Manager Product Management",
+      "count": 1,
+      "median_wage_usd": 140856.0
+    },
+    {
+      "title": "Senior Business Analyst - JDE Financial Management ",
+      "count": 1,
+      "median_wage_usd": 110344.0
+    },
+    {
+      "title": "Product Design Engineer",
+      "count": 1,
+      "median_wage_usd": 98000.0
+    },
+    {
+      "title": "Product Engineer",
+      "count": 1,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "title": "Integration Developer - TIBCO",
+      "count": 1,
+      "median_wage_usd": 140000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "county": "WILL",
+      "count": 2
+    },
+    {
+      "state": "PA",
+      "county": "PHILADELPHIA",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "county": "DUVAL",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 5
+    },
+    {
+      "state": "PA",
+      "count": 2
+    },
+    {
+      "state": "FL",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 7,
+    "continuing_denials": 0,
+    "total_approvals": 8,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 4,
+        "continuing_denials": 0,
+        "total_approvals": 5
+      }
+    ]
+  },
+  "lca_worker_positions": 8,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1211",
+    "soc_title": "Computer Systems Analysts",
+    "market_median_usd": 103800.0,
+    "employer_median_usd": 110344.0,
+    "gap_usd": 6544.0
+  }
+}

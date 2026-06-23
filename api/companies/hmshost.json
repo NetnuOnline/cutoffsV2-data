@@ -1,0 +1,55 @@
+{
+  "slug": "hmshost",
+  "canonical_name": "HMSHost Corporation",
+  "fein": "52-1938672",
+  "lca_filing_count": 4,
+  "lca_worker_positions": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 142500.0,
+  "by_fy": [
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 142500.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Sr. PS Programmer/Architect",
+      "count": 2,
+      "median_wage_usd": 142500.0
+    },
+    {
+      "title": "Senior Manager, HR Technology",
+      "count": 1,
+      "median_wage_usd": 145475.0
+    },
+    {
+      "title": "Senior Business Analyst \u201c Finance Systems",
+      "count": 1,
+      "median_wage_usd": 127234.0
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "MD",
+      "count": 3
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3021",
+    "soc_title": "Computer and Information Systems Managers",
+    "market_median_usd": 169510.0,
+    "employer_median_usd": 145475.0,
+    "gap_usd": -24035.0
+  }
+}

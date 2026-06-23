@@ -1,0 +1,58 @@
+{
+  "slug": "bartaco",
+  "canonical_name": "Bartaco",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 3,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "WI",
+      "count": 1
+    },
+    {
+      "state": "CO",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "04/02/2020",
+      "effective_date": "03/21/2020",
+      "state": "WI",
+      "workers": 67,
+      "city": "Madison"
+    },
+    {
+      "date": "04/01/2020",
+      "effective_date": "03/21/2020",
+      "state": "CO",
+      "workers": 53,
+      "city": "Boulder"
+    },
+    {
+      "date": "04/01/2020",
+      "effective_date": "03/21/2020",
+      "state": "VA",
+      "workers": 175,
+      "city": "Fairfax & Reston, VA"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "boulder-wib",
+      "name": "Boulder WIB",
+      "state": "CO"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

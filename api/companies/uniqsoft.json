@@ -1,0 +1,60 @@
+{
+  "slug": "uniqsoft",
+  "canonical_name": "Uniqsoft Inc.",
+  "fein": null,
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 132500.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 132500.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Mainframe Developer",
+      "count": 1,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "Business Intelligence Analyst",
+      "count": 1,
+      "median_wage_usd": 145000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MD",
+      "county": "BALTIMORE",
+      "count": 1
+    },
+    {
+      "state": "DC",
+      "county": "DISTRICT OF COLUMBIA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "DC",
+      "count": 1
+    },
+    {
+      "state": "MD",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Business Intelligence Analysts",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 145000.0,
+    "gap_usd": 36980.0
+  }
+}

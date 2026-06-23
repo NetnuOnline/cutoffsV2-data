@@ -1,0 +1,175 @@
+{
+  "slug": "petsmart",
+  "canonical_name": "PetSmart, Inc.",
+  "fein": "94-3024325",
+  "lca_filing_count": 35,
+  "lca_worker_positions": 35,
+  "warn_notice_count": 0,
+  "median_wage_usd": 129709.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 3,
+      "median_wage_usd": 137700.0
+    },
+    {
+      "fy": 2022,
+      "filings": 5,
+      "median_wage_usd": 124987.0
+    },
+    {
+      "fy": 2023,
+      "filings": 7,
+      "median_wage_usd": 102294.0
+    },
+    {
+      "fy": 2024,
+      "filings": 5,
+      "median_wage_usd": 124337.0
+    },
+    {
+      "fy": 2025,
+      "filings": 12,
+      "median_wage_usd": 136489.5
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 134514.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Sr. Software Engineer Integration",
+      "count": 3,
+      "median_wage_usd": 112000.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 3,
+      "median_wage_usd": 137571.0
+    },
+    {
+      "title": "Senior Data Engineer",
+      "count": 3,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "title": "QA Analyst Customer",
+      "count": 2,
+      "median_wage_usd": 81328.0
+    },
+    {
+      "title": "Senior Solutions Architect",
+      "count": 2,
+      "median_wage_usd": 157934.0
+    },
+    {
+      "title": "Big Data Engineer",
+      "count": 2,
+      "median_wage_usd": 113990.0
+    },
+    {
+      "title": "Sr. Software Engineer - Integration",
+      "count": 1,
+      "median_wage_usd": 124337.0
+    },
+    {
+      "title": "Sr. Software Engineer QA",
+      "count": 1,
+      "median_wage_usd": 102294.0
+    },
+    {
+      "title": "Sr. Software Engineer SAP",
+      "count": 1,
+      "median_wage_usd": 128877.0
+    },
+    {
+      "title": "Sr. Manager - Strategy & Business Analytics",
+      "count": 1,
+      "median_wage_usd": 170000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 14
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "county": "CHATHAM",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "AZ",
+      "count": 24
+    },
+    {
+      "state": "TX",
+      "count": 4
+    },
+    {
+      "state": "NC",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 130948.0,
+    "gap_usd": 788.0
+  }
+}

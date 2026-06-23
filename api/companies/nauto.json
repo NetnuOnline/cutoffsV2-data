@@ -1,0 +1,173 @@
+{
+  "slug": "nauto",
+  "canonical_name": "Nauto, Inc.",
+  "fein": "47-3272789",
+  "lca_filing_count": 9,
+  "warn_notice_count": 0,
+  "median_wage_usd": 167149.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 153713.0
+    },
+    {
+      "fy": 2022,
+      "filings": 5,
+      "median_wage_usd": 157477.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 183850.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 210000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Embedded Software Engineer",
+      "count": 2,
+      "median_wage_usd": 201470.5
+    },
+    {
+      "title": "Staff Software Engineer",
+      "count": 2,
+      "median_wage_usd": 183850.0
+    },
+    {
+      "title": "Backend Engineer",
+      "count": 1,
+      "median_wage_usd": 120578.0
+    },
+    {
+      "title": "Senior Embedded Algorithms Engineer",
+      "count": 1,
+      "median_wage_usd": 157477.0
+    },
+    {
+      "title": "Embedded Engineer",
+      "count": 1,
+      "median_wage_usd": 153713.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 145725.0
+    },
+    {
+      "title": "Deep Learning Engineer - Scene Understanding",
+      "count": 1,
+      "median_wage_usd": 167149.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 8
+    },
+    {
+      "state": "FL",
+      "county": "ORANGE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 8
+    },
+    {
+      "state": "FL",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 2,
+    "initial_denials": 0,
+    "continuing_approvals": 23,
+    "continuing_denials": 0,
+    "total_approvals": 25,
+    "by_fy": [
+      {
+        "fy": 2016,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2017,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 6,
+        "continuing_denials": 0,
+        "total_approvals": 6
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 8,
+        "continuing_denials": 0,
+        "total_approvals": 10
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 6,
+        "continuing_denials": 0,
+        "total_approvals": 6
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      }
+    ]
+  },
+  "lca_worker_positions": 8,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 188395.5,
+    "gap_usd": 58235.5
+  }
+}

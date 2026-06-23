@@ -1,0 +1,60 @@
+{
+  "slug": "surgeon-s-data-science-collective",
+  "canonical_name": "Surgeon's Data Science Collective, Inc.",
+  "fein": "88-1233001",
+  "lca_filing_count": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 180000.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 165000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 180000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Machine Learning Engineer",
+      "count": 2,
+      "median_wage_usd": 180000.0
+    },
+    {
+      "title": "Senior Machine Learning Engineer ",
+      "count": 1,
+      "median_wage_usd": 165000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "DC",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 180000.0,
+    "gap_usd": 71980.0
+  }
+}

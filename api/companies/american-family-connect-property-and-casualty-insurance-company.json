@@ -1,0 +1,86 @@
+{
+  "slug": "american-family-connect-property-and-casualty-insurance-company",
+  "canonical_name": "American Family Connect Property and Casualty Insurance Company",
+  "fein": null,
+  "lca_filing_count": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 109318.3,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 101009.15
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 117587.5
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 109318.3
+    },
+    {
+      "title": "Software Engineer \u2013 Java and Javascript",
+      "count": 1,
+      "median_wage_usd": 117587.5
+    },
+    {
+      "title": "Sr. Quality Assurance Analyst",
+      "count": 1,
+      "median_wage_usd": 92700.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "WI",
+      "county": "BROWN",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "WI",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 8,
+    "continuing_denials": 0,
+    "total_approvals": 9,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 4,
+        "continuing_denials": 0,
+        "total_approvals": 5
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 4,
+        "continuing_denials": 0,
+        "total_approvals": 4
+      }
+    ]
+  },
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 113452.9,
+    "gap_usd": -16707.1
+  }
+}

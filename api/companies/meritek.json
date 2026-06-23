@@ -1,0 +1,90 @@
+{
+  "slug": "meritek",
+  "canonical_name": "MERITEK, INC.",
+  "fein": "46-4795657",
+  "lca_filing_count": 8,
+  "lca_worker_positions": 8,
+  "warn_notice_count": 0,
+  "median_wage_usd": 82274.4,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 85280.0
+    },
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 89419.2
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 73195.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 79268.8,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Quality Analyst",
+      "count": 3,
+      "median_wage_usd": 89419.2
+    },
+    {
+      "title": "Business System Analyst",
+      "count": 2,
+      "median_wage_usd": 79268.8
+    },
+    {
+      "title": "Quality Assurance Analyst",
+      "count": 2,
+      "median_wage_usd": 73195.0
+    },
+    {
+      "title": "Software Quality Assurance Engineer",
+      "count": 1,
+      "median_wage_usd": 85280.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "OH",
+      "county": "FRANKLIN",
+      "count": 3
+    },
+    {
+      "state": "VA",
+      "county": "VIRGINIA BEACH CITY",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "VA",
+      "count": 3
+    },
+    {
+      "state": "OH",
+      "count": 3
+    },
+    {
+      "state": "MI",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Computer Occupations, All Other",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 79268.8,
+    "gap_usd": -38731.2
+  }
+}

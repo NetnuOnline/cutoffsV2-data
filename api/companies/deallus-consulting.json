@@ -1,0 +1,137 @@
+{
+  "slug": "deallus-consulting",
+  "canonical_name": "Deallus Consulting, Inc.",
+  "fein": null,
+  "lca_filing_count": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 130000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 85000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 140000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Consultant",
+      "count": 1,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "Manager",
+      "count": 1,
+      "median_wage_usd": 160000.0
+    },
+    {
+      "title": "Senior Consultant",
+      "count": 1,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "title": "Senior Associate",
+      "count": 1,
+      "median_wage_usd": 85000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 2
+    },
+    {
+      "state": "NY",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 4,
+    "initial_denials": 0,
+    "continuing_approvals": 4,
+    "continuing_denials": 0,
+    "total_approvals": 8,
+    "by_fy": [
+      {
+        "fy": 2014,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2016,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1111",
+    "soc_title": "Management Analysts",
+    "market_median_usd": 99000.0,
+    "employer_median_usd": 130000.0,
+    "gap_usd": 31000.0
+  }
+}

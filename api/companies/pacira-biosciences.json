@@ -1,0 +1,66 @@
+{
+  "slug": "pacira-biosciences",
+  "canonical_name": "Pacira BioSciences, Inc.",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 1,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "07/09/2025",
+      "effective_date": "09/07/2025",
+      "state": "CA",
+      "workers": 71,
+      "city": "10450 Science Center Dr  San Diego CA 92121"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2025-07-10",
+        "formType": "8-K",
+        "accessionNumber": "0001396814-25-000093",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001396814&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2017-06-29",
+        "formType": "8-K",
+        "accessionNumber": "0001396814-17-000018",
+        "items": [
+          "2.05",
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities",
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001396814&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 2,
+    "itemCounts": {
+      "2.05": 2,
+      "2.06": 1
+    },
+    "latestFilingDate": "2025-07-10",
+    "earliestFilingDate": "2017-06-29"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

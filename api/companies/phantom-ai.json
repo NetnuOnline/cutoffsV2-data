@@ -1,0 +1,97 @@
+{
+  "slug": "phantom-ai",
+  "canonical_name": "Phantom AI, Inc.",
+  "fein": "81-4481197",
+  "lca_filing_count": 8,
+  "lca_worker_positions": 8,
+  "warn_notice_count": 0,
+  "median_wage_usd": 162895.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 169562.0
+    },
+    {
+      "fy": 2022,
+      "filings": 3,
+      "median_wage_usd": 167710.0
+    },
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 107682.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 132142.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Data Engineer",
+      "count": 2,
+      "median_wage_usd": 107682.0
+    },
+    {
+      "title": "Staff Computer Vision Engineer",
+      "count": 1,
+      "median_wage_usd": 169562.0
+    },
+    {
+      "title": "Staff Camera System Engineer",
+      "count": 1,
+      "median_wage_usd": 214822.0
+    },
+    {
+      "title": "Senior Test & Validation Engineer",
+      "count": 1,
+      "median_wage_usd": 132142.0
+    },
+    {
+      "title": "Senior Computer Vision Engineer",
+      "count": 1,
+      "median_wage_usd": 167710.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 158080.0
+    },
+    {
+      "title": "VP of Product Strategy & Business Development",
+      "count": 1,
+      "median_wage_usd": 187741.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SAN MATEO",
+      "count": 4
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 8
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 107682.0,
+    "gap_usd": -338.0
+  }
+}

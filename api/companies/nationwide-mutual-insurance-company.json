@@ -1,0 +1,109 @@
+{
+  "slug": "nationwide-mutual-insurance-company",
+  "canonical_name": "Nationwide Mutual Insurance Company",
+  "fein": "31-4177100",
+  "lca_filing_count": 14,
+  "lca_worker_positions": 13,
+  "warn_notice_count": 0,
+  "median_wage_usd": 140026.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 102009.0
+    },
+    {
+      "fy": 2026,
+      "filings": 11,
+      "median_wage_usd": 140026.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Specialist, Software Engineer",
+      "count": 3,
+      "median_wage_usd": 112793.715
+    },
+    {
+      "title": "Consultant, Software Engineer",
+      "count": 3,
+      "median_wage_usd": 140026.0
+    },
+    {
+      "title": "Consultant, Product Architect",
+      "count": 2,
+      "median_wage_usd": 144504.5
+    },
+    {
+      "title": "Specialist, Technology Engineer",
+      "count": 1,
+      "median_wage_usd": 98000.0
+    },
+    {
+      "title": "Director, Risk Analytics Researcher",
+      "count": 1,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "title": "Manager, Software Engineering Product Manager",
+      "count": 1,
+      "median_wage_usd": 136406.0
+    },
+    {
+      "title": "Sr Consultant, Software Engineer",
+      "count": 1,
+      "median_wage_usd": 159151.55
+    },
+    {
+      "title": "Consultant, Agile Leader",
+      "count": 1,
+      "median_wage_usd": 135287.0
+    },
+    {
+      "title": "Consultant, Quality Engineer",
+      "count": 1,
+      "median_wage_usd": 133824.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "OH",
+      "county": "UNION",
+      "count": 2
+    },
+    {
+      "state": "OH",
+      "county": "FRANKLIN",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "OH",
+      "count": 8
+    },
+    {
+      "state": "AZ",
+      "count": 3
+    },
+    {
+      "state": "IA",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 140026.0,
+    "gap_usd": 9866.0
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "spire-hospitality",
+  "canonical_name": "SPIRE Hospitality",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 10,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "MI",
+      "count": 3
+    },
+    {
+      "state": "NM",
+      "count": 2
+    },
+    {
+      "state": "WA",
+      "count": 1
+    },
+    {
+      "state": "TN",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    },
+    {
+      "state": "OH",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "06/26/2020",
+      "effective_date": "07/01/2020",
+      "state": "NM",
+      "workers": 64,
+      "city": "Albuquerque"
+    },
+    {
+      "date": "06/26/2020",
+      "effective_date": "07/01/2020",
+      "state": "WA",
+      "workers": 187,
+      "city": "Lynnwood, Seattle"
+    },
+    {
+      "date": "04/09/2020",
+      "effective_date": "03/20/2020",
+      "state": "TN",
+      "workers": 70,
+      "city": "Davidson County"
+    },
+    {
+      "date": "04/06/2020",
+      "effective_date": "04/06/2020",
+      "state": "MI",
+      "workers": 65,
+      "city": "Livonia"
+    },
+    {
+      "date": "03/30/2020",
+      "effective_date": "03/20/2020",
+      "state": "NY",
+      "workers": 90,
+      "city": "Lake Placid"
+    },
+    {
+      "date": "03/26/2020",
+      "effective_date": "03/26/2020",
+      "state": "GA",
+      "workers": 71,
+      "city": "Atlanta"
+    },
+    {
+      "date": "03/25/2020",
+      "effective_date": "03/24/2020",
+      "state": "NM",
+      "workers": 50,
+      "city": "Albuquerque"
+    },
+    {
+      "date": "03/24/2020",
+      "effective_date": "07/01/2020",
+      "state": "OH",
+      "workers": 79,
+      "city": "Blue Ash/Hamilton"
+    },
+    {
+      "date": "03/20/2020",
+      "effective_date": "03/20/2020",
+      "state": "MI",
+      "workers": 65,
+      "city": "Livonia, Michigan"
+    },
+    {
+      "date": "03/20/2020",
+      "effective_date": "03/20/2020",
+      "state": "MI",
+      "workers": 95,
+      "city": "Grand Rapids, Michigan"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "central-area-wib-nm",
+      "name": "Central Area WIB",
+      "state": "NM"
+    },
+    {
+      "slug": "snohomish-county-wib",
+      "name": "Snohomish County WIB",
+      "state": "WA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

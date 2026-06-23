@@ -1,0 +1,62 @@
+{
+  "slug": "irwin-manufacturing-corporation",
+  "canonical_name": "Irwin Manufacturing Corporation",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 4,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 4
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "03/25/2005",
+      "effective_date": "03/25/2005",
+      "state": "GA",
+      "workers": 100,
+      "city": "Ocilla"
+    },
+    {
+      "date": "04/21/2000",
+      "effective_date": "04/21/2000",
+      "state": "GA",
+      "workers": 45,
+      "city": "Waycross"
+    },
+    {
+      "date": "11/10/1999",
+      "effective_date": "11/10/1999",
+      "state": "GA",
+      "workers": 75,
+      "city": "Fitzgerald"
+    },
+    {
+      "date": "09/05/1997",
+      "effective_date": "09/05/1997",
+      "state": "GA",
+      "workers": 100,
+      "city": "Alma"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "south-georgia-wib",
+      "name": "South Georgia WIB",
+      "state": "GA"
+    },
+    {
+      "slug": "southeast-georgia-wib",
+      "name": "Southeast Georgia WIB",
+      "state": "GA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

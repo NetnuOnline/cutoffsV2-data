@@ -1,0 +1,203 @@
+{
+  "slug": "city-national-bank",
+  "canonical_name": "City National Bank",
+  "fein": "95-1780067",
+  "lca_filing_count": 184,
+  "lca_worker_positions": 1743,
+  "warn_notice_count": 0,
+  "median_wage_usd": 130000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 26,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 37,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 34,
+      "median_wage_usd": 145000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 25,
+      "median_wage_usd": 118123.0
+    },
+    {
+      "fy": 2024,
+      "filings": 17,
+      "median_wage_usd": 127626.0
+    },
+    {
+      "fy": 2025,
+      "filings": 19,
+      "median_wage_usd": 137717.0
+    },
+    {
+      "fy": 2026,
+      "filings": 24,
+      "median_wage_usd": 117416.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Lead Software Engineer",
+      "count": 7,
+      "median_wage_usd": 147410.0
+    },
+    {
+      "title": "Database Senior Administrator",
+      "count": 7,
+      "median_wage_usd": 131560.0
+    },
+    {
+      "title": "Salesforce Developer Senior",
+      "count": 7,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "title": "Data Senior Engineer",
+      "count": 7,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "title": "Full Stack Senior Engineer",
+      "count": 6,
+      "median_wage_usd": 140181.5
+    },
+    {
+      "title": "Platform Senior Developer",
+      "count": 5,
+      "median_wage_usd": 121222.0
+    },
+    {
+      "title": "Solutions Architect",
+      "count": 5,
+      "median_wage_usd": 149760.0
+    },
+    {
+      "title": "Vice President, Application Senior Administrator",
+      "count": 4,
+      "median_wage_usd": 115554.5
+    },
+    {
+      "title": "AVP, Business Process Analyst",
+      "count": 4,
+      "median_wage_usd": 92114.0
+    },
+    {
+      "title": "Quality Senior Engineer",
+      "count": 3,
+      "median_wage_usd": 108971.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 83
+    },
+    {
+      "state": "NC",
+      "county": "WAKE",
+      "count": 7
+    },
+    {
+      "state": "CA",
+      "county": "SAN BERNARDINO",
+      "count": 6
+    },
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 5
+    },
+    {
+      "state": "CA",
+      "county": "ORANGE",
+      "count": 4
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 4
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 3
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 3
+    },
+    {
+      "state": "IL",
+      "county": "KANE",
+      "count": 2
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 121
+    },
+    {
+      "state": "TX",
+      "count": 17
+    },
+    {
+      "state": "NC",
+      "count": 13
+    },
+    {
+      "state": "IL",
+      "count": 5
+    },
+    {
+      "state": "GA",
+      "count": 5
+    },
+    {
+      "state": "MD",
+      "count": 3
+    },
+    {
+      "state": "FL",
+      "count": 3
+    },
+    {
+      "state": "NY",
+      "count": 3
+    },
+    {
+      "state": "WA",
+      "count": 3
+    },
+    {
+      "state": "AZ",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 147410.0,
+    "gap_usd": 17250.0
+  }
+}

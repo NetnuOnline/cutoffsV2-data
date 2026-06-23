@@ -1,0 +1,84 @@
+{
+  "slug": "lindenwood-university",
+  "canonical_name": "Lindenwood University",
+  "fein": "92-2596370",
+  "lca_filing_count": 4,
+  "warn_notice_count": 2,
+  "median_wage_usd": 75000.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 70000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 80000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 69000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Assistant Professor, Marketing",
+      "count": 2,
+      "median_wage_usd": 80000.0
+    },
+    {
+      "title": "Assistant Professor, Computer Science",
+      "count": 1,
+      "median_wage_usd": 69000.0
+    },
+    {
+      "title": "Assistant Professor, Instructional Design",
+      "count": 1,
+      "median_wage_usd": 70000.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MO",
+      "count": 4
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MO",
+      "county": "ST CHARLES",
+      "count": 4
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "03/20/2020",
+      "effective_date": "08/01/2020",
+      "state": "IL",
+      "workers": 6,
+      "city": "Belleville"
+    },
+    {
+      "date": "03/20/2020",
+      "effective_date": "05/01/2020",
+      "state": "IL",
+      "workers": 78,
+      "city": "Belleville"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "mid-america-wib",
+      "name": "Mid America WIB",
+      "state": "IL"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": []
+}

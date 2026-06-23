@@ -1,0 +1,104 @@
+{
+  "slug": "american-association-of-motor-vehicle-administrators",
+  "canonical_name": "American Association of Motor Vehicle Administrators",
+  "fein": "53-0172317",
+  "lca_filing_count": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 115000.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 107000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 122500.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Business Analyst",
+      "count": 1,
+      "median_wage_usd": 107000.0
+    },
+    {
+      "title": "Lead Software Engineer",
+      "count": 1,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 115000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NJ",
+      "county": "MIDDLESEX",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "county": "HALL",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 11,
+    "continuing_denials": 0,
+    "total_approvals": 11,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 7,
+        "continuing_denials": 0,
+        "total_approvals": 7
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 4,
+        "continuing_denials": 0,
+        "total_approvals": 4
+      }
+    ]
+  },
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 122500.0,
+    "gap_usd": -7660.0
+  }
+}

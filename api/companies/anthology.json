@@ -1,0 +1,110 @@
+{
+  "slug": "anthology",
+  "canonical_name": "Anthology, Inc.",
+  "fein": "65-0518155",
+  "lca_filing_count": 8,
+  "lca_worker_positions": 8,
+  "warn_notice_count": 0,
+  "median_wage_usd": 116758.11,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 100728.6
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 105951.03
+    },
+    {
+      "fy": 2025,
+      "filings": 4,
+      "median_wage_usd": 126945.07
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 115000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer, Sr I",
+      "count": 1,
+      "median_wage_usd": 128749.94
+    },
+    {
+      "title": "Staff Software Engineer",
+      "count": 1,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "title": "DevOps Engineer, Sr II",
+      "count": 1,
+      "median_wage_usd": 125140.2
+    },
+    {
+      "title": "Manager, Implementation Consulting",
+      "count": 1,
+      "median_wage_usd": 105000.0
+    },
+    {
+      "title": "Manager, IT Applications Support",
+      "count": 1,
+      "median_wage_usd": 108516.22
+    },
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 100728.6
+    },
+    {
+      "title": "Senior Cloud Engineer",
+      "count": 1,
+      "median_wage_usd": 105951.03
+    },
+    {
+      "title": "Sr Manager, Managed Services",
+      "count": 1,
+      "median_wage_usd": 132298.43
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "VA",
+      "county": "FAIRFAX",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "county": "PALM BEACH",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "FL",
+      "count": 6
+    },
+    {
+      "state": "IN",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 126874.97,
+    "gap_usd": -3285.03
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "slug": "radian-electric",
+  "canonical_name": "RADIAN ELECTRIC LLC",
+  "fein": "32-0467158",
+  "lca_filing_count": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 129709.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 110250.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 138854.5
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "FREE STACK ENGINEER (SOFTWARE DEVELOPMENT)",
+      "count": 1,
+      "median_wage_usd": 148000.0
+    },
+    {
+      "title": "DATA SCIENTIST",
+      "count": 1,
+      "median_wage_usd": 110250.0
+    },
+    {
+      "title": "Data Scientist",
+      "count": 1,
+      "median_wage_usd": 129709.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NC",
+      "county": "MECKLENBURG",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NC",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 119979.5,
+    "gap_usd": 11959.5
+  }
+}

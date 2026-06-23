@@ -1,0 +1,81 @@
+{
+  "slug": "leadec-corp",
+  "canonical_name": "Leadec Corp.",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 5,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "OH",
+      "count": 2
+    },
+    {
+      "state": "MO",
+      "count": 1
+    },
+    {
+      "state": "KY",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "06/03/2021",
+      "effective_date": "08/01/2021",
+      "state": "MO",
+      "workers": 146,
+      "city": "Wentzville"
+    },
+    {
+      "date": "09/02/2020",
+      "effective_date": "10/31/2020",
+      "state": "KY",
+      "workers": 293,
+      "city": "Jefferson County - Louisville"
+    },
+    {
+      "date": "07/20/2020",
+      "effective_date": "07/20/2020",
+      "state": "MI",
+      "workers": 50,
+      "city": "Romulus"
+    },
+    {
+      "date": "04/09/2019",
+      "effective_date": "05/03/2019",
+      "state": "OH",
+      "workers": 40,
+      "city": "Warren/Trumbull"
+    },
+    {
+      "date": "03/04/2019",
+      "effective_date": "04/01/2019",
+      "state": "OH",
+      "workers": 39,
+      "city": "Warren/Trumbull"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "c-greater-louisville-wib",
+      "name": "C Greater Louisville WIB",
+      "state": "KY"
+    },
+    {
+      "slug": "st-charles-county-region-wib",
+      "name": "St. Charles County Region WIB",
+      "state": "MO"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

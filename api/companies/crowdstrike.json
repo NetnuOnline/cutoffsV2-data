@@ -1,0 +1,203 @@
+{
+  "slug": "crowdstrike",
+  "canonical_name": "Crowdstrike, Inc.",
+  "fein": "45-3135639",
+  "lca_filing_count": 158,
+  "lca_worker_positions": 157,
+  "warn_notice_count": 0,
+  "median_wage_usd": 182852.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 10,
+      "median_wage_usd": 177500.0
+    },
+    {
+      "fy": 2021,
+      "filings": 17,
+      "median_wage_usd": 170000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 28,
+      "median_wage_usd": 188935.4
+    },
+    {
+      "fy": 2023,
+      "filings": 20,
+      "median_wage_usd": 185781.26
+    },
+    {
+      "fy": 2024,
+      "filings": 22,
+      "median_wage_usd": 170764.53
+    },
+    {
+      "fy": 2025,
+      "filings": 40,
+      "median_wage_usd": 193825.405
+    },
+    {
+      "fy": 2026,
+      "filings": 20,
+      "median_wage_usd": 188614.695,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Engineer",
+      "count": 16,
+      "median_wage_usd": 209000.0
+    },
+    {
+      "title": "Engineer III",
+      "count": 11,
+      "median_wage_usd": 180000.0
+    },
+    {
+      "title": "Engineer II",
+      "count": 6,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Senior Engineer II",
+      "count": 5,
+      "median_wage_usd": 233478.0
+    },
+    {
+      "title": "Manager, Engineering",
+      "count": 5,
+      "median_wage_usd": 208010.31
+    },
+    {
+      "title": "Senior Engineer - Cloud",
+      "count": 4,
+      "median_wage_usd": 203748.95500000002
+    },
+    {
+      "title": "Engineer III - Cloud",
+      "count": 4,
+      "median_wage_usd": 179088.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 3,
+      "median_wage_usd": 171000.0
+    },
+    {
+      "title": "Engineer III - Logistics",
+      "count": 3,
+      "median_wage_usd": 162369.0
+    },
+    {
+      "title": "Senior Manager, Engineering",
+      "count": 3,
+      "median_wage_usd": 245000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 41
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 14
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 7
+    },
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 7
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 4
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 4
+    },
+    {
+      "state": "CA",
+      "county": "SAN DIEGO",
+      "count": 4
+    },
+    {
+      "state": "CA",
+      "county": "ORANGE",
+      "count": 3
+    },
+    {
+      "state": "VA",
+      "county": "LOUDOUN",
+      "count": 3
+    },
+    {
+      "state": "VA",
+      "county": "FAIRFAX CITY",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 78
+    },
+    {
+      "state": "TX",
+      "count": 23
+    },
+    {
+      "state": "WA",
+      "count": 18
+    },
+    {
+      "state": "VA",
+      "count": 8
+    },
+    {
+      "state": "NY",
+      "count": 7
+    },
+    {
+      "state": "IL",
+      "count": 5
+    },
+    {
+      "state": "FL",
+      "count": 4
+    },
+    {
+      "state": "NC",
+      "count": 3
+    },
+    {
+      "state": "TN",
+      "count": 3
+    },
+    {
+      "state": "OR",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 194819.9,
+    "gap_usd": 64659.9
+  }
+}

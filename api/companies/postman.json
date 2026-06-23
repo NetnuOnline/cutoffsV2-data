@@ -1,0 +1,131 @@
+{
+  "slug": "postman",
+  "canonical_name": "Postman, Inc.",
+  "fein": "36-4819215",
+  "lca_filing_count": 23,
+  "lca_worker_positions": 23,
+  "warn_notice_count": 0,
+  "median_wage_usd": 187741.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 315000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 3,
+      "median_wage_usd": 183300.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 131685.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 151642.5
+    },
+    {
+      "fy": 2025,
+      "filings": 10,
+      "median_wage_usd": 226138.0
+    },
+    {
+      "fy": 2026,
+      "filings": 6,
+      "median_wage_usd": 187741.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Engineer",
+      "count": 5,
+      "median_wage_usd": 226138.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 3,
+      "median_wage_usd": 187741.0
+    },
+    {
+      "title": "Release Coordinator",
+      "count": 2,
+      "median_wage_usd": 149427.5
+    },
+    {
+      "title": "Technical Program Manager",
+      "count": 2,
+      "median_wage_usd": 158342.5
+    },
+    {
+      "title": "Solutions Architect",
+      "count": 1,
+      "median_wage_usd": 144144.0
+    },
+    {
+      "title": "Senior Engineering Manager, Growth",
+      "count": 1,
+      "median_wage_usd": 273915.0
+    },
+    {
+      "title": "Head of Intelligence, Product & Design",
+      "count": 1,
+      "median_wage_usd": 315000.0
+    },
+    {
+      "title": "Forward Deployed Operations Manager",
+      "count": 1,
+      "median_wage_usd": 185994.0
+    },
+    {
+      "title": "Sr. Data Analyst",
+      "count": 1,
+      "median_wage_usd": 133952.0
+    },
+    {
+      "title": "Senior Engineering Manager",
+      "count": 1,
+      "median_wage_usd": 274456.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 7
+    },
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 22
+    },
+    {
+      "state": "AZ",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 216226.5,
+    "gap_usd": 86066.5
+  }
+}

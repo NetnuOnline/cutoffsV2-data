@@ -1,0 +1,94 @@
+{
+  "slug": "wpx-energy",
+  "canonical_name": "WPX Energy",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 8,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "OK",
+      "count": 4
+    },
+    {
+      "state": "CO",
+      "count": 4
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "04/05/2021",
+      "effective_date": "04/05/2021",
+      "state": "OK",
+      "workers": 182,
+      "city": "Tulsa"
+    },
+    {
+      "date": "09/20/2016",
+      "effective_date": "09/20/2016",
+      "state": "OK",
+      "workers": 41,
+      "city": null
+    },
+    {
+      "date": "03/10/2016",
+      "effective_date": "03/10/2016",
+      "state": "CO",
+      "workers": 208,
+      "city": "Rural Resort"
+    },
+    {
+      "date": "02/10/2016",
+      "effective_date": "02/10/2016",
+      "state": "OK",
+      "workers": 95,
+      "city": "05 - CentralRegion"
+    },
+    {
+      "date": "02/10/2016",
+      "effective_date": "02/10/2016",
+      "state": "OK",
+      "workers": 95,
+      "city": "Oklahoma City"
+    },
+    {
+      "date": "11/30/2015",
+      "effective_date": "11/30/2015",
+      "state": "CO",
+      "workers": 2,
+      "city": "Denver"
+    },
+    {
+      "date": "07/09/2015",
+      "effective_date": "07/09/2015",
+      "state": "CO",
+      "workers": 91,
+      "city": "Denver"
+    },
+    {
+      "date": "03/02/2015",
+      "effective_date": "03/02/2015",
+      "state": "CO",
+      "workers": 142,
+      "city": "Denver"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "tulsa-wia",
+      "name": "Tulsa WIA",
+      "state": "OK"
+    },
+    {
+      "slug": "cleveland-wia",
+      "name": "Cleveland WIA",
+      "state": "OK"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

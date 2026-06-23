@@ -1,0 +1,123 @@
+{
+  "slug": "smb-it",
+  "canonical_name": "SMB IT, Inc.",
+  "fein": "81-5358975",
+  "lca_filing_count": 9,
+  "lca_worker_positions": 9,
+  "warn_notice_count": 0,
+  "median_wage_usd": 117972.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 112944.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 117972.0
+    },
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 108181.0
+    },
+    {
+      "fy": 2026,
+      "filings": 4,
+      "median_wage_usd": 142993.95,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Manager, Engineering",
+      "count": 2,
+      "median_wage_usd": 128693.95
+    },
+    {
+      "title": "Technology Operations Senior Engineer II",
+      "count": 1,
+      "median_wage_usd": 145101.0
+    },
+    {
+      "title": "Senior Engineer",
+      "count": 1,
+      "median_wage_usd": 146370.0
+    },
+    {
+      "title": "Senior AEM Developer",
+      "count": 1,
+      "median_wage_usd": 117972.0
+    },
+    {
+      "title": "DEVOPS SYSTEM ENGINEER II",
+      "count": 1,
+      "median_wage_usd": 112944.0
+    },
+    {
+      "title": "Senior Database Administrator",
+      "count": 1,
+      "median_wage_usd": 108181.0
+    },
+    {
+      "title": "Technical Quality Assurance Analyst III",
+      "count": 1,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "title": "Senior Manager, Technology Project Management",
+      "count": 1,
+      "median_wage_usd": 91270.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IN",
+      "county": "MARION",
+      "count": 3
+    },
+    {
+      "state": "DE",
+      "county": "NEW CASTLE",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IN",
+      "count": 4
+    },
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "MD",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "count": 1
+    },
+    {
+      "state": "DE",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 129429.45,
+    "gap_usd": -730.55
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "slug": "the-vanguard-group",
+  "canonical_name": "The Vanguard Group, Inc.",
+  "fein": "23-1945930",
+  "lca_filing_count": 379,
+  "lca_worker_positions": 360,
+  "warn_notice_count": 0,
+  "median_wage_usd": 138710.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 28,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 64,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 61,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 51,
+      "median_wage_usd": 141000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 62,
+      "median_wage_usd": 138513.475
+    },
+    {
+      "fy": 2025,
+      "filings": 49,
+      "median_wage_usd": 152580.0
+    },
+    {
+      "fy": 2026,
+      "filings": 45,
+      "median_wage_usd": 148514.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Application Engineer III",
+      "count": 69,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "title": "Data Analyst, Specialist",
+      "count": 22,
+      "median_wage_usd": 133210.0
+    },
+    {
+      "title": "Data Engineer, Specialist",
+      "count": 22,
+      "median_wage_usd": 137198.2
+    },
+    {
+      "title": "Cloud Security Engineer, Specialist",
+      "count": 10,
+      "median_wage_usd": 144000.0
+    },
+    {
+      "title": "Developer III",
+      "count": 9,
+      "median_wage_usd": 124883.0
+    },
+    {
+      "title": "Application Engineering Technical Lead - II",
+      "count": 8,
+      "median_wage_usd": 167053.5
+    },
+    {
+      "title": "Cloud Engineer, Specialist",
+      "count": 8,
+      "median_wage_usd": 139275.0
+    },
+    {
+      "title": "Application Engineering Technical Lead II",
+      "count": 7,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "title": "Senior Data Engineer",
+      "count": 7,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Application Engineer - III",
+      "count": 7,
+      "median_wage_usd": 144599.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "PA",
+      "county": "CHESTER",
+      "count": 217
+    },
+    {
+      "state": "NC",
+      "county": "MECKLENBURG",
+      "count": 34
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 24
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 2
+    },
+    {
+      "state": "PA",
+      "county": "DELAWARE",
+      "count": 2
+    },
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "county": "KENT",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "county": "PHILADELPHIA",
+      "count": 1
+    },
+    {
+      "state": "KS",
+      "county": "JOHNSON",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "county": "UNION",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "PA",
+      "count": 279
+    },
+    {
+      "state": "NC",
+      "count": 48
+    },
+    {
+      "state": "TX",
+      "count": 46
+    },
+    {
+      "state": "AZ",
+      "count": 2
+    },
+    {
+      "state": "MI",
+      "count": 1
+    },
+    {
+      "state": "SC",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "count": 1
+    },
+    {
+      "state": "KS",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 146078.0,
+    "gap_usd": 15918.0
+  }
+}

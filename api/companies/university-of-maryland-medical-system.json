@@ -1,0 +1,146 @@
+{
+  "slug": "university-of-maryland-medical-system",
+  "canonical_name": "University of Maryland Medical System Corporation",
+  "fein": "52-1362793",
+  "lca_filing_count": 17,
+  "lca_worker_positions": 18,
+  "warn_notice_count": 0,
+  "median_wage_usd": 115000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 154294.0
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 72000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 60000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 5,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 102500.0
+    },
+    {
+      "fy": 2026,
+      "filings": 4,
+      "median_wage_usd": 115000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Supervisor, Clinical Engineering Service Lines",
+      "count": 3,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "Data Engineer",
+      "count": 2,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "Healthcare Data Scientist",
+      "count": 2,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Data Integration Developer",
+      "count": 1,
+      "median_wage_usd": 103000.0
+    },
+    {
+      "title": "HR Data Analyst",
+      "count": 1,
+      "median_wage_usd": 72000.0
+    },
+    {
+      "title": "Senior Integration Programmer",
+      "count": 1,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "Senior Data Engineer",
+      "count": 1,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "title": "Business Intelligence Developer",
+      "count": 1,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "title": "Director of Medical Technology Strategy and Equipment Planni",
+      "count": 1,
+      "median_wage_usd": 154294.0
+    },
+    {
+      "title": "Revenue Integrity Data Analyst",
+      "count": 1,
+      "median_wage_usd": 65000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MD",
+      "county": "ANNE ARUNDEL",
+      "count": 7
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 1
+    },
+    {
+      "state": "MD",
+      "county": "BALTIMORE CITY",
+      "count": 1
+    },
+    {
+      "state": "MD",
+      "county": "MONTGOMERY",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MD",
+      "count": 15
+    },
+    {
+      "state": "TX",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Clinical Data Managers",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 125000.0,
+    "gap_usd": 16980.0
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "slug": "credit-com-holdings",
+  "canonical_name": "Credit.com Holdings, LLC",
+  "fein": "93-3528063",
+  "lca_filing_count": 4,
+  "lca_worker_positions": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 142309.21,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 132368.42
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 176125.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 132368.42,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Assistant Director of Software Development",
+      "count": 2,
+      "median_wage_usd": 132368.42
+    },
+    {
+      "title": "Staff AI/ML Engineer",
+      "count": 1,
+      "median_wage_usd": 200000.0
+    },
+    {
+      "title": "Assistant Director of Software Delivery Systems/Sr Java Dev",
+      "count": 1,
+      "median_wage_usd": 152250.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "UT",
+      "county": "SALT LAKE",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "UT",
+      "count": 4
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 142309.21,
+    "gap_usd": 12149.21
+  }
+}

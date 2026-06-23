@@ -1,0 +1,95 @@
+{
+  "slug": "root",
+  "canonical_name": "Root Inc.",
+  "fein": null,
+  "lca_filing_count": 1,
+  "warn_notice_count": 0,
+  "median_wage_usd": 96304.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 96304.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Consultant, Healthcare",
+      "count": 1,
+      "median_wage_usd": 96304.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 14,
+    "initial_denials": 1,
+    "continuing_approvals": 16,
+    "continuing_denials": 0,
+    "total_approvals": 30,
+    "by_fy": [
+      {
+        "fy": 2014,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2016,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 5,
+        "initial_denials": 1,
+        "continuing_approvals": 5,
+        "continuing_denials": 0,
+        "total_approvals": 10
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 9,
+        "initial_denials": 0,
+        "continuing_approvals": 11,
+        "continuing_denials": 0,
+        "total_approvals": 20
+      }
+    ]
+  },
+  "lca_worker_positions": 1,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1111",
+    "soc_title": "Management Analysts",
+    "market_median_usd": 99000.0,
+    "employer_median_usd": 96304.0,
+    "gap_usd": -2696.0
+  }
+}

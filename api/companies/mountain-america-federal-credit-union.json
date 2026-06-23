@@ -1,0 +1,77 @@
+{
+  "slug": "mountain-america-federal-credit-union",
+  "canonical_name": "Mountain America Federal Credit Union",
+  "fein": "87-0172956",
+  "lca_filing_count": 5,
+  "lca_worker_positions": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 142000.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 142000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 140525.16
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 147500.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Quality Engineer",
+      "count": 2,
+      "median_wage_usd": 123557.0
+    },
+    {
+      "title": "Senior Disaster Recovery Engineer",
+      "count": 1,
+      "median_wage_usd": 142000.0
+    },
+    {
+      "title": "Software Quality Engineering Manager",
+      "count": 1,
+      "median_wage_usd": 147500.0
+    },
+    {
+      "title": "Data Architecture Manager",
+      "count": 1,
+      "median_wage_usd": 148936.32
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "UT",
+      "county": "SALT LAKE",
+      "count": 4
+    }
+  ],
+  "top_states": [
+    {
+      "state": "UT",
+      "count": 5
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3021",
+    "soc_title": "Computer and Information Systems Managers",
+    "market_median_usd": 169510.0,
+    "employer_median_usd": 148218.16,
+    "gap_usd": -21291.84
+  }
+}

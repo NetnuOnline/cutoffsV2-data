@@ -1,0 +1,43 @@
+{
+  "slug": "beaumont-health",
+  "canonical_name": "Beaumont Health",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "MI",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/23/2020",
+      "state": "MI",
+      "workers": 2900,
+      "city": "Southfield"
+    },
+    {
+      "date": "04/17/2020",
+      "effective_date": "04/17/2020",
+      "state": "MI",
+      "workers": 2900,
+      "city": "Dearborn, Michigan; Farmington Hills, Michigan; Grosse Pointe, Michigan; Royal Oak, Michigan; Southfield, Michigan; Taylor, Michigan; Trenton, Michigan; Troy, Michigan; and Wayne, Michigan"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "oakland-county-employment-and-training-division",
+      "name": "Oakland County Employment and Training Division",
+      "state": "MI"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

@@ -1,0 +1,62 @@
+{
+  "slug": "dlh",
+  "canonical_name": "DLH Corp",
+  "fein": "52-2247327",
+  "lca_filing_count": 3,
+  "lca_worker_positions": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 135033.6,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 144860.8
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 133536.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior DevOps Engineer",
+      "count": 1,
+      "median_wage_usd": 154688.0
+    },
+    {
+      "title": "System Administrator, Senior",
+      "count": 1,
+      "median_wage_usd": 135033.6
+    },
+    {
+      "title": ".Net, C, SharePoint Developer (Full Stack Developer)",
+      "count": 1,
+      "median_wage_usd": 133536.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MD",
+      "county": "MONTGOMERY",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MD",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 144112.0,
+    "gap_usd": 13952.0
+  }
+}

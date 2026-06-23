@@ -1,0 +1,267 @@
+{
+  "slug": "alphatec-spine",
+  "canonical_name": "Alphatec Spine Inc.",
+  "fein": null,
+  "lca_filing_count": 5,
+  "warn_notice_count": 1,
+  "median_wage_usd": 130000.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 90000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 130000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Network Engineer ",
+      "count": 1,
+      "median_wage_usd": 90000.0
+    },
+    {
+      "title": "Senior Regulatory Affairs Specialist",
+      "count": 1,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Data Scientist",
+      "count": 1,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Design Engineer-Advanced Technology",
+      "count": 1,
+      "median_wage_usd": 80000.0
+    },
+    {
+      "title": "Senior Software Engineer ",
+      "count": 1,
+      "median_wage_usd": 135000.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 5
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SAN DIEGO",
+      "count": 5
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "07/02/2015",
+      "effective_date": "07/06/2015",
+      "state": "CA",
+      "workers": 99,
+      "city": "Carlsbad"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2017-06-22",
+        "formType": "8-K/A",
+        "accessionNumber": "0001193125-17-210630",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001350653&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2015-02-26",
+        "formType": "8-K",
+        "accessionNumber": "0001350653-15-000003",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001350653&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2014-04-30",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-14-172633",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001350653&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2013-09-20",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-13-373394",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001350653&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2009-09-30",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-09-201252",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001350653&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2008-05-09",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-08-109904",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001350653&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 6,
+    "itemCounts": {
+      "5.02": 5,
+      "2.05": 1
+    },
+    "latestFilingDate": "2017-06-22",
+    "earliestFilingDate": "2008-05-09"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 7,
+    "continuing_denials": 0,
+    "total_approvals": 8,
+    "by_fy": [
+      {
+        "fy": 2010,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2011,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2012,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2013,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2015,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 5,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 135000.0,
+    "gap_usd": 4840.0
+  }
+}

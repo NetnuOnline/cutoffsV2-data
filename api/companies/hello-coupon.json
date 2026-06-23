@@ -1,0 +1,54 @@
+{
+  "slug": "hello-coupon",
+  "canonical_name": "Hello Coupon Inc.",
+  "fein": "88-2173050",
+  "lca_filing_count": 2,
+  "lca_worker_positions": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 91509.6,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 58219.2
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 124800.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Operations Research Analyst",
+      "count": 1,
+      "median_wage_usd": 58219.2
+    },
+    {
+      "title": "Data Scientist",
+      "count": 1,
+      "median_wage_usd": 124800.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MA",
+      "county": "BOSTON CITY",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": []
+}

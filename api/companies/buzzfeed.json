@@ -1,0 +1,298 @@
+{
+  "slug": "buzzfeed",
+  "canonical_name": "BUZZFEED, INC.",
+  "fein": null,
+  "lca_filing_count": 3,
+  "warn_notice_count": 9,
+  "median_wage_usd": 95000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 113000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 88257.5
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "DIRECTOR, CONTENT & STRATEGY",
+      "count": 1,
+      "median_wage_usd": 113000.0
+    },
+    {
+      "title": "Business Analyst, Data Technology ",
+      "count": 1,
+      "median_wage_usd": 95000.0
+    },
+    {
+      "title": "Video Producer ",
+      "count": 1,
+      "median_wage_usd": 81515.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "05/09/2023",
+      "effective_date": "08/03/2023",
+      "state": "NY",
+      "workers": 36,
+      "city": "New York"
+    },
+    {
+      "date": "05/05/2023",
+      "effective_date": "08/03/2023",
+      "state": "NY",
+      "workers": 36,
+      "city": "New York"
+    },
+    {
+      "date": "05/05/2023",
+      "effective_date": "08/03/2023",
+      "state": "NY",
+      "workers": 36,
+      "city": null
+    },
+    {
+      "date": "05/05/2023",
+      "effective_date": "08/03/2023",
+      "state": "NY",
+      "workers": 36,
+      "city": "New York"
+    },
+    {
+      "date": "12/06/2022",
+      "effective_date": "02/04/2023",
+      "state": "CA",
+      "workers": 54,
+      "city": "Los Angeles"
+    },
+    {
+      "date": "01/29/2019",
+      "effective_date": "03/31/2019",
+      "state": "CA",
+      "workers": 3,
+      "city": "San Francisco"
+    },
+    {
+      "date": "01/29/2019",
+      "effective_date": "03/31/2019",
+      "state": "CA",
+      "workers": 76,
+      "city": "Los Angeles"
+    },
+    {
+      "date": "11/29/2017",
+      "effective_date": "01/29/2018",
+      "state": "CA",
+      "workers": 3,
+      "city": "San Francisco"
+    },
+    {
+      "date": "11/29/2017",
+      "effective_date": "01/29/2018",
+      "state": "CA",
+      "workers": 69,
+      "city": "Los Angeles"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2025-02-12",
+        "formType": "8-K",
+        "accessionNumber": "0001828972-25-000020",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001828972&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2024-02-21",
+        "formType": "8-K",
+        "accessionNumber": "0001828972-24-000015",
+        "items": [
+          "2.05",
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities",
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001828972&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2023-04-20",
+        "formType": "8-K",
+        "accessionNumber": "0001828972-23-000062",
+        "items": [
+          "2.05",
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities",
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001828972&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2022-12-06",
+        "formType": "8-K",
+        "accessionNumber": "0001104659-22-124791",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001828972&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 4,
+    "itemCounts": {
+      "2.05": 4,
+      "5.02": 2
+    },
+    "latestFilingDate": "2025-02-12",
+    "earliestFilingDate": "2022-12-06"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 6,
+    "initial_denials": 1,
+    "continuing_approvals": 7,
+    "continuing_denials": 0,
+    "total_approvals": 13,
+    "by_fy": [
+      {
+        "fy": 2011,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2012,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2013,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2014,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2015,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2016,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2017,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 4
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 2,
+        "initial_denials": 1,
+        "continuing_approvals": 4,
+        "continuing_denials": 0,
+        "total_approvals": 6
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      }
+    ]
+  },
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": []
+}

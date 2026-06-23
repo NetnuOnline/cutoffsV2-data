@@ -1,0 +1,150 @@
+{
+  "slug": "helmerich-payne",
+  "canonical_name": "Helmerich & Payne Inc.",
+  "fein": null,
+  "lca_filing_count": 1,
+  "warn_notice_count": 4,
+  "median_wage_usd": 110000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 110000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Electromagnetism Engineer",
+      "count": 1,
+      "median_wage_usd": 110000.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CO",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CO",
+      "county": "DENVER",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "04/19/2016",
+      "effective_date": "05/01/2016",
+      "state": "LA",
+      "workers": 50,
+      "city": "Tulsa"
+    },
+    {
+      "date": "02/23/2016",
+      "effective_date": "02/23/2016",
+      "state": "OK",
+      "workers": 40,
+      "city": null
+    },
+    {
+      "date": "02/08/2016",
+      "effective_date": "02/15/2016",
+      "state": "LA",
+      "workers": 50,
+      "city": "Tulsa"
+    },
+    {
+      "date": "02/27/2015",
+      "effective_date": "03/15/2015",
+      "state": "LA",
+      "workers": 76,
+      "city": "Green Canyon 65 (Bullwinkle) Platform Offshore Louisiana"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2004-10-19",
+        "formType": "8-K",
+        "accessionNumber": "0000950134-04-015252",
+        "items": [
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000046765&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 1,
+    "itemCounts": {
+      "2.06": 1
+    },
+    "latestFilingDate": "2004-10-19",
+    "earliestFilingDate": "2004-10-19"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 10,
+    "continuing_denials": 0,
+    "total_approvals": 10,
+    "by_fy": [
+      {
+        "fy": 2016,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 5,
+        "continuing_denials": 0,
+        "total_approvals": 5
+      }
+    ]
+  },
+  "lca_worker_positions": 1,
+  "top_socs": [],
+  "lca_periods": []
+}

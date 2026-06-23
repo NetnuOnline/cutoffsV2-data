@@ -1,0 +1,203 @@
+{
+  "slug": "sstech",
+  "canonical_name": "SSTech LLC",
+  "fein": "46-0626748",
+  "lca_filing_count": 49,
+  "lca_worker_positions": 47,
+  "warn_notice_count": 0,
+  "median_wage_usd": 102090.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 11,
+      "median_wage_usd": 97406.0
+    },
+    {
+      "fy": 2021,
+      "filings": 8,
+      "median_wage_usd": 103000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 6,
+      "median_wage_usd": 101052.0
+    },
+    {
+      "fy": 2023,
+      "filings": 6,
+      "median_wage_usd": 114500.0
+    },
+    {
+      "fy": 2024,
+      "filings": 4,
+      "median_wage_usd": 119875.0
+    },
+    {
+      "fy": 2025,
+      "filings": 6,
+      "median_wage_usd": 112673.5
+    },
+    {
+      "fy": 2026,
+      "filings": 6,
+      "median_wage_usd": 94725.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 33,
+      "median_wage_usd": 105980.0
+    },
+    {
+      "title": "Software Development Engineer and Tester",
+      "count": 3,
+      "median_wage_usd": 84100.0
+    },
+    {
+      "title": "UI Developer",
+      "count": 2,
+      "median_wage_usd": 95880.0
+    },
+    {
+      "title": "Software Development Engineer & Tester",
+      "count": 1,
+      "median_wage_usd": 82350.0
+    },
+    {
+      "title": "Software Development and Engineer Tester",
+      "count": 1,
+      "median_wage_usd": 84100.0
+    },
+    {
+      "title": "SAP ABAP Consultant",
+      "count": 1,
+      "median_wage_usd": 102000.0
+    },
+    {
+      "title": ".Net Developer",
+      "count": 1,
+      "median_wage_usd": 109600.0
+    },
+    {
+      "title": "Senior Data Scientist-AI",
+      "count": 1,
+      "median_wage_usd": 111970.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 107420.0
+    },
+    {
+      "title": "SAP ABAP Developer",
+      "count": 1,
+      "median_wage_usd": 118000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "DC",
+      "county": "DISTRICT OF COLUMBIA",
+      "count": 15
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 3
+    },
+    {
+      "state": "NJ",
+      "county": "MORRIS",
+      "count": 2
+    },
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 2
+    },
+    {
+      "state": "VA",
+      "county": "FAIRFAX",
+      "count": 2
+    },
+    {
+      "state": "VA",
+      "county": "HENRICO",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "county": "LOUDOUN",
+      "count": 1
+    },
+    {
+      "state": "MD",
+      "county": "BALTIMORE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "DC",
+      "count": 15
+    },
+    {
+      "state": "TX",
+      "count": 11
+    },
+    {
+      "state": "VA",
+      "count": 6
+    },
+    {
+      "state": "PA",
+      "count": 3
+    },
+    {
+      "state": "CO",
+      "count": 3
+    },
+    {
+      "state": "NJ",
+      "count": 2
+    },
+    {
+      "state": "AZ",
+      "count": 2
+    },
+    {
+      "state": "MD",
+      "count": 2
+    },
+    {
+      "state": "IN",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 110550.0,
+    "gap_usd": -19610.0
+  }
+}

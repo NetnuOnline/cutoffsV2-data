@@ -1,0 +1,86 @@
+{
+  "slug": "allied-aviation",
+  "canonical_name": "Allied Aviation",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 7,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 4
+    },
+    {
+      "state": "NY",
+      "count": 2
+    },
+    {
+      "state": "VA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "01/29/2025",
+      "effective_date": "03/31/2025",
+      "state": "TX",
+      "workers": 362,
+      "city": "Southlake"
+    },
+    {
+      "date": "05/29/2020",
+      "effective_date": "04/20/2020",
+      "state": "TX",
+      "workers": 50,
+      "city": "Southlake"
+    },
+    {
+      "date": "05/14/2020",
+      "effective_date": "04/20/2020",
+      "state": "TX",
+      "workers": 77,
+      "city": "Houston"
+    },
+    {
+      "date": "04/20/2020",
+      "effective_date": "04/01/2020",
+      "state": "NY",
+      "workers": 17,
+      "city": "Queens"
+    },
+    {
+      "date": "04/16/2020",
+      "effective_date": "04/16/2020",
+      "state": "NY",
+      "workers": 2,
+      "city": "New York"
+    },
+    {
+      "date": "04/13/2020",
+      "effective_date": "05/13/2020",
+      "state": "TX",
+      "workers": 6,
+      "city": "San Antonio"
+    },
+    {
+      "date": "04/10/2020",
+      "effective_date": "04/10/2020",
+      "state": "VA",
+      "workers": 7,
+      "city": "Arlington, VA"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "tarrant-county-wda",
+      "name": "Tarrant County WDA",
+      "state": "TX"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

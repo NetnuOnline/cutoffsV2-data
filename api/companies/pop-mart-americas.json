@@ -1,0 +1,62 @@
+{
+  "slug": "pop-mart-americas",
+  "canonical_name": "Pop Mart Americas Inc.",
+  "fein": "88-0672288",
+  "lca_filing_count": 4,
+  "lca_worker_positions": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 86441.5,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 64480.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 86441.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Retail Design Manager",
+      "count": 2,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "title": "Market Research Analyst",
+      "count": 1,
+      "median_wage_usd": 64480.0
+    },
+    {
+      "title": "IP Operations Specialist",
+      "count": 1,
+      "median_wage_usd": 72883.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 4
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1161",
+    "soc_title": "Market Research Analysts and Marketing Specialists",
+    "market_median_usd": 74680.0,
+    "employer_median_usd": 68681.5,
+    "gap_usd": -5998.5
+  }
+}

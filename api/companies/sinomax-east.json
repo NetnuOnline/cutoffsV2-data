@@ -1,0 +1,70 @@
+{
+  "slug": "sinomax-east",
+  "canonical_name": "Sinomax East, Inc.",
+  "fein": "47-5055461",
+  "lca_filing_count": 2,
+  "warn_notice_count": 2,
+  "median_wage_usd": 70075.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 69056.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 71094.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Materials Management Analyst",
+      "count": 2,
+      "median_wage_usd": 70075.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TN",
+      "count": 2
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TN",
+      "county": "RUTHERFORD",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "03/26/2026",
+      "effective_date": "03/26/2026",
+      "state": "AZ",
+      "workers": 89,
+      "city": "Houston"
+    },
+    {
+      "date": "03/26/2026",
+      "effective_date": "03/26/2026",
+      "state": "AZ",
+      "workers": 0,
+      "city": "Houston"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1111",
+    "soc_title": "Management Analysts",
+    "market_median_usd": 99000.0,
+    "employer_median_usd": 69056.0,
+    "gap_usd": -29944.0
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "slug": "promantus",
+  "canonical_name": "Promantus, Inc.",
+  "fein": "45-2756454",
+  "lca_filing_count": 47,
+  "lca_worker_positions": 49,
+  "warn_notice_count": 0,
+  "median_wage_usd": 107557.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 7,
+      "median_wage_usd": 98000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 4,
+      "median_wage_usd": 85550.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 14,
+      "median_wage_usd": 104000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 11,
+      "median_wage_usd": 109262.0
+    },
+    {
+      "fy": 2025,
+      "filings": 7,
+      "median_wage_usd": 113547.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 113547.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 41,
+      "median_wage_usd": 109262.0
+    },
+    {
+      "title": "Systems Analyst",
+      "count": 2,
+      "median_wage_usd": 85774.4
+    },
+    {
+      "title": "Computer Systems Analyst",
+      "count": 2,
+      "median_wage_usd": 84000.0
+    },
+    {
+      "title": "Data Scientist",
+      "count": 1,
+      "median_wage_usd": 91707.0
+    },
+    {
+      "title": "Data Engineer",
+      "count": 1,
+      "median_wage_usd": 107557.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NC",
+      "county": "WAKE",
+      "count": 25
+    },
+    {
+      "state": "VA",
+      "county": "FAIRFAX",
+      "count": 4
+    },
+    {
+      "state": "VA",
+      "county": "HENRICO",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 1
+    },
+    {
+      "state": "CT",
+      "county": "NEW FAIRFIELD",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "county": "DUPAGE",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "county": "COWETA",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "county": "BUCKS",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "BEXAR",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "county": "DURHAM",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NC",
+      "count": 33
+    },
+    {
+      "state": "VA",
+      "count": 6
+    },
+    {
+      "state": "TX",
+      "count": 4
+    },
+    {
+      "state": "CT",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 109262.0,
+    "gap_usd": -20898.0
+  }
+}

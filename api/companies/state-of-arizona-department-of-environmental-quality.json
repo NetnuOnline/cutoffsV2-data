@@ -1,0 +1,51 @@
+{
+  "slug": "state-of-arizona-department-of-environmental-quality",
+  "canonical_name": "State of Arizona Department of Environmental Quality",
+  "fein": null,
+  "lca_filing_count": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 118539.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 116105.5
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Application Developer",
+      "count": 2,
+      "median_wage_usd": 118539.0
+    },
+    {
+      "title": "Environmental Engineering Specialist III",
+      "count": 1,
+      "median_wage_usd": 113672.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "AZ",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Information Technology Project Managers",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 118539.0,
+    "gap_usd": 539.0
+  }
+}

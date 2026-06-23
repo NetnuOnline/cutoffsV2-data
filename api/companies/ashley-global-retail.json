@@ -1,0 +1,130 @@
+{
+  "slug": "ashley-global-retail",
+  "canonical_name": "Ashley Global Retail, LLC",
+  "fein": "35-2547585",
+  "lca_filing_count": 15,
+  "lca_worker_positions": 15,
+  "warn_notice_count": 0,
+  "median_wage_usd": 117166.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 67000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 3,
+      "median_wage_usd": 130687.5
+    },
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 117500.0
+    },
+    {
+      "fy": 2025,
+      "filings": 5,
+      "median_wage_usd": 117166.0
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 97568.03,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "IT Developer Lead",
+      "count": 2,
+      "median_wage_usd": 143385.0
+    },
+    {
+      "title": "IT Project Manager",
+      "count": 2,
+      "median_wage_usd": 129917.25
+    },
+    {
+      "title": "Senior Manager of Pricing, Promotion and Margin Management",
+      "count": 1,
+      "median_wage_usd": 80000.0
+    },
+    {
+      "title": "Senior BI Analyst",
+      "count": 1,
+      "median_wage_usd": 97568.03
+    },
+    {
+      "title": "Director Business Intelligence",
+      "count": 1,
+      "median_wage_usd": 141107.0
+    },
+    {
+      "title": "Senior Analyst, IT Data Analytics",
+      "count": 1,
+      "median_wage_usd": 93226.0
+    },
+    {
+      "title": "Technical Architect",
+      "count": 1,
+      "median_wage_usd": 171600.0
+    },
+    {
+      "title": "Sr QA Test Engineer",
+      "count": 1,
+      "median_wage_usd": 105000.0
+    },
+    {
+      "title": "Ecommerce Full Stack Developer",
+      "count": 1,
+      "median_wage_usd": 101200.0
+    },
+    {
+      "title": "Retail Financial Analyst",
+      "count": 1,
+      "median_wage_usd": 67000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "FL",
+      "county": "HILLSBOROUGH",
+      "count": 5
+    },
+    {
+      "state": "NC",
+      "county": "MECKLENBURG",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "FL",
+      "count": 12
+    },
+    {
+      "state": "NC",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Business Intelligence Analysts",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 97568.03,
+    "gap_usd": -10451.97
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "slug": "conocophillips-company",
+  "canonical_name": "ConocoPhillips Company",
+  "fein": "73-0400345",
+  "lca_filing_count": 26,
+  "lca_worker_positions": 25,
+  "warn_notice_count": 0,
+  "median_wage_usd": 129953.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 125681.0
+    },
+    {
+      "fy": 2021,
+      "filings": 9,
+      "median_wage_usd": 126485.0
+    },
+    {
+      "fy": 2022,
+      "filings": 3,
+      "median_wage_usd": 131840.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 132028.0
+    },
+    {
+      "fy": 2024,
+      "filings": 5,
+      "median_wage_usd": 140005.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 181480.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 277647.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Application Development Sr. Analyst",
+      "count": 3,
+      "median_wage_usd": 97680.0
+    },
+    {
+      "title": "Sr Cloud Engineer",
+      "count": 2,
+      "median_wage_usd": 131373.0
+    },
+    {
+      "title": "S&PM Consultant",
+      "count": 2,
+      "median_wage_usd": 178235.0
+    },
+    {
+      "title": "Integration Sr. Architect",
+      "count": 1,
+      "median_wage_usd": 112320.0
+    },
+    {
+      "title": "Integration Operations Sr. Analyst",
+      "count": 1,
+      "median_wage_usd": 123074.0
+    },
+    {
+      "title": "Sr. Reservoir & Analytics Dev Engineer",
+      "count": 1,
+      "median_wage_usd": 128000.0
+    },
+    {
+      "title": "Staff Geologist",
+      "count": 1,
+      "median_wage_usd": 182400.0
+    },
+    {
+      "title": "Global Operations Chief",
+      "count": 1,
+      "median_wage_usd": 369607.0
+    },
+    {
+      "title": "ERP Basis & Systems Analyst",
+      "count": 1,
+      "median_wage_usd": 87443.0
+    },
+    {
+      "title": "Cloud Analytics Platform Sr. Engineer",
+      "count": 1,
+      "median_wage_usd": 135760.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 12
+    },
+    {
+      "state": "OK",
+      "county": "WASHINGTON",
+      "count": 7
+    },
+    {
+      "state": "AK",
+      "county": "ANCHORAGE",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "WASHINGTON",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "MIDLAND",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 17
+    },
+    {
+      "state": "OK",
+      "count": 8
+    },
+    {
+      "state": "AK",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Computer Systems Engineers/Architects",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 134035.5,
+    "gap_usd": 16035.5
+  }
+}

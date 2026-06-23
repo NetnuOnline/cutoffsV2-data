@@ -1,0 +1,86 @@
+{
+  "slug": "watson-institute",
+  "canonical_name": "Watson Institute",
+  "fein": "46-1001797",
+  "lca_filing_count": 4,
+  "lca_worker_positions": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 67750.02,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 70000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 75670.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 60000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 65500.05,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Associate Instructional Specialist",
+      "count": 1,
+      "median_wage_usd": 65500.05
+    },
+    {
+      "title": "Programs Manager",
+      "count": 1,
+      "median_wage_usd": 70000.0
+    },
+    {
+      "title": "Search Manager",
+      "count": 1,
+      "median_wage_usd": 60000.0
+    },
+    {
+      "title": "Senior Search Manager",
+      "count": 1,
+      "median_wage_usd": 75670.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "FL",
+      "county": "PALM BEACH",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "county": "MIAMI-DADE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "FL",
+      "count": 3
+    },
+    {
+      "state": "CO",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1161",
+    "soc_title": "Market Research Analysts and Marketing Specialists",
+    "market_median_usd": 74680.0,
+    "employer_median_usd": 60000.0,
+    "gap_usd": -14680.0
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "slug": "fresno-community-hospital-medical-center",
+  "canonical_name": "Fresno Community Hospital & Medical Center",
+  "fein": "94-2864615",
+  "lca_filing_count": 6,
+  "lca_worker_positions": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 105092.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 189592.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 99694.4
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 97177.59999999999
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 105892.79999999999,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Business Intelligence Analyst",
+      "count": 2,
+      "median_wage_usd": 100495.19999999998
+    },
+    {
+      "title": "Data Developer ",
+      "count": 1,
+      "median_wage_usd": 104291.2
+    },
+    {
+      "title": "Occupational Therapist ",
+      "count": 1,
+      "median_wage_usd": 97177.59999999999
+    },
+    {
+      "title": "DIRECTOR, ANALYTICS-INFORMATICS",
+      "count": 1,
+      "median_wage_usd": 227864.0
+    },
+    {
+      "title": "Pharmacist",
+      "count": 1,
+      "median_wage_usd": 151320.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "FRESNO",
+      "count": 4
+    },
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 6
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Business Intelligence Analysts",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 100495.2,
+    "gap_usd": -7524.8
+  }
+}

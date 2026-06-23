@@ -1,0 +1,36 @@
+{
+  "slug": "yusa-corporation",
+  "canonical_name": "YUSA Corporation",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 1,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "OH",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "04/01/2020",
+      "effective_date": "03/30/2020",
+      "state": "OH",
+      "workers": 350,
+      "city": "Washington Court House/Fayette"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "west-ohio",
+      "name": "West Ohio",
+      "state": "OH"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

@@ -1,0 +1,95 @@
+{
+  "slug": "titan-tools",
+  "canonical_name": "TITAN TOOLS",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 1,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "01/01/2006",
+      "effective_date": "01/01/2006",
+      "state": "NJ",
+      "workers": 50,
+      "city": "OAKLAND"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2017-02-09",
+        "formType": "8-K",
+        "accessionNumber": "0001409171-17-000005",
+        "items": [
+          "2.05",
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities",
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001409171&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2015-03-09",
+        "formType": "8-K",
+        "accessionNumber": "0001409171-15-000006",
+        "items": [
+          "2.05",
+          "2.06",
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities",
+          "Material Impairments",
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001409171&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2014-04-10",
+        "formType": "8-K",
+        "accessionNumber": "0001445305-14-001308",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001409171&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2011-06-06",
+        "formType": "8-K",
+        "accessionNumber": "0001047469-11-005666",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001409171&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 4,
+    "itemCounts": {
+      "2.05": 3,
+      "2.06": 2,
+      "5.02": 2
+    },
+    "latestFilingDate": "2017-02-09",
+    "earliestFilingDate": "2011-06-06"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

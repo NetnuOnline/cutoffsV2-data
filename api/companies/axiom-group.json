@@ -1,0 +1,86 @@
+{
+  "slug": "axiom-group",
+  "canonical_name": "Axiom Group LLC",
+  "fein": "92-0348533",
+  "lca_filing_count": 22,
+  "warn_notice_count": 0,
+  "median_wage_usd": 104000.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 13,
+      "median_wage_usd": 104000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 8,
+      "median_wage_usd": 112320.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 108160.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 9,
+      "median_wage_usd": 104000.0
+    },
+    {
+      "title": "Senior Data Engineer",
+      "count": 3,
+      "median_wage_usd": 97760.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 3,
+      "median_wage_usd": 145600.0
+    },
+    {
+      "title": "Senior Java Developer",
+      "count": 3,
+      "median_wage_usd": 128960.0
+    },
+    {
+      "title": "Pega Architect",
+      "count": 2,
+      "median_wage_usd": 106080.0
+    },
+    {
+      "title": ".NET Developer",
+      "count": 1,
+      "median_wage_usd": 104000.0
+    },
+    {
+      "title": "Identity and Access Management Architect",
+      "count": 1,
+      "median_wage_usd": 116480.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IL",
+      "county": "DUPAGE",
+      "count": 21
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 22
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 22,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 106080.0,
+    "gap_usd": -24080.0
+  }
+}

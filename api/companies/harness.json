@@ -1,0 +1,182 @@
+{
+  "slug": "harness",
+  "canonical_name": "Harness, Inc.",
+  "fein": "81-0806251",
+  "lca_filing_count": 41,
+  "lca_worker_positions": 40,
+  "warn_notice_count": 0,
+  "median_wage_usd": 200850.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 7,
+      "median_wage_usd": 145725.0
+    },
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 193750.0
+    },
+    {
+      "fy": 2022,
+      "filings": 12,
+      "median_wage_usd": 215000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 192000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 5,
+      "median_wage_usd": 208000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 161000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 9,
+      "median_wage_usd": 220000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Staff Software Engineer",
+      "count": 7,
+      "median_wage_usd": 215000.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 4,
+      "median_wage_usd": 145725.0
+    },
+    {
+      "title": "Engineering Manager",
+      "count": 3,
+      "median_wage_usd": 230000.0
+    },
+    {
+      "title": "Sr. Mongo DB Administrator",
+      "count": 3,
+      "median_wage_usd": 193750.0
+    },
+    {
+      "title": "Senior Director, Engineering",
+      "count": 2,
+      "median_wage_usd": 295000.0
+    },
+    {
+      "title": "Staff Data Scientist",
+      "count": 2,
+      "median_wage_usd": 205000.0
+    },
+    {
+      "title": "Staff Customer Success Engineer",
+      "count": 2,
+      "median_wage_usd": 173000.0
+    },
+    {
+      "title": "Engineering Manager ",
+      "count": 1,
+      "median_wage_usd": 165027.0
+    },
+    {
+      "title": "Director, Engineering",
+      "count": 1,
+      "median_wage_usd": 325000.0
+    },
+    {
+      "title": "Senior Database Reliability Engineer",
+      "count": 1,
+      "median_wage_usd": 161200.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 11
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 11
+    },
+    {
+      "state": "CA",
+      "county": "PLACER",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "SONOMA",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "county": "WAKE",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "county": "WALTHAM CITY",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "county": "MALDEN CITY",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 34
+    },
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "MA",
+      "count": 2
+    },
+    {
+      "state": "NC",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 215000.0,
+    "gap_usd": 84840.0
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "slug": "panera-bread",
+  "canonical_name": "Panera Bread, LLC",
+  "fein": null,
+  "lca_filing_count": 2,
+  "warn_notice_count": 10,
+  "median_wage_usd": 120000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 120000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Java Developer",
+      "count": 1,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "Performance Engineer",
+      "count": 1,
+      "median_wage_usd": 120000.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MO",
+      "count": 2
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MO",
+      "county": "ST LOUIS",
+      "count": 2
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "01/26/2026",
+      "effective_date": "03/25/2026",
+      "state": "MA",
+      "workers": 92,
+      "city": "Franklin, MA"
+    },
+    {
+      "date": "05/13/2025",
+      "effective_date": "07/23/2025",
+      "state": "MI",
+      "workers": 66,
+      "city": "Romulus, Michigan"
+    },
+    {
+      "date": "01/24/2024",
+      "effective_date": "03/24/2024",
+      "state": "TX",
+      "workers": 84,
+      "city": "Houston"
+    },
+    {
+      "date": "03/31/2020",
+      "effective_date": "03/16/2020",
+      "state": "CT",
+      "workers": 0,
+      "city": "Lisbon, Mashantucket, Bristol, Farmington, Hartford, West Hartford"
+    },
+    {
+      "date": "01/01/2020",
+      "effective_date": "03/16/2020",
+      "state": "CT",
+      "workers": 0,
+      "city": "West Hartford"
+    },
+    {
+      "date": "01/01/2020",
+      "effective_date": "03/16/2020",
+      "state": "CT",
+      "workers": 0,
+      "city": "350 Trolley Line Blvd., P.O. Box 3777, Mashantucket, CT 06338"
+    },
+    {
+      "date": "01/01/2020",
+      "effective_date": "03/16/2020",
+      "state": "CT",
+      "workers": 0,
+      "city": "Jewett City"
+    },
+    {
+      "date": "01/01/2020",
+      "effective_date": "03/16/2020",
+      "state": "CT",
+      "workers": 0,
+      "city": "Hartford"
+    },
+    {
+      "date": "01/01/2020",
+      "effective_date": "03/16/2020",
+      "state": "CT",
+      "workers": 0,
+      "city": "Farmington"
+    },
+    {
+      "date": "01/01/2020",
+      "effective_date": "03/16/2020",
+      "state": "CT",
+      "workers": 0,
+      "city": "Bristol"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "eastern-wia-ct",
+      "name": "Eastern WIA",
+      "state": "CT"
+    },
+    {
+      "slug": "metro-southwest-wia",
+      "name": "Metro South/West WIA",
+      "state": "MA"
+    },
+    {
+      "slug": "detroit-workforce-development-department",
+      "name": "Detroit Workforce Development Department",
+      "state": "MI"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": []
+}

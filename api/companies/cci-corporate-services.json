@@ -1,0 +1,111 @@
+{
+  "slug": "cci-corporate-services",
+  "canonical_name": "CCI Corporate Services LLC",
+  "fein": "26-3564488",
+  "lca_filing_count": 29,
+  "lca_worker_positions": 29,
+  "warn_notice_count": 0,
+  "median_wage_usd": 154664.06,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 6,
+      "median_wage_usd": 158933.66
+    },
+    {
+      "fy": 2024,
+      "filings": 14,
+      "median_wage_usd": 143638.84
+    },
+    {
+      "fy": 2025,
+      "filings": 7,
+      "median_wage_usd": 157424.64
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 168468.87,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Software Engineer",
+      "count": 4,
+      "median_wage_usd": 145693.255
+    },
+    {
+      "title": "Lead Architect",
+      "count": 4,
+      "median_wage_usd": 167535.94
+    },
+    {
+      "title": "Lead Software Engineer",
+      "count": 3,
+      "median_wage_usd": 161838.75
+    },
+    {
+      "title": "Senior Network Engineer",
+      "count": 2,
+      "median_wage_usd": 143082.03
+    },
+    {
+      "title": "Systems Administration Manager",
+      "count": 2,
+      "median_wage_usd": 145311.075
+    },
+    {
+      "title": "Senior Systems Administrator",
+      "count": 2,
+      "median_wage_usd": 123002.14
+    },
+    {
+      "title": "Senior Manager, Enterprise Applications",
+      "count": 1,
+      "median_wage_usd": 213075.0
+    },
+    {
+      "title": "Lead Enterprise Applications Engineer",
+      "count": 1,
+      "median_wage_usd": 155000.0
+    },
+    {
+      "title": "Senior Lead Enterprise Applications Engineer",
+      "count": 1,
+      "median_wage_usd": 190967.02
+    },
+    {
+      "title": "Manager, Data Science",
+      "count": 1,
+      "median_wage_usd": 154664.06
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 20
+    }
+  ],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 28
+    },
+    {
+      "state": "VA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Information Technology Project Managers",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 159799.25,
+    "gap_usd": 41799.25
+  }
+}

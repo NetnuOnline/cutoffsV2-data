@@ -1,0 +1,82 @@
+{
+  "slug": "sky-tech-services",
+  "canonical_name": "Sky Tech Services LLC",
+  "fein": "83-2881299",
+  "lca_filing_count": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 105757.6,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 78478.4
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 105757.6
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 150250.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Technical Project Manager",
+      "count": 3,
+      "median_wage_usd": 90001.6
+    },
+    {
+      "title": "Test Engineer Sr. Advisor",
+      "count": 1,
+      "median_wage_usd": 150250.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NJ",
+      "county": "MIDDLESEX",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 3
+    },
+    {
+      "state": "MD",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 1,
+    "continuing_denials": 0,
+    "total_approvals": 1,
+    "by_fy": [
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Information Technology Project Managers",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 90001.6,
+    "gap_usd": -27998.4
+  }
+}

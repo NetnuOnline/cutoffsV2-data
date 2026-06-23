@@ -1,0 +1,180 @@
+{
+  "slug": "barclays-services",
+  "canonical_name": "Barclays Services LLC",
+  "fein": "51-0407971",
+  "lca_filing_count": 1005,
+  "lca_worker_positions": 996,
+  "warn_notice_count": 0,
+  "median_wage_usd": 150000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 89,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 159,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 139,
+      "median_wage_usd": 133390.0
+    },
+    {
+      "fy": 2023,
+      "filings": 116,
+      "median_wage_usd": 136500.0
+    },
+    {
+      "fy": 2024,
+      "filings": 150,
+      "median_wage_usd": 156950.0
+    },
+    {
+      "fy": 2025,
+      "filings": 148,
+      "median_wage_usd": 159900.0
+    },
+    {
+      "fy": 2026,
+      "filings": 195,
+      "median_wage_usd": 163680.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "AVP, Developer",
+      "count": 25,
+      "median_wage_usd": 127000.0
+    },
+    {
+      "title": "Full Stack Developer",
+      "count": 22,
+      "median_wage_usd": 144380.0
+    },
+    {
+      "title": "Developer",
+      "count": 11,
+      "median_wage_usd": 142000.0
+    },
+    {
+      "title": "Java Developer",
+      "count": 11,
+      "median_wage_usd": 133256.0
+    },
+    {
+      "title": "Software Engineer - AVP",
+      "count": 10,
+      "median_wage_usd": 161850.0
+    },
+    {
+      "title": "Application Developer",
+      "count": 9,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "title": "Infrastructure Engineer",
+      "count": 9,
+      "median_wage_usd": 119070.0
+    },
+    {
+      "title": "Data Engineer",
+      "count": 8,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "AVP, Senior Java Developer",
+      "count": 8,
+      "median_wage_usd": 157477.0
+    },
+    {
+      "title": "Senior Developer",
+      "count": 6,
+      "median_wage_usd": 176500.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NJ",
+      "county": "MORRIS",
+      "count": 480
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 157
+    },
+    {
+      "state": "DE",
+      "county": "NEW CASTLE",
+      "count": 34
+    },
+    {
+      "state": "NV",
+      "county": "CLARK",
+      "count": 5
+    },
+    {
+      "state": "NJ",
+      "county": "HUDSON",
+      "count": 4
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "county": "SOMERSET",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 720
+    },
+    {
+      "state": "NY",
+      "count": 210
+    },
+    {
+      "state": "DE",
+      "count": 61
+    },
+    {
+      "state": "NV",
+      "count": 8
+    },
+    {
+      "state": "TX",
+      "count": 3
+    },
+    {
+      "state": "FL",
+      "count": 1
+    },
+    {
+      "state": "AZ",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 157500.0,
+    "gap_usd": 27340.0
+  }
+}

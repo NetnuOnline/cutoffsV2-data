@@ -1,0 +1,141 @@
+{
+  "slug": "asana",
+  "canonical_name": "Asana, Inc.",
+  "fein": "26-3912448",
+  "lca_filing_count": 84,
+  "lca_worker_positions": 84,
+  "warn_notice_count": 0,
+  "median_wage_usd": 183580.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 10,
+      "median_wage_usd": 171000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 12,
+      "median_wage_usd": 171580.0
+    },
+    {
+      "fy": 2022,
+      "filings": 7,
+      "median_wage_usd": 182160.0
+    },
+    {
+      "fy": 2023,
+      "filings": 21,
+      "median_wage_usd": 202000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 19,
+      "median_wage_usd": 182000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 9,
+      "median_wage_usd": 195000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 6,
+      "median_wage_usd": 190975.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 17,
+      "median_wage_usd": 171000.0
+    },
+    {
+      "title": "Data Scientist ",
+      "count": 6,
+      "median_wage_usd": 194280.0
+    },
+    {
+      "title": "Product Designer",
+      "count": 5,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "title": "Software Engineer ",
+      "count": 5,
+      "median_wage_usd": 186560.0
+    },
+    {
+      "title": "Business Intelligence Developer",
+      "count": 5,
+      "median_wage_usd": 175000.0
+    },
+    {
+      "title": "Data Scientist",
+      "count": 4,
+      "median_wage_usd": 188000.0
+    },
+    {
+      "title": "Engineering Manager",
+      "count": 3,
+      "median_wage_usd": 220000.0
+    },
+    {
+      "title": "Product Designer ",
+      "count": 2,
+      "median_wage_usd": 207020.0
+    },
+    {
+      "title": "Product Owner",
+      "count": 2,
+      "median_wage_usd": 184000.0
+    },
+    {
+      "title": "Strategic Accounting Executive ",
+      "count": 1,
+      "median_wage_usd": 198700.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 59
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 7
+    },
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 2
+    },
+    {
+      "state": "NY",
+      "county": "KINGS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 73
+    },
+    {
+      "state": "NY",
+      "count": 11
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 177680.0,
+    "gap_usd": 47520.0
+  }
+}

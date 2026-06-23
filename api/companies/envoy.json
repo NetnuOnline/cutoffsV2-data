@@ -1,0 +1,144 @@
+{
+  "slug": "envoy",
+  "canonical_name": "Envoy, Inc.",
+  "fein": "46-2198690",
+  "lca_filing_count": 15,
+  "lca_worker_positions": 15,
+  "warn_notice_count": 0,
+  "median_wage_usd": 185000.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 170000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 136000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 200000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 192816.0
+    },
+    {
+      "fy": 2025,
+      "filings": 4,
+      "median_wage_usd": 184300.0
+    },
+    {
+      "fy": 2026,
+      "filings": 4,
+      "median_wage_usd": 205000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 4,
+      "median_wage_usd": 186408.0
+    },
+    {
+      "title": "Product Designer",
+      "count": 2,
+      "median_wage_usd": 181800.0
+    },
+    {
+      "title": "Head of Data Analytics",
+      "count": 1,
+      "median_wage_usd": 280000.0
+    },
+    {
+      "title": "Member of Technical Staff, Backend",
+      "count": 1,
+      "median_wage_usd": 220000.0
+    },
+    {
+      "title": "Project Manager",
+      "count": 1,
+      "median_wage_usd": 92000.0
+    },
+    {
+      "title": "Backend Software Engineer",
+      "count": 1,
+      "median_wage_usd": 200000.0
+    },
+    {
+      "title": "Software Engineer, Backend",
+      "count": 1,
+      "median_wage_usd": 197500.0
+    },
+    {
+      "title": "Backend Software Engineer, Workplace",
+      "count": 1,
+      "median_wage_usd": 185000.0
+    },
+    {
+      "title": "Member of Technical Staff, Backend L2",
+      "count": 1,
+      "median_wage_usd": 190000.0
+    },
+    {
+      "title": "Construction Estimator",
+      "count": 1,
+      "median_wage_usd": 105000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 2
+    },
+    {
+      "state": "IN",
+      "county": "HAMILTON",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 9
+    },
+    {
+      "state": "TX",
+      "count": 3
+    },
+    {
+      "state": "IN",
+      "count": 2
+    },
+    {
+      "state": "WA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 195158.0,
+    "gap_usd": 64998.0
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "beasley-media-group",
+  "canonical_name": "Beasley Media Group LLC",
+  "fein": null,
+  "lca_filing_count": 2,
+  "warn_notice_count": 7,
+  "median_wage_usd": 64882.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 60750.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 69014.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Digital Campaign Specialist",
+      "count": 2,
+      "median_wage_usd": 64882.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "FL",
+      "count": 2
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "FL",
+      "county": "PINELLAS",
+      "count": 2
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "04/09/2020",
+      "effective_date": "04/01/2020",
+      "state": "NV",
+      "workers": 4,
+      "city": "Las Vegas, Clark County"
+    },
+    {
+      "date": "04/09/2020",
+      "effective_date": "04/09/2020",
+      "state": "MI",
+      "workers": 26,
+      "city": "Ferndale"
+    },
+    {
+      "date": "04/09/2020",
+      "effective_date": "04/01/2020",
+      "state": "NC",
+      "workers": 38,
+      "city": "1520 South Blvd Ste 300, Charlotte"
+    },
+    {
+      "date": "04/09/2020",
+      "effective_date": "04/01/2020",
+      "state": "NC",
+      "workers": 4,
+      "city": "508 Person Street, Fayetteville"
+    },
+    {
+      "date": "04/09/2020",
+      "effective_date": "04/01/2020",
+      "state": "FL",
+      "workers": 70,
+      "city": "SAINT PETERSBURG"
+    },
+    {
+      "date": "04/01/2020",
+      "effective_date": "04/01/2020",
+      "state": "GA",
+      "workers": 25,
+      "city": "Augusta"
+    },
+    {
+      "date": "04/01/2020",
+      "effective_date": "04/01/2020",
+      "state": "MI",
+      "workers": 26,
+      "city": "Ferndale, Michigan"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "richmondburke-wib",
+      "name": "Richmond/Burke WIB",
+      "state": "GA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 0,
+    "continuing_denials": 0,
+    "total_approvals": 1,
+    "by_fy": [
+      {
+        "fy": 2020,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1161",
+    "soc_title": "Market Research Analysts and Marketing Specialists",
+    "market_median_usd": 74680.0,
+    "employer_median_usd": 64882.0,
+    "gap_usd": -9798.0
+  }
+}

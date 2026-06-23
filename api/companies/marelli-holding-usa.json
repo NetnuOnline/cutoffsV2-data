@@ -1,0 +1,81 @@
+{
+  "slug": "marelli-holding-usa",
+  "canonical_name": "Marelli Holding USA, LLC",
+  "fein": null,
+  "lca_filing_count": 7,
+  "warn_notice_count": 0,
+  "median_wage_usd": 90000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 6,
+      "median_wage_usd": 89000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 98900.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Virtual Analysis Engineer",
+      "count": 2,
+      "median_wage_usd": 98900.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 2,
+      "median_wage_usd": 89000.0
+    },
+    {
+      "title": "Validation Engineer",
+      "count": 1,
+      "median_wage_usd": 86000.0
+    },
+    {
+      "title": "Optics & Testing Engineer",
+      "count": 1,
+      "median_wage_usd": 77400.0
+    },
+    {
+      "title": "Embedded Software Engineer",
+      "count": 1,
+      "median_wage_usd": 115720.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MI",
+      "county": "OAKLAND",
+      "count": 7
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MI",
+      "count": 7
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 8,
+    "continuing_denials": 0,
+    "total_approvals": 9,
+    "by_fy": [
+      {
+        "fy": 2020,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 8,
+        "continuing_denials": 0,
+        "total_approvals": 9
+      }
+    ]
+  },
+  "lca_worker_positions": 7,
+  "top_socs": [],
+  "lca_periods": []
+}

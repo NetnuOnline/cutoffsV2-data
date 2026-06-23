@@ -1,0 +1,182 @@
+{
+  "slug": "ecolab-usa",
+  "canonical_name": "Ecolab USA Inc.",
+  "fein": "41-1941945",
+  "lca_filing_count": 42,
+  "lca_worker_positions": 41,
+  "warn_notice_count": 0,
+  "median_wage_usd": 122937.5,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 7,
+      "median_wage_usd": 112604.0
+    },
+    {
+      "fy": 2021,
+      "filings": 17,
+      "median_wage_usd": 122875.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 132500.0
+    },
+    {
+      "fy": 2023,
+      "filings": 9,
+      "median_wage_usd": 124047.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 157250.0
+    },
+    {
+      "fy": 2026,
+      "filings": 4,
+      "median_wage_usd": 161915.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Marketing Manager",
+      "count": 5,
+      "median_wage_usd": 125331.0
+    },
+    {
+      "title": "Financial Analysis Manager II",
+      "count": 3,
+      "median_wage_usd": 122875.0
+    },
+    {
+      "title": "Assistant Marketing Manager",
+      "count": 3,
+      "median_wage_usd": 114028.0
+    },
+    {
+      "title": "Financial Analysis Manager I",
+      "count": 2,
+      "median_wage_usd": 124577.0
+    },
+    {
+      "title": "Senior Marketing Manager",
+      "count": 2,
+      "median_wage_usd": 140180.0
+    },
+    {
+      "title": "Senior Data Scientist",
+      "count": 2,
+      "median_wage_usd": 112500.0
+    },
+    {
+      "title": "Staff Engineer",
+      "count": 2,
+      "median_wage_usd": 120146.0
+    },
+    {
+      "title": "Principal Architect",
+      "count": 2,
+      "median_wage_usd": 163425.0
+    },
+    {
+      "title": "Lead Software Engineer",
+      "count": 2,
+      "median_wage_usd": 128427.5
+    },
+    {
+      "title": "Senior Lead IT Business Process Analyst",
+      "count": 1,
+      "median_wage_usd": 124047.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MN",
+      "county": "RAMSEY",
+      "count": 13
+    },
+    {
+      "state": "IL",
+      "county": "DUPAGE",
+      "count": 12
+    },
+    {
+      "state": "MN",
+      "county": "DAKOTA",
+      "count": 3
+    },
+    {
+      "state": "MN",
+      "county": "HENNEPIN",
+      "count": 3
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "county": "GUILFORD",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "county": "UNION",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "county": "COBB",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MN",
+      "count": 21
+    },
+    {
+      "state": "IL",
+      "count": 14
+    },
+    {
+      "state": "GA",
+      "count": 3
+    },
+    {
+      "state": "NC",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-2021",
+    "soc_title": "Marketing Managers",
+    "market_median_usd": 157620.0,
+    "employer_median_usd": 130057.0,
+    "gap_usd": -27563.0
+  }
+}

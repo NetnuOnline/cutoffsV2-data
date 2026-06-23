@@ -1,0 +1,63 @@
+{
+  "slug": "gvk-it",
+  "canonical_name": "GVK IT Inc",
+  "fein": null,
+  "lca_filing_count": 1,
+  "warn_notice_count": 0,
+  "median_wage_usd": 90950.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 90950.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Network Engineer",
+      "count": 1,
+      "median_wage_usd": 90950.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "RI",
+      "county": "PROVIDENCE CITY",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "RI",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 0,
+    "continuing_denials": 0,
+    "total_approvals": 1,
+    "by_fy": [
+      {
+        "fy": 2021,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 1,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1244",
+    "soc_title": "Network and Computer Systems Administrators",
+    "market_median_usd": 95000.0,
+    "employer_median_usd": 90950.0,
+    "gap_usd": -4050.0
+  }
+}

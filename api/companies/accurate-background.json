@@ -1,0 +1,104 @@
+{
+  "slug": "accurate-background",
+  "canonical_name": "Accurate Background, LLC",
+  "fein": "33-0796904",
+  "lca_filing_count": 7,
+  "lca_worker_positions": 7,
+  "warn_notice_count": 0,
+  "median_wage_usd": 116168.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 122267.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 123687.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 117197.86
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 116168.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Sr Engineer, QA Automation",
+      "count": 4,
+      "median_wage_usd": 116168.0
+    },
+    {
+      "title": "Senior DevOps Engineer",
+      "count": 1,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 1,
+      "median_wage_usd": 109534.0
+    },
+    {
+      "title": "Associate Manager, Software",
+      "count": 1,
+      "median_wage_usd": 136531.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "county": "DUPAGE",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "county": "ST LUCIE",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "county": "OAKLAND",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "FL",
+      "count": 3
+    },
+    {
+      "state": "IL",
+      "count": 2
+    },
+    {
+      "state": "MI",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1253",
+    "soc_title": "Software Quality Assurance Analysts and Testers",
+    "market_median_usd": 101800.0,
+    "employer_median_usd": 116168.0,
+    "gap_usd": 14368.0
+  }
+}

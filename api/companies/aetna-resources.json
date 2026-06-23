@@ -1,0 +1,203 @@
+{
+  "slug": "aetna-resources",
+  "canonical_name": "Aetna Resources LLC",
+  "fein": "06-1423207",
+  "lca_filing_count": 540,
+  "lca_worker_positions": 535,
+  "warn_notice_count": 0,
+  "median_wage_usd": 135000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 53,
+      "median_wage_usd": 119000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 100,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 96,
+      "median_wage_usd": 132737.5
+    },
+    {
+      "fy": 2023,
+      "filings": 77,
+      "median_wage_usd": 135239.0
+    },
+    {
+      "fy": 2024,
+      "filings": 103,
+      "median_wage_usd": 136613.16
+    },
+    {
+      "fy": 2025,
+      "filings": 74,
+      "median_wage_usd": 145000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 31,
+      "median_wage_usd": 146523.06,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Data Scientist",
+      "count": 41,
+      "median_wage_usd": 127500.0
+    },
+    {
+      "title": "Senior Data Engineer",
+      "count": 25,
+      "median_wage_usd": 133250.0
+    },
+    {
+      "title": "Staff Software Development Engineer",
+      "count": 24,
+      "median_wage_usd": 141522.0
+    },
+    {
+      "title": "Sr Software Development Engineer",
+      "count": 21,
+      "median_wage_usd": 134565.9
+    },
+    {
+      "title": "Lead Data Scientist",
+      "count": 20,
+      "median_wage_usd": 185000.0
+    },
+    {
+      "title": "Sr Data Engineer",
+      "count": 19,
+      "median_wage_usd": 135587.14
+    },
+    {
+      "title": "Data Engineer",
+      "count": 19,
+      "median_wage_usd": 116150.0
+    },
+    {
+      "title": "Senior Data Scientist",
+      "count": 15,
+      "median_wage_usd": 160000.0
+    },
+    {
+      "title": "Lead Data Engineer",
+      "count": 14,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "title": "Sr Data Scientist",
+      "count": 13,
+      "median_wage_usd": 160658.88
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 82
+    },
+    {
+      "state": "CT",
+      "county": "HARTFORD CITY",
+      "count": 76
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 32
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 20
+    },
+    {
+      "state": "MA",
+      "county": "BURLINGTON",
+      "count": 17
+    },
+    {
+      "state": "VA",
+      "county": "FAIRFAX",
+      "count": 14
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 14
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 11
+    },
+    {
+      "state": "MA",
+      "county": "WELLESLEY",
+      "count": 11
+    },
+    {
+      "state": "MA",
+      "county": "NORFOLK",
+      "count": 10
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CT",
+      "count": 103
+    },
+    {
+      "state": "NY",
+      "count": 92
+    },
+    {
+      "state": "TX",
+      "count": 83
+    },
+    {
+      "state": "MA",
+      "count": 48
+    },
+    {
+      "state": "VA",
+      "count": 31
+    },
+    {
+      "state": "GA",
+      "count": 26
+    },
+    {
+      "state": "IL",
+      "count": 25
+    },
+    {
+      "state": "PA",
+      "count": 22
+    },
+    {
+      "state": "NJ",
+      "count": 16
+    },
+    {
+      "state": "NC",
+      "count": 14
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 137811.24,
+    "gap_usd": 7651.24
+  }
+}

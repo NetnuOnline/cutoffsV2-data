@@ -1,0 +1,110 @@
+{
+  "slug": "dormakaba-usa",
+  "canonical_name": "dormakaba USA Inc.",
+  "fein": "51-0367374",
+  "lca_filing_count": 1,
+  "warn_notice_count": 4,
+  "median_wage_usd": 100000.0,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 100000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Project Engineer III",
+      "count": 1,
+      "median_wage_usd": 100000.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "PA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "12/01/2022",
+      "effective_date": "02/28/2023",
+      "state": "IL",
+      "workers": 42,
+      "city": "Lake Bluff"
+    },
+    {
+      "date": "12/20/2019",
+      "effective_date": "02/01/2020",
+      "state": "IL",
+      "workers": 56,
+      "city": "Steeleville"
+    },
+    {
+      "date": "02/05/2019",
+      "effective_date": "02/05/2019",
+      "state": "MI",
+      "workers": 103,
+      "city": "Madison Heights, Michigan"
+    },
+    {
+      "date": "09/27/2018",
+      "effective_date": "12/03/2018",
+      "state": "KY",
+      "workers": 58,
+      "city": "Fayette"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "lake-county-wib",
+      "name": "Lake County WIB",
+      "state": "IL"
+    },
+    {
+      "slug": "mid-america-wib",
+      "name": "Mid America WIB",
+      "state": "IL"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 4,
+    "continuing_denials": 0,
+    "total_approvals": 5,
+    "by_fy": [
+      {
+        "fy": 2021,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 1,
+  "top_socs": [],
+  "lca_periods": []
+}

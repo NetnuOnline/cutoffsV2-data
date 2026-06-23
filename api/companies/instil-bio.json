@@ -1,0 +1,227 @@
+{
+  "slug": "instil-bio",
+  "canonical_name": "INSTIL BIO INC.",
+  "fein": null,
+  "lca_filing_count": 8,
+  "warn_notice_count": 3,
+  "median_wage_usd": 160000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 4,
+      "median_wage_usd": 142500.0
+    },
+    {
+      "fy": 2021,
+      "filings": 3,
+      "median_wage_usd": 155000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 175000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Scientist",
+      "count": 2,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "Associate Director Process Sciences",
+      "count": 1,
+      "median_wage_usd": 155000.0
+    },
+    {
+      "title": "Principal Scientist",
+      "count": 1,
+      "median_wage_usd": 175000.0
+    },
+    {
+      "title": "ASSOCIATE DIRECTOR PROCESS SCIENCES",
+      "count": 1,
+      "median_wage_usd": 155000.0
+    },
+    {
+      "title": "Director, CMC Lead",
+      "count": 1,
+      "median_wage_usd": 165000.0
+    },
+    {
+      "title": "Associate Director, Clinical Programming / Statistical Prog.",
+      "count": 1,
+      "median_wage_usd": 173000.0
+    },
+    {
+      "title": "Senior Director, Analytical Development",
+      "count": 1,
+      "median_wage_usd": 220000.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 6
+    },
+    {
+      "state": "MD",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 5
+    },
+    {
+      "state": "MD",
+      "county": "MONTGOMERY",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "county": "HILLSBOROUGH",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "VENTURA",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "01/31/2023",
+      "effective_date": "06/30/2023",
+      "state": "CA",
+      "workers": 1,
+      "city": "Gouldsboro"
+    },
+    {
+      "date": "01/31/2023",
+      "effective_date": "04/01/2023",
+      "state": "CA",
+      "workers": 42,
+      "city": "Newbury Park"
+    },
+    {
+      "date": "12/07/2022",
+      "effective_date": "02/06/2023",
+      "state": "CA",
+      "workers": 63,
+      "city": "Newbury Park"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "ventura-county-wib",
+      "name": "Ventura County WIB",
+      "state": "CA"
+    }
+  ],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2024-09-06",
+        "formType": "8-K",
+        "accessionNumber": "0001628280-24-039726",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001789769&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2024-01-16",
+        "formType": "8-K",
+        "accessionNumber": "0001789769-24-000018",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001789769&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2023-02-01",
+        "formType": "8-K",
+        "accessionNumber": "0001789769-23-000020",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001789769&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2022-12-08",
+        "formType": "8-K",
+        "accessionNumber": "0001789769-22-000102",
+        "items": [
+          "2.05",
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities",
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001789769&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 4,
+    "itemCounts": {
+      "2.05": 4,
+      "5.02": 1
+    },
+    "latestFilingDate": "2024-09-06",
+    "earliestFilingDate": "2022-12-08"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 2,
+    "initial_denials": 0,
+    "continuing_approvals": 10,
+    "continuing_denials": 0,
+    "total_approvals": 12,
+    "by_fy": [
+      {
+        "fy": 2020,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 4,
+        "continuing_denials": 0,
+        "total_approvals": 4
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 5
+      }
+    ]
+  },
+  "lca_worker_positions": 32,
+  "top_socs": [],
+  "lca_periods": []
+}

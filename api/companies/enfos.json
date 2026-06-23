@@ -1,0 +1,62 @@
+{
+  "slug": "enfos",
+  "canonical_name": "ENFOS, Inc.",
+  "fein": "94-3377465",
+  "lca_filing_count": 4,
+  "lca_worker_positions": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 126276.5,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 91800.5
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 161741.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 139214.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Software Engineer",
+      "count": 2,
+      "median_wage_usd": 150477.5
+    },
+    {
+      "title": "Software Engineer",
+      "count": 2,
+      "median_wage_usd": 91800.5
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NC",
+      "county": "DURHAM",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NC",
+      "count": 4
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 150477.5,
+    "gap_usd": 20317.5
+  }
+}

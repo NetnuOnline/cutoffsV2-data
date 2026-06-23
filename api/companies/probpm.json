@@ -1,0 +1,162 @@
+{
+  "slug": "probpm",
+  "canonical_name": "ProBPM Inc",
+  "fein": "27-3669231",
+  "lca_filing_count": 19,
+  "lca_worker_positions": 19,
+  "warn_notice_count": 0,
+  "median_wage_usd": 85738.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 4,
+      "median_wage_usd": 86779.0
+    },
+    {
+      "fy": 2021,
+      "filings": 5,
+      "median_wage_usd": 75691.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 82550.5
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 85369.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 97998.5
+    },
+    {
+      "fy": 2026,
+      "filings": 4,
+      "median_wage_usd": 122461.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "DevOps Engineer",
+      "count": 3,
+      "median_wage_usd": 132000.0
+    },
+    {
+      "title": "Senior Salesforce Developer",
+      "count": 2,
+      "median_wage_usd": 85155.0
+    },
+    {
+      "title": "Hybrid Mobile Developer",
+      "count": 2,
+      "median_wage_usd": 82550.5
+    },
+    {
+      "title": "Appian Developer",
+      "count": 1,
+      "median_wage_usd": 85738.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 1,
+      "median_wage_usd": 105997.0
+    },
+    {
+      "title": "HYBRID MOBILE APP DEVELOPER",
+      "count": 1,
+      "median_wage_usd": 80000.0
+    },
+    {
+      "title": "Software Solution Engineer",
+      "count": 1,
+      "median_wage_usd": 61693.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 90000.0
+    },
+    {
+      "title": "Oracle Functional Process Developer",
+      "count": 1,
+      "median_wage_usd": 85000.0
+    },
+    {
+      "title": "DATABASE DEVELOPER",
+      "count": 1,
+      "median_wage_usd": 90896.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 6
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 3
+    },
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 2
+    },
+    {
+      "state": "PA",
+      "county": "CHESTER",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "county": "CUMBERLAND",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 8
+    },
+    {
+      "state": "PA",
+      "count": 3
+    },
+    {
+      "state": "GA",
+      "count": 3
+    },
+    {
+      "state": "WA",
+      "count": 2
+    },
+    {
+      "state": "AZ",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 90448.0,
+    "gap_usd": -39712.0
+  }
+}

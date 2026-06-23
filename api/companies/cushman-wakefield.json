@@ -1,0 +1,156 @@
+{
+  "slug": "cushman-wakefield",
+  "canonical_name": "Cushman & Wakefield",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 9,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 9
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "06/13/2024",
+      "effective_date": "08/18/2024",
+      "state": "CA",
+      "workers": 1,
+      "city": "San Jose"
+    },
+    {
+      "date": "06/13/2024",
+      "effective_date": "08/18/2024",
+      "state": "CA",
+      "workers": 51,
+      "city": "San Jose"
+    },
+    {
+      "date": "06/13/2024",
+      "effective_date": "08/18/2024",
+      "state": "CA",
+      "workers": 22,
+      "city": "San Francisco"
+    },
+    {
+      "date": "06/13/2024",
+      "effective_date": "08/18/2024",
+      "state": "CA",
+      "workers": 1,
+      "city": "Los Angeles"
+    },
+    {
+      "date": "04/27/2023",
+      "effective_date": "06/25/2023",
+      "state": "CA",
+      "workers": 2,
+      "city": "Mountain View"
+    },
+    {
+      "date": "04/27/2023",
+      "effective_date": "06/25/2023",
+      "state": "CA",
+      "workers": 1,
+      "city": "Sunnyvale"
+    },
+    {
+      "date": "04/27/2023",
+      "effective_date": "06/25/2023",
+      "state": "CA",
+      "workers": 1,
+      "city": "Mountain View"
+    },
+    {
+      "date": "04/27/2023",
+      "effective_date": "06/25/2023",
+      "state": "CA",
+      "workers": 133,
+      "city": "Mountain View"
+    },
+    {
+      "date": "04/27/2023",
+      "effective_date": "06/25/2023",
+      "state": "CA",
+      "workers": 594,
+      "city": "Mountain View"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2020-02-27",
+        "formType": "8-K",
+        "accessionNumber": "0001628369-20-000010",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001628369&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 1,
+    "itemCounts": {
+      "2.05": 1
+    },
+    "latestFilingDate": "2020-02-27",
+    "earliestFilingDate": "2020-02-27"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 0,
+    "continuing_denials": 1,
+    "total_approvals": 1,
+    "by_fy": [
+      {
+        "fy": 2010,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2011,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2014,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 1,
+        "total_approvals": 1
+      }
+    ]
+  }
+}

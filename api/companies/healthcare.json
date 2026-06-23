@@ -1,0 +1,86 @@
+{
+  "slug": "healthcare",
+  "canonical_name": "Healthcare, Inc.",
+  "fein": "45-2731251",
+  "lca_filing_count": 3,
+  "warn_notice_count": 1,
+  "median_wage_usd": 110000.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 108081.5
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 125000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Product Manager",
+      "count": 1,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "Sr Data Engineer",
+      "count": 1,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "title": "Program Manager",
+      "count": 1,
+      "median_wage_usd": 106163.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 1
+    },
+    {
+      "state": "DE",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "DE",
+      "county": "NEW CASTLE",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "county": "OAKLAND",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "08/02/2022",
+      "effective_date": "08/02/2022",
+      "state": "FL",
+      "workers": 149,
+      "city": "MIAMI"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 125000.0,
+    "gap_usd": 16980.0
+  }
+}

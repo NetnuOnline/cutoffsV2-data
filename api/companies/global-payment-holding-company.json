@@ -1,0 +1,198 @@
+{
+  "slug": "global-payment-holding-company",
+  "canonical_name": "Global Payment Holding Company",
+  "fein": "58-2227989",
+  "lca_filing_count": 64,
+  "lca_worker_positions": 75,
+  "warn_notice_count": 0,
+  "median_wage_usd": 124649.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 9,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 143401.5
+    },
+    {
+      "fy": 2022,
+      "filings": 6,
+      "median_wage_usd": 114000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 10,
+      "median_wage_usd": 105206.5
+    },
+    {
+      "fy": 2025,
+      "filings": 13,
+      "median_wage_usd": 133006.0
+    },
+    {
+      "fy": 2026,
+      "filings": 24,
+      "median_wage_usd": 130562.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Software Engineer",
+      "count": 6,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "Software Engineer II",
+      "count": 3,
+      "median_wage_usd": 90896.0
+    },
+    {
+      "title": "Lead Software Engineer",
+      "count": 2,
+      "median_wage_usd": 139158.5
+    },
+    {
+      "title": "Software Engineer Specialist",
+      "count": 2,
+      "median_wage_usd": 134768.5
+    },
+    {
+      "title": "Senior Business Analyst",
+      "count": 2,
+      "median_wage_usd": 105882.0
+    },
+    {
+      "title": "Database Administrator",
+      "count": 2,
+      "median_wage_usd": 83886.0
+    },
+    {
+      "title": "Principal Software Engineer",
+      "count": 1,
+      "median_wage_usd": 130645.0
+    },
+    {
+      "title": "Business Technical Services Analyst Senior",
+      "count": 1,
+      "median_wage_usd": 107020.0
+    },
+    {
+      "title": "Quality Assurance Engineer",
+      "count": 1,
+      "median_wage_usd": 74209.0
+    },
+    {
+      "title": "Manager Software Engineering",
+      "count": 1,
+      "median_wage_usd": 128535.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 6
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 3
+    },
+    {
+      "state": "UT",
+      "county": "SALT LAKE",
+      "count": 3
+    },
+    {
+      "state": "KS",
+      "county": "JOHNSON",
+      "count": 3
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 2
+    },
+    {
+      "state": "UT",
+      "county": "UTAH",
+      "count": 2
+    },
+    {
+      "state": "NC",
+      "county": "MECKLENBURG",
+      "count": 2
+    },
+    {
+      "state": "UT",
+      "county": "DAVIS",
+      "count": 1
+    },
+    {
+      "state": "IN",
+      "county": "CLARK",
+      "count": 1
+    },
+    {
+      "state": "OK",
+      "county": "OKLAHOMA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 21
+    },
+    {
+      "state": "TX",
+      "count": 14
+    },
+    {
+      "state": "UT",
+      "count": 6
+    },
+    {
+      "state": "NC",
+      "count": 4
+    },
+    {
+      "state": "KS",
+      "count": 3
+    },
+    {
+      "state": "MA",
+      "count": 3
+    },
+    {
+      "state": "IN",
+      "count": 3
+    },
+    {
+      "state": "CA",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "count": 2
+    },
+    {
+      "state": "NE",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 129594.5,
+    "gap_usd": -565.5
+  }
+}

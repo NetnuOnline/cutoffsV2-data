@@ -1,0 +1,112 @@
+{
+  "slug": "alvarez-marsal-tax",
+  "canonical_name": "Alvarez & Marsal Tax, LLC",
+  "fein": "20-1157630",
+  "lca_filing_count": 14,
+  "warn_notice_count": 0,
+  "median_wage_usd": 104150.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 5,
+      "median_wage_usd": 85000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 6,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 80000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Associate",
+      "count": 9,
+      "median_wage_usd": 85000.0
+    },
+    {
+      "title": "Senior Associate",
+      "count": 2,
+      "median_wage_usd": 119150.0
+    },
+    {
+      "title": "Manager",
+      "count": 1,
+      "median_wage_usd": 119000.0
+    },
+    {
+      "title": "ASSOCIATE",
+      "count": 1,
+      "median_wage_usd": 80000.0
+    },
+    {
+      "title": "Director",
+      "count": 1,
+      "median_wage_usd": 140000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "DC",
+      "county": "DISTRICT OF COLUMBIA",
+      "count": 4
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 3
+    },
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "county": "MORRIS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 4
+    },
+    {
+      "state": "DC",
+      "count": 4
+    },
+    {
+      "state": "NY",
+      "count": 3
+    },
+    {
+      "state": "CA",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 14,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-2011",
+    "soc_title": "Accountants and Auditors",
+    "market_median_usd": 79000.0,
+    "employer_median_usd": 104150.0,
+    "gap_usd": 25150.0
+  }
+}

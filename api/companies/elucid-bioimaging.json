@@ -1,0 +1,83 @@
+{
+  "slug": "elucid-bioimaging",
+  "canonical_name": "Elucid Bioimaging Inc.",
+  "fein": "46-3466297",
+  "lca_filing_count": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 120000.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 4,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 155950.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Product Owner",
+      "count": 3,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "Lead Regulatory & QA Specialist",
+      "count": 1,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "Sr. Software Engineer",
+      "count": 1,
+      "median_wage_usd": 161900.0
+    },
+    {
+      "title": "Sr. Image Processing Engineer",
+      "count": 1,
+      "median_wage_usd": 150000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MA",
+      "county": "BOSTON CITY",
+      "count": 4
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MA",
+      "count": 6
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 1,
+    "continuing_denials": 0,
+    "total_approvals": 1,
+    "by_fy": [
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 6,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Information Technology Project Managers",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 120000.0,
+    "gap_usd": 2000.0
+  }
+}

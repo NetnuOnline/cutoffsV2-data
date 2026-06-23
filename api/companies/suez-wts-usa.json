@@ -1,0 +1,140 @@
+{
+  "slug": "suez-wts-usa",
+  "canonical_name": "Suez WTS USA, Inc.",
+  "fein": "23-1503731",
+  "lca_filing_count": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 118350.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 3,
+      "median_wage_usd": 168000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 63866.5
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 150000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Culture and Talent Development Leader",
+      "count": 1,
+      "median_wage_usd": 180000.0
+    },
+    {
+      "title": "Record to Report Leader",
+      "count": 1,
+      "median_wage_usd": 168000.0
+    },
+    {
+      "title": "People Technology Manager",
+      "count": 1,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "title": "Sourcing Project Leader",
+      "count": 1,
+      "median_wage_usd": 75733.0
+    },
+    {
+      "title": "Cost Estimator ",
+      "count": 1,
+      "median_wage_usd": 52000.0
+    },
+    {
+      "title": "Senior Engineer",
+      "count": 1,
+      "median_wage_usd": 86700.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "PA",
+      "county": "BUCKS",
+      "count": 3
+    },
+    {
+      "state": "VA",
+      "county": "HENRICO",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "JEFFERSON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "PA",
+      "count": 3
+    },
+    {
+      "state": "VA",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 5,
+    "initial_denials": 0,
+    "continuing_approvals": 1,
+    "continuing_denials": 1,
+    "total_approvals": 6,
+    "by_fy": [
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 3,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 1,
+        "total_approvals": 2
+      }
+    ]
+  },
+  "lca_worker_positions": 6,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3031",
+    "soc_title": "Financial Managers",
+    "market_median_usd": 156100.0,
+    "employer_median_usd": 168000.0,
+    "gap_usd": 11900.0
+  }
+}

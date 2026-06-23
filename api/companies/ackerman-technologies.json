@@ -1,0 +1,116 @@
+{
+  "slug": "ackerman-technologies",
+  "canonical_name": "Ackerman Technologies LLC",
+  "fein": "85-3068933",
+  "lca_filing_count": 9,
+  "lca_worker_positions": 9,
+  "warn_notice_count": 0,
+  "median_wage_usd": 100100.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 4,
+      "median_wage_usd": 103550.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 96500.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 79750.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 112923.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SOFTWARE ENGINEER",
+      "count": 7,
+      "median_wage_usd": 100100.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 1,
+      "median_wage_usd": 112923.0
+    },
+    {
+      "title": "BUSINESS ANALYST",
+      "count": 1,
+      "median_wage_usd": 82000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "FL",
+      "county": "PALM BEACH",
+      "count": 2
+    },
+    {
+      "state": "MI",
+      "county": "OAKLAND",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 1
+    },
+    {
+      "state": "DE",
+      "county": "NEW CASTLE",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "county": "UNION",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "FL",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "count": 1
+    },
+    {
+      "state": "DE",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 104250.0,
+    "gap_usd": -25910.0
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "slug": "nike-usa",
+  "canonical_name": "Nike, USA, Inc",
+  "fein": "93-1243023",
+  "lca_filing_count": 70,
+  "lca_worker_positions": 69,
+  "warn_notice_count": 0,
+  "median_wage_usd": 165026.47,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 4,
+      "median_wage_usd": 142502.5
+    },
+    {
+      "fy": 2021,
+      "filings": 11,
+      "median_wage_usd": 211750.0
+    },
+    {
+      "fy": 2022,
+      "filings": 16,
+      "median_wage_usd": 149912.5
+    },
+    {
+      "fy": 2023,
+      "filings": 14,
+      "median_wage_usd": 149390.0
+    },
+    {
+      "fy": 2024,
+      "filings": 12,
+      "median_wage_usd": 160425.0
+    },
+    {
+      "fy": 2025,
+      "filings": 8,
+      "median_wage_usd": 170718.25
+    },
+    {
+      "fy": 2026,
+      "filings": 4,
+      "median_wage_usd": 199794.825,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 8,
+      "median_wage_usd": 159044.875
+    },
+    {
+      "title": "Lead Software Engineer",
+      "count": 5,
+      "median_wage_usd": 185657.5
+    },
+    {
+      "title": "Senior Data Engineer",
+      "count": 4,
+      "median_wage_usd": 147537.5
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 4,
+      "median_wage_usd": 156800.0
+    },
+    {
+      "title": "SENIOR, DATA ANALYTICS",
+      "count": 2,
+      "median_wage_usd": 145088.72
+    },
+    {
+      "title": "Senior Engineering Manager",
+      "count": 2,
+      "median_wage_usd": 255000.0
+    },
+    {
+      "title": "Senior Machine Learning Engineer",
+      "count": 2,
+      "median_wage_usd": 187500.0
+    },
+    {
+      "title": "LEAD SOFTWARE ENGINEER",
+      "count": 2,
+      "median_wage_usd": 210796.33500000002
+    },
+    {
+      "title": "Lead Data Engineer",
+      "count": 2,
+      "median_wage_usd": 171200.0
+    },
+    {
+      "title": "Senior Manager, AIML Engineering",
+      "count": 1,
+      "median_wage_usd": 214000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "OR",
+      "county": "WASHINGTON",
+      "count": 24
+    },
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 6
+    },
+    {
+      "state": "MA",
+      "county": "BOSTON CITY",
+      "count": 6
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 4
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 4
+    },
+    {
+      "state": "FL",
+      "county": "HILLSBOROUGH",
+      "count": 3
+    },
+    {
+      "state": "TN",
+      "county": "SHELBY",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 2
+    },
+    {
+      "state": "NC",
+      "county": "WAKE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "OR",
+      "count": 31
+    },
+    {
+      "state": "CA",
+      "count": 9
+    },
+    {
+      "state": "MA",
+      "count": 6
+    },
+    {
+      "state": "GA",
+      "count": 6
+    },
+    {
+      "state": "NY",
+      "count": 4
+    },
+    {
+      "state": "TX",
+      "count": 3
+    },
+    {
+      "state": "FL",
+      "count": 3
+    },
+    {
+      "state": "NC",
+      "count": 3
+    },
+    {
+      "state": "TN",
+      "count": 2
+    },
+    {
+      "state": "WA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 165026.47,
+    "gap_usd": 34866.47
+  }
+}

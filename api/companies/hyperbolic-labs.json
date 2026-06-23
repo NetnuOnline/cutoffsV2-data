@@ -1,0 +1,65 @@
+{
+  "slug": "hyperbolic-labs",
+  "canonical_name": "Hyperbolic Labs, Inc.",
+  "fein": "92-0750493",
+  "lca_filing_count": 5,
+  "lca_worker_positions": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 200000.0,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 200000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 133000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Chief Officer",
+      "count": 2,
+      "median_wage_usd": 200000.0
+    },
+    {
+      "title": "Chief Technology Officer",
+      "count": 1,
+      "median_wage_usd": 248000.0
+    },
+    {
+      "title": "Product Designer",
+      "count": 1,
+      "median_wage_usd": 126000.0
+    },
+    {
+      "title": "AI Engineer",
+      "count": 1,
+      "median_wage_usd": 140000.0
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 4
+    },
+    {
+      "state": "NC",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 200000.0,
+    "gap_usd": 91980.0
+  }
+}

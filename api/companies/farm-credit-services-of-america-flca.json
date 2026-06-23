@@ -1,0 +1,97 @@
+{
+  "slug": "farm-credit-services-of-america-flca",
+  "canonical_name": "Farm Credit Services of America, FLCA",
+  "fein": "47-0376012",
+  "lca_filing_count": 13,
+  "lca_worker_positions": 13,
+  "warn_notice_count": 0,
+  "median_wage_usd": 137970.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 5,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 134090.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 136518.5
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 156137.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 170546.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Application Developer",
+      "count": 7,
+      "median_wage_usd": 134090.0
+    },
+    {
+      "title": "Application Developer (Salesforce)",
+      "count": 2,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "GIS Specialist",
+      "count": 1,
+      "median_wage_usd": 117120.0
+    },
+    {
+      "title": "Data Integration Engineer",
+      "count": 1,
+      "median_wage_usd": 170092.0
+    },
+    {
+      "title": "Lead Application Developer",
+      "count": 1,
+      "median_wage_usd": 171000.0
+    },
+    {
+      "title": "Financial Database Engineer",
+      "count": 1,
+      "median_wage_usd": 156029.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NE",
+      "county": "DOUGLAS",
+      "count": 9
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NE",
+      "count": 13
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 140000.0,
+    "gap_usd": 9840.0
+  }
+}

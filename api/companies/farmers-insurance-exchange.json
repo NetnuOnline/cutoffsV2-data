@@ -1,0 +1,71 @@
+{
+  "slug": "farmers-insurance-exchange",
+  "canonical_name": "Farmers Insurance Exchange",
+  "fein": "95-2575893",
+  "lca_filing_count": 3,
+  "lca_worker_positions": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 119206.31,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 113152.5
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 119206.31
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 132397.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Network Subject Matter Expert",
+      "count": 2,
+      "median_wage_usd": 125801.905
+    },
+    {
+      "title": "Data Scientist",
+      "count": 1,
+      "median_wage_usd": 113152.5
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1244",
+    "soc_title": "Network and Computer Systems Administrators",
+    "market_median_usd": 95000.0,
+    "employer_median_usd": 125801.9,
+    "gap_usd": 30801.9
+  }
+}

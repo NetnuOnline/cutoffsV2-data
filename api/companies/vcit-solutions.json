@@ -1,0 +1,115 @@
+{
+  "slug": "vcit-solutions",
+  "canonical_name": "VCIT Solutions, Inc.",
+  "fein": "58-2679660",
+  "lca_filing_count": 28,
+  "lca_worker_positions": 28,
+  "warn_notice_count": 0,
+  "median_wage_usd": 104270.5,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 9,
+      "median_wage_usd": 93600.0
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 105040.0
+    },
+    {
+      "fy": 2022,
+      "filings": 3,
+      "median_wage_usd": 99008.0
+    },
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 119808.0
+    },
+    {
+      "fy": 2024,
+      "filings": 7,
+      "median_wage_usd": 105227.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 121316.0
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 112923.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 14,
+      "median_wage_usd": 105227.1
+    },
+    {
+      "title": "SOFTWARE DEVELOPER",
+      "count": 11,
+      "median_wage_usd": 103500.8
+    },
+    {
+      "title": "Incident Manager",
+      "count": 1,
+      "median_wage_usd": 101961.6
+    },
+    {
+      "title": "Data Engineer",
+      "count": 1,
+      "median_wage_usd": 90958.0
+    },
+    {
+      "title": "Senior Data Engineer",
+      "count": 1,
+      "median_wage_usd": 129709.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "GA",
+      "county": "GWINNETT",
+      "count": 21
+    },
+    {
+      "state": "OH",
+      "county": "WARREN",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 26
+    },
+    {
+      "state": "OH",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 105227.2,
+    "gap_usd": -24932.8
+  }
+}

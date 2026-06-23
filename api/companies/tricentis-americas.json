@@ -1,0 +1,65 @@
+{
+  "slug": "tricentis-americas",
+  "canonical_name": "Tricentis Americas, Inc.",
+  "fein": "47-3179205",
+  "lca_filing_count": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 118518.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 118518.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 119214.5
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Strategic Analyst",
+      "count": 1,
+      "median_wage_usd": 118518.0
+    },
+    {
+      "title": "Senior Machine Learning Researcher (Senior Gen AI Engineer)",
+      "count": 1,
+      "median_wage_usd": 126400.0
+    },
+    {
+      "title": "Technical Project Manager",
+      "count": 1,
+      "median_wage_usd": 112029.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 122459.0,
+    "gap_usd": 14439.0
+  }
+}

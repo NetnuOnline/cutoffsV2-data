@@ -1,0 +1,65 @@
+{
+  "slug": "areva-np",
+  "canonical_name": "Areva NP Inc.",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 4,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "VA",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "LA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "07/29/2011",
+      "effective_date": "09/29/2011",
+      "state": "TX",
+      "workers": 1,
+      "city": "Keller"
+    },
+    {
+      "date": "04/14/2011",
+      "effective_date": "06/14/2011",
+      "state": "LA",
+      "workers": 1,
+      "city": "Lynchburg"
+    },
+    {
+      "date": "03/01/2011",
+      "effective_date": "04/29/2011",
+      "state": "VA",
+      "workers": 11,
+      "city": "Lynchburg, VA"
+    },
+    {
+      "date": "10/15/2010",
+      "effective_date": "10/15/2010",
+      "state": "VA",
+      "workers": 7,
+      "city": "Lynchburg, VA"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "region-2000central-va-lwia-vii",
+      "name": "Region 2000/Central VA LWIA VII",
+      "state": "VA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

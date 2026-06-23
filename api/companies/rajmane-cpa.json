@@ -1,0 +1,97 @@
+{
+  "slug": "rajmane-cpa",
+  "canonical_name": "Rajmane CPA Corp.",
+  "fein": "81-4131072",
+  "lca_filing_count": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 70803.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 50500.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 70803.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Accountant",
+      "count": 3,
+      "median_wage_usd": 70803.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IN",
+      "county": "MARION",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IN",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 5,
+    "initial_denials": 0,
+    "continuing_approvals": 3,
+    "continuing_denials": 0,
+    "total_approvals": 8,
+    "by_fy": [
+      {
+        "fy": 2017,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 4,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 6
+      }
+    ]
+  },
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-2011",
+    "soc_title": "Accountants and Auditors",
+    "market_median_usd": 79000.0,
+    "employer_median_usd": 95401.5,
+    "gap_usd": 16401.5
+  }
+}

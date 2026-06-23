@@ -1,0 +1,117 @@
+{
+  "slug": "trader-interactive",
+  "canonical_name": "Trader Interactive LLC",
+  "fein": "27-0807270",
+  "lca_filing_count": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 104300.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 77189.0
+    },
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 136573.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 104300.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Data Analytics Product Manager",
+      "count": 3,
+      "median_wage_usd": 104300.0
+    },
+    {
+      "title": "Web Engineer",
+      "count": 1,
+      "median_wage_usd": 77189.0
+    },
+    {
+      "title": "Engineering Manager",
+      "count": 1,
+      "median_wage_usd": 136573.0
+    },
+    {
+      "title": "Cloud Platform Architect",
+      "count": 1,
+      "median_wage_usd": 168522.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "VA",
+      "county": "VIRGINIA BEACH CITY",
+      "count": 5
+    },
+    {
+      "state": "VA",
+      "county": "NORFOLK CITY",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "VA",
+      "count": 6
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 3,
+    "initial_denials": 0,
+    "continuing_approvals": 6,
+    "continuing_denials": 1,
+    "total_approvals": 9,
+    "by_fy": [
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 3,
+        "initial_denials": 0,
+        "continuing_approvals": 5,
+        "continuing_denials": 0,
+        "total_approvals": 8
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 1,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 6,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Business Intelligence Analysts",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 102694.0,
+    "gap_usd": -5326.0
+  }
+}

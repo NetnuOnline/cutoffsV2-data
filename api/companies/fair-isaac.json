@@ -1,0 +1,195 @@
+{
+  "slug": "fair-isaac",
+  "canonical_name": "Fair Isaac Corporation",
+  "fein": "94-1499887",
+  "lca_filing_count": 29,
+  "lca_worker_positions": 28,
+  "warn_notice_count": 0,
+  "median_wage_usd": 149718.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 98592.0
+    },
+    {
+      "fy": 2021,
+      "filings": 9,
+      "median_wage_usd": 144925.0
+    },
+    {
+      "fy": 2022,
+      "filings": 6,
+      "median_wage_usd": 144000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 5,
+      "median_wage_usd": 143874.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 180107.0
+    },
+    {
+      "fy": 2025,
+      "filings": 5,
+      "median_wage_usd": 149947.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 148866.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineering - Senior Engineer",
+      "count": 4,
+      "median_wage_usd": 158352.5
+    },
+    {
+      "title": "Software Engineer - Senior Engineer",
+      "count": 3,
+      "median_wage_usd": 184080.0
+    },
+    {
+      "title": "Solution Engineering - Senior Engineer",
+      "count": 2,
+      "median_wage_usd": 149292.0
+    },
+    {
+      "title": "Cloud Engineering (GTS)-Director",
+      "count": 2,
+      "median_wage_usd": 171017.5
+    },
+    {
+      "title": "Software Engineering - Lead Engineer",
+      "count": 2,
+      "median_wage_usd": 136743.0
+    },
+    {
+      "title": "Solution Success Management - Senior Director",
+      "count": 1,
+      "median_wage_usd": 180107.0
+    },
+    {
+      "title": "Product Support-Director",
+      "count": 1,
+      "median_wage_usd": 109928.0
+    },
+    {
+      "title": "User Experience-Director",
+      "count": 1,
+      "median_wage_usd": 143874.0
+    },
+    {
+      "title": "Business Consulting - Principal Consultant",
+      "count": 1,
+      "median_wage_usd": 94245.0
+    },
+    {
+      "title": "Technical Duty Officer - Senior Manager",
+      "count": 1,
+      "median_wage_usd": 144925.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 6
+    },
+    {
+      "state": "CA",
+      "county": "SAN DIEGO",
+      "count": 3
+    },
+    {
+      "state": "CA",
+      "county": "MARIN",
+      "count": 3
+    },
+    {
+      "state": "VA",
+      "county": "FAIRFAX",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "FORT BEND",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "county": "MECKLENBURG",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    },
+    {
+      "state": "MN",
+      "county": "RAMSEY",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 13
+    },
+    {
+      "state": "TX",
+      "count": 7
+    },
+    {
+      "state": "VA",
+      "count": 4
+    },
+    {
+      "state": "NC",
+      "count": 1
+    },
+    {
+      "state": "MN",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "count": 1
+    },
+    {
+      "state": "OH",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 149718.0,
+    "gap_usd": 19558.0
+  }
+}

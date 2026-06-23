@@ -1,0 +1,56 @@
+{
+  "slug": "wausau-financial-systems",
+  "canonical_name": "Wausau Financial Systems Inc",
+  "fein": "39-1620250",
+  "lca_filing_count": 2,
+  "lca_worker_positions": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 135704.57,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 132842.13
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 138567.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer - Senior",
+      "count": 2,
+      "median_wage_usd": 135704.565
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "VA",
+      "county": "FAIRFAX",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "VA",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 135704.57,
+    "gap_usd": 5544.57
+  }
+}

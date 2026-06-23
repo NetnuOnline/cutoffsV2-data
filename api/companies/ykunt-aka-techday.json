@@ -1,0 +1,87 @@
+{
+  "slug": "ykunt-aka-techday",
+  "canonical_name": "Ykunt Inc AKA Techday Inc",
+  "fein": "83-2257332",
+  "lca_filing_count": 10,
+  "warn_notice_count": 0,
+  "median_wage_usd": 97500.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 10,
+      "median_wage_usd": 97500.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 9,
+      "median_wage_usd": 97500.0
+    },
+    {
+      "title": "Product Safety & Pharmacovigilance Specialist",
+      "count": 1,
+      "median_wage_usd": 77700.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MO",
+      "county": "ST LOUIS",
+      "count": 4
+    },
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 3
+    },
+    {
+      "state": "FL",
+      "county": "DUVAL",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "county": "MIDDLESEX",
+      "count": 1
+    },
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MO",
+      "count": 4
+    },
+    {
+      "state": "TX",
+      "count": 3
+    },
+    {
+      "state": "FL",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    },
+    {
+      "state": "AZ",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 10,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 97500.0,
+    "gap_usd": -32660.0
+  }
+}

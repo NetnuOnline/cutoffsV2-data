@@ -1,0 +1,46 @@
+{
+  "slug": "cbagllc",
+  "canonical_name": "Cbagllc",
+  "fein": null,
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 93101.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 93101.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 2,
+      "median_wage_usd": 93101.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "GA",
+      "county": "FORSYTH",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 93101.0,
+    "gap_usd": -37059.0
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "custom-ink",
+  "canonical_name": "Custom Ink",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 3,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "NV",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "12/18/2023",
+      "effective_date": "12/15/2023",
+      "state": "TX",
+      "workers": 256,
+      "city": "Flower Mound"
+    },
+    {
+      "date": "01/03/2023",
+      "effective_date": "03/04/2023",
+      "state": "NV",
+      "workers": 116,
+      "city": "Reno, Washoe County"
+    },
+    {
+      "date": "01/03/2023",
+      "effective_date": "03/04/2023",
+      "state": "VA",
+      "workers": 175,
+      "city": "Charlottesville, VA"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "piedmont-workforce-network-lwia-vi",
+      "name": "Piedmont Workforce Network LWIA VI",
+      "state": "VA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

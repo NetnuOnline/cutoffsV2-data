@@ -1,0 +1,48 @@
+{
+  "slug": "stacys-greenhouses",
+  "canonical_name": "Stacy’s Greenhouses",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "SC",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "09/08/2013",
+      "effective_date": "09/08/2013",
+      "state": "SC",
+      "workers": 61,
+      "city": "Pendleton"
+    },
+    {
+      "date": "09/08/2013",
+      "effective_date": "09/08/2013",
+      "state": "SC",
+      "workers": 656,
+      "city": "York"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "georgia-mountains-wib",
+      "name": "Georgia Mountains WIB",
+      "state": "GA"
+    },
+    {
+      "slug": "catawba-wib",
+      "name": "Catawba WIB",
+      "state": "SC"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

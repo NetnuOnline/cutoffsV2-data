@@ -1,0 +1,98 @@
+{
+  "slug": "bitflow-innovative-group",
+  "canonical_name": "Bitflow Innovative Group Inc",
+  "fein": "84-3777637",
+  "lca_filing_count": 34,
+  "warn_notice_count": 0,
+  "median_wage_usd": 110500.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 30,
+      "median_wage_usd": 99000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 114100.0
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 157123.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 30,
+      "median_wage_usd": 99000.0
+    },
+    {
+      "title": "Sr. Software Engineer",
+      "count": 2,
+      "median_wage_usd": 157123.0
+    },
+    {
+      "title": "SOFTWARE DEVELOPER",
+      "count": 1,
+      "median_wage_usd": 114100.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 157123.2
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "VA",
+      "county": "FAIRFAX",
+      "count": 13
+    },
+    {
+      "state": "IL",
+      "county": "SANGAMON",
+      "count": 9
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 7
+    },
+    {
+      "state": "VA",
+      "county": "FAIRFAX CITY",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "VA",
+      "count": 15
+    },
+    {
+      "state": "IL",
+      "count": 9
+    },
+    {
+      "state": "TX",
+      "count": 7
+    },
+    {
+      "state": "CA",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 34,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 110500.0,
+    "gap_usd": -19660.0
+  }
+}

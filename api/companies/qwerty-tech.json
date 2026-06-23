@@ -1,0 +1,76 @@
+{
+  "slug": "qwerty-tech",
+  "canonical_name": "Qwerty Tech LLC",
+  "fein": null,
+  "lca_filing_count": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 68910.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 69628.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Technical Scrum Master",
+      "count": 3,
+      "median_wage_usd": 68910.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 4,
+    "initial_denials": 0,
+    "continuing_approvals": 2,
+    "continuing_denials": 0,
+    "total_approvals": 6,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 3,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 5
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Information Technology Project Managers",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 68910.0,
+    "gap_usd": -49090.0
+  }
+}

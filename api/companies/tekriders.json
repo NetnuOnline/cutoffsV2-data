@@ -1,0 +1,118 @@
+{
+  "slug": "tekriders",
+  "canonical_name": "TEKRIDERS INC.",
+  "fein": "45-4572739",
+  "lca_filing_count": 10,
+  "lca_worker_positions": 10,
+  "warn_notice_count": 0,
+  "median_wage_usd": 93464.5,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 108098.0
+    },
+    {
+      "fy": 2025,
+      "filings": 4,
+      "median_wage_usd": 97458.5
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 90896.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SOFTWARE ENGINEER",
+      "count": 3,
+      "median_wage_usd": 103210.0
+    },
+    {
+      "title": "PRODUCT MANAGER",
+      "count": 2,
+      "median_wage_usd": 99050.0
+    },
+    {
+      "title": "ORACLE DEVELOPER",
+      "count": 1,
+      "median_wage_usd": 108826.0
+    },
+    {
+      "title": "QA LEAD",
+      "count": 1,
+      "median_wage_usd": 95222.0
+    },
+    {
+      "title": "BACKEND API ENGINEER",
+      "count": 1,
+      "median_wage_usd": 78374.0
+    },
+    {
+      "title": "SALESFORCE DEVELOPER",
+      "count": 1,
+      "median_wage_usd": 90896.0
+    },
+    {
+      "title": "MULESOFT DEVELOPER",
+      "count": 1,
+      "median_wage_usd": 91707.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "county": "MIDDLESEX",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 4
+    },
+    {
+      "state": "FL",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "count": 2
+    },
+    {
+      "state": "NC",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 91707.0,
+    "gap_usd": -38453.0
+  }
+}

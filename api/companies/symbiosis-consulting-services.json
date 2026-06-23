@@ -1,0 +1,76 @@
+{
+  "slug": "symbiosis-consulting-services",
+  "canonical_name": "Symbiosis Consulting Services Inc.",
+  "fein": "47-1602444",
+  "lca_filing_count": 5,
+  "lca_worker_positions": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 100000.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 124999.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 94058.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 95326.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SAP SD CONSULTANT",
+      "count": 2,
+      "median_wage_usd": 124999.0
+    },
+    {
+      "title": "ERP Business Analyst",
+      "count": 2,
+      "median_wage_usd": 94692.0
+    },
+    {
+      "title": "Systems Analyst",
+      "count": 1,
+      "median_wage_usd": 100000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MN",
+      "county": "SCOTT",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MN",
+      "count": 4
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1211",
+    "soc_title": "Computer Systems Analysts",
+    "market_median_usd": 103800.0,
+    "employer_median_usd": 95326.0,
+    "gap_usd": -8474.0
+  }
+}

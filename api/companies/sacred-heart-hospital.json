@@ -1,0 +1,47 @@
+{
+  "slug": "sacred-heart-hospital",
+  "canonical_name": "Sacred Heart Hospital",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "07/01/2013",
+      "effective_date": "07/01/2013",
+      "state": "IL",
+      "workers": 300,
+      "city": "Chicago"
+    },
+    {
+      "date": "06/30/2004",
+      "effective_date": "08/31/2004",
+      "state": "WA",
+      "workers": 174,
+      "city": "Spokane"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "spokane-wib",
+      "name": "Spokane WIB",
+      "state": "WA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

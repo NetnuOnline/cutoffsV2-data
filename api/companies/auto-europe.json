@@ -1,0 +1,46 @@
+{
+  "slug": "auto-europe",
+  "canonical_name": "Auto Europe, LLC",
+  "fein": null,
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 52000.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 52000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "MARKET RESEARCH ANALYST",
+      "count": 2,
+      "median_wage_usd": 52000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "ME",
+      "county": "CUMBERLAND TOWN",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "ME",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 1,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1161",
+    "soc_title": "Market Research Analysts and Marketing Specialists",
+    "market_median_usd": 74680.0,
+    "employer_median_usd": 52000.0,
+    "gap_usd": -22680.0
+  }
+}

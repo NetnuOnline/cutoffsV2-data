@@ -1,0 +1,203 @@
+{
+  "slug": "federal-express",
+  "canonical_name": "Federal Express Corporation",
+  "fein": "71-0427007",
+  "lca_filing_count": 325,
+  "lca_worker_positions": 323,
+  "warn_notice_count": 0,
+  "median_wage_usd": 113820.88,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 4,
+      "median_wage_usd": 84105.0
+    },
+    {
+      "fy": 2021,
+      "filings": 6,
+      "median_wage_usd": 74641.0
+    },
+    {
+      "fy": 2022,
+      "filings": 5,
+      "median_wage_usd": 90876.0
+    },
+    {
+      "fy": 2023,
+      "filings": 4,
+      "median_wage_usd": 90006.5
+    },
+    {
+      "fy": 2024,
+      "filings": 125,
+      "median_wage_usd": 111572.62
+    },
+    {
+      "fy": 2025,
+      "filings": 110,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 69,
+      "median_wage_usd": 129373.12,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Full Stack Developer III",
+      "count": 32,
+      "median_wage_usd": 104990.0
+    },
+    {
+      "title": "Full Stack Developer Advisor",
+      "count": 30,
+      "median_wage_usd": 115482.0
+    },
+    {
+      "title": "Software Engineer III",
+      "count": 15,
+      "median_wage_usd": 110761.24
+    },
+    {
+      "title": "Revenue Science Advisor",
+      "count": 13,
+      "median_wage_usd": 122068.6
+    },
+    {
+      "title": "Manager IT",
+      "count": 9,
+      "median_wage_usd": 151395.5
+    },
+    {
+      "title": "Software Engineer Advisor",
+      "count": 8,
+      "median_wage_usd": 129929.23999999999
+    },
+    {
+      "title": "Data Scientist Advisor",
+      "count": 8,
+      "median_wage_usd": 130800.94
+    },
+    {
+      "title": "Marketing Data Science Advisor",
+      "count": 7,
+      "median_wage_usd": 120067.36
+    },
+    {
+      "title": "Data Analyst Advisor",
+      "count": 7,
+      "median_wage_usd": 111384.0
+    },
+    {
+      "title": "Operations Research Advisor",
+      "count": 6,
+      "median_wage_usd": 102989.5
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TN",
+      "county": "SHELBY",
+      "count": 81
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 23
+    },
+    {
+      "state": "PA",
+      "county": "ALLEGHENY",
+      "count": 14
+    },
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 4
+    },
+    {
+      "state": "FL",
+      "county": "MIAMI-DADE",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "county": "FORT BEND",
+      "count": 3
+    },
+    {
+      "state": "CO",
+      "county": "DENVER",
+      "count": 3
+    },
+    {
+      "state": "FL",
+      "county": "ORANGE",
+      "count": 3
+    },
+    {
+      "state": "NC",
+      "county": "WAKE",
+      "count": 2
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TN",
+      "count": 146
+    },
+    {
+      "state": "TX",
+      "count": 74
+    },
+    {
+      "state": "PA",
+      "count": 25
+    },
+    {
+      "state": "FL",
+      "count": 17
+    },
+    {
+      "state": "WI",
+      "count": 8
+    },
+    {
+      "state": "NJ",
+      "count": 8
+    },
+    {
+      "state": "GA",
+      "count": 7
+    },
+    {
+      "state": "NC",
+      "count": 6
+    },
+    {
+      "state": "CO",
+      "count": 5
+    },
+    {
+      "state": "CA",
+      "count": 5
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 113546.68,
+    "gap_usd": -16613.32
+  }
+}

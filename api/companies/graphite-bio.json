@@ -1,0 +1,76 @@
+{
+  "slug": "graphite-bio",
+  "canonical_name": "Graphite Bio",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 4,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 4
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "03/01/2023",
+      "effective_date": "06/01/2023",
+      "state": "CA",
+      "workers": 7,
+      "city": "Brisbane"
+    },
+    {
+      "date": "03/01/2023",
+      "effective_date": "04/24/2023",
+      "state": "CA",
+      "workers": 33,
+      "city": "Brisbane"
+    },
+    {
+      "date": "03/01/2023",
+      "effective_date": "04/24/2023",
+      "state": "CA",
+      "workers": 14,
+      "city": "South San Francisco"
+    },
+    {
+      "date": "03/01/2023",
+      "effective_date": "03/01/2023",
+      "state": "CA",
+      "workers": 2,
+      "city": "South San Francisco"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 3,
+    "continuing_denials": 0,
+    "total_approvals": 4,
+    "by_fy": [
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      }
+    ]
+  }
+}

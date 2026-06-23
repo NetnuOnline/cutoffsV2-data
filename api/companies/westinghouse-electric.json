@@ -1,0 +1,48 @@
+{
+  "slug": "westinghouse-electric",
+  "canonical_name": "Westinghouse Electric",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "SC",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "08/31/2017",
+      "effective_date": "08/31/2017",
+      "state": "SC",
+      "workers": 113,
+      "city": "Rock Hill"
+    },
+    {
+      "date": "08/31/2017",
+      "effective_date": "08/31/2017",
+      "state": "SC",
+      "workers": 561,
+      "city": "Jenkinsville"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "catawba-wib",
+      "name": "Catawba WIB",
+      "state": "SC"
+    },
+    {
+      "slug": "midlands-wib",
+      "name": "Midlands WIB",
+      "state": "SC"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

@@ -1,0 +1,80 @@
+{
+  "slug": "indymac-bank",
+  "canonical_name": "Indymac Bank",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 5,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "09/07/2008",
+      "effective_date": "09/07/2008",
+      "state": "NJ",
+      "workers": 127,
+      "city": "MARLTON"
+    },
+    {
+      "date": "07/21/2008",
+      "effective_date": "09/05/2008",
+      "state": "WA",
+      "workers": 51,
+      "city": "Bellevue"
+    },
+    {
+      "date": "07/18/2008",
+      "effective_date": "09/07/2008",
+      "state": "NY",
+      "workers": 0,
+      "city": "New York"
+    },
+    {
+      "date": "07/18/2008",
+      "effective_date": "07/18/2008",
+      "state": "GA",
+      "workers": 73,
+      "city": "Norcross"
+    },
+    {
+      "date": "07/14/2008",
+      "effective_date": "09/01/2008",
+      "state": "IL",
+      "workers": 64,
+      "city": "Schaumburg"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "burlington-wib",
+      "name": "Burlington WIB",
+      "state": "NJ"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

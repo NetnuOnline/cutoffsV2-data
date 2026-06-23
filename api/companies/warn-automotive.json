@@ -1,0 +1,66 @@
+{
+  "slug": "warn-automotive",
+  "canonical_name": "Warn Automotive, LLC",
+  "fein": "82-2067789",
+  "lca_filing_count": 4,
+  "lca_worker_positions": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 132250.08,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 138500.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "ERP Lead",
+      "count": 2,
+      "median_wage_usd": 138500.0
+    },
+    {
+      "title": "Design Engineer III - KBGFJG310233-1",
+      "count": 1,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "Supplier Quality Engineer",
+      "count": 1,
+      "median_wage_usd": 126000.16
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MI",
+      "county": "WAYNE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "OR",
+      "count": 3
+    },
+    {
+      "state": "MI",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 138500.0,
+    "gap_usd": 8340.0
+  }
+}

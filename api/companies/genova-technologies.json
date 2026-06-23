@@ -1,0 +1,62 @@
+{
+  "slug": "genova-technologies",
+  "canonical_name": "Genova Technologies, Inc.",
+  "fein": "42-1466298",
+  "lca_filing_count": 3,
+  "lca_worker_positions": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 87000.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 87000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 74000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 110000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 2,
+      "median_wage_usd": 80500.0
+    },
+    {
+      "title": "Software Developer IV",
+      "count": 1,
+      "median_wage_usd": 110000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IA",
+      "county": "LINN",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IA",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 87000.0,
+    "gap_usd": -43160.0
+  }
+}

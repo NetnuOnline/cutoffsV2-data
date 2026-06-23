@@ -1,0 +1,80 @@
+{
+  "slug": "twill",
+  "canonical_name": "Twill, Inc.",
+  "fein": "45-3762318",
+  "lca_filing_count": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 239740.8,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 239740.80000000002
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 151632.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 239740.80000000002
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "VP, Accounting and Corporate Development",
+      "count": 2,
+      "median_wage_usd": 239740.80000000002
+    },
+    {
+      "title": "VP, Controller",
+      "count": 1,
+      "median_wage_usd": 239740.80000000002
+    },
+    {
+      "title": "Senior Manager Security Engineering",
+      "count": 1,
+      "median_wage_usd": 151632.0
+    },
+    {
+      "title": "Director of Security",
+      "count": 1,
+      "median_wage_usd": 151632.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "ORANGE",
+      "count": 2
+    },
+    {
+      "state": "CT",
+      "county": "FAIRFIELD",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CT",
+      "count": 3
+    },
+    {
+      "state": "CA",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 5,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3031",
+    "soc_title": "Financial Managers",
+    "market_median_usd": 156100.0,
+    "employer_median_usd": 239740.8,
+    "gap_usd": 83640.8
+  }
+}

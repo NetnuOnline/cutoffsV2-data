@@ -1,0 +1,143 @@
+{
+  "slug": "newsday",
+  "canonical_name": "Newsday LLC",
+  "fein": null,
+  "lca_filing_count": 2,
+  "warn_notice_count": 9,
+  "median_wage_usd": 80621.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 80621.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Data Analyst ",
+      "count": 1,
+      "median_wage_usd": 80850.0
+    },
+    {
+      "title": "Data Solutions Journalist",
+      "count": 1,
+      "median_wage_usd": 80392.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 2
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "SUFFOLK",
+      "count": 2
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "09/14/2018",
+      "effective_date": "12/16/2018",
+      "state": "NY",
+      "workers": 1,
+      "city": "Melville"
+    },
+    {
+      "date": "06/28/2018",
+      "effective_date": "10/01/2018",
+      "state": "NY",
+      "workers": 369,
+      "city": "Melville"
+    },
+    {
+      "date": "05/11/2018",
+      "effective_date": "08/13/2018",
+      "state": "NY",
+      "workers": 31,
+      "city": "Melville"
+    },
+    {
+      "date": "04/09/2018",
+      "effective_date": "07/09/2018",
+      "state": "NY",
+      "workers": 12,
+      "city": "Melville"
+    },
+    {
+      "date": "03/22/2018",
+      "effective_date": "06/25/2018",
+      "state": "NY",
+      "workers": 4,
+      "city": "Melville"
+    },
+    {
+      "date": "03/09/2018",
+      "effective_date": "06/11/2018",
+      "state": "NY",
+      "workers": 162,
+      "city": "Melville"
+    },
+    {
+      "date": "02/23/2018",
+      "effective_date": "02/28/2018",
+      "state": "NY",
+      "workers": 8,
+      "city": "Melville"
+    },
+    {
+      "date": "02/15/2018",
+      "effective_date": "05/21/2018",
+      "state": "NY",
+      "workers": 51,
+      "city": "Melville"
+    },
+    {
+      "date": "02/08/2018",
+      "effective_date": "05/14/2018",
+      "state": "NY",
+      "workers": 72,
+      "city": "Melville"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "suffolk-county-lwia",
+      "name": "Suffolk County LWIA",
+      "state": "NY"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 0,
+    "continuing_denials": 0,
+    "total_approvals": 1,
+    "by_fy": [
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": []
+}

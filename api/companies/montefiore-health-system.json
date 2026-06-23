@@ -1,0 +1,90 @@
+{
+  "slug": "montefiore-health-system",
+  "canonical_name": "Montefiore Health System, Inc.",
+  "fein": "20-1615393",
+  "lca_filing_count": 7,
+  "lca_worker_positions": 7,
+  "warn_notice_count": 0,
+  "median_wage_usd": 150000.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 140480.99
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 151950.035
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 150000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Digital Product Manager",
+      "count": 2,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "title": "Information Security Engineer",
+      "count": 1,
+      "median_wage_usd": 170000.0
+    },
+    {
+      "title": "Team Lead ",
+      "count": 1,
+      "median_wage_usd": 150961.98
+    },
+    {
+      "title": "Database Engineer MIT",
+      "count": 1,
+      "median_wage_usd": 133900.07
+    },
+    {
+      "title": "Solutions Architect",
+      "count": 1,
+      "median_wage_usd": 180000.0
+    },
+    {
+      "title": "Database Engineer ",
+      "count": 1,
+      "median_wage_usd": 130000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "WESTCHESTER",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 5
+    },
+    {
+      "state": "AL",
+      "count": 1
+    },
+    {
+      "state": "AZ",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Information Technology Project Managers",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 150000.0,
+    "gap_usd": 32000.0
+  }
+}

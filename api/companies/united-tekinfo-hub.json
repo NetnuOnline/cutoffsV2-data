@@ -1,0 +1,95 @@
+{
+  "slug": "united-tekinfo-hub",
+  "canonical_name": "UNITED TEKINFO HUB LLC.",
+  "fein": "93-3171030",
+  "lca_filing_count": 8,
+  "lca_worker_positions": 8,
+  "warn_notice_count": 0,
+  "median_wage_usd": 80350.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 86000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 73154.0
+    },
+    {
+      "fy": 2026,
+      "filings": 6,
+      "median_wage_usd": 80350.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "DATA ANALYST",
+      "count": 2,
+      "median_wage_usd": 73577.0
+    },
+    {
+      "title": "Azure Solutions Architect",
+      "count": 1,
+      "median_wage_usd": 80496.0
+    },
+    {
+      "title": "SOFTWARE DEVELOPER",
+      "count": 1,
+      "median_wage_usd": 86000.0
+    },
+    {
+      "title": "DATA ENGINEER",
+      "count": 1,
+      "median_wage_usd": 73154.0
+    },
+    {
+      "title": "Linux System Administrator",
+      "count": 1,
+      "median_wage_usd": 80350.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 1,
+      "median_wage_usd": null
+    },
+    {
+      "title": "System Engineer",
+      "count": 1,
+      "median_wage_usd": 80350.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IL",
+      "county": "LAKE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 4
+    },
+    {
+      "state": "NE",
+      "count": 3
+    },
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 73154.0,
+    "gap_usd": -34866.0
+  }
+}

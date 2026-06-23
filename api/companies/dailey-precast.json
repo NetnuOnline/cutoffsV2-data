@@ -1,0 +1,62 @@
+{
+  "slug": "dailey-precast",
+  "canonical_name": "Dailey Precast",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "VT",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "06/09/2017",
+      "effective_date": "06/09/2017",
+      "state": "VT",
+      "workers": 55,
+      "city": "00 - Vermont Workforce Investment Area"
+    },
+    {
+      "date": "08/24/2015",
+      "effective_date": "08/24/2015",
+      "state": "VT",
+      "workers": 21,
+      "city": "00 - Vermont Workforce Investment Area"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 1,
+    "continuing_denials": 0,
+    "total_approvals": 1,
+    "by_fy": [
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  }
+}

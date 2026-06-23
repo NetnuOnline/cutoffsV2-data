@@ -1,0 +1,182 @@
+{
+  "slug": "assurecare",
+  "canonical_name": "AssureCare, LLC",
+  "fein": "46-5592345",
+  "lca_filing_count": 28,
+  "lca_worker_positions": 27,
+  "warn_notice_count": 0,
+  "median_wage_usd": 111828.12,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 12,
+      "median_wage_usd": 105539.0
+    },
+    {
+      "fy": 2021,
+      "filings": 5,
+      "median_wage_usd": 86087.0
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 104880.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 5,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 148625.04
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 166469.52000000002,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Technical Business Analyst",
+      "count": 6,
+      "median_wage_usd": 95000.0
+    },
+    {
+      "title": "Software Development Lead",
+      "count": 2,
+      "median_wage_usd": 106125.0
+    },
+    {
+      "title": "Software Architect",
+      "count": 2,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Solution Architect",
+      "count": 2,
+      "median_wage_usd": 145000.0
+    },
+    {
+      "title": "Product Owner",
+      "count": 2,
+      "median_wage_usd": 134312.52000000002
+    },
+    {
+      "title": "Business Analyst Senior",
+      "count": 1,
+      "median_wage_usd": 101733.0
+    },
+    {
+      "title": "Infrastructure Engineer Associate",
+      "count": 1,
+      "median_wage_usd": 68432.0
+    },
+    {
+      "title": "Technical Business Analyst Principal",
+      "count": 1,
+      "median_wage_usd": 129110.4
+    },
+    {
+      "title": "Software Developer Principal",
+      "count": 1,
+      "median_wage_usd": 145929.84
+    },
+    {
+      "title": "Solutions Architect Manager",
+      "count": 1,
+      "median_wage_usd": 142126.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "OH",
+      "county": "HAMILTON",
+      "count": 16
+    },
+    {
+      "state": "OH",
+      "county": "FRANKLIN",
+      "count": 2
+    },
+    {
+      "state": "PA",
+      "county": "CHESTER",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "ORANGE",
+      "count": 1
+    },
+    {
+      "state": "OH",
+      "county": "MONTGOMERY",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "county": "NATICK",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "county": "BOSTON CITY",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "OH",
+      "count": 20
+    },
+    {
+      "state": "TX",
+      "count": 3
+    },
+    {
+      "state": "MA",
+      "count": 2
+    },
+    {
+      "state": "VA",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1111",
+    "soc_title": "Management Analysts",
+    "market_median_usd": 99000.0,
+    "employer_median_usd": 101733.0,
+    "gap_usd": 2733.0
+  }
+}

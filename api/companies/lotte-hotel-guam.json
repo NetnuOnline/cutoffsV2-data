@@ -1,0 +1,88 @@
+{
+  "slug": "lotte-hotel-guam",
+  "canonical_name": "Lotte Hotel Guam, LLC",
+  "fein": "66-0797930",
+  "lca_filing_count": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 52020.5,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 50835.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 45728.5
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 53206.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "ACCOUNTING HEAD MANAGER",
+      "count": 1,
+      "median_wage_usd": 50835.0
+    },
+    {
+      "title": "Accounting Head Manager",
+      "count": 1,
+      "median_wage_usd": 53206.0
+    },
+    {
+      "title": "Database Administrator",
+      "count": 1,
+      "median_wage_usd": 60091.0
+    },
+    {
+      "title": "Market Research Analyst ",
+      "count": 1,
+      "median_wage_usd": 31366.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "GU",
+      "county": "TAMUNING",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "GU",
+      "count": 4
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 0,
+    "continuing_denials": 0,
+    "total_approvals": 1,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3031",
+    "soc_title": "Financial Managers",
+    "market_median_usd": 156100.0,
+    "employer_median_usd": 52020.5,
+    "gap_usd": -104079.5
+  }
+}

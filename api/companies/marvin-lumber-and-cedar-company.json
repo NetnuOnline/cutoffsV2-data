@@ -1,0 +1,105 @@
+{
+  "slug": "marvin-lumber-and-cedar-company",
+  "canonical_name": "Marvin Lumber and Cedar Company, LLC",
+  "fein": "41-0396845",
+  "lca_filing_count": 4,
+  "warn_notice_count": 1,
+  "median_wage_usd": 93669.5,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 3,
+      "median_wage_usd": 87339.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 100000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "IT Security Training Administrator",
+      "count": 2,
+      "median_wage_usd": 87339.0
+    },
+    {
+      "title": "Data Scientist",
+      "count": 1,
+      "median_wage_usd": 130500.0
+    },
+    {
+      "title": "Senior Product Design Engineer",
+      "count": 1,
+      "median_wage_usd": 100000.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MN",
+      "count": 4
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MN",
+      "county": "DAKOTA",
+      "count": 3
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "11/03/2025",
+      "effective_date": "04/17/2026",
+      "state": "FL",
+      "workers": 167,
+      "city": "WEST PALM BEACH"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "careersource-palm-beach-county",
+      "name": "CareerSource Palm Beach County",
+      "state": "FL"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 0,
+    "continuing_denials": 0,
+    "total_approvals": 1,
+    "by_fy": [
+      {
+        "fy": 2016,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": []
+}

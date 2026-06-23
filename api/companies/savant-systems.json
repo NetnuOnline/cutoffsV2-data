@@ -1,0 +1,107 @@
+{
+  "slug": "savant-systems",
+  "canonical_name": "Savant Systems, Inc.",
+  "fein": "85-1002349",
+  "lca_filing_count": 1,
+  "warn_notice_count": 1,
+  "median_wage_usd": 111758.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 111758.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior QA Engineer",
+      "count": 1,
+      "median_wage_usd": 111758.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MA",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MA",
+      "county": "BARNSTABLE CITY",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "10/07/2016",
+      "effective_date": "12/06/2016",
+      "state": "CA",
+      "workers": 18,
+      "city": "San Francisco"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 7,
+    "continuing_denials": 0,
+    "total_approvals": 8,
+    "by_fy": [
+      {
+        "fy": 2009,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2015,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2016,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 7,
+        "continuing_denials": 0,
+        "total_approvals": 7
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 1,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 111758.0,
+    "gap_usd": -18402.0
+  }
+}

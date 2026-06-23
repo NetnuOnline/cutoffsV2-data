@@ -1,0 +1,79 @@
+{
+  "slug": "happy-returns",
+  "canonical_name": "Happy Returns, Inc.",
+  "fein": "61-1774076",
+  "lca_filing_count": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 125000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 118000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 165360.68
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Manager of Growth Marketing",
+      "count": 2,
+      "median_wage_usd": 118000.0
+    },
+    {
+      "title": "MTS 2, Software Engineer",
+      "count": 2,
+      "median_wage_usd": 205721.36
+    },
+    {
+      "title": "Data Scientist",
+      "count": 1,
+      "median_wage_usd": 125000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 2
+    },
+    {
+      "state": "GA",
+      "county": "BULLOCH",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "count": 2
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-2021",
+    "soc_title": "Marketing Managers",
+    "market_median_usd": 157620.0,
+    "employer_median_usd": 118000.0,
+    "gap_usd": -39620.0
+  }
+}

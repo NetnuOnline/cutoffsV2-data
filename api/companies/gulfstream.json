@@ -1,0 +1,79 @@
+{
+  "slug": "gulfstream",
+  "canonical_name": "Gulfstream",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 6,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 3
+    },
+    {
+      "state": "CA",
+      "count": 2
+    },
+    {
+      "state": "NV",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "10/27/2020",
+      "effective_date": "12/31/2020",
+      "state": "CA",
+      "workers": 608,
+      "city": "Long Beach"
+    },
+    {
+      "date": "05/01/2020",
+      "effective_date": "05/01/2020",
+      "state": "CA",
+      "workers": 91,
+      "city": "Long Beach"
+    },
+    {
+      "date": "05/01/2020",
+      "effective_date": "05/01/2020",
+      "state": "NV",
+      "workers": 73,
+      "city": "Las Vegas, Clark County"
+    },
+    {
+      "date": "10/15/2019",
+      "effective_date": "10/15/2019",
+      "state": "GA",
+      "workers": 362,
+      "city": "Savannah"
+    },
+    {
+      "date": "12/15/2015",
+      "effective_date": "12/15/2015",
+      "state": "GA",
+      "workers": 349,
+      "city": "Savannah"
+    },
+    {
+      "date": "05/04/2009",
+      "effective_date": "05/04/2009",
+      "state": "GA",
+      "workers": 300,
+      "city": "Savannah"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "coastal-wib",
+      "name": "Coastal WIB",
+      "state": "GA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

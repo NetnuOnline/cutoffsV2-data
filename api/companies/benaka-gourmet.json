@@ -1,0 +1,68 @@
+{
+  "slug": "benaka-gourmet",
+  "canonical_name": "Benaka Gourmet LLC",
+  "fein": "47-2131545",
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 142324.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 135283.2
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 149364.80000000002
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "System Software Engineer",
+      "count": 2,
+      "median_wage_usd": 142324.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 0,
+    "continuing_denials": 0,
+    "total_approvals": 1,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 142324.0,
+    "gap_usd": 12164.0
+  }
+}

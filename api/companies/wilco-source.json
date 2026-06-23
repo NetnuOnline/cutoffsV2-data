@@ -1,0 +1,175 @@
+{
+  "slug": "wilco-source",
+  "canonical_name": "Wilco Source, LLC",
+  "fein": "47-1353059",
+  "lca_filing_count": 21,
+  "lca_worker_positions": 20,
+  "warn_notice_count": 0,
+  "median_wage_usd": 120000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 5,
+      "median_wage_usd": 86632.0
+    },
+    {
+      "fy": 2022,
+      "filings": 7,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 142700.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 151000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 123723.42,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Salesforce Developer",
+      "count": 9,
+      "median_wage_usd": 86632.0
+    },
+    {
+      "title": "Senior Software Developer",
+      "count": 4,
+      "median_wage_usd": 172000.0
+    },
+    {
+      "title": "Salesforce Product Specialist",
+      "count": 2,
+      "median_wage_usd": 151000.0
+    },
+    {
+      "title": "Technical Architect",
+      "count": 2,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "title": "Salesforce Lead Engineer",
+      "count": 1,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 1,
+      "median_wage_usd": 113547.0
+    },
+    {
+      "title": "ETL Developer",
+      "count": 1,
+      "median_wage_usd": 87000.0
+    },
+    {
+      "title": "Senior Business Systems Analyst",
+      "count": 1,
+      "median_wage_usd": 133899.84
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 5
+    },
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 4
+    },
+    {
+      "state": "NC",
+      "county": "WAKE",
+      "count": 2
+    },
+    {
+      "state": "KS",
+      "county": "JOHNSON",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "county": "OAKLAND",
+      "count": 1
+    },
+    {
+      "state": "DE",
+      "county": "NEW CASTLE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "AZ",
+      "count": 6
+    },
+    {
+      "state": "TX",
+      "count": 5
+    },
+    {
+      "state": "NC",
+      "count": 3
+    },
+    {
+      "state": "MD",
+      "count": 2
+    },
+    {
+      "state": "KS",
+      "count": 2
+    },
+    {
+      "state": "GA",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "count": 1
+    },
+    {
+      "state": "DE",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 151000.0,
+    "gap_usd": 20840.0
+  }
+}

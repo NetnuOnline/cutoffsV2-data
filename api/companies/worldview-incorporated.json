@@ -1,0 +1,75 @@
+{
+  "slug": "worldview-incorporated",
+  "canonical_name": "Worldview Incorporated",
+  "fein": "82-1655470",
+  "lca_filing_count": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 215013.5,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 145000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 165000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 265027.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "VP of Product",
+      "count": 2,
+      "median_wage_usd": 265027.0
+    },
+    {
+      "title": "Director of Product",
+      "count": 1,
+      "median_wage_usd": 165000.0
+    },
+    {
+      "title": "Senior Machine Learning Engineer ",
+      "count": 1,
+      "median_wage_usd": 145000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 3
+    },
+    {
+      "state": "NY",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-2021",
+    "soc_title": "Marketing Managers",
+    "market_median_usd": 157620.0,
+    "employer_median_usd": 265027.0,
+    "gap_usd": 107407.0
+  }
+}

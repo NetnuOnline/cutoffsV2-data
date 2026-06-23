@@ -1,0 +1,168 @@
+{
+  "slug": "merative-us",
+  "canonical_name": "Merative US LP",
+  "fein": "88-1430661",
+  "lca_filing_count": 15,
+  "lca_worker_positions": 13,
+  "warn_notice_count": 0,
+  "median_wage_usd": 160650.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 146106.9
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 148171.68
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 5,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 4,
+      "median_wage_usd": 184824.49,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Curam Technical Consultant",
+      "count": 4,
+      "median_wage_usd": 132500.0
+    },
+    {
+      "title": "Architect, Software Development",
+      "count": 2,
+      "median_wage_usd": 176941.8
+    },
+    {
+      "title": "DevOps Engineer",
+      "count": 2,
+      "median_wage_usd": 115272.0
+    },
+    {
+      "title": "Principal Consultant",
+      "count": 2,
+      "median_wage_usd": 187622.3
+    },
+    {
+      "title": "Senior Curam Consultant",
+      "count": 1,
+      "median_wage_usd": 160650.0
+    },
+    {
+      "title": "Technical Project Manager",
+      "count": 1,
+      "median_wage_usd": 148171.68
+    },
+    {
+      "title": "Senior Data Scientist",
+      "count": 1,
+      "median_wage_usd": 184300.26
+    },
+    {
+      "title": "Client Technical Specialist",
+      "count": 1,
+      "median_wage_usd": 182026.68
+    },
+    {
+      "title": "Principal Architect",
+      "count": 1,
+      "median_wage_usd": 209366.59
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NJ",
+      "county": "SOMERSET",
+      "count": 2
+    },
+    {
+      "state": "MI",
+      "county": "WASHTENAW",
+      "count": 2
+    },
+    {
+      "state": "OH",
+      "county": "CUYAHOGA",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "county": "WAKE",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "county": "ST JOHNS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NC",
+      "count": 3
+    },
+    {
+      "state": "MI",
+      "count": 2
+    },
+    {
+      "state": "OH",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "SC",
+      "count": 1
+    },
+    {
+      "state": "MN",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "count": 1
+    },
+    {
+      "state": "AR",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 168795.9,
+    "gap_usd": 38635.9
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "slug": "alamo-group",
+  "canonical_name": "Alamo Group",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 1,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "KS",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "12/05/2005",
+      "effective_date": "12/05/2005",
+      "state": "KS",
+      "workers": 130,
+      "city": "2 - Workforce Investment Area II"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2007-01-16",
+        "formType": "8-K",
+        "accessionNumber": "0001003297-07-000010",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000897077&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 1,
+    "itemCounts": {
+      "5.02": 1
+    },
+    "latestFilingDate": "2007-01-16",
+    "earliestFilingDate": "2007-01-16"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

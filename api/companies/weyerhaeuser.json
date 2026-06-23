@@ -1,0 +1,788 @@
+{
+  "slug": "weyerhaeuser",
+  "canonical_name": "Weyerhaeuser",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 23,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "OR",
+      "count": 6
+    },
+    {
+      "state": "OK",
+      "count": 4
+    },
+    {
+      "state": "GA",
+      "count": 3
+    },
+    {
+      "state": "WA",
+      "count": 3
+    },
+    {
+      "state": "IL",
+      "count": 3
+    },
+    {
+      "state": "NC",
+      "count": 1
+    },
+    {
+      "state": "LA",
+      "count": 1
+    },
+    {
+      "state": "AL",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "07/18/2024",
+      "effective_date": "09/16/2024",
+      "state": "NC",
+      "workers": 73,
+      "city": "1482 Weyerhaeuser Road, Vanceboro"
+    },
+    {
+      "date": "12/07/2009",
+      "effective_date": "12/07/2009",
+      "state": "OR",
+      "workers": 140,
+      "city": "Warrenton"
+    },
+    {
+      "date": "03/17/2009",
+      "effective_date": "03/17/2009",
+      "state": "OK",
+      "workers": 175,
+      "city": "09 - SouthEastRegion"
+    },
+    {
+      "date": "03/17/2009",
+      "effective_date": "03/17/2009",
+      "state": "OK",
+      "workers": 0,
+      "city": "Idabel"
+    },
+    {
+      "date": "03/11/2009",
+      "effective_date": "03/11/2009",
+      "state": "LA",
+      "workers": 136,
+      "city": "706 Highway 167 North Dodson, LA. 7142"
+    },
+    {
+      "date": "02/06/2009",
+      "effective_date": "02/05/2009",
+      "state": "AL",
+      "workers": 300,
+      "city": "Pine Hill"
+    },
+    {
+      "date": "11/14/2008",
+      "effective_date": "11/14/2008",
+      "state": "GA",
+      "workers": 105,
+      "city": "Colbert"
+    },
+    {
+      "date": "03/10/2008",
+      "effective_date": "05/01/2008",
+      "state": "WA",
+      "workers": 81,
+      "city": "Toutle"
+    },
+    {
+      "date": "03/03/2008",
+      "effective_date": "05/04/2008",
+      "state": "OR",
+      "workers": 56,
+      "city": "Junction City"
+    },
+    {
+      "date": "12/20/2007",
+      "effective_date": "12/20/2007",
+      "state": "GA",
+      "workers": 245,
+      "city": "Valdosta"
+    },
+    {
+      "date": "10/02/2007",
+      "effective_date": "10/02/2007",
+      "state": "GA",
+      "workers": 82,
+      "city": "Colbert"
+    },
+    {
+      "date": "02/09/2007",
+      "effective_date": "04/01/2007",
+      "state": "OR",
+      "workers": 76,
+      "city": "Lebanon"
+    },
+    {
+      "date": "10/20/2006",
+      "effective_date": "11/01/2006",
+      "state": "IL",
+      "workers": 56,
+      "city": "Chicago"
+    },
+    {
+      "date": "10/24/2005",
+      "effective_date": "10/24/2005",
+      "state": "OK",
+      "workers": 250,
+      "city": "09 - SouthEastRegion"
+    },
+    {
+      "date": "10/24/2005",
+      "effective_date": "10/24/2005",
+      "state": "OK",
+      "workers": 0,
+      "city": "Idabel"
+    },
+    {
+      "date": "10/24/2005",
+      "effective_date": "10/01/2006",
+      "state": "WA",
+      "workers": 245,
+      "city": "Cosmopolis"
+    },
+    {
+      "date": "10/24/2005",
+      "effective_date": "12/19/2005",
+      "state": "WA",
+      "workers": 97,
+      "city": "Aberdeen"
+    },
+    {
+      "date": "03/01/2000",
+      "effective_date": "04/01/2000",
+      "state": "IL",
+      "workers": 97,
+      "city": "Rock Island"
+    },
+    {
+      "date": "03/01/2000",
+      "effective_date": "03/01/2000",
+      "state": "TX",
+      "workers": 92,
+      "city": "Houston"
+    },
+    {
+      "date": "12/18/1995",
+      "effective_date": "02/15/1996",
+      "state": "OR",
+      "workers": 715,
+      "city": "Klamath Falls"
+    },
+    {
+      "date": "10/19/1993",
+      "effective_date": "01/06/1994",
+      "state": "OR",
+      "workers": 70,
+      "city": "COTTAGE GROVE"
+    },
+    {
+      "date": "08/28/1990",
+      "effective_date": "09/10/1990",
+      "state": "OR",
+      "workers": 290,
+      "city": "Springfield"
+    },
+    {
+      "date": "07/19/1990",
+      "effective_date": "08/01/1990",
+      "state": "IL",
+      "workers": 217,
+      "city": "Itasca"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "southeast-wia",
+      "name": "Southeast WIA",
+      "state": "OK"
+    },
+    {
+      "slug": "northwest-oregon-wia",
+      "name": "Northwest Oregon WIA",
+      "state": "OR"
+    },
+    {
+      "slug": "lane-wia",
+      "name": "Lane WIA",
+      "state": "OR"
+    },
+    {
+      "slug": "central-oregoneast-cascades-wia",
+      "name": "Central Oregon/East Cascades WIA",
+      "state": "OR"
+    }
+  ],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2024-05-13",
+        "formType": "8-K",
+        "accessionNumber": "0000950170-24-058824",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000106535&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2022-05-16",
+        "formType": "8-K",
+        "accessionNumber": "0001564590-22-020262",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000106535&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2021-08-18",
+        "formType": "8-K",
+        "accessionNumber": "0001564590-21-045039",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000106535&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2021-02-17",
+        "formType": "8-K",
+        "accessionNumber": "0001564590-21-006424",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000106535&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2019-12-17",
+        "formType": "8-K",
+        "accessionNumber": "0001564590-19-046141",
+        "items": [
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000106535&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2017-11-13",
+        "formType": "8-K",
+        "accessionNumber": "0000106535-17-000058",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000106535&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2017-06-05",
+        "formType": "8-K",
+        "accessionNumber": "0000106535-17-000025",
+        "items": [
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000106535&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2015-05-26",
+        "formType": "8-K/A",
+        "accessionNumber": "0000106535-15-000022",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000106535&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2014-11-14",
+        "formType": "8-K",
+        "accessionNumber": "0000106535-14-000063",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000106535&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2014-01-24",
+        "formType": "8-K",
+        "accessionNumber": "0000106535-14-000007",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000106535&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2014-01-07",
+        "formType": "8-K",
+        "accessionNumber": "0000106535-14-000002",
+        "items": [
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000106535&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2013-09-18",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-13-369558",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000106535&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2013-08-21",
+        "formType": "8-K",
+        "accessionNumber": "0000106535-13-000047",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000106535&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2013-08-02",
+        "formType": "8-K",
+        "accessionNumber": "0000106535-13-000042",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000106535&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2013-02-19",
+        "formType": "8-K",
+        "accessionNumber": "0000106535-13-000009",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000106535&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2013-02-12",
+        "formType": "8-K",
+        "accessionNumber": "0000106535-13-000006",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000106535&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2012-08-13",
+        "formType": "8-K/A",
+        "accessionNumber": "0000106535-12-000073",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000106535&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2012-06-20",
+        "formType": "8-K",
+        "accessionNumber": "0000106535-12-000040",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000106535&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2010-12-13",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-10-278923",
+        "items": [
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000106535&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2010-10-22",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-10-234382",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000106535&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2009-04-21",
+        "formType": "8-K",
+        "accessionNumber": "0001144204-09-021566",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000106535&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2009-04-20",
+        "formType": "8-K/A",
+        "accessionNumber": "0001144204-09-021372",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000106535&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2009-01-27",
+        "formType": "8-K",
+        "accessionNumber": "0001144204-09-003514",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000106535&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2008-12-16",
+        "formType": "8-K",
+        "accessionNumber": "0001144204-08-069633",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000106535&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2008-06-27",
+        "formType": "8-K",
+        "accessionNumber": "0000950134-08-011906",
+        "items": [
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000106535&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2008-04-22",
+        "formType": "8-K",
+        "accessionNumber": "0000950134-08-007065",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000106535&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2007-12-18",
+        "formType": "8-K",
+        "accessionNumber": "0000950134-07-025648",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000106535&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2007-10-24",
+        "formType": "8-K",
+        "accessionNumber": "0000950134-07-021825",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000106535&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2007-02-22",
+        "formType": "8-K",
+        "accessionNumber": "0000950134-07-003815",
+        "items": [
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000106535&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2006-12-20",
+        "formType": "8-K/A",
+        "accessionNumber": "0000950124-06-007718",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000106535&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2006-10-05",
+        "formType": "8-K",
+        "accessionNumber": "0000950124-06-005765",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000106535&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2006-02-22",
+        "formType": "8-K",
+        "accessionNumber": "0000106535-06-000055",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000106535&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2006-02-17",
+        "formType": "8-K",
+        "accessionNumber": "0000106535-06-000051",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000106535&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2005-12-21",
+        "formType": "8-K",
+        "accessionNumber": "0000891020-05-000352",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000106535&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2005-12-16",
+        "formType": "8-K",
+        "accessionNumber": "0000106535-05-000161",
+        "items": [
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000106535&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2005-12-16",
+        "formType": "8-K/A",
+        "accessionNumber": "0000106535-05-000165",
+        "items": [
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000106535&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2005-11-29",
+        "formType": "8-K",
+        "accessionNumber": "0000950124-05-006644",
+        "items": [
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000106535&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2005-11-08",
+        "formType": "8-K/A",
+        "accessionNumber": "0000106535-05-000154",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000106535&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2005-10-24",
+        "formType": "8-K",
+        "accessionNumber": "0000106535-05-000148",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000106535&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2005-10-24",
+        "formType": "8-K",
+        "accessionNumber": "0000106535-05-000151",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000106535&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2005-10-24",
+        "formType": "8-K",
+        "accessionNumber": "0000106535-05-000152",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000106535&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2005-10-21",
+        "formType": "8-K",
+        "accessionNumber": "0000106535-05-000144",
+        "items": [
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000106535&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2005-04-25",
+        "formType": "8-K",
+        "accessionNumber": "0000106535-05-000108",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000106535&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2005-04-25",
+        "formType": "8-K",
+        "accessionNumber": "0000106535-05-000109",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000106535&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2004-12-14",
+        "formType": "8-K",
+        "accessionNumber": "0000106535-04-000028",
+        "items": [
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000106535&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 45,
+    "itemCounts": {
+      "5.02": 29,
+      "2.06": 11,
+      "2.05": 5
+    },
+    "latestFilingDate": "2024-05-13",
+    "earliestFilingDate": "2004-12-14"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

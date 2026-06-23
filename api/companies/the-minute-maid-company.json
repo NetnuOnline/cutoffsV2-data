@@ -1,0 +1,54 @@
+{
+  "slug": "the-minute-maid-company",
+  "canonical_name": "The Minute Maid Company",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 1,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "04/25/2000",
+      "effective_date": "03/25/2000",
+      "state": "TX",
+      "workers": 53,
+      "city": "Houston"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2020-08-28",
+        "formType": "8-K",
+        "accessionNumber": "0001552781-20-000463",
+        "items": [
+          "2.05",
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities",
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000021344&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 1,
+    "itemCounts": {
+      "2.05": 1,
+      "5.02": 1
+    },
+    "latestFilingDate": "2020-08-28",
+    "earliestFilingDate": "2020-08-28"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

@@ -1,0 +1,140 @@
+{
+  "slug": "united-airlines",
+  "canonical_name": "United Airlines, Inc.",
+  "fein": "74-2099724",
+  "lca_filing_count": 18,
+  "lca_worker_positions": 18,
+  "warn_notice_count": 0,
+  "median_wage_usd": 124746.14,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 3,
+      "median_wage_usd": 101000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 4,
+      "median_wage_usd": 132731.71000000002
+    },
+    {
+      "fy": 2023,
+      "filings": 4,
+      "median_wage_usd": 118246.14
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 123760.88
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 134641.1
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 121014.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Sr. Data Scientist - Operations Research",
+      "count": 3,
+      "median_wage_usd": 112000.0
+    },
+    {
+      "title": "Senior Data Scientist \u201c Statistics",
+      "count": 2,
+      "median_wage_usd": 115507.0
+    },
+    {
+      "title": "Director - Decision Sciences",
+      "count": 1,
+      "median_wage_usd": 173073.6
+    },
+    {
+      "title": "Sr Data Scientist - Statistics",
+      "count": 1,
+      "median_wage_usd": 124492.28
+    },
+    {
+      "title": "Fleet Manager - Tech Services",
+      "count": 1,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "title": "Sr. Manager IT Appl Developer",
+      "count": 1,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "title": "Senior Manager \u201c IT Application Development",
+      "count": 1,
+      "median_wage_usd": 159406.88
+    },
+    {
+      "title": "Lead Scientist - Operations Research",
+      "count": 1,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Manager - Financial Planning & Analysis",
+      "count": 1,
+      "median_wage_usd": 112507.4
+    },
+    {
+      "title": "Sr Analyst - Data  and Statistics",
+      "count": 1,
+      "median_wage_usd": 80000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 11
+    },
+    {
+      "state": "TX",
+      "county": "TARRANT",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 15
+    },
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 112000.0,
+    "gap_usd": 3980.0
+  }
+}

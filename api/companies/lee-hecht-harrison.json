@@ -1,0 +1,116 @@
+{
+  "slug": "lee-hecht-harrison",
+  "canonical_name": "Lee Hecht Harrison, LLC",
+  "fein": "11-3575564",
+  "lca_filing_count": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 100000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 97552.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 135000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Data Scientist",
+      "count": 1,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "title": "Project Owner",
+      "count": 1,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "title": "MANAGER, QUALITY ASSURANCE & SUPPORT",
+      "count": 1,
+      "median_wage_usd": 97552.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "county": "SEMINOLE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "FL",
+      "count": 2
+    },
+    {
+      "state": "WA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 3,
+    "continuing_denials": 0,
+    "total_approvals": 3,
+    "by_fy": [
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1253",
+    "soc_title": "Software Quality Assurance Analysts and Testers",
+    "market_median_usd": 101800.0,
+    "employer_median_usd": 97552.0,
+    "gap_usd": -4248.0
+  }
+}

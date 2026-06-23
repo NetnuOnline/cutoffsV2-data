@@ -1,0 +1,114 @@
+{
+  "slug": "situsamc-holdings",
+  "canonical_name": "SitusAMC Holdings Corporation",
+  "fein": "84-2147948",
+  "lca_filing_count": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 140000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 325000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 142500.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 140000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Associate, Site Reliability Engineer",
+      "count": 1,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "title": "Senior Director, Primary Markets Technology",
+      "count": 1,
+      "median_wage_usd": 325000.0
+    },
+    {
+      "title": "Development Ops Engineering Lead",
+      "count": 1,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Asst. Vice Pres., Data Eng. and Data Warehousing",
+      "count": 1,
+      "median_wage_usd": 155000.0
+    },
+    {
+      "title": "AVP, Endpoint Administrator",
+      "count": 1,
+      "median_wage_usd": 130000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 1
+    },
+    {
+      "state": "CO",
+      "county": "DENVER",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 3
+    },
+    {
+      "state": "NY",
+      "count": 1
+    },
+    {
+      "state": "CO",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 5,
+    "continuing_denials": 0,
+    "total_approvals": 5,
+    "by_fy": [
+      {
+        "fy": 2020,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 5,
+        "continuing_denials": 0,
+        "total_approvals": 5
+      }
+    ]
+  },
+  "lca_worker_positions": 5,
+  "top_socs": [],
+  "lca_periods": []
+}

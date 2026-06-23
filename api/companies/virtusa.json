@@ -1,0 +1,203 @@
+{
+  "slug": "virtusa",
+  "canonical_name": "Virtusa Corporation",
+  "fein": "04-3512883",
+  "lca_filing_count": 1281,
+  "lca_worker_positions": 1208,
+  "warn_notice_count": 0,
+  "median_wage_usd": 114857.5,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 250,
+      "median_wage_usd": 102800.0
+    },
+    {
+      "fy": 2021,
+      "filings": 220,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 150,
+      "median_wage_usd": 116500.0
+    },
+    {
+      "fy": 2023,
+      "filings": 160,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 178,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 138,
+      "median_wage_usd": 124611.5
+    },
+    {
+      "fy": 2026,
+      "filings": 107,
+      "median_wage_usd": 125000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "JAVA ENGINEER 2",
+      "count": 122,
+      "median_wage_usd": 104662.5
+    },
+    {
+      "title": "IT PROJECT MANAGER 3",
+      "count": 120,
+      "median_wage_usd": 130453.5
+    },
+    {
+      "title": "JAVA ANALYST 2",
+      "count": 96,
+      "median_wage_usd": 122000.0
+    },
+    {
+      "title": "JUNIOR COMPUTER SYSTEMS ENGINEER 1",
+      "count": 64,
+      "median_wage_usd": 75000.0
+    },
+    {
+      "title": "JAVA ANALYST 3",
+      "count": 55,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "BUSINESS ANALYST 3",
+      "count": 52,
+      "median_wage_usd": 120070.5
+    },
+    {
+      "title": "QUALITY ASSURANCE ENGINEER 3",
+      "count": 40,
+      "median_wage_usd": 114880.0
+    },
+    {
+      "title": "DB ARCHITECT 3",
+      "count": 40,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "title": "QUALITY ASSURANCE ENGINEER 2",
+      "count": 37,
+      "median_wage_usd": 92000.0
+    },
+    {
+      "title": "BUSINESS ANALYST 2",
+      "count": 37,
+      "median_wage_usd": 105000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "FL",
+      "county": "HILLSBOROUGH",
+      "count": 81
+    },
+    {
+      "state": "PA",
+      "county": "ALLEGHENY",
+      "count": 80
+    },
+    {
+      "state": "OH",
+      "county": "DELAWARE",
+      "count": 65
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 63
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 57
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 51
+    },
+    {
+      "state": "NJ",
+      "county": "HUDSON",
+      "count": 48
+    },
+    {
+      "state": "DE",
+      "county": "NEW CASTLE",
+      "count": 42
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 38
+    },
+    {
+      "state": "VA",
+      "county": "NORFOLK CITY",
+      "count": 33
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 203
+    },
+    {
+      "state": "NJ",
+      "count": 192
+    },
+    {
+      "state": "FL",
+      "count": 140
+    },
+    {
+      "state": "PA",
+      "count": 124
+    },
+    {
+      "state": "OH",
+      "count": 119
+    },
+    {
+      "state": "NY",
+      "count": 82
+    },
+    {
+      "state": "GA",
+      "count": 58
+    },
+    {
+      "state": "DE",
+      "count": 48
+    },
+    {
+      "state": "VA",
+      "count": 40
+    },
+    {
+      "state": "NC",
+      "count": 40
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1211",
+    "soc_title": "Computer Systems Analysts",
+    "market_median_usd": 103800.0,
+    "employer_median_usd": 125000.0,
+    "gap_usd": 21200.0
+  }
+}

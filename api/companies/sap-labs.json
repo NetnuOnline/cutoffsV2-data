@@ -1,0 +1,203 @@
+{
+  "slug": "sap-labs",
+  "canonical_name": "SAP Labs, LLC.",
+  "fein": "23-2852542",
+  "lca_filing_count": 183,
+  "lca_worker_positions": 182,
+  "warn_notice_count": 0,
+  "median_wage_usd": 150000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 38,
+      "median_wage_usd": 139753.96000000002
+    },
+    {
+      "fy": 2021,
+      "filings": 30,
+      "median_wage_usd": 140922.03999999998
+    },
+    {
+      "fy": 2022,
+      "filings": 28,
+      "median_wage_usd": 142646.5
+    },
+    {
+      "fy": 2023,
+      "filings": 24,
+      "median_wage_usd": 156312.0
+    },
+    {
+      "fy": 2024,
+      "filings": 26,
+      "median_wage_usd": 164624.0
+    },
+    {
+      "fy": 2025,
+      "filings": 19,
+      "median_wage_usd": 164102.0
+    },
+    {
+      "fy": 2026,
+      "filings": 17,
+      "median_wage_usd": 153000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Developer",
+      "count": 30,
+      "median_wage_usd": 133104.0
+    },
+    {
+      "title": "Senior Developer",
+      "count": 26,
+      "median_wage_usd": 159030.5
+    },
+    {
+      "title": "Development Expert",
+      "count": 13,
+      "median_wage_usd": 152560.0
+    },
+    {
+      "title": "Development Architect",
+      "count": 7,
+      "median_wage_usd": 167594.0
+    },
+    {
+      "title": "Product Expert",
+      "count": 6,
+      "median_wage_usd": 203026.5
+    },
+    {
+      "title": "Senior DevOps Engineer",
+      "count": 5,
+      "median_wage_usd": 167617.92
+    },
+    {
+      "title": "DevOps Engineer",
+      "count": 5,
+      "median_wage_usd": 140036.0
+    },
+    {
+      "title": "Quality Specialist",
+      "count": 4,
+      "median_wage_usd": 147832.5
+    },
+    {
+      "title": "Associate Development Architect",
+      "count": 4,
+      "median_wage_usd": 128813.56
+    },
+    {
+      "title": "Support Engineer",
+      "count": 4,
+      "median_wage_usd": 90729.5
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 82
+    },
+    {
+      "state": "PA",
+      "county": "DELAWARE",
+      "count": 17
+    },
+    {
+      "state": "CA",
+      "county": "ORANGE",
+      "count": 12
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 9
+    },
+    {
+      "state": "CA",
+      "county": "CONTRA COSTA",
+      "count": 9
+    },
+    {
+      "state": "PA",
+      "county": "ALLEGHENY",
+      "count": 4
+    },
+    {
+      "state": "WI",
+      "county": "LA CROSSE",
+      "count": 3
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 2
+    },
+    {
+      "state": "MA",
+      "county": "BOSTON CITY",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 126
+    },
+    {
+      "state": "PA",
+      "count": 27
+    },
+    {
+      "state": "TX",
+      "count": 12
+    },
+    {
+      "state": "MA",
+      "count": 4
+    },
+    {
+      "state": "WA",
+      "count": 4
+    },
+    {
+      "state": "WI",
+      "count": 4
+    },
+    {
+      "state": "VA",
+      "count": 2
+    },
+    {
+      "state": "GA",
+      "count": 1
+    },
+    {
+      "state": "MN",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 151370.0,
+    "gap_usd": 21210.0
+  }
+}

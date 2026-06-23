@@ -1,0 +1,46 @@
+{
+  "slug": "g-l-beaumont-lumber-company",
+  "canonical_name": "G L Beaumont Lumber Company",
+  "fein": null,
+  "lca_filing_count": 1,
+  "warn_notice_count": 0,
+  "median_wage_usd": 45240.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 45240.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Accountant",
+      "count": 1,
+      "median_wage_usd": 45240.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IL",
+      "county": "FAYETTE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 1,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-2011",
+    "soc_title": "Accountants and Auditors",
+    "market_median_usd": 79000.0,
+    "employer_median_usd": 45240.0,
+    "gap_usd": -33760.0
+  }
+}

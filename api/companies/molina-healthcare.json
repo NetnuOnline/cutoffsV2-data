@@ -1,0 +1,203 @@
+{
+  "slug": "molina-healthcare",
+  "canonical_name": "Molina Healthcare, Inc.",
+  "fein": "13-4204626",
+  "lca_filing_count": 67,
+  "lca_worker_positions": 62,
+  "warn_notice_count": 0,
+  "median_wage_usd": 140000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 8,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 5,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 12,
+      "median_wage_usd": 131463.0
+    },
+    {
+      "fy": 2023,
+      "filings": 8,
+      "median_wage_usd": 134996.0
+    },
+    {
+      "fy": 2024,
+      "filings": 12,
+      "median_wage_usd": 142000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 9,
+      "median_wage_usd": 159862.5
+    },
+    {
+      "fy": 2026,
+      "filings": 8,
+      "median_wage_usd": 144723.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Lead Engineer, Applications",
+      "count": 7,
+      "median_wage_usd": 143512.0
+    },
+    {
+      "title": "Lead Analyst, Healthcare Analytics",
+      "count": 4,
+      "median_wage_usd": 117578.0
+    },
+    {
+      "title": "Senior Engineer, Applications",
+      "count": 4,
+      "median_wage_usd": 134527.5
+    },
+    {
+      "title": "Architect, Information Systems",
+      "count": 3,
+      "median_wage_usd": 140318.14
+    },
+    {
+      "title": "Manager, Applications",
+      "count": 3,
+      "median_wage_usd": 159862.5
+    },
+    {
+      "title": "Lead Analyst, IT Systems",
+      "count": 3,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "title": "Sr. Engineer, Applications",
+      "count": 3,
+      "median_wage_usd": 127926.0
+    },
+    {
+      "title": "Manager, Data Analytics",
+      "count": 2,
+      "median_wage_usd": 145837.5
+    },
+    {
+      "title": "Lead Engineer, Big Data",
+      "count": 2,
+      "median_wage_usd": 182131.25
+    },
+    {
+      "title": "Lead Analyst, Healthcare Analytics ",
+      "count": 2,
+      "median_wage_usd": 119416.62
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 15
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 5
+    },
+    {
+      "state": "CA",
+      "county": "ORANGE",
+      "count": 3
+    },
+    {
+      "state": "OH",
+      "county": "DELAWARE",
+      "count": 3
+    },
+    {
+      "state": "NC",
+      "county": "MECKLENBURG",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 3
+    },
+    {
+      "state": "OH",
+      "county": "FRANKLIN",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "county": "SNOHOMISH",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 27
+    },
+    {
+      "state": "TX",
+      "count": 18
+    },
+    {
+      "state": "OH",
+      "count": 7
+    },
+    {
+      "state": "AZ",
+      "count": 5
+    },
+    {
+      "state": "NC",
+      "count": 3
+    },
+    {
+      "state": "CO",
+      "count": 2
+    },
+    {
+      "state": "TN",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 140318.14,
+    "gap_usd": 10158.14
+  }
+}

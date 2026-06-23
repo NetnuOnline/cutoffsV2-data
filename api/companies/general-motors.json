@@ -1,0 +1,188 @@
+{
+  "slug": "general-motors",
+  "canonical_name": "General Motors LLC",
+  "fein": "27-0383222",
+  "lca_filing_count": 538,
+  "lca_worker_positions": 534,
+  "warn_notice_count": 0,
+  "median_wage_usd": 138757.33,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 107681.4
+    },
+    {
+      "fy": 2024,
+      "filings": 212,
+      "median_wage_usd": 125674.5
+    },
+    {
+      "fy": 2025,
+      "filings": 188,
+      "median_wage_usd": 142698.62
+    },
+    {
+      "fy": 2026,
+      "filings": 133,
+      "median_wage_usd": 147338.47,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Software Engineer",
+      "count": 83,
+      "median_wage_usd": 142900.28
+    },
+    {
+      "title": "Software Engineer",
+      "count": 27,
+      "median_wage_usd": 113022.0
+    },
+    {
+      "title": "Senior Systems Engineer",
+      "count": 23,
+      "median_wage_usd": 142040.0
+    },
+    {
+      "title": "Design Release Engineer",
+      "count": 12,
+      "median_wage_usd": 125101.85
+    },
+    {
+      "title": "Controller Integration Engineer",
+      "count": 9,
+      "median_wage_usd": 109131.12
+    },
+    {
+      "title": "Senior Quality Engineer",
+      "count": 9,
+      "median_wage_usd": 137156.25
+    },
+    {
+      "title": "Senior Controller Integration Engineer",
+      "count": 8,
+      "median_wage_usd": 135387.825
+    },
+    {
+      "title": "Staff Software Engineer",
+      "count": 7,
+      "median_wage_usd": 230000.0
+    },
+    {
+      "title": "Software Quality Assurance Engineer",
+      "count": 6,
+      "median_wage_usd": 115856.55
+    },
+    {
+      "title": "Controls System Engineer",
+      "count": 6,
+      "median_wage_usd": 111743.23000000001
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MI",
+      "county": "MACOMB",
+      "count": 128
+    },
+    {
+      "state": "MI",
+      "county": "OAKLAND",
+      "count": 64
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 7
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 4
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 3
+    },
+    {
+      "state": "NC",
+      "county": "CABARRUS",
+      "count": 3
+    },
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "SAN DIEGO",
+      "count": 2
+    },
+    {
+      "state": "OH",
+      "county": "DELAWARE",
+      "count": 2
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MI",
+      "count": 435
+    },
+    {
+      "state": "CA",
+      "count": 47
+    },
+    {
+      "state": "TX",
+      "count": 25
+    },
+    {
+      "state": "NC",
+      "count": 9
+    },
+    {
+      "state": "GA",
+      "count": 6
+    },
+    {
+      "state": "IL",
+      "count": 4
+    },
+    {
+      "state": "WA",
+      "count": 2
+    },
+    {
+      "state": "OH",
+      "count": 2
+    },
+    {
+      "state": "AZ",
+      "count": 2
+    },
+    {
+      "state": "NY",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 145758.96,
+    "gap_usd": 15598.96
+  }
+}

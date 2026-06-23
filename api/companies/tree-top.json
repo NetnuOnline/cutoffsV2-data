@@ -1,0 +1,145 @@
+{
+  "slug": "tree-top",
+  "canonical_name": "Tree Top, Inc.",
+  "fein": null,
+  "lca_filing_count": 7,
+  "warn_notice_count": 1,
+  "median_wage_usd": 160555.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 160555.0
+    },
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 88000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Business Information Specialist",
+      "count": 4,
+      "median_wage_usd": 162777.5
+    },
+    {
+      "title": "Business Process Analyst",
+      "count": 3,
+      "median_wage_usd": 88000.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "WA",
+      "count": 5
+    },
+    {
+      "state": "NJ",
+      "count": 2
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "WA",
+      "county": "YAKIMA",
+      "count": 3
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "county": "MORRIS",
+      "count": 2
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "11/05/2007",
+      "effective_date": "01/04/2008",
+      "state": "WA",
+      "workers": 73,
+      "city": "Cashmere"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "north-central-wib-wa",
+      "name": "North Central WIB",
+      "state": "WA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 5,
+    "continuing_denials": 0,
+    "total_approvals": 5,
+    "by_fy": [
+      {
+        "fy": 2011,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2015,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      }
+    ]
+  },
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3021",
+    "soc_title": "Computer and Information Systems Managers",
+    "market_median_usd": 169510.0,
+    "employer_median_usd": 160555.0,
+    "gap_usd": -8955.0
+  }
+}

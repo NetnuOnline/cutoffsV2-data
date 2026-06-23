@@ -1,0 +1,97 @@
+{
+  "slug": "walden-university",
+  "canonical_name": "Walden University, LLC",
+  "fein": "65-0353783",
+  "lca_filing_count": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 125000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 78000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 4,
+      "median_wage_usd": 125000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 2,
+      "median_wage_usd": 83849.0
+    },
+    {
+      "title": "Senior Project Manager",
+      "count": 2,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "title": "Senior Data Engineer",
+      "count": 1,
+      "median_wage_usd": 125000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MD",
+      "county": "HOWARD",
+      "count": 3
+    },
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "county": "ARLINGTON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MD",
+      "count": 3
+    },
+    {
+      "state": "VA",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 2,
+    "initial_denials": 0,
+    "continuing_approvals": 29,
+    "continuing_denials": 1,
+    "total_approvals": 31,
+    "by_fy": [
+      {
+        "fy": 2020,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 7,
+        "continuing_denials": 0,
+        "total_approvals": 9
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 22,
+        "continuing_denials": 1,
+        "total_approvals": 22
+      }
+    ]
+  },
+  "lca_worker_positions": 5,
+  "top_socs": [],
+  "lca_periods": []
+}

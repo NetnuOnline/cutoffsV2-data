@@ -1,0 +1,69 @@
+{
+  "slug": "legalzoomcom",
+  "canonical_name": "LegalZoom.com, Inc",
+  "fein": null,
+  "lca_filing_count": 2,
+  "warn_notice_count": 1,
+  "median_wage_usd": 236396,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 0,
+      "median_wage_usd": null
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Head of SEO",
+      "count": 0,
+      "median_wage_usd": null
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "10/12/2023",
+      "effective_date": "12/15/2023",
+      "state": "TX",
+      "workers": 122,
+      "city": "Austin"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "capital-area-wda",
+      "name": "Capital Area WDA",
+      "state": "TX"
+    }
+  ],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2024-08-07",
+        "formType": "8-K",
+        "accessionNumber": "0001286139-24-000091",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001286139&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 1,
+    "itemCounts": {
+      "2.05": 1
+    },
+    "latestFilingDate": "2024-08-07",
+    "earliestFilingDate": "2024-08-07"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

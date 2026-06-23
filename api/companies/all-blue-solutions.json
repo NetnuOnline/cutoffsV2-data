@@ -1,0 +1,81 @@
+{
+  "slug": "all-blue-solutions",
+  "canonical_name": "ALL BLUE SOLUTIONS, INC.",
+  "fein": null,
+  "lca_filing_count": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 78000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 73000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 97240.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Computer Systems Administrator",
+      "count": 2,
+      "median_wage_usd": 82620.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 1,
+      "median_wage_usd": 78000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 0,
+    "continuing_denials": 0,
+    "total_approvals": 1,
+    "by_fy": [
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1244",
+    "soc_title": "Network and Computer Systems Administrators",
+    "market_median_usd": 95000.0,
+    "employer_median_usd": 97240.0,
+    "gap_usd": 2240.0
+  }
+}

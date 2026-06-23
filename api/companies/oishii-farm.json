@@ -1,0 +1,104 @@
+{
+  "slug": "oishii-farm",
+  "canonical_name": "Oishii Farm Corporation",
+  "fein": "81-4827624",
+  "lca_filing_count": 5,
+  "warn_notice_count": 1,
+  "median_wage_usd": 75000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 67080.0
+    },
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 75000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 92977.5
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Mechanical Engineer",
+      "count": 2,
+      "median_wage_usd": 71040.0
+    },
+    {
+      "title": "Marketing Communications Specialist",
+      "count": 1,
+      "median_wage_usd": 60000.0
+    },
+    {
+      "title": "Environmental Engineer",
+      "count": 1,
+      "median_wage_usd": 92977.5
+    },
+    {
+      "title": "Senior Software Development Engineer",
+      "count": 1,
+      "median_wage_usd": 145000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NJ",
+      "county": "HUDSON",
+      "count": 4
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 5
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "04/01/2023",
+      "effective_date": "06/04/2023",
+      "state": "CA",
+      "workers": 3
+    }
+  ],
+  "uscis_h1b": {
+    "initial_approvals": 6,
+    "initial_denials": 1,
+    "continuing_approvals": 0,
+    "continuing_denials": 1,
+    "total_approvals": 6,
+    "by_fy": [
+      {
+        "fy": 2020,
+        "initial_approvals": 0,
+        "initial_denials": 1,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 4,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 4
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 1,
+        "total_approvals": 2
+      }
+    ]
+  },
+  "lca_worker_positions": 5,
+  "top_socs": [],
+  "lca_periods": []
+}

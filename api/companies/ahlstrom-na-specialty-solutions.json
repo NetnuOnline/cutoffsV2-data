@@ -1,0 +1,61 @@
+{
+  "slug": "ahlstrom-na-specialty-solutions",
+  "canonical_name": "Ahlstrom NA Specialty Solutions LLC",
+  "fein": "20-8157633",
+  "lca_filing_count": 2,
+  "lca_worker_positions": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 123150.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 116300.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Data Scientist",
+      "count": 1,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Innovation Project Manager",
+      "count": 1,
+      "median_wage_usd": 116300.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NC",
+      "county": "MECKLENBURG",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NC",
+      "count": 1
+    },
+    {
+      "state": "WI",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 130000.0,
+    "gap_usd": 21980.0
+  }
+}

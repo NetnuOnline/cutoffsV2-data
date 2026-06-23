@@ -1,0 +1,122 @@
+{
+  "slug": "the-children-s-place-services-company",
+  "canonical_name": "The Children's Place Services Company, LLC",
+  "fein": "20-0850965",
+  "lca_filing_count": 39,
+  "lca_worker_positions": 39,
+  "warn_notice_count": 0,
+  "median_wage_usd": 140000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 8,
+      "median_wage_usd": 133744.0
+    },
+    {
+      "fy": 2021,
+      "filings": 7,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 6,
+      "median_wage_usd": 122500.0
+    },
+    {
+      "fy": 2023,
+      "filings": 5,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 6,
+      "median_wage_usd": 147500.0
+    },
+    {
+      "fy": 2025,
+      "filings": 6,
+      "median_wage_usd": 137500.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 149000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 3,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "title": "Manager, Corp Applications",
+      "count": 3,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 2,
+      "median_wage_usd": 119750.0
+    },
+    {
+      "title": "CRM Manager",
+      "count": 2,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "title": "SAP MM Analyst",
+      "count": 2,
+      "median_wage_usd": 132500.0
+    },
+    {
+      "title": "QA Manager",
+      "count": 1,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "title": "Lead Functional Analyst, Database Marketing",
+      "count": 1,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "Web Application Developer",
+      "count": 1,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "title": "AIX and Linux Administrator",
+      "count": 1,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "title": "ABAP Developer",
+      "count": 1,
+      "median_wage_usd": 122221.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NJ",
+      "county": "HUDSON",
+      "count": 32
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 39
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 135000.0,
+    "gap_usd": 4840.0
+  }
+}

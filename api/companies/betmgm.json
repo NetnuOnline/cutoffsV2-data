@@ -1,0 +1,77 @@
+{
+  "slug": "betmgm",
+  "canonical_name": "BetMGM, LLC",
+  "fein": "83-1679867",
+  "lca_filing_count": 4,
+  "lca_worker_positions": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 193750.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 197500.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 190000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 170000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 248000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "DevOps Information Technology (IT) Lead",
+      "count": 1,
+      "median_wage_usd": 170000.0
+    },
+    {
+      "title": "Head of Digital Trading & Client Analysis",
+      "count": 1,
+      "median_wage_usd": 190000.0
+    },
+    {
+      "title": "Sr. Director of Trading",
+      "count": 1,
+      "median_wage_usd": 248000.0
+    },
+    {
+      "title": "Director of Retail Trading",
+      "count": 1,
+      "median_wage_usd": 197500.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NJ",
+      "county": "HUDSON",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 4
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3031",
+    "soc_title": "Financial Managers",
+    "market_median_usd": 156100.0,
+    "employer_median_usd": 219000.0,
+    "gap_usd": 62900.0
+  }
+}

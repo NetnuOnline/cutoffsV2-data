@@ -1,0 +1,128 @@
+{
+  "slug": "hyaxiom",
+  "canonical_name": "HyAxiom, Inc.",
+  "fein": "47-1300816",
+  "lca_filing_count": 6,
+  "warn_notice_count": 3,
+  "median_wage_usd": 94850.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 95000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 94850.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 95000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Manufacturing Engineer",
+      "count": 1,
+      "median_wage_usd": 86700.0
+    },
+    {
+      "title": "Senior Engineer, Manufacturing",
+      "count": 1,
+      "median_wage_usd": 75000.0
+    },
+    {
+      "title": "Senior Quality Engineer",
+      "count": 1,
+      "median_wage_usd": 80000.0
+    },
+    {
+      "title": "Specialist, Purchasing & Commodity Management",
+      "count": 1,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "Staff Engineer, FPS Engineering",
+      "count": 1,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "title": "Senior Engineer, Design Engineering",
+      "count": 1,
+      "median_wage_usd": 103000.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CT",
+      "count": 6
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CT",
+      "county": "SOUTH WINDSOR",
+      "count": 3
+    },
+    {
+      "state": "CT",
+      "county": "EAST HARTFORD",
+      "count": 3
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "02/04/2025",
+      "effective_date": "02/04/2025",
+      "state": "CT",
+      "workers": 0,
+      "city": "East Hartford, CT"
+    },
+    {
+      "date": "11/14/2024",
+      "effective_date": "01/13/2025",
+      "state": "CT",
+      "workers": 4918,
+      "city": "South Windsor, East Hartford"
+    },
+    {
+      "date": "01/01/2024",
+      "effective_date": "01/13/2025",
+      "state": "CT",
+      "workers": 0,
+      "city": "101 E River Dr, East Hartford / 90 Bidwell Rd, South Windsor / 195 Governors Highway, South Windsor"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "north-central-wia-ct",
+      "name": "North Central WIA",
+      "state": "CT"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 0,
+    "continuing_denials": 0,
+    "total_approvals": 1,
+    "by_fy": [
+      {
+        "fy": 2023,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 6,
+  "top_socs": [],
+  "lca_periods": []
+}

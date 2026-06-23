@@ -1,0 +1,62 @@
+{
+  "slug": "service-king",
+  "canonical_name": "Service King",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 5,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 3
+    },
+    {
+      "state": "OK",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "10/02/2020",
+      "effective_date": "10/02/2020",
+      "state": "CA",
+      "workers": 18,
+      "city": "Santa Clara"
+    },
+    {
+      "date": "10/02/2020",
+      "effective_date": "10/02/2020",
+      "state": "CA",
+      "workers": 15,
+      "city": "San Jose"
+    },
+    {
+      "date": "10/02/2020",
+      "effective_date": "10/02/2020",
+      "state": "CA",
+      "workers": 16,
+      "city": "Mountain View"
+    },
+    {
+      "date": "09/09/2015",
+      "effective_date": "09/09/2015",
+      "state": "OK",
+      "workers": 126,
+      "city": "03 - EastCentralRegion"
+    },
+    {
+      "date": "09/09/2015",
+      "effective_date": "09/09/2015",
+      "state": "OK",
+      "workers": 0,
+      "city": "EastCentralRegion"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

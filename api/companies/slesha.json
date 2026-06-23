@@ -1,0 +1,203 @@
+{
+  "slug": "slesha",
+  "canonical_name": "Slesha Inc",
+  "fein": "81-4485674",
+  "lca_filing_count": 31,
+  "lca_worker_positions": 31,
+  "warn_notice_count": 0,
+  "median_wage_usd": 85384.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 66786.5
+    },
+    {
+      "fy": 2021,
+      "filings": 4,
+      "median_wage_usd": 76898.0
+    },
+    {
+      "fy": 2022,
+      "filings": 5,
+      "median_wage_usd": 80850.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 93330.0
+    },
+    {
+      "fy": 2024,
+      "filings": 7,
+      "median_wage_usd": 84094.0
+    },
+    {
+      "fy": 2025,
+      "filings": 7,
+      "median_wage_usd": 102877.0
+    },
+    {
+      "fy": 2026,
+      "filings": 5,
+      "median_wage_usd": 94162.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 9,
+      "median_wage_usd": 93330.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 3,
+      "median_wage_usd": 90438.0
+    },
+    {
+      "title": "Data Engineer",
+      "count": 3,
+      "median_wage_usd": 83637.0
+    },
+    {
+      "title": "Devops Engineer",
+      "count": 3,
+      "median_wage_usd": 76898.0
+    },
+    {
+      "title": "Java Full Stack Developer",
+      "count": 2,
+      "median_wage_usd": 120130.5
+    },
+    {
+      "title": "Java Developer",
+      "count": 2,
+      "median_wage_usd": 83595.0
+    },
+    {
+      "title": "QA Automation Engineer ",
+      "count": 1,
+      "median_wage_usd": 64958.0
+    },
+    {
+      "title": "Mobility Manager",
+      "count": 1,
+      "median_wage_usd": 118851.0
+    },
+    {
+      "title": "Frontend Developer",
+      "count": 1,
+      "median_wage_usd": 91707.0
+    },
+    {
+      "title": "Full Stack Developer",
+      "count": 1,
+      "median_wage_usd": 85363.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 6
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    },
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 1
+    },
+    {
+      "state": "TN",
+      "county": "WILLIAMSON",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SAN DIEGO",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "county": "BROWARD",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "county": "ORANGE",
+      "count": 1
+    },
+    {
+      "state": "MO",
+      "county": "ST LOUIS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 13
+    },
+    {
+      "state": "CA",
+      "count": 7
+    },
+    {
+      "state": "FL",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "count": 2
+    },
+    {
+      "state": "AZ",
+      "count": 2
+    },
+    {
+      "state": "AR",
+      "count": 1
+    },
+    {
+      "state": "OR",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "count": 1
+    },
+    {
+      "state": "MO",
+      "count": 1
+    },
+    {
+      "state": "TN",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 90667.0,
+    "gap_usd": -39493.0
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "slug": "ymca-of-long-beach",
+  "canonical_name": "YMCA of Long Beach",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 4,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 3
+    },
+    {
+      "state": "NY",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "11/13/2020",
+      "effective_date": "11/13/2020",
+      "state": "NY",
+      "workers": 735,
+      "city": "Glen Cove"
+    },
+    {
+      "date": "03/30/2020",
+      "effective_date": "03/20/2020",
+      "state": "CA",
+      "workers": 21,
+      "city": "Big Bear City"
+    },
+    {
+      "date": "03/30/2020",
+      "effective_date": "03/20/2020",
+      "state": "CA",
+      "workers": 165,
+      "city": "Long Beach"
+    },
+    {
+      "date": "03/30/2020",
+      "effective_date": "03/20/2020",
+      "state": "CA",
+      "workers": 248,
+      "city": "Lakewood"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "hempsteadlong-beach-consortium-lwia",
+      "name": "Hempstead/Long Beach Consortium LWIA",
+      "state": "NY"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

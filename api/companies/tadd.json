@@ -1,0 +1,52 @@
+{
+  "slug": "tadd",
+  "canonical_name": "Tadd LLC",
+  "fein": "26-2597404",
+  "lca_filing_count": 3,
+  "lca_worker_positions": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 74090.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 74090.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 80642.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Business Analyst",
+      "count": 3,
+      "median_wage_usd": 74090.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MA",
+      "county": "MIDDLETON",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MA",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1161",
+    "soc_title": "Market Research Analysts and Marketing Specialists",
+    "market_median_usd": 74680.0,
+    "employer_median_usd": 74090.0,
+    "gap_usd": -590.0
+  }
+}

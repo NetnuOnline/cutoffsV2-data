@@ -1,0 +1,78 @@
+{
+  "slug": "white-oak-credit-services",
+  "canonical_name": "White Oak Credit Services, LLC",
+  "fein": null,
+  "lca_filing_count": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 111650.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 4,
+      "median_wage_usd": 111650.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Associate",
+      "count": 2,
+      "median_wage_usd": 113300.0
+    },
+    {
+      "title": "Fund Accountant",
+      "count": 1,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "Fund Accountant ",
+      "count": 1,
+      "median_wage_usd": 110000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "ORANGE",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 4
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 2,
+    "continuing_denials": 0,
+    "total_approvals": 2,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      }
+    ]
+  },
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-2011",
+    "soc_title": "Accountants and Auditors",
+    "market_median_usd": 79000.0,
+    "employer_median_usd": 111650.0,
+    "gap_usd": 32650.0
+  }
+}

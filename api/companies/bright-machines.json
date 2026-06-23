@@ -1,0 +1,100 @@
+{
+  "slug": "bright-machines",
+  "canonical_name": "Bright Machines, Inc.",
+  "fein": "82-4765973",
+  "lca_filing_count": 6,
+  "lca_worker_positions": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 188283.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 145000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 210000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 166566.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 250000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Software Engineer",
+      "count": 2,
+      "median_wage_usd": 210000.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 160000.0
+    },
+    {
+      "title": "Senior Systems Automation Engineer",
+      "count": 1,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Software Engineer, Robotics",
+      "count": 1,
+      "median_wage_usd": 166566.0
+    },
+    {
+      "title": "Senior Software Engineer, Robotics",
+      "count": 1,
+      "median_wage_usd": 250000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 2
+    },
+    {
+      "state": "PA",
+      "county": "ALLEGHENY",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 4
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 210000.0,
+    "gap_usd": 79840.0
+  }
+}

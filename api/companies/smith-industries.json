@@ -1,0 +1,57 @@
+{
+  "slug": "smith-industries",
+  "canonical_name": "Smith Industries LLC",
+  "fein": "20-2289508",
+  "lca_filing_count": 1,
+  "warn_notice_count": 1,
+  "median_wage_usd": 355000.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 355000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "CEO & Chief Engineering Officer",
+      "count": 1,
+      "median_wage_usd": 355000.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "MIDLAND",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "08/18/2020",
+      "effective_date": "08/31/2020",
+      "state": "TX",
+      "workers": 72,
+      "city": "Midland"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "permian-basin-wda",
+      "name": "Permian Basin WDA",
+      "state": "TX"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "lca_worker_positions": 1,
+  "top_socs": [],
+  "lca_periods": []
+}

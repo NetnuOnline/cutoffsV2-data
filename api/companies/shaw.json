@@ -1,0 +1,48 @@
+{
+  "slug": "shaw",
+  "canonical_name": "Shaw",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "LA",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "11/05/2009",
+      "effective_date": "01/04/2010",
+      "state": "LA",
+      "workers": 60,
+      "city": "Addis"
+    },
+    {
+      "date": "04/27/2009",
+      "effective_date": "06/27/2009",
+      "state": "LA",
+      "workers": 202,
+      "city": "Baton Rouge"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "east-baton-rouge-parish-wia",
+      "name": "East Baton Rouge Parish WIA",
+      "state": "LA"
+    },
+    {
+      "slug": "second-planning-district-consortium-wia",
+      "name": "Second Planning District Consortium WIA",
+      "state": "LA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

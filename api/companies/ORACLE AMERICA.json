@@ -1,0 +1,203 @@
+{
+  "slug": "ORACLE AMERICA",
+  "canonical_name": "Oracle America Inc.",
+  "fein": "94-2805249",
+  "lca_filing_count": 1686,
+  "lca_worker_positions": 20389,
+  "warn_notice_count": 0,
+  "median_wage_usd": 131352.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 244,
+      "median_wage_usd": 115210.5
+    },
+    {
+      "fy": 2021,
+      "filings": 246,
+      "median_wage_usd": 119933.0
+    },
+    {
+      "fy": 2022,
+      "filings": 310,
+      "median_wage_usd": 123292.0
+    },
+    {
+      "fy": 2023,
+      "filings": 243,
+      "median_wage_usd": 138486.0
+    },
+    {
+      "fy": 2024,
+      "filings": 215,
+      "median_wage_usd": 141982.0
+    },
+    {
+      "fy": 2025,
+      "filings": 288,
+      "median_wage_usd": 152090.5
+    },
+    {
+      "fy": 2026,
+      "filings": 120,
+      "median_wage_usd": 137988.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 393,
+      "median_wage_usd": 129667.0
+    },
+    {
+      "title": "Technical Analyst",
+      "count": 97,
+      "median_wage_usd": 116334.0
+    },
+    {
+      "title": "Applications Developer",
+      "count": 78,
+      "median_wage_usd": 138522.0
+    },
+    {
+      "title": "Consulting Technical Manager",
+      "count": 64,
+      "median_wage_usd": 143973.5
+    },
+    {
+      "title": "Senior Principal Consultant",
+      "count": 56,
+      "median_wage_usd": 123614.0
+    },
+    {
+      "title": "SOFTWARE DEVELOPER",
+      "count": 54,
+      "median_wage_usd": 132974.5
+    },
+    {
+      "title": "Site Reliability Developer",
+      "count": 46,
+      "median_wage_usd": 149739.0
+    },
+    {
+      "title": "Principal Consultant",
+      "count": 41,
+      "median_wage_usd": 116380.5
+    },
+    {
+      "title": "Software Developer ",
+      "count": 39,
+      "median_wage_usd": 106787.0
+    },
+    {
+      "title": "Systems Analyst",
+      "count": 32,
+      "median_wage_usd": 119783.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SAN MATEO",
+      "count": 97
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 72
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 68
+    },
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 56
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 54
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 43
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 27
+    },
+    {
+      "state": "MA",
+      "county": "BOSTON CITY",
+      "count": 26
+    },
+    {
+      "state": "FL",
+      "county": "ORANGE",
+      "count": 24
+    },
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 23
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 385
+    },
+    {
+      "state": "TX",
+      "count": 251
+    },
+    {
+      "state": "WA",
+      "count": 104
+    },
+    {
+      "state": "MA",
+      "count": 77
+    },
+    {
+      "state": "FL",
+      "count": 76
+    },
+    {
+      "state": "CO",
+      "count": 69
+    },
+    {
+      "state": "NJ",
+      "count": 67
+    },
+    {
+      "state": "GA",
+      "count": 60
+    },
+    {
+      "state": "NC",
+      "count": 60
+    },
+    {
+      "state": "UT",
+      "count": 51
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 139152.0,
+    "gap_usd": 8992.0
+  }
+}

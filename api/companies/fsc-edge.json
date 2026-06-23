@@ -1,0 +1,85 @@
+{
+  "slug": "fsc-edge",
+  "canonical_name": "FSC Edge",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 5,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "MO",
+      "count": 1
+    },
+    {
+      "state": "CO",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "count": 1
+    },
+    {
+      "state": "AZ",
+      "count": 1
+    },
+    {
+      "state": "NE",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "12/04/2023",
+      "effective_date": "12/01/2023",
+      "state": "MO",
+      "workers": 2,
+      "city": "Kansas City"
+    },
+    {
+      "date": "12/01/2023",
+      "effective_date": "12/01/2023",
+      "state": "CO",
+      "workers": 1,
+      "city": "Broomfield"
+    },
+    {
+      "date": "12/01/2023",
+      "effective_date": "12/01/2023",
+      "state": "NC",
+      "workers": 1,
+      "city": "13831 Chalco Valley Parkway, Omaha NE"
+    },
+    {
+      "date": "12/01/2023",
+      "effective_date": "12/01/2023",
+      "state": "AZ",
+      "workers": 0,
+      "city": "Omaha"
+    },
+    {
+      "date": "11/30/2023",
+      "effective_date": "11/30/2023",
+      "state": "NE",
+      "workers": 206,
+      "city": null
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "broomfield-wib",
+      "name": "Broomfield WIB",
+      "state": "CO"
+    },
+    {
+      "slug": "kansas-city-vicinity-region-wib",
+      "name": "Kansas City Vicinity Region WIB",
+      "state": "MO"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

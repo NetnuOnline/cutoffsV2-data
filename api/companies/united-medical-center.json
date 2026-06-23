@@ -1,0 +1,50 @@
+{
+  "slug": "united-medical-center",
+  "canonical_name": "United Medical Center",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 3,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "DC",
+      "count": 3
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "02/20/2025",
+      "effective_date": "02/20/2025",
+      "state": "DC",
+      "workers": 485,
+      "city": "Washington D.C."
+    },
+    {
+      "date": "11/01/2024",
+      "effective_date": "11/01/2024",
+      "state": "DC",
+      "workers": 33,
+      "city": "Washington D.C."
+    },
+    {
+      "date": "07/02/2024",
+      "effective_date": "08/31/2024",
+      "state": "DC",
+      "workers": 33,
+      "city": "Washington D.C."
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "district-of-columbia-wib",
+      "name": "District of Columbia WIB",
+      "state": "DC"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

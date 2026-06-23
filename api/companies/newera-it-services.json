@@ -1,0 +1,56 @@
+{
+  "slug": "newera-it-services",
+  "canonical_name": "NEWERA IT SERVICES LLC",
+  "fein": "87-3807248",
+  "lca_filing_count": 10,
+  "warn_notice_count": 0,
+  "median_wage_usd": 98300.8,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 7,
+      "median_wage_usd": 98300.8
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 103209.59999999999
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 116480.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SOFTWARE DEVELOPER",
+      "count": 10,
+      "median_wage_usd": 98300.8
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "FORT BEND",
+      "count": 9
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 10
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 10,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 98300.8,
+    "gap_usd": -31859.2
+  }
+}

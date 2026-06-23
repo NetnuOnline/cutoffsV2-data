@@ -1,0 +1,46 @@
+{
+  "slug": "expa",
+  "canonical_name": "Expa, LLC",
+  "fein": "46-2770510",
+  "lca_filing_count": 2,
+  "lca_worker_positions": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 332296.0,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 475000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 189592.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Developer in Residence",
+      "count": 2,
+      "median_wage_usd": 332296.0
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 332296.0,
+    "gap_usd": 202136.0
+  }
+}

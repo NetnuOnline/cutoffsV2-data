@@ -1,0 +1,99 @@
+{
+  "slug": "archer-daniels-midland-company-adm",
+  "canonical_name": "Archer-Daniels-Midland Company (ADM)",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 7,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 2
+    },
+    {
+      "state": "NE",
+      "count": 2
+    },
+    {
+      "state": "IA",
+      "count": 1
+    },
+    {
+      "state": "IN",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "08/26/2022",
+      "effective_date": "08/26/2022",
+      "state": "IA",
+      "workers": 65,
+      "city": "Keokuk"
+    },
+    {
+      "date": "07/31/2020",
+      "effective_date": "10/01/2020",
+      "state": "CA",
+      "workers": 116,
+      "city": "Lodi"
+    },
+    {
+      "date": "07/31/2020",
+      "effective_date": "10/01/2020",
+      "state": "CA",
+      "workers": 404,
+      "city": "Modesto"
+    },
+    {
+      "date": "12/12/2017",
+      "effective_date": "12/12/2017",
+      "state": "NE",
+      "workers": 4,
+      "city": "Lincoln"
+    },
+    {
+      "date": "10/01/2014",
+      "effective_date": "10/01/2014",
+      "state": "NE",
+      "workers": 15,
+      "city": "Cozad"
+    },
+    {
+      "date": "04/17/2013",
+      "effective_date": "07/14/2013",
+      "state": "IN",
+      "workers": 20,
+      "city": "Mt. Vernon"
+    },
+    {
+      "date": "01/31/2002",
+      "effective_date": "01/31/2002",
+      "state": "GA",
+      "workers": 71,
+      "city": "Savannah"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "stanislaus-county-wib",
+      "name": "Stanislaus County WIB",
+      "state": "CA"
+    },
+    {
+      "slug": "region-16-burlington-wib",
+      "name": "Region 16 - Burlington WIB",
+      "state": "IA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

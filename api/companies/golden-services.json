@@ -1,0 +1,63 @@
+{
+  "slug": "golden-services",
+  "canonical_name": "Golden Services, LLC",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 3,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "DC",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "count": 1
+    },
+    {
+      "state": "MD",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "01/01/2025",
+      "effective_date": "01/31/2025",
+      "state": "DC",
+      "workers": 43,
+      "city": "Washington D.C."
+    },
+    {
+      "date": "10/18/2022",
+      "effective_date": "12/01/2022",
+      "state": "VA",
+      "workers": 34,
+      "city": "Fairfax, Reston, VA"
+    },
+    {
+      "date": "03/21/2022",
+      "effective_date": "05/17/2022",
+      "state": "MD",
+      "workers": 74,
+      "city": "Dover"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "district-of-columbia-wib",
+      "name": "District of Columbia WIB",
+      "state": "DC"
+    },
+    {
+      "slug": "northern-virginia-lwia-xi",
+      "name": "Northern Virginia LWIA XI",
+      "state": "VA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

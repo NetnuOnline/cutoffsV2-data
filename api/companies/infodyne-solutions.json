@@ -1,0 +1,93 @@
+{
+  "slug": "infodyne-solutions",
+  "canonical_name": "InfoDyne Solutions LLC",
+  "fein": "81-2454026",
+  "lca_filing_count": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 90500.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 90000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 85000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 4,
+      "median_wage_usd": 92300.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "UX/UI Designer",
+      "count": 2,
+      "median_wage_usd": 85000.0
+    },
+    {
+      "title": "Quality Assurance Analyst",
+      "count": 1,
+      "median_wage_usd": 91000.0
+    },
+    {
+      "title": "Sr Enterprise Architect",
+      "count": 1,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "Data Scientist",
+      "count": 1,
+      "median_wage_usd": 90000.0
+    },
+    {
+      "title": "DevOps Engineer",
+      "count": 1,
+      "median_wage_usd": 93600.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TN",
+      "county": "SHELBY",
+      "count": 2
+    },
+    {
+      "state": "GA",
+      "county": "DEKALB",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NC",
+      "count": 2
+    },
+    {
+      "state": "TN",
+      "count": 2
+    },
+    {
+      "state": "GA",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 6,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Computer Systems Engineers/Architects",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 106800.0,
+    "gap_usd": -11200.0
+  }
+}

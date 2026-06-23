@@ -1,0 +1,122 @@
+{
+  "slug": "delta-dental-of-michigan",
+  "canonical_name": "Delta Dental of Michigan, Inc.",
+  "fein": "38-1791480",
+  "lca_filing_count": 43,
+  "lca_worker_positions": 42,
+  "warn_notice_count": 0,
+  "median_wage_usd": 114873.5,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 11,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 4,
+      "median_wage_usd": 101172.0
+    },
+    {
+      "fy": 2022,
+      "filings": 9,
+      "median_wage_usd": 115360.0
+    },
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 91021.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 135425.16
+    },
+    {
+      "fy": 2025,
+      "filings": 7,
+      "median_wage_usd": 127110.82
+    },
+    {
+      "fy": 2026,
+      "filings": 6,
+      "median_wage_usd": 123188.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Software Designer/Implementer",
+      "count": 13,
+      "median_wage_usd": 113000.0
+    },
+    {
+      "title": "Lead Software Designer/Implementer",
+      "count": 5,
+      "median_wage_usd": 133036.8
+    },
+    {
+      "title": "Manager, Application Development & Support",
+      "count": 4,
+      "median_wage_usd": 152973.5
+    },
+    {
+      "title": "Senior Software Development Engineer in TEST",
+      "count": 3,
+      "median_wage_usd": 113300.0
+    },
+    {
+      "title": "Software Designer/Implementer",
+      "count": 3,
+      "median_wage_usd": 85680.0
+    },
+    {
+      "title": "Salesforce Administrator",
+      "count": 3,
+      "median_wage_usd": 93483.52
+    },
+    {
+      "title": "Senior Build Engineer",
+      "count": 2,
+      "median_wage_usd": 123188.0
+    },
+    {
+      "title": "Solution Architect",
+      "count": 2,
+      "median_wage_usd": 131820.475
+    },
+    {
+      "title": "Salesforce Developer",
+      "count": 1,
+      "median_wage_usd": 85000.0
+    },
+    {
+      "title": "Software Development Engineer in TEST ",
+      "count": 1,
+      "median_wage_usd": 80000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MI",
+      "county": "INGHAM",
+      "count": 32
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MI",
+      "count": 43
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 123188.0,
+    "gap_usd": -6972.0
+  }
+}

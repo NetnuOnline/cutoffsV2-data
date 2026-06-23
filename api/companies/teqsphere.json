@@ -1,0 +1,76 @@
+{
+  "slug": "teqsphere",
+  "canonical_name": "TeqSphere LLC",
+  "fein": null,
+  "lca_filing_count": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 80080.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 80080.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer  ",
+      "count": 2,
+      "median_wage_usd": 80080.0
+    },
+    {
+      "title": "SOFTWARE ENGINEER",
+      "count": 1,
+      "median_wage_usd": 80080.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "PA",
+      "county": "MONTGOMERY",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "PA",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 5,
+    "initial_denials": 0,
+    "continuing_approvals": 0,
+    "continuing_denials": 0,
+    "total_approvals": 5,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 4,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 4
+      }
+    ]
+  },
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 80080.0,
+    "gap_usd": -50080.0
+  }
+}

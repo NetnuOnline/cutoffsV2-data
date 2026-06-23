@@ -1,0 +1,158 @@
+{
+  "slug": "wgu",
+  "canonical_name": "WGU Corporation",
+  "fein": "84-1383926",
+  "lca_filing_count": 47,
+  "lca_worker_positions": 46,
+  "warn_notice_count": 0,
+  "median_wage_usd": 150000.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 6,
+      "median_wage_usd": 126535.0
+    },
+    {
+      "fy": 2024,
+      "filings": 4,
+      "median_wage_usd": 134200.0
+    },
+    {
+      "fy": 2025,
+      "filings": 22,
+      "median_wage_usd": 145025.0
+    },
+    {
+      "fy": 2026,
+      "filings": 14,
+      "median_wage_usd": 177500.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Software Engineer",
+      "count": 10,
+      "median_wage_usd": 171000.0
+    },
+    {
+      "title": "Software Engineer II",
+      "count": 6,
+      "median_wage_usd": 139650.0
+    },
+    {
+      "title": "Staff Software Engineer",
+      "count": 4,
+      "median_wage_usd": 200200.0
+    },
+    {
+      "title": "Principal IT Security Architect",
+      "count": 2,
+      "median_wage_usd": 193000.0
+    },
+    {
+      "title": "Senior Product Data Analyst",
+      "count": 2,
+      "median_wage_usd": 114950.0
+    },
+    {
+      "title": "Data Scientist",
+      "count": 2,
+      "median_wage_usd": 107550.0
+    },
+    {
+      "title": "Assessment Developer",
+      "count": 2,
+      "median_wage_usd": 80000.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 2,
+      "median_wage_usd": 106275.0
+    },
+    {
+      "title": "Senior Software Product Manager",
+      "count": 1,
+      "median_wage_usd": 171000.0
+    },
+    {
+      "title": "Institutional Analytics and Research Data Scientist",
+      "count": 1,
+      "median_wage_usd": 89000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "UT",
+      "county": "SALT LAKE",
+      "count": 10
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "county": "OAKLAND",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "county": "DUVAL",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "UT",
+      "count": 31
+    },
+    {
+      "state": "NC",
+      "count": 5
+    },
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "GA",
+      "count": 2
+    },
+    {
+      "state": "AZ",
+      "count": 2
+    },
+    {
+      "state": "FL",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "count": 1
+    },
+    {
+      "state": "NH",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 171000.0,
+    "gap_usd": 40840.0
+  }
+}

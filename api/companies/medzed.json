@@ -1,0 +1,54 @@
+{
+  "slug": "medzed",
+  "canonical_name": "MEDZED LLC",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "09/30/2024",
+      "effective_date": "12/01/2024",
+      "state": "GA",
+      "workers": 43,
+      "city": "1100 Spring Street, Suite 460, Atlanta, Georgia"
+    },
+    {
+      "date": "09/30/2024",
+      "effective_date": "12/01/2024",
+      "state": "GA",
+      "workers": 43,
+      "city": "1100 Spring Street, Suite 460, Atlanta, Georgia"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 1,
+    "continuing_denials": 0,
+    "total_approvals": 1,
+    "by_fy": [
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  }
+}

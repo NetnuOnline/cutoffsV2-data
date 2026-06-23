@@ -1,0 +1,114 @@
+{
+  "slug": "smiths-detection",
+  "canonical_name": "Smiths Detection Inc.",
+  "fein": null,
+  "lca_filing_count": 1,
+  "warn_notice_count": 2,
+  "median_wage_usd": 144301.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 144301.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 144301.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "07/14/2020",
+      "effective_date": "04/30/2021",
+      "state": "CA",
+      "workers": 4,
+      "city": "Newark"
+    },
+    {
+      "date": "03/30/2012",
+      "effective_date": "03/30/2012",
+      "state": "NJ",
+      "workers": 100,
+      "city": "Morristown"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 4,
+    "continuing_denials": 0,
+    "total_approvals": 4,
+    "by_fy": [
+      {
+        "fy": 2014,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2017,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 4,
+        "continuing_denials": 0,
+        "total_approvals": 4
+      }
+    ]
+  },
+  "lca_worker_positions": 1,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 144301.0,
+    "gap_usd": 14141.0
+  }
+}

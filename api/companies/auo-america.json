@@ -1,0 +1,76 @@
+{
+  "slug": "auo-america",
+  "canonical_name": "AUO Corporation America",
+  "fein": "77-0553316",
+  "lca_filing_count": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 110000.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": null
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 73560.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Mechanical Engineer",
+      "count": 2,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "Principal Engineer",
+      "count": 1,
+      "median_wage_usd": null
+    },
+    {
+      "title": "Finance Specialist",
+      "count": 1,
+      "median_wage_usd": 73560.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MI",
+      "county": "OAKLAND",
+      "count": 4
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MI",
+      "count": 4
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 3,
+    "continuing_denials": 0,
+    "total_approvals": 4,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 4
+      }
+    ]
+  },
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": []
+}

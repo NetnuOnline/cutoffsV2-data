@@ -1,0 +1,231 @@
+{
+  "slug": "divvy-homes",
+  "canonical_name": "Divvy Homes Inc",
+  "fein": null,
+  "lca_filing_count": 2,
+  "warn_notice_count": 17,
+  "median_wage_usd": 170000.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 170000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Strategic Finance Manager",
+      "count": 1,
+      "median_wage_usd": 160000.0
+    },
+    {
+      "title": "Data Scientist",
+      "count": 1,
+      "median_wage_usd": 180000.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "09/14/2023",
+      "effective_date": "09/14/2023",
+      "state": "NY",
+      "workers": 5,
+      "city": null
+    },
+    {
+      "date": "09/13/2023",
+      "effective_date": "11/07/2023",
+      "state": "NJ",
+      "workers": 53,
+      "city": "Remote Locations Throughout NJ"
+    },
+    {
+      "date": "09/12/2023",
+      "effective_date": "11/07/2023",
+      "state": "MO",
+      "workers": 1,
+      "city": null
+    },
+    {
+      "date": "09/08/2023",
+      "effective_date": "11/07/2023",
+      "state": "WA",
+      "workers": 4,
+      "city": "King County"
+    },
+    {
+      "date": "09/08/2023",
+      "effective_date": "09/08/2023",
+      "state": "AZ",
+      "workers": 2,
+      "city": "San Francisco"
+    },
+    {
+      "date": "09/07/2023",
+      "effective_date": "11/07/2023",
+      "state": "CO",
+      "workers": 10,
+      "city": "Unspecified"
+    },
+    {
+      "date": "09/07/2023",
+      "effective_date": "11/07/2023",
+      "state": "FL",
+      "workers": 2,
+      "city": "WESLEY CHAPEL"
+    },
+    {
+      "date": "09/07/2023",
+      "effective_date": "11/07/2023",
+      "state": "FL",
+      "workers": 1,
+      "city": "SUN CITY CENTER"
+    },
+    {
+      "date": "09/07/2023",
+      "effective_date": "11/07/2023",
+      "state": "FL",
+      "workers": 1,
+      "city": "ORMOND BEACH"
+    },
+    {
+      "date": "09/07/2023",
+      "effective_date": "11/07/2023",
+      "state": "FL",
+      "workers": 1,
+      "city": "FORT LAUDERDALE"
+    },
+    {
+      "date": "09/07/2023",
+      "effective_date": "11/07/2023",
+      "state": "OH",
+      "workers": 6,
+      "city": "Unknown/Unknown"
+    },
+    {
+      "date": "09/07/2023",
+      "effective_date": "11/07/2023",
+      "state": "OR",
+      "workers": 94,
+      "city": "San Francisco, CA"
+    },
+    {
+      "date": "09/07/2023",
+      "effective_date": "11/07/2023",
+      "state": "NY",
+      "workers": 5,
+      "city": "New York"
+    },
+    {
+      "date": "09/07/2023",
+      "effective_date": "11/07/2023",
+      "state": "NC",
+      "workers": 1,
+      "city": "300 Montgomery Street, San Francisco CA"
+    },
+    {
+      "date": "09/07/2023",
+      "effective_date": "09/07/2023",
+      "state": "NY",
+      "workers": 5,
+      "city": null
+    },
+    {
+      "date": "09/07/2023",
+      "effective_date": "09/07/2023",
+      "state": "NY",
+      "workers": 5,
+      "city": null
+    },
+    {
+      "date": "09/07/2023",
+      "effective_date": "09/07/2023",
+      "state": "MA",
+      "workers": 3,
+      "city": "MA"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "careersource-flagler-volusia",
+      "name": "CareerSource Flagler Volusia",
+      "state": "FL"
+    },
+    {
+      "slug": "careersource-tampa-bay",
+      "name": "CareerSource Tampa Bay",
+      "state": "FL"
+    },
+    {
+      "slug": "careersource-pasco-hernando",
+      "name": "CareerSource Pasco Hernando",
+      "state": "FL"
+    },
+    {
+      "slug": "careersource-broward",
+      "name": "CareerSource Broward",
+      "state": "FL"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 6,
+    "continuing_denials": 0,
+    "total_approvals": 7,
+    "by_fy": [
+      {
+        "fy": 2021,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 4,
+        "continuing_denials": 0,
+        "total_approvals": 4
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": []
+}

@@ -1,0 +1,87 @@
+{
+  "slug": "archlynk",
+  "canonical_name": "ArchLynk LLC",
+  "fein": "88-4308307",
+  "lca_filing_count": 12,
+  "lca_worker_positions": 12,
+  "warn_notice_count": 0,
+  "median_wage_usd": 156000.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 5,
+      "median_wage_usd": 142000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 5,
+      "median_wage_usd": 180000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 165422.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SAP GTS Consultant",
+      "count": 5,
+      "median_wage_usd": 165422.0
+    },
+    {
+      "title": "SAP TM Consultant",
+      "count": 2,
+      "median_wage_usd": 149000.0
+    },
+    {
+      "title": "Principal Consultant",
+      "count": 2,
+      "median_wage_usd": 93018.0
+    },
+    {
+      "title": "SAP GTS SOLUTION ARCHITECT",
+      "count": 1,
+      "median_wage_usd": 275000.0
+    },
+    {
+      "title": "Vice President",
+      "count": 1,
+      "median_wage_usd": 280000.0
+    },
+    {
+      "title": "SAP GTS Principal Consultant",
+      "count": 1,
+      "median_wage_usd": 152610.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 4
+    },
+    {
+      "state": "CA",
+      "county": "ORANGE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 12
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1253",
+    "soc_title": "Software Quality Assurance Analysts and Testers",
+    "market_median_usd": 101800.0,
+    "employer_median_usd": 154305.0,
+    "gap_usd": 52505.0
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "slug": "milika",
+  "canonical_name": "Milika Inc.",
+  "fein": null,
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 165000.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 165000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Brand Director",
+      "count": 2,
+      "median_wage_usd": 165000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "KINGS",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-2021",
+    "soc_title": "Marketing Managers",
+    "market_median_usd": 157620.0,
+    "employer_median_usd": 165000.0,
+    "gap_usd": 7380.0
+  }
+}

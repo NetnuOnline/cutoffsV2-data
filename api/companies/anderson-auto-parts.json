@@ -1,0 +1,57 @@
+{
+  "slug": "anderson-auto-parts",
+  "canonical_name": "Anderson Auto Parts",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 1,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "NE",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "07/31/2019",
+      "effective_date": "07/31/2019",
+      "state": "NE",
+      "workers": 4,
+      "city": "Grand Island"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "grand-island-msa",
+      "name": "Grand Island MSA",
+      "state": "NE"
+    }
+  ],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2014-06-18",
+        "formType": "8-K",
+        "accessionNumber": "0001158449-14-000121",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001158449&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 1,
+    "itemCounts": {
+      "2.05": 1
+    },
+    "latestFilingDate": "2014-06-18",
+    "earliestFilingDate": "2014-06-18"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

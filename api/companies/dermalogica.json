@@ -1,0 +1,67 @@
+{
+  "slug": "dermalogica",
+  "canonical_name": "Dermalogica, LLC",
+  "fein": "95-3874566",
+  "lca_filing_count": 3,
+  "lca_worker_positions": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 139984.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 114899.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 205150.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 139984.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Brand Manager",
+      "count": 1,
+      "median_wage_usd": 139984.0
+    },
+    {
+      "title": "Senior Director, Global Branded Product Innovation/Marketing",
+      "count": 1,
+      "median_wage_usd": 205150.0
+    },
+    {
+      "title": "DevOps Engineer",
+      "count": 1,
+      "median_wage_usd": 114899.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-2021",
+    "soc_title": "Marketing Managers",
+    "market_median_usd": 157620.0,
+    "employer_median_usd": 172567.0,
+    "gap_usd": 14947.0
+  }
+}

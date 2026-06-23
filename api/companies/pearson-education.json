@@ -1,0 +1,195 @@
+{
+  "slug": "pearson-education",
+  "canonical_name": "Pearson Education, Inc.",
+  "fein": "22-1603684",
+  "lca_filing_count": 45,
+  "lca_worker_positions": 45,
+  "warn_notice_count": 0,
+  "median_wage_usd": 140000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 6,
+      "median_wage_usd": 142100.0
+    },
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 116210.0
+    },
+    {
+      "fy": 2022,
+      "filings": 12,
+      "median_wage_usd": 124082.5
+    },
+    {
+      "fy": 2023,
+      "filings": 5,
+      "median_wage_usd": 144900.0
+    },
+    {
+      "fy": 2024,
+      "filings": 11,
+      "median_wage_usd": 154665.23
+    },
+    {
+      "fy": 2025,
+      "filings": 7,
+      "median_wage_usd": 150118.5
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 132168.08000000002,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Software Developer",
+      "count": 3,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "title": "Specialist Application Engineering",
+      "count": 2,
+      "median_wage_usd": 186313.98
+    },
+    {
+      "title": "Principal Database Analyst",
+      "count": 2,
+      "median_wage_usd": 132191.07
+    },
+    {
+      "title": "Senior Supply Chain Data Analyst",
+      "count": 2,
+      "median_wage_usd": 117317.32999999999
+    },
+    {
+      "title": "Senior Database Analyst",
+      "count": 2,
+      "median_wage_usd": 118373.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 1,
+      "median_wage_usd": 145360.16
+    },
+    {
+      "title": "Cloud Engineer",
+      "count": 1,
+      "median_wage_usd": 118450.0
+    },
+    {
+      "title": "Senior Site Reliability Engineer",
+      "count": 1,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "title": "Senior Platform Management Analyst",
+      "count": 1,
+      "median_wage_usd": 137000.0
+    },
+    {
+      "title": "CRM Principal Architect",
+      "count": 1,
+      "median_wage_usd": 171457.92
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NC",
+      "county": "DURHAM",
+      "count": 13
+    },
+    {
+      "state": "NJ",
+      "county": "HUDSON",
+      "count": 9
+    },
+    {
+      "state": "MN",
+      "county": "HENNEPIN",
+      "count": 2
+    },
+    {
+      "state": "NC",
+      "county": "WAKE",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "BEXAR",
+      "count": 2
+    },
+    {
+      "state": "FL",
+      "county": "MIAMI-DADE",
+      "count": 1
+    },
+    {
+      "state": "CT",
+      "county": "MANCHESTER",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "county": "WESTFORD",
+      "count": 1
+    },
+    {
+      "state": "TN",
+      "county": "RUTHERFORD",
+      "count": 1
+    },
+    {
+      "state": "TN",
+      "county": "WARREN",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NC",
+      "count": 21
+    },
+    {
+      "state": "NJ",
+      "count": 12
+    },
+    {
+      "state": "CT",
+      "count": 3
+    },
+    {
+      "state": "MN",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "TN",
+      "count": 2
+    },
+    {
+      "state": "FL",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 145360.16,
+    "gap_usd": 15200.16
+  }
+}

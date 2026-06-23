@@ -1,0 +1,199 @@
+{
+  "slug": "first-horizon-bank",
+  "canonical_name": "First Horizon Bank",
+  "fein": "62-0201385",
+  "lca_filing_count": 44,
+  "lca_worker_positions": 39,
+  "warn_notice_count": 0,
+  "median_wage_usd": 109886.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 108318.14499999999
+    },
+    {
+      "fy": 2021,
+      "filings": 7,
+      "median_wage_usd": 109250.0
+    },
+    {
+      "fy": 2022,
+      "filings": 4,
+      "median_wage_usd": 98034.96
+    },
+    {
+      "fy": 2023,
+      "filings": 5,
+      "median_wage_usd": 77703.0
+    },
+    {
+      "fy": 2024,
+      "filings": 6,
+      "median_wage_usd": 117043.0
+    },
+    {
+      "fy": 2025,
+      "filings": 7,
+      "median_wage_usd": 116147.0
+    },
+    {
+      "fy": 2026,
+      "filings": 8,
+      "median_wage_usd": 118642.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "IT Consultant Senior",
+      "count": 5,
+      "median_wage_usd": 125722.0
+    },
+    {
+      "title": "IT Systems Analyst Senior",
+      "count": 4,
+      "median_wage_usd": 90708.36
+    },
+    {
+      "title": "IT Developer Sr.",
+      "count": 3,
+      "median_wage_usd": 98034.96
+    },
+    {
+      "title": "Business Systems Analyst Senior",
+      "count": 2,
+      "median_wage_usd": 100401.0
+    },
+    {
+      "title": "Enterprise Consultant Senior",
+      "count": 2,
+      "median_wage_usd": 95436.0
+    },
+    {
+      "title": "IT Consultant II",
+      "count": 2,
+      "median_wage_usd": 106693.0
+    },
+    {
+      "title": "Senior Project Manager ",
+      "count": 2,
+      "median_wage_usd": 98384.0
+    },
+    {
+      "title": "Business Transformation Analyst",
+      "count": 2,
+      "median_wage_usd": 71769.5
+    },
+    {
+      "title": "Senior Full Stack Java Developer",
+      "count": 1,
+      "median_wage_usd": null
+    },
+    {
+      "title": "Digital Experience Designer",
+      "count": 1,
+      "median_wage_usd": 116660.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TN",
+      "county": "SHELBY",
+      "count": 15
+    },
+    {
+      "state": "NC",
+      "county": "MECKLENBURG",
+      "count": 4
+    },
+    {
+      "state": "WI",
+      "county": "MILWAUKEE",
+      "count": 2
+    },
+    {
+      "state": "MA",
+      "county": "NATICK",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "county": "WAKE",
+      "count": 1
+    },
+    {
+      "state": "TN",
+      "county": "DAVIDSON",
+      "count": 1
+    },
+    {
+      "state": "LA",
+      "county": "LAFAYETTE",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SAN DIEGO",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TN",
+      "count": 23
+    },
+    {
+      "state": "NC",
+      "count": 9
+    },
+    {
+      "state": "TX",
+      "count": 3
+    },
+    {
+      "state": "WI",
+      "count": 2
+    },
+    {
+      "state": "MA",
+      "count": 2
+    },
+    {
+      "state": "AL",
+      "count": 2
+    },
+    {
+      "state": "LA",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "OH",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 118604.0,
+    "gap_usd": -11556.0
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "slug": "myappshub",
+  "canonical_name": "MYAPPSHUB LLC",
+  "fein": "45-5199352",
+  "lca_filing_count": 36,
+  "lca_worker_positions": 36,
+  "warn_notice_count": 0,
+  "median_wage_usd": 93101.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 8,
+      "median_wage_usd": 96294.0
+    },
+    {
+      "fy": 2021,
+      "filings": 4,
+      "median_wage_usd": 95285.0
+    },
+    {
+      "fy": 2022,
+      "filings": 6,
+      "median_wage_usd": 101358.0
+    },
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 101358.0
+    },
+    {
+      "fy": 2024,
+      "filings": 5,
+      "median_wage_usd": 89440.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 161637.0
+    },
+    {
+      "fy": 2026,
+      "filings": 8,
+      "median_wage_usd": 92186.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Computer Systems Analyst",
+      "count": 19,
+      "median_wage_usd": 92186.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 14,
+      "median_wage_usd": 100225.0
+    },
+    {
+      "title": "Computer Systems Analysts",
+      "count": 2,
+      "median_wage_usd": 91042.0
+    },
+    {
+      "title": "Program Analyst",
+      "count": 1,
+      "median_wage_usd": 101358.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 18
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 2
+    },
+    {
+      "state": "FL",
+      "county": "PALM BEACH",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "county": "ALLEGHENY",
+      "count": 1
+    },
+    {
+      "state": "CO",
+      "county": "ARAPAHOE",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SAN JOAQUIN",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 1
+    },
+    {
+      "state": "OR",
+      "county": "WASHINGTON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "WA",
+      "count": 26
+    },
+    {
+      "state": "CA",
+      "count": 5
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "CO",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "count": 1
+    },
+    {
+      "state": "OR",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1211",
+    "soc_title": "Computer Systems Analysts",
+    "market_median_usd": 103800.0,
+    "employer_median_usd": 92186.0,
+    "gap_usd": -11614.0
+  }
+}

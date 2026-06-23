@@ -1,0 +1,47 @@
+{
+  "slug": "salem-hospital",
+  "canonical_name": "Salem Hospital",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 1
+    },
+    {
+      "state": "OR",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "12/31/2018",
+      "effective_date": "12/31/2018",
+      "state": "NJ",
+      "workers": 339,
+      "city": "Salem"
+    },
+    {
+      "date": "06/15/2012",
+      "effective_date": "06/15/2012",
+      "state": "OR",
+      "workers": 52,
+      "city": "Salem"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "mid-valley-wia",
+      "name": "Mid-Valley WIA",
+      "state": "OR"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

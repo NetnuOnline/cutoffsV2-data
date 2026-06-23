@@ -1,0 +1,96 @@
+{
+  "slug": "tools-for-humanity",
+  "canonical_name": "Tools for Humanity Corporation",
+  "fein": "84-2242184",
+  "lca_filing_count": 6,
+  "lca_worker_positions": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 197500.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 180000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 200000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 227000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 222500.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Supplier Industrialization Engineer",
+      "count": 1,
+      "median_wage_usd": 250000.0
+    },
+    {
+      "title": "Senior Data Scientist",
+      "count": 1,
+      "median_wage_usd": 200000.0
+    },
+    {
+      "title": "Senior Device Security Engineer",
+      "count": 1,
+      "median_wage_usd": 265000.0
+    },
+    {
+      "title": "Lead Software Engineer",
+      "count": 1,
+      "median_wage_usd": 180000.0
+    },
+    {
+      "title": "Business Operations & Strategy Manager",
+      "count": 1,
+      "median_wage_usd": 195000.0
+    },
+    {
+      "title": "Product Operations Specialist",
+      "count": 1,
+      "median_wage_usd": 189000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 5
+    },
+    {
+      "state": "NY",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1161",
+    "soc_title": "Market Research Analysts and Marketing Specialists",
+    "market_median_usd": 74680.0,
+    "employer_median_usd": 189000.0,
+    "gap_usd": 114320.0
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "slug": "logrhythm",
+  "canonical_name": "LogRhythm, Inc.",
+  "fein": null,
+  "lca_filing_count": 4,
+  "warn_notice_count": 1,
+  "median_wage_usd": 131250.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 145390.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Site Reliability Engineer - Mistnet",
+      "count": 2,
+      "median_wage_usd": 126250.0
+    },
+    {
+      "title": "Cloud Engineer",
+      "count": 1,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "title": "Senior Software Engineer I ",
+      "count": 1,
+      "median_wage_usd": 163280.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CO",
+      "count": 3
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CO",
+      "county": "BOULDER",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "county": "HUDSON",
+      "count": 1
+    },
+    {
+      "state": "CO",
+      "county": "DOUGLAS",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "07/16/2024",
+      "effective_date": "09/09/2024",
+      "state": "CO",
+      "workers": 80,
+      "city": "RC: Broomfield"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 2,
+    "initial_denials": 0,
+    "continuing_approvals": 9,
+    "continuing_denials": 0,
+    "total_approvals": 11,
+    "by_fy": [
+      {
+        "fy": 2017,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 4
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 4,
+        "continuing_denials": 0,
+        "total_approvals": 4
+      }
+    ]
+  },
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 127500.0,
+    "gap_usd": -2660.0
+  }
+}

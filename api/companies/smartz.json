@@ -1,0 +1,87 @@
+{
+  "slug": "smartz",
+  "canonical_name": "Smartz Inc.",
+  "fein": "87-1294456",
+  "lca_filing_count": 10,
+  "lca_worker_positions": 9,
+  "warn_notice_count": 0,
+  "median_wage_usd": 71000.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 5,
+      "median_wage_usd": 70000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 73486.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 53498.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 2,
+      "median_wage_usd": 72500.0
+    },
+    {
+      "title": "Data Engineering Developer",
+      "count": 2,
+      "median_wage_usd": 82482.0
+    },
+    {
+      "title": "Software Quality Engineer/UI",
+      "count": 2,
+      "median_wage_usd": 53498.0
+    },
+    {
+      "title": "Product Manager",
+      "count": 1,
+      "median_wage_usd": 70000.0
+    },
+    {
+      "title": "Software Quality Assurance Engineer",
+      "count": 1,
+      "median_wage_usd": 72000.0
+    },
+    {
+      "title": "R&D Application Developer",
+      "count": 1,
+      "median_wage_usd": 69888.0
+    },
+    {
+      "title": "Project Manager",
+      "count": 1,
+      "median_wage_usd": 75000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IL",
+      "county": "CHAMPAIGN",
+      "count": 10
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 10
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1253",
+    "soc_title": "Software Quality Assurance Analysts and Testers",
+    "market_median_usd": 101800.0,
+    "employer_median_usd": 62749.0,
+    "gap_usd": -39051.0
+  }
+}

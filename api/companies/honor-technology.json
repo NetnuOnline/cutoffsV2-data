@@ -1,0 +1,175 @@
+{
+  "slug": "honor-technology",
+  "canonical_name": "Honor Technology, Inc.",
+  "fein": "47-1943214",
+  "lca_filing_count": 10,
+  "warn_notice_count": 1,
+  "median_wage_usd": 154170.5,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 138341.0
+    },
+    {
+      "fy": 2021,
+      "filings": 3,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 179405.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 180000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Commercial Strategy & Operations Manager",
+      "count": 4,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Commercial Strategy Director",
+      "count": 2,
+      "median_wage_usd": 175500.0
+    },
+    {
+      "title": "Sr. Finance Manager, Corporate Development & Capital Markets",
+      "count": 1,
+      "median_wage_usd": 170000.0
+    },
+    {
+      "title": "Staff Software Engineer (Features/Testing)",
+      "count": 1,
+      "median_wage_usd": 183310.0
+    },
+    {
+      "title": "Product Manager",
+      "count": 1,
+      "median_wage_usd": 138341.0
+    },
+    {
+      "title": "Senior Android Engineer (Workforce)",
+      "count": 1,
+      "median_wage_usd": 190000.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 8
+    },
+    {
+      "state": "AZ",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 5
+    },
+    {
+      "state": "CA",
+      "county": "CONTRA COSTA",
+      "count": 2
+    },
+    {
+      "state": "FL",
+      "county": "ALACHUA",
+      "count": 1
+    },
+    {
+      "state": "AZ",
+      "county": "PIMA",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "06/22/2023",
+      "effective_date": "06/22/2023",
+      "state": "NE",
+      "workers": 114,
+      "city": null
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 10,
+    "continuing_denials": 0,
+    "total_approvals": 11,
+    "by_fy": [
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 4,
+        "continuing_denials": 0,
+        "total_approvals": 4
+      }
+    ]
+  },
+  "lca_worker_positions": 8,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1111",
+    "soc_title": "Management Analysts",
+    "market_median_usd": 99000.0,
+    "employer_median_usd": 130000.0,
+    "gap_usd": 31000.0
+  }
+}

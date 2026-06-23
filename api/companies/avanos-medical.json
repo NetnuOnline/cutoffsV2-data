@@ -1,0 +1,132 @@
+{
+  "slug": "avanos-medical",
+  "canonical_name": "Avanos Medical, Inc.",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 3,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 2
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "08/05/2020",
+      "effective_date": "08/05/2020",
+      "state": "GA",
+      "workers": 17,
+      "city": "Woodstock"
+    },
+    {
+      "date": "07/02/2020",
+      "effective_date": "09/03/2020",
+      "state": "CA",
+      "workers": 41,
+      "city": "Concord"
+    },
+    {
+      "date": "02/25/2020",
+      "effective_date": "04/30/2020",
+      "state": "CA",
+      "workers": 43,
+      "city": "Irvine"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2023-02-21",
+        "formType": "8-K/A",
+        "accessionNumber": "0001606498-23-000018",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001606498&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2023-01-11",
+        "formType": "8-K",
+        "accessionNumber": "0001606498-23-000011",
+        "items": [
+          "2.05",
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities",
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001606498&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2019-06-18",
+        "formType": "8-K",
+        "accessionNumber": "0001606498-19-000054",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001606498&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2018-03-20",
+        "formType": "8-K",
+        "accessionNumber": "0001606498-18-000022",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001606498&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2017-12-20",
+        "formType": "8-K",
+        "accessionNumber": "0001606498-17-000074",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001606498&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2014-11-04",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-14-396347",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001606498&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 6,
+    "itemCounts": {
+      "2.05": 5,
+      "5.02": 2
+    },
+    "latestFilingDate": "2023-02-21",
+    "earliestFilingDate": "2014-11-04"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

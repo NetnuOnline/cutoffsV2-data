@@ -1,0 +1,96 @@
+{
+  "slug": "abbott-diabetes-care-sales",
+  "canonical_name": "Abbott Diabetes Care Sales Corporation",
+  "fein": "22-3890190",
+  "lca_filing_count": 6,
+  "lca_worker_positions": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 149368.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 158500.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 134368.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 170000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 100000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "MANAGER SALES ADMINISTRATION",
+      "count": 1,
+      "median_wage_usd": 147000.0
+    },
+    {
+      "title": "Manager, Sales Incentive Compensation Administration",
+      "count": 1,
+      "median_wage_usd": 151736.0
+    },
+    {
+      "title": "EHR Implementation Manager",
+      "count": 1,
+      "median_wage_usd": 170000.0
+    },
+    {
+      "title": "SENIOR MANUFACTURING PROCESS ENGINEER",
+      "count": 1,
+      "median_wage_usd": 117000.0
+    },
+    {
+      "title": "Senior Automation Engineer",
+      "count": 1,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "title": "Manager, Business Insights and Strategies",
+      "count": 1,
+      "median_wage_usd": 170000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 3
+    },
+    {
+      "state": "NY",
+      "county": "CAYUGA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 5
+    },
+    {
+      "state": "NY",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Business Intelligence Analysts",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 151736.0,
+    "gap_usd": 43716.0
+  }
+}

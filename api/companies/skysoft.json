@@ -1,0 +1,125 @@
+{
+  "slug": "skysoft",
+  "canonical_name": "Skysoft, Inc.",
+  "fein": "46-4693500",
+  "lca_filing_count": 14,
+  "lca_worker_positions": 14,
+  "warn_notice_count": 0,
+  "median_wage_usd": 97245.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 68000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 68000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 96000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 105620.0
+    },
+    {
+      "fy": 2025,
+      "filings": 4,
+      "median_wage_usd": 111025.0
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 106000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 12,
+      "median_wage_usd": 96620.0
+    },
+    {
+      "title": "Full Stack Software Developer",
+      "count": 1,
+      "median_wage_usd": 97250.0
+    },
+    {
+      "title": ".Net Software Developer",
+      "count": 1,
+      "median_wage_usd": 120000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "DC",
+      "county": "DISTRICT OF COLUMBIA",
+      "count": 3
+    },
+    {
+      "state": "VA",
+      "county": "FAIRFAX",
+      "count": 2
+    },
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 2
+    },
+    {
+      "state": "PA",
+      "county": "ALLEGHENY",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "DC",
+      "count": 4
+    },
+    {
+      "state": "MD",
+      "count": 2
+    },
+    {
+      "state": "AZ",
+      "count": 2
+    },
+    {
+      "state": "VA",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "WI",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 99625.0,
+    "gap_usd": -30535.0
+  }
+}

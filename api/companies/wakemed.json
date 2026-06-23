@@ -1,0 +1,82 @@
+{
+  "slug": "wakemed",
+  "canonical_name": "WakeMed",
+  "fein": "56-6017737",
+  "lca_filing_count": 6,
+  "lca_worker_positions": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 82771.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 73923.0
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 70013.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 78915.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 111017.5
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 99881.6,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "BUSINESS INTELLIGENCE ANALYST",
+      "count": 3,
+      "median_wage_usd": 73923.0
+    },
+    {
+      "title": "CLINICAL NURSE \u201c SURGICAL UNIT ENDOSCOPY",
+      "count": 1,
+      "median_wage_usd": 99881.6
+    },
+    {
+      "title": "Business Intelligence Analyst II",
+      "count": 1,
+      "median_wage_usd": 86627.0
+    },
+    {
+      "title": "Business Intelligence Administrator (Software Developer)",
+      "count": 1,
+      "median_wage_usd": 135408.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NC",
+      "county": "WAKE",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NC",
+      "count": 6
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 107161.5,
+    "gap_usd": -22998.5
+  }
+}

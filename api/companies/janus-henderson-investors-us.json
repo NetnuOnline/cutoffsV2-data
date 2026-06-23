@@ -1,0 +1,85 @@
+{
+  "slug": "janus-henderson-investors-us",
+  "canonical_name": "Janus Henderson Investors US, LLC",
+  "fein": "75-3019302",
+  "lca_filing_count": 5,
+  "lca_worker_positions": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 125000.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 205000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 120000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Finance Product Owner",
+      "count": 1,
+      "median_wage_usd": 205000.0
+    },
+    {
+      "title": "HEAD OF GLOBAL SHORT DURATION & LIQUIDITY GROUP",
+      "count": 1,
+      "median_wage_usd": 285000.0
+    },
+    {
+      "title": "Legal Counsel",
+      "count": 1,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "title": "BI Engineer",
+      "count": 1,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "SOFTWARE ENGINEER",
+      "count": 1,
+      "median_wage_usd": 99000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CO",
+      "count": 3
+    },
+    {
+      "state": "IL",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 99000.0,
+    "gap_usd": -31160.0
+  }
+}

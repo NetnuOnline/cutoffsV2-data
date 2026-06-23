@@ -1,0 +1,51 @@
+{
+  "slug": "script-care",
+  "canonical_name": "Script Care Ltd.",
+  "fein": null,
+  "lca_filing_count": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 78000.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 3,
+      "median_wage_usd": 78000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 3,
+      "median_wage_usd": 78000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "JEFFERSON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Computer Systems Engineers/Architects",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 78000.0,
+    "gap_usd": -40000.0
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "slug": "reddit",
+  "canonical_name": "Reddit, Inc.",
+  "fein": "45-2546501",
+  "lca_filing_count": 119,
+  "lca_worker_positions": 136,
+  "warn_notice_count": 0,
+  "median_wage_usd": 242320.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 4,
+      "median_wage_usd": 173650.0
+    },
+    {
+      "fy": 2021,
+      "filings": 19,
+      "median_wage_usd": 195000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 16,
+      "median_wage_usd": 208700.0
+    },
+    {
+      "fy": 2023,
+      "filings": 14,
+      "median_wage_usd": 243775.0
+    },
+    {
+      "fy": 2024,
+      "filings": 16,
+      "median_wage_usd": 227500.0
+    },
+    {
+      "fy": 2025,
+      "filings": 27,
+      "median_wage_usd": 261665.0
+    },
+    {
+      "fy": 2026,
+      "filings": 22,
+      "median_wage_usd": 267006.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 13,
+      "median_wage_usd": 241810.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 12,
+      "median_wage_usd": 250617.5
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "count": 7,
+      "median_wage_usd": 261665.0
+    },
+    {
+      "title": "Software Engineer III",
+      "count": 5,
+      "median_wage_usd": 190000.0
+    },
+    {
+      "title": "Senior Machine Learning Engineer",
+      "count": 4,
+      "median_wage_usd": 260000.0
+    },
+    {
+      "title": "Software Engineer II, Machine Learning",
+      "count": 3,
+      "median_wage_usd": 190000.0
+    },
+    {
+      "title": "Staff Software Engineer",
+      "count": 3,
+      "median_wage_usd": 275000.0
+    },
+    {
+      "title": "Data Scientist, Analytics",
+      "count": 2,
+      "median_wage_usd": 180000.0
+    },
+    {
+      "title": "Software Engineer - L4",
+      "count": 2,
+      "median_wage_usd": 260000.0
+    },
+    {
+      "title": "Engineering Manager",
+      "count": 2,
+      "median_wage_usd": 290000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 25
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 15
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 7
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 4
+    },
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 3
+    },
+    {
+      "state": "MA",
+      "county": "FRAMINGHAM",
+      "count": 3
+    },
+    {
+      "state": "MI",
+      "county": "OAKLAND",
+      "count": 2
+    },
+    {
+      "state": "PA",
+      "county": "DELAWARE",
+      "count": 2
+    },
+    {
+      "state": "NY",
+      "county": "KINGS",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 43
+    },
+    {
+      "state": "WA",
+      "count": 24
+    },
+    {
+      "state": "NY",
+      "count": 22
+    },
+    {
+      "state": "NJ",
+      "count": 5
+    },
+    {
+      "state": "IL",
+      "count": 4
+    },
+    {
+      "state": "MA",
+      "count": 3
+    },
+    {
+      "state": "FL",
+      "count": 2
+    },
+    {
+      "state": "MI",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "CO",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 255000.0,
+    "gap_usd": 124840.0
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "munchery",
+  "canonical_name": "Munchery",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 3,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "05/11/2018",
+      "effective_date": "07/10/2018",
+      "state": "CA",
+      "workers": 82,
+      "city": "Gardena"
+    },
+    {
+      "date": "05/11/2018",
+      "effective_date": "05/11/2018",
+      "state": "NY",
+      "workers": 0,
+      "city": "New York"
+    },
+    {
+      "date": "05/11/2018",
+      "effective_date": "05/11/2018",
+      "state": "NY",
+      "workers": 80,
+      "city": "Brooklyn"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

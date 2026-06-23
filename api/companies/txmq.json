@@ -1,0 +1,63 @@
+{
+  "slug": "txmq",
+  "canonical_name": "TxMQ, Inc.",
+  "fein": null,
+  "lca_filing_count": 1,
+  "warn_notice_count": 0,
+  "median_wage_usd": 178200.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 178200.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "AWS/MQ Middleware Engineer",
+      "count": 1,
+      "median_wage_usd": 178200.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 1,
+    "continuing_denials": 0,
+    "total_approvals": 1,
+    "by_fy": [
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 1,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 178200.0,
+    "gap_usd": 48040.0
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "slug": "saga-innovations",
+  "canonical_name": "Saga Innovations, Inc.",
+  "fein": "47-2168942",
+  "lca_filing_count": 3,
+  "lca_worker_positions": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 80600.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 115586.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 71100.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Software Engineer",
+      "count": 1,
+      "median_wage_usd": 115586.0
+    },
+    {
+      "title": "Staff Accountant",
+      "count": 1,
+      "median_wage_usd": 61600.0
+    },
+    {
+      "title": "Accounting Manager",
+      "count": 1,
+      "median_wage_usd": 80600.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "FL",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-2011",
+    "soc_title": "Accountants and Auditors",
+    "market_median_usd": 79000.0,
+    "employer_median_usd": 71100.0,
+    "gap_usd": -7900.0
+  }
+}

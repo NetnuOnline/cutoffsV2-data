@@ -1,0 +1,120 @@
+{
+  "slug": "vimeo-com",
+  "canonical_name": "Vimeo.com, Inc.",
+  "fein": "26-2816886",
+  "lca_filing_count": 7,
+  "warn_notice_count": 0,
+  "median_wage_usd": 143936.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 5,
+      "median_wage_usd": 143936.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 140425.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 191132.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Manager, Engineering",
+      "count": 1,
+      "median_wage_usd": 165610.0
+    },
+    {
+      "title": "Sr. Engineer, Data, Enterprise Analytics",
+      "count": 1,
+      "median_wage_usd": 180000.0
+    },
+    {
+      "title": "Sr. Manager, Data Engineering",
+      "count": 1,
+      "median_wage_usd": 191132.0
+    },
+    {
+      "title": "Data Engineer II",
+      "count": 1,
+      "median_wage_usd": 101754.0
+    },
+    {
+      "title": "Sr. Software Engineer",
+      "count": 1,
+      "median_wage_usd": 140425.0
+    },
+    {
+      "title": "Senior Data Engineer",
+      "count": 1,
+      "median_wage_usd": 143936.0
+    },
+    {
+      "title": "Sr. Product Manager, Growth",
+      "count": 1,
+      "median_wage_usd": 114608.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 5
+    },
+    {
+      "state": "NJ",
+      "county": "HUDSON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 6
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 2,
+    "initial_denials": 0,
+    "continuing_approvals": 12,
+    "continuing_denials": 1,
+    "total_approvals": 14,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 10,
+        "continuing_denials": 1,
+        "total_approvals": 12
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      }
+    ]
+  },
+  "lca_worker_positions": 7,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3021",
+    "soc_title": "Computer and Information Systems Managers",
+    "market_median_usd": 169510.0,
+    "employer_median_usd": 165610.0,
+    "gap_usd": -3900.0
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "slug": "u-s-net-metrics",
+  "canonical_name": "U.S. Net-Metrics Inc.",
+  "fein": "35-2401077",
+  "lca_filing_count": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 98280.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 91000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 98280.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Backup Administrator",
+      "count": 3,
+      "median_wage_usd": 98280.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1244",
+    "soc_title": "Network and Computer Systems Administrators",
+    "market_median_usd": 95000.0,
+    "employer_median_usd": 98280.0,
+    "gap_usd": 3280.0
+  }
+}

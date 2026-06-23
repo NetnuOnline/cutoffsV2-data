@@ -1,0 +1,117 @@
+{
+  "slug": "otter-ai",
+  "canonical_name": "OTTER.AI, INC.",
+  "fein": "81-2445246",
+  "lca_filing_count": 25,
+  "lca_worker_positions": 23,
+  "warn_notice_count": 0,
+  "median_wage_usd": 188000.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 3,
+      "median_wage_usd": 192941.0
+    },
+    {
+      "fy": 2023,
+      "filings": 7,
+      "median_wage_usd": 183310.0
+    },
+    {
+      "fy": 2024,
+      "filings": 4,
+      "median_wage_usd": 151790.4
+    },
+    {
+      "fy": 2025,
+      "filings": 6,
+      "median_wage_usd": 188000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 230000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Software Engineer",
+      "count": 9,
+      "median_wage_usd": 207000.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 5,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "title": "Senior Software Engineer ",
+      "count": 3,
+      "median_wage_usd": 192941.0
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "count": 2,
+      "median_wage_usd": 188000.0
+    },
+    {
+      "title": "Staff Data Engineer",
+      "count": 1,
+      "median_wage_usd": 188000.0
+    },
+    {
+      "title": "Senior Growth Data Scientist",
+      "count": 1,
+      "median_wage_usd": 183310.0
+    },
+    {
+      "title": "Senior Engineer Manager",
+      "count": 1,
+      "median_wage_usd": 230000.0
+    },
+    {
+      "title": "Director of Engineering",
+      "count": 1,
+      "median_wage_usd": 319000.0
+    },
+    {
+      "title": "Data Scientist",
+      "count": 1,
+      "median_wage_usd": 155000.0
+    },
+    {
+      "title": "Senior Growth Data Analyst",
+      "count": 1,
+      "median_wage_usd": 183310.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 15
+    },
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 25
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 188000.0,
+    "gap_usd": 57840.0
+  }
+}

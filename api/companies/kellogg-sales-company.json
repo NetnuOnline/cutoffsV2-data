@@ -1,0 +1,119 @@
+{
+  "slug": "kellogg-sales-company",
+  "canonical_name": "Kellogg Sales Company",
+  "fein": "20-0329186",
+  "lca_filing_count": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 99651.5,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 107285.0
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 88400.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 92018.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Business Solutions Manager - Kellogg Sales Solutions",
+      "count": 1,
+      "median_wage_usd": 107285.0
+    },
+    {
+      "title": "Manager, Commercial Strategy",
+      "count": 1,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "title": "Senior Customer Analyst",
+      "count": 1,
+      "median_wage_usd": 92018.0
+    },
+    {
+      "title": "Data Scientist",
+      "count": 1,
+      "median_wage_usd": 88400.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MI",
+      "county": "CALHOUN",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "county": "BURLINGTON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MI",
+      "count": 2
+    },
+    {
+      "state": "MA",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 5,
+    "continuing_denials": 0,
+    "total_approvals": 5,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 4,
+        "continuing_denials": 0,
+        "total_approvals": 4
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1161",
+    "soc_title": "Market Research Analysts and Marketing Specialists",
+    "market_median_usd": 74680.0,
+    "employer_median_usd": 92018.0,
+    "gap_usd": 17338.0
+  }
+}

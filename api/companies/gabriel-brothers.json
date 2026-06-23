@@ -1,0 +1,47 @@
+{
+  "slug": "gabriel-brothers",
+  "canonical_name": "Gabriel Brothers Inc.",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 1
+    },
+    {
+      "state": "MD",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "05/10/2024",
+      "effective_date": "08/12/2024",
+      "state": "NJ",
+      "workers": 52,
+      "city": "Mount Laurel, Cherry Hill,"
+    },
+    {
+      "date": "12/01/2021",
+      "effective_date": "01/01/2022",
+      "state": "MD",
+      "workers": 61,
+      "city": "Abingdon"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "susquehanna-wia",
+      "name": "Susquehanna WIA",
+      "state": "MD"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

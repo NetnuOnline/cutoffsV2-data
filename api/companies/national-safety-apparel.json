@@ -1,0 +1,83 @@
+{
+  "slug": "national-safety-apparel",
+  "canonical_name": "National Safety Apparel",
+  "fein": "34-1678801",
+  "lca_filing_count": 1,
+  "warn_notice_count": 2,
+  "median_wage_usd": 69768.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 69768.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "HR Specialist",
+      "count": 1,
+      "median_wage_usd": 69768.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "04/23/2026",
+      "effective_date": "06/30/2026",
+      "state": "TX",
+      "workers": 50,
+      "city": "San Antonio"
+    },
+    {
+      "date": "08/01/2023",
+      "effective_date": "08/01/2023",
+      "state": "KS",
+      "workers": 0,
+      "city": "Cleveland"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 1,
+    "continuing_denials": 0,
+    "total_approvals": 1,
+    "by_fy": [
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 1,
+  "top_socs": [],
+  "lca_periods": []
+}

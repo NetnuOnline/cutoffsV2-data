@@ -1,0 +1,80 @@
+{
+  "slug": "askindosys",
+  "canonical_name": "ASKINDOSYS, INC.",
+  "fein": "20-2478390",
+  "lca_filing_count": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 85467.2,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 75140.1
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 82181.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 97500.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 2,
+      "median_wage_usd": 97500.0
+    },
+    {
+      "title": "MAINFRAME QA TESTER",
+      "count": 1,
+      "median_wage_usd": 82181.0
+    },
+    {
+      "title": "SYSTEMS ARCHITECT",
+      "count": 1,
+      "median_wage_usd": 64813.0
+    },
+    {
+      "title": "SENIOR CONSULTANT\t",
+      "count": 1,
+      "median_wage_usd": 85467.20000000001
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NJ",
+      "county": "MERCER",
+      "count": 2
+    },
+    {
+      "state": "FL",
+      "county": "HILLSBOROUGH",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "FL",
+      "count": 3
+    },
+    {
+      "state": "NJ",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 5,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 97500.0,
+    "gap_usd": -32660.0
+  }
+}

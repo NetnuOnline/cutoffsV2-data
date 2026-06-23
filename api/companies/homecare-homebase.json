@@ -1,0 +1,51 @@
+{
+  "slug": "homecare-homebase",
+  "canonical_name": "Homecare Homebase, LLC",
+  "fein": "61-1398849",
+  "lca_filing_count": 2,
+  "lca_worker_positions": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 153939.93,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 157178.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 150701.87,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Software Engineer",
+      "count": 1,
+      "median_wage_usd": 150701.87
+    },
+    {
+      "title": "Lead Software Quality Engineer",
+      "count": 1,
+      "median_wage_usd": 157178.0
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1253",
+    "soc_title": "Software Quality Assurance Analysts and Testers",
+    "market_median_usd": 101800.0,
+    "employer_median_usd": 157178.0,
+    "gap_usd": 55378.0
+  }
+}

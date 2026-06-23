@@ -1,0 +1,65 @@
+{
+  "slug": "washington-metropolitan-area-transit-authority",
+  "canonical_name": "Washington Metropolitan Area Transit Authority",
+  "fein": "52-0847040",
+  "lca_filing_count": 1,
+  "warn_notice_count": 2,
+  "median_wage_usd": 148791.0,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 148791.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Web Application Developer",
+      "count": 1,
+      "median_wage_usd": 148791.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MD",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "11/23/2020",
+      "effective_date": "01/23/2020",
+      "state": "VA",
+      "workers": 1141,
+      "city": "Alexandria, Arlington, Fairfax, Falls Church & Vienna, VA"
+    },
+    {
+      "date": "10/22/2020",
+      "effective_date": "10/22/2020",
+      "state": "DC",
+      "workers": 1604,
+      "city": "Washington D.C."
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "district-of-columbia-wib",
+      "name": "District of Columbia WIB",
+      "state": "DC"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "lca_worker_positions": 1,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 148791.0,
+    "gap_usd": 18631.0
+  }
+}

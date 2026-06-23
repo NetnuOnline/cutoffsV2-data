@@ -1,0 +1,72 @@
+{
+  "slug": "vavera",
+  "canonical_name": "VAVERA LLC",
+  "fein": "84-3074993",
+  "lca_filing_count": 5,
+  "lca_worker_positions": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 93000.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 77500.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 93000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 103000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "UI Engineer",
+      "count": 2,
+      "median_wage_usd": 93000.0
+    },
+    {
+      "title": "Cloud Engineer",
+      "count": 1,
+      "median_wage_usd": 113000.0
+    },
+    {
+      "title": "Software Test Engineer",
+      "count": 1,
+      "median_wage_usd": 87000.0
+    },
+    {
+      "title": "Quality Assurance Engineer",
+      "count": 1,
+      "median_wage_usd": 68000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 5
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1253",
+    "soc_title": "Software Quality Assurance Analysts and Testers",
+    "market_median_usd": 101800.0,
+    "employer_median_usd": 77500.0,
+    "gap_usd": -24300.0
+  }
+}

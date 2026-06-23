@@ -1,0 +1,52 @@
+{
+  "slug": "spiral-binding",
+  "canonical_name": "Spiral Binding, LLC",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "10/27/2025",
+      "effective_date": "10/27/2025",
+      "state": "NJ",
+      "workers": 137,
+      "city": "Totowa"
+    },
+    {
+      "date": "07/28/2025",
+      "effective_date": "09/26/2025",
+      "state": "CA",
+      "workers": 135,
+      "city": "Camarillo"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "ventura-county-wib",
+      "name": "Ventura County WIB",
+      "state": "CA"
+    },
+    {
+      "slug": "passaic-wib",
+      "name": "Passaic WIB",
+      "state": "NJ"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

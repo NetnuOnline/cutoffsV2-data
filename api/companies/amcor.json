@@ -1,0 +1,231 @@
+{
+  "slug": "amcor",
+  "canonical_name": "Amcor",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 18,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 5
+    },
+    {
+      "state": "MO",
+      "count": 2
+    },
+    {
+      "state": "SC",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "IA",
+      "count": 1
+    },
+    {
+      "state": "OH",
+      "count": 1
+    },
+    {
+      "state": "MD",
+      "count": 1
+    },
+    {
+      "state": "KS",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "05/01/2026",
+      "effective_date": "07/02/2026",
+      "state": "TX",
+      "workers": 56,
+      "city": "Fort Worth"
+    },
+    {
+      "date": "05/01/2024",
+      "effective_date": "06/01/2024",
+      "state": "IA",
+      "workers": 9,
+      "city": "Des Moines"
+    },
+    {
+      "date": "12/03/2020",
+      "effective_date": "01/24/2021",
+      "state": "OH",
+      "workers": 109,
+      "city": "Akron/Summit"
+    },
+    {
+      "date": "03/20/2020",
+      "effective_date": "07/17/2020",
+      "state": "MO",
+      "workers": 93,
+      "city": "Hazelwood"
+    },
+    {
+      "date": "11/24/2019",
+      "effective_date": "11/24/2019",
+      "state": "SC",
+      "workers": 39,
+      "city": "Blythewood"
+    },
+    {
+      "date": "10/08/2019",
+      "effective_date": "12/20/2019",
+      "state": "CA",
+      "workers": 68,
+      "city": "Chatsworth"
+    },
+    {
+      "date": "07/23/2019",
+      "effective_date": "12/31/2019",
+      "state": "MD",
+      "workers": 74,
+      "city": "Hagerstown"
+    },
+    {
+      "date": "10/27/2017",
+      "effective_date": "12/29/2017",
+      "state": "MO",
+      "workers": 72,
+      "city": "Jefferson City"
+    },
+    {
+      "date": "07/20/2017",
+      "effective_date": "03/01/2018",
+      "state": "IL",
+      "workers": 76,
+      "city": "Batavia"
+    },
+    {
+      "date": "07/20/2017",
+      "effective_date": "01/01/2018",
+      "state": "IL",
+      "workers": 1,
+      "city": "Batavia"
+    },
+    {
+      "date": "07/20/2017",
+      "effective_date": "11/01/2017",
+      "state": "IL",
+      "workers": 8,
+      "city": "Batavia"
+    },
+    {
+      "date": "07/20/2017",
+      "effective_date": "10/01/2017",
+      "state": "IL",
+      "workers": 13,
+      "city": "Batavia"
+    },
+    {
+      "date": "07/20/2017",
+      "effective_date": "09/01/2017",
+      "state": "IL",
+      "workers": 12,
+      "city": "Batavia"
+    },
+    {
+      "date": "08/14/2014",
+      "effective_date": "09/26/2014",
+      "state": "CA",
+      "workers": 112,
+      "city": "Los Angeles"
+    },
+    {
+      "date": "06/09/2014",
+      "effective_date": "06/09/2014",
+      "state": "SC",
+      "workers": 41,
+      "city": "Blythewood"
+    },
+    {
+      "date": "02/22/2012",
+      "effective_date": "02/22/2012",
+      "state": "KS",
+      "workers": 53,
+      "city": "3 - Workforce Investment Area III"
+    },
+    {
+      "date": "10/04/2011",
+      "effective_date": "10/04/2011",
+      "state": "NJ",
+      "workers": 188,
+      "city": "Cinnaminson"
+    },
+    {
+      "date": "07/02/2011",
+      "effective_date": "07/02/2011",
+      "state": "NJ",
+      "workers": 412,
+      "city": "Millville"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "western-maryland-wia",
+      "name": "Western Maryland WIA",
+      "state": "MD"
+    },
+    {
+      "slug": "59-central-region-wib",
+      "name": "5/9 Central Region WIB",
+      "state": "MO"
+    },
+    {
+      "slug": "cumberland-salem-wib",
+      "name": "Cumberland-Salem WIB",
+      "state": "NJ"
+    },
+    {
+      "slug": "midlands-wib",
+      "name": "Midlands WIB",
+      "state": "SC"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 2,
+    "initial_denials": 0,
+    "continuing_approvals": 0,
+    "continuing_denials": 0,
+    "total_approvals": 2,
+    "by_fy": [
+      {
+        "fy": 2021,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "slug": "dataseers",
+  "canonical_name": "DataSeers Inc.",
+  "fein": "82-0753359",
+  "lca_filing_count": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 92539.0,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 92539.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Implementation Analyst",
+      "count": 2,
+      "median_wage_usd": 88769.5
+    },
+    {
+      "title": "Manager (ETL & Reporting)",
+      "count": 1,
+      "median_wage_usd": 100000.0
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 3,
+    "initial_denials": 0,
+    "continuing_approvals": 0,
+    "continuing_denials": 0,
+    "total_approvals": 3,
+    "by_fy": [
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1211",
+    "soc_title": "Computer Systems Analysts",
+    "market_median_usd": 103800.0,
+    "employer_median_usd": 88769.5,
+    "gap_usd": -15030.5
+  }
+}

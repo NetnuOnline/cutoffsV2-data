@@ -1,0 +1,60 @@
+{
+  "slug": "r1-rcm-holdco-f-k-a-r1-rcm",
+  "canonical_name": "R1 RCM Holdco Inc. (f/k/a R1 RCM Inc.)",
+  "fein": null,
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 119025.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 119025.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Project Management Manager",
+      "count": 1,
+      "median_wage_usd": 154000.0
+    },
+    {
+      "title": "Analytics Analyst",
+      "count": 1,
+      "median_wage_usd": 84050.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NJ",
+      "county": "HUDSON",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "county": "OAKLAND",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 84050.0,
+    "gap_usd": -23970.0
+  }
+}

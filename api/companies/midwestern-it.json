@@ -1,0 +1,81 @@
+{
+  "slug": "midwestern-it",
+  "canonical_name": "Midwestern IT INC",
+  "fein": "84-2375823",
+  "lca_filing_count": 7,
+  "lca_worker_positions": 7,
+  "warn_notice_count": 0,
+  "median_wage_usd": 83200.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 75150.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 83200.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 94380.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "IT PROJECT MANAGER",
+      "count": 3,
+      "median_wage_usd": 83200.0
+    },
+    {
+      "title": "Business Solutions Manager",
+      "count": 2,
+      "median_wage_usd": 75150.0
+    },
+    {
+      "title": "IT Project Manager",
+      "count": 1,
+      "median_wage_usd": 88150.40000000001
+    },
+    {
+      "title": "SALESFORCE FSL BUSINESS SYSTEMS ANALYST",
+      "count": 1,
+      "median_wage_usd": 130707.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "WI",
+      "county": "DANE",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "county": "KANE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 5
+    },
+    {
+      "state": "WI",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Information Technology Project Managers",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 79175.0,
+    "gap_usd": -38825.0
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "slug": "sanjel",
+  "canonical_name": "Sanjel",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 6,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "CO",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "ND",
+      "count": 1
+    },
+    {
+      "state": "MT",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "05/31/2016",
+      "effective_date": "05/31/2016",
+      "state": "CO",
+      "workers": 101,
+      "city": "Weld"
+    },
+    {
+      "date": "05/31/2016",
+      "effective_date": "05/31/2016",
+      "state": "CO",
+      "workers": 54,
+      "city": "Denver"
+    },
+    {
+      "date": "05/05/2016",
+      "effective_date": "05/31/2016",
+      "state": "ND",
+      "workers": 148,
+      "city": "Williston, ND"
+    },
+    {
+      "date": "05/05/2016",
+      "effective_date": "05/31/2016",
+      "state": "TX",
+      "workers": 312,
+      "city": "Odessa"
+    },
+    {
+      "date": "05/05/2016",
+      "effective_date": "05/31/2016",
+      "state": "TX",
+      "workers": 103,
+      "city": "Cibolo"
+    },
+    {
+      "date": "03/30/2016",
+      "effective_date": "05/01/2016",
+      "state": "MT",
+      "workers": 0,
+      "city": "Custer"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "balance-of-state-wib",
+      "name": "Balance of State WIB",
+      "state": "MT"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

@@ -1,0 +1,123 @@
+{
+  "slug": "cmg-mortgage",
+  "canonical_name": "CMG Mortgage, Inc.",
+  "fein": "68-0309242",
+  "lca_filing_count": 7,
+  "lca_worker_positions": 7,
+  "warn_notice_count": 0,
+  "median_wage_usd": 100000.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 98796.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 117469.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 151564.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Business Analyst ",
+      "count": 2,
+      "median_wage_usd": 98796.0
+    },
+    {
+      "title": "Automation Engineer / Digital Workforce Developer",
+      "count": 1,
+      "median_wage_usd": 139938.0
+    },
+    {
+      "title": "Full Stack Developer",
+      "count": 1,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 1,
+      "median_wage_usd": 151564.0
+    },
+    {
+      "title": "Business Intelligence Analyst",
+      "count": 1,
+      "median_wage_usd": 95000.0
+    },
+    {
+      "title": "Automation Test Engineer",
+      "count": 1,
+      "median_wage_usd": 100000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MD",
+      "county": "BALTIMORE",
+      "count": 2
+    },
+    {
+      "state": "FL",
+      "county": "SEMINOLE",
+      "count": 1
+    },
+    {
+      "state": "TN",
+      "county": "SHELBY",
+      "count": 1
+    },
+    {
+      "state": "MO",
+      "county": "ST LOUIS",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "county": "LOUDOUN",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MD",
+      "count": 3
+    },
+    {
+      "state": "MO",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "count": 1
+    },
+    {
+      "state": "TN",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 145751.0,
+    "gap_usd": 15591.0
+  }
+}

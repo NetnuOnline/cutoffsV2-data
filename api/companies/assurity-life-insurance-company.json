@@ -1,0 +1,54 @@
+{
+  "slug": "assurity-life-insurance-company",
+  "canonical_name": "Assurity Life Insurance Company",
+  "fein": "38-1843471",
+  "lca_filing_count": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 91617.5,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 92339.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Project Manager III",
+      "count": 2,
+      "median_wage_usd": 84120.26999999999
+    },
+    {
+      "title": "Business Data Engineer",
+      "count": 1,
+      "median_wage_usd": 90896.0
+    },
+    {
+      "title": "Project Manager II",
+      "count": 1,
+      "median_wage_usd": 92339.0
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "NE",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Information Technology Project Managers",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 101949.77,
+    "gap_usd": -16050.23
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "slug": "unisys",
+  "canonical_name": "Unisys Corporation",
+  "fein": "38-0387840",
+  "lca_filing_count": 57,
+  "lca_worker_positions": 57,
+  "warn_notice_count": 0,
+  "median_wage_usd": 133640.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 137895.965
+    },
+    {
+      "fy": 2021,
+      "filings": 5,
+      "median_wage_usd": 144266.37
+    },
+    {
+      "fy": 2022,
+      "filings": 4,
+      "median_wage_usd": 138256.0
+    },
+    {
+      "fy": 2023,
+      "filings": 4,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 22,
+      "median_wage_usd": 122328.0
+    },
+    {
+      "fy": 2025,
+      "filings": 13,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 7,
+      "median_wage_usd": 147000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Application Development Engineer",
+      "count": 3,
+      "median_wage_usd": 96949.0
+    },
+    {
+      "title": "Sr. Oracle Cloud DevOps Engineer",
+      "count": 2,
+      "median_wage_usd": 110050.0
+    },
+    {
+      "title": "Engineering Business System Analyst",
+      "count": 2,
+      "median_wage_usd": 95700.0
+    },
+    {
+      "title": "Sr Eng Software App Eng",
+      "count": 2,
+      "median_wage_usd": 132621.0
+    },
+    {
+      "title": "Principal Cloud Engineer",
+      "count": 2,
+      "median_wage_usd": 158000.0
+    },
+    {
+      "title": "Senior Application Test Engineer - [KBGFJG116591-3]",
+      "count": 2,
+      "median_wage_usd": 87324.0
+    },
+    {
+      "title": "Sr. Distinguished Technical Program Manager - KBGFJG303498-1",
+      "count": 2,
+      "median_wage_usd": 180000.0
+    },
+    {
+      "title": "Architect III",
+      "count": 2,
+      "median_wage_usd": 96772.0
+    },
+    {
+      "title": "Business Analyst",
+      "count": 2,
+      "median_wage_usd": 93774.0
+    },
+    {
+      "title": "Sr. Application Development Engineer",
+      "count": 2,
+      "median_wage_usd": 110344.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "PA",
+      "county": "MONTGOMERY",
+      "count": 9
+    },
+    {
+      "state": "VA",
+      "county": "FAIRFAX",
+      "count": 6
+    },
+    {
+      "state": "NY",
+      "county": "ALBANY",
+      "count": 4
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 3
+    },
+    {
+      "state": "SC",
+      "county": "LEXINGTON",
+      "count": 2
+    },
+    {
+      "state": "VA",
+      "county": "LOUDOUN",
+      "count": 2
+    },
+    {
+      "state": "NY",
+      "county": "WESTCHESTER",
+      "count": 2
+    },
+    {
+      "state": "PA",
+      "county": "CUMBERLAND",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "county": "MORRIS",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "county": "MIAMI-DADE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "PA",
+      "count": 16
+    },
+    {
+      "state": "VA",
+      "count": 12
+    },
+    {
+      "state": "NY",
+      "count": 8
+    },
+    {
+      "state": "TX",
+      "count": 7
+    },
+    {
+      "state": "SC",
+      "count": 2
+    },
+    {
+      "state": "MO",
+      "count": 2
+    },
+    {
+      "state": "AR",
+      "count": 2
+    },
+    {
+      "state": "FL",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "count": 2
+    },
+    {
+      "state": "MD",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 132621.0,
+    "gap_usd": 2461.0
+  }
+}

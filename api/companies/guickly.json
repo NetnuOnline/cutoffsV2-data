@@ -1,0 +1,41 @@
+{
+  "slug": "guickly",
+  "canonical_name": "Guickly, Inc.",
+  "fein": "39-4292692",
+  "lca_filing_count": 2,
+  "lca_worker_positions": 1,
+  "warn_notice_count": 0,
+  "median_wage_usd": 195403.5,
+  "by_fy": [
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 200807.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Lead Software Engineer",
+      "count": 2,
+      "median_wage_usd": 195403.5
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 200807.0,
+    "gap_usd": 70647.0
+  }
+}

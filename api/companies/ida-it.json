@@ -1,0 +1,101 @@
+{
+  "slug": "ida-it",
+  "canonical_name": "Ida IT Inc",
+  "fein": null,
+  "lca_filing_count": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 85450.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 3,
+      "median_wage_usd": 85450.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 2,
+      "median_wage_usd": 89775.0
+    },
+    {
+      "title": "Network and Systems Administrator",
+      "count": 1,
+      "median_wage_usd": 80600.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IL",
+      "county": "LAKE",
+      "count": 2
+    },
+    {
+      "state": "MI",
+      "county": "OAKLAND",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 2
+    },
+    {
+      "state": "MI",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 27,
+    "initial_denials": 1,
+    "continuing_approvals": 1,
+    "continuing_denials": 0,
+    "total_approvals": 28,
+    "by_fy": [
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 8,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 8
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 18,
+        "initial_denials": 1,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 18
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      }
+    ]
+  },
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 89775.0,
+    "gap_usd": -40385.0
+  }
+}

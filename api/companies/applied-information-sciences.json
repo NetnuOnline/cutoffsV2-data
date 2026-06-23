@@ -1,0 +1,149 @@
+{
+  "slug": "applied-information-sciences",
+  "canonical_name": "Applied Information Sciences, Inc.",
+  "fein": "52-1237004",
+  "lca_filing_count": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 135000.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 119275.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 160000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "GIS/React Developer",
+      "count": 1,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "title": "Software Architect",
+      "count": 1,
+      "median_wage_usd": 160000.0
+    },
+    {
+      "title": "Power Platform Developer",
+      "count": 1,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "title": "Automation Engineer",
+      "count": 1,
+      "median_wage_usd": 98550.0
+    },
+    {
+      "title": "SharePoint Architect",
+      "count": 1,
+      "median_wage_usd": 135000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "county": "FAIRFAX",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "county": "MONTGOMERY",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "county": "CHESTER",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "county": "ORANGE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "PA",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 11,
+    "continuing_denials": 0,
+    "total_approvals": 11,
+    "by_fy": [
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 6,
+        "continuing_denials": 0,
+        "total_approvals": 6
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      }
+    ]
+  },
+  "lca_worker_positions": 5,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 135000.0,
+    "gap_usd": 4840.0
+  }
+}

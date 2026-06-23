@@ -1,0 +1,51 @@
+{
+  "slug": "great-southern-bank",
+  "canonical_name": "Great Southern Bank",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 1,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "KS",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "04/21/2009",
+      "effective_date": "04/21/2009",
+      "state": "KS",
+      "workers": 77,
+      "city": "5 - Workforce Investment Area V"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2008-05-12",
+        "formType": "8-K",
+        "accessionNumber": "0000927089-08-000177",
+        "items": [
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000854560&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 1,
+    "itemCounts": {
+      "2.06": 1
+    },
+    "latestFilingDate": "2008-05-12",
+    "earliestFilingDate": "2008-05-12"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

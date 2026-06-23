@@ -1,0 +1,113 @@
+{
+  "slug": "envoy-air",
+  "canonical_name": "Envoy Air Inc.",
+  "fein": null,
+  "lca_filing_count": 1,
+  "warn_notice_count": 4,
+  "median_wage_usd": 187200.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 187200.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Airline Pilot",
+      "count": 1,
+      "median_wage_usd": 187200.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "TARRANT",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "07/17/2020",
+      "effective_date": "10/01/2020",
+      "state": "NY",
+      "workers": 578,
+      "city": "Queens"
+    },
+    {
+      "date": "02/26/2016",
+      "effective_date": "05/04/2016",
+      "state": "CA",
+      "workers": 52,
+      "city": "Palm Springs"
+    },
+    {
+      "date": "09/23/2015",
+      "effective_date": "09/23/2015",
+      "state": "KY",
+      "workers": 78,
+      "city": "Jefferson"
+    },
+    {
+      "date": "09/19/2014",
+      "effective_date": "11/22/2014",
+      "state": "CA",
+      "workers": 107,
+      "city": "Los Angeles"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 2,
+    "continuing_denials": 0,
+    "total_approvals": 2,
+    "by_fy": [
+      {
+        "fy": 2014,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2016,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2017,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      }
+    ]
+  },
+  "lca_worker_positions": 16,
+  "top_socs": [],
+  "lca_periods": []
+}

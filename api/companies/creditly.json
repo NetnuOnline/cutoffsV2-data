@@ -1,0 +1,61 @@
+{
+  "slug": "creditly",
+  "canonical_name": "Creditly Corporation",
+  "fein": "83-4462683",
+  "lca_filing_count": 2,
+  "lca_worker_positions": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 177500.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 195000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 160000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "UX Researcher",
+      "count": 1,
+      "median_wage_usd": 160000.0
+    },
+    {
+      "title": "Sr. Mobile QA Engineer",
+      "count": 1,
+      "median_wage_usd": 195000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1253",
+    "soc_title": "Software Quality Assurance Analysts and Testers",
+    "market_median_usd": 101800.0,
+    "employer_median_usd": 195000.0,
+    "gap_usd": 93200.0
+  }
+}

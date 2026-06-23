@@ -1,0 +1,111 @@
+{
+  "slug": "pearson",
+  "canonical_name": "Pearson",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 10,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "IA",
+      "count": 5
+    },
+    {
+      "state": "OH",
+      "count": 3
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    },
+    {
+      "state": "MD",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "05/01/2023",
+      "effective_date": "06/01/2023",
+      "state": "IA",
+      "workers": 37,
+      "city": "Cedar Rapids"
+    },
+    {
+      "date": "04/13/2023",
+      "effective_date": "03/31/2023",
+      "state": "IA",
+      "workers": 17,
+      "city": "Iowa City"
+    },
+    {
+      "date": "12/16/2022",
+      "effective_date": "12/16/2022",
+      "state": "IA",
+      "workers": 50,
+      "city": "Iowa City"
+    },
+    {
+      "date": "12/14/2022",
+      "effective_date": "10/12/2022",
+      "state": "NJ",
+      "workers": 107,
+      "city": "Hoboken"
+    },
+    {
+      "date": "09/28/2022",
+      "effective_date": "09/28/2022",
+      "state": "MD",
+      "workers": 152,
+      "city": "Baltimore"
+    },
+    {
+      "date": "07/01/2019",
+      "effective_date": "06/10/2019",
+      "state": "OH",
+      "workers": 5,
+      "city": "Columbus/Franklin"
+    },
+    {
+      "date": "06/03/2019",
+      "effective_date": "06/03/2019",
+      "state": "OH",
+      "workers": 29,
+      "city": "Columbus/Franklin"
+    },
+    {
+      "date": "05/17/2019",
+      "effective_date": "05/15/2019",
+      "state": "OH",
+      "workers": 8,
+      "city": "Columbus/Franklin"
+    },
+    {
+      "date": "06/23/2016",
+      "effective_date": "07/21/2016",
+      "state": "IA",
+      "workers": 4,
+      "city": "Iowa City"
+    },
+    {
+      "date": "06/07/2016",
+      "effective_date": "07/10/2016",
+      "state": "IA",
+      "workers": 47,
+      "city": "Iowa City"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "hudson-jersey-city-wib",
+      "name": "Hudson-Jersey City WIB",
+      "state": "NJ"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

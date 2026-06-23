@@ -1,0 +1,177 @@
+{
+  "slug": "meritious-services",
+  "canonical_name": "Meritious Services,Inc",
+  "fein": "46-1474087",
+  "lca_filing_count": 25,
+  "lca_worker_positions": 25,
+  "warn_notice_count": 0,
+  "median_wage_usd": 99008.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 94000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 94037.0
+    },
+    {
+      "fy": 2022,
+      "filings": 8,
+      "median_wage_usd": 97163.0
+    },
+    {
+      "fy": 2023,
+      "filings": 4,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 113000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 7,
+      "median_wage_usd": 113000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 7,
+      "median_wage_usd": 99000.0
+    },
+    {
+      "title": "Java Developer",
+      "count": 4,
+      "median_wage_usd": 92050.0
+    },
+    {
+      "title": "Senior SDET",
+      "count": 3,
+      "median_wage_usd": 113277.0
+    },
+    {
+      "title": "Senior Software Developer (.NET/Azure)",
+      "count": 2,
+      "median_wage_usd": 124000.0
+    },
+    {
+      "title": "Full Stack Java Developer",
+      "count": 1,
+      "median_wage_usd": 80850.0
+    },
+    {
+      "title": "Devops Engineer",
+      "count": 1,
+      "median_wage_usd": 99008.0
+    },
+    {
+      "title": "Sr. Software engineer",
+      "count": 1,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "Software Developer (QA)",
+      "count": 1,
+      "median_wage_usd": 94037.0
+    },
+    {
+      "title": "Software Developers",
+      "count": 1,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "title": "Oracle PL/SQL Developer",
+      "count": 1,
+      "median_wage_usd": 91000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 4
+    },
+    {
+      "state": "MN",
+      "county": "HENNEPIN",
+      "count": 4
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 2
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "ORANGE",
+      "count": 1
+    },
+    {
+      "state": "UT",
+      "county": "MORGAN",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 13
+    },
+    {
+      "state": "CA",
+      "count": 4
+    },
+    {
+      "state": "MN",
+      "count": 4
+    },
+    {
+      "state": "WA",
+      "count": 2
+    },
+    {
+      "state": "UT",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 100000.0,
+    "gap_usd": -30160.0
+  }
+}

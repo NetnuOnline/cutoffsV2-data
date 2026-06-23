@@ -1,0 +1,115 @@
+{
+  "slug": "patimalla",
+  "canonical_name": "Patimalla Inc.",
+  "fein": "20-0247207",
+  "lca_filing_count": 10,
+  "lca_worker_positions": 10,
+  "warn_notice_count": 0,
+  "median_wage_usd": 80930.5,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 4,
+      "median_wage_usd": 72360.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 5,
+      "median_wage_usd": 86861.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Jr. QA Analyst",
+      "count": 3,
+      "median_wage_usd": 65000.0
+    },
+    {
+      "title": "QA Analyst",
+      "count": 2,
+      "median_wage_usd": 69720.0
+    },
+    {
+      "title": "Independent Verification and Validation (IV&V) Tech. Lead",
+      "count": 1,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "Senior Business Analyst (QA)",
+      "count": 1,
+      "median_wage_usd": 109200.0
+    },
+    {
+      "title": "Senior Management Analyst",
+      "count": 1,
+      "median_wage_usd": 115211.0
+    },
+    {
+      "title": " Senior Management Analyst ",
+      "count": 1,
+      "median_wage_usd": 108597.0
+    },
+    {
+      "title": "Independent Verification and Validation Analyst",
+      "count": 1,
+      "median_wage_usd": 86861.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "KS",
+      "county": "JOHNSON",
+      "count": 4
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 3
+    },
+    {
+      "state": "GA",
+      "county": "FORSYTH",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "GRAYSON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 5
+    },
+    {
+      "state": "KS",
+      "count": 4
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1253",
+    "soc_title": "Software Quality Assurance Analysts and Testers",
+    "market_median_usd": 101800.0,
+    "employer_median_usd": 69720.0,
+    "gap_usd": -32080.0
+  }
+}

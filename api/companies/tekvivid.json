@@ -1,0 +1,146 @@
+{
+  "slug": "tekvivid",
+  "canonical_name": "Tekvivid Inc",
+  "fein": "84-3030881",
+  "lca_filing_count": 9,
+  "lca_worker_positions": 9,
+  "warn_notice_count": 0,
+  "median_wage_usd": 89253.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 4,
+      "median_wage_usd": 79341.5
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 101500.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 82626.5
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 112923.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": ".Net Developer",
+      "count": 3,
+      "median_wage_usd": 90750.0
+    },
+    {
+      "title": ".Net Core Developer",
+      "count": 1,
+      "median_wage_usd": 78520.0
+    },
+    {
+      "title": "Sr. Automation Tester",
+      "count": 1,
+      "median_wage_usd": 63000.0
+    },
+    {
+      "title": "Sr. Programmer",
+      "count": 1,
+      "median_wage_usd": 101500.0
+    },
+    {
+      "title": "Test Lead",
+      "count": 1,
+      "median_wage_usd": 76000.0
+    },
+    {
+      "title": "Database Developer",
+      "count": 1,
+      "median_wage_usd": 112923.0
+    },
+    {
+      "title": "SQL Developer",
+      "count": 1,
+      "median_wage_usd": 89253.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NC",
+      "county": "WAKE",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 1
+    },
+    {
+      "state": "TN",
+      "county": "DAVIDSON",
+      "count": 1
+    },
+    {
+      "state": "CT",
+      "county": "HARTFORD CITY",
+      "count": 1
+    },
+    {
+      "state": "AR",
+      "county": "BENTON",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "county": "MIAMI-DADE",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "county": "HUDSON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "NC",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "count": 1
+    },
+    {
+      "state": "AR",
+      "count": 1
+    },
+    {
+      "state": "CT",
+      "count": 1
+    },
+    {
+      "state": "TN",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 101500.0,
+    "gap_usd": -28660.0
+  }
+}

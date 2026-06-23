@@ -1,0 +1,87 @@
+{
+  "slug": "courier-distribution-systems",
+  "canonical_name": "Courier Distribution Systems",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 4,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 2
+    },
+    {
+      "state": "GA",
+      "count": 1
+    },
+    {
+      "state": "WI",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "08/21/2020",
+      "effective_date": "08/21/2020",
+      "state": "GA",
+      "workers": 91,
+      "city": "Smyrna"
+    },
+    {
+      "date": "08/11/2020",
+      "effective_date": "10/02/2020",
+      "state": "WI",
+      "workers": 98,
+      "city": "Sussex"
+    },
+    {
+      "date": "08/11/2020",
+      "effective_date": "10/01/2020",
+      "state": "IL",
+      "workers": 36,
+      "city": "West Chicago"
+    },
+    {
+      "date": "11/06/2019",
+      "effective_date": "01/01/2020",
+      "state": "IL",
+      "workers": 118,
+      "city": "Chicago"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "cobb-county-wib",
+      "name": "Cobb County WIB",
+      "state": "GA"
+    },
+    {
+      "slug": "washington-ozaukee-waukesha-wda",
+      "name": "Washington-Ozaukee-Waukesha WDA",
+      "state": "WI"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 0,
+    "continuing_denials": 0,
+    "total_approvals": 1,
+    "by_fy": [
+      {
+        "fy": 2021,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  }
+}

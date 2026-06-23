@@ -1,0 +1,75 @@
+{
+  "slug": "arb-gaming",
+  "canonical_name": "ARB Gaming LLC",
+  "fein": "88-3627261",
+  "lca_filing_count": 6,
+  "lca_worker_positions": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 151200.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 152400.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 200000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Software Engineer",
+      "count": 4,
+      "median_wage_usd": 151200.0
+    },
+    {
+      "title": "Product Manager",
+      "count": 1,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "title": "ENGINEER - Senior Software Engineer",
+      "count": 1,
+      "median_wage_usd": 200000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CO",
+      "county": "BROOMFIELD",
+      "count": 4
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CO",
+      "count": 4
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 176200.0,
+    "gap_usd": 46040.0
+  }
+}

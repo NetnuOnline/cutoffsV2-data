@@ -1,0 +1,66 @@
+{
+  "slug": "hapag-lloyd",
+  "canonical_name": "Hapag-Lloyd (America) LLC",
+  "fein": null,
+  "lca_filing_count": 1,
+  "warn_notice_count": 3,
+  "median_wage_usd": 91312,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 0,
+      "median_wage_usd": null
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Manager, Insurance and Claims",
+      "count": 0,
+      "median_wage_usd": null
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 2
+    },
+    {
+      "state": "FL",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "08/14/2022",
+      "effective_date": "09/30/2022",
+      "state": "NJ",
+      "workers": 149,
+      "city": "Piscataway"
+    },
+    {
+      "date": "03/29/2016",
+      "effective_date": "05/31/2016",
+      "state": "FL",
+      "workers": 55,
+      "city": "Tampa"
+    },
+    {
+      "date": "06/30/2008",
+      "effective_date": "06/30/2008",
+      "state": "NJ",
+      "workers": 138,
+      "city": "PISCATAWAY"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "middlesex-wib",
+      "name": "Middlesex WIB",
+      "state": "NJ"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

@@ -1,0 +1,116 @@
+{
+  "slug": "varant",
+  "canonical_name": "VARANT, INC.",
+  "fein": "38-3843662",
+  "lca_filing_count": 15,
+  "lca_worker_positions": 15,
+  "warn_notice_count": 0,
+  "median_wage_usd": 90000.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 6,
+      "median_wage_usd": 80048.5
+    },
+    {
+      "fy": 2024,
+      "filings": 4,
+      "median_wage_usd": 83435.0
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 92040.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 94307.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Data Engineer",
+      "count": 2,
+      "median_wage_usd": 81057.5
+    },
+    {
+      "title": "Cloud Developer",
+      "count": 2,
+      "median_wage_usd": 70075.0
+    },
+    {
+      "title": "Cyber Security Engineer",
+      "count": 2,
+      "median_wage_usd": 93049.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 80870.0
+    },
+    {
+      "title": "Cassandra DBA",
+      "count": 1,
+      "median_wage_usd": 90022.0
+    },
+    {
+      "title": "SAP Engineer",
+      "count": 1,
+      "median_wage_usd": 101192.0
+    },
+    {
+      "title": "Project Manager",
+      "count": 1,
+      "median_wage_usd": 80870.0
+    },
+    {
+      "title": "SAP Consultant",
+      "count": 1,
+      "median_wage_usd": 96000.0
+    },
+    {
+      "title": "Site Reliability Engineer",
+      "count": 1,
+      "median_wage_usd": 86000.0
+    },
+    {
+      "title": "SITE RELIABILITY ENGINEER",
+      "count": 1,
+      "median_wage_usd": 90000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 9
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 14
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Computer Systems Engineers/Architects",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 70075.0,
+    "gap_usd": -47925.0
+  }
+}

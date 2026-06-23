@@ -1,0 +1,51 @@
+{
+  "slug": "response-consulting",
+  "canonical_name": "Response Consulting LLC",
+  "fein": null,
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 123000.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 126000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Management Analyst",
+      "count": 2,
+      "median_wage_usd": 123000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NV",
+      "county": "ELKO",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NV",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1111",
+    "soc_title": "Management Analysts",
+    "market_median_usd": 99000.0,
+    "employer_median_usd": 123000.0,
+    "gap_usd": 24000.0
+  }
+}

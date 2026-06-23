@@ -1,0 +1,203 @@
+{
+  "slug": "decision-six",
+  "canonical_name": "Decision Six Inc",
+  "fein": "20-4391079",
+  "lca_filing_count": 247,
+  "lca_worker_positions": 246,
+  "warn_notice_count": 0,
+  "median_wage_usd": 89960.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 126651.0
+    },
+    {
+      "fy": 2021,
+      "filings": 3,
+      "median_wage_usd": 91166.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 98709.0
+    },
+    {
+      "fy": 2023,
+      "filings": 44,
+      "median_wage_usd": 85426.0
+    },
+    {
+      "fy": 2024,
+      "filings": 25,
+      "median_wage_usd": 94515.0
+    },
+    {
+      "fy": 2025,
+      "filings": 165,
+      "median_wage_usd": 89960.0
+    },
+    {
+      "fy": 2026,
+      "filings": 6,
+      "median_wage_usd": 104894.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 29,
+      "median_wage_usd": 105206.0
+    },
+    {
+      "title": "Senior Java Developer",
+      "count": 15,
+      "median_wage_usd": 95701.0
+    },
+    {
+      "title": "Sr Software Development Engineer",
+      "count": 11,
+      "median_wage_usd": 86466.0
+    },
+    {
+      "title": "Project Manager",
+      "count": 11,
+      "median_wage_usd": 87298.0
+    },
+    {
+      "title": "Java Developer",
+      "count": 9,
+      "median_wage_usd": 103210.0
+    },
+    {
+      "title": "Data Scientist",
+      "count": 8,
+      "median_wage_usd": 87485.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 7,
+      "median_wage_usd": 95181.0
+    },
+    {
+      "title": "Sr .Net / WPF Engineer",
+      "count": 6,
+      "median_wage_usd": 79851.0
+    },
+    {
+      "title": "Senior .NET Developer",
+      "count": 6,
+      "median_wage_usd": 85000.0
+    },
+    {
+      "title": "Senior Quality Assurance Engineer",
+      "count": 6,
+      "median_wage_usd": 82285.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "PA",
+      "county": "DELAWARE",
+      "count": 65
+    },
+    {
+      "state": "PA",
+      "county": "CHESTER",
+      "count": 28
+    },
+    {
+      "state": "IN",
+      "county": "ST JOSEPH",
+      "count": 27
+    },
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 12
+    },
+    {
+      "state": "NC",
+      "county": "DURHAM",
+      "count": 12
+    },
+    {
+      "state": "FL",
+      "county": "MIAMI-DADE",
+      "count": 10
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 9
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 8
+    },
+    {
+      "state": "MI",
+      "county": "WAYNE",
+      "count": 5
+    },
+    {
+      "state": "GA",
+      "county": "COBB",
+      "count": 5
+    }
+  ],
+  "top_states": [
+    {
+      "state": "PA",
+      "count": 102
+    },
+    {
+      "state": "TX",
+      "count": 28
+    },
+    {
+      "state": "IN",
+      "count": 28
+    },
+    {
+      "state": "GA",
+      "count": 14
+    },
+    {
+      "state": "FL",
+      "count": 13
+    },
+    {
+      "state": "NC",
+      "count": 12
+    },
+    {
+      "state": "MI",
+      "count": 10
+    },
+    {
+      "state": "NJ",
+      "count": 10
+    },
+    {
+      "state": "NY",
+      "count": 5
+    },
+    {
+      "state": "SC",
+      "count": 4
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 95597.0,
+    "gap_usd": -34563.0
+  }
+}

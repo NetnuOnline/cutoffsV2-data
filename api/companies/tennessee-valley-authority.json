@@ -1,0 +1,58 @@
+{
+  "slug": "tennessee-valley-authority",
+  "canonical_name": "Tennessee Valley Authority",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "TN",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "07/30/2020",
+      "effective_date": "07/24/2020",
+      "state": "TN",
+      "workers": 38,
+      "city": "Hamilton County"
+    },
+    {
+      "date": "06/08/2020",
+      "effective_date": "06/03/2020",
+      "state": "TN",
+      "workers": 108,
+      "city": "Hamilton County"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2007-06-13",
+        "formType": "8-K",
+        "accessionNumber": "0000950144-07-005653",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001376986&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 1,
+    "itemCounts": {
+      "5.02": 1
+    },
+    "latestFilingDate": "2007-06-13",
+    "earliestFilingDate": "2007-06-13"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

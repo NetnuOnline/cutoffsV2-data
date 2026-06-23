@@ -1,0 +1,52 @@
+{
+  "slug": "texas-association-of-county-officials",
+  "canonical_name": "Texas Association of County Officials",
+  "fein": "74-2083149",
+  "lca_filing_count": 2,
+  "lca_worker_positions": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 119564.28,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 116031.08
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 123097.48,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "BI Report Developer",
+      "count": 2,
+      "median_wage_usd": 119564.28
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Business Intelligence Analysts",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 119564.28,
+    "gap_usd": 11544.28
+  }
+}

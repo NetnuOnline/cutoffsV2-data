@@ -1,0 +1,73 @@
+{
+  "slug": "ecoatm-dba-gazelle",
+  "canonical_name": "ecoATM, LLC (dba Gazelle)",
+  "fein": "26-3879952",
+  "lca_filing_count": 4,
+  "lca_worker_positions": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 171402.5,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 196601.5
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 153073.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Data Science Director",
+      "count": 1,
+      "median_wage_usd": 206544.0
+    },
+    {
+      "title": "Accounting Director",
+      "count": 1,
+      "median_wage_usd": 186659.0
+    },
+    {
+      "title": "Staff Software Engineer",
+      "count": 1,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "title": "Art Director",
+      "count": 1,
+      "median_wage_usd": 156146.0
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "WA",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "TN",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 206544.0,
+    "gap_usd": 98524.0
+  }
+}

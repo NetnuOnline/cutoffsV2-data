@@ -1,0 +1,46 @@
+{
+  "slug": "connecticut-public-broadcasting",
+  "canonical_name": "Connecticut Public Broadcasting, Inc.",
+  "fein": null,
+  "lca_filing_count": 1,
+  "warn_notice_count": 0,
+  "median_wage_usd": 54271.15,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 54271.15
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Data Scientist, Audience Research",
+      "count": 1,
+      "median_wage_usd": 54271.15
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CT",
+      "county": "HARTFORD CITY",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CT",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 1,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 54271.15,
+    "gap_usd": -53748.85
+  }
+}

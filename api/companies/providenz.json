@@ -1,0 +1,123 @@
+{
+  "slug": "providenz",
+  "canonical_name": "PROVIDENZ LLC",
+  "fein": "84-1854158",
+  "lca_filing_count": 17,
+  "lca_worker_positions": 17,
+  "warn_notice_count": 0,
+  "median_wage_usd": 99000.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 85500.0
+    },
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 80000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 98000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 7,
+      "median_wage_usd": 99000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 5,
+      "median_wage_usd": 102200.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Computer Systems Engineer",
+      "count": 6,
+      "median_wage_usd": 98500.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 3,
+      "median_wage_usd": 85500.0
+    },
+    {
+      "title": "Lead Quality Analyst",
+      "count": 2,
+      "median_wage_usd": 102200.0
+    },
+    {
+      "title": "QA Engineer",
+      "count": 2,
+      "median_wage_usd": 101775.0
+    },
+    {
+      "title": "Computer Systems Administrator",
+      "count": 1,
+      "median_wage_usd": 61000.0
+    },
+    {
+      "title": "IT Project Manager",
+      "count": 1,
+      "median_wage_usd": 88000.0
+    },
+    {
+      "title": "DevOps Engineer",
+      "count": 1,
+      "median_wage_usd": 126200.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 1,
+      "median_wage_usd": 102500.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MD",
+      "county": "ANNE ARUNDEL",
+      "count": 5
+    },
+    {
+      "state": "NY",
+      "county": "CHENANGO",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MD",
+      "count": 11
+    },
+    {
+      "state": "NJ",
+      "count": 3
+    },
+    {
+      "state": "FL",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 99000.0,
+    "gap_usd": -31160.0
+  }
+}

@@ -1,0 +1,346 @@
+{
+  "slug": "cb-i",
+  "canonical_name": "CB&I, LLC",
+  "fein": null,
+  "lca_filing_count": 21,
+  "warn_notice_count": 13,
+  "median_wage_usd": 157248.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 11,
+      "median_wage_usd": 157248.0
+    },
+    {
+      "fy": 2021,
+      "filings": 6,
+      "median_wage_usd": 86852.22
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 177960.9
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 196652.695
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Process Engineer",
+      "count": 2,
+      "median_wage_usd": 80000.44
+    },
+    {
+      "title": "Manager Commissioning",
+      "count": 2,
+      "median_wage_usd": 157248.0
+    },
+    {
+      "title": "Technical Services Specialist",
+      "count": 2,
+      "median_wage_usd": 83455.775
+    },
+    {
+      "title": "Senior Mechanical Engineer",
+      "count": 1,
+      "median_wage_usd": 171772.29
+    },
+    {
+      "title": "Senior Coordination Technician",
+      "count": 1,
+      "median_wage_usd": 74984.0
+    },
+    {
+      "title": "Principal Process Engineer",
+      "count": 1,
+      "median_wage_usd": 128799.32
+    },
+    {
+      "title": "Senior Process Engineer",
+      "count": 1,
+      "median_wage_usd": 157886.56
+    },
+    {
+      "title": "Principal Mechanical Engineer",
+      "count": 1,
+      "median_wage_usd": 135787.47
+    },
+    {
+      "title": "Principal Planner",
+      "count": 1,
+      "median_wage_usd": 170000.0
+    },
+    {
+      "title": "Principal Civil Engineer",
+      "count": 1,
+      "median_wage_usd": 161595.88
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 19
+    },
+    {
+      "state": "LA",
+      "count": 2
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 18
+    },
+    {
+      "state": "LA",
+      "county": "CAMERON",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "JEFFERSON",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "03/20/2018",
+      "effective_date": "03/20/2018",
+      "state": "SC",
+      "workers": 250,
+      "city": "Laurens"
+    },
+    {
+      "date": "12/21/2017",
+      "effective_date": "02/19/2018",
+      "state": "LA",
+      "workers": 163,
+      "city": "Adairsville"
+    },
+    {
+      "date": "12/07/2017",
+      "effective_date": "12/07/2017",
+      "state": "UT",
+      "workers": 195,
+      "city": "Clearfield"
+    },
+    {
+      "date": "09/22/2017",
+      "effective_date": "09/21/2017",
+      "state": "TX",
+      "workers": 455,
+      "city": "Beaumont"
+    },
+    {
+      "date": "07/31/2017",
+      "effective_date": "07/31/2017",
+      "state": "SC",
+      "workers": 75,
+      "city": "Jenkinsville"
+    },
+    {
+      "date": "07/21/2017",
+      "effective_date": "10/15/2017",
+      "state": "LA",
+      "workers": 90,
+      "city": "10404 Twin Port Road Delacambre LA 70528"
+    },
+    {
+      "date": "02/09/2017",
+      "effective_date": "03/06/2017",
+      "state": "IN",
+      "workers": 149,
+      "city": "East Chicago"
+    },
+    {
+      "date": "02/18/2014",
+      "effective_date": "02/18/2014",
+      "state": "NJ",
+      "workers": 30,
+      "city": "Moorestown"
+    },
+    {
+      "date": "02/19/2010",
+      "effective_date": "01/05/2010",
+      "state": "TX",
+      "workers": 302,
+      "city": "Beaumont"
+    },
+    {
+      "date": "06/30/2009",
+      "effective_date": "08/31/2009",
+      "state": "TX",
+      "workers": 120,
+      "city": "Tyler"
+    },
+    {
+      "date": "06/23/2009",
+      "effective_date": "08/24/2009",
+      "state": "TX",
+      "workers": 20,
+      "city": "Tyler"
+    },
+    {
+      "date": "03/19/1996",
+      "effective_date": "03/19/1996",
+      "state": "IL",
+      "workers": 0,
+      "city": "Hinsdale"
+    },
+    {
+      "date": "12/05/1995",
+      "effective_date": "01/01/1996",
+      "state": "IL",
+      "workers": 100,
+      "city": "Bourbonnais"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "burlington-wib",
+      "name": "Burlington WIB",
+      "state": "NJ"
+    },
+    {
+      "slug": "upper-savannah-wib",
+      "name": "Upper Savannah WIB",
+      "state": "SC"
+    },
+    {
+      "slug": "wasatch-front-north-wib",
+      "name": "Wasatch Front North WIB",
+      "state": "UT"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 16,
+    "initial_denials": 0,
+    "continuing_approvals": 28,
+    "continuing_denials": 2,
+    "total_approvals": 44,
+    "by_fy": [
+      {
+        "fy": 2009,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2011,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2012,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2013,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2014,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2015,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2016,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2017,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 11,
+        "initial_denials": 0,
+        "continuing_approvals": 5,
+        "continuing_denials": 1,
+        "total_approvals": 16
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 3,
+        "initial_denials": 0,
+        "continuing_approvals": 14,
+        "continuing_denials": 1,
+        "total_approvals": 17
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 8,
+        "continuing_denials": 0,
+        "total_approvals": 9
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      }
+    ]
+  },
+  "lca_worker_positions": 21,
+  "top_socs": [],
+  "lca_periods": []
+}

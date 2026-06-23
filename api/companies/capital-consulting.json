@@ -1,0 +1,75 @@
+{
+  "slug": "capital-consulting",
+  "canonical_name": "Capital Consulting LLC",
+  "fein": "47-1729825",
+  "lca_filing_count": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 150000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 155000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 85000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 150000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Ellucian Banner Project Manager",
+      "count": 3,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "title": "Senior Database Administrator",
+      "count": 1,
+      "median_wage_usd": 155000.0
+    },
+    {
+      "title": "Senior Solutions Architect",
+      "count": 1,
+      "median_wage_usd": 85000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "VA",
+      "county": "FAIRFAX",
+      "count": 3
+    },
+    {
+      "state": "DC",
+      "county": "DISTRICT OF COLUMBIA",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "VA",
+      "count": 3
+    },
+    {
+      "state": "DC",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 5,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Information Technology Project Managers",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 150000.0,
+    "gap_usd": 32000.0
+  }
+}

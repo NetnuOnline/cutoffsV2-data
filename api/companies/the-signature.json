@@ -1,0 +1,48 @@
+{
+  "slug": "the-signature",
+  "canonical_name": "The Signature",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 3,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "NV",
+      "count": 2
+    },
+    {
+      "state": "KS",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "05/11/2020",
+      "effective_date": "08/31/2020",
+      "state": "NV",
+      "workers": 10,
+      "city": "Las Vegas, Clark County"
+    },
+    {
+      "date": "05/05/2020",
+      "effective_date": "03/15/2020",
+      "state": "NV",
+      "workers": 706,
+      "city": "Las Vegas, Clark County"
+    },
+    {
+      "date": "07/26/1999",
+      "effective_date": "07/26/1999",
+      "state": "KS",
+      "workers": 250,
+      "city": "4911 State Avenue"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

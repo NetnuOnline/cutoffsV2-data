@@ -1,0 +1,207 @@
+{
+  "slug": "arise-global-services",
+  "canonical_name": "Arise Global Services, Inc.",
+  "fein": "88-1399367",
+  "lca_filing_count": 27,
+  "warn_notice_count": 0,
+  "median_wage_usd": 101109.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 13,
+      "median_wage_usd": 95326.0
+    },
+    {
+      "fy": 2023,
+      "filings": 12,
+      "median_wage_usd": 100630.5
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 122699.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SOFTWARE DEVELOPER",
+      "count": 11,
+      "median_wage_usd": 110240.0
+    },
+    {
+      "title": "TECHNOLOGY ADMINISTRATOR",
+      "count": 2,
+      "median_wage_usd": 76190.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 2,
+      "median_wage_usd": 107013.0
+    },
+    {
+      "title": "DEVOPS ENGINEER",
+      "count": 2,
+      "median_wage_usd": 100069.0
+    },
+    {
+      "title": "TECHNICAL ARCHITECT",
+      "count": 1,
+      "median_wage_usd": 110240.0
+    },
+    {
+      "title": "WEB DEVELOPER",
+      "count": 1,
+      "median_wage_usd": 70179.0
+    },
+    {
+      "title": "QA ENGINEER",
+      "count": 1,
+      "median_wage_usd": 80059.0
+    },
+    {
+      "title": "FUNCTIONAL CONSULTANT",
+      "count": 1,
+      "median_wage_usd": 133245.0
+    },
+    {
+      "title": "TABLEAU DEVELOPER\t",
+      "count": 1,
+      "median_wage_usd": 110240.0
+    },
+    {
+      "title": "QA ENGINEER ",
+      "count": 1,
+      "median_wage_usd": 80059.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "VA",
+      "county": "FAIRFAX",
+      "count": 4
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 4
+    },
+    {
+      "state": "NC",
+      "county": "WAKE",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 2
+    },
+    {
+      "state": "GA",
+      "county": "DEKALB",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "county": "MERCER",
+      "count": 2
+    },
+    {
+      "state": "NC",
+      "county": "MECKLENBURG",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 2
+    },
+    {
+      "state": "MD",
+      "county": "MONTGOMERY",
+      "count": 2
+    },
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 5
+    },
+    {
+      "state": "CA",
+      "count": 4
+    },
+    {
+      "state": "VA",
+      "count": 4
+    },
+    {
+      "state": "NC",
+      "count": 4
+    },
+    {
+      "state": "NJ",
+      "count": 2
+    },
+    {
+      "state": "MD",
+      "count": 2
+    },
+    {
+      "state": "GA",
+      "count": 2
+    },
+    {
+      "state": "MN",
+      "count": 1
+    },
+    {
+      "state": "OH",
+      "count": 1
+    },
+    {
+      "state": "DE",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 4,
+    "continuing_denials": 1,
+    "total_approvals": 5,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 1,
+        "total_approvals": 2
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      }
+    ]
+  },
+  "lca_worker_positions": 27,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 110240.0,
+    "gap_usd": -19920.0
+  }
+}

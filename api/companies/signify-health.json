@@ -1,0 +1,215 @@
+{
+  "slug": "signify-health",
+  "canonical_name": "Signify Health, LLC",
+  "fein": "82-3563982",
+  "lca_filing_count": 10,
+  "warn_notice_count": 9,
+  "median_wage_usd": 129157.5,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 4,
+      "median_wage_usd": 119745.5
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 133713.0
+    },
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 135000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Software Engineer",
+      "count": 4,
+      "median_wage_usd": 119745.5
+    },
+    {
+      "title": "Sr. Director, Product Management",
+      "count": 1,
+      "median_wage_usd": 200000.0
+    },
+    {
+      "title": "Sr. Manager, Product Management",
+      "count": 1,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "title": "Software Engineer III",
+      "count": 1,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Senior Data Engineer",
+      "count": 1,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "title": "Senior Manager, Product Management",
+      "count": 1,
+      "median_wage_usd": 152069.0
+    },
+    {
+      "title": "Network Engineer II",
+      "count": 1,
+      "median_wage_usd": 115357.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 6
+    },
+    {
+      "state": "WA",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 6
+    },
+    {
+      "state": "IL",
+      "county": "WILL",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "08/10/2022",
+      "effective_date": "10/01/2022",
+      "state": "TX",
+      "workers": 9,
+      "city": "Austin"
+    },
+    {
+      "date": "08/09/2022",
+      "effective_date": "10/01/2022",
+      "state": "TX",
+      "workers": 29,
+      "city": "Dallas"
+    },
+    {
+      "date": "07/29/2022",
+      "effective_date": "10/01/2022",
+      "state": "CT",
+      "workers": 489,
+      "city": "Norwalk"
+    },
+    {
+      "date": "07/29/2022",
+      "effective_date": "10/01/2022",
+      "state": "NY",
+      "workers": 92,
+      "city": "New York"
+    },
+    {
+      "date": "07/29/2022",
+      "effective_date": "10/01/2022",
+      "state": "NY",
+      "workers": 0,
+      "city": "New York"
+    },
+    {
+      "date": "01/01/2022",
+      "effective_date": "10/01/2022",
+      "state": "CT",
+      "workers": 0,
+      "city": "Norwalk"
+    },
+    {
+      "date": "08/13/2020",
+      "effective_date": "08/13/2020",
+      "state": "KS",
+      "workers": 156,
+      "city": "Andover"
+    },
+    {
+      "date": "08/13/2020",
+      "effective_date": "08/13/2020",
+      "state": "KS",
+      "workers": 159,
+      "city": "1 - Workforce Investment Area I"
+    },
+    {
+      "date": "01/18/2019",
+      "effective_date": "03/18/2019",
+      "state": "VA",
+      "workers": 132,
+      "city": "Richmond, VA"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "northwest-wia-ct",
+      "name": "Northwest WIA",
+      "state": "CT"
+    },
+    {
+      "slug": "local-area-iv-south-central-wib",
+      "name": "Local Area IV - South Central WIB",
+      "state": "KS"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 17,
+    "continuing_denials": 0,
+    "total_approvals": 18,
+    "by_fy": [
+      {
+        "fy": 2021,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 6,
+        "continuing_denials": 0,
+        "total_approvals": 7
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 11,
+        "continuing_denials": 0,
+        "total_approvals": 11
+      }
+    ]
+  },
+  "lca_worker_positions": 10,
+  "top_socs": [],
+  "lca_periods": []
+}

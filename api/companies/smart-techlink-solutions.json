@@ -1,0 +1,71 @@
+{
+  "slug": "smart-techlink-solutions",
+  "canonical_name": "Smart Techlink Solutions, Inc",
+  "fein": "83-2576653",
+  "lca_filing_count": 4,
+  "lca_worker_positions": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 88920.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 93131.8
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 88920.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Programmer",
+      "count": 1,
+      "median_wage_usd": 79705.6
+    },
+    {
+      "title": "UI Developer",
+      "count": 1,
+      "median_wage_usd": 106558.0
+    },
+    {
+      "title": "Infrastructure Engineer",
+      "count": 1,
+      "median_wage_usd": 91354.0
+    },
+    {
+      "title": "DevOps Engineer",
+      "count": 1,
+      "median_wage_usd": 86486.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 3
+    },
+    {
+      "state": "CO",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1244",
+    "soc_title": "Network and Computer Systems Administrators",
+    "market_median_usd": 95000.0,
+    "employer_median_usd": 88920.0,
+    "gap_usd": -6080.0
+  }
+}

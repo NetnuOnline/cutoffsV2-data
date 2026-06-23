@@ -1,0 +1,171 @@
+{
+  "slug": "sephora-usa",
+  "canonical_name": "Sephora USA, Inc.",
+  "fein": "94-3322407",
+  "lca_filing_count": 94,
+  "lca_worker_positions": 93,
+  "warn_notice_count": 0,
+  "median_wage_usd": 147368.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 15,
+      "median_wage_usd": 141274.0
+    },
+    {
+      "fy": 2021,
+      "filings": 9,
+      "median_wage_usd": 146000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 16,
+      "median_wage_usd": 159275.0
+    },
+    {
+      "fy": 2023,
+      "filings": 15,
+      "median_wage_usd": 141683.0
+    },
+    {
+      "fy": 2024,
+      "filings": 10,
+      "median_wage_usd": 158642.0
+    },
+    {
+      "fy": 2025,
+      "filings": 14,
+      "median_wage_usd": 143500.0
+    },
+    {
+      "fy": 2026,
+      "filings": 14,
+      "median_wage_usd": 163862.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Lead Engineer",
+      "count": 4,
+      "median_wage_usd": 160825.0
+    },
+    {
+      "title": "Senior DevOps Engineer",
+      "count": 3,
+      "median_wage_usd": 161637.0
+    },
+    {
+      "title": "Lead Engineer, Data Engineering",
+      "count": 3,
+      "median_wage_usd": 141274.0
+    },
+    {
+      "title": "Senior Engineer, Data",
+      "count": 2,
+      "median_wage_usd": 145191.0
+    },
+    {
+      "title": "Senior Systems Analyst",
+      "count": 2,
+      "median_wage_usd": 169382.0
+    },
+    {
+      "title": "Senior Engineer, Site Reliability Engineering",
+      "count": 2,
+      "median_wage_usd": 141683.0
+    },
+    {
+      "title": "Senior Engineer",
+      "count": 2,
+      "median_wage_usd": 144726.0
+    },
+    {
+      "title": "Lead Engineer, Cloud Engineering",
+      "count": 2,
+      "median_wage_usd": 169600.0
+    },
+    {
+      "title": "Senior Engineering Manager",
+      "count": 2,
+      "median_wage_usd": 143500.0
+    },
+    {
+      "title": "Senior Manager, Engineering - Data Platform",
+      "count": 2,
+      "median_wage_usd": 161000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 60
+    },
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 3
+    },
+    {
+      "state": "MD",
+      "county": "HARFORD",
+      "count": 2
+    },
+    {
+      "state": "MS",
+      "county": "DESOTO",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "county": "HILLSBOROUGH",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SAN JOAQUIN",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 86
+    },
+    {
+      "state": "MD",
+      "count": 3
+    },
+    {
+      "state": "MI",
+      "count": 1
+    },
+    {
+      "state": "IN",
+      "count": 1
+    },
+    {
+      "state": "MS",
+      "count": 1
+    },
+    {
+      "state": "UT",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 160000.0,
+    "gap_usd": 29840.0
+  }
+}

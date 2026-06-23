@@ -1,0 +1,47 @@
+{
+  "slug": "land-ofrost",
+  "canonical_name": "Land O'Frost, Inc.",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 1
+    },
+    {
+      "state": "NE",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "04/29/2024",
+      "effective_date": "06/17/2024",
+      "state": "IL",
+      "workers": 215,
+      "city": "Chicago"
+    },
+    {
+      "date": "02/27/2015",
+      "effective_date": "02/27/2015",
+      "state": "NE",
+      "workers": 125,
+      "city": "West Point"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "northeast-economic-region",
+      "name": "Northeast Economic Region",
+      "state": "NE"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

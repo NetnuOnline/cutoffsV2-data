@@ -1,0 +1,111 @@
+{
+  "slug": "aorton",
+  "canonical_name": "Aorton Inc",
+  "fein": "92-0527165",
+  "lca_filing_count": 10,
+  "warn_notice_count": 0,
+  "median_wage_usd": 89419.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 101546.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 94702.0
+    },
+    {
+      "fy": 2025,
+      "filings": 5,
+      "median_wage_usd": 76086.4
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 7,
+      "median_wage_usd": 76086.4
+    },
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 77646.0
+    },
+    {
+      "title": "Principal Software Developer",
+      "count": 1,
+      "median_wage_usd": 111758.0
+    },
+    {
+      "title": ".NET Developer",
+      "count": 1,
+      "median_wage_usd": 112923.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "WA",
+      "county": "THURSTON",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "county": "WESTBOROUGH",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "county": "DURHAM",
+      "count": 1
+    },
+    {
+      "state": "RI",
+      "county": "PROVIDENCE CITY",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "KS",
+      "count": 4
+    },
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "MA",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "count": 1
+    },
+    {
+      "state": "RI",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 10,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 101192.0,
+    "gap_usd": -28968.0
+  }
+}

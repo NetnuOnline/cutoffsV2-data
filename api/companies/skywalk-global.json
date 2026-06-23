@@ -1,0 +1,128 @@
+{
+  "slug": "skywalk-global",
+  "canonical_name": "Skywalk Global, LLC",
+  "fein": "45-5328587",
+  "lca_filing_count": 12,
+  "lca_worker_positions": 12,
+  "warn_notice_count": 0,
+  "median_wage_usd": 95000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 73000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 85000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 5,
+      "median_wage_usd": 86000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 92000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 122500.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 107000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 179000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer ",
+      "count": 6,
+      "median_wage_usd": 89000.0
+    },
+    {
+      "title": "SOFTWARE DEVELOPER",
+      "count": 2,
+      "median_wage_usd": 79000.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 2,
+      "median_wage_usd": 143000.0
+    },
+    {
+      "title": "Sr. Data Warehouse Specialist (ETL)",
+      "count": 1,
+      "median_wage_usd": 105000.0
+    },
+    {
+      "title": "Technical Project Manager",
+      "count": 1,
+      "median_wage_usd": 140000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "SC",
+      "county": "RICHLAND",
+      "count": 4
+    },
+    {
+      "state": "IA",
+      "county": "POLK",
+      "count": 4
+    },
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IA",
+      "count": 4
+    },
+    {
+      "state": "SC",
+      "count": 4
+    },
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "MA",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 98000.0,
+    "gap_usd": -32160.0
+  }
+}

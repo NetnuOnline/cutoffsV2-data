@@ -1,0 +1,164 @@
+{
+  "slug": "grange-insurance-company",
+  "canonical_name": "Grange Insurance Company",
+  "fein": "31-4192970",
+  "lca_filing_count": 12,
+  "warn_notice_count": 0,
+  "median_wage_usd": 106891.5,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 112091.0
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 85571.0
+    },
+    {
+      "fy": 2022,
+      "filings": 4,
+      "median_wage_usd": 106018.0
+    },
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 96574.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 121056.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Application Developer Lead",
+      "count": 2,
+      "median_wage_usd": 106018.0
+    },
+    {
+      "title": "Infrastructure Engineer",
+      "count": 2,
+      "median_wage_usd": 91072.5
+    },
+    {
+      "title": "Manager Applications Development",
+      "count": 1,
+      "median_wage_usd": 113526.0
+    },
+    {
+      "title": "Sr. Infrastructure Engineer",
+      "count": 1,
+      "median_wage_usd": 112091.0
+    },
+    {
+      "title": "Sr. Test Engineer",
+      "count": 1,
+      "median_wage_usd": 78125.0
+    },
+    {
+      "title": "Senior Lead Test Engineer",
+      "count": 1,
+      "median_wage_usd": 107765.0
+    },
+    {
+      "title": "Sr. Application Developer Lead",
+      "count": 1,
+      "median_wage_usd": 112091.0
+    },
+    {
+      "title": "Lead Software Engineer",
+      "count": 1,
+      "median_wage_usd": 134347.0
+    },
+    {
+      "title": "Scrum Master",
+      "count": 1,
+      "median_wage_usd": 83117.0
+    },
+    {
+      "title": "Senior Application Developer Lead",
+      "count": 1,
+      "median_wage_usd": 123469.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "OH",
+      "county": "FRANKLIN",
+      "count": 10
+    }
+  ],
+  "top_states": [
+    {
+      "state": "OH",
+      "count": 11
+    },
+    {
+      "state": "NC",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 18,
+    "continuing_denials": 0,
+    "total_approvals": 18,
+    "by_fy": [
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 5,
+        "continuing_denials": 0,
+        "total_approvals": 5
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 10,
+        "continuing_denials": 0,
+        "total_approvals": 10
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 12,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 109772.0,
+    "gap_usd": -20388.0
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "slug": "lotusflare",
+  "canonical_name": "Lotusflare Inc.",
+  "fein": "46-1259433",
+  "lca_filing_count": 7,
+  "lca_worker_positions": 7,
+  "warn_notice_count": 0,
+  "median_wage_usd": 176372.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 119700.0
+    },
+    {
+      "fy": 2022,
+      "filings": 3,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 210076.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 210076.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Product Manager",
+      "count": 3,
+      "median_wage_usd": 210076.0
+    },
+    {
+      "title": "Growth Product Manager",
+      "count": 2,
+      "median_wage_usd": 158186.0
+    },
+    {
+      "title": "UX / Product Designer ",
+      "count": 1,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "title": "Server Engineer ",
+      "count": 1,
+      "median_wage_usd": 119700.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 5
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 7
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1111",
+    "soc_title": "Management Analysts",
+    "market_median_usd": 99000.0,
+    "employer_median_usd": 210076.0,
+    "gap_usd": 111076.0
+  }
+}

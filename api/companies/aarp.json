@@ -1,0 +1,288 @@
+{
+  "slug": "aarp",
+  "canonical_name": "AARP",
+  "fein": "95-1985500",
+  "lca_filing_count": 19,
+  "warn_notice_count": 4,
+  "median_wage_usd": 148608.01,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 3,
+      "median_wage_usd": 137807.66
+    },
+    {
+      "fy": 2021,
+      "filings": 4,
+      "median_wage_usd": 138524.935
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 139421.985
+    },
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 160000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 4,
+      "median_wage_usd": 150758.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Solution Architect, Predictive Artificial Intelligence (AI)",
+      "count": 2,
+      "median_wage_usd": 150758.0
+    },
+    {
+      "title": "Data Scientist II",
+      "count": 2,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "Solution Architect ",
+      "count": 1,
+      "median_wage_usd": 148608.01
+    },
+    {
+      "title": "Backend Technical Lead",
+      "count": 1,
+      "median_wage_usd": 160000.0
+    },
+    {
+      "title": "Delivery Lead \u00f1 Information Security GRC, Sr",
+      "count": 1,
+      "median_wage_usd": 128000.0
+    },
+    {
+      "title": "Engineer II - AWS",
+      "count": 1,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "title": "Senior Advisor, Data Analytics & Performance Management ",
+      "count": 1,
+      "median_wage_usd": 130895.0
+    },
+    {
+      "title": "Engineer II \u00f1 Salesforce Marketing Cloud ",
+      "count": 1,
+      "median_wage_usd": 160000.0
+    },
+    {
+      "title": "Engineer II \u2013Salesforce Marketing Cloud",
+      "count": 1,
+      "median_wage_usd": 155418.0
+    },
+    {
+      "title": "Technical Advisor, Data Warehouse",
+      "count": 1,
+      "median_wage_usd": 137807.66
+    }
+  ],
+  "top_states": [
+    {
+      "state": "DC",
+      "count": 13
+    },
+    {
+      "state": "VA",
+      "count": 3
+    },
+    {
+      "state": "WA",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "count": 1
+    },
+    {
+      "state": "AZ",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "DC",
+      "county": "DISTRICT OF COLUMBIA",
+      "count": 13
+    },
+    {
+      "state": "FL",
+      "county": "HILLSBOROUGH",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "12/09/2025",
+      "effective_date": "01/09/2026",
+      "state": "CA",
+      "workers": 18,
+      "city": "Lakewood"
+    },
+    {
+      "date": "05/22/2023",
+      "effective_date": "12/31/2013",
+      "state": "DC",
+      "workers": 73,
+      "city": "Washington D.C."
+    },
+    {
+      "date": "08/01/2013",
+      "effective_date": "12/31/2013",
+      "state": "DC",
+      "workers": 73,
+      "city": "Washington D.C."
+    },
+    {
+      "date": "06/05/2013",
+      "effective_date": "08/02/2013",
+      "state": "VA",
+      "workers": 18,
+      "city": "Lorton, VA"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 3,
+    "initial_denials": 0,
+    "continuing_approvals": 23,
+    "continuing_denials": 0,
+    "total_approvals": 26,
+    "by_fy": [
+      {
+        "fy": 2011,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2012,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2013,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2014,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2015,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2016,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2017,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 11,
+        "continuing_denials": 0,
+        "total_approvals": 12
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 5,
+        "continuing_denials": 0,
+        "total_approvals": 6
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 5,
+        "continuing_denials": 0,
+        "total_approvals": 6
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      }
+    ]
+  },
+  "lca_worker_positions": 19,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 153088.0,
+    "gap_usd": 22928.0
+  }
+}

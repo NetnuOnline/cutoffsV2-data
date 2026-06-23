@@ -1,0 +1,131 @@
+{
+  "slug": "wellmark",
+  "canonical_name": "Wellmark, Inc.",
+  "fein": "42-0318333",
+  "lca_filing_count": 18,
+  "lca_worker_positions": 17,
+  "warn_notice_count": 0,
+  "median_wage_usd": 102581.11,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 3,
+      "median_wage_usd": 84760.0
+    },
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 73642.5
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 108721.5
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 95000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 5,
+      "median_wage_usd": 103325.22
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 91291.0
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 138507.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Lead Software Engineer",
+      "count": 4,
+      "median_wage_usd": 133733.5
+    },
+    {
+      "title": "Software Engineer",
+      "count": 2,
+      "median_wage_usd": 99162.61
+    },
+    {
+      "title": "Data Wrangler",
+      "count": 2,
+      "median_wage_usd": 45448.0
+    },
+    {
+      "title": "SR SOFTWARE ENGINEER",
+      "count": 2,
+      "median_wage_usd": 87100.0
+    },
+    {
+      "title": "Vice President Office of the CIO",
+      "count": 1,
+      "median_wage_usd": 154086.0
+    },
+    {
+      "title": "Sr. Software Engineer",
+      "count": 1,
+      "median_wage_usd": 91291.0
+    },
+    {
+      "title": "Senior FHIR Software Engineer",
+      "count": 1,
+      "median_wage_usd": 95000.0
+    },
+    {
+      "title": "Lead IT Solutions Developer",
+      "count": 1,
+      "median_wage_usd": 84760.0
+    },
+    {
+      "title": "Sr. IT Solutions Developer",
+      "count": 1,
+      "median_wage_usd": 101837.0
+    },
+    {
+      "title": "Software Quality Engineer III",
+      "count": 1,
+      "median_wage_usd": 103792.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IA",
+      "county": "POLK",
+      "count": 13
+    },
+    {
+      "state": "PA",
+      "county": "MONTGOMERY",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IA",
+      "count": 17
+    },
+    {
+      "state": "PA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 113651.0,
+    "gap_usd": -16509.0
+  }
+}

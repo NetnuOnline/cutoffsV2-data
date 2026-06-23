@@ -1,0 +1,52 @@
+{
+  "slug": "vistra-corp",
+  "canonical_name": "Vistra Corp",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "OH",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "04/26/2022",
+      "effective_date": "06/30/2022",
+      "state": "OH",
+      "workers": 87,
+      "city": "Moscow/Clermont"
+    },
+    {
+      "date": "11/12/2021",
+      "effective_date": "01/17/2023",
+      "state": "IL",
+      "workers": 69,
+      "city": "Peoria"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "career-link",
+      "name": "Career Link",
+      "state": "IL"
+    },
+    {
+      "slug": "southwest-ohio",
+      "name": "Southwest Ohio",
+      "state": "OH"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

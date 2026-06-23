@@ -1,0 +1,155 @@
+{
+  "slug": "turvo",
+  "canonical_name": "Turvo LLC",
+  "fein": "47-2067690",
+  "lca_filing_count": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 169000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 145725.0
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 165000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 173000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 200000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Principal Site Reliability Engineer",
+      "count": 2,
+      "median_wage_usd": 186500.0
+    },
+    {
+      "title": "Senior Site Reliability Engineer",
+      "count": 2,
+      "median_wage_usd": 175000.0
+    },
+    {
+      "title": "Platform Architect",
+      "count": 1,
+      "median_wage_usd": 145725.0
+    },
+    {
+      "title": "Technical Copy Writer",
+      "count": 1,
+      "median_wage_usd": 165000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SAN MATEO",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 4
+    },
+    {
+      "state": "CA",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 5,
+    "initial_denials": 0,
+    "continuing_approvals": 5,
+    "continuing_denials": 1,
+    "total_approvals": 10,
+    "by_fy": [
+      {
+        "fy": 2016,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2017,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 3,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 5
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 1,
+        "total_approvals": 3
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 6,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 200000.0,
+    "gap_usd": 69840.0
+  }
+}

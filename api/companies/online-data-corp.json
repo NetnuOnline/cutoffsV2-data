@@ -1,0 +1,66 @@
+{
+  "slug": "online-data-corp",
+  "canonical_name": "Online Data Corp.",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 1,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "01/03/2007",
+      "effective_date": "03/01/2007",
+      "state": "IL",
+      "workers": 76,
+      "city": "Westchester"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2012-05-31",
+        "formType": "8-K",
+        "accessionNumber": "0001144204-12-032590",
+        "items": [
+          "2.05",
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities",
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000074046&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2007-10-26",
+        "formType": "8-K/A",
+        "accessionNumber": "0001144204-07-056573",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000074046&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 2,
+    "itemCounts": {
+      "2.05": 1,
+      "5.02": 2
+    },
+    "latestFilingDate": "2012-05-31",
+    "earliestFilingDate": "2007-10-26"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

@@ -1,0 +1,76 @@
+{
+  "slug": "snp-transformations",
+  "canonical_name": "SNP Transformations, Inc.",
+  "fein": "90-0735468",
+  "lca_filing_count": 3,
+  "lca_worker_positions": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 115918.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 127600.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 115918.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 115918.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Software Engineer",
+      "count": 1,
+      "median_wage_usd": 115918.0
+    },
+    {
+      "title": "Solution Architect",
+      "count": 1,
+      "median_wage_usd": 127600.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 1,
+      "median_wage_usd": 115918.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "county": "HUDSON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 115918.0,
+    "gap_usd": -14242.0
+  }
+}

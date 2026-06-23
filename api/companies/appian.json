@@ -1,0 +1,203 @@
+{
+  "slug": "appian",
+  "canonical_name": "Appian Corporation",
+  "fein": "54-1956084",
+  "lca_filing_count": 68,
+  "lca_worker_positions": 67,
+  "warn_notice_count": 0,
+  "median_wage_usd": 137875.75,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 8,
+      "median_wage_usd": 112012.29000000001
+    },
+    {
+      "fy": 2021,
+      "filings": 8,
+      "median_wage_usd": 114350.0
+    },
+    {
+      "fy": 2022,
+      "filings": 11,
+      "median_wage_usd": 135114.0
+    },
+    {
+      "fy": 2023,
+      "filings": 9,
+      "median_wage_usd": 152000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 11,
+      "median_wage_usd": 137767.5
+    },
+    {
+      "fy": 2025,
+      "filings": 15,
+      "median_wage_usd": 132000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 5,
+      "median_wage_usd": 148703.05,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer II (SE2)",
+      "count": 10,
+      "median_wage_usd": 147500.0
+    },
+    {
+      "title": "Senior Consultant",
+      "count": 5,
+      "median_wage_usd": 126100.0
+    },
+    {
+      "title": "Consultant",
+      "count": 5,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "Senior Product Engineer",
+      "count": 3,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Senior Quality Engineer",
+      "count": 3,
+      "median_wage_usd": 137767.5
+    },
+    {
+      "title": "Software Engineer",
+      "count": 2,
+      "median_wage_usd": 110240.0
+    },
+    {
+      "title": "User Experience Designer",
+      "count": 2,
+      "median_wage_usd": 105000.0
+    },
+    {
+      "title": "Solution Engineer",
+      "count": 2,
+      "median_wage_usd": 87780.0
+    },
+    {
+      "title": "Software Engineer II",
+      "count": 2,
+      "median_wage_usd": 128504.29000000001
+    },
+    {
+      "title": "Manager, Quality Engineering",
+      "count": 2,
+      "median_wage_usd": 171840.01
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "VA",
+      "county": "FAIRFAX",
+      "count": 34
+    },
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 4
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "county": "ALEXANDRIA CITY",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "county": "SOMERSET",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "county": "LEON",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SAN DIEGO",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "VA",
+      "count": 42
+    },
+    {
+      "state": "CA",
+      "count": 9
+    },
+    {
+      "state": "NY",
+      "count": 4
+    },
+    {
+      "state": "NJ",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "MA",
+      "count": 2
+    },
+    {
+      "state": "GA",
+      "count": 1
+    },
+    {
+      "state": "TN",
+      "count": 1
+    },
+    {
+      "state": "MD",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 140000.0,
+    "gap_usd": 9840.0
+  }
+}

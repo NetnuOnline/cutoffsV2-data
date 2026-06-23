@@ -1,0 +1,83 @@
+{
+  "slug": "personal-products",
+  "canonical_name": "Personal Products",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 3,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 3
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "04/19/2000",
+      "effective_date": "12/01/2000",
+      "state": "IL",
+      "workers": 110,
+      "city": "Wilmington"
+    },
+    {
+      "date": "04/19/2000",
+      "effective_date": "07/01/2000",
+      "state": "IL",
+      "workers": 29,
+      "city": "Wilmington"
+    },
+    {
+      "date": "11/04/1993",
+      "effective_date": "10/01/1993",
+      "state": "IL",
+      "workers": 55,
+      "city": "Wilmington"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2009-03-04",
+        "formType": "8-K",
+        "accessionNumber": "0000802481-09-000019",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000802481&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 1,
+    "itemCounts": {
+      "2.05": 1
+    },
+    "latestFilingDate": "2009-03-04",
+    "earliestFilingDate": "2009-03-04"
+  },
+  "bankruptcy_data": {
+    "filings": [
+      {
+        "filingDate": "2009-12-10",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-09-250778",
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000802481&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2008-12-04",
+        "formType": "8-K",
+        "accessionNumber": "0000802481-08-000076",
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000802481&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 2,
+    "latestFilingDate": "2009-12-10",
+    "earliestFilingDate": "2008-12-04"
+  },
+  "source": "warntracker"
+}

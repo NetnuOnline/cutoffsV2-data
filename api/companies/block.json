@@ -1,0 +1,193 @@
+{
+  "slug": "block",
+  "canonical_name": "Block, Inc.",
+  "fein": "80-0429876",
+  "lca_filing_count": 288,
+  "lca_worker_positions": 284,
+  "warn_notice_count": 0,
+  "median_wage_usd": 194000.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 92,
+      "median_wage_usd": 186500.0
+    },
+    {
+      "fy": 2023,
+      "filings": 73,
+      "median_wage_usd": 179900.0
+    },
+    {
+      "fy": 2024,
+      "filings": 60,
+      "median_wage_usd": 199923.0
+    },
+    {
+      "fy": 2025,
+      "filings": 35,
+      "median_wage_usd": 218300.0
+    },
+    {
+      "fy": 2026,
+      "filings": 24,
+      "median_wage_usd": 200935.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 55,
+      "median_wage_usd": 200100.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 11,
+      "median_wage_usd": 218600.0
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "count": 10,
+      "median_wage_usd": 182450.0
+    },
+    {
+      "title": "Business Intelligence Analyst",
+      "count": 9,
+      "median_wage_usd": 149400.0
+    },
+    {
+      "title": "Database Developer",
+      "count": 4,
+      "median_wage_usd": 190800.0
+    },
+    {
+      "title": "Product Data Scientist",
+      "count": 4,
+      "median_wage_usd": 194500.0
+    },
+    {
+      "title": "EMV and Certification Specialist",
+      "count": 4,
+      "median_wage_usd": 167114.0
+    },
+    {
+      "title": "Data Scientist",
+      "count": 4,
+      "median_wage_usd": 190132.0
+    },
+    {
+      "title": "Software Engineering Manager",
+      "count": 4,
+      "median_wage_usd": 237500.0
+    },
+    {
+      "title": "Machine Learning Engineer (Modeling)",
+      "count": 4,
+      "median_wage_usd": 208750.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 40
+    },
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 36
+    },
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 35
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 20
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 15
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 6
+    },
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 6
+    },
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 5
+    },
+    {
+      "state": "NJ",
+      "county": "HUDSON",
+      "count": 5
+    },
+    {
+      "state": "WA",
+      "county": "SNOHOMISH",
+      "count": 5
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 122
+    },
+    {
+      "state": "WA",
+      "count": 50
+    },
+    {
+      "state": "NY",
+      "count": 34
+    },
+    {
+      "state": "TX",
+      "count": 25
+    },
+    {
+      "state": "GA",
+      "count": 10
+    },
+    {
+      "state": "NJ",
+      "count": 8
+    },
+    {
+      "state": "MA",
+      "count": 7
+    },
+    {
+      "state": "FL",
+      "count": 5
+    },
+    {
+      "state": "IL",
+      "count": 5
+    },
+    {
+      "state": "VA",
+      "count": 5
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 200850.0,
+    "gap_usd": 70690.0
+  }
+}

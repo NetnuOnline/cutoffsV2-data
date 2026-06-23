@@ -1,0 +1,139 @@
+{
+  "slug": "vivid-edge",
+  "canonical_name": "Vivid Edge Corp.",
+  "fein": "51-0603476",
+  "lca_filing_count": 10,
+  "lca_worker_positions": 10,
+  "warn_notice_count": 0,
+  "median_wage_usd": 111465.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 85000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 163200.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 147000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 122949.0
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 117000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 105930.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Programmer Analyst",
+      "count": 2,
+      "median_wage_usd": 123500.0
+    },
+    {
+      "title": "Technical Engineer",
+      "count": 1,
+      "median_wage_usd": 105930.0
+    },
+    {
+      "title": "Computer Systems Analyst",
+      "count": 1,
+      "median_wage_usd": 163200.0
+    },
+    {
+      "title": "Senior Database Cloud Engineer",
+      "count": 1,
+      "median_wage_usd": 122949.0
+    },
+    {
+      "title": "Principal Consultant",
+      "count": 1,
+      "median_wage_usd": 85000.0
+    },
+    {
+      "title": "Senior Oracle SOA Developer",
+      "count": 1,
+      "median_wage_usd": 160575.0
+    },
+    {
+      "title": "Senior Consultant",
+      "count": 1,
+      "median_wage_usd": 68141.0
+    },
+    {
+      "title": "Sr. Oracle Database/Cloud Engineer",
+      "count": 1,
+      "median_wage_usd": 117000.0
+    },
+    {
+      "title": "Sr. Principal Consultant",
+      "count": 1,
+      "median_wage_usd": 85000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 4
+    },
+    {
+      "state": "VA",
+      "county": "FAIRFAX",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "county": "MIDDLESEX",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 7
+    },
+    {
+      "state": "VA",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 133252.5,
+    "gap_usd": 3092.5
+  }
+}

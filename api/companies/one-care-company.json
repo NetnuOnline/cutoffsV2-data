@@ -1,0 +1,57 @@
+{
+  "slug": "one-care-company",
+  "canonical_name": "One Care Company",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 1,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "08/22/2012",
+      "effective_date": "08/22/2012",
+      "state": "GA",
+      "workers": 101,
+      "city": "Waynesboro"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "richmondburke-wib",
+      "name": "Richmond/Burke WIB",
+      "state": "GA"
+    }
+  ],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2010-11-18",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-10-263803",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001000230&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 1,
+    "itemCounts": {
+      "5.02": 1
+    },
+    "latestFilingDate": "2010-11-18",
+    "earliestFilingDate": "2010-11-18"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

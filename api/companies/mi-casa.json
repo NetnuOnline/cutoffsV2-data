@@ -1,0 +1,46 @@
+{
+  "slug": "mi-casa",
+  "canonical_name": "Mi Casa, Inc.",
+  "fein": null,
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 60964.9,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 60964.899999999994
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Accounting and Finance Analyst",
+      "count": 2,
+      "median_wage_usd": 60964.899999999994
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "DC",
+      "county": "DISTRICT OF COLUMBIA",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "DC",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-2011",
+    "soc_title": "Accountants and Auditors",
+    "market_median_usd": 79000.0,
+    "employer_median_usd": 60964.9,
+    "gap_usd": -18035.1
+  }
+}

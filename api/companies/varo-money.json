@@ -1,0 +1,126 @@
+{
+  "slug": "varo-money",
+  "canonical_name": "Varo Money, Inc.",
+  "fein": null,
+  "lca_filing_count": 7,
+  "warn_notice_count": 0,
+  "median_wage_usd": 145246.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 7,
+      "median_wage_usd": 145246.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Insights & Analytics Manager",
+      "count": 1,
+      "median_wage_usd": 130270.0
+    },
+    {
+      "title": "Senior Machine Learning Engineer",
+      "count": 1,
+      "median_wage_usd": 174138.0
+    },
+    {
+      "title": "Technical Lead",
+      "count": 1,
+      "median_wage_usd": 166754.0
+    },
+    {
+      "title": "Senior Product Manager, Fraud & Risk",
+      "count": 1,
+      "median_wage_usd": 166754.0
+    },
+    {
+      "title": "Senior Data Engineer",
+      "count": 1,
+      "median_wage_usd": 145246.0
+    },
+    {
+      "title": "Senior Cloud Database Administrator",
+      "count": 1,
+      "median_wage_usd": 107370.0
+    },
+    {
+      "title": "Senior Software Development Engineer in Test",
+      "count": 1,
+      "median_wage_usd": 145246.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 6
+    },
+    {
+      "state": "UT",
+      "county": "SALT LAKE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 6
+    },
+    {
+      "state": "UT",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 5,
+    "initial_denials": 0,
+    "continuing_approvals": 20,
+    "continuing_denials": 0,
+    "total_approvals": 25,
+    "by_fy": [
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 13,
+        "continuing_denials": 0,
+        "total_approvals": 14
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 4,
+        "initial_denials": 0,
+        "continuing_approvals": 7,
+        "continuing_denials": 0,
+        "total_approvals": 11
+      }
+    ]
+  },
+  "lca_worker_positions": 7,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3021",
+    "soc_title": "Computer and Information Systems Managers",
+    "market_median_usd": 169510.0,
+    "employer_median_usd": 166754.0,
+    "gap_usd": -2756.0
+  }
+}

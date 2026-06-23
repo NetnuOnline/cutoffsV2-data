@@ -1,0 +1,77 @@
+{
+  "slug": "hood-packaging-corporation",
+  "canonical_name": "Hood Packaging Corporation",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 5,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "WA",
+      "count": 2
+    },
+    {
+      "state": "NE",
+      "count": 2
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "08/01/2025",
+      "effective_date": "08/01/2025",
+      "state": "WA",
+      "workers": 94,
+      "city": "Vancouver"
+    },
+    {
+      "date": "06/03/2025",
+      "effective_date": "08/01/2025",
+      "state": "WA",
+      "workers": 94,
+      "city": "Vancouver"
+    },
+    {
+      "date": "11/10/2017",
+      "effective_date": "11/10/2017",
+      "state": "NE",
+      "workers": 100,
+      "city": "Omaha"
+    },
+    {
+      "date": "10/10/2016",
+      "effective_date": "10/10/2016",
+      "state": "NE",
+      "workers": 25,
+      "city": "Omaha"
+    },
+    {
+      "date": "05/29/2009",
+      "effective_date": "05/29/2009",
+      "state": "GA",
+      "workers": 103,
+      "city": "Valdosta"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "south-georgia-wib",
+      "name": "South Georgia WIB",
+      "state": "GA"
+    },
+    {
+      "slug": "southwest-washington-wib",
+      "name": "Southwest Washington WIB",
+      "state": "WA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

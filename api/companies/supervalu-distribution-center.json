@@ -1,0 +1,47 @@
+{
+  "slug": "supervalu-distribution-center",
+  "canonical_name": "Supervalu Distribution Center",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 1
+    },
+    {
+      "state": "KY",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "04/05/2001",
+      "effective_date": "04/05/2001",
+      "state": "GA",
+      "workers": 200,
+      "city": "Atlanta"
+    },
+    {
+      "date": "03/29/2001",
+      "effective_date": "03/29/2001",
+      "state": "KY",
+      "workers": 175,
+      "city": "Greenville"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "a-purchasepennyrile-wib",
+      "name": "A Purchase/Pennyrile WIB",
+      "state": "KY"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

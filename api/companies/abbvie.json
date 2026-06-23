@@ -1,0 +1,203 @@
+{
+  "slug": "abbvie",
+  "canonical_name": "AbbVie inc.",
+  "fein": "32-0375147",
+  "lca_filing_count": 314,
+  "lca_worker_positions": 308,
+  "warn_notice_count": 0,
+  "median_wage_usd": 140000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 47,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 45,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 59,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 34,
+      "median_wage_usd": 132500.0
+    },
+    {
+      "fy": 2024,
+      "filings": 39,
+      "median_wage_usd": 142000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 51,
+      "median_wage_usd": 160000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 33,
+      "median_wage_usd": 160000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Scientist I",
+      "count": 4,
+      "median_wage_usd": 107500.0
+    },
+    {
+      "title": "Statistical Analyst",
+      "count": 3,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "Senior Analyst, Business Systems",
+      "count": 3,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "title": "Senior Engineer, Technology I",
+      "count": 3,
+      "median_wage_usd": 149608.76
+    },
+    {
+      "title": "Associate Business Systems Consultant",
+      "count": 3,
+      "median_wage_usd": 129632.22
+    },
+    {
+      "title": "SENIOR UX DESIGNER",
+      "count": 2,
+      "median_wage_usd": 160000.0
+    },
+    {
+      "title": "Manager, Statistics",
+      "count": 2,
+      "median_wage_usd": 137500.0
+    },
+    {
+      "title": "Associate Director, Forecasting Oncology ",
+      "count": 2,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "title": "Business Systems Consultant",
+      "count": 2,
+      "median_wage_usd": 158987.0
+    },
+    {
+      "title": "Enterprise Solution Architect",
+      "count": 2,
+      "median_wage_usd": 120000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IL",
+      "county": "LAKE",
+      "count": 167
+    },
+    {
+      "state": "CA",
+      "county": "ORANGE",
+      "count": 11
+    },
+    {
+      "state": "CA",
+      "county": "SAN MATEO",
+      "count": 8
+    },
+    {
+      "state": "MA",
+      "county": "WORCESTER CITY",
+      "count": 5
+    },
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 4
+    },
+    {
+      "state": "MI",
+      "county": "OAKLAND",
+      "count": 3
+    },
+    {
+      "state": "IN",
+      "county": "BARTHOLOMEW",
+      "count": 3
+    },
+    {
+      "state": "MD",
+      "county": "FREDERICK",
+      "count": 3
+    },
+    {
+      "state": "OH",
+      "county": "WARREN",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "county": "MORRIS",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 221
+    },
+    {
+      "state": "CA",
+      "count": 33
+    },
+    {
+      "state": "MA",
+      "count": 8
+    },
+    {
+      "state": "MD",
+      "count": 7
+    },
+    {
+      "state": "NJ",
+      "count": 7
+    },
+    {
+      "state": "FL",
+      "count": 6
+    },
+    {
+      "state": "WI",
+      "count": 5
+    },
+    {
+      "state": "OH",
+      "count": 4
+    },
+    {
+      "state": "MI",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Computer Systems Engineers/Architects",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 149608.76,
+    "gap_usd": 31608.76
+  }
+}

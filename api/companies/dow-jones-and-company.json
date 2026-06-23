@@ -1,0 +1,176 @@
+{
+  "slug": "dow-jones-and-company",
+  "canonical_name": "Dow Jones and Company, Inc.",
+  "fein": "13-5034940",
+  "lca_filing_count": 71,
+  "lca_worker_positions": 69,
+  "warn_notice_count": 0,
+  "median_wage_usd": 140000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 5,
+      "median_wage_usd": 94233.6
+    },
+    {
+      "fy": 2021,
+      "filings": 20,
+      "median_wage_usd": 139529.64
+    },
+    {
+      "fy": 2022,
+      "filings": 15,
+      "median_wage_usd": 136579.99
+    },
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 12,
+      "median_wage_usd": 155890.0
+    },
+    {
+      "fy": 2025,
+      "filings": 8,
+      "median_wage_usd": 190000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 6,
+      "median_wage_usd": 144472.28,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Lead Software Engineer",
+      "count": 19,
+      "median_wage_usd": 153643.44
+    },
+    {
+      "title": "Sr Software Engineer",
+      "count": 6,
+      "median_wage_usd": 126295.765
+    },
+    {
+      "title": "Sr. Software Engineer",
+      "count": 4,
+      "median_wage_usd": 129775.39
+    },
+    {
+      "title": "Principal Software Engineer",
+      "count": 4,
+      "median_wage_usd": 164736.87
+    },
+    {
+      "title": "Sr Principal Product Designer, Subscription Growth",
+      "count": 2,
+      "median_wage_usd": 210000.0
+    },
+    {
+      "title": "Associate News Editor, Live Journalism",
+      "count": 2,
+      "median_wage_usd": 80000.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 2,
+      "median_wage_usd": 100723.4
+    },
+    {
+      "title": "Sr. Data Engineer, Ad Tech",
+      "count": 2,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 2,
+      "median_wage_usd": 109647.475
+    },
+    {
+      "title": "VP, Engineering",
+      "count": 1,
+      "median_wage_usd": 215488.81
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NJ",
+      "county": "MIDDLESEX",
+      "count": 39
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 11
+    },
+    {
+      "state": "MN",
+      "county": "HENNEPIN",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 2
+    },
+    {
+      "state": "NC",
+      "county": "WAKE",
+      "count": 1
+    },
+    {
+      "state": "CO",
+      "county": "DOUGLAS",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "county": "MONMOUTH",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 47
+    },
+    {
+      "state": "NY",
+      "count": 17
+    },
+    {
+      "state": "MN",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "count": 2
+    },
+    {
+      "state": "CO",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 155096.45,
+    "gap_usd": 24936.45
+  }
+}

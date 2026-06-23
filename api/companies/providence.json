@@ -1,0 +1,61 @@
+{
+  "slug": "providence",
+  "canonical_name": "Providence",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 4,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "OR",
+      "count": 2
+    },
+    {
+      "state": "WA",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "11/16/2020",
+      "effective_date": "01/15/2021",
+      "state": "OR",
+      "workers": 5,
+      "city": "Portland"
+    },
+    {
+      "date": "11/16/2020",
+      "effective_date": "01/15/2021",
+      "state": "OR",
+      "workers": 177,
+      "city": "Portland"
+    },
+    {
+      "date": "02/25/2019",
+      "effective_date": "02/25/2019",
+      "state": "WA",
+      "workers": 26,
+      "city": "Lacey"
+    },
+    {
+      "date": "12/03/2018",
+      "effective_date": "02/25/2019",
+      "state": "WA",
+      "workers": 26,
+      "city": "Lacey"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "pacific-mountain-wib",
+      "name": "Pacific Mountain WIB",
+      "state": "WA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

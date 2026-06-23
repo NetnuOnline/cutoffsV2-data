@@ -1,0 +1,85 @@
+{
+  "slug": "resonate-networks",
+  "canonical_name": "Resonate Networks, Inc.",
+  "fein": "27-1573058",
+  "lca_filing_count": 4,
+  "lca_worker_positions": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 137500.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 139000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 132434.16,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer, Database Operations  ",
+      "count": 1,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "title": "Computer and Information Systems Scientist",
+      "count": 1,
+      "median_wage_usd": 132434.16
+    },
+    {
+      "title": "DevOps Engineer",
+      "count": 1,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "title": "Software Engineer II",
+      "count": 1,
+      "median_wage_usd": 143000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "OH",
+      "county": "FRANKLIN",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "VA",
+      "count": 1
+    },
+    {
+      "state": "OH",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 140000.0,
+    "gap_usd": 9840.0
+  }
+}

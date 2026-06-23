@@ -1,0 +1,137 @@
+{
+  "slug": "luke-holding",
+  "canonical_name": "LUKE Holding Inc.",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 10,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 5
+    },
+    {
+      "state": "AZ",
+      "count": 4
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "03/05/2025",
+      "effective_date": "02/28/2025",
+      "state": "TX",
+      "workers": 129,
+      "city": "Eagle Pass"
+    },
+    {
+      "date": "03/05/2025",
+      "effective_date": "02/28/2025",
+      "state": "TX",
+      "workers": 201,
+      "city": "Donna"
+    },
+    {
+      "date": "03/05/2025",
+      "effective_date": "02/28/2025",
+      "state": "TX",
+      "workers": 36,
+      "city": "Del Rio"
+    },
+    {
+      "date": "03/03/2025",
+      "effective_date": "02/28/2025",
+      "state": "TX",
+      "workers": 227,
+      "city": "El Paso"
+    },
+    {
+      "date": "03/03/2025",
+      "effective_date": "02/28/2025",
+      "state": "TX",
+      "workers": 73,
+      "city": "Laredo"
+    },
+    {
+      "date": "02/28/2025",
+      "effective_date": "02/28/2025",
+      "state": "CA",
+      "workers": 61,
+      "city": "San Diego"
+    },
+    {
+      "date": "02/28/2025",
+      "effective_date": "02/28/2025",
+      "state": "AZ",
+      "workers": 34,
+      "city": "Tucson"
+    },
+    {
+      "date": "02/28/2025",
+      "effective_date": "02/28/2025",
+      "state": "AZ",
+      "workers": 54,
+      "city": "Yuma"
+    },
+    {
+      "date": "02/28/2025",
+      "effective_date": "02/28/2025",
+      "state": "AZ",
+      "workers": 0,
+      "city": "Nogales"
+    },
+    {
+      "date": "02/28/2025",
+      "effective_date": "02/28/2025",
+      "state": "AZ",
+      "workers": 0,
+      "city": "Yuma"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "pima-county-lwib",
+      "name": "Pima County LWIB",
+      "state": "AZ"
+    },
+    {
+      "slug": "santa-cruz-county-lwib",
+      "name": "Santa Cruz County LWIB",
+      "state": "AZ"
+    },
+    {
+      "slug": "yuma-county-lwib",
+      "name": "Yuma County LWIB",
+      "state": "AZ"
+    },
+    {
+      "slug": "upper-rio-grande-wda",
+      "name": "Upper Rio Grande WDA",
+      "state": "TX"
+    },
+    {
+      "slug": "south-texas-wda",
+      "name": "South Texas WDA",
+      "state": "TX"
+    },
+    {
+      "slug": "lower-rio-grande-wda",
+      "name": "Lower Rio Grande WDA",
+      "state": "TX"
+    },
+    {
+      "slug": "middle-rio-grande-wda",
+      "name": "Middle Rio Grande WDA",
+      "state": "TX"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

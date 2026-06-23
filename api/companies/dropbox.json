@@ -1,0 +1,203 @@
+{
+  "slug": "dropbox",
+  "canonical_name": "Dropbox, Inc.",
+  "fein": "26-0138832",
+  "lca_filing_count": 204,
+  "lca_worker_positions": 204,
+  "warn_notice_count": 0,
+  "median_wage_usd": 170000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 30,
+      "median_wage_usd": 146552.5
+    },
+    {
+      "fy": 2021,
+      "filings": 35,
+      "median_wage_usd": 156000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 44,
+      "median_wage_usd": 170900.0
+    },
+    {
+      "fy": 2023,
+      "filings": 31,
+      "median_wage_usd": 167710.0
+    },
+    {
+      "fy": 2024,
+      "filings": 36,
+      "median_wage_usd": 182426.5
+    },
+    {
+      "fy": 2025,
+      "filings": 14,
+      "median_wage_usd": 192950.0
+    },
+    {
+      "fy": 2026,
+      "filings": 14,
+      "median_wage_usd": 219300.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 63,
+      "median_wage_usd": 170000.0
+    },
+    {
+      "title": "Data Scientist",
+      "count": 11,
+      "median_wage_usd": 161200.0
+    },
+    {
+      "title": "Engineering Manager",
+      "count": 11,
+      "median_wage_usd": 197200.0
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "count": 9,
+      "median_wage_usd": 170000.0
+    },
+    {
+      "title": "Software Engineer ",
+      "count": 5,
+      "median_wage_usd": 147100.0
+    },
+    {
+      "title": "SOFTWARE ENGINEER",
+      "count": 4,
+      "median_wage_usd": 149300.0
+    },
+    {
+      "title": "Product Manager",
+      "count": 3,
+      "median_wage_usd": 163600.0
+    },
+    {
+      "title": "Enterprise Applications Programmer",
+      "count": 3,
+      "median_wage_usd": 141100.0
+    },
+    {
+      "title": "Data Engineer",
+      "count": 3,
+      "median_wage_usd": 183581.0
+    },
+    {
+      "title": "Quality Assurance Engineer ",
+      "count": 2,
+      "median_wage_usd": 121300.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 96
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 44
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 14
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 9
+    },
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 6
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 3
+    },
+    {
+      "state": "VA",
+      "county": "LOUDOUN",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "SAN DIEGO",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "county": "MERCER",
+      "count": 2
+    },
+    {
+      "state": "MA",
+      "county": "ACTON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 112
+    },
+    {
+      "state": "WA",
+      "count": 48
+    },
+    {
+      "state": "NY",
+      "count": 14
+    },
+    {
+      "state": "TX",
+      "count": 10
+    },
+    {
+      "state": "NJ",
+      "count": 4
+    },
+    {
+      "state": "VA",
+      "count": 4
+    },
+    {
+      "state": "GA",
+      "count": 3
+    },
+    {
+      "state": "MA",
+      "count": 3
+    },
+    {
+      "state": "NC",
+      "count": 2
+    },
+    {
+      "state": "FL",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 183310.0,
+    "gap_usd": 53150.0
+  }
+}

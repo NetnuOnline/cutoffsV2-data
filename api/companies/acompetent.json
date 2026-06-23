@@ -1,0 +1,46 @@
+{
+  "slug": "acompetent",
+  "canonical_name": "Acompetent Inc",
+  "fein": "88-3810862",
+  "lca_filing_count": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 94000.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 94000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Application Developer",
+      "count": 3,
+      "median_wage_usd": 94000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "ALBANY",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 94000.0,
+    "gap_usd": -36160.0
+  }
+}

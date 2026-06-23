@@ -1,0 +1,66 @@
+{
+  "slug": "data-bricks",
+  "canonical_name": "DATA BRICKS INC",
+  "fein": "85-2475587",
+  "lca_filing_count": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 91291.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 88753.5
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 94255.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Computer system Analyst",
+      "count": 1,
+      "median_wage_usd": 87256.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 1,
+      "median_wage_usd": 90251.0
+    },
+    {
+      "title": "IAM specialist",
+      "count": 1,
+      "median_wage_usd": 96179.0
+    },
+    {
+      "title": "Database Administrator",
+      "count": 1,
+      "median_wage_usd": 92331.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MD",
+      "county": "HOWARD",
+      "count": 4
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MD",
+      "count": 4
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1211",
+    "soc_title": "Computer Systems Analysts",
+    "market_median_usd": 103800.0,
+    "employer_median_usd": 91717.5,
+    "gap_usd": -12082.5
+  }
+}

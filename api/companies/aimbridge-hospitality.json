@@ -1,0 +1,88 @@
+{
+  "slug": "aimbridge-hospitality",
+  "canonical_name": "Aimbridge Hospitality",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 6,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "MI",
+      "count": 2
+    },
+    {
+      "state": "CT",
+      "count": 2
+    },
+    {
+      "state": "FL",
+      "count": 1
+    },
+    {
+      "state": "OK",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "11/04/2020",
+      "effective_date": "12/31/2020",
+      "state": "FL",
+      "workers": 280,
+      "city": "BOWLING GREEN"
+    },
+    {
+      "date": "08/15/2020",
+      "effective_date": "08/15/2020",
+      "state": "MI",
+      "workers": 6,
+      "city": "Ypsilanti, Michigan"
+    },
+    {
+      "date": "06/30/2020",
+      "effective_date": "06/30/2020",
+      "state": "MI",
+      "workers": 119,
+      "city": "Ypsilanti, Michigan"
+    },
+    {
+      "date": "05/21/2020",
+      "effective_date": "04/16/2020",
+      "state": "CT",
+      "workers": 81,
+      "city": "Rocky Hill"
+    },
+    {
+      "date": "03/21/2020",
+      "effective_date": "03/21/2020",
+      "state": "OK",
+      "workers": 0,
+      "city": null
+    },
+    {
+      "date": "01/01/2020",
+      "effective_date": "03/26/2020",
+      "state": "CT",
+      "workers": 81,
+      "city": "Rockyhill"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "careersource-heartland",
+      "name": "CareerSource Heartland",
+      "state": "FL"
+    },
+    {
+      "slug": "washtenaw-county-employment-training-and-community-services",
+      "name": "Washtenaw County Employment Training and Community Services",
+      "state": "MI"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

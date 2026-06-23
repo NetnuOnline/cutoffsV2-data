@@ -1,0 +1,206 @@
+{
+  "slug": "thales-dis-cpl-usa",
+  "canonical_name": "Thales DIS CPL USA, Inc.",
+  "fein": "52-1287752",
+  "lca_filing_count": 16,
+  "warn_notice_count": 0,
+  "median_wage_usd": 144101.97,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 134769.95
+    },
+    {
+      "fy": 2022,
+      "filings": 6,
+      "median_wage_usd": 123270.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 190000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 4,
+      "median_wage_usd": 193160.0
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 154000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Principal Solutions Architect",
+      "count": 3,
+      "median_wage_usd": 220000.0
+    },
+    {
+      "title": "Quality Assurance Engineer",
+      "count": 2,
+      "median_wage_usd": 124239.785
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 2,
+      "median_wage_usd": 134539.95
+    },
+    {
+      "title": "System Administrator",
+      "count": 1,
+      "median_wage_usd": 117301.97
+    },
+    {
+      "title": "Manager Software Development",
+      "count": 1,
+      "median_wage_usd": 182102.12
+    },
+    {
+      "title": "CI/CD Architect",
+      "count": 1,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "title": "Senior Sales Engineer",
+      "count": 1,
+      "median_wage_usd": 154000.0
+    },
+    {
+      "title": "Principal Software Engineer",
+      "count": 1,
+      "median_wage_usd": 155231.98
+    },
+    {
+      "title": "Senior DevOps Engineer",
+      "count": 1,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "title": "Sales Engineer",
+      "count": 1,
+      "median_wage_usd": 140664.04
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 4
+    },
+    {
+      "state": "NJ",
+      "county": "HUDSON",
+      "count": 3
+    },
+    {
+      "state": "FL",
+      "county": "BROWARD",
+      "count": 2
+    },
+    {
+      "state": "TN",
+      "county": "DAVIDSON",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "county": "BREVARD",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "county": "LOUDOUN",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 6
+    },
+    {
+      "state": "FL",
+      "count": 3
+    },
+    {
+      "state": "NJ",
+      "count": 3
+    },
+    {
+      "state": "VA",
+      "count": 1
+    },
+    {
+      "state": "TN",
+      "count": 1
+    },
+    {
+      "state": "OH",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 7,
+    "initial_denials": 1,
+    "continuing_approvals": 33,
+    "continuing_denials": 0,
+    "total_approvals": 40,
+    "by_fy": [
+      {
+        "fy": 2020,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 7,
+        "continuing_denials": 0,
+        "total_approvals": 9
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 2,
+        "initial_denials": 1,
+        "continuing_approvals": 15,
+        "continuing_denials": 0,
+        "total_approvals": 17
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 3,
+        "initial_denials": 0,
+        "continuing_approvals": 9,
+        "continuing_denials": 0,
+        "total_approvals": 12
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      }
+    ]
+  },
+  "lca_worker_positions": 16,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 145115.99,
+    "gap_usd": 14955.99
+  }
+}

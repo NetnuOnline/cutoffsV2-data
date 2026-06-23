@@ -1,0 +1,72 @@
+{
+  "slug": "husqvarna",
+  "canonical_name": "Husqvarna",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 5,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 2
+    },
+    {
+      "state": "NE",
+      "count": 2
+    },
+    {
+      "state": "SC",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "03/15/2019",
+      "effective_date": "03/15/2019",
+      "state": "GA",
+      "workers": 1093,
+      "city": "McRae"
+    },
+    {
+      "date": "10/01/2017",
+      "effective_date": "10/01/2017",
+      "state": "GA",
+      "workers": 113,
+      "city": "Swainsboro"
+    },
+    {
+      "date": "03/06/2016",
+      "effective_date": "03/06/2016",
+      "state": "SC",
+      "workers": 84,
+      "city": "Orangeburg"
+    },
+    {
+      "date": "01/14/2011",
+      "effective_date": "01/14/2011",
+      "state": "NE",
+      "workers": 390,
+      "city": "Beatrice"
+    },
+    {
+      "date": "08/27/2010",
+      "effective_date": "08/27/2010",
+      "state": "NE",
+      "workers": 390,
+      "city": "Beatrice"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "southeast-economic-region",
+      "name": "Southeast Economic Region",
+      "state": "NE"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

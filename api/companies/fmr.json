@@ -1,0 +1,165 @@
+{
+  "slug": "fmr",
+  "canonical_name": "FMR LLC",
+  "fein": "04-3532603",
+  "lca_filing_count": 47,
+  "warn_notice_count": 0,
+  "median_wage_usd": 104354.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 6,
+      "median_wage_usd": 99227.0
+    },
+    {
+      "fy": 2021,
+      "filings": 5,
+      "median_wage_usd": 103314.0
+    },
+    {
+      "fy": 2022,
+      "filings": 11,
+      "median_wage_usd": 95410.0
+    },
+    {
+      "fy": 2023,
+      "filings": 13,
+      "median_wage_usd": 112986.0
+    },
+    {
+      "fy": 2024,
+      "filings": 12,
+      "median_wage_usd": 114899.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior IT Audit Analyst",
+      "count": 5,
+      "median_wage_usd": 95410.0
+    },
+    {
+      "title": "IT Audit Manager",
+      "count": 3,
+      "median_wage_usd": 100818.0
+    },
+    {
+      "title": "Quantitative Analyst",
+      "count": 3,
+      "median_wage_usd": 104354.0
+    },
+    {
+      "title": "Senior Software Engineer/Developer",
+      "count": 3,
+      "median_wage_usd": 112986.0
+    },
+    {
+      "title": "Manager, Data Analytics and Insights",
+      "count": 2,
+      "median_wage_usd": 88535.0
+    },
+    {
+      "title": "Senior Systems Engineer",
+      "count": 2,
+      "median_wage_usd": 105019.0
+    },
+    {
+      "title": "Senior Manager, IT Audit",
+      "count": 2,
+      "median_wage_usd": 121493.0
+    },
+    {
+      "title": "Principal DevOps Engineer",
+      "count": 2,
+      "median_wage_usd": 128045.0
+    },
+    {
+      "title": "Director, Fidelity Consulting",
+      "count": 2,
+      "median_wage_usd": 145392.0
+    },
+    {
+      "title": "AM Quantitative Analyst I",
+      "count": 1,
+      "median_wage_usd": 100443.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MA",
+      "county": "BOSTON CITY",
+      "count": 21
+    },
+    {
+      "state": "NC",
+      "county": "DURHAM",
+      "count": 11
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 6
+    },
+    {
+      "state": "NH",
+      "county": "MERRIMACK",
+      "count": 4
+    },
+    {
+      "state": "CO",
+      "county": "ARAPAHOE",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "county": "HUDSON",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MA",
+      "count": 21
+    },
+    {
+      "state": "NC",
+      "count": 11
+    },
+    {
+      "state": "TX",
+      "count": 6
+    },
+    {
+      "state": "NH",
+      "count": 4
+    },
+    {
+      "state": "NJ",
+      "count": 2
+    },
+    {
+      "state": "CO",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 47,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 112986.0,
+    "gap_usd": -17174.0
+  }
+}

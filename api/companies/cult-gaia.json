@@ -1,0 +1,56 @@
+{
+  "slug": "cult-gaia",
+  "canonical_name": "Cult Gaia LLC",
+  "fein": "45-0635471",
+  "lca_filing_count": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 99216.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 129000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 99216.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Merchandising Manager",
+      "count": 3,
+      "median_wage_usd": 99216.0
+    },
+    {
+      "title": "Retail Operations Manager",
+      "count": 1,
+      "median_wage_usd": 129000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 4
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-2021",
+    "soc_title": "Marketing Managers",
+    "market_median_usd": 157620.0,
+    "employer_median_usd": 99216.0,
+    "gap_usd": -58404.0
+  }
+}

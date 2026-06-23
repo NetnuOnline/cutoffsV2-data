@@ -1,0 +1,95 @@
+{
+  "slug": "taylor-farms",
+  "canonical_name": "Taylor Farms Pacific, Inc.",
+  "fein": null,
+  "lca_filing_count": 1,
+  "warn_notice_count": 6,
+  "median_wage_usd": 126027,
+  "by_fy": [
+    {
+      "fy": 2026,
+      "filings": 0,
+      "median_wage_usd": null
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Manager of Accounting",
+      "count": 0,
+      "median_wage_usd": null
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 2
+    },
+    {
+      "state": "AZ",
+      "count": 2
+    },
+    {
+      "state": "GA",
+      "count": 1
+    },
+    {
+      "state": "KY",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "04/08/2020",
+      "effective_date": "04/03/2020",
+      "state": "CA",
+      "workers": 190,
+      "city": "Tracy"
+    },
+    {
+      "date": "04/07/2020",
+      "effective_date": "04/07/2020",
+      "state": "AZ",
+      "workers": 407,
+      "city": "Salinas"
+    },
+    {
+      "date": "03/27/2020",
+      "effective_date": "03/27/2020",
+      "state": "AZ",
+      "workers": 407,
+      "city": "Yuma"
+    },
+    {
+      "date": "06/15/2016",
+      "effective_date": "09/15/2016",
+      "state": "CA",
+      "workers": 192,
+      "city": "Tracy"
+    },
+    {
+      "date": "10/15/2008",
+      "effective_date": "10/15/2008",
+      "state": "GA",
+      "workers": 57,
+      "city": "Forest Park"
+    },
+    {
+      "date": "02/04/1999",
+      "effective_date": "02/04/1999",
+      "state": "KY",
+      "workers": 115,
+      "city": "Louisville, KY"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "yuma-county-lwib",
+      "name": "Yuma County LWIB",
+      "state": "AZ"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

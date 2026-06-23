@@ -1,0 +1,43 @@
+{
+  "slug": "club-one-casino",
+  "canonical_name": "Club One Casino",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "07/31/2020",
+      "effective_date": "07/31/2020",
+      "state": "CA",
+      "workers": 126,
+      "city": "Fresno"
+    },
+    {
+      "date": "04/03/2020",
+      "effective_date": "03/17/2020",
+      "state": "CA",
+      "workers": 220,
+      "city": "Fresno"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "fresno-county-wib",
+      "name": "Fresno County WIB",
+      "state": "CA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

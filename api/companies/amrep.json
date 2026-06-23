@@ -1,0 +1,129 @@
+{
+  "slug": "amrep",
+  "canonical_name": "AMREP Corporation",
+  "fein": "59-0936128",
+  "lca_filing_count": 3,
+  "warn_notice_count": 1,
+  "median_wage_usd": 86840.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 70000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 86840.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 87000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Accountant",
+      "count": 2,
+      "median_wage_usd": 86920.0
+    },
+    {
+      "title": "SENIOR ACCOUNTANT",
+      "count": 1,
+      "median_wage_usd": 70000.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "PA",
+      "count": 3
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "PA",
+      "county": "DELAWARE",
+      "count": 2
+    },
+    {
+      "state": "PA",
+      "county": "MONTGOMERY",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "04/21/2000",
+      "effective_date": "04/21/2000",
+      "state": "GA",
+      "workers": 75,
+      "city": "Cartersville"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2011-08-02",
+        "formType": "8-K",
+        "accessionNumber": "0000006207-11-000012",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000006207&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2008-10-10",
+        "formType": "8-K",
+        "accessionNumber": "0000006207-08-000020",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000006207&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 2,
+    "itemCounts": {
+      "5.02": 1,
+      "2.05": 1
+    },
+    "latestFilingDate": "2011-08-02",
+    "earliestFilingDate": "2008-10-10"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 1,
+    "continuing_denials": 1,
+    "total_approvals": 1,
+    "by_fy": [
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 1,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-2011",
+    "soc_title": "Accountants and Auditors",
+    "market_median_usd": 79000.0,
+    "employer_median_usd": 86920.0,
+    "gap_usd": 7920.0
+  }
+}

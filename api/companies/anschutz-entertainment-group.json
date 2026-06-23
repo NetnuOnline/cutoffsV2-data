@@ -1,0 +1,76 @@
+{
+  "slug": "anschutz-entertainment-group",
+  "canonical_name": "ANSCHUTZ ENTERTAINMENT GROUP, INC.",
+  "fein": "84-1260056",
+  "lca_filing_count": 1,
+  "warn_notice_count": 2,
+  "median_wage_usd": 116699.0,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 116699.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SR ACCOUNTANT-FINANCIAL REPORTING",
+      "count": 1,
+      "median_wage_usd": 116699.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "06/08/2020",
+      "effective_date": "06/30/2020",
+      "state": "CA",
+      "workers": 18,
+      "city": "Los Angeles"
+    },
+    {
+      "date": "06/08/2020",
+      "effective_date": "06/30/2020",
+      "state": "CA",
+      "workers": 13,
+      "city": "Los Angeles"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 1,
+    "continuing_denials": 0,
+    "total_approvals": 2,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      }
+    ]
+  },
+  "lca_worker_positions": 1,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-2011",
+    "soc_title": "Accountants and Auditors",
+    "market_median_usd": 79000.0,
+    "employer_median_usd": 116699.0,
+    "gap_usd": 37699.0
+  }
+}

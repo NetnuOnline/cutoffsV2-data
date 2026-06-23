@@ -1,0 +1,65 @@
+{
+  "slug": "oswego-hospital",
+  "canonical_name": "Oswego Hospital",
+  "fein": "15-0532220",
+  "lca_filing_count": 7,
+  "lca_worker_positions": 7,
+  "warn_notice_count": 0,
+  "median_wage_usd": 275000.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 225000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 275000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 275000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 380000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Primary Care Physician",
+      "count": 5,
+      "median_wage_usd": 275000.0
+    },
+    {
+      "title": "Pathologist",
+      "count": 1,
+      "median_wage_usd": 380000.0
+    },
+    {
+      "title": "Gerontology Nurse Practitioner",
+      "count": 1,
+      "median_wage_usd": 134204.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "OSWEGO",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 7
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": []
+}

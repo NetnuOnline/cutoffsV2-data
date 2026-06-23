@@ -1,0 +1,194 @@
+{
+  "slug": "united-biosource",
+  "canonical_name": "UNITED BIOSOURCE LLC",
+  "fein": "80-0077029",
+  "lca_filing_count": 8,
+  "warn_notice_count": 2,
+  "median_wage_usd": 137295.5,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 136021.0
+    },
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 103206.44
+    },
+    {
+      "fy": 2022,
+      "filings": 3,
+      "median_wage_usd": 170000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 138570.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 150926.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Safety Specialist",
+      "count": 1,
+      "median_wage_usd": 92718.0
+    },
+    {
+      "title": "Sr. IT Architect",
+      "count": 1,
+      "median_wage_usd": 136021.0
+    },
+    {
+      "title": "Sr. Data Analyst",
+      "count": 1,
+      "median_wage_usd": 92061.0
+    },
+    {
+      "title": " Associate Director, IT Project Management",
+      "count": 1,
+      "median_wage_usd": 180000.0
+    },
+    {
+      "title": "Associate Director, Software Development Engineer",
+      "count": 1,
+      "median_wage_usd": 170000.0
+    },
+    {
+      "title": "Sr. Business Systems Analyst",
+      "count": 1,
+      "median_wage_usd": 113694.88
+    },
+    {
+      "title": "Senior Manager Software Development Engineer",
+      "count": 1,
+      "median_wage_usd": 150926.0
+    },
+    {
+      "title": "Senior IT Architect",
+      "count": 1,
+      "median_wage_usd": 138570.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "PA",
+      "count": 6
+    },
+    {
+      "state": "AZ",
+      "count": 2
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "PA",
+      "county": "MONTGOMERY",
+      "count": 6
+    },
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 2
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "09/26/2025",
+      "effective_date": "11/26/2025",
+      "state": "MO",
+      "workers": 123,
+      "city": "Kansas City"
+    },
+    {
+      "date": "09/26/2025",
+      "effective_date": "09/26/2025",
+      "state": "KS",
+      "workers": 123,
+      "city": "Overland Park"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 12,
+    "continuing_denials": 0,
+    "total_approvals": 12,
+    "by_fy": [
+      {
+        "fy": 2012,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 5,
+        "continuing_denials": 0,
+        "total_approvals": 5
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      }
+    ]
+  },
+  "lca_worker_positions": 8,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3021",
+    "soc_title": "Computer and Information Systems Managers",
+    "market_median_usd": 169510.0,
+    "employer_median_usd": 160463.0,
+    "gap_usd": -9047.0
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "slug": "enfocus",
+  "canonical_name": "enFocus, Inc.",
+  "fein": null,
+  "lca_filing_count": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 90000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 64100.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 92000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Management Analyst for Industry Advancement Services",
+      "count": 2,
+      "median_wage_usd": 79050.0
+    },
+    {
+      "title": "Senior Operations Research Analyst",
+      "count": 1,
+      "median_wage_usd": 90000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IN",
+      "county": "ST JOSEPH",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IN",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 2,
+    "initial_denials": 0,
+    "continuing_approvals": 0,
+    "continuing_denials": 0,
+    "total_approvals": 2,
+    "by_fy": [
+      {
+        "fy": 2020,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1111",
+    "soc_title": "Management Analysts",
+    "market_median_usd": 99000.0,
+    "employer_median_usd": 79050.0,
+    "gap_usd": -19950.0
+  }
+}

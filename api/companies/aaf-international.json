@@ -1,0 +1,68 @@
+{
+  "slug": "aaf-international",
+  "canonical_name": "AAF International",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 5,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 4
+    },
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "04/05/2023",
+      "effective_date": "07/03/2023",
+      "state": "NY",
+      "workers": 90,
+      "city": "Hudson"
+    },
+    {
+      "date": "04/04/2023",
+      "effective_date": "07/03/2023",
+      "state": "NY",
+      "workers": 90,
+      "city": "Hudson"
+    },
+    {
+      "date": "04/04/2023",
+      "effective_date": "07/03/2023",
+      "state": "NY",
+      "workers": 90,
+      "city": null
+    },
+    {
+      "date": "04/04/2023",
+      "effective_date": "07/03/2023",
+      "state": "NY",
+      "workers": 90,
+      "city": "Hudson"
+    },
+    {
+      "date": "01/08/1996",
+      "effective_date": "05/01/1996",
+      "state": "IL",
+      "workers": 102,
+      "city": "Zion"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "columbiagreene-lwia",
+      "name": "Columbia/Greene LWIA",
+      "state": "NY"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

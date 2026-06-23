@@ -1,0 +1,89 @@
+{
+  "slug": "isquareinfo",
+  "canonical_name": "ISQUAREINFO LLC",
+  "fein": "82-0742135",
+  "lca_filing_count": 6,
+  "lca_worker_positions": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 87925.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 88670.5
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 80000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 103500.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Business Intelligence Analyst",
+      "count": 3,
+      "median_wage_usd": 80850.0
+    },
+    {
+      "title": "IT Project Manager",
+      "count": 2,
+      "median_wage_usd": 80000.0
+    },
+    {
+      "title": "SQL Server Developer",
+      "count": 1,
+      "median_wage_usd": 103500.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "HIDALGO",
+      "count": 1
+    },
+    {
+      "state": "MD",
+      "county": "BALTIMORE",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "county": "SOMERSET",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 2
+    },
+    {
+      "state": "AR",
+      "count": 2
+    },
+    {
+      "state": "MD",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Information Technology Project Managers",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 80000.0,
+    "gap_usd": -38000.0
+  }
+}

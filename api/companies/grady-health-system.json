@@ -1,0 +1,142 @@
+{
+  "slug": "grady-health-system",
+  "canonical_name": "Grady Health System",
+  "fein": "26-2037695",
+  "lca_filing_count": 6,
+  "warn_notice_count": 1,
+  "median_wage_usd": 128990.5,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 68078.0
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 123281.0
+    },
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 148873.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 134700.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Peoplesoft Developer",
+      "count": 2,
+      "median_wage_usd": 128990.5
+    },
+    {
+      "title": "Senior Business Intelligence Developer",
+      "count": 1,
+      "median_wage_usd": 148873.0
+    },
+    {
+      "title": "Data Analyst, Trauma Recovery Center",
+      "count": 1,
+      "median_wage_usd": 68078.0
+    },
+    {
+      "title": "Integration/Automation Engineer",
+      "count": 1,
+      "median_wage_usd": 154502.0
+    },
+    {
+      "title": "Licensed Respiratory Therapist",
+      "count": 1,
+      "median_wage_usd": 71341.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 6
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 5
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "04/14/2006",
+      "effective_date": "04/14/2006",
+      "state": "GA",
+      "workers": 30,
+      "city": "Atlanta"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 3,
+    "initial_denials": 0,
+    "continuing_approvals": 6,
+    "continuing_denials": 0,
+    "total_approvals": 9,
+    "by_fy": [
+      {
+        "fy": 2016,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 4
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 5
+      }
+    ]
+  },
+  "lca_worker_positions": 6,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 128990.5,
+    "gap_usd": -1169.5
+  }
+}

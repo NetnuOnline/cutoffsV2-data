@@ -1,0 +1,185 @@
+{
+  "slug": "morningstar",
+  "canonical_name": "Morningstar, Inc.",
+  "fein": "36-3297908",
+  "lca_filing_count": 83,
+  "lca_worker_positions": 81,
+  "warn_notice_count": 0,
+  "median_wage_usd": 108576.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 14,
+      "median_wage_usd": 91500.0
+    },
+    {
+      "fy": 2021,
+      "filings": 21,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 11,
+      "median_wage_usd": 122500.0
+    },
+    {
+      "fy": 2023,
+      "filings": 13,
+      "median_wage_usd": 95850.0
+    },
+    {
+      "fy": 2024,
+      "filings": 13,
+      "median_wage_usd": 136500.0
+    },
+    {
+      "fy": 2025,
+      "filings": 6,
+      "median_wage_usd": 129665.0
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 156000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 11,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 8,
+      "median_wage_usd": 120750.0
+    },
+    {
+      "title": "Lead Software Engineer",
+      "count": 6,
+      "median_wage_usd": 130250.0
+    },
+    {
+      "title": "Product Manager",
+      "count": 4,
+      "median_wage_usd": 89500.0
+    },
+    {
+      "title": "Financial Product Specialist",
+      "count": 3,
+      "median_wage_usd": 66206.0
+    },
+    {
+      "title": "Associate Software Engineer",
+      "count": 3,
+      "median_wage_usd": 81744.0
+    },
+    {
+      "title": "Head of Technology",
+      "count": 3,
+      "median_wage_usd": 193125.0
+    },
+    {
+      "title": "Financial Product Specialist ",
+      "count": 3,
+      "median_wage_usd": 59925.0
+    },
+    {
+      "title": "Customer Success Manager",
+      "count": 2,
+      "median_wage_usd": 79502.5
+    },
+    {
+      "title": "Lead QA Automation Engineer",
+      "count": 2,
+      "median_wage_usd": 128325.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 66
+    },
+    {
+      "state": "MA",
+      "county": "WOBURN CITY",
+      "count": 2
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "SAN DIEGO",
+      "count": 1
+    },
+    {
+      "state": "KS",
+      "county": "JOHNSON",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "county": "ERIE",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "county": "SNOHOMISH",
+      "count": 1
+    },
+    {
+      "state": "IA",
+      "county": "WINNEBAGO",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 72
+    },
+    {
+      "state": "NY",
+      "count": 4
+    },
+    {
+      "state": "MA",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "IA",
+      "count": 1
+    },
+    {
+      "state": "KS",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 116915.0,
+    "gap_usd": -13245.0
+  }
+}

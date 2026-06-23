@@ -1,0 +1,80 @@
+{
+  "slug": "american-apparel",
+  "canonical_name": "American Apparel, LLC",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 6,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 3
+    },
+    {
+      "state": "AL",
+      "count": 3
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "11/07/2016",
+      "effective_date": "01/06/2017",
+      "state": "CA",
+      "workers": 959,
+      "city": "South Gate"
+    },
+    {
+      "date": "11/07/2016",
+      "effective_date": "01/06/2017",
+      "state": "CA",
+      "workers": 2166,
+      "city": "Los Angeles"
+    },
+    {
+      "date": "11/07/2016",
+      "effective_date": "01/06/2017",
+      "state": "CA",
+      "workers": 332,
+      "city": "Garden Grove"
+    },
+    {
+      "date": "09/25/2012",
+      "effective_date": "10/08/2012",
+      "state": "AL",
+      "workers": 250,
+      "city": "Selma"
+    },
+    {
+      "date": "01/09/2012",
+      "effective_date": "03/09/2012",
+      "state": "AL",
+      "workers": 181,
+      "city": "Fort Deposit"
+    },
+    {
+      "date": "11/10/1998",
+      "effective_date": "08/31/1998",
+      "state": "AL",
+      "workers": 91,
+      "city": "Brantley"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "central-alabama-works",
+      "name": "Central Alabama Works",
+      "state": "AL"
+    },
+    {
+      "slug": "los-angeles-county-wib",
+      "name": "Los Angeles County WIB",
+      "state": "CA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

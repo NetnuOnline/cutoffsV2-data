@@ -1,0 +1,81 @@
+{
+  "slug": "memphis-light-gas-and-water",
+  "canonical_name": "Memphis, Light, Gas and Water",
+  "fein": "62-6000362",
+  "lca_filing_count": 10,
+  "warn_notice_count": 0,
+  "median_wage_usd": 104083.2,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 103199.2
+    },
+    {
+      "fy": 2022,
+      "filings": 4,
+      "median_wage_usd": 101420.8
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 121114.24
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 129604.8
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 102148.8
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Computer Software Specialist 3 ",
+      "count": 4,
+      "median_wage_usd": 104083.2
+    },
+    {
+      "title": "Computer Software Specialist 3",
+      "count": 3,
+      "median_wage_usd": 102148.8
+    },
+    {
+      "title": "Business Systems Analyst 4",
+      "count": 2,
+      "median_wage_usd": 127691.20000000001
+    },
+    {
+      "title": "Pipeline Integrity Engineer 2",
+      "count": 1,
+      "median_wage_usd": 97739.2
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TN",
+      "county": "SHELBY",
+      "count": 10
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TN",
+      "count": 10
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 10,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 104624.0,
+    "gap_usd": -25536.0
+  }
+}

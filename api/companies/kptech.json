@@ -1,0 +1,97 @@
+{
+  "slug": "kptech",
+  "canonical_name": "KPTECH LLC",
+  "fein": null,
+  "lca_filing_count": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 81900.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 6,
+      "median_wage_usd": 81900.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Deployment Engineer",
+      "count": 1,
+      "median_wage_usd": 80475.0
+    },
+    {
+      "title": "SOFTWARE DEVELOPER",
+      "count": 1,
+      "median_wage_usd": 83325.0
+    },
+    {
+      "title": "System Administrator",
+      "count": 1,
+      "median_wage_usd": 64896.0
+    },
+    {
+      "title": "Software Programmer",
+      "count": 1,
+      "median_wage_usd": 65125.0
+    },
+    {
+      "title": "Devops Lead",
+      "count": 1,
+      "median_wage_usd": 97469.0
+    },
+    {
+      "title": "Sr System Administrator",
+      "count": 1,
+      "median_wage_usd": 86091.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "GA",
+      "county": "DEKALB",
+      "count": 5
+    },
+    {
+      "state": "WY",
+      "county": "SWEETWATER",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 5
+    },
+    {
+      "state": "WY",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 3,
+    "initial_denials": 0,
+    "continuing_approvals": 0,
+    "continuing_denials": 0,
+    "total_approvals": 3,
+    "by_fy": [
+      {
+        "fy": 2023,
+        "initial_approvals": 3,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      }
+    ]
+  },
+  "lca_worker_positions": 6,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1244",
+    "soc_title": "Network and Computer Systems Administrators",
+    "market_median_usd": 95000.0,
+    "employer_median_usd": 75493.5,
+    "gap_usd": -19506.5
+  }
+}

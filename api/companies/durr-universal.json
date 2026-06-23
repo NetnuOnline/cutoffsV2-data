@@ -1,0 +1,98 @@
+{
+  "slug": "durr-universal",
+  "canonical_name": "Durr Universal",
+  "fein": "20-5737683",
+  "lca_filing_count": 1,
+  "warn_notice_count": 1,
+  "median_wage_usd": 100255.14,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 100255.14
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Application Engineer",
+      "count": 1,
+      "median_wage_usd": 100255.14
+    }
+  ],
+  "top_states": [
+    {
+      "state": "WI",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "WI",
+      "county": "DANE",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "05/19/2021",
+      "effective_date": "08/31/2021",
+      "state": "WI",
+      "workers": 87,
+      "city": "Muscoda"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "southwest-wda",
+      "name": "Southwest WDA",
+      "state": "WI"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 3,
+    "continuing_denials": 0,
+    "total_approvals": 3,
+    "by_fy": [
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 1,
+  "top_socs": [],
+  "lca_periods": []
+}

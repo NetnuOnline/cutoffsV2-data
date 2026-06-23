@@ -1,0 +1,46 @@
+{
+  "slug": "alter-domus",
+  "canonical_name": "Alter Domus Inc.",
+  "fein": "32-0394877",
+  "lca_filing_count": 2,
+  "lca_worker_positions": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 149487.0,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 158974.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Manager 1, Software Engineering - Development",
+      "count": 2,
+      "median_wage_usd": 149487.0
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Information Technology Project Managers",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 158974.0,
+    "gap_usd": 40974.0
+  }
+}

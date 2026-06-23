@@ -1,0 +1,140 @@
+{
+  "slug": "wex",
+  "canonical_name": "WEX Inc.",
+  "fein": "01-0526993",
+  "lca_filing_count": 26,
+  "lca_worker_positions": 26,
+  "warn_notice_count": 0,
+  "median_wage_usd": 128998.5,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 4,
+      "median_wage_usd": 125500.0
+    },
+    {
+      "fy": 2021,
+      "filings": 4,
+      "median_wage_usd": 105500.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 102091.0
+    },
+    {
+      "fy": 2023,
+      "filings": 4,
+      "median_wage_usd": 161500.0
+    },
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 119000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 5,
+      "median_wage_usd": 158000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 4,
+      "median_wage_usd": 132500.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Development Engineer 4",
+      "count": 5,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "title": "Software Engineer (Applications) 3",
+      "count": 3,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "title": "Principal Data Solutions Lead",
+      "count": 2,
+      "median_wage_usd": 180000.0
+    },
+    {
+      "title": "Software Development Engineer 5",
+      "count": 2,
+      "median_wage_usd": 134500.0
+    },
+    {
+      "title": "Software Development Manager 4",
+      "count": 2,
+      "median_wage_usd": 158000.0
+    },
+    {
+      "title": "Software QA Engineer 4",
+      "count": 2,
+      "median_wage_usd": 116000.0
+    },
+    {
+      "title": "Director, Tax",
+      "count": 1,
+      "median_wage_usd": 159640.0
+    },
+    {
+      "title": "Senior Director, Data Lake Engineering",
+      "count": 1,
+      "median_wage_usd": 295000.0
+    },
+    {
+      "title": "Credit Analyst, Credit Risk Strategy and Analytics",
+      "count": 1,
+      "median_wage_usd": 131997.0
+    },
+    {
+      "title": "Principal Software Engineer",
+      "count": 1,
+      "median_wage_usd": 170000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "ME",
+      "county": "PORTLAND CITY",
+      "count": 10
+    },
+    {
+      "state": "UT",
+      "county": "WEBER",
+      "count": 4
+    },
+    {
+      "state": "ME",
+      "county": "SOUTH PORTLAND CITY",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "ME",
+      "count": 20
+    },
+    {
+      "state": "UT",
+      "count": 5
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 151500.0,
+    "gap_usd": 21340.0
+  }
+}

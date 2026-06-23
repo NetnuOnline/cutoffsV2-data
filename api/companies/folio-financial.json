@@ -1,0 +1,169 @@
+{
+  "slug": "folio-financial",
+  "canonical_name": "Folio Financial, Inc.",
+  "fein": "54-1966544",
+  "lca_filing_count": 13,
+  "warn_notice_count": 0,
+  "median_wage_usd": 125000.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 4,
+      "median_wage_usd": 161500.0
+    },
+    {
+      "fy": 2023,
+      "filings": 4,
+      "median_wage_usd": 123100.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 145500.0
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 100000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Associate",
+      "count": 3,
+      "median_wage_usd": 84200.0
+    },
+    {
+      "title": "Associate, Product Management",
+      "count": 3,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "title": "Vice President, Software Engineering",
+      "count": 2,
+      "median_wage_usd": 145500.0
+    },
+    {
+      "title": "Vice President ",
+      "count": 1,
+      "median_wage_usd": 162000.0
+    },
+    {
+      "title": "Vice President",
+      "count": 1,
+      "median_wage_usd": 162000.0
+    },
+    {
+      "title": "VICE PRESIDENT",
+      "count": 1,
+      "median_wage_usd": 198000.0
+    },
+    {
+      "title": "VICE PRESIDENT ",
+      "count": 1,
+      "median_wage_usd": 198000.0
+    },
+    {
+      "title": "ASSOCIATE",
+      "count": 1,
+      "median_wage_usd": 125000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "VA",
+      "county": "FAIRFAX",
+      "count": 6
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 2
+    },
+    {
+      "state": "VA",
+      "county": "FAIRFAX CITY",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 1
+    },
+    {
+      "state": "UT",
+      "county": "SALT LAKE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "VA",
+      "count": 7
+    },
+    {
+      "state": "TX",
+      "count": 3
+    },
+    {
+      "state": "NY",
+      "count": 2
+    },
+    {
+      "state": "UT",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 17,
+    "continuing_denials": 0,
+    "total_approvals": 18,
+    "by_fy": [
+      {
+        "fy": 2020,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 4,
+        "continuing_denials": 0,
+        "total_approvals": 5
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 9,
+        "continuing_denials": 0,
+        "total_approvals": 9
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 13,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Information Technology Project Managers",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 96600.0,
+    "gap_usd": -21400.0
+  }
+}

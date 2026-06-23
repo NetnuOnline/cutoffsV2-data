@@ -1,0 +1,48 @@
+{
+  "slug": "acme",
+  "canonical_name": "Acme Corporation",
+  "fein": null,
+  "lca_filing_count": 14,
+  "warn_notice_count": 1,
+  "median_wage_usd": 80000,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 0,
+      "median_wage_usd": null
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 0,
+      "median_wage_usd": null
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "02/07/2026",
+      "effective_date": "02/07/2026",
+      "state": "NJ",
+      "workers": 71,
+      "city": "Sussex"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "morris-sussex-warren-wib",
+      "name": "Morris-Sussex-Warren WIB",
+      "state": "NJ"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

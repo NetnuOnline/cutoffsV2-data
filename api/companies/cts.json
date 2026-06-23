@@ -1,0 +1,126 @@
+{
+  "slug": "cts",
+  "canonical_name": "CTS Corporation",
+  "fein": "35-0225010",
+  "lca_filing_count": 12,
+  "lca_worker_positions": 12,
+  "warn_notice_count": 0,
+  "median_wage_usd": 111587.96,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 3,
+      "median_wage_usd": 105000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 3,
+      "median_wage_usd": 160000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 104000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 113175.92
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 133715.66
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 152384.57,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 103000.0
+    },
+    {
+      "title": "SAP MM/WM Lead Consultant",
+      "count": 1,
+      "median_wage_usd": 164912.02
+    },
+    {
+      "title": "Senior Engineer",
+      "count": 1,
+      "median_wage_usd": 113175.92
+    },
+    {
+      "title": "Advanced Quality Engineer",
+      "count": 1,
+      "median_wage_usd": 91354.0
+    },
+    {
+      "title": "SAP Technical Lead",
+      "count": 1,
+      "median_wage_usd": 139857.12
+    },
+    {
+      "title": "Functional Safety Manager",
+      "count": 1,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "Lead Design Engineer",
+      "count": 1,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "title": "Lead Software Engineer",
+      "count": 1,
+      "median_wage_usd": 105000.0
+    },
+    {
+      "title": "Engineering Manager",
+      "count": 1,
+      "median_wage_usd": 133715.66
+    },
+    {
+      "title": "Sr. Manager, (Software Development) Business Applications",
+      "count": 1,
+      "median_wage_usd": 160000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IL",
+      "county": "DUPAGE",
+      "count": 5
+    },
+    {
+      "state": "IN",
+      "county": "ELKHART",
+      "count": 4
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 7
+    },
+    {
+      "state": "IN",
+      "count": 5
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 149928.56,
+    "gap_usd": 19768.56
+  }
+}

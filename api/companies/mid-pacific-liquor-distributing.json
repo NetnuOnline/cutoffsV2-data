@@ -1,0 +1,99 @@
+{
+  "slug": "mid-pacific-liquor-distributing",
+  "canonical_name": "Mid-Pacific Liquor Distributing Corporation, Inc.",
+  "fein": "96-0000160",
+  "lca_filing_count": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 65114.54,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 64168.08
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 40518.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 66061.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 68245.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Financial Manager",
+      "count": 3,
+      "median_wage_usd": 66061.0
+    },
+    {
+      "title": "Accountant",
+      "count": 1,
+      "median_wage_usd": 40518.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "GU",
+      "county": "BARRIGADA",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "GU",
+      "count": 4
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 1,
+    "continuing_denials": 0,
+    "total_approvals": 1,
+    "by_fy": [
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3031",
+    "soc_title": "Financial Managers",
+    "market_median_usd": 156100.0,
+    "employer_median_usd": 66061.0,
+    "gap_usd": -90039.0
+  }
+}

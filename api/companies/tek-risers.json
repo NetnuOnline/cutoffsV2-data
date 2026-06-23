@@ -1,0 +1,55 @@
+{
+  "slug": "tek-risers",
+  "canonical_name": "TEK RISERS LLC",
+  "fein": "32-0677179",
+  "lca_filing_count": 2,
+  "lca_worker_positions": 1,
+  "warn_notice_count": 0,
+  "median_wage_usd": 100380.5,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 105227.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Site Reliability Engineer",
+      "count": 1,
+      "median_wage_usd": 105227.0
+    },
+    {
+      "title": "COGNOS DEVELOPER",
+      "count": 1,
+      "median_wage_usd": 95534.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "OH",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 105227.0,
+    "gap_usd": -24933.0
+  }
+}

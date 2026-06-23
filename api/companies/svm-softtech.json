@@ -1,0 +1,40 @@
+{
+  "slug": "svm-softtech",
+  "canonical_name": "SVM SoftTech Corporation",
+  "fein": "87-4025475",
+  "lca_filing_count": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 101970.0,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 4,
+      "median_wage_usd": 101970.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 4,
+      "median_wage_usd": 101970.0
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 4
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 101970.0,
+    "gap_usd": -28190.0
+  }
+}

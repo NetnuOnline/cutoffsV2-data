@@ -1,0 +1,87 @@
+{
+  "slug": "ethan-allen",
+  "canonical_name": "Ethan Allen",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 6,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "VT",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "count": 1
+    },
+    {
+      "state": "OK",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "06/15/2019",
+      "effective_date": "06/15/2019",
+      "state": "NJ",
+      "workers": 55,
+      "city": "Passaic"
+    },
+    {
+      "date": "04/17/2019",
+      "effective_date": "06/15/2019",
+      "state": "NC",
+      "workers": 325,
+      "city": "912 East Main Street, Old Fort"
+    },
+    {
+      "date": "06/24/2009",
+      "effective_date": "06/24/2009",
+      "state": "VT",
+      "workers": 238,
+      "city": "00 - Vermont Workforce Investment Area"
+    },
+    {
+      "date": "03/24/2009",
+      "effective_date": "03/24/2009",
+      "state": "VT",
+      "workers": 23,
+      "city": "00 - Vermont Workforce Investment Area"
+    },
+    {
+      "date": "09/06/2006",
+      "effective_date": "09/06/2006",
+      "state": "OK",
+      "workers": 176,
+      "city": "08 - SouthernRegion"
+    },
+    {
+      "date": "08/23/1990",
+      "effective_date": "10/01/1990",
+      "state": "IL",
+      "workers": 89,
+      "city": "Morrison"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "passaic-wib",
+      "name": "Passaic WIB",
+      "state": "NJ"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

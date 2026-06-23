@@ -1,0 +1,46 @@
+{
+  "slug": "louisville-jefferson-county-metro-government",
+  "canonical_name": "Louisville Jefferson County Metro Government",
+  "fein": null,
+  "lca_filing_count": 1,
+  "warn_notice_count": 0,
+  "median_wage_usd": 60195.2,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 60195.200000000004
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Health Data Scientist",
+      "count": 1,
+      "median_wage_usd": 60195.200000000004
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "KY",
+      "county": "JEFFERSON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "KY",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 1,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 60195.2,
+    "gap_usd": -47824.8
+  }
+}

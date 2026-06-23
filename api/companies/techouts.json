@@ -1,0 +1,196 @@
+{
+  "slug": "techouts",
+  "canonical_name": "Techouts, Inc.",
+  "fein": "46-4844228",
+  "lca_filing_count": 30,
+  "warn_notice_count": 0,
+  "median_wage_usd": 105250.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 98415.5
+    },
+    {
+      "fy": 2021,
+      "filings": 3,
+      "median_wage_usd": 98600.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 105850.0
+    },
+    {
+      "fy": 2023,
+      "filings": 10,
+      "median_wage_usd": 103975.0
+    },
+    {
+      "fy": 2024,
+      "filings": 5,
+      "median_wage_usd": 122700.0
+    },
+    {
+      "fy": 2025,
+      "filings": 8,
+      "median_wage_usd": 103050.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior AEM Developer",
+      "count": 2,
+      "median_wage_usd": 98355.0
+    },
+    {
+      "title": "Sr. Hybris Developer",
+      "count": 2,
+      "median_wage_usd": 110650.0
+    },
+    {
+      "title": "Technical Delivery Manager",
+      "count": 1,
+      "median_wage_usd": 118350.0
+    },
+    {
+      "title": "QA Lead",
+      "count": 1,
+      "median_wage_usd": 94100.0
+    },
+    {
+      "title": "Technical Business Analyst",
+      "count": 1,
+      "median_wage_usd": 95493.0
+    },
+    {
+      "title": "Senior Oracle Database Administrator",
+      "count": 1,
+      "median_wage_usd": 95040.0
+    },
+    {
+      "title": "Sr. Java Developer",
+      "count": 1,
+      "median_wage_usd": 106500.0
+    },
+    {
+      "title": "Java Developer",
+      "count": 1,
+      "median_wage_usd": 122800.0
+    },
+    {
+      "title": "Technical Project Manager",
+      "count": 1,
+      "median_wage_usd": 118350.0
+    },
+    {
+      "title": "Front End Developer",
+      "count": 1,
+      "median_wage_usd": 126100.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "VA",
+      "county": "FAIRFAX",
+      "count": 15
+    },
+    {
+      "state": "MD",
+      "county": "MONTGOMERY",
+      "count": 3
+    },
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "VA",
+      "count": 18
+    },
+    {
+      "state": "TX",
+      "count": 3
+    },
+    {
+      "state": "MD",
+      "count": 3
+    },
+    {
+      "state": "NY",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 30,
+    "initial_denials": 1,
+    "continuing_approvals": 6,
+    "continuing_denials": 0,
+    "total_approvals": 36,
+    "by_fy": [
+      {
+        "fy": 2020,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 10,
+        "initial_denials": 1,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 10
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 10,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 13
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 8,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 11
+      }
+    ]
+  },
+  "lca_worker_positions": 30,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 114100.0,
+    "gap_usd": -16060.0
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "slug": "dtex-systems",
+  "canonical_name": "Dtex Systems, Inc.",
+  "fein": "47-1847358",
+  "lca_filing_count": 8,
+  "lca_worker_positions": 7,
+  "warn_notice_count": 0,
+  "median_wage_usd": 151508.5,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 175000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 155000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 163920.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 163017.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Systems Software Engineer",
+      "count": 3,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "title": "Principal Systems Software Engineer",
+      "count": 1,
+      "median_wage_usd": 175000.0
+    },
+    {
+      "title": "Senior Platform Engineer",
+      "count": 1,
+      "median_wage_usd": 187840.0
+    },
+    {
+      "title": "Insider Threat Analyst",
+      "count": 1,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "title": "Software Engineer: User Interface",
+      "count": 1,
+      "median_wage_usd": 163017.0
+    },
+    {
+      "title": "Senior Engineering Manager",
+      "count": 1,
+      "median_wage_usd": 170000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 5
+    },
+    {
+      "state": "CA",
+      "county": "CONTRA COSTA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 8
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 151508.5,
+    "gap_usd": 21348.5
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "staffing-solutions-organization",
+  "canonical_name": "Staffing Solutions Organization LLC",
+  "fein": "82-1417798",
+  "lca_filing_count": 1,
+  "warn_notice_count": 1,
+  "median_wage_usd": 63398.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 63398.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Healthcare Data Analyst",
+      "count": 1,
+      "median_wage_usd": 63398.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "ALBANY",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "02/16/2023",
+      "effective_date": "05/05/2023",
+      "state": "NJ",
+      "workers": 58,
+      "city": "Albany, NY"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "lca_worker_positions": 1,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 63398.0,
+    "gap_usd": -44622.0
+  }
+}

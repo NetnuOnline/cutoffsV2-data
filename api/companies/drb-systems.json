@@ -1,0 +1,112 @@
+{
+  "slug": "drb-systems",
+  "canonical_name": "DRB Systems, LLC",
+  "fein": "34-1455539",
+  "lca_filing_count": 3,
+  "warn_notice_count": 1,
+  "median_wage_usd": 89877.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 143270.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 89877.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 79760.87
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Director Advanced Analytics",
+      "count": 1,
+      "median_wage_usd": 143270.0
+    },
+    {
+      "title": "Senior Data Analyst",
+      "count": 1,
+      "median_wage_usd": 89877.0
+    },
+    {
+      "title": "Quality Assurance Analyst II",
+      "count": 1,
+      "median_wage_usd": 79760.87
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "05/20/2026",
+      "effective_date": "07/27/2026",
+      "state": "MD",
+      "workers": 33,
+      "city": "Elkridge"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 2,
+    "continuing_denials": 0,
+    "total_approvals": 2,
+    "by_fy": [
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      }
+    ]
+  },
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1253",
+    "soc_title": "Software Quality Assurance Analysts and Testers",
+    "market_median_usd": 101800.0,
+    "employer_median_usd": 79760.87,
+    "gap_usd": -22039.13
+  }
+}

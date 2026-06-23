@@ -1,0 +1,203 @@
+{
+  "slug": "n2-services",
+  "canonical_name": "N2 Services, Inc.",
+  "fein": "20-1456545",
+  "lca_filing_count": 32,
+  "lca_worker_positions": 31,
+  "warn_notice_count": 0,
+  "median_wage_usd": 104500.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 4,
+      "median_wage_usd": 105000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 6,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 5,
+      "median_wage_usd": 93912.0
+    },
+    {
+      "fy": 2023,
+      "filings": 5,
+      "median_wage_usd": 84000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 87443.0
+    },
+    {
+      "fy": 2025,
+      "filings": 4,
+      "median_wage_usd": 114015.5
+    },
+    {
+      "fy": 2026,
+      "filings": 4,
+      "median_wage_usd": 120985.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Java Developer",
+      "count": 4,
+      "median_wage_usd": 102377.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 4,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "Senior Java Developer",
+      "count": 3,
+      "median_wage_usd": 84000.0
+    },
+    {
+      "title": "Sr. Java Developer",
+      "count": 2,
+      "median_wage_usd": 117759.0
+    },
+    {
+      "title": "Business Analyst",
+      "count": 1,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "title": "Business Intelligence Developer",
+      "count": 1,
+      "median_wage_usd": 102000.0
+    },
+    {
+      "title": "Data Scientist",
+      "count": 1,
+      "median_wage_usd": 84000.0
+    },
+    {
+      "title": "Oracle Business Intelligence Sr. Developer",
+      "count": 1,
+      "median_wage_usd": 84000.0
+    },
+    {
+      "title": "QA Testing Engineer",
+      "count": 1,
+      "median_wage_usd": 113277.0
+    },
+    {
+      "title": "Lead Informatica Developer",
+      "count": 1,
+      "median_wage_usd": 93912.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "FL",
+      "county": "DUVAL",
+      "count": 8
+    },
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 2
+    },
+    {
+      "state": "FL",
+      "county": "LEON",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "county": "WAKE",
+      "count": 1
+    },
+    {
+      "state": "WV",
+      "county": "KANAWHA",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "county": "PINELLAS",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "county": "OAKLAND",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "county": "KINGS",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "FL",
+      "count": 10
+    },
+    {
+      "state": "TX",
+      "count": 7
+    },
+    {
+      "state": "CA",
+      "count": 4
+    },
+    {
+      "state": "PA",
+      "count": 2
+    },
+    {
+      "state": "MI",
+      "count": 2
+    },
+    {
+      "state": "NY",
+      "count": 2
+    },
+    {
+      "state": "OH",
+      "count": 2
+    },
+    {
+      "state": "WA",
+      "count": 1
+    },
+    {
+      "state": "WV",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 96000.0,
+    "gap_usd": -34160.0
+  }
+}

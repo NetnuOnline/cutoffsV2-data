@@ -1,0 +1,86 @@
+{
+  "slug": "sunstrong-management",
+  "canonical_name": "SunStrong Management, LLC",
+  "fein": "99-4606253",
+  "lca_filing_count": 8,
+  "lca_worker_positions": 8,
+  "warn_notice_count": 0,
+  "median_wage_usd": 84094.0,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 7,
+      "median_wage_usd": 84094.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 67517.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Associate Salesforce Developer",
+      "count": 3,
+      "median_wage_usd": 84094.0
+    },
+    {
+      "title": "Research Analyst I",
+      "count": 1,
+      "median_wage_usd": 83430.0
+    },
+    {
+      "title": "Senior DevOps Engineer",
+      "count": 1,
+      "median_wage_usd": 155709.0
+    },
+    {
+      "title": "Manager, Test Engineering",
+      "count": 1,
+      "median_wage_usd": 163363.0
+    },
+    {
+      "title": "DevOps Engineer",
+      "count": 1,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Reporting Specialist, Risk",
+      "count": 1,
+      "median_wage_usd": 67517.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 7
+    },
+    {
+      "state": "NY",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 84094.0,
+    "gap_usd": -46066.0
+  }
+}

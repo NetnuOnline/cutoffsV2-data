@@ -1,0 +1,66 @@
+{
+  "slug": "summit-medical-group",
+  "canonical_name": "Summit Medical Group",
+  "fein": "61-1300608",
+  "lca_filing_count": 2,
+  "warn_notice_count": 1,
+  "median_wage_usd": 325000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 400000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 250000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Physician (Bariatric Surgeon)",
+      "count": 1,
+      "median_wage_usd": 400000.0
+    },
+    {
+      "title": "Physician (Hospitalist)",
+      "count": 1,
+      "median_wage_usd": 250000.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "KY",
+      "count": 2
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "KY",
+      "county": "KENTON",
+      "count": 1
+    },
+    {
+      "state": "KY",
+      "county": "BOONE",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "06/09/2012",
+      "effective_date": "06/09/2012",
+      "state": "NJ",
+      "workers": 7,
+      "city": "Berkeley Heights"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": []
+}

@@ -1,0 +1,61 @@
+{
+  "slug": "national-fire-protection-association",
+  "canonical_name": "National Fire Protection Association",
+  "fein": "04-1653090",
+  "lca_filing_count": 2,
+  "lca_worker_positions": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 100240.28,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 93392.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 107088.56,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Business Systems Analyst",
+      "count": 1,
+      "median_wage_usd": 93392.0
+    },
+    {
+      "title": "Digital Analytics Manager",
+      "count": 1,
+      "median_wage_usd": 107088.56
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MA",
+      "county": "QUINCY CITY",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "FL",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Business Intelligence Analysts",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 107088.56,
+    "gap_usd": -931.44
+  }
+}

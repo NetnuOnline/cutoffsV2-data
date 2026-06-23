@@ -1,0 +1,43 @@
+{
+  "slug": "mpc",
+  "canonical_name": "MPC",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "SD",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "01/02/2009",
+      "effective_date": "01/02/2009",
+      "state": "SD",
+      "workers": 45,
+      "city": "North Sioux City"
+    },
+    {
+      "date": "11/05/2008",
+      "effective_date": "11/05/2008",
+      "state": "SD",
+      "workers": 89,
+      "city": "North Sioux City"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "east-area-wib",
+      "name": "East Area WIB",
+      "state": "SD"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "cresco-labs",
+  "canonical_name": "Cresco Labs",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "03/15/2023",
+      "effective_date": "05/15/2023",
+      "state": "CA",
+      "workers": 44,
+      "city": "West Sacramento"
+    },
+    {
+      "date": "03/15/2023",
+      "effective_date": "05/15/2023",
+      "state": "CA",
+      "workers": 1,
+      "city": "Chicago"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "ncc-north-central-counties-consortium-wib",
+      "name": "NCC (North Central Counties Consortium) WIB",
+      "state": "CA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "coris",
+  "canonical_name": "Coris, Inc.",
+  "fein": null,
+  "lca_filing_count": 1,
+  "warn_notice_count": 1,
+  "median_wage_usd": 170000.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 170000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 170000.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "09/20/1996",
+      "effective_date": "09/20/1996",
+      "state": "IL",
+      "workers": 0,
+      "city": "Hinsdale"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "lca_worker_positions": 1,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 170000.0,
+    "gap_usd": 39840.0
+  }
+}

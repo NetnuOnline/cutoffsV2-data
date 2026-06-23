@@ -1,0 +1,203 @@
+{
+  "slug": "rbus",
+  "canonical_name": "RBUS, Inc.",
+  "fein": "56-2228076",
+  "lca_filing_count": 50,
+  "lca_worker_positions": 48,
+  "warn_notice_count": 0,
+  "median_wage_usd": 121306.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 90584.0
+    },
+    {
+      "fy": 2021,
+      "filings": 9,
+      "median_wage_usd": 107474.0
+    },
+    {
+      "fy": 2022,
+      "filings": 10,
+      "median_wage_usd": 104021.0
+    },
+    {
+      "fy": 2023,
+      "filings": 8,
+      "median_wage_usd": 128502.0
+    },
+    {
+      "fy": 2024,
+      "filings": 11,
+      "median_wage_usd": 117042.0
+    },
+    {
+      "fy": 2025,
+      "filings": 6,
+      "median_wage_usd": 142542.5
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 134347.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Data Engineer",
+      "count": 9,
+      "median_wage_usd": 107474.0
+    },
+    {
+      "title": "Data Engineer",
+      "count": 8,
+      "median_wage_usd": 102534.0
+    },
+    {
+      "title": "Data Engineering Manager",
+      "count": 3,
+      "median_wage_usd": 134368.0
+    },
+    {
+      "title": "Senior Statistical Data Scientist",
+      "count": 2,
+      "median_wage_usd": 131144.0
+    },
+    {
+      "title": "Director of Data Engineering",
+      "count": 2,
+      "median_wage_usd": 127566.0
+    },
+    {
+      "title": "Editor II",
+      "count": 2,
+      "median_wage_usd": 83387.0
+    },
+    {
+      "title": "Analytics Engineer",
+      "count": 2,
+      "median_wage_usd": 105009.0
+    },
+    {
+      "title": "Management Analysis Director",
+      "count": 2,
+      "median_wage_usd": 115585.5
+    },
+    {
+      "title": "Senior Data Scientist",
+      "count": 2,
+      "median_wage_usd": 138476.0
+    },
+    {
+      "title": "Director of Data Science",
+      "count": 2,
+      "median_wage_usd": 146390.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "SC",
+      "county": "LANCASTER",
+      "count": 23
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 6
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 3
+    },
+    {
+      "state": "DE",
+      "county": "NEW CASTLE",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 2
+    },
+    {
+      "state": "MI",
+      "county": "WASHTENAW",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "county": "PIERCE",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "TARRANT",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "county": "MECKLENBURG",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "SC",
+      "count": 29
+    },
+    {
+      "state": "NY",
+      "count": 6
+    },
+    {
+      "state": "GA",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "count": 3
+    },
+    {
+      "state": "DE",
+      "count": 2
+    },
+    {
+      "state": "NC",
+      "count": 1
+    },
+    {
+      "state": "KS",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 134347.0,
+    "gap_usd": 4187.0
+  }
+}

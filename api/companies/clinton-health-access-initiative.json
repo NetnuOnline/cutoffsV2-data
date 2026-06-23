@@ -1,0 +1,102 @@
+{
+  "slug": "clinton-health-access-initiative",
+  "canonical_name": "Clinton Health Access Initiative, Inc.",
+  "fein": null,
+  "lca_filing_count": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 133195.01,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 117095.0
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 165332.04
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 142945.01
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Director, Finance and Operations and Global Treasury",
+      "count": 1,
+      "median_wage_usd": 142945.01
+    },
+    {
+      "title": "International Controller ",
+      "count": 1,
+      "median_wage_usd": 165332.04
+    },
+    {
+      "title": "Director, Finance and Operations, Cervical Cancer and Global",
+      "count": 1,
+      "median_wage_usd": 123445.0
+    },
+    {
+      "title": "Senior Technical Advisor, Health Information, Malaria Surve ",
+      "count": 1,
+      "median_wage_usd": 110745.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MA",
+      "county": "BOSTON CITY",
+      "count": 2
+    },
+    {
+      "state": "MA",
+      "county": "QUINCY CITY",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MA",
+      "count": 3
+    },
+    {
+      "state": "NY",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 3,
+    "continuing_denials": 0,
+    "total_approvals": 3,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      }
+    ]
+  },
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3031",
+    "soc_title": "Financial Managers",
+    "market_median_usd": 156100.0,
+    "employer_median_usd": 133195.01,
+    "gap_usd": -22904.99
+  }
+}

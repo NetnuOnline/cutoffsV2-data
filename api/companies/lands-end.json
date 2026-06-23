@@ -1,0 +1,117 @@
+{
+  "slug": "lands-end",
+  "canonical_name": "Lands' End, Inc.",
+  "fein": "36-2512786",
+  "lca_filing_count": 13,
+  "lca_worker_positions": 12,
+  "warn_notice_count": 0,
+  "median_wage_usd": 117730.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 94565.85
+    },
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 114468.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 95946.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 111500.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 135013.0
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 130894.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 130894.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Applications Engineer",
+      "count": 4,
+      "median_wage_usd": 130894.0
+    },
+    {
+      "title": "Business Analyst",
+      "count": 2,
+      "median_wage_usd": 71892.0
+    },
+    {
+      "title": "Data Architect",
+      "count": 1,
+      "median_wage_usd": 94565.85
+    },
+    {
+      "title": "DevOps Engineer",
+      "count": 1,
+      "median_wage_usd": 113558.0
+    },
+    {
+      "title": "Senior Data Warehouse Engineer",
+      "count": 1,
+      "median_wage_usd": 135013.0
+    },
+    {
+      "title": "Direct Marketing Modeling Manager",
+      "count": 1,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "Data Engineer ",
+      "count": 1,
+      "median_wage_usd": 103000.0
+    },
+    {
+      "title": "Data Engineer",
+      "count": 1,
+      "median_wage_usd": 115378.0
+    },
+    {
+      "title": " Applications Engineer",
+      "count": 1,
+      "median_wage_usd": 120000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "WI",
+      "county": "IOWA",
+      "count": 10
+    }
+  ],
+  "top_states": [
+    {
+      "state": "WI",
+      "count": 13
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 130894.0,
+    "gap_usd": 734.0
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "slug": "matrixcare",
+  "canonical_name": "Matrixcare, Inc.",
+  "fein": "20-3250260",
+  "lca_filing_count": 16,
+  "lca_worker_positions": 16,
+  "warn_notice_count": 0,
+  "median_wage_usd": 99000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 72800.0
+    },
+    {
+      "fy": 2021,
+      "filings": 3,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 3,
+      "median_wage_usd": 97445.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 129376.0
+    },
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 95000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 122000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 104500.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer, Quality Assurance",
+      "count": 5,
+      "median_wage_usd": 97445.0
+    },
+    {
+      "title": "Senior Engineer, Software Engineering",
+      "count": 2,
+      "median_wage_usd": 133750.0
+    },
+    {
+      "title": "Senior Database Administrator",
+      "count": 2,
+      "median_wage_usd": 126293.95999999999
+    },
+    {
+      "title": "Software Engineer",
+      "count": 2,
+      "median_wage_usd": 91380.0
+    },
+    {
+      "title": "Quality Assurance Team Lead",
+      "count": 1,
+      "median_wage_usd": 112000.0
+    },
+    {
+      "title": "Conversions and Provisioning, Team Lead",
+      "count": 1,
+      "median_wage_usd": 84386.0
+    },
+    {
+      "title": "QA Software Engineer",
+      "count": 1,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "title": "Senior Business Analyst",
+      "count": 1,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "Associate Software Engineer",
+      "count": 1,
+      "median_wage_usd": 72800.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NC",
+      "county": "WAKE",
+      "count": 5
+    },
+    {
+      "state": "MN",
+      "county": "HENNEPIN",
+      "count": 5
+    },
+    {
+      "state": "FL",
+      "county": "BROWARD",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MN",
+      "count": 8
+    },
+    {
+      "state": "NC",
+      "count": 6
+    },
+    {
+      "state": "FL",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1253",
+    "soc_title": "Software Quality Assurance Analysts and Testers",
+    "market_median_usd": 101800.0,
+    "employer_median_usd": 97445.0,
+    "gap_usd": -4355.0
+  }
+}

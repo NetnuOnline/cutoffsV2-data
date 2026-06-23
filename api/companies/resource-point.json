@@ -1,0 +1,169 @@
+{
+  "slug": "resource-point",
+  "canonical_name": "RESOURCE POINT, LLC",
+  "fein": "37-1433288",
+  "lca_filing_count": 25,
+  "lca_worker_positions": 25,
+  "warn_notice_count": 0,
+  "median_wage_usd": 90022.4,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 3,
+      "median_wage_usd": 85488.0
+    },
+    {
+      "fy": 2021,
+      "filings": 4,
+      "median_wage_usd": 105820.0
+    },
+    {
+      "fy": 2022,
+      "filings": 5,
+      "median_wage_usd": 85841.6
+    },
+    {
+      "fy": 2023,
+      "filings": 4,
+      "median_wage_usd": 91717.6
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 97406.40000000001
+    },
+    {
+      "fy": 2025,
+      "filings": 5,
+      "median_wage_usd": 102190.40000000001
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 88940.8,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 20,
+      "median_wage_usd": 91104.0
+    },
+    {
+      "title": "Database Administrator",
+      "count": 3,
+      "median_wage_usd": 90022.40000000001
+    },
+    {
+      "title": "Software  Developer",
+      "count": 1,
+      "median_wage_usd": 105227.20000000001
+    },
+    {
+      "title": "Computer Systems Analyst",
+      "count": 1,
+      "median_wage_usd": 89814.4
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NC",
+      "county": "MECKLENBURG",
+      "count": 3
+    },
+    {
+      "state": "MI",
+      "county": "WAYNE",
+      "count": 3
+    },
+    {
+      "state": "MI",
+      "county": "OAKLAND",
+      "count": 3
+    },
+    {
+      "state": "WA",
+      "county": "SNOHOMISH",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "county": "MORRIS",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "county": "GWINNETT",
+      "count": 1
+    },
+    {
+      "state": "MN",
+      "county": "HENNEPIN",
+      "count": 1
+    },
+    {
+      "state": "SC",
+      "county": "LEXINGTON",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 1
+    },
+    {
+      "state": "MN",
+      "county": "RAMSEY",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MI",
+      "count": 9
+    },
+    {
+      "state": "SC",
+      "count": 4
+    },
+    {
+      "state": "NC",
+      "count": 3
+    },
+    {
+      "state": "WA",
+      "count": 2
+    },
+    {
+      "state": "GA",
+      "count": 2
+    },
+    {
+      "state": "MN",
+      "count": 2
+    },
+    {
+      "state": "MO",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 94369.6,
+    "gap_usd": -35790.4
+  }
+}

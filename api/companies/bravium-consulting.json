@@ -1,0 +1,67 @@
+{
+  "slug": "bravium-consulting",
+  "canonical_name": "Bravium Consulting, Inc.",
+  "fein": "27-3056265",
+  "lca_filing_count": 3,
+  "lca_worker_positions": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 106590.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 96000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 106590.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 128943.36,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Business Analyst (Computer System Analyst)",
+      "count": 1,
+      "median_wage_usd": 106590.0
+    },
+    {
+      "title": "Project Manager",
+      "count": 1,
+      "median_wage_usd": 128943.36
+    },
+    {
+      "title": "Business Analyst",
+      "count": 1,
+      "median_wage_usd": 96000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MD",
+      "county": "MONTGOMERY",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MD",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Computer Occupations, All Other",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 128943.36,
+    "gap_usd": 10943.36
+  }
+}

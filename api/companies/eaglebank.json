@@ -1,0 +1,51 @@
+{
+  "slug": "eaglebank",
+  "canonical_name": "EagleBank",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 1,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "MD",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "02/15/2023",
+      "effective_date": "04/07/2023",
+      "state": "MD",
+      "workers": 36,
+      "city": "Rockville"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2021-05-26",
+        "formType": "8-K",
+        "accessionNumber": "0001104659-21-072276",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001050441&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 1,
+    "itemCounts": {
+      "5.02": 1
+    },
+    "latestFilingDate": "2021-05-26",
+    "earliestFilingDate": "2021-05-26"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

@@ -1,0 +1,154 @@
+{
+  "slug": "datasite",
+  "canonical_name": "Datasite LLC",
+  "fein": "41-2007271",
+  "lca_filing_count": 19,
+  "lca_worker_positions": 19,
+  "warn_notice_count": 0,
+  "median_wage_usd": 120000.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 5,
+      "median_wage_usd": 93974.0
+    },
+    {
+      "fy": 2022,
+      "filings": 4,
+      "median_wage_usd": 121661.5
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 129480.0
+    },
+    {
+      "fy": 2024,
+      "filings": 4,
+      "median_wage_usd": 123831.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 137654.5
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 142376.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer II",
+      "count": 4,
+      "median_wage_usd": 127764.0
+    },
+    {
+      "title": "Senior Software Engineer I",
+      "count": 2,
+      "median_wage_usd": 110368.0
+    },
+    {
+      "title": "Application Developer, Principal",
+      "count": 2,
+      "median_wage_usd": 149781.0
+    },
+    {
+      "title": "Software Engineering Manager \u2013 Quality Assurance",
+      "count": 2,
+      "median_wage_usd": 121822.5
+    },
+    {
+      "title": "Senior Software Engineer ",
+      "count": 1,
+      "median_wage_usd": 123323.0
+    },
+    {
+      "title": "Server Engineer, Senior",
+      "count": 1,
+      "median_wage_usd": 134971.0
+    },
+    {
+      "title": "Software Engineer \u2013 Quality Assurance",
+      "count": 1,
+      "median_wage_usd": 93974.0
+    },
+    {
+      "title": "UI Full Stack Engineer (Software Engineer II) ",
+      "count": 1,
+      "median_wage_usd": 109054.0
+    },
+    {
+      "title": "Software Engineer II - Quality Assurance",
+      "count": 1,
+      "median_wage_usd": 93974.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 1,
+      "median_wage_usd": 151986.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MN",
+      "county": "HENNEPIN",
+      "count": 10
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "county": "MIDDLESEX",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "county": "MECKLENBURG",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "county": "WAKE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MN",
+      "count": 10
+    },
+    {
+      "state": "TX",
+      "count": 4
+    },
+    {
+      "state": "NJ",
+      "count": 3
+    },
+    {
+      "state": "NC",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1253",
+    "soc_title": "Software Quality Assurance Analysts and Testers",
+    "market_median_usd": 101800.0,
+    "employer_median_usd": 127764.0,
+    "gap_usd": 25964.0
+  }
+}

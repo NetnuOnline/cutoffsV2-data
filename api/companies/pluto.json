@@ -1,0 +1,157 @@
+{
+  "slug": "pluto",
+  "canonical_name": "Pluto, Inc.",
+  "fein": "90-0958984",
+  "lca_filing_count": 27,
+  "lca_worker_positions": 27,
+  "warn_notice_count": 0,
+  "median_wage_usd": 150000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 3,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 7,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 4,
+      "median_wage_usd": 178825.0
+    },
+    {
+      "fy": 2023,
+      "filings": 5,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 119054.5
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 171400.0
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 130000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Lead Software Engineer",
+      "count": 2,
+      "median_wage_usd": 163514.5
+    },
+    {
+      "title": "Senior Data Engineer",
+      "count": 1,
+      "median_wage_usd": 155709.0
+    },
+    {
+      "title": "Sr. SQL Developer",
+      "count": 1,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "title": "Senior Product Designer",
+      "count": 1,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "Sr. Software Test Engineer",
+      "count": 1,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Engineering Manager",
+      "count": 1,
+      "median_wage_usd": 177650.0
+    },
+    {
+      "title": "SENIOR SOFTWARE ENGINEER, FRONTEND",
+      "count": 1,
+      "median_wage_usd": 180000.0
+    },
+    {
+      "title": "Product Manager, Insights and Performance",
+      "count": 1,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "title": "Engineering Manager, Backend",
+      "count": 1,
+      "median_wage_usd": 190000.0
+    },
+    {
+      "title": "Principal Product Manager, Ad Delivery & Yield",
+      "count": 1,
+      "median_wage_usd": 180000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 17
+    },
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 2
+    },
+    {
+      "state": "UT",
+      "county": "UTAH",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 21
+    },
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "AZ",
+      "count": 1
+    },
+    {
+      "state": "CO",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "count": 1
+    },
+    {
+      "state": "UT",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3021",
+    "soc_title": "Computer and Information Systems Managers",
+    "market_median_usd": 169510.0,
+    "employer_median_usd": 195000.0,
+    "gap_usd": 25490.0
+  }
+}

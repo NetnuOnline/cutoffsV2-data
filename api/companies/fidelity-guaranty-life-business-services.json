@@ -1,0 +1,132 @@
+{
+  "slug": "fidelity-guaranty-life-business-services",
+  "canonical_name": "Fidelity & Guaranty Life Business Services, Inc.",
+  "fein": "43-1914674",
+  "lca_filing_count": 5,
+  "warn_notice_count": 2,
+  "median_wage_usd": 103378.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 104705.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 92000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 113433.5
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Sr. Annuity Reinsurance Admin Analyst",
+      "count": 1,
+      "median_wage_usd": 92000.0
+    },
+    {
+      "title": "SR. DATA ANALYST",
+      "count": 1,
+      "median_wage_usd": 123489.0
+    },
+    {
+      "title": "Associate Actuary",
+      "count": 1,
+      "median_wage_usd": 139410.0
+    },
+    {
+      "title": "Actuarial Assistant",
+      "count": 1,
+      "median_wage_usd": 70000.0
+    },
+    {
+      "title": "ACTUARIAL ASSOCIATE",
+      "count": 1,
+      "median_wage_usd": 103378.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IA",
+      "count": 3
+    },
+    {
+      "state": "IL",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IA",
+      "county": "POLK",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "05/27/2025",
+      "effective_date": "06/02/2025",
+      "state": "IA",
+      "workers": 103,
+      "city": "Des Moines"
+    },
+    {
+      "date": "12/01/2020",
+      "effective_date": "02/01/2021",
+      "state": "MD",
+      "workers": 37,
+      "city": "Baltimore"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "region-11-des-moines-wib",
+      "name": "Region 11 - Des Moines WIB",
+      "state": "IA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 7,
+    "continuing_denials": 0,
+    "total_approvals": 8,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 5,
+        "continuing_denials": 0,
+        "total_approvals": 6
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      }
+    ]
+  },
+  "lca_worker_positions": 5,
+  "top_socs": [],
+  "lca_periods": []
+}

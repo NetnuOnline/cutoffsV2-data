@@ -1,0 +1,82 @@
+{
+  "slug": "charles-schwab-corporation",
+  "canonical_name": "Charles Schwab & Company, Inc.",
+  "fein": null,
+  "lca_filing_count": 217,
+  "warn_notice_count": 4,
+  "median_wage_usd": 158608,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 0,
+      "median_wage_usd": null
+    },
+    {
+      "fy": 2026,
+      "filings": 0,
+      "median_wage_usd": null
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Manager, Software Development & Engineering",
+      "count": 0,
+      "median_wage_usd": null
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "11/08/2023",
+      "effective_date": "02/05/2024",
+      "state": "NJ",
+      "workers": 109,
+      "city": "Jersey City"
+    },
+    {
+      "date": "11/01/2004",
+      "effective_date": "11/01/2004",
+      "state": "NJ",
+      "workers": 131,
+      "city": "JERSEY CITY"
+    },
+    {
+      "date": "08/13/2002",
+      "effective_date": "08/16/2002",
+      "state": "TX",
+      "workers": 302,
+      "city": "Austin"
+    },
+    {
+      "date": "04/18/1989",
+      "effective_date": "06/01/1989",
+      "state": "IL",
+      "workers": 87,
+      "city": "Chicago"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "hudson-jersey-city-wib",
+      "name": "Hudson-Jersey City WIB",
+      "state": "NJ"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

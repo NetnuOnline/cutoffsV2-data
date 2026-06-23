@@ -1,0 +1,141 @@
+{
+  "slug": "firstnet-global",
+  "canonical_name": "FIRSTNET GLOBAL LLC",
+  "fein": "92-2642470",
+  "lca_filing_count": 29,
+  "lca_worker_positions": 29,
+  "warn_notice_count": 0,
+  "median_wage_usd": 92580.8,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 110364.8
+    },
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 83657.59999999999
+    },
+    {
+      "fy": 2025,
+      "filings": 16,
+      "median_wage_usd": 92580.8
+    },
+    {
+      "fy": 2026,
+      "filings": 9,
+      "median_wage_usd": 92580.8,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SOFTWARE DEVELOPER",
+      "count": 7,
+      "median_wage_usd": 101192.0
+    },
+    {
+      "title": "Java Developer",
+      "count": 5,
+      "median_wage_usd": 92580.8
+    },
+    {
+      "title": "AI/ML Engineer",
+      "count": 3,
+      "median_wage_usd": 92580.8
+    },
+    {
+      "title": "Systems Engineer",
+      "count": 2,
+      "median_wage_usd": 92580.8
+    },
+    {
+      "title": "Software Developer",
+      "count": 2,
+      "median_wage_usd": 99195.20000000001
+    },
+    {
+      "title": "SENIOR CLOUD ENGINEER",
+      "count": 2,
+      "median_wage_usd": 83657.59999999999
+    },
+    {
+      "title": "INFRASTRUCTURE  ENGINEER",
+      "count": 1,
+      "median_wage_usd": 83657.59999999999
+    },
+    {
+      "title": "JAVA DEVELOPER",
+      "count": 1,
+      "median_wage_usd": 92580.8
+    },
+    {
+      "title": "Cloud Security Engineer",
+      "count": 1,
+      "median_wage_usd": 92580.8
+    },
+    {
+      "title": "Infrastructure Systems Consultant",
+      "count": 1,
+      "median_wage_usd": 82284.8
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 6
+    },
+    {
+      "state": "MO",
+      "county": "ST LOUIS",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "county": "DURHAM",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 22
+    },
+    {
+      "state": "CA",
+      "count": 2
+    },
+    {
+      "state": "OH",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "count": 1
+    },
+    {
+      "state": "MO",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "count": 1
+    },
+    {
+      "state": "MD",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Computer Occupations, All Other",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 92580.8,
+    "gap_usd": -25419.2
+  }
+}

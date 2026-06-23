@@ -1,0 +1,122 @@
+{
+  "slug": "general-cable",
+  "canonical_name": "General Cable",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 5,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 3
+    },
+    {
+      "state": "IL",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "02/05/2013",
+      "effective_date": "04/01/2013",
+      "state": "IL",
+      "workers": 65,
+      "city": "Des Plaines"
+    },
+    {
+      "date": "08/19/2005",
+      "effective_date": "10/22/2005",
+      "state": "TX",
+      "workers": 36,
+      "city": "Bonham"
+    },
+    {
+      "date": "08/03/2005",
+      "effective_date": "10/04/2005",
+      "state": "TX",
+      "workers": 14,
+      "city": "Bonham"
+    },
+    {
+      "date": "06/27/2005",
+      "effective_date": "08/29/2005",
+      "state": "TX",
+      "workers": 139,
+      "city": "Bonham"
+    },
+    {
+      "date": "06/14/2002",
+      "effective_date": "04/01/2002",
+      "state": "IL",
+      "workers": 30,
+      "city": "Monticello"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "texoma-wda",
+      "name": "Texoma WDA",
+      "state": "TX"
+    }
+  ],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2008-04-07",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-08-076419",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001094831&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 1,
+    "itemCounts": {
+      "5.02": 1
+    },
+    "latestFilingDate": "2008-04-07",
+    "earliestFilingDate": "2008-04-07"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 2,
+    "initial_denials": 0,
+    "continuing_approvals": 0,
+    "continuing_denials": 1,
+    "total_approvals": 2,
+    "by_fy": [
+      {
+        "fy": 2009,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 1,
+        "total_approvals": 0
+      }
+    ]
+  }
+}

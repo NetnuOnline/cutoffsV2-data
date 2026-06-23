@@ -1,0 +1,124 @@
+{
+  "slug": "first-interstate-financial-corp",
+  "canonical_name": "FIRST INTERSTATE FINANCIAL CORP",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 1,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "04/30/2010",
+      "effective_date": "04/30/2010",
+      "state": "NJ",
+      "workers": 170,
+      "city": "SHREWSBURY"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2025-01-10",
+        "formType": "8-K",
+        "accessionNumber": "0000860413-25-000003",
+        "items": [
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000860413&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2021-08-23",
+        "formType": "8-K/A",
+        "accessionNumber": "0000860413-21-000202",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000860413&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2011-04-29",
+        "formType": "8-K",
+        "accessionNumber": "0000950123-11-042082",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000860413&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2009-05-18",
+        "formType": "8-K",
+        "accessionNumber": "0000950152-09-005375",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000860413&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2006-11-22",
+        "formType": "8-K",
+        "accessionNumber": "0000950137-06-012758",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000860413&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2006-05-08",
+        "formType": "8-K",
+        "accessionNumber": "0000950134-06-009023",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000860413&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2005-05-09",
+        "formType": "8-K",
+        "accessionNumber": "0000950134-05-009458",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000860413&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 7,
+    "itemCounts": {
+      "2.06": 1,
+      "5.02": 6
+    },
+    "latestFilingDate": "2025-01-10",
+    "earliestFilingDate": "2005-05-09"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

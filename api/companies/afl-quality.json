@@ -1,0 +1,43 @@
+{
+  "slug": "afl-quality",
+  "canonical_name": "A.F.L. Quality, Inc.",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "11/27/2012",
+      "effective_date": "11/27/2012",
+      "state": "NJ",
+      "workers": 49,
+      "city": "Voorhees"
+    },
+    {
+      "date": "11/27/2012",
+      "effective_date": "11/27/2012",
+      "state": "NJ",
+      "workers": 14,
+      "city": "Secaucus"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "camden-wib",
+      "name": "Camden WIB",
+      "state": "NJ"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

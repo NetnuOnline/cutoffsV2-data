@@ -1,0 +1,64 @@
+{
+  "slug": "lincoln-journal-star",
+  "canonical_name": "Lincoln Journal Star",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 5,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "NE",
+      "count": 5
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "04/13/2019",
+      "effective_date": "04/13/2019",
+      "state": "NE",
+      "workers": 48,
+      "city": "Lincoln"
+    },
+    {
+      "date": "02/11/2019",
+      "effective_date": "02/11/2019",
+      "state": "NE",
+      "workers": 48,
+      "city": "Lincoln"
+    },
+    {
+      "date": "01/29/2018",
+      "effective_date": "01/29/2018",
+      "state": "NE",
+      "workers": 4,
+      "city": "Lincoln"
+    },
+    {
+      "date": "11/16/2015",
+      "effective_date": "11/16/2015",
+      "state": "NE",
+      "workers": 8,
+      "city": "Lincoln"
+    },
+    {
+      "date": "06/30/2011",
+      "effective_date": "06/30/2011",
+      "state": "NE",
+      "workers": 11,
+      "city": "Lincoln"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "lincoln-msa",
+      "name": "Lincoln MSA",
+      "state": "NE"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

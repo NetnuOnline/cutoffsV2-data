@@ -1,0 +1,61 @@
+{
+  "slug": "emtek-solutions",
+  "canonical_name": "Emtek Solutions Inc",
+  "fein": "20-4007221",
+  "lca_filing_count": 8,
+  "warn_notice_count": 0,
+  "median_wage_usd": 75130.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 7,
+      "median_wage_usd": 75130.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": null
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Systems Engineer",
+      "count": 5,
+      "median_wage_usd": 75130.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 2,
+      "median_wage_usd": 102877.0
+    },
+    {
+      "title": "QA Analyst",
+      "count": 1,
+      "median_wage_usd": 85925.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 8
+    }
+  ],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 8
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 8,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Computer Systems Engineers/Architects",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 75130.0,
+    "gap_usd": -42870.0
+  }
+}

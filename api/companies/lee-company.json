@@ -1,0 +1,51 @@
+{
+  "slug": "lee-company",
+  "canonical_name": "Lee Company",
+  "fein": "62-0723985",
+  "lca_filing_count": 2,
+  "lca_worker_positions": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 89065.5,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 94141.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 83990.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Financial Management Coordinator",
+      "count": 1,
+      "median_wage_usd": 94141.0
+    },
+    {
+      "title": "Digital Marketing Manager",
+      "count": 1,
+      "median_wage_usd": 83990.0
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "TN",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3031",
+    "soc_title": "Financial Managers",
+    "market_median_usd": 156100.0,
+    "employer_median_usd": 94141.0,
+    "gap_usd": -61959.0
+  }
+}

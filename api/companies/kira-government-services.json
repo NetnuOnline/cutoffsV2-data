@@ -1,0 +1,59 @@
+{
+  "slug": "kira-government-services",
+  "canonical_name": "KIRA Government Services",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 3,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "FL",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "07/15/2025",
+      "effective_date": "08/11/2025",
+      "state": "CA",
+      "workers": 11,
+      "city": "Lemoore"
+    },
+    {
+      "date": "12/02/2024",
+      "effective_date": "01/31/2025",
+      "state": "FL",
+      "workers": 61,
+      "city": "JACKSONVILLE"
+    },
+    {
+      "date": "12/02/2024",
+      "effective_date": "01/31/2025",
+      "state": "FL",
+      "workers": 50,
+      "city": "JACKSONVILLE"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "kings-county-wib",
+      "name": "Kings County WIB",
+      "state": "CA"
+    },
+    {
+      "slug": "careersource-northeast-florida",
+      "name": "CareerSource Northeast Florida",
+      "state": "FL"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

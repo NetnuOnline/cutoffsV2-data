@@ -1,0 +1,37 @@
+{
+  "slug": "sheraton-hartford",
+  "canonical_name": "Sheraton Hartford",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "CT",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "03/26/2020",
+      "effective_date": "03/26/2020",
+      "state": "CT",
+      "workers": 52,
+      "city": "Rocky Hill"
+    },
+    {
+      "date": "01/01/2020",
+      "effective_date": "05/10/2020",
+      "state": "CT",
+      "workers": 52,
+      "city": "RockyHill"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

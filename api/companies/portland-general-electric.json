@@ -1,0 +1,106 @@
+{
+  "slug": "portland-general-electric",
+  "canonical_name": "Portland General Electric Company ",
+  "fein": null,
+  "lca_filing_count": 3,
+  "warn_notice_count": 1,
+  "median_wage_usd": 121526,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 0,
+      "median_wage_usd": null
+    },
+    {
+      "fy": 2026,
+      "filings": 0,
+      "median_wage_usd": null
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Application Developer",
+      "count": 0,
+      "median_wage_usd": null
+    },
+    {
+      "title": "Principal Project Controls Analyst",
+      "count": 0,
+      "median_wage_usd": null
+    }
+  ],
+  "top_states": [
+    {
+      "state": "OR",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "02/03/1994",
+      "effective_date": "01/28/1994",
+      "state": "OR",
+      "workers": 6,
+      "city": "Rainer"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2013-06-03",
+        "formType": "8-K",
+        "accessionNumber": "0000784977-13-000035",
+        "items": [
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000784977&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 1,
+    "itemCounts": {
+      "2.06": 1
+    },
+    "latestFilingDate": "2013-06-03",
+    "earliestFilingDate": "2013-06-03"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 3,
+    "initial_denials": 0,
+    "continuing_approvals": 4,
+    "continuing_denials": 0,
+    "total_approvals": 7,
+    "by_fy": [
+      {
+        "fy": 2010,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2011,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 3,
+        "initial_denials": 0,
+        "continuing_approvals": 4,
+        "continuing_denials": 0,
+        "total_approvals": 7
+      }
+    ]
+  }
+}

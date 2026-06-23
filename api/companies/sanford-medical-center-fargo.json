@@ -1,0 +1,109 @@
+{
+  "slug": "sanford-medical-center-fargo",
+  "canonical_name": "Sanford Medical Center Fargo",
+  "fein": "45-0226909",
+  "lca_filing_count": 15,
+  "lca_worker_positions": 15,
+  "warn_notice_count": 0,
+  "median_wage_usd": 146578.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 53310.4
+    },
+    {
+      "fy": 2024,
+      "filings": 11,
+      "median_wage_usd": 146578.0
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 155168.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Family Medicine Physician",
+      "count": 6,
+      "median_wage_usd": 155168.0
+    },
+    {
+      "title": "Nurse Practitioner, Psychiatry",
+      "count": 2,
+      "median_wage_usd": 98300.79999999999
+    },
+    {
+      "title": "Internal Medicine Physician",
+      "count": 2,
+      "median_wage_usd": 63918.0
+    },
+    {
+      "title": "Hospitalist",
+      "count": 1,
+      "median_wage_usd": 98280.0
+    },
+    {
+      "title": "Pediatric Hospitalist",
+      "count": 1,
+      "median_wage_usd": 146578.0
+    },
+    {
+      "title": "Rheumatologist",
+      "count": 1,
+      "median_wage_usd": 98280.0
+    },
+    {
+      "title": "Pediatrician",
+      "count": 1,
+      "median_wage_usd": 146578.0
+    },
+    {
+      "title": "Histology Technologist",
+      "count": 1,
+      "median_wage_usd": 53310.4
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "ND",
+      "county": "CASS",
+      "count": 5
+    },
+    {
+      "state": "MN",
+      "county": "BELTRAMI",
+      "count": 4
+    },
+    {
+      "state": "MN",
+      "county": "POLK",
+      "count": 2
+    },
+    {
+      "state": "MN",
+      "county": "OTTER TAIL",
+      "count": 2
+    },
+    {
+      "state": "MN",
+      "county": "BECKER",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MN",
+      "count": 10
+    },
+    {
+      "state": "ND",
+      "count": 5
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": []
+}

@@ -1,0 +1,90 @@
+{
+  "slug": "calisto",
+  "canonical_name": "CALISTO CORPORATION",
+  "fein": "46-4265598",
+  "lca_filing_count": 4,
+  "lca_worker_positions": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 117437.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 109137.5
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 130208.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 104666.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SOFTWARE DEVELOPER",
+      "count": 1,
+      "median_wage_usd": 85405.0
+    },
+    {
+      "title": "SR. DATA ENGINEER",
+      "count": 1,
+      "median_wage_usd": 132870.0
+    },
+    {
+      "title": "INFORMATION SECURITY ENGINEER",
+      "count": 1,
+      "median_wage_usd": 104666.0
+    },
+    {
+      "title": "NETWORK ENGINEER",
+      "count": 1,
+      "median_wage_usd": 130208.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SAN MATEO",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "county": "WAYNE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 2
+    },
+    {
+      "state": "MI",
+      "count": 1
+    },
+    {
+      "state": "DE",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 109137.5,
+    "gap_usd": -21022.5
+  }
+}

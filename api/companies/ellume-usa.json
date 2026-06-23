@@ -1,0 +1,87 @@
+{
+  "slug": "ellume-usa",
+  "canonical_name": "Ellume USA LLC",
+  "fein": null,
+  "lca_filing_count": 7,
+  "warn_notice_count": 1,
+  "median_wage_usd": 100000.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 6,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 105100.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Production Engineer - Manual Assembly",
+      "count": 2,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "title": "Scientist Assay",
+      "count": 1,
+      "median_wage_usd": 65000.0
+    },
+    {
+      "title": "Production Engineer",
+      "count": 1,
+      "median_wage_usd": 105100.0
+    },
+    {
+      "title": "Test Systems Engineer",
+      "count": 1,
+      "median_wage_usd": 95000.0
+    },
+    {
+      "title": "Production Engineering Manager ",
+      "count": 1,
+      "median_wage_usd": 200000.0
+    },
+    {
+      "title": "Production Engineering Team Lead - Automation and Swab",
+      "count": 1,
+      "median_wage_usd": 120000.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MD",
+      "count": 7
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MD",
+      "county": "FREDERICK",
+      "count": 7
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "06/16/2023",
+      "effective_date": "07/03/2023",
+      "state": "MD",
+      "workers": 37,
+      "city": "Frederick"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "frederick-wia",
+      "name": "Frederick WIA",
+      "state": "MD"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "lca_worker_positions": 7,
+  "top_socs": [],
+  "lca_periods": []
+}

@@ -1,0 +1,112 @@
+{
+  "slug": "recreational-equipment",
+  "canonical_name": "Recreational Equipment, Inc.",
+  "fein": "91-0656890",
+  "lca_filing_count": 13,
+  "lca_worker_positions": 13,
+  "warn_notice_count": 0,
+  "median_wage_usd": 133229.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 126308.0
+    },
+    {
+      "fy": 2021,
+      "filings": 5,
+      "median_wage_usd": 127923.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 126839.0
+    },
+    {
+      "fy": 2026,
+      "filings": 5,
+      "median_wage_usd": 133702.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Software Engineer",
+      "count": 4,
+      "median_wage_usd": 127923.0
+    },
+    {
+      "title": "Domain Architect",
+      "count": 1,
+      "median_wage_usd": 155106.0
+    },
+    {
+      "title": "Lead Performance Engineer",
+      "count": 1,
+      "median_wage_usd": 133229.0
+    },
+    {
+      "title": "Staff Software Engineer",
+      "count": 1,
+      "median_wage_usd": 154272.0
+    },
+    {
+      "title": "Senior Performance Engineer",
+      "count": 1,
+      "median_wage_usd": 133702.0
+    },
+    {
+      "title": "SENIOR PERFORMANCE ENGINEER",
+      "count": 1,
+      "median_wage_usd": 99008.0
+    },
+    {
+      "title": "Lead SAP Systems Engineer",
+      "count": 1,
+      "median_wage_usd": 162510.0
+    },
+    {
+      "title": "Principal Software Developer Engineer-Test",
+      "count": 1,
+      "median_wage_usd": 133702.0
+    },
+    {
+      "title": "Solutions Architect",
+      "count": 1,
+      "median_wage_usd": 162510.0
+    },
+    {
+      "title": "Senior Quality Assurance Analyst",
+      "count": 1,
+      "median_wage_usd": 97510.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "WA",
+      "county": "PIERCE",
+      "count": 7
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "WA",
+      "count": 13
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 133229.0,
+    "gap_usd": 3069.0
+  }
+}

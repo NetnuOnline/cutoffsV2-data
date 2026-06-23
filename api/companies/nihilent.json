@@ -1,0 +1,130 @@
+{
+  "slug": "nihilent",
+  "canonical_name": "Nihilent, Inc.",
+  "fein": "04-3555392",
+  "lca_filing_count": 16,
+  "lca_worker_positions": 15,
+  "warn_notice_count": 0,
+  "median_wage_usd": 120328.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 100255.0
+    },
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 129060.0
+    },
+    {
+      "fy": 2023,
+      "filings": 10,
+      "median_wage_usd": 120328.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 148917.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Solution Designer",
+      "count": 2,
+      "median_wage_usd": 129896.0
+    },
+    {
+      "title": "Product Manager AI and Data Science",
+      "count": 2,
+      "median_wage_usd": 148917.5
+    },
+    {
+      "title": "BI Solution Architect",
+      "count": 2,
+      "median_wage_usd": 110813.5
+    },
+    {
+      "title": "Solution Designer",
+      "count": 2,
+      "median_wage_usd": 120328.0
+    },
+    {
+      "title": "Test Lead",
+      "count": 2,
+      "median_wage_usd": 120328.0
+    },
+    {
+      "title": "Share Point Developer",
+      "count": 1,
+      "median_wage_usd": 129060.0
+    },
+    {
+      "title": "Lead Consultant",
+      "count": 1,
+      "median_wage_usd": 101192.0
+    },
+    {
+      "title": "Associate Consultant",
+      "count": 1,
+      "median_wage_usd": 101192.0
+    },
+    {
+      "title": "SharePoint Developer",
+      "count": 1,
+      "median_wage_usd": 129060.0
+    },
+    {
+      "title": "Information Management Analyst",
+      "count": 1,
+      "median_wage_usd": 135000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 10
+    },
+    {
+      "state": "MN",
+      "county": "RAMSEY",
+      "count": 2
+    },
+    {
+      "state": "MN",
+      "county": "GOODHUE",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 11
+    },
+    {
+      "state": "MN",
+      "count": 3
+    },
+    {
+      "state": "CA",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 120328.0,
+    "gap_usd": -9832.0
+  }
+}

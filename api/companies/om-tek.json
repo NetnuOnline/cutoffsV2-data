@@ -1,0 +1,203 @@
+{
+  "slug": "om-tek",
+  "canonical_name": "OM TEK INC",
+  "fein": "27-1731782",
+  "lca_filing_count": 37,
+  "lca_worker_positions": 44,
+  "warn_notice_count": 0,
+  "median_wage_usd": 94037.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 6,
+      "median_wage_usd": 81818.5
+    },
+    {
+      "fy": 2021,
+      "filings": 5,
+      "median_wage_usd": 83637.0
+    },
+    {
+      "fy": 2022,
+      "filings": 9,
+      "median_wage_usd": 98904.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 78478.0
+    },
+    {
+      "fy": 2024,
+      "filings": 5,
+      "median_wage_usd": 105997.0
+    },
+    {
+      "fy": 2025,
+      "filings": 7,
+      "median_wage_usd": 113000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 119995.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SOFTWARE DEVELOPER",
+      "count": 12,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "title": "SOFTWARE QA ENGINEER",
+      "count": 4,
+      "median_wage_usd": 91374.0
+    },
+    {
+      "title": "BIG DATA ENGINEER",
+      "count": 3,
+      "median_wage_usd": 118310.0
+    },
+    {
+      "title": "BUSINESS ANALYST",
+      "count": 3,
+      "median_wage_usd": 78478.0
+    },
+    {
+      "title": "SOFTWARE  DEVELOPER",
+      "count": 2,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "title": "ORACLE CONSULTANT",
+      "count": 2,
+      "median_wage_usd": 124000.0
+    },
+    {
+      "title": "SOFTWARE (SAS) DEVELOPER",
+      "count": 1,
+      "median_wage_usd": 80000.0
+    },
+    {
+      "title": "JAVADEVELOPER",
+      "count": 1,
+      "median_wage_usd": 98904.0
+    },
+    {
+      "title": "FILL STACK DEVELOPER",
+      "count": 1,
+      "median_wage_usd": 83637.0
+    },
+    {
+      "title": "SENIOR CITRIX ADMINISTRATOR",
+      "count": 1,
+      "median_wage_usd": 80000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 6
+    },
+    {
+      "state": "MO",
+      "county": "ST LOUIS",
+      "count": 4
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 3
+    },
+    {
+      "state": "WI",
+      "county": "WAUKESHA",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "TARRANT",
+      "count": 2
+    },
+    {
+      "state": "VA",
+      "county": "FAIRFAX",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "county": "HUDSON",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "county": "LEON",
+      "count": 1
+    },
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 15
+    },
+    {
+      "state": "MO",
+      "count": 4
+    },
+    {
+      "state": "VA",
+      "count": 3
+    },
+    {
+      "state": "NY",
+      "count": 3
+    },
+    {
+      "state": "GA",
+      "count": 3
+    },
+    {
+      "state": "WI",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "count": 2
+    },
+    {
+      "state": "FL",
+      "count": 1
+    },
+    {
+      "state": "AZ",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 100000.0,
+    "gap_usd": -30160.0
+  }
+}

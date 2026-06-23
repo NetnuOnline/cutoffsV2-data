@@ -1,0 +1,103 @@
+{
+  "slug": "21c-museum-hotel",
+  "canonical_name": "21c Museum Hotel",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 7,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "KY",
+      "count": 2
+    },
+    {
+      "state": "MO",
+      "count": 1
+    },
+    {
+      "state": "TN",
+      "count": 1
+    },
+    {
+      "state": "OH",
+      "count": 1
+    },
+    {
+      "state": "OK",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "05/23/2020",
+      "effective_date": "05/15/2020",
+      "state": "KY",
+      "workers": 117,
+      "city": "Jefferson County - Louisville"
+    },
+    {
+      "date": "05/22/2020",
+      "effective_date": "05/29/2020",
+      "state": "MO",
+      "workers": 18,
+      "city": "Kansas City"
+    },
+    {
+      "date": "05/22/2020",
+      "effective_date": "05/28/2020",
+      "state": "KY",
+      "workers": 121,
+      "city": "Fayette"
+    },
+    {
+      "date": "05/22/2020",
+      "effective_date": "05/22/2020",
+      "state": "TN",
+      "workers": 103,
+      "city": "Davidson County"
+    },
+    {
+      "date": "05/22/2020",
+      "effective_date": "05/20/2020",
+      "state": "OH",
+      "workers": 158,
+      "city": "Cincinnati/Hamilton"
+    },
+    {
+      "date": "05/22/2020",
+      "effective_date": "05/22/2020",
+      "state": "OK",
+      "workers": 109,
+      "city": null
+    },
+    {
+      "date": "05/22/2020",
+      "effective_date": "05/10/2020",
+      "state": "NC",
+      "workers": 124,
+      "city": "111 N. Corcoran St., Durham"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "c-greater-louisville-wib",
+      "name": "C Greater Louisville WIB",
+      "state": "KY"
+    },
+    {
+      "slug": "kansas-city-vicinity-region-wib",
+      "name": "Kansas City Vicinity Region WIB",
+      "state": "MO"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

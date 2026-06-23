@@ -1,0 +1,90 @@
+{
+  "slug": "gritstone-bio",
+  "canonical_name": "Gritstone Bio, Inc.",
+  "fein": null,
+  "lca_filing_count": 2,
+  "warn_notice_count": 1,
+  "median_wage_usd": 142742.5,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 142742.5
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Principal Scientist, Machine Learning",
+      "count": 1,
+      "median_wage_usd": 205485.0
+    },
+    {
+      "title": "Research Associate II, Drug Product Development",
+      "count": 1,
+      "median_wage_usd": 80000.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MA",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "county": "CAMBRIDGE CITY",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "01/01/2024",
+      "effective_date": "12/06/2024",
+      "state": "CT",
+      "workers": 101,
+      "city": "Pleasanton"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 2,
+    "initial_denials": 0,
+    "continuing_approvals": 7,
+    "continuing_denials": 0,
+    "total_approvals": 9,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 6,
+        "continuing_denials": 0,
+        "total_approvals": 8
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": []
+}

@@ -1,0 +1,133 @@
+{
+  "slug": "bellsouth",
+  "canonical_name": "Bellsouth",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 13,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 10
+    },
+    {
+      "state": "AL",
+      "count": 2
+    },
+    {
+      "state": "LA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "05/17/2016",
+      "effective_date": "05/17/2016",
+      "state": "GA",
+      "workers": 75,
+      "city": "Columbus"
+    },
+    {
+      "date": "01/18/2007",
+      "effective_date": "03/10/2007",
+      "state": "LA",
+      "workers": 65,
+      "city": "Hammond"
+    },
+    {
+      "date": "09/08/2004",
+      "effective_date": "09/08/2004",
+      "state": "GA",
+      "workers": 65,
+      "city": "Atlanta"
+    },
+    {
+      "date": "06/22/2004",
+      "effective_date": "06/22/2004",
+      "state": "GA",
+      "workers": 114,
+      "city": "Atlanta"
+    },
+    {
+      "date": "08/28/2002",
+      "effective_date": "08/28/2002",
+      "state": "GA",
+      "workers": 73,
+      "city": "Athens"
+    },
+    {
+      "date": "07/01/2002",
+      "effective_date": "09/30/2002",
+      "state": "AL",
+      "workers": 85,
+      "city": "Montgomery"
+    },
+    {
+      "date": "03/22/2002",
+      "effective_date": "05/31/2002",
+      "state": "AL",
+      "workers": 55,
+      "city": "Decatur"
+    },
+    {
+      "date": "10/31/2001",
+      "effective_date": "10/31/2001",
+      "state": "GA",
+      "workers": 120,
+      "city": "Atlanta"
+    },
+    {
+      "date": "02/05/2001",
+      "effective_date": "02/05/2001",
+      "state": "GA",
+      "workers": 261,
+      "city": "Atlanta"
+    },
+    {
+      "date": "01/04/2001",
+      "effective_date": "01/04/2001",
+      "state": "GA",
+      "workers": 86,
+      "city": "Atlanta"
+    },
+    {
+      "date": "03/15/2000",
+      "effective_date": "03/15/2000",
+      "state": "GA",
+      "workers": 120,
+      "city": "Atlanta"
+    },
+    {
+      "date": "09/26/1997",
+      "effective_date": "09/26/1997",
+      "state": "GA",
+      "workers": 333,
+      "city": "Atlanta"
+    },
+    {
+      "date": "07/31/1997",
+      "effective_date": "07/31/1997",
+      "state": "GA",
+      "workers": 333,
+      "city": "Metro Atlanta"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "lower-chattahoochee-wib",
+      "name": "Lower Chattahoochee WIB",
+      "state": "GA"
+    },
+    {
+      "slug": "second-planning-district-consortium-wia",
+      "name": "Second Planning District Consortium WIA",
+      "state": "LA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

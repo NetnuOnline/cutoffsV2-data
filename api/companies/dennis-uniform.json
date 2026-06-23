@@ -1,0 +1,54 @@
+{
+  "slug": "dennis-uniform",
+  "canonical_name": "DENNIS Uniform",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 3,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "OR",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "10/22/2024",
+      "effective_date": "10/19/2024",
+      "state": "TX",
+      "workers": 139,
+      "city": "Fort Worth"
+    },
+    {
+      "date": "10/19/2024",
+      "effective_date": "10/19/2024",
+      "state": "OR",
+      "workers": 111,
+      "city": "Portland"
+    },
+    {
+      "date": "08/30/2022",
+      "effective_date": "11/01/2022",
+      "state": "OR",
+      "workers": 71,
+      "city": "Portland"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "tarrant-county-wda",
+      "name": "Tarrant County WDA",
+      "state": "TX"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

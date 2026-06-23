@@ -1,0 +1,54 @@
+{
+  "slug": "american-medical-depot",
+  "canonical_name": "American Medical Depot",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 3,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "FL",
+      "count": 2
+    },
+    {
+      "state": "NY",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "08/19/2020",
+      "effective_date": "08/03/2020",
+      "state": "FL",
+      "workers": 2,
+      "city": "TAMPA"
+    },
+    {
+      "date": "08/19/2020",
+      "effective_date": "08/03/2020",
+      "state": "FL",
+      "workers": 20,
+      "city": "MIRAMAR"
+    },
+    {
+      "date": "08/03/2020",
+      "effective_date": "08/03/2020",
+      "state": "NY",
+      "workers": 18,
+      "city": "Schenectady"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "albanyrensselaerschenectady-lwia",
+      "name": "Albany/Rensselaer/Schenectady LWIA",
+      "state": "NY"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

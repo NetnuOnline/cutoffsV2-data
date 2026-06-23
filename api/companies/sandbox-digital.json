@@ -1,0 +1,56 @@
+{
+  "slug": "sandbox-digital",
+  "canonical_name": "Sandbox Digital",
+  "fein": "61-1817306",
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 133546.4,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 137092.8
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Managing Director / Digital Director",
+      "count": 1,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Business Director",
+      "count": 1,
+      "median_wage_usd": 137092.8
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "ORANGE",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-2021",
+    "soc_title": "Marketing Managers",
+    "market_median_usd": 157620.0,
+    "employer_median_usd": 137092.8,
+    "gap_usd": -20527.2
+  }
+}

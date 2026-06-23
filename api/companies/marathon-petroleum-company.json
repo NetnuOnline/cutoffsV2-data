@@ -1,0 +1,158 @@
+{
+  "slug": "marathon-petroleum-company",
+  "canonical_name": "Marathon Petroleum Company LP",
+  "fein": "31-1537655",
+  "lca_filing_count": 15,
+  "warn_notice_count": 1,
+  "median_wage_usd": 140760.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 3,
+      "median_wage_usd": 125800.0
+    },
+    {
+      "fy": 2022,
+      "filings": 3,
+      "median_wage_usd": 114714.0
+    },
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 153710.0
+    },
+    {
+      "fy": 2025,
+      "filings": 5,
+      "median_wage_usd": 148866.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Sr. Business Analyst IT",
+      "count": 2,
+      "median_wage_usd": 125800.0
+    },
+    {
+      "title": "Senior Business Systems Analyst",
+      "count": 2,
+      "median_wage_usd": 147235.0
+    },
+    {
+      "title": "G&P Engineer I",
+      "count": 1,
+      "median_wage_usd": 90792.0
+    },
+    {
+      "title": "Enterprise Architect - Commercial & Marketing IT",
+      "count": 1,
+      "median_wage_usd": 158000.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 1,
+      "median_wage_usd": 118800.0
+    },
+    {
+      "title": "Advanced Sr Specialist IT",
+      "count": 1,
+      "median_wage_usd": 143135.0
+    },
+    {
+      "title": "Sr Business Analyst IT",
+      "count": 1,
+      "median_wage_usd": 114714.0
+    },
+    {
+      "title": "Senior Solutions Architect",
+      "count": 1,
+      "median_wage_usd": 148866.0
+    },
+    {
+      "title": "Senior Data Scientist",
+      "count": 1,
+      "median_wage_usd": 150531.0
+    },
+    {
+      "title": "Senior Salesforce Developer",
+      "count": 1,
+      "median_wage_usd": 115000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "BEXAR",
+      "count": 10
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 14
+    },
+    {
+      "state": "OH",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "08/03/2020",
+      "effective_date": "10/05/2020",
+      "state": "CA",
+      "workers": 702
+    }
+  ],
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 27,
+    "continuing_denials": 1,
+    "total_approvals": 27,
+    "by_fy": [
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 1,
+        "total_approvals": 3
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 22,
+        "continuing_denials": 0,
+        "total_approvals": 22
+      }
+    ]
+  },
+  "lca_worker_positions": 14,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 118800.0,
+    "gap_usd": -11360.0
+  }
+}

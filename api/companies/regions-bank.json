@@ -1,0 +1,195 @@
+{
+  "slug": "regions-bank",
+  "canonical_name": "Regions Bank",
+  "fein": "63-0371391",
+  "lca_filing_count": 56,
+  "lca_worker_positions": 55,
+  "warn_notice_count": 0,
+  "median_wage_usd": 127500.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 4,
+      "median_wage_usd": 101538.985
+    },
+    {
+      "fy": 2021,
+      "filings": 4,
+      "median_wage_usd": 88181.25
+    },
+    {
+      "fy": 2022,
+      "filings": 7,
+      "median_wage_usd": 136690.27
+    },
+    {
+      "fy": 2023,
+      "filings": 10,
+      "median_wage_usd": 123500.0
+    },
+    {
+      "fy": 2024,
+      "filings": 10,
+      "median_wage_usd": 133020.0
+    },
+    {
+      "fy": 2025,
+      "filings": 13,
+      "median_wage_usd": 122747.0
+    },
+    {
+      "fy": 2026,
+      "filings": 7,
+      "median_wage_usd": 134971.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Data Scientist",
+      "count": 5,
+      "median_wage_usd": 110866.28
+    },
+    {
+      "title": "Information Technology Data Engineer",
+      "count": 3,
+      "median_wage_usd": 103048.26
+    },
+    {
+      "title": "Risk Data Scientist",
+      "count": 3,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "title": "Software Engineer III",
+      "count": 2,
+      "median_wage_usd": 136512.0
+    },
+    {
+      "title": "Data Scientist II",
+      "count": 2,
+      "median_wage_usd": 132186.6
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 2,
+      "median_wage_usd": 139500.0
+    },
+    {
+      "title": "Credit Risk Management Consumer Credit Administrator",
+      "count": 2,
+      "median_wage_usd": 94695.0
+    },
+    {
+      "title": "Fraud Analytics Analyst II",
+      "count": 2,
+      "median_wage_usd": 98702.815
+    },
+    {
+      "title": "Software Engineer II",
+      "count": 2,
+      "median_wage_usd": 121922.67
+    },
+    {
+      "title": "Software Engineer IV",
+      "count": 2,
+      "median_wage_usd": 142500.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "AL",
+      "county": "JEFFERSON",
+      "count": 15
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 7
+    },
+    {
+      "state": "AL",
+      "county": "SHELBY",
+      "count": 6
+    },
+    {
+      "state": "TX",
+      "county": "BEXAR",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "county": "FAIRFAX",
+      "count": 1
+    },
+    {
+      "state": "NE",
+      "county": "DOUGLAS",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "county": "HUDSON",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "county": "DEKALB",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "county": "FORSYTH",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "AL",
+      "count": 32
+    },
+    {
+      "state": "GA",
+      "count": 13
+    },
+    {
+      "state": "TX",
+      "count": 5
+    },
+    {
+      "state": "NJ",
+      "count": 2
+    },
+    {
+      "state": "NE",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "count": 1
+    },
+    {
+      "state": "MD",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 143024.0,
+    "gap_usd": 12864.0
+  }
+}

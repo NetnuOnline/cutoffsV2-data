@@ -1,0 +1,70 @@
+{
+  "slug": "price-fx",
+  "canonical_name": "Price fx Inc.",
+  "fein": "47-4784104",
+  "lca_filing_count": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 133703.5,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 120567.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Solution Strategist",
+      "count": 2,
+      "median_wage_usd": 141713.5
+    },
+    {
+      "title": "Principal Configuration Engineer",
+      "count": 2,
+      "median_wage_usd": 133703.5
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 4
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 2,
+    "initial_denials": 0,
+    "continuing_approvals": 4,
+    "continuing_denials": 0,
+    "total_approvals": 6,
+    "by_fy": [
+      {
+        "fy": 2020,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 4
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      }
+    ]
+  },
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 130707.0,
+    "gap_usd": 547.0
+  }
+}

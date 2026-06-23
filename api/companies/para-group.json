@@ -1,0 +1,51 @@
+{
+  "slug": "para-group",
+  "canonical_name": "Para Group LLC",
+  "fein": "37-2028003",
+  "lca_filing_count": 2,
+  "lca_worker_positions": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 131996.8,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 131996.8
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 131996.8,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 1,
+      "median_wage_usd": 131996.8
+    },
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 131996.8
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 131996.8,
+    "gap_usd": 1836.8
+  }
+}

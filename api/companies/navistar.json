@@ -1,0 +1,356 @@
+{
+  "slug": "navistar",
+  "canonical_name": "Navistar, Inc.",
+  "fein": "36-1264810",
+  "lca_filing_count": 35,
+  "warn_notice_count": 12,
+  "median_wage_usd": 117419.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 4,
+      "median_wage_usd": 105726.0
+    },
+    {
+      "fy": 2021,
+      "filings": 8,
+      "median_wage_usd": 107162.0
+    },
+    {
+      "fy": 2022,
+      "filings": 9,
+      "median_wage_usd": 121597.0
+    },
+    {
+      "fy": 2023,
+      "filings": 8,
+      "median_wage_usd": 119277.5
+    },
+    {
+      "fy": 2024,
+      "filings": 6,
+      "median_wage_usd": 125341.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Project Engineer Sr.",
+      "count": 7,
+      "median_wage_usd": 118123.0
+    },
+    {
+      "title": "Project Engineer",
+      "count": 4,
+      "median_wage_usd": 109184.0
+    },
+    {
+      "title": "Technical Specialist",
+      "count": 4,
+      "median_wage_usd": 120172.0
+    },
+    {
+      "title": "Project Engineer Sr",
+      "count": 3,
+      "median_wage_usd": 106961.0
+    },
+    {
+      "title": "Applications Analyst Lead Sr",
+      "count": 2,
+      "median_wage_usd": 126691.0
+    },
+    {
+      "title": "Project Engineer Senior",
+      "count": 1,
+      "median_wage_usd": 117419.0
+    },
+    {
+      "title": "Info Security Engineer Lead Sr.",
+      "count": 1,
+      "median_wage_usd": 128648.0
+    },
+    {
+      "title": "Product Engineer \u2013 Software Test",
+      "count": 1,
+      "median_wage_usd": 132704.0
+    },
+    {
+      "title": "eMobility Project Engineer Sr.",
+      "count": 1,
+      "median_wage_usd": 112778.0
+    },
+    {
+      "title": "Project Engineer Sr - Electrical",
+      "count": 1,
+      "median_wage_usd": 132912.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 31
+    },
+    {
+      "state": "TX",
+      "count": 3
+    },
+    {
+      "state": "MI",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IL",
+      "county": "DUPAGE",
+      "count": 30
+    },
+    {
+      "state": "TX",
+      "county": "BEXAR",
+      "count": 2
+    },
+    {
+      "state": "MI",
+      "county": "OAKLAND",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "03/28/2022",
+      "effective_date": "05/20/2022",
+      "state": "TN",
+      "workers": 79,
+      "city": "Knox County"
+    },
+    {
+      "date": "02/05/2021",
+      "effective_date": "06/28/2021",
+      "state": "IL",
+      "workers": 257,
+      "city": "10400 W North Ave  Melrose Park, IL 60160-1028"
+    },
+    {
+      "date": "08/03/2017",
+      "effective_date": "05/01/2018",
+      "state": "IL",
+      "workers": 207,
+      "city": "10400 W. North Ave.  Melrose Park, IL 60160"
+    },
+    {
+      "date": "06/01/2017",
+      "effective_date": "08/01/2017",
+      "state": "OH",
+      "workers": 81,
+      "city": "Springfield/Clark"
+    },
+    {
+      "date": "09/30/2011",
+      "effective_date": "12/02/2011",
+      "state": "IN",
+      "workers": 133,
+      "city": "Fort Wayne"
+    },
+    {
+      "date": "03/25/2010",
+      "effective_date": "01/01/2013",
+      "state": "IL",
+      "workers": 37,
+      "city": "Schaumburg"
+    },
+    {
+      "date": "03/25/2010",
+      "effective_date": "06/01/2012",
+      "state": "IL",
+      "workers": 26,
+      "city": "Schaumburg"
+    },
+    {
+      "date": "03/25/2010",
+      "effective_date": "01/01/2012",
+      "state": "IL",
+      "workers": 17,
+      "city": "Schaumburg"
+    },
+    {
+      "date": "03/25/2010",
+      "effective_date": "06/01/2011",
+      "state": "IL",
+      "workers": 13,
+      "city": "Schaumburg"
+    },
+    {
+      "date": "03/25/2010",
+      "effective_date": "01/01/2011",
+      "state": "IL",
+      "workers": 14,
+      "city": "Schaumburg"
+    },
+    {
+      "date": "03/25/2010",
+      "effective_date": "06/01/2010",
+      "state": "IL",
+      "workers": 69,
+      "city": "Schaumburg"
+    },
+    {
+      "date": "02/19/2009",
+      "effective_date": "12/31/2009",
+      "state": "IN",
+      "workers": 1336,
+      "city": "Indianapolis"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "economic-growth-region-5",
+      "name": "Economic Growth Region 5",
+      "state": "IN"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 7,
+    "initial_denials": 0,
+    "continuing_approvals": 91,
+    "continuing_denials": 1,
+    "total_approvals": 98,
+    "by_fy": [
+      {
+        "fy": 2009,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2010,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2011,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2012,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2013,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2014,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2015,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2016,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2017,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 4,
+        "initial_denials": 0,
+        "continuing_approvals": 21,
+        "continuing_denials": 0,
+        "total_approvals": 25
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 25,
+        "continuing_denials": 0,
+        "total_approvals": 27
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 29,
+        "continuing_denials": 1,
+        "total_approvals": 29
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 16,
+        "continuing_denials": 0,
+        "total_approvals": 17
+      }
+    ]
+  },
+  "lca_worker_positions": 35,
+  "top_socs": [],
+  "lca_periods": []
+}

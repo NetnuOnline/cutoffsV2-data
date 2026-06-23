@@ -1,0 +1,58 @@
+{
+  "slug": "saloncentric",
+  "canonical_name": "SalonCentric",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 3,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "MI",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "07/15/2025",
+      "effective_date": "09/13/2025",
+      "state": "MI",
+      "workers": 79,
+      "city": "Grand Rapids, Michigan"
+    },
+    {
+      "date": "06/02/2020",
+      "effective_date": "07/10/2020",
+      "state": "CA",
+      "workers": 45,
+      "city": "Valencia"
+    },
+    {
+      "date": "02/17/2011",
+      "effective_date": "04/01/2011",
+      "state": "IL",
+      "workers": 72,
+      "city": "Dixon"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "kent-allegan-michigan-works",
+      "name": "Kent & Allegan Michigan Works!",
+      "state": "MI"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

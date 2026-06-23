@@ -1,0 +1,156 @@
+{
+  "slug": "cmh-services",
+  "canonical_name": "CMH Services, Inc.",
+  "fein": "62-1640988",
+  "lca_filing_count": 7,
+  "warn_notice_count": 0,
+  "median_wage_usd": 130707.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 99112.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 82203.5
+    },
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 142083.91
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 130707.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Software Engineer",
+      "count": 2,
+      "median_wage_usd": 115995.0
+    },
+    {
+      "title": "Software Engineering Lead",
+      "count": 1,
+      "median_wage_usd": 130707.0
+    },
+    {
+      "title": "Functional Analyst II",
+      "count": 1,
+      "median_wage_usd": 100821.0
+    },
+    {
+      "title": "Delivery Lead",
+      "count": 1,
+      "median_wage_usd": 142083.91
+    },
+    {
+      "title": "Application Architect",
+      "count": 1,
+      "median_wage_usd": 155000.0
+    },
+    {
+      "title": "Quality Assurance Engineer",
+      "count": 1,
+      "median_wage_usd": 63586.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TN",
+      "county": "BLOUNT",
+      "count": 5
+    },
+    {
+      "state": "MA",
+      "county": "LENOX",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TN",
+      "count": 5
+    },
+    {
+      "state": "MA",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 14,
+    "continuing_denials": 0,
+    "total_approvals": 15,
+    "by_fy": [
+      {
+        "fy": 2017,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 8,
+        "continuing_denials": 0,
+        "total_approvals": 8
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      }
+    ]
+  },
+  "lca_worker_positions": 7,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 131792.5,
+    "gap_usd": 1632.5
+  }
+}

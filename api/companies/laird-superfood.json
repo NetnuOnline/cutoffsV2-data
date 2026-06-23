@@ -1,0 +1,72 @@
+{
+  "slug": "laird-superfood",
+  "canonical_name": "Laird Superfood, Inc",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 1,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "OR",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "10/12/2022",
+      "effective_date": "12/12/2022",
+      "state": "OR",
+      "workers": 46,
+      "city": "Sisters"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "central-oregoneast-cascades-wia",
+      "name": "Central Oregon/East Cascades WIA",
+      "state": "OR"
+    }
+  ],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2022-12-14",
+        "formType": "8-K/A",
+        "accessionNumber": "0000950170-22-026539",
+        "items": [
+          "2.05",
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities",
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001650696&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2022-10-12",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-22-261295",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001650696&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 2,
+    "itemCounts": {
+      "2.05": 2,
+      "2.06": 1
+    },
+    "latestFilingDate": "2022-12-14",
+    "earliestFilingDate": "2022-10-12"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

@@ -1,0 +1,125 @@
+{
+  "slug": "regent-strategic-solutions",
+  "canonical_name": "Regent Strategic Solutions",
+  "fein": null,
+  "lca_filing_count": 14,
+  "warn_notice_count": 0,
+  "median_wage_usd": 81661.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 14,
+      "median_wage_usd": 81661.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer  ",
+      "count": 2,
+      "median_wage_usd": 86000.0
+    },
+    {
+      "title": "Applications Engineer ",
+      "count": 2,
+      "median_wage_usd": 86000.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 2,
+      "median_wage_usd": 84028.0
+    },
+    {
+      "title": "QA Analyst",
+      "count": 2,
+      "median_wage_usd": 79102.0
+    },
+    {
+      "title": "Cloud Engineer",
+      "count": 1,
+      "median_wage_usd": 81266.0
+    },
+    {
+      "title": "Applications Architect",
+      "count": 1,
+      "median_wage_usd": 81266.0
+    },
+    {
+      "title": "Software Quality Engineer",
+      "count": 1,
+      "median_wage_usd": 79102.0
+    },
+    {
+      "title": "Applications Engineer",
+      "count": 1,
+      "median_wage_usd": 86000.0
+    },
+    {
+      "title": "Cloud Applications Engineer  ",
+      "count": 1,
+      "median_wage_usd": 81266.0
+    },
+    {
+      "title": "Data Engineer",
+      "count": 1,
+      "median_wage_usd": 81266.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NC",
+      "county": "MECKLENBURG",
+      "count": 13
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NC",
+      "count": 13
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 6,
+    "initial_denials": 0,
+    "continuing_approvals": 1,
+    "continuing_denials": 0,
+    "total_approvals": 7,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 4,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 5
+      }
+    ]
+  },
+  "lca_worker_positions": 14,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 86000.0,
+    "gap_usd": -44160.0
+  }
+}

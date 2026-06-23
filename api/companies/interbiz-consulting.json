@@ -1,0 +1,119 @@
+{
+  "slug": "interbiz-consulting",
+  "canonical_name": "INTERBIZ CONSULTING LLC",
+  "fein": "26-2799492",
+  "lca_filing_count": 12,
+  "lca_worker_positions": 12,
+  "warn_notice_count": 0,
+  "median_wage_usd": 97580.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 67995.0
+    },
+    {
+      "fy": 2023,
+      "filings": 6,
+      "median_wage_usd": 84528.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 133629.5
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 120000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 7,
+      "median_wage_usd": 82056.0
+    },
+    {
+      "title": "Automation Engineer",
+      "count": 1,
+      "median_wage_usd": 75000.0
+    },
+    {
+      "title": "Senior Software Developer",
+      "count": 1,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Senior UI Developer",
+      "count": 1,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "Software  Developer",
+      "count": 1,
+      "median_wage_usd": 137259.0
+    },
+    {
+      "title": "Database Administrator",
+      "count": 1,
+      "median_wage_usd": 87000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 8
+    },
+    {
+      "state": "NC",
+      "county": "WAKE",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "AZ",
+      "count": 9
+    },
+    {
+      "state": "NC",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 108160.0,
+    "gap_usd": -22000.0
+  }
+}

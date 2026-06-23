@@ -1,0 +1,125 @@
+{
+  "slug": "global-industrial-services",
+  "canonical_name": "Global Industrial Services, Inc.",
+  "fein": "37-1743764",
+  "lca_filing_count": 4,
+  "warn_notice_count": 1,
+  "median_wage_usd": 183684.5,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 72758.4
+    },
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 212234.5
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 180000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "IT Business Solutions - Senior Director",
+      "count": 1,
+      "median_wage_usd": 237100.0
+    },
+    {
+      "title": "Systems Engineering Manager",
+      "count": 1,
+      "median_wage_usd": 187369.0
+    },
+    {
+      "title": "Senior Salesforce Architect",
+      "count": 1,
+      "median_wage_usd": 180000.0
+    },
+    {
+      "title": "Product Analyst",
+      "count": 1,
+      "median_wage_usd": 72758.4
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "count": 2
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "NASSAU",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "county": "MERCER",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "06/20/2016",
+      "effective_date": "08/15/2016",
+      "state": "WI",
+      "workers": 27,
+      "city": "Milwaukee"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 3,
+    "continuing_denials": 0,
+    "total_approvals": 4,
+    "by_fy": [
+      {
+        "fy": 2016,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      }
+    ]
+  },
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3021",
+    "soc_title": "Computer and Information Systems Managers",
+    "market_median_usd": 169510.0,
+    "employer_median_usd": 212234.5,
+    "gap_usd": 42724.5
+  }
+}

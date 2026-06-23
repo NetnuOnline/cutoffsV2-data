@@ -1,0 +1,130 @@
+{
+  "slug": "american-information-technology",
+  "canonical_name": "American Information Technology Corporation",
+  "fein": null,
+  "lca_filing_count": 10,
+  "warn_notice_count": 0,
+  "median_wage_usd": 94036.8,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 6,
+      "median_wage_usd": 94036.8
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 75857.59999999999
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 105934.5
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SOFTWARE DEVELOPER",
+      "count": 4,
+      "median_wage_usd": 94036.8
+    },
+    {
+      "title": "Software Developer",
+      "count": 2,
+      "median_wage_usd": 105934.5
+    },
+    {
+      "title": "Automation Engineer",
+      "count": 2,
+      "median_wage_usd": 75857.59999999999
+    },
+    {
+      "title": "IT TEST LEAD",
+      "count": 1,
+      "median_wage_usd": 89128.0
+    },
+    {
+      "title": "SAP BODS Developer",
+      "count": 1,
+      "median_wage_usd": 89772.79999999999
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 4
+    },
+    {
+      "state": "PA",
+      "county": "CHESTER",
+      "count": 2
+    },
+    {
+      "state": "IN",
+      "county": "HAMILTON",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "county": "MERCER",
+      "count": 1
+    },
+    {
+      "state": "RI",
+      "county": "PROVIDENCE CITY",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 4
+    },
+    {
+      "state": "PA",
+      "count": 2
+    },
+    {
+      "state": "IN",
+      "count": 2
+    },
+    {
+      "state": "RI",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 7,
+    "initial_denials": 15,
+    "continuing_approvals": 20,
+    "continuing_denials": 5,
+    "total_approvals": 27,
+    "by_fy": [
+      {
+        "fy": 2020,
+        "initial_approvals": 4,
+        "initial_denials": 15,
+        "continuing_approvals": 20,
+        "continuing_denials": 5,
+        "total_approvals": 24
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 3,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      }
+    ]
+  },
+  "lca_worker_positions": 10,
+  "top_socs": [],
+  "lca_periods": []
+}

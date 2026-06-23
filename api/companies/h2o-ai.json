@@ -1,0 +1,85 @@
+{
+  "slug": "h2o-ai",
+  "canonical_name": "H2O.ai, Inc.",
+  "fein": "45-4660094",
+  "lca_filing_count": 5,
+  "lca_worker_positions": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 145000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 167500.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 125000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Machine Learning Engineer",
+      "count": 1,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Software Engineer Lead",
+      "count": 1,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "title": "Data Scientist",
+      "count": 1,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "Senior Data Engineer",
+      "count": 1,
+      "median_wage_usd": 145000.0
+    },
+    {
+      "title": "Senior Financial Planning and Analysis Manager",
+      "count": 1,
+      "median_wage_usd": 190000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 120000.0,
+    "gap_usd": 11980.0
+  }
+}

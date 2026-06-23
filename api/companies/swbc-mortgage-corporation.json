@@ -1,0 +1,50 @@
+{
+  "slug": "swbc-mortgage-corporation",
+  "canonical_name": "SWBC Mortgage Corporation",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 3,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "NE",
+      "count": 3
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "10/14/2016",
+      "effective_date": "10/14/2016",
+      "state": "NE",
+      "workers": 15,
+      "city": "Scottsbluff"
+    },
+    {
+      "date": "09/02/2016",
+      "effective_date": "09/02/2016",
+      "state": "NE",
+      "workers": 30,
+      "city": "Scottsbluff"
+    },
+    {
+      "date": "08/01/2016",
+      "effective_date": "08/01/2016",
+      "state": "NE",
+      "workers": 35,
+      "city": "Scottsbluff"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "panhandle-economic-region",
+      "name": "Panhandle Economic Region",
+      "state": "NE"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

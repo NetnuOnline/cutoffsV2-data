@@ -1,0 +1,68 @@
+{
+  "slug": "suh-kim-cpas",
+  "canonical_name": "SUH & KIM CPAS LLC",
+  "fein": null,
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 64584.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 64584.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "ACCOUNTANTS",
+      "count": 1,
+      "median_wage_usd": 64584.0
+    },
+    {
+      "title": "ACCOUTANTS ",
+      "count": 1,
+      "median_wage_usd": 64584.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NJ",
+      "county": "BERGEN",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 2,
+    "initial_denials": 0,
+    "continuing_approvals": 0,
+    "continuing_denials": 0,
+    "total_approvals": 2,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      }
+    ]
+  },
+  "lca_worker_positions": 1,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-2011",
+    "soc_title": "Accountants",
+    "market_median_usd": 79000.0,
+    "employer_median_usd": 64584.0,
+    "gap_usd": -14416.0
+  }
+}

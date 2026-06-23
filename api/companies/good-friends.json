@@ -1,0 +1,51 @@
+{
+  "slug": "good-friends",
+  "canonical_name": "Good Friends, LLC",
+  "fein": null,
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 239232.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 178464.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 300000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Investment Fund Manager",
+      "count": 2,
+      "median_wage_usd": 239232.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3031",
+    "soc_title": "Investment Fund Managers",
+    "market_median_usd": 156100.0,
+    "employer_median_usd": 300000.0,
+    "gap_usd": 143900.0
+  }
+}

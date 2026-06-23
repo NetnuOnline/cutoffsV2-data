@@ -1,0 +1,108 @@
+{
+  "slug": "utz-quality-foods",
+  "canonical_name": "Utz Quality Foods, LLC",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 4,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "MI",
+      "count": 2
+    },
+    {
+      "state": "AL",
+      "count": 1
+    },
+    {
+      "state": "LA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "07/31/2025",
+      "effective_date": "01/30/2026",
+      "state": "MI",
+      "workers": 75,
+      "city": "Grand Rapids, Michigan"
+    },
+    {
+      "date": "07/31/2025",
+      "effective_date": "07/31/2025",
+      "state": "MI",
+      "workers": 75,
+      "city": "Grand Rapids"
+    },
+    {
+      "date": "04/26/2023",
+      "effective_date": "07/03/2023",
+      "state": "AL",
+      "workers": 175,
+      "city": "Birmingham"
+    },
+    {
+      "date": "05/13/2022",
+      "effective_date": "05/20/2022",
+      "state": "LA",
+      "workers": 59,
+      "city": "Gramercy"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "central-six-alabama-works",
+      "name": "Central Six Alabama Works",
+      "state": "AL"
+    },
+    {
+      "slug": "st-charles-parish-consortium-wia",
+      "name": "St. Charles Parish Consortium WIA",
+      "state": "LA"
+    },
+    {
+      "slug": "kent-allegan-michigan-works",
+      "name": "Kent & Allegan Michigan Works!",
+      "state": "MI"
+    }
+  ],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2023-09-29",
+        "formType": "8-K",
+        "accessionNumber": "0001739566-23-000140",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001739566&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2023-04-26",
+        "formType": "8-K",
+        "accessionNumber": "0001739566-23-000059",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001739566&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 2,
+    "itemCounts": {
+      "2.05": 2
+    },
+    "latestFilingDate": "2023-09-29",
+    "earliestFilingDate": "2023-04-26"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

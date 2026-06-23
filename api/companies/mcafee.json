@@ -1,0 +1,203 @@
+{
+  "slug": "mcafee",
+  "canonical_name": "McAfee, LLC",
+  "fein": "77-0316593",
+  "lca_filing_count": 50,
+  "lca_worker_positions": 49,
+  "warn_notice_count": 0,
+  "median_wage_usd": 121495.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 10,
+      "median_wage_usd": 116459.5
+    },
+    {
+      "fy": 2021,
+      "filings": 11,
+      "median_wage_usd": 106163.0
+    },
+    {
+      "fy": 2022,
+      "filings": 6,
+      "median_wage_usd": 123669.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 250000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 5,
+      "median_wage_usd": 141783.0
+    },
+    {
+      "fy": 2025,
+      "filings": 10,
+      "median_wage_usd": 133525.0
+    },
+    {
+      "fy": 2026,
+      "filings": 6,
+      "median_wage_usd": 134971.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Development Engineer",
+      "count": 4,
+      "median_wage_usd": 130894.0
+    },
+    {
+      "title": "Data Scientist",
+      "count": 3,
+      "median_wage_usd": 89877.0
+    },
+    {
+      "title": "Product Manager",
+      "count": 3,
+      "median_wage_usd": 115794.0
+    },
+    {
+      "title": "DevOps Engineer",
+      "count": 2,
+      "median_wage_usd": 81612.0
+    },
+    {
+      "title": "Senior Data Scientist",
+      "count": 2,
+      "median_wage_usd": 153545.5
+    },
+    {
+      "title": "Software Engineer",
+      "count": 2,
+      "median_wage_usd": 118289.5
+    },
+    {
+      "title": "Pricing Specialist",
+      "count": 2,
+      "median_wage_usd": 103470.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 2,
+      "median_wage_usd": 117928.0
+    },
+    {
+      "title": "Enterprise Architect",
+      "count": 1,
+      "median_wage_usd": 104500.0
+    },
+    {
+      "title": "Cloud Software Engineer",
+      "count": 1,
+      "median_wage_usd": 117853.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 15
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 6
+    },
+    {
+      "state": "NJ",
+      "county": "HUDSON",
+      "count": 3
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "county": "PEORIA",
+      "count": 2
+    },
+    {
+      "state": "IN",
+      "county": "HAMILTON",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 1
+    },
+    {
+      "state": "MO",
+      "county": "ST LOUIS",
+      "count": 1
+    },
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "county": "HENRICO",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 20
+    },
+    {
+      "state": "CA",
+      "count": 17
+    },
+    {
+      "state": "NJ",
+      "count": 3
+    },
+    {
+      "state": "IL",
+      "count": 2
+    },
+    {
+      "state": "CO",
+      "count": 2
+    },
+    {
+      "state": "WA",
+      "count": 2
+    },
+    {
+      "state": "MO",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "count": 1
+    },
+    {
+      "state": "AZ",
+      "count": 1
+    },
+    {
+      "state": "IN",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 132079.0,
+    "gap_usd": 1919.0
+  }
+}

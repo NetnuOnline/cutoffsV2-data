@@ -1,0 +1,84 @@
+{
+  "slug": "jd-norman-industries",
+  "canonical_name": "JD NORMAN INDUSTRIES",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 3,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "MI",
+      "count": 2
+    },
+    {
+      "state": "IN",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "03/08/2021",
+      "effective_date": "03/08/2021",
+      "state": "MI",
+      "workers": 56,
+      "city": "Leslie"
+    },
+    {
+      "date": "03/08/2021",
+      "effective_date": "03/08/2021",
+      "state": "MI",
+      "workers": 0,
+      "city": "Leslie, County: Ingham, Number Affected:\u00a056"
+    },
+    {
+      "date": "10/11/2018",
+      "effective_date": "12/15/2018",
+      "state": "IN",
+      "workers": 130,
+      "city": "Muncie"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "economic-growth-region-6",
+      "name": "Economic Growth Region 6",
+      "state": "IN"
+    },
+    {
+      "slug": "capital-area-michigan-works",
+      "name": "Capital Area Michigan Works!",
+      "state": "MI"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 1,
+    "continuing_denials": 0,
+    "total_approvals": 1,
+    "by_fy": [
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "slug": "bfn-operations",
+  "canonical_name": "BFN Operations,",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 4,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "FL",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "count": 1
+    },
+    {
+      "state": "TN",
+      "count": 1
+    },
+    {
+      "state": "OR",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "01/25/2016",
+      "effective_date": "03/25/2016",
+      "state": "FL",
+      "workers": 64,
+      "city": "Quincy"
+    },
+    {
+      "date": "10/02/2015",
+      "effective_date": "11/30/2015",
+      "state": "NC",
+      "workers": 250,
+      "city": "Lumberton"
+    },
+    {
+      "date": "07/11/2014",
+      "effective_date": "07/02/2014",
+      "state": "TN",
+      "workers": 257,
+      "city": "Smithville"
+    },
+    {
+      "date": "06/30/2014",
+      "effective_date": "09/30/2014",
+      "state": "OR",
+      "workers": 100,
+      "city": "Cornelius"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "careersource-capital-region",
+      "name": "CareerSource Capital Region",
+      "state": "FL"
+    },
+    {
+      "slug": "07-local-workforce-investment-area",
+      "name": "07 Local Workforce Investment Area",
+      "state": "TN"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

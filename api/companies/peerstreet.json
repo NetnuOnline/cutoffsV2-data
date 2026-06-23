@@ -1,0 +1,108 @@
+{
+  "slug": "peerstreet",
+  "canonical_name": "PeerStreet",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 9,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 5
+    },
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "count": 1
+    },
+    {
+      "state": "SC",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "02/21/2023",
+      "effective_date": "04/16/2023",
+      "state": "NY",
+      "workers": 2,
+      "city": "Multiple locations"
+    },
+    {
+      "date": "02/15/2023",
+      "effective_date": "04/16/2023",
+      "state": "CA",
+      "workers": 30,
+      "city": "El Segundo"
+    },
+    {
+      "date": "02/15/2023",
+      "effective_date": "04/16/2023",
+      "state": "NY",
+      "workers": 2,
+      "city": "Multiple locations"
+    },
+    {
+      "date": "02/15/2023",
+      "effective_date": "04/16/2023",
+      "state": "NY",
+      "workers": 2,
+      "city": "Multiple locations"
+    },
+    {
+      "date": "02/15/2023",
+      "effective_date": "04/16/2023",
+      "state": "NY",
+      "workers": 2,
+      "city": null
+    },
+    {
+      "date": "02/15/2023",
+      "effective_date": "04/16/2023",
+      "state": "WA",
+      "workers": 1,
+      "city": "Liberty Lake"
+    },
+    {
+      "date": "02/15/2023",
+      "effective_date": "04/16/2023",
+      "state": "SC",
+      "workers": 2,
+      "city": "El Segundo"
+    },
+    {
+      "date": "02/15/2023",
+      "effective_date": "04/16/2023",
+      "state": "NY",
+      "workers": 2,
+      "city": "El Segundo"
+    },
+    {
+      "date": "02/15/2023",
+      "effective_date": "04/16/2023",
+      "state": "NC",
+      "workers": 42,
+      "city": "2121 Park Place, El Segundo CA"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "spokane-wib",
+      "name": "Spokane WIB",
+      "state": "WA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

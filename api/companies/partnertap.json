@@ -1,0 +1,60 @@
+{
+  "slug": "partnertap",
+  "canonical_name": "PartnerTap, Inc.",
+  "fein": "30-0951284",
+  "lca_filing_count": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 68702.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 160000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 68702.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "QA Engineer",
+      "count": 3,
+      "median_wage_usd": 68702.0
+    },
+    {
+      "title": " Senior Software Engineer",
+      "count": 1,
+      "median_wage_usd": 160000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 3
+    },
+    {
+      "state": "WA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1253",
+    "soc_title": "Software Quality Assurance Analysts and Testers",
+    "market_median_usd": 101800.0,
+    "employer_median_usd": 68702.0,
+    "gap_usd": -33098.0
+  }
+}

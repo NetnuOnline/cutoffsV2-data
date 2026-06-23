@@ -1,0 +1,203 @@
+{
+  "slug": "deere-company",
+  "canonical_name": "Deere & Company",
+  "fein": "36-2382580",
+  "lca_filing_count": 216,
+  "lca_worker_positions": 207,
+  "warn_notice_count": 0,
+  "median_wage_usd": 120700.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 15,
+      "median_wage_usd": 95000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 21,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 8,
+      "median_wage_usd": 112500.0
+    },
+    {
+      "fy": 2023,
+      "filings": 31,
+      "median_wage_usd": 120100.0
+    },
+    {
+      "fy": 2024,
+      "filings": 48,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 58,
+      "median_wage_usd": 130100.0
+    },
+    {
+      "fy": 2026,
+      "filings": 26,
+      "median_wage_usd": 129555.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Software Engineer",
+      "count": 48,
+      "median_wage_usd": 129210.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 46,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "title": "Staff Software Engineer",
+      "count": 23,
+      "median_wage_usd": 137000.0
+    },
+    {
+      "title": "Senior Site Reliability Engineer",
+      "count": 4,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "Information Security Engineer",
+      "count": 4,
+      "median_wage_usd": 112000.0
+    },
+    {
+      "title": "Sr. Software Engineer",
+      "count": 3,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "Software Engineer ",
+      "count": 3,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "title": "IT Data Analytics Engineer",
+      "count": 2,
+      "median_wage_usd": 130150.0
+    },
+    {
+      "title": "Senior Battery Management System Controls Engineer",
+      "count": 2,
+      "median_wage_usd": 144500.0
+    },
+    {
+      "title": "Senior Software Analyst",
+      "count": 2,
+      "median_wage_usd": 122400.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IL",
+      "county": "ROCK ISLAND",
+      "count": 90
+    },
+    {
+      "state": "IA",
+      "county": "POLK",
+      "count": 12
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 12
+    },
+    {
+      "state": "NC",
+      "county": "WAKE",
+      "count": 8
+    },
+    {
+      "state": "IA",
+      "county": "BLACK HAWK",
+      "count": 7
+    },
+    {
+      "state": "IA",
+      "county": "DUBUQUE",
+      "count": 2
+    },
+    {
+      "state": "MN",
+      "county": "DAKOTA",
+      "count": 1
+    },
+    {
+      "state": "IA",
+      "county": "WAPELLO",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 1
+    },
+    {
+      "state": "IA",
+      "county": "WINNESHIEK",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 156
+    },
+    {
+      "state": "IA",
+      "count": 37
+    },
+    {
+      "state": "NC",
+      "count": 11
+    },
+    {
+      "state": "TX",
+      "count": 4
+    },
+    {
+      "state": "WI",
+      "count": 2
+    },
+    {
+      "state": "GA",
+      "count": 2
+    },
+    {
+      "state": "LA",
+      "count": 1
+    },
+    {
+      "state": "ND",
+      "count": 1
+    },
+    {
+      "state": "MN",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 129210.0,
+    "gap_usd": -950.0
+  }
+}

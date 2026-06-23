@@ -1,0 +1,126 @@
+{
+  "slug": "novelis",
+  "canonical_name": "Novelis, Inc.",
+  "fein": "98-0442987",
+  "lca_filing_count": 28,
+  "lca_worker_positions": 27,
+  "warn_notice_count": 0,
+  "median_wage_usd": 138840.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 3,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 9,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 5,
+      "median_wage_usd": 143000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 5,
+      "median_wage_usd": 147230.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 145910.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Sr SAP Developer",
+      "count": 3,
+      "median_wage_usd": 147230.0
+    },
+    {
+      "title": "Senior Materials Engineer",
+      "count": 2,
+      "median_wage_usd": 117135.0
+    },
+    {
+      "title": "R&D Portfolio Analytics Lead",
+      "count": 2,
+      "median_wage_usd": 131000.0
+    },
+    {
+      "title": "Sr. Director, Procurement Excellence",
+      "count": 2,
+      "median_wage_usd": 220000.0
+    },
+    {
+      "title": "DevOps Engineer",
+      "count": 2,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "Lead Scientist",
+      "count": 1,
+      "median_wage_usd": 121400.0
+    },
+    {
+      "title": "Sr Automation Engineer II",
+      "count": 1,
+      "median_wage_usd": 134870.0
+    },
+    {
+      "title": "IT Master Data Lead",
+      "count": 1,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "title": "Data Engineer",
+      "count": 1,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "title": "R&D Process Engineer Lead",
+      "count": 1,
+      "median_wage_usd": 141990.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 14
+    },
+    {
+      "state": "GA",
+      "county": "COBB",
+      "count": 7
+    }
+  ],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 27
+    },
+    {
+      "state": "NY",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 147230.0,
+    "gap_usd": 17070.0
+  }
+}

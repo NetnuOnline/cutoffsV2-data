@@ -1,0 +1,65 @@
+{
+  "slug": "web-industries",
+  "canonical_name": "Web Industries, Inc.",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 4,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 2
+    },
+    {
+      "state": "MA",
+      "count": 1
+    },
+    {
+      "state": "VT",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "08/23/2023",
+      "effective_date": "10/19/2023",
+      "state": "MA",
+      "workers": 68,
+      "city": "Holliston"
+    },
+    {
+      "date": "07/22/2021",
+      "effective_date": "07/22/2021",
+      "state": "VT",
+      "workers": 11,
+      "city": "Montpelier"
+    },
+    {
+      "date": "09/30/2013",
+      "effective_date": "09/30/2013",
+      "state": "GA",
+      "workers": 6,
+      "city": "Swanee"
+    },
+    {
+      "date": "09/07/2012",
+      "effective_date": "09/07/2012",
+      "state": "GA",
+      "workers": 42,
+      "city": "Suwanee"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "central-vermont-wib",
+      "name": "Central Vermont WIB",
+      "state": "VT"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

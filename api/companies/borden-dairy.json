@@ -1,0 +1,58 @@
+{
+  "slug": "borden-dairy",
+  "canonical_name": "Borden Dairy",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 3,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "FL",
+      "count": 1
+    },
+    {
+      "state": "SC",
+      "count": 1
+    },
+    {
+      "state": "KY",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "04/04/2022",
+      "effective_date": "05/31/2022",
+      "state": "FL",
+      "workers": 154,
+      "city": "MIAMI"
+    },
+    {
+      "date": "03/31/2022",
+      "effective_date": "03/31/2022",
+      "state": "SC",
+      "workers": 177,
+      "city": "Charleston"
+    },
+    {
+      "date": "09/30/2013",
+      "effective_date": "09/30/2013",
+      "state": "KY",
+      "workers": 0,
+      "city": "Hopkins"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "trident-wib",
+      "name": "Trident WIB",
+      "state": "SC"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

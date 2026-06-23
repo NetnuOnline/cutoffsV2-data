@@ -1,0 +1,60 @@
+{
+  "slug": "genero-media-us",
+  "canonical_name": "Genero Media US Inc.",
+  "fein": null,
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 281250.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 281250.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "MANAGING DIRECTOR - NORTH AMERICA",
+      "count": 1,
+      "median_wage_usd": 300000.0
+    },
+    {
+      "title": "Client Director",
+      "count": 1,
+      "median_wage_usd": 262500.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "county": "MIAMI-DADE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-2021",
+    "soc_title": "Marketing Managers",
+    "market_median_usd": 157620.0,
+    "employer_median_usd": 281250.0,
+    "gap_usd": 123630.0
+  }
+}

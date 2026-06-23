@@ -1,0 +1,63 @@
+{
+  "slug": "big-dany",
+  "canonical_name": "Big Dany LLC",
+  "fein": "82-4402569",
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 83657.6,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 83657.59999999999
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Systems Engineer",
+      "count": 2,
+      "median_wage_usd": 83657.59999999999
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 2,
+    "initial_denials": 0,
+    "continuing_approvals": 0,
+    "continuing_denials": 0,
+    "total_approvals": 2,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      }
+    ]
+  },
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Computer Systems Engineers/Architects",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 83657.6,
+    "gap_usd": -34342.4
+  }
+}

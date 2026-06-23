@@ -1,0 +1,69 @@
+{
+  "slug": "owner-com",
+  "canonical_name": "Owner.com, Inc.",
+  "fein": "88-0757503",
+  "lca_filing_count": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 230000.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 230000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 230000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Staff Software Engineer, Integrations",
+      "count": 1,
+      "median_wage_usd": 230000.0
+    },
+    {
+      "title": "Senior Data Scientist, GTM",
+      "count": 1,
+      "median_wage_usd": null
+    },
+    {
+      "title": "Staff Software Engineer",
+      "count": 1,
+      "median_wage_usd": 230000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NJ",
+      "county": "MERCER",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 230000.0,
+    "gap_usd": 99840.0
+  }
+}

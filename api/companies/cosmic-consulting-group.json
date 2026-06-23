@@ -1,0 +1,114 @@
+{
+  "slug": "cosmic-consulting-group",
+  "canonical_name": "Cosmic Consulting Group, Inc",
+  "fein": "90-0399879",
+  "lca_filing_count": 11,
+  "lca_worker_positions": 9,
+  "warn_notice_count": 0,
+  "median_wage_usd": 104624.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 104624.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 105892.5
+    },
+    {
+      "fy": 2025,
+      "filings": 5,
+      "median_wage_usd": 88150.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 82846.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "IT Project Manager",
+      "count": 3,
+      "median_wage_usd": 82846.0
+    },
+    {
+      "title": "Software Developer/SAP",
+      "count": 3,
+      "median_wage_usd": 104624.0
+    },
+    {
+      "title": "Data Scientist",
+      "count": 1,
+      "median_wage_usd": 109491.0
+    },
+    {
+      "title": "Data Engineer",
+      "count": 1,
+      "median_wage_usd": 96741.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 1,
+      "median_wage_usd": 106558.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 105227.0
+    },
+    {
+      "title": "IT Solutions Architect",
+      "count": 1,
+      "median_wage_usd": 88150.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 6
+    },
+    {
+      "state": "NY",
+      "county": "WESTCHESTER",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 7
+    },
+    {
+      "state": "NY",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Information Technology Project Managers",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 82846.0,
+    "gap_usd": -35154.0
+  }
+}

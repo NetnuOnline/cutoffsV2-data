@@ -1,0 +1,43 @@
+{
+  "slug": "l-m-bus-corporation",
+  "canonical_name": "L&M Bus Corporation",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "10/20/2025",
+      "effective_date": "10/31/2025",
+      "state": "NY",
+      "workers": 28,
+      "city": "Mount Vernon"
+    },
+    {
+      "date": "10/20/2025",
+      "effective_date": "10/31/2025",
+      "state": "NY",
+      "workers": 395,
+      "city": "Brooklyn"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "city-of-yonkers-lwia",
+      "name": "City of Yonkers LWIA",
+      "state": "NY"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

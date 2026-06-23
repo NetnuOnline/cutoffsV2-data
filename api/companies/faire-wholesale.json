@@ -1,0 +1,144 @@
+{
+  "slug": "faire-wholesale",
+  "canonical_name": "Faire Wholesale, Inc.",
+  "fein": "81-4549038",
+  "lca_filing_count": 26,
+  "lca_worker_positions": 26,
+  "warn_notice_count": 0,
+  "median_wage_usd": 212500.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 4,
+      "median_wage_usd": 220000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 7,
+      "median_wage_usd": 155000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 184677.64
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 270000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 216258.0
+    },
+    {
+      "fy": 2026,
+      "filings": 10,
+      "median_wage_usd": 230000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "AI Platform Engineer",
+      "count": 2,
+      "median_wage_usd": 210000.0
+    },
+    {
+      "title": "Senior Data Scientist",
+      "count": 2,
+      "median_wage_usd": 220000.0
+    },
+    {
+      "title": "Staff Data Engineer",
+      "count": 1,
+      "median_wage_usd": 270000.0
+    },
+    {
+      "title": "Senior Product Manager",
+      "count": 1,
+      "median_wage_usd": 245000.0
+    },
+    {
+      "title": "Marketing Analytics Lead",
+      "count": 1,
+      "median_wage_usd": 162155.28
+    },
+    {
+      "title": "Machine Learning Engineer - Ads",
+      "count": 1,
+      "median_wage_usd": 215000.0
+    },
+    {
+      "title": "Senior Engineering Manager",
+      "count": 1,
+      "median_wage_usd": 250000.0
+    },
+    {
+      "title": "Senior Manager, Risk Strategy & Ops",
+      "count": 1,
+      "median_wage_usd": 207200.0
+    },
+    {
+      "title": "GTM Strategy & Operations Associate",
+      "count": 1,
+      "median_wage_usd": 155000.0
+    },
+    {
+      "title": "Strategy & Analytics Lead",
+      "count": 1,
+      "median_wage_usd": 194834.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 10
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 21
+    },
+    {
+      "state": "NY",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "WA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 220000.0,
+    "gap_usd": 89840.0
+  }
+}

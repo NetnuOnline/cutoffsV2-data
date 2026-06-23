@@ -1,0 +1,85 @@
+{
+  "slug": "workmagic",
+  "canonical_name": "WorkMagic Inc.",
+  "fein": "92-3618970",
+  "lca_filing_count": 5,
+  "lca_worker_positions": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 160000.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 116646.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 170000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 133904.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Data Scientist",
+      "count": 1,
+      "median_wage_usd": 200000.0
+    },
+    {
+      "title": "Staff Data Scientist",
+      "count": 1,
+      "median_wage_usd": 116646.0
+    },
+    {
+      "title": "Media Analytics Director",
+      "count": 1,
+      "median_wage_usd": 180000.0
+    },
+    {
+      "title": "Product Manager",
+      "count": 1,
+      "median_wage_usd": 160000.0
+    },
+    {
+      "title": "Market Research Analyst",
+      "count": 1,
+      "median_wage_usd": 67808.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 3
+    },
+    {
+      "state": "FL",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1161",
+    "soc_title": "Market Research Analysts and Marketing Specialists",
+    "market_median_usd": 74680.0,
+    "employer_median_usd": 113904.0,
+    "gap_usd": 39224.0
+  }
+}

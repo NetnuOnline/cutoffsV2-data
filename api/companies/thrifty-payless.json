@@ -1,0 +1,86 @@
+{
+  "slug": "thrifty-payless",
+  "canonical_name": "Thrifty Payless, Inc.",
+  "fein": null,
+  "lca_filing_count": 4,
+  "warn_notice_count": 1,
+  "median_wage_usd": 164413.6,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 4,
+      "median_wage_usd": 164413.6
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Pharmacist",
+      "count": 1,
+      "median_wage_usd": 152027.2
+    },
+    {
+      "title": "Staff Pharmacist",
+      "count": 1,
+      "median_wage_usd": 145600.0
+    },
+    {
+      "title": "Pharmacist Manager",
+      "count": 1,
+      "median_wage_usd": 176800.0
+    },
+    {
+      "title": "Pharmacy Manager",
+      "count": 1,
+      "median_wage_usd": 176800.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 3
+    },
+    {
+      "state": "WA",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SISKIYOU",
+      "count": 2
+    },
+    {
+      "state": "WA",
+      "county": "GRANT",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "YOLO",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "10/15/1996",
+      "effective_date": "02/12/1997",
+      "state": "OR",
+      "workers": 670,
+      "city": "Wilsonville"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "clackamas-wia",
+      "name": "Clackamas WIA",
+      "state": "OR"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": []
+}

@@ -1,0 +1,71 @@
+{
+  "slug": "logix-guru",
+  "canonical_name": "Logix Guru, LLC",
+  "fein": "26-2907608",
+  "lca_filing_count": 4,
+  "lca_worker_positions": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 110723.2,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 96720.0
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 106246.4
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 115200.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Marketing Data Analyst",
+      "count": 2,
+      "median_wage_usd": 115200.0
+    },
+    {
+      "title": "QA Tester",
+      "count": 1,
+      "median_wage_usd": 96720.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 106246.4
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "PA",
+      "county": "ALLEGHENY",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "PA",
+      "count": 2
+    },
+    {
+      "state": "MA",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1161",
+    "soc_title": "Search Marketing Strategists",
+    "market_median_usd": 74680.0,
+    "employer_median_usd": 115200.0,
+    "gap_usd": 40520.0
+  }
+}

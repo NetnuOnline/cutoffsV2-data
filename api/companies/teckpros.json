@@ -1,0 +1,203 @@
+{
+  "slug": "teckpros",
+  "canonical_name": "Teckpros LLC",
+  "fein": "55-0896354",
+  "lca_filing_count": 52,
+  "lca_worker_positions": 47,
+  "warn_notice_count": 0,
+  "median_wage_usd": 102000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 6,
+      "median_wage_usd": 91750.0
+    },
+    {
+      "fy": 2021,
+      "filings": 5,
+      "median_wage_usd": 95950.0
+    },
+    {
+      "fy": 2022,
+      "filings": 11,
+      "median_wage_usd": 98550.40000000001
+    },
+    {
+      "fy": 2023,
+      "filings": 8,
+      "median_wage_usd": 101000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 10,
+      "median_wage_usd": 126500.0
+    },
+    {
+      "fy": 2025,
+      "filings": 4,
+      "median_wage_usd": 121222.0
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 106500.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 13,
+      "median_wage_usd": 101109.0
+    },
+    {
+      "title": "Workday Consultant",
+      "count": 3,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "Business Analyst",
+      "count": 3,
+      "median_wage_usd": 80000.0
+    },
+    {
+      "title": "Senior Systems Analyst",
+      "count": 3,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "Automation Engineer",
+      "count": 2,
+      "median_wage_usd": 99944.20000000001
+    },
+    {
+      "title": "PostgreSQL Database Administrator",
+      "count": 2,
+      "median_wage_usd": 89000.0
+    },
+    {
+      "title": "DBA Administrator III",
+      "count": 2,
+      "median_wage_usd": 121222.0
+    },
+    {
+      "title": "Cloud Platform Build Engineer",
+      "count": 2,
+      "median_wage_usd": 128000.0
+    },
+    {
+      "title": "Testing Specialist Automation",
+      "count": 2,
+      "median_wage_usd": 102000.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 2,
+      "median_wage_usd": 99909.5
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MD",
+      "county": "HOWARD",
+      "count": 5
+    },
+    {
+      "state": "VA",
+      "county": "FAIRFAX",
+      "count": 5
+    },
+    {
+      "state": "NC",
+      "county": "DURHAM",
+      "count": 3
+    },
+    {
+      "state": "NC",
+      "county": "CABARRUS",
+      "count": 3
+    },
+    {
+      "state": "NC",
+      "county": "MECKLENBURG",
+      "count": 3
+    },
+    {
+      "state": "NY",
+      "county": "RENSSELAER",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "TARRANT",
+      "count": 2
+    },
+    {
+      "state": "OH",
+      "county": "FRANKLIN",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "county": "LAKE",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NC",
+      "count": 11
+    },
+    {
+      "state": "VA",
+      "count": 9
+    },
+    {
+      "state": "TX",
+      "count": 9
+    },
+    {
+      "state": "MD",
+      "count": 6
+    },
+    {
+      "state": "NY",
+      "count": 3
+    },
+    {
+      "state": "WV",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "count": 2
+    },
+    {
+      "state": "OH",
+      "count": 2
+    },
+    {
+      "state": "TN",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 116500.0,
+    "gap_usd": -13660.0
+  }
+}

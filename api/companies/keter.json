@@ -1,0 +1,54 @@
+{
+  "slug": "keter",
+  "canonical_name": "KETER US",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 3,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "NC",
+      "count": 2
+    },
+    {
+      "state": "NM",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "04/07/2023",
+      "effective_date": "06/30/2023",
+      "state": "NC",
+      "workers": 65,
+      "city": "2369 Charles Raper Jonas Hwy, Stanley"
+    },
+    {
+      "date": "08/25/2022",
+      "effective_date": "10/28/2022",
+      "state": "NC",
+      "workers": 68,
+      "city": "2369 Charles Raper Jonas Hwy, Stanley"
+    },
+    {
+      "date": "05/29/2020",
+      "effective_date": "05/29/2020",
+      "state": "NM",
+      "workers": 63,
+      "city": "Belen"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "central-area-wib-nm",
+      "name": "Central Area WIB",
+      "state": "NM"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

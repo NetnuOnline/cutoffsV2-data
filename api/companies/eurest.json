@@ -1,0 +1,41 @@
+{
+  "slug": "eurest",
+  "canonical_name": "Eurest",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "MI",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "03/18/2020",
+      "effective_date": "03/18/2020",
+      "state": "MI",
+      "workers": 98,
+      "city": "Auburn Hills, Michigan"
+    },
+    {
+      "date": "10/27/2017",
+      "effective_date": "01/01/2018",
+      "state": "CA",
+      "workers": 169,
+      "city": "Mountain View"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

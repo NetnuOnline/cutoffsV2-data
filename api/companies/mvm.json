@@ -1,0 +1,95 @@
+{
+  "slug": "mvm",
+  "canonical_name": "MVM",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 7,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "MD",
+      "count": 4
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "VT",
+      "count": 1
+    },
+    {
+      "state": "IA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "02/26/2025",
+      "effective_date": "03/18/2025",
+      "state": "TX",
+      "workers": 247,
+      "city": "El Paso"
+    },
+    {
+      "date": "07/22/2013",
+      "effective_date": "09/30/2013",
+      "state": "MD",
+      "workers": 106,
+      "city": "College Park"
+    },
+    {
+      "date": "07/22/2013",
+      "effective_date": "09/30/2013",
+      "state": "MD",
+      "workers": 106,
+      "city": "Silver Spring"
+    },
+    {
+      "date": "07/22/2013",
+      "effective_date": "09/30/2013",
+      "state": "MD",
+      "workers": 106,
+      "city": "Silver Spring"
+    },
+    {
+      "date": "07/22/2013",
+      "effective_date": "09/30/2013",
+      "state": "MD",
+      "workers": 106,
+      "city": "Silver Spring"
+    },
+    {
+      "date": "03/08/2013",
+      "effective_date": "03/08/2013",
+      "state": "VT",
+      "workers": 78,
+      "city": "00 - Vermont Workforce Investment Area"
+    },
+    {
+      "date": "03/22/2012",
+      "effective_date": "06/01/2012",
+      "state": "IA",
+      "workers": 59,
+      "city": "Ashburn"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "montgomery-wia",
+      "name": "Montgomery WIA",
+      "state": "MD"
+    },
+    {
+      "slug": "upper-rio-grande-wda",
+      "name": "Upper Rio Grande WDA",
+      "state": "TX"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

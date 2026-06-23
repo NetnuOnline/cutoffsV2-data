@@ -1,0 +1,87 @@
+{
+  "slug": "indiana-farm-bureau-insurance",
+  "canonical_name": "Indiana Farm Bureau Insurance",
+  "fein": "35-0302190",
+  "lca_filing_count": 8,
+  "lca_worker_positions": 8,
+  "warn_notice_count": 0,
+  "median_wage_usd": 126154.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 4,
+      "median_wage_usd": 120304.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 116272.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 130500.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer II Open Stack",
+      "count": 2,
+      "median_wage_usd": 107043.0
+    },
+    {
+      "title": "Predictive Analytics Specialist",
+      "count": 1,
+      "median_wage_usd": 88400.0
+    },
+    {
+      "title": "Software Developer III",
+      "count": 1,
+      "median_wage_usd": 129831.0
+    },
+    {
+      "title": "Sr. Data Warehousing Analyst",
+      "count": 1,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "title": "Manager, Data Warehousing",
+      "count": 1,
+      "median_wage_usd": 136000.0
+    },
+    {
+      "title": "Software Developer ",
+      "count": 1,
+      "median_wage_usd": 127308.0
+    },
+    {
+      "title": "Cloud Solutions Architect",
+      "count": 1,
+      "median_wage_usd": 144144.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IN",
+      "county": "MARION",
+      "count": 6
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IN",
+      "count": 8
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 127308.0,
+    "gap_usd": -2852.0
+  }
+}

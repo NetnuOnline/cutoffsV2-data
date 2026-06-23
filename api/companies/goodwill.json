@@ -1,0 +1,47 @@
+{
+  "slug": "goodwill",
+  "canonical_name": "Goodwill",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "WI",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "04/20/2020",
+      "effective_date": "04/16/2020",
+      "state": "WI",
+      "workers": 20,
+      "city": "Ashland, Superior"
+    },
+    {
+      "date": "01/28/2013",
+      "effective_date": "01/28/2013",
+      "state": "GA",
+      "workers": 37,
+      "city": "Lawrenceville"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "northwest-wda",
+      "name": "Northwest WDA",
+      "state": "WI"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

@@ -1,0 +1,106 @@
+{
+  "slug": "parab-consulting-group",
+  "canonical_name": "Parab Consulting Group, Inc.",
+  "fein": "26-4686904",
+  "lca_filing_count": 13,
+  "lca_worker_positions": 13,
+  "warn_notice_count": 0,
+  "median_wage_usd": 133307.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 110250.0
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 82500.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 137500.0
+    },
+    {
+      "fy": 2023,
+      "filings": 4,
+      "median_wage_usd": 131653.5
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 137500.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 150187.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Master Data Management Specialist",
+      "count": 4,
+      "median_wage_usd": 129153.5
+    },
+    {
+      "title": "Software Application Engineer",
+      "count": 3,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "title": "Data Sciences Engineer",
+      "count": 2,
+      "median_wage_usd": 106250.0
+    },
+    {
+      "title": "Senior Informatica Developer",
+      "count": 2,
+      "median_wage_usd": 143750.0
+    },
+    {
+      "title": "Data Science Engineer",
+      "count": 1,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "title": "Software Application Engineer (Salesforce Developer)",
+      "count": 1,
+      "median_wage_usd": 125000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MD",
+      "county": "MONTGOMERY",
+      "count": 7
+    },
+    {
+      "state": "NJ",
+      "county": "SOMERSET",
+      "count": 4
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MD",
+      "count": 9
+    },
+    {
+      "state": "NJ",
+      "count": 4
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 140000.0,
+    "gap_usd": 9840.0
+  }
+}

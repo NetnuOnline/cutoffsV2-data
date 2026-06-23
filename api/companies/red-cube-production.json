@@ -1,0 +1,86 @@
+{
+  "slug": "red-cube-production",
+  "canonical_name": "Red Cube Production, Inc.",
+  "fein": "47-5643412",
+  "lca_filing_count": 6,
+  "lca_worker_positions": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 98883.3,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 103552.9
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 86132.79999999999
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 108836.09999999999,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Marketing Strategist",
+      "count": 2,
+      "median_wage_usd": 74890.5
+    },
+    {
+      "title": "Business Intelligence Analyst",
+      "count": 1,
+      "median_wage_usd": 93309.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 135699.19999999998
+    },
+    {
+      "title": "Mutimedia Artist",
+      "count": 1,
+      "median_wage_usd": 113796.8
+    },
+    {
+      "title": "Digital Marketing Analyst",
+      "count": 1,
+      "median_wage_usd": 104457.59999999999
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "ORANGE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 5
+    },
+    {
+      "state": "MI",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1161",
+    "soc_title": "Search Marketing Strategists",
+    "market_median_usd": 74680.0,
+    "employer_median_usd": 74890.5,
+    "gap_usd": 210.5
+  }
+}

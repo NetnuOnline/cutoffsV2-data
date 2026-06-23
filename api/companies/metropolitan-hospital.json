@@ -1,0 +1,67 @@
+{
+  "slug": "metropolitan-hospital",
+  "canonical_name": "Metropolitan Hospital",
+  "fein": "38-0593405",
+  "lca_filing_count": 3,
+  "lca_worker_positions": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 280000.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 280000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 69908.8
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 353600.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Child & Adolescent Psychiatry Physician",
+      "count": 1,
+      "median_wage_usd": 280000.0
+    },
+    {
+      "title": "Neurology/Epilepsy Physician",
+      "count": 1,
+      "median_wage_usd": 353600.0
+    },
+    {
+      "title": "Business Intelligence Analyst 1",
+      "count": 1,
+      "median_wage_usd": 69908.8
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MI",
+      "county": "KENT",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MI",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Business Intelligence Analysts",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 69908.8,
+    "gap_usd": -38111.2
+  }
+}

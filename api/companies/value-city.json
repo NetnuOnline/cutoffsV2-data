@@ -1,0 +1,73 @@
+{
+  "slug": "value-city",
+  "canonical_name": "Value City",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 6,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 3
+    },
+    {
+      "state": "NJ",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "10/31/2008",
+      "effective_date": "10/31/2008",
+      "state": "GA",
+      "workers": 90,
+      "city": "Doraville"
+    },
+    {
+      "date": "04/04/2008",
+      "effective_date": "04/04/2008",
+      "state": "GA",
+      "workers": 31,
+      "city": "Roswell"
+    },
+    {
+      "date": "01/16/2008",
+      "effective_date": "01/16/2008",
+      "state": "GA",
+      "workers": 102,
+      "city": "Marietta"
+    },
+    {
+      "date": "01/07/2008",
+      "effective_date": "01/07/2008",
+      "state": "NJ",
+      "workers": 101,
+      "city": "IRVINGTON"
+    },
+    {
+      "date": "12/21/2007",
+      "effective_date": "01/01/2008",
+      "state": "IL",
+      "workers": 117,
+      "city": "Harwood Heights"
+    },
+    {
+      "date": "01/07/2006",
+      "effective_date": "01/07/2006",
+      "state": "NJ",
+      "workers": 139,
+      "city": "PARAMUS"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

@@ -1,0 +1,231 @@
+{
+  "slug": "tpi-composites",
+  "canonical_name": "TPI Composites, Inc.",
+  "fein": null,
+  "lca_filing_count": 3,
+  "warn_notice_count": 4,
+  "median_wage_usd": 100000.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 98389.98
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 100000.08
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Design Engineer",
+      "count": 2,
+      "median_wage_usd": 100000.08
+    },
+    {
+      "title": "Enterprise Architect",
+      "count": 1,
+      "median_wage_usd": 98389.98
+    }
+  ],
+  "top_states": [
+    {
+      "state": "RI",
+      "count": 2
+    },
+    {
+      "state": "AZ",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "RI",
+      "county": "BRISTOL",
+      "count": 1
+    },
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 1
+    },
+    {
+      "state": "RI",
+      "county": "WARREN",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "09/22/2023",
+      "effective_date": "08/15/2023",
+      "state": "RI",
+      "workers": 52,
+      "city": "Warren"
+    },
+    {
+      "date": "08/16/2023",
+      "effective_date": "08/15/2023",
+      "state": "RI",
+      "workers": 52,
+      "city": "Warren"
+    },
+    {
+      "date": "10/18/2021",
+      "effective_date": "12/31/2021",
+      "state": "IA",
+      "workers": 710,
+      "city": "Newton"
+    },
+    {
+      "date": "01/23/2020",
+      "effective_date": "01/30/2020",
+      "state": "IA",
+      "workers": 10,
+      "city": "Newton"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "region-11-des-moines-wib",
+      "name": "Region 11 - Des Moines WIB",
+      "state": "IA"
+    },
+    {
+      "slug": "workforce-partnership-of-greater-rhode-island",
+      "name": "Workforce Partnership of Greater Rhode Island",
+      "state": "RI"
+    }
+  ],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2024-12-31",
+        "formType": "8-K",
+        "accessionNumber": "0001171843-24-007129",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001455684&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2024-06-17",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-24-162590",
+        "items": [
+          "2.06",
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Material Impairments",
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001455684&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2023-08-11",
+        "formType": "8-K",
+        "accessionNumber": "0001171843-23-005270",
+        "items": [
+          "2.05",
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities",
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001455684&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2022-12-02",
+        "formType": "8-K",
+        "accessionNumber": "0001171843-22-007795",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001455684&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 4,
+    "itemCounts": {
+      "2.05": 3,
+      "2.06": 2,
+      "5.02": 1
+    },
+    "latestFilingDate": "2024-12-31",
+    "earliestFilingDate": "2022-12-02"
+  },
+  "bankruptcy_data": {
+    "filings": [
+      {
+        "filingDate": "2025-08-15",
+        "formType": "8-K",
+        "accessionNumber": "0001171843-25-005450",
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001455684&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 1,
+    "latestFilingDate": "2025-08-15",
+    "earliestFilingDate": "2025-08-15"
+  },
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 2,
+    "initial_denials": 0,
+    "continuing_approvals": 5,
+    "continuing_denials": 0,
+    "total_approvals": 7,
+    "by_fy": [
+      {
+        "fy": 2009,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      }
+    ]
+  },
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": []
+}

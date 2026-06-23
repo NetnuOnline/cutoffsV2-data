@@ -1,0 +1,55 @@
+{
+  "slug": "corporate-express",
+  "canonical_name": "Corporate Express",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 4,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 3
+    },
+    {
+      "state": "OK",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "01/07/2008",
+      "effective_date": "01/07/2008",
+      "state": "OK",
+      "workers": 65,
+      "city": null
+    },
+    {
+      "date": "07/26/2007",
+      "effective_date": "10/01/2007",
+      "state": "IL",
+      "workers": 11,
+      "city": "Woodridge"
+    },
+    {
+      "date": "07/26/2007",
+      "effective_date": "09/01/2007",
+      "state": "IL",
+      "workers": 50,
+      "city": "Woodridge"
+    },
+    {
+      "date": "02/15/1999",
+      "effective_date": "02/15/1999",
+      "state": "IL",
+      "workers": 0,
+      "city": "Chicago"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

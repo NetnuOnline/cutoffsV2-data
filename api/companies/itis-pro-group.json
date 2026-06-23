@@ -1,0 +1,126 @@
+{
+  "slug": "itis-pro-group",
+  "canonical_name": "ITIS Pro Group LLC",
+  "fein": "83-0557612",
+  "lca_filing_count": 12,
+  "lca_worker_positions": 12,
+  "warn_notice_count": 0,
+  "median_wage_usd": 101192.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 83637.0
+    },
+    {
+      "fy": 2021,
+      "filings": 3,
+      "median_wage_usd": 91874.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 101192.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 105976.0
+    },
+    {
+      "fy": 2025,
+      "filings": 4,
+      "median_wage_usd": 101992.5
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 102086.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 8,
+      "median_wage_usd": 97614.5
+    },
+    {
+      "title": "ETL QA Tester",
+      "count": 2,
+      "median_wage_usd": 102086.0
+    },
+    {
+      "title": "QA Analyst",
+      "count": 1,
+      "median_wage_usd": 72842.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 105976.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 3
+    },
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "BEXAR",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "county": "BROWARD",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 4
+    },
+    {
+      "state": "NJ",
+      "count": 2
+    },
+    {
+      "state": "AZ",
+      "count": 2
+    },
+    {
+      "state": "FL",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "OH",
+      "count": 1
+    },
+    {
+      "state": "KS",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 101899.0,
+    "gap_usd": -28261.0
+  }
+}

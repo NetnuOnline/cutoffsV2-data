@@ -1,0 +1,51 @@
+{
+  "slug": "the-collective-paper-factory",
+  "canonical_name": "The Collective Paper Factory",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 1,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "03/20/2020",
+      "effective_date": "03/20/2020",
+      "state": "NY",
+      "workers": 48,
+      "city": "Long Island City"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2004-09-21",
+        "formType": "8-K",
+        "accessionNumber": "0001104659-04-028154",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000701347&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 1,
+    "itemCounts": {
+      "5.02": 1
+    },
+    "latestFilingDate": "2004-09-21",
+    "earliestFilingDate": "2004-09-21"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

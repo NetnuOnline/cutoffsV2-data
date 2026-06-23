@@ -1,0 +1,203 @@
+{
+  "slug": "cnh-industrial-america",
+  "canonical_name": "CNH Industrial America LLC",
+  "fein": "76-0433811",
+  "lca_filing_count": 106,
+  "lca_worker_positions": 105,
+  "warn_notice_count": 0,
+  "median_wage_usd": 122221.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 9,
+      "median_wage_usd": 90552.0
+    },
+    {
+      "fy": 2021,
+      "filings": 8,
+      "median_wage_usd": 101250.0
+    },
+    {
+      "fy": 2022,
+      "filings": 13,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 17,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 29,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 16,
+      "median_wage_usd": 131950.0
+    },
+    {
+      "fy": 2026,
+      "filings": 13,
+      "median_wage_usd": 124072.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 4,
+      "median_wage_usd": 124125.0
+    },
+    {
+      "title": "Systems Engineer",
+      "count": 4,
+      "median_wage_usd": 112120.0
+    },
+    {
+      "title": "Embedded Software Engineer",
+      "count": 3,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 3,
+      "median_wage_usd": 139050.0
+    },
+    {
+      "title": "Senior Test Engineer",
+      "count": 3,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "Strategic Sourcing Manager",
+      "count": 2,
+      "median_wage_usd": 124225.0
+    },
+    {
+      "title": "Engineer, R&D",
+      "count": 2,
+      "median_wage_usd": 100396.0
+    },
+    {
+      "title": "Battery Management Systems Manager",
+      "count": 2,
+      "median_wage_usd": 165000.0
+    },
+    {
+      "title": "Engineer, Software Development",
+      "count": 2,
+      "median_wage_usd": 122572.5
+    },
+    {
+      "title": "Staff Data Scientist",
+      "count": 2,
+      "median_wage_usd": 171300.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IL",
+      "county": "DUPAGE",
+      "count": 26
+    },
+    {
+      "state": "MI",
+      "county": "WAYNE",
+      "count": 8
+    },
+    {
+      "state": "WI",
+      "county": "RACINE",
+      "count": 8
+    },
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 7
+    },
+    {
+      "state": "MI",
+      "county": "OAKLAND",
+      "count": 5
+    },
+    {
+      "state": "KS",
+      "county": "SEDGWICK",
+      "count": 4
+    },
+    {
+      "state": "SD",
+      "county": "MINNEHAHA",
+      "count": 4
+    },
+    {
+      "state": "PA",
+      "county": "LANCASTER",
+      "count": 4
+    },
+    {
+      "state": "ND",
+      "county": "CASS",
+      "count": 3
+    },
+    {
+      "state": "MN",
+      "county": "SWIFT",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 41
+    },
+    {
+      "state": "MI",
+      "count": 14
+    },
+    {
+      "state": "WI",
+      "count": 10
+    },
+    {
+      "state": "AZ",
+      "count": 10
+    },
+    {
+      "state": "PA",
+      "count": 5
+    },
+    {
+      "state": "KS",
+      "count": 4
+    },
+    {
+      "state": "SD",
+      "count": 4
+    },
+    {
+      "state": "TX",
+      "count": 3
+    },
+    {
+      "state": "ND",
+      "count": 3
+    },
+    {
+      "state": "WA",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 132000.0,
+    "gap_usd": 1840.0
+  }
+}

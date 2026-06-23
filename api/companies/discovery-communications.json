@@ -1,0 +1,189 @@
+{
+  "slug": "discovery-communications",
+  "canonical_name": "Discovery Communications, LLC",
+  "fein": "32-0204298",
+  "lca_filing_count": 81,
+  "lca_worker_positions": 80,
+  "warn_notice_count": 0,
+  "median_wage_usd": 157477.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 12,
+      "median_wage_usd": 155106.0
+    },
+    {
+      "fy": 2021,
+      "filings": 22,
+      "median_wage_usd": 162510.0
+    },
+    {
+      "fy": 2022,
+      "filings": 10,
+      "median_wage_usd": 131133.5
+    },
+    {
+      "fy": 2023,
+      "filings": 16,
+      "median_wage_usd": 173700.0
+    },
+    {
+      "fy": 2024,
+      "filings": 7,
+      "median_wage_usd": 143021.0
+    },
+    {
+      "fy": 2025,
+      "filings": 8,
+      "median_wage_usd": 169153.0
+    },
+    {
+      "fy": 2026,
+      "filings": 5,
+      "median_wage_usd": 212202.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SOFTWARE DEVELOPMENT ENGINEER III",
+      "count": 8,
+      "median_wage_usd": 158808.0
+    },
+    {
+      "title": "SOFTWARE DEVELOPMENT ENGINEER II",
+      "count": 5,
+      "median_wage_usd": 162510.0
+    },
+    {
+      "title": "Senior Data Engineer",
+      "count": 5,
+      "median_wage_usd": 153046.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 4,
+      "median_wage_usd": 186503.5
+    },
+    {
+      "title": "Staff Software Engineer",
+      "count": 4,
+      "median_wage_usd": 227540.29
+    },
+    {
+      "title": "APPLIED DATA SCIENTIST III",
+      "count": 3,
+      "median_wage_usd": 164070.0
+    },
+    {
+      "title": "Technical Program Manager II",
+      "count": 2,
+      "median_wage_usd": 118502.83
+    },
+    {
+      "title": "Senior Analytics Engineer",
+      "count": 2,
+      "median_wage_usd": 137786.0
+    },
+    {
+      "title": "Data Engineer",
+      "count": 2,
+      "median_wage_usd": 133448.0
+    },
+    {
+      "title": "Software Development Engineer I",
+      "count": 2,
+      "median_wage_usd": 131965.5
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 29
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 19
+    },
+    {
+      "state": "VA",
+      "county": "LOUDOUN",
+      "count": 13
+    },
+    {
+      "state": "TN",
+      "county": "KNOX",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 1
+    },
+    {
+      "state": "MD",
+      "county": "MONTGOMERY",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "WA",
+      "count": 38
+    },
+    {
+      "state": "NY",
+      "count": 21
+    },
+    {
+      "state": "VA",
+      "count": 13
+    },
+    {
+      "state": "TN",
+      "count": 3
+    },
+    {
+      "state": "GA",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "MD",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 169504.5,
+    "gap_usd": 39344.5
+  }
+}

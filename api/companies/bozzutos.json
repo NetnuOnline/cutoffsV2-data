@@ -1,0 +1,62 @@
+{
+  "slug": "bozzutos",
+  "canonical_name": "Bozzutos Inc.",
+  "fein": "06-0606469",
+  "lca_filing_count": 3,
+  "lca_worker_positions": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 119450.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 93785.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 134000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Project Leader Application and Web Technology Development",
+      "count": 1,
+      "median_wage_usd": 119450.0
+    },
+    {
+      "title": "Junior Industrial Engineer",
+      "count": 1,
+      "median_wage_usd": 68120.0
+    },
+    {
+      "title": "IT Manager",
+      "count": 1,
+      "median_wage_usd": 134000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CT",
+      "county": "CHESHIRE",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CT",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3021",
+    "soc_title": "Computer and Information Systems Managers",
+    "market_median_usd": 169510.0,
+    "employer_median_usd": 134000.0,
+    "gap_usd": -35510.0
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "slug": "toll-brothers",
+  "canonical_name": "Toll Brothers, Inc.",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 3,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "NC",
+      "count": 2
+    },
+    {
+      "state": "IN",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "07/06/2020",
+      "effective_date": "09/04/2020",
+      "state": "IN",
+      "workers": 35,
+      "city": "Knox"
+    },
+    {
+      "date": "08/29/2019",
+      "effective_date": "10/28/2019",
+      "state": "NC",
+      "workers": 117,
+      "city": "9400 Club Hill Drive, Raleigh"
+    },
+    {
+      "date": "08/29/2019",
+      "effective_date": "10/28/2019",
+      "state": "NC",
+      "workers": 93,
+      "city": "1200 Keith Road, Wake Forest"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "economic-growth-region-1",
+      "name": "Economic Growth Region 1",
+      "state": "IN"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 2,
+    "continuing_denials": 0,
+    "total_approvals": 2,
+    "by_fy": [
+      {
+        "fy": 2009,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2014,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2017,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      }
+    ]
+  }
+}

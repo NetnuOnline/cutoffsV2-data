@@ -1,0 +1,76 @@
+{
+  "slug": "natural-alternatives-international",
+  "canonical_name": "Natural Alternatives International",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 1,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "08/16/2023",
+      "effective_date": "10/01/2023",
+      "state": "CA",
+      "workers": 22,
+      "city": "Vista"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2008-12-12",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-08-252842",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000787253&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2008-08-08",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-08-171612",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000787253&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2007-09-28",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-07-210016",
+        "items": [
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000787253&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 3,
+    "itemCounts": {
+      "2.05": 2,
+      "2.06": 1
+    },
+    "latestFilingDate": "2008-12-12",
+    "earliestFilingDate": "2007-09-28"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

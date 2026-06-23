@@ -1,0 +1,198 @@
+{
+  "slug": "ihs-global",
+  "canonical_name": "IHS Global Inc.",
+  "fein": "22-2721160",
+  "lca_filing_count": 32,
+  "lca_worker_positions": 32,
+  "warn_notice_count": 0,
+  "median_wage_usd": 104226.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 7,
+      "median_wage_usd": 102107.0
+    },
+    {
+      "fy": 2022,
+      "filings": 9,
+      "median_wage_usd": 107571.14
+    },
+    {
+      "fy": 2023,
+      "filings": 8,
+      "median_wage_usd": 82400.0
+    },
+    {
+      "fy": 2024,
+      "filings": 4,
+      "median_wage_usd": 116934.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 90235.5
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 126760.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 6,
+      "median_wage_usd": 105898.57
+    },
+    {
+      "title": "Research Analyst",
+      "count": 6,
+      "median_wage_usd": 79375.0
+    },
+    {
+      "title": "SQA Engineer",
+      "count": 2,
+      "median_wage_usd": 96678.5
+    },
+    {
+      "title": "SENIOR SOFTWARE ENGINEER",
+      "count": 1,
+      "median_wage_usd": 134072.0
+    },
+    {
+      "title": "Technology Manager",
+      "count": 1,
+      "median_wage_usd": 78811.0
+    },
+    {
+      "title": "UX Architect Principal",
+      "count": 1,
+      "median_wage_usd": 133009.0
+    },
+    {
+      "title": "Principal Software Engineer",
+      "count": 1,
+      "median_wage_usd": 225000.0
+    },
+    {
+      "title": "Data Analytics Principal",
+      "count": 1,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Consultant",
+      "count": 1,
+      "median_wage_usd": 108300.0
+    },
+    {
+      "title": "Technical Product Manager",
+      "count": 1,
+      "median_wage_usd": 84800.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 15
+    },
+    {
+      "state": "MI",
+      "county": "OAKLAND",
+      "count": 3
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 2
+    },
+    {
+      "state": "DC",
+      "county": "DISTRICT OF COLUMBIA",
+      "count": 2
+    },
+    {
+      "state": "NC",
+      "county": "WAKE",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "county": "LEHIGH",
+      "count": 1
+    },
+    {
+      "state": "CO",
+      "county": "ARAPAHOE",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SAN DIEGO",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "county": "MIDDLESEX",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 19
+    },
+    {
+      "state": "MI",
+      "count": 3
+    },
+    {
+      "state": "WA",
+      "count": 2
+    },
+    {
+      "state": "DC",
+      "count": 2
+    },
+    {
+      "state": "CO",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1161",
+    "soc_title": "Market Research Analysts and Marketing Specialists",
+    "market_median_usd": 74680.0,
+    "employer_median_usd": 80000.0,
+    "gap_usd": 5320.0
+  }
+}

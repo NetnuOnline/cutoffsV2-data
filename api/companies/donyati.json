@@ -1,0 +1,130 @@
+{
+  "slug": "donyati",
+  "canonical_name": "Donyati, LLC",
+  "fein": "26-1769151",
+  "lca_filing_count": 12,
+  "lca_worker_positions": 12,
+  "warn_notice_count": 0,
+  "median_wage_usd": 98040.5,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 3,
+      "median_wage_usd": 95430.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 94848.0
+    },
+    {
+      "fy": 2023,
+      "filings": 4,
+      "median_wage_usd": 95992.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 97708.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 169000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Solution Architect",
+      "count": 2,
+      "median_wage_usd": 97385.5
+    },
+    {
+      "title": "EPM/CPM Application Developer",
+      "count": 2,
+      "median_wage_usd": 91333.0
+    },
+    {
+      "title": "Senior Master Data Management Lead",
+      "count": 1,
+      "median_wage_usd": 100651.0
+    },
+    {
+      "title": "Senior Software Developer",
+      "count": 1,
+      "median_wage_usd": 91333.0
+    },
+    {
+      "title": "HYPERION TECHNICAL LEAD",
+      "count": 1,
+      "median_wage_usd": 95430.0
+    },
+    {
+      "title": "HYPERION SOLUTION ARCHITECT ",
+      "count": 1,
+      "median_wage_usd": 95430.0
+    },
+    {
+      "title": "EPM & ERP Functional Lead",
+      "count": 1,
+      "median_wage_usd": 104083.0
+    },
+    {
+      "title": "Hyperion Developer",
+      "count": 1,
+      "median_wage_usd": 107952.0
+    },
+    {
+      "title": "Senior Solution Architect \u201c Data Scientist",
+      "count": 1,
+      "median_wage_usd": 169000.0
+    },
+    {
+      "title": "EPM/CPM Application Lead   ",
+      "count": 1,
+      "median_wage_usd": 100651.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "FL",
+      "county": "COLLIER",
+      "count": 8
+    },
+    {
+      "state": "MI",
+      "county": "OAKLAND",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "FL",
+      "count": 9
+    },
+    {
+      "state": "MI",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 91333.0,
+    "gap_usd": -38827.0
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "slug": "csra",
+  "canonical_name": "CSRA LLC",
+  "fein": null,
+  "lca_filing_count": 10,
+  "warn_notice_count": 2,
+  "median_wage_usd": 127281.5,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 7,
+      "median_wage_usd": 124563.0
+    },
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 133787.0
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 130000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer Senior",
+      "count": 2,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Software Developer Advisor",
+      "count": 2,
+      "median_wage_usd": 133209.93
+    },
+    {
+      "title": "Software Developer Technical Manager",
+      "count": 1,
+      "median_wage_usd": 158000.0
+    },
+    {
+      "title": "Senior Programmer",
+      "count": 1,
+      "median_wage_usd": 111916.0
+    },
+    {
+      "title": "Software Developer - Appian",
+      "count": 1,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "title": "Test Engineer Advisor",
+      "count": 1,
+      "median_wage_usd": 109574.0
+    },
+    {
+      "title": "Project/Task Manager",
+      "count": 1,
+      "median_wage_usd": 124563.0
+    },
+    {
+      "title": "Software Developer ",
+      "count": 1,
+      "median_wage_usd": 88837.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MD",
+      "count": 5
+    },
+    {
+      "state": "VA",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MD",
+      "county": "HOWARD",
+      "count": 2
+    },
+    {
+      "state": "VA",
+      "county": "FAIRFAX",
+      "count": 2
+    },
+    {
+      "state": "MD",
+      "county": "MONTGOMERY",
+      "count": 2
+    },
+    {
+      "state": "MD",
+      "county": "BALTIMORE",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "county": "LOUDOUN",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "KENDALL",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "08/02/2018",
+      "effective_date": "10/31/2018",
+      "state": "NY",
+      "workers": 31,
+      "city": "Fort Drum"
+    },
+    {
+      "date": "08/01/2018",
+      "effective_date": "08/01/2018",
+      "state": "KS",
+      "workers": 74,
+      "city": "2 - Workforce Investment Area II"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "jeffersonlewis-lwia",
+      "name": "Jefferson/Lewis LWIA",
+      "state": "NY"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 2,
+    "initial_denials": 0,
+    "continuing_approvals": 26,
+    "continuing_denials": 2,
+    "total_approvals": 28,
+    "by_fy": [
+      {
+        "fy": 2017,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 24,
+        "continuing_denials": 2,
+        "total_approvals": 25
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      }
+    ]
+  },
+  "lca_worker_positions": 10,
+  "top_socs": [],
+  "lca_periods": []
+}

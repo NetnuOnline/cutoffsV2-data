@@ -1,0 +1,48 @@
+{
+  "slug": "dalton-corporation",
+  "canonical_name": "Dalton Corporation",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "IN",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "12/29/2025",
+      "effective_date": "02/27/2026",
+      "state": "IN",
+      "workers": 257,
+      "city": "Warsaw"
+    },
+    {
+      "date": "12/09/2008",
+      "effective_date": "05/01/2009",
+      "state": "IN",
+      "workers": 281,
+      "city": "Kendallville"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "economic-growth-region-2",
+      "name": "Economic Growth Region 2",
+      "state": "IN"
+    },
+    {
+      "slug": "economic-growth-region-3",
+      "name": "Economic Growth Region 3",
+      "state": "IN"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "heinz",
+  "canonical_name": "Heinz",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "SC",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "03/21/2014",
+      "effective_date": "03/21/2014",
+      "state": "SC",
+      "workers": 198,
+      "city": "Florence"
+    },
+    {
+      "date": "09/11/2006",
+      "effective_date": "09/11/2006",
+      "state": "NJ",
+      "workers": 82,
+      "city": "PENNSAUKEN"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "pee-dee-wib",
+      "name": "Pee Dee WIB",
+      "state": "SC"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

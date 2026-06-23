@@ -1,0 +1,94 @@
+{
+  "slug": "purple-innovation",
+  "canonical_name": "Purple Innovation, LLC",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "UT",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "10/22/2024",
+      "effective_date": "10/22/2024",
+      "state": "UT",
+      "workers": 328,
+      "city": "Salt Lake City"
+    },
+    {
+      "date": "09/02/2022",
+      "effective_date": "09/02/2022",
+      "state": "UT",
+      "workers": 135,
+      "city": "Alpine"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "wasatch-front-south-wib",
+      "name": "Wasatch Front South WIB",
+      "state": "UT"
+    },
+    {
+      "slug": "mountainland-wib",
+      "name": "Mountainland WIB",
+      "state": "UT"
+    }
+  ],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2024-08-22",
+        "formType": "8-K",
+        "accessionNumber": "0001213900-24-071839",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001643953&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 1,
+    "itemCounts": {
+      "2.05": 1
+    },
+    "latestFilingDate": "2024-08-22",
+    "earliestFilingDate": "2024-08-22"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 2,
+    "continuing_denials": 0,
+    "total_approvals": 2,
+    "by_fy": [
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      }
+    ]
+  }
+}

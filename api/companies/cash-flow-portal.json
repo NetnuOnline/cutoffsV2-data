@@ -1,0 +1,104 @@
+{
+  "slug": "cash-flow-portal",
+  "canonical_name": "Cash Flow Portal, Inc.",
+  "fein": "86-1948714",
+  "lca_filing_count": 8,
+  "lca_worker_positions": 8,
+  "warn_notice_count": 0,
+  "median_wage_usd": 130000.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 5,
+      "median_wage_usd": 102000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 137220.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 154440.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 3,
+      "median_wage_usd": 102000.0
+    },
+    {
+      "title": "Head of Revenue",
+      "count": 2,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "title": "Engineering Manager",
+      "count": 1,
+      "median_wage_usd": 154440.0
+    },
+    {
+      "title": "Individual Contributor Manager, Engineering",
+      "count": 1,
+      "median_wage_usd": 154440.0
+    },
+    {
+      "title": "Human Resources Manager",
+      "count": 1,
+      "median_wage_usd": 79394.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 2
+    },
+    {
+      "state": "NY",
+      "county": "KINGS",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "county": "ORANGE",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "WA",
+      "count": 5
+    },
+    {
+      "state": "NY",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 102000.0,
+    "gap_usd": -28160.0
+  }
+}

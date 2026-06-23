@@ -1,0 +1,126 @@
+{
+  "slug": "ezcorp",
+  "canonical_name": "EZCorp Inc.",
+  "fein": null,
+  "lca_filing_count": 4,
+  "warn_notice_count": 1,
+  "median_wage_usd": 370000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 3,
+      "median_wage_usd": 370000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 370000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Chief Financial Officer",
+      "count": 3,
+      "median_wage_usd": 370000.0
+    },
+    {
+      "title": "VICE PRESIDENT, TREASURER, MERGERS AND ACQUISITIONS",
+      "count": 1,
+      "median_wage_usd": 228768.8
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 4
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 4
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "07/30/2015",
+      "effective_date": "07/29/2015",
+      "state": "TX",
+      "workers": 98,
+      "city": "Austin"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2015-07-29",
+        "formType": "8-K",
+        "accessionNumber": "0000876523-15-000068",
+        "items": [
+          "2.05",
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities",
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000876523&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2014-10-06",
+        "formType": "8-K",
+        "accessionNumber": "0000876523-14-000092",
+        "items": [
+          "2.05",
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities",
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000876523&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2014-09-15",
+        "formType": "8-K",
+        "accessionNumber": "0000876523-14-000089",
+        "items": [
+          "2.05",
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities",
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000876523&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2013-07-01",
+        "formType": "8-K",
+        "accessionNumber": "0000876523-13-000035",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000876523&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 4,
+    "itemCounts": {
+      "2.05": 4,
+      "2.06": 2,
+      "5.02": 1
+    },
+    "latestFilingDate": "2015-07-29",
+    "earliestFilingDate": "2013-07-01"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": []
+}

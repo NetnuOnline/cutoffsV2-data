@@ -1,0 +1,158 @@
+{
+  "slug": "cloud88",
+  "canonical_name": "Cloud88, Inc.",
+  "fein": "82-1576767",
+  "lca_filing_count": 16,
+  "lca_worker_positions": 16,
+  "warn_notice_count": 0,
+  "median_wage_usd": 90949.5,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 101900.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 90387.5
+    },
+    {
+      "fy": 2023,
+      "filings": 4,
+      "median_wage_usd": 93105.0
+    },
+    {
+      "fy": 2024,
+      "filings": 5,
+      "median_wage_usd": 89461.0
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 74672.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Network Engineer",
+      "count": 11,
+      "median_wage_usd": 90230.0
+    },
+    {
+      "title": "Validation Engineer",
+      "count": 4,
+      "median_wage_usd": 101900.0
+    },
+    {
+      "title": "Network Security Engineer",
+      "count": 1,
+      "median_wage_usd": 63045.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MA",
+      "county": "BOSTON CITY",
+      "count": 3
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 2
+    },
+    {
+      "state": "DE",
+      "county": "NEW CASTLE",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "county": "MORRIS",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 1
+    },
+    {
+      "state": "OH",
+      "county": "DELAWARE",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "county": "CUMBERLAND",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "CONTRA COSTA",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "county": "FAIRFAX",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MA",
+      "count": 3
+    },
+    {
+      "state": "CA",
+      "count": 3
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    },
+    {
+      "state": "OH",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "count": 1
+    },
+    {
+      "state": "CT",
+      "count": 1
+    },
+    {
+      "state": "MO",
+      "count": 1
+    },
+    {
+      "state": "DE",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1244",
+    "soc_title": "Network and Computer Systems Administrators",
+    "market_median_usd": 95000.0,
+    "employer_median_usd": 89845.5,
+    "gap_usd": -5154.5
+  }
+}

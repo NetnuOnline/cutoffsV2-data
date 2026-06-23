@@ -1,0 +1,50 @@
+{
+  "slug": "promedica",
+  "canonical_name": "ProMedica",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 3,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "OH",
+      "count": 3
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "05/31/2023",
+      "effective_date": "07/31/2023",
+      "state": "OH",
+      "workers": 189,
+      "city": "Sylvania/Lucas"
+    },
+    {
+      "date": "01/11/2023",
+      "effective_date": "06/17/2023",
+      "state": "OH",
+      "workers": 6,
+      "city": "Toledo/Lucas"
+    },
+    {
+      "date": "01/09/2023",
+      "effective_date": "03/10/2023",
+      "state": "OH",
+      "workers": 255,
+      "city": "Toledo/Various Counties"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "northwest-ohio",
+      "name": "Northwest Ohio",
+      "state": "OH"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

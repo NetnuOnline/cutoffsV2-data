@@ -1,0 +1,71 @@
+{
+  "slug": "arslan-capital-management",
+  "canonical_name": "Arslan Capital Management LLC",
+  "fein": "82-4455321",
+  "lca_filing_count": 5,
+  "lca_worker_positions": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 120000.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 114109.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Quantitative Researcher",
+      "count": 2,
+      "median_wage_usd": 114753.5
+    },
+    {
+      "title": "Quantitative Developer",
+      "count": 1,
+      "median_wage_usd": 139152.0
+    },
+    {
+      "title": "Quantitative Modeling Associate",
+      "count": 1,
+      "median_wage_usd": 89066.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 1,
+      "median_wage_usd": 120000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 4
+    },
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 129576.0,
+    "gap_usd": -584.0
+  }
+}

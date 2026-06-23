@@ -1,0 +1,149 @@
+{
+  "slug": "subcom",
+  "canonical_name": "Subcom LLC",
+  "fein": "22-3138465",
+  "lca_filing_count": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 95000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 95000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 87080.0
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 101754.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 95000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Principal Process Engineer",
+      "count": 1,
+      "median_wage_usd": 105000.0
+    },
+    {
+      "title": "Software Systems Engineer",
+      "count": 1,
+      "median_wage_usd": 101754.0
+    },
+    {
+      "title": "HRIS Technical Administrator",
+      "count": 1,
+      "median_wage_usd": 95000.0
+    },
+    {
+      "title": "Member of Technical Staff (Senior Software System Engineer)",
+      "count": 1,
+      "median_wage_usd": 95000.0
+    },
+    {
+      "title": "Member of Technical Staff (Software System Engineer)",
+      "count": 1,
+      "median_wage_usd": 95000.0
+    },
+    {
+      "title": "Marine Engineering Specialist",
+      "count": 1,
+      "median_wage_usd": 69160.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NH",
+      "county": "NEWINGTON",
+      "count": 3
+    },
+    {
+      "state": "NJ",
+      "county": "MONMOUTH",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "county": "MIDDLESEX",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NH",
+      "count": 3
+    },
+    {
+      "state": "NJ",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 20,
+    "continuing_denials": 0,
+    "total_approvals": 21,
+    "by_fy": [
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 9,
+        "continuing_denials": 0,
+        "total_approvals": 10
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 8,
+        "continuing_denials": 0,
+        "total_approvals": 8
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 6,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Computer Systems Engineers/Architects",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 95000.0,
+    "gap_usd": -23000.0
+  }
+}

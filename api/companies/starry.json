@@ -1,0 +1,145 @@
+{
+  "slug": "starry",
+  "canonical_name": "Starry",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 9,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 3
+    },
+    {
+      "state": "MA",
+      "count": 2
+    },
+    {
+      "state": "OH",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "CO",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "10/21/2022",
+      "effective_date": "10/21/2022",
+      "state": "MA",
+      "workers": 0,
+      "city": "Boston"
+    },
+    {
+      "date": "10/21/2022",
+      "effective_date": "10/21/2022",
+      "state": "MA",
+      "workers": 143,
+      "city": "Boston"
+    },
+    {
+      "date": "10/20/2022",
+      "effective_date": "10/21/2022",
+      "state": "OH",
+      "workers": 39,
+      "city": "Columbus/Franklin"
+    },
+    {
+      "date": "10/20/2022",
+      "effective_date": "10/21/2022",
+      "state": "CA",
+      "workers": 56,
+      "city": "Culver City"
+    },
+    {
+      "date": "10/20/2022",
+      "effective_date": "10/21/2022",
+      "state": "CO",
+      "workers": 41,
+      "city": "ADWorks"
+    },
+    {
+      "date": "10/20/2022",
+      "effective_date": "10/21/2022",
+      "state": "NY",
+      "workers": 49,
+      "city": "New York"
+    },
+    {
+      "date": "10/20/2022",
+      "effective_date": "10/21/2022",
+      "state": "NY",
+      "workers": 0,
+      "city": "New York"
+    },
+    {
+      "date": "10/20/2022",
+      "effective_date": "10/21/2022",
+      "state": "NY",
+      "workers": 49,
+      "city": "New York"
+    },
+    {
+      "date": "10/20/2022",
+      "effective_date": "10/21/2022",
+      "state": "VA",
+      "workers": 53,
+      "city": "Arlington, VA"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "alexandriaarlington-lwia-xii",
+      "name": "Alexandria/Arlington LWIA XII",
+      "state": "VA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 0,
+    "continuing_denials": 0,
+    "total_approvals": 1,
+    "by_fy": [
+      {
+        "fy": 2017,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  }
+}

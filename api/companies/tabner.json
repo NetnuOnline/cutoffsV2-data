@@ -1,0 +1,203 @@
+{
+  "slug": "tabner",
+  "canonical_name": "Tabner, Inc.",
+  "fein": "20-1948215",
+  "lca_filing_count": 130,
+  "lca_worker_positions": 127,
+  "warn_notice_count": 0,
+  "median_wage_usd": 106974.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 24,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 19,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 21,
+      "median_wage_usd": 101109.0
+    },
+    {
+      "fy": 2023,
+      "filings": 29,
+      "median_wage_usd": 106974.0
+    },
+    {
+      "fy": 2024,
+      "filings": 17,
+      "median_wage_usd": 112986.0
+    },
+    {
+      "fy": 2025,
+      "filings": 11,
+      "median_wage_usd": 112424.0
+    },
+    {
+      "fy": 2026,
+      "filings": 6,
+      "median_wage_usd": 121815.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 34,
+      "median_wage_usd": 90000.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 13,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "Software developer",
+      "count": 5,
+      "median_wage_usd": 112986.0
+    },
+    {
+      "title": "Systems Engineer",
+      "count": 3,
+      "median_wage_usd": 86840.0
+    },
+    {
+      "title": "Senior Java Developer",
+      "count": 3,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "title": "Software Developer ",
+      "count": 3,
+      "median_wage_usd": 101109.0
+    },
+    {
+      "title": "SAP Financial Analyst",
+      "count": 3,
+      "median_wage_usd": 93000.0
+    },
+    {
+      "title": "Software Engineer ",
+      "count": 3,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "SOFTWARE DEVELOPER",
+      "count": 2,
+      "median_wage_usd": 109980.0
+    },
+    {
+      "title": "Lead Azure Developer",
+      "count": 2,
+      "median_wage_usd": 116493.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NC",
+      "county": "MECKLENBURG",
+      "count": 60
+    },
+    {
+      "state": "NC",
+      "county": "CABARRUS",
+      "count": 4
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 4
+    },
+    {
+      "state": "OR",
+      "county": "MULTNOMAH",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 2
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 2
+    },
+    {
+      "state": "MO",
+      "county": "ST LOUIS",
+      "count": 2
+    },
+    {
+      "state": "CO",
+      "county": "DENVER",
+      "count": 2
+    },
+    {
+      "state": "NC",
+      "county": "IREDELL",
+      "count": 2
+    },
+    {
+      "state": "PA",
+      "county": "DELAWARE",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NC",
+      "count": 84
+    },
+    {
+      "state": "TX",
+      "count": 7
+    },
+    {
+      "state": "PA",
+      "count": 6
+    },
+    {
+      "state": "NJ",
+      "count": 5
+    },
+    {
+      "state": "IL",
+      "count": 4
+    },
+    {
+      "state": "VA",
+      "count": 3
+    },
+    {
+      "state": "OR",
+      "count": 3
+    },
+    {
+      "state": "MO",
+      "count": 2
+    },
+    {
+      "state": "MI",
+      "count": 2
+    },
+    {
+      "state": "WA",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 112424.0,
+    "gap_usd": -17736.0
+  }
+}

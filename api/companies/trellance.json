@@ -1,0 +1,103 @@
+{
+  "slug": "trellance",
+  "canonical_name": "Trellance, Inc.",
+  "fein": "59-2941216",
+  "lca_filing_count": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 116775.42,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 96785.73999999999
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 154607.18
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Business Intelligence Analyst",
+      "count": 2,
+      "median_wage_usd": 116775.42
+    },
+    {
+      "title": "DATA ANALYST",
+      "count": 1,
+      "median_wage_usd": 90584.0
+    },
+    {
+      "title": "CHIEF TECHNOLOGY OFFICER, CUDX",
+      "count": 1,
+      "median_wage_usd": 178651.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "FL",
+      "county": "HILLSBOROUGH",
+      "count": 1
+    },
+    {
+      "state": "MN",
+      "county": "HENNEPIN",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MN",
+      "count": 2
+    },
+    {
+      "state": "FL",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 11,
+    "continuing_denials": 0,
+    "total_approvals": 11,
+    "by_fy": [
+      {
+        "fy": 2020,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 6,
+        "continuing_denials": 0,
+        "total_approvals": 6
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      }
+    ]
+  },
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Business Intelligence Analysts",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 102987.48,
+    "gap_usd": -5032.52
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "slug": "lumi-minds",
+  "canonical_name": "Lumi Minds Inc",
+  "fein": "84-4629034",
+  "lca_filing_count": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 88000.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 61755.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 102000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 88000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 1,
+      "median_wage_usd": 88000.0
+    },
+    {
+      "title": "Network and Computer Systems Administrator",
+      "count": 1,
+      "median_wage_usd": 61755.0
+    },
+    {
+      "title": "Computer Systems Analyst",
+      "count": 1,
+      "median_wage_usd": 102000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "county": "DUPAGE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 6,
+    "initial_denials": 0,
+    "continuing_approvals": 0,
+    "continuing_denials": 0,
+    "total_approvals": 6,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 4,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 4
+      }
+    ]
+  },
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1211",
+    "soc_title": "Computer Systems Analysts",
+    "market_median_usd": 103800.0,
+    "employer_median_usd": 102000.0,
+    "gap_usd": -1800.0
+  }
+}

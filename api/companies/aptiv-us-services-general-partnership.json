@@ -1,0 +1,124 @@
+{
+  "slug": "aptiv-us-services-general-partnership",
+  "canonical_name": "Aptiv US Services General Partnership",
+  "fein": "37-1870316",
+  "lca_filing_count": 31,
+  "lca_worker_positions": 31,
+  "warn_notice_count": 0,
+  "median_wage_usd": 133250.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 12,
+      "median_wage_usd": 134128.0
+    },
+    {
+      "fy": 2026,
+      "filings": 18,
+      "median_wage_usd": 132609.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Embedded Software Engineer",
+      "count": 2,
+      "median_wage_usd": 142526.0
+    },
+    {
+      "title": "Release Manager",
+      "count": 1,
+      "median_wage_usd": 121411.0
+    },
+    {
+      "title": "Component Technical Expert",
+      "count": 1,
+      "median_wage_usd": 134130.0
+    },
+    {
+      "title": "Sr Embedded Software Engineer",
+      "count": 1,
+      "median_wage_usd": 108934.0
+    },
+    {
+      "title": "Radar Systems Engineer",
+      "count": 1,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "Senior Product Manager",
+      "count": 1,
+      "median_wage_usd": 234000.0
+    },
+    {
+      "title": "Process Finance Manager",
+      "count": 1,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "Software Technical Lead",
+      "count": 1,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "title": "Software Project Owner",
+      "count": 1,
+      "median_wage_usd": 133256.0
+    },
+    {
+      "title": "Senior Systems Engineer",
+      "count": 1,
+      "median_wage_usd": 116725.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MI",
+      "county": "OAKLAND",
+      "count": 2
+    },
+    {
+      "state": "IN",
+      "county": "HAMILTON",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MI",
+      "count": 18
+    },
+    {
+      "state": "IN",
+      "count": 9
+    },
+    {
+      "state": "CA",
+      "count": 3
+    },
+    {
+      "state": "WA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 134130.0,
+    "gap_usd": 3970.0
+  }
+}

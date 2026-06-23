@@ -1,0 +1,61 @@
+{
+  "slug": "caption-health",
+  "canonical_name": "CAPTION HEALTH, INC.",
+  "fein": "46-4075387",
+  "lca_filing_count": 2,
+  "lca_worker_positions": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 170511.5,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 167723.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 173300.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SOFTWARE QUALITY ASSURANCE MANAGER",
+      "count": 1,
+      "median_wage_usd": 167723.0
+    },
+    {
+      "title": "PROGRAM MANAGER",
+      "count": 1,
+      "median_wage_usd": 173300.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3021",
+    "soc_title": "Computer and Information Systems Managers",
+    "market_median_usd": 169510.0,
+    "employer_median_usd": 167723.0,
+    "gap_usd": -1787.0
+  }
+}

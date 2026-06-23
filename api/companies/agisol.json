@@ -1,0 +1,90 @@
+{
+  "slug": "agisol",
+  "canonical_name": "Agisol LLC",
+  "fein": "46-5546277",
+  "lca_filing_count": 6,
+  "lca_worker_positions": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 138840.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 108030.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 148720.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 171787.2
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 140400.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Systems Engineer",
+      "count": 3,
+      "median_wage_usd": 137280.0
+    },
+    {
+      "title": "Business Intelligence Architect",
+      "count": 1,
+      "median_wage_usd": 140400.0
+    },
+    {
+      "title": "Senior Data Engineer",
+      "count": 1,
+      "median_wage_usd": 171787.2
+    },
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 87000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MD",
+      "county": "BALTIMORE CITY",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MD",
+      "count": 4
+    },
+    {
+      "state": "IL",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Computer Systems Engineers/Architects",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 137280.0,
+    "gap_usd": 19280.0
+  }
+}

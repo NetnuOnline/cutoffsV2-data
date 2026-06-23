@@ -1,0 +1,198 @@
+{
+  "slug": "acetech-group",
+  "canonical_name": "Acetech Group Corporation",
+  "fein": "85-2429621",
+  "lca_filing_count": 74,
+  "lca_worker_positions": 71,
+  "warn_notice_count": 0,
+  "median_wage_usd": 108680.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 12,
+      "median_wage_usd": 98000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 7,
+      "median_wage_usd": 96000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 6,
+      "median_wage_usd": 102000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 10,
+      "median_wage_usd": 106279.0
+    },
+    {
+      "fy": 2025,
+      "filings": 20,
+      "median_wage_usd": 114461.5
+    },
+    {
+      "fy": 2026,
+      "filings": 16,
+      "median_wage_usd": 122179.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 22,
+      "median_wage_usd": 100500.0
+    },
+    {
+      "title": "Data Engineer",
+      "count": 9,
+      "median_wage_usd": 126090.0
+    },
+    {
+      "title": "Java Developer",
+      "count": 6,
+      "median_wage_usd": 109460.0
+    },
+    {
+      "title": "DevOps Engineer",
+      "count": 5,
+      "median_wage_usd": 111779.0
+    },
+    {
+      "title": "Duck Creek Policy Architect",
+      "count": 4,
+      "median_wage_usd": 124061.5
+    },
+    {
+      "title": "Full Stack Developer",
+      "count": 4,
+      "median_wage_usd": 111103.0
+    },
+    {
+      "title": "BI Developer",
+      "count": 2,
+      "median_wage_usd": 110500.0
+    },
+    {
+      "title": "Senior Software Developer",
+      "count": 2,
+      "median_wage_usd": 151091.0
+    },
+    {
+      "title": "Test Engineer",
+      "count": 1,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "title": "Programmer Analyst",
+      "count": 1,
+      "median_wage_usd": 98301.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MD",
+      "county": "HOWARD",
+      "count": 4
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 4
+    },
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 4
+    },
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 2
+    },
+    {
+      "state": "VA",
+      "county": "FAIRFAX",
+      "count": 2
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 2
+    },
+    {
+      "state": "PA",
+      "county": "MONTGOMERY",
+      "count": 2
+    },
+    {
+      "state": "CT",
+      "county": "ROCKY HILL",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "county": "MCLEAN",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 19
+    },
+    {
+      "state": "GA",
+      "count": 9
+    },
+    {
+      "state": "MD",
+      "count": 7
+    },
+    {
+      "state": "CT",
+      "count": 7
+    },
+    {
+      "state": "IL",
+      "count": 6
+    },
+    {
+      "state": "VA",
+      "count": 6
+    },
+    {
+      "state": "CA",
+      "count": 5
+    },
+    {
+      "state": "PA",
+      "count": 4
+    },
+    {
+      "state": "NY",
+      "count": 4
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 112923.0,
+    "gap_usd": -17237.0
+  }
+}

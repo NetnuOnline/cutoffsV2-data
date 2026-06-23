@@ -1,0 +1,180 @@
+{
+  "slug": "fynbosys",
+  "canonical_name": "Fynbosys Inc",
+  "fein": "45-2784006",
+  "lca_filing_count": 21,
+  "lca_worker_positions": 21,
+  "warn_notice_count": 0,
+  "median_wage_usd": 98000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 4,
+      "median_wage_usd": 89159.0
+    },
+    {
+      "fy": 2021,
+      "filings": 4,
+      "median_wage_usd": 80548.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 132870.0
+    },
+    {
+      "fy": 2023,
+      "filings": 4,
+      "median_wage_usd": 104926.0
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 98000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 4,
+      "median_wage_usd": 103045.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Quality Assurance Developer",
+      "count": 4,
+      "median_wage_usd": 105976.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 3,
+      "median_wage_usd": 132870.0
+    },
+    {
+      "title": "Senior Data Scientist",
+      "count": 3,
+      "median_wage_usd": 98000.0
+    },
+    {
+      "title": "Software Quality Assurance Engineer",
+      "count": 2,
+      "median_wage_usd": 72654.0
+    },
+    {
+      "title": "Software System Engineer",
+      "count": 1,
+      "median_wage_usd": 70346.0
+    },
+    {
+      "title": "Technology Lad \u201c US",
+      "count": 1,
+      "median_wage_usd": 80000.0
+    },
+    {
+      "title": "Senior Data Engineer",
+      "count": 1,
+      "median_wage_usd": 126090.0
+    },
+    {
+      "title": "QA Engineer",
+      "count": 1,
+      "median_wage_usd": 105664.0
+    },
+    {
+      "title": "Technology Lead  \u201c US",
+      "count": 1,
+      "median_wage_usd": 80000.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 1,
+      "median_wage_usd": 161637.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 3
+    },
+    {
+      "state": "CA",
+      "county": "EL DORADO",
+      "count": 2
+    },
+    {
+      "state": "IN",
+      "county": "KOSCIUSKO",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 2
+    },
+    {
+      "state": "MA",
+      "county": "RAYNHAM",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 1
+    },
+    {
+      "state": "MO",
+      "county": "ST LOUIS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 6
+    },
+    {
+      "state": "TX",
+      "count": 5
+    },
+    {
+      "state": "AR",
+      "count": 2
+    },
+    {
+      "state": "MA",
+      "count": 2
+    },
+    {
+      "state": "FL",
+      "count": 2
+    },
+    {
+      "state": "IN",
+      "count": 2
+    },
+    {
+      "state": "MO",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 126090.0,
+    "gap_usd": -4070.0
+  }
+}

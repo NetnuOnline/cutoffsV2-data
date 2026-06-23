@@ -1,0 +1,177 @@
+{
+  "slug": "logicera",
+  "canonical_name": "Logicera Inc",
+  "fein": "87-1744139",
+  "lca_filing_count": 13,
+  "warn_notice_count": 0,
+  "median_wage_usd": 91374.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 95472.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 76794.0
+    },
+    {
+      "fy": 2024,
+      "filings": 4,
+      "median_wage_usd": 109262.0
+    },
+    {
+      "fy": 2025,
+      "filings": 6,
+      "median_wage_usd": 90625.5
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Software Developer",
+      "count": 2,
+      "median_wage_usd": 109262.0
+    },
+    {
+      "title": "Software Engineer ",
+      "count": 2,
+      "median_wage_usd": 94629.5
+    },
+    {
+      "title": "Java Developer",
+      "count": 2,
+      "median_wage_usd": 88088.0
+    },
+    {
+      "title": "Workday Integration Developer",
+      "count": 1,
+      "median_wage_usd": 90355.0
+    },
+    {
+      "title": "Product Manager",
+      "count": 1,
+      "median_wage_usd": 147368.0
+    },
+    {
+      "title": "QA Automation Test Engineer",
+      "count": 1,
+      "median_wage_usd": 91374.0
+    },
+    {
+      "title": "Technical Program Manager",
+      "count": 1,
+      "median_wage_usd": 92394.0
+    },
+    {
+      "title": "Java Technical Analyst",
+      "count": 1,
+      "median_wage_usd": 76794.0
+    },
+    {
+      "title": "Devops Engineer",
+      "count": 1,
+      "median_wage_usd": 92040.0
+    },
+    {
+      "title": "IT Developer",
+      "count": 1,
+      "median_wage_usd": 85384.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NC",
+      "county": "WAKE",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 1
+    },
+    {
+      "state": "DE",
+      "county": "NEW CASTLE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 8
+    },
+    {
+      "state": "NC",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "DE",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 4,
+    "initial_denials": 1,
+    "continuing_approvals": 2,
+    "continuing_denials": 0,
+    "total_approvals": 6,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 3,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 1,
+        "initial_denials": 1,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      }
+    ]
+  },
+  "lca_worker_positions": 13,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 90896.0,
+    "gap_usd": -39264.0
+  }
+}

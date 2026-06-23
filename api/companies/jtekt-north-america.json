@@ -1,0 +1,52 @@
+{
+  "slug": "jtekt-north-america",
+  "canonical_name": "JTEKT North America Corporation",
+  "fein": "57-0570962",
+  "lca_filing_count": 2,
+  "lca_worker_positions": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 128714.75,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 120182.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 137247.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "IT Business Systems Analyst Specialist",
+      "count": 2,
+      "median_wage_usd": 128714.75
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "SC",
+      "county": "GREENVILLE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "SC",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1244",
+    "soc_title": "Network and Computer Systems Administrators",
+    "market_median_usd": 95000.0,
+    "employer_median_usd": 137247.5,
+    "gap_usd": 42247.5
+  }
+}

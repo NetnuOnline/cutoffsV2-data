@@ -1,0 +1,133 @@
+{
+  "slug": "response-informatics",
+  "canonical_name": "RESPONSE INFORMATICS, INC.",
+  "fein": "83-2966697",
+  "lca_filing_count": 25,
+  "lca_worker_positions": 24,
+  "warn_notice_count": 0,
+  "median_wage_usd": 89773.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 99923.0
+    },
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 99923.0
+    },
+    {
+      "fy": 2024,
+      "filings": 5,
+      "median_wage_usd": 76502.0
+    },
+    {
+      "fy": 2025,
+      "filings": 5,
+      "median_wage_usd": 107141.0
+    },
+    {
+      "fy": 2026,
+      "filings": 9,
+      "median_wage_usd": 89773.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 11,
+      "median_wage_usd": 89773.0
+    },
+    {
+      "title": "SOFTWARE DEVELOPER",
+      "count": 5,
+      "median_wage_usd": 99923.0
+    },
+    {
+      "title": "SOFTWARE ENGINEER/ARCHITECT",
+      "count": 3,
+      "median_wage_usd": 89128.0
+    },
+    {
+      "title": "Vice President - AI and Data Practice",
+      "count": 2,
+      "median_wage_usd": 200000.0
+    },
+    {
+      "title": "SALESFORCE QA ENGINEER",
+      "count": 2,
+      "median_wage_usd": 70657.5
+    },
+    {
+      "title": "IT Project Manager",
+      "count": 1,
+      "median_wage_usd": 107141.0
+    },
+    {
+      "title": "QA Engineer",
+      "count": 1,
+      "median_wage_usd": 84906.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NJ",
+      "county": "MERCER",
+      "count": 5
+    },
+    {
+      "state": "NC",
+      "county": "MECKLENBURG",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 1
+    },
+    {
+      "state": "TN",
+      "county": "SHELBY",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 12
+    },
+    {
+      "state": "TX",
+      "count": 8
+    },
+    {
+      "state": "NC",
+      "count": 3
+    },
+    {
+      "state": "MS",
+      "count": 1
+    },
+    {
+      "state": "TN",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Computer Systems Engineers/Architects",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 89773.0,
+    "gap_usd": -28227.0
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "ihg-army-hotels",
+  "canonical_name": "IHG Army Hotels",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 3,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 1
+    },
+    {
+      "state": "KY",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "04/03/2020",
+      "effective_date": "04/03/2020",
+      "state": "GA",
+      "workers": 53,
+      "city": "Fort Benning"
+    },
+    {
+      "date": "04/02/2020",
+      "effective_date": "03/20/2020",
+      "state": "KY",
+      "workers": 68,
+      "city": "Hardin"
+    },
+    {
+      "date": "03/27/2020",
+      "effective_date": "03/27/2020",
+      "state": "VA",
+      "workers": 74,
+      "city": "Fort Lee, VA"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "lower-chattahoochee-wib",
+      "name": "Lower Chattahoochee WIB",
+      "state": "GA"
+    },
+    {
+      "slug": "crater-area-lwia-xv",
+      "name": "Crater Area LWIA XV",
+      "state": "VA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

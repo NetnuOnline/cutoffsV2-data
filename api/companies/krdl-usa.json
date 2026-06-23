@@ -1,0 +1,94 @@
+{
+  "slug": "krdl-usa",
+  "canonical_name": "KRDL USA, INC",
+  "fein": "84-2129242",
+  "lca_filing_count": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 108077.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 106558.4
+    },
+    {
+      "fy": 2025,
+      "filings": 4,
+      "median_wage_usd": 108077.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Microsoft Azure Cloud Specialist",
+      "count": 4,
+      "median_wage_usd": 108077.0
+    },
+    {
+      "title": "Software\u00a0Engineer",
+      "count": 1,
+      "median_wage_usd": 108077.0
+    },
+    {
+      "title": "TECHNICAL CONSULTANT (INTEGRATION ARCHITECT)",
+      "count": 1,
+      "median_wage_usd": 106558.4
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IL",
+      "county": "LAKE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 6
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 16,
+    "initial_denials": 1,
+    "continuing_approvals": 0,
+    "continuing_denials": 1,
+    "total_approvals": 16,
+    "by_fy": [
+      {
+        "fy": 2021,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 1,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 8,
+        "initial_denials": 1,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 8
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 7,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 7
+      }
+    ]
+  },
+  "lca_worker_positions": 5,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 108077.0,
+    "gap_usd": -22083.0
+  }
+}

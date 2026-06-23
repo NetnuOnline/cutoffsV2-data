@@ -1,0 +1,57 @@
+{
+  "slug": "hunt-consolidated",
+  "canonical_name": "Hunt Consolidated, Inc.",
+  "fein": "75-1727234",
+  "lca_filing_count": 2,
+  "lca_worker_positions": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 121862.5,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 104000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 139725.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Project Technology Developer",
+      "count": 1,
+      "median_wage_usd": 104000.0
+    },
+    {
+      "title": "Sr. IT Applications Developer",
+      "count": 1,
+      "median_wage_usd": 139725.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 139725.0,
+    "gap_usd": 9565.0
+  }
+}

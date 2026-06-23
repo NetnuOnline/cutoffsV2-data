@@ -1,0 +1,80 @@
+{
+  "slug": "sagility",
+  "canonical_name": "Sagility LLC",
+  "fein": "47-5108949",
+  "lca_filing_count": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 123086.16,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 5,
+      "median_wage_usd": 123086.16
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Software Architect",
+      "count": 2,
+      "median_wage_usd": 129377.61
+    },
+    {
+      "title": "Lead Data Scientist",
+      "count": 1,
+      "median_wage_usd": 123086.16
+    },
+    {
+      "title": "Senior Director",
+      "count": 1,
+      "median_wage_usd": 228656.25
+    },
+    {
+      "title": "Senior Data Scientist",
+      "count": 1,
+      "median_wage_usd": 92901.04
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 2
+    },
+    {
+      "state": "GA",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 3,
+    "continuing_denials": 0,
+    "total_approvals": 3,
+    "by_fy": [
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      }
+    ]
+  },
+  "lca_worker_positions": 5,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 129377.61,
+    "gap_usd": -782.39
+  }
+}

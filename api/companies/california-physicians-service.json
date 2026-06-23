@@ -1,0 +1,117 @@
+{
+  "slug": "california-physicians-service",
+  "canonical_name": "California Physicians\u2019 Service",
+  "fein": "94-0360524",
+  "lca_filing_count": 11,
+  "lca_worker_positions": 11,
+  "warn_notice_count": 0,
+  "median_wage_usd": 164763.16,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 4,
+      "median_wage_usd": 158851.39
+    },
+    {
+      "fy": 2023,
+      "filings": 4,
+      "median_wage_usd": 175883.5
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 164763.16
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 145026.49,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Application Developer, Consultant",
+      "count": 2,
+      "median_wage_usd": 145026.49
+    },
+    {
+      "title": "Solutions Strategist",
+      "count": 1,
+      "median_wage_usd": 167702.78
+    },
+    {
+      "title": "Application Developer, Principal ",
+      "count": 1,
+      "median_wage_usd": 175890.0
+    },
+    {
+      "title": "IT Product Manager",
+      "count": 1,
+      "median_wage_usd": 171100.8
+    },
+    {
+      "title": "IT Product Manager, Principal",
+      "count": 1,
+      "median_wage_usd": 179478.82
+    },
+    {
+      "title": "Quality Engineer, Consultant",
+      "count": 1,
+      "median_wage_usd": 164763.16
+    },
+    {
+      "title": "Enterprise Architect, Principal",
+      "count": 1,
+      "median_wage_usd": 175877.0
+    },
+    {
+      "title": "Digital Product Manager, Senior",
+      "count": 1,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "title": "Medical Informatics Analyst, Consultant",
+      "count": 1,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Digital Product Manager, Consultant",
+      "count": 1,
+      "median_wage_usd": 150000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "EL DORADO",
+      "count": 5
+    },
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 11
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 175877.0,
+    "gap_usd": 45717.0
+  }
+}

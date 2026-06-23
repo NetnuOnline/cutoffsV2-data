@@ -1,0 +1,90 @@
+{
+  "slug": "dowco",
+  "canonical_name": "Dowco, Inc.",
+  "fein": null,
+  "lca_filing_count": 1,
+  "warn_notice_count": 1,
+  "median_wage_usd": 63139.75,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 63139.75
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Design Engineer",
+      "count": 1,
+      "median_wage_usd": 63139.75
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MO",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MO",
+      "county": "LACLEDE",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "10/16/2023",
+      "effective_date": "12/11/2023",
+      "state": "WI",
+      "workers": 53,
+      "city": "Manitowoc"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "bay-area-wda",
+      "name": "Bay Area WDA",
+      "state": "WI"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 1,
+    "continuing_denials": 0,
+    "total_approvals": 1,
+    "by_fy": [
+      {
+        "fy": 2017,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 1,
+  "top_socs": [],
+  "lca_periods": []
+}

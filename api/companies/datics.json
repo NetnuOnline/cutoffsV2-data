@@ -1,0 +1,73 @@
+{
+  "slug": "datics",
+  "canonical_name": "DATICS INC",
+  "fein": "92-2030418",
+  "lca_filing_count": 7,
+  "lca_worker_positions": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 95700.8,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 5,
+      "median_wage_usd": 90896.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 95700.8,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "DotNet Developer",
+      "count": 3,
+      "median_wage_usd": 90896.0
+    },
+    {
+      "title": "JAVA FULL STACK DEVELOPER",
+      "count": 2,
+      "median_wage_usd": 95700.8
+    },
+    {
+      "title": "Python Developer",
+      "count": 1,
+      "median_wage_usd": 109844.8
+    },
+    {
+      "title": "Java Full Stack Developer",
+      "count": 1,
+      "median_wage_usd": 112923.2
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 3
+    },
+    {
+      "state": "KS",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 93298.4,
+    "gap_usd": -36861.6
+  }
+}

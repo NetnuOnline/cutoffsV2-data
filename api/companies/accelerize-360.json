@@ -1,0 +1,105 @@
+{
+  "slug": "accelerize-360",
+  "canonical_name": "ACCELERIZE 360, INC.",
+  "fein": "82-1313122",
+  "lca_filing_count": 8,
+  "lca_worker_positions": 8,
+  "warn_notice_count": 0,
+  "median_wage_usd": 114214.5,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 190000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 78500.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 141069.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 82202.0
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 142833.6,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 3,
+      "median_wage_usd": 80000.0
+    },
+    {
+      "title": "Sr. Software Developer",
+      "count": 2,
+      "median_wage_usd": 145974.3
+    },
+    {
+      "title": "Salesforce Solution Architect ",
+      "count": 1,
+      "median_wage_usd": 190000.0
+    },
+    {
+      "title": "Salesforce Business Analyst",
+      "count": 1,
+      "median_wage_usd": 82202.0
+    },
+    {
+      "title": "Associate Developer",
+      "count": 1,
+      "median_wage_usd": 87360.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 5
+    },
+    {
+      "state": "CA",
+      "count": 2
+    },
+    {
+      "state": "MN",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 141951.3,
+    "gap_usd": 11791.3
+  }
+}

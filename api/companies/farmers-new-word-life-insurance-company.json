@@ -1,0 +1,90 @@
+{
+  "slug": "farmers-new-word-life-insurance-company",
+  "canonical_name": "Farmers New Word Life Insurance Company",
+  "fein": "91-0335750",
+  "lca_filing_count": 5,
+  "lca_worker_positions": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 124000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 113200.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 153000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 117200.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 125250.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Associate Decision Scientist",
+      "count": 2,
+      "median_wage_usd": 121850.0
+    },
+    {
+      "title": "Data Engineering Manager",
+      "count": 1,
+      "median_wage_usd": 153000.0
+    },
+    {
+      "title": "Data Scientist",
+      "count": 1,
+      "median_wage_usd": 124000.0
+    },
+    {
+      "title": "Senior Informatica Developer",
+      "count": 1,
+      "median_wage_usd": 113200.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 124000.0,
+    "gap_usd": 15980.0
+  }
+}

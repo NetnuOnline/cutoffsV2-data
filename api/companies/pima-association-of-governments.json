@@ -1,0 +1,67 @@
+{
+  "slug": "pima-association-of-governments",
+  "canonical_name": "Pima Association of Governments",
+  "fein": "94-2639748",
+  "lca_filing_count": 4,
+  "lca_worker_positions": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 87316.64,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 86137.05
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 88496.23
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 73287.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Transportation Data Scientist",
+      "count": 2,
+      "median_wage_usd": 88496.23
+    },
+    {
+      "title": "Land-Use Data Scientist",
+      "count": 1,
+      "median_wage_usd": 73287.5
+    },
+    {
+      "title": "Senior Modeler",
+      "count": 1,
+      "median_wage_usd": 86137.05
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "AZ",
+      "county": "PIMA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "AZ",
+      "count": 4
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 88496.23,
+    "gap_usd": -19523.77
+  }
+}

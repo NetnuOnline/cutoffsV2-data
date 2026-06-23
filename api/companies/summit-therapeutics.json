@@ -1,0 +1,80 @@
+{
+  "slug": "summit-therapeutics",
+  "canonical_name": "Summit Therapeutics, Inc.",
+  "fein": "37-1979717",
+  "lca_filing_count": 4,
+  "lca_worker_positions": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 168750.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 169000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 210000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 168500.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Director, Data Management & Analytics IT",
+      "count": 1,
+      "median_wage_usd": 210000.0
+    },
+    {
+      "title": "Senior Data Scientist",
+      "count": 1,
+      "median_wage_usd": 168500.0
+    },
+    {
+      "title": "Senior Manager, Regulatory Affairs",
+      "count": 1,
+      "median_wage_usd": 169000.0
+    },
+    {
+      "title": "Senior Manager, Portfolio Strategy",
+      "count": 1,
+      "median_wage_usd": 156894.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SAN MATEO",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 168500.0,
+    "gap_usd": 60480.0
+  }
+}

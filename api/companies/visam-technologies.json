@@ -1,0 +1,186 @@
+{
+  "slug": "visam-technologies",
+  "canonical_name": "Visam Technologies Inc.",
+  "fein": "20-8909882",
+  "lca_filing_count": 45,
+  "lca_worker_positions": 45,
+  "warn_notice_count": 0,
+  "median_wage_usd": 95555.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 101951.0
+    },
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 95555.0
+    },
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 89253.0
+    },
+    {
+      "fy": 2024,
+      "filings": 9,
+      "median_wage_usd": 85384.0
+    },
+    {
+      "fy": 2025,
+      "filings": 22,
+      "median_wage_usd": 103709.0
+    },
+    {
+      "fy": 2026,
+      "filings": 7,
+      "median_wage_usd": 92040.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 25,
+      "median_wage_usd": 93558.0
+    },
+    {
+      "title": "Data Engineer",
+      "count": 4,
+      "median_wage_usd": 96034.0
+    },
+    {
+      "title": "Golang Developer",
+      "count": 3,
+      "median_wage_usd": 98738.0
+    },
+    {
+      "title": "QA Analyst",
+      "count": 2,
+      "median_wage_usd": 69929.5
+    },
+    {
+      "title": "SAP QA Engineer",
+      "count": 2,
+      "median_wage_usd": 95555.0
+    },
+    {
+      "title": "Application Developer",
+      "count": 2,
+      "median_wage_usd": 103594.5
+    },
+    {
+      "title": "Software Test Engineer",
+      "count": 2,
+      "median_wage_usd": 86923.0
+    },
+    {
+      "title": "Cloud Engineer",
+      "count": 1,
+      "median_wage_usd": 112923.0
+    },
+    {
+      "title": "Solution Architect ",
+      "count": 1,
+      "median_wage_usd": 110344.0
+    },
+    {
+      "title": "DevOps Engineer",
+      "count": 1,
+      "median_wage_usd": 108826.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 12
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 5
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 4
+    },
+    {
+      "state": "NJ",
+      "county": "UNION",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "county": "HENRICO",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 1
+    },
+    {
+      "state": "MO",
+      "county": "JACKSON",
+      "count": 1
+    },
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "county": "ALEXANDRIA CITY",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 34
+    },
+    {
+      "state": "VA",
+      "count": 5
+    },
+    {
+      "state": "CO",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "count": 1
+    },
+    {
+      "state": "MO",
+      "count": 1
+    },
+    {
+      "state": "AZ",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 98738.0,
+    "gap_usd": -31422.0
+  }
+}

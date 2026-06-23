@@ -1,0 +1,203 @@
+{
+  "slug": "etsy",
+  "canonical_name": "Etsy, Inc.",
+  "fein": "20-4898921",
+  "lca_filing_count": 59,
+  "lca_worker_positions": 56,
+  "warn_notice_count": 0,
+  "median_wage_usd": 183000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 3,
+      "median_wage_usd": 180000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 9,
+      "median_wage_usd": 168000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 4,
+      "median_wage_usd": 166600.0
+    },
+    {
+      "fy": 2023,
+      "filings": 6,
+      "median_wage_usd": 192150.0
+    },
+    {
+      "fy": 2024,
+      "filings": 17,
+      "median_wage_usd": 183800.0
+    },
+    {
+      "fy": 2025,
+      "filings": 7,
+      "median_wage_usd": 170000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 10,
+      "median_wage_usd": 200600.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Software Engineer I",
+      "count": 4,
+      "median_wage_usd": 174600.0
+    },
+    {
+      "title": "Data Scientist, Product Analytics",
+      "count": 4,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "title": "Sr. Manager, Accounting",
+      "count": 3,
+      "median_wage_usd": 200600.0
+    },
+    {
+      "title": "Senior Data Scientist, Product",
+      "count": 2,
+      "median_wage_usd": 164650.0
+    },
+    {
+      "title": "Staff Product Designer",
+      "count": 2,
+      "median_wage_usd": 209450.0
+    },
+    {
+      "title": "Senior Applied Scientist II",
+      "count": 2,
+      "median_wage_usd": 173000.0
+    },
+    {
+      "title": "Senior Data Scientist, Analytics",
+      "count": 1,
+      "median_wage_usd": 170000.0
+    },
+    {
+      "title": "Senior Scala Engineer I, Distributed Systems",
+      "count": 1,
+      "median_wage_usd": 185000.0
+    },
+    {
+      "title": "Staff Machine Learning Engineer",
+      "count": 1,
+      "median_wage_usd": 223100.0
+    },
+    {
+      "title": "Senior Product Manager, Curated Search ",
+      "count": 1,
+      "median_wage_usd": 185400.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "KINGS",
+      "count": 23
+    },
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 5
+    },
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 2
+    },
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "county": "INGHAM",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 1
+    },
+    {
+      "state": "OR",
+      "county": "WASHINGTON",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "ORANGE",
+      "count": 1
+    },
+    {
+      "state": "MN",
+      "county": "WASHINGTON",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "county": "HUDSON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 30
+    },
+    {
+      "state": "CA",
+      "count": 16
+    },
+    {
+      "state": "TX",
+      "count": 3
+    },
+    {
+      "state": "WA",
+      "count": 2
+    },
+    {
+      "state": "OR",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    },
+    {
+      "state": "AZ",
+      "count": 1
+    },
+    {
+      "state": "UT",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 164650.0,
+    "gap_usd": 56630.0
+  }
+}

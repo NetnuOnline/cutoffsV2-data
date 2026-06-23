@@ -1,0 +1,163 @@
+{
+  "slug": "wing-aviation",
+  "canonical_name": "Wing Aviation LLC",
+  "fein": "82-4572513",
+  "lca_filing_count": 36,
+  "lca_worker_positions": 34,
+  "warn_notice_count": 0,
+  "median_wage_usd": 177000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 6,
+      "median_wage_usd": 134225.0
+    },
+    {
+      "fy": 2021,
+      "filings": 3,
+      "median_wage_usd": 175000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 8,
+      "median_wage_usd": 178000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 6,
+      "median_wage_usd": 181000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 197500.0
+    },
+    {
+      "fy": 2025,
+      "filings": 6,
+      "median_wage_usd": 190000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 215000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 10,
+      "median_wage_usd": 183000.0
+    },
+    {
+      "title": "Technical Program Manager",
+      "count": 3,
+      "median_wage_usd": 195000.0
+    },
+    {
+      "title": "Project Manager",
+      "count": 2,
+      "median_wage_usd": 183000.0
+    },
+    {
+      "title": "Mechanical Engineer",
+      "count": 2,
+      "median_wage_usd": 175000.0
+    },
+    {
+      "title": "Software Engineer 1615.58694",
+      "count": 2,
+      "median_wage_usd": 138725.0
+    },
+    {
+      "title": "Simulation and Modeling Engineer 1615.56732",
+      "count": 2,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Manufacturing Operations Manager",
+      "count": 1,
+      "median_wage_usd": 224000.0
+    },
+    {
+      "title": "Software Engineer 1615.58981",
+      "count": 1,
+      "median_wage_usd": 167500.0
+    },
+    {
+      "title": "Software Engineer 1615.64676",
+      "count": 1,
+      "median_wage_usd": 175000.0
+    },
+    {
+      "title": "Software Engineer  1615.80997",
+      "count": 1,
+      "median_wage_usd": 188000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 19
+    },
+    {
+      "state": "DC",
+      "county": "DISTRICT OF COLUMBIA",
+      "count": 2
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 2
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 29
+    },
+    {
+      "state": "DC",
+      "count": 2
+    },
+    {
+      "state": "WA",
+      "count": 2
+    },
+    {
+      "state": "NY",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 183500.0,
+    "gap_usd": 53340.0
+  }
+}

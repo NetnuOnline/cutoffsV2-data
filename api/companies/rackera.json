@@ -1,0 +1,132 @@
+{
+  "slug": "rackera",
+  "canonical_name": "RACKERA INC",
+  "fein": "86-3192623",
+  "lca_filing_count": 14,
+  "lca_worker_positions": 13,
+  "warn_notice_count": 0,
+  "median_wage_usd": 101701.5,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 108826.0
+    },
+    {
+      "fy": 2025,
+      "filings": 7,
+      "median_wage_usd": 102294.0
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 90000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Database Administrator",
+      "count": 2,
+      "median_wage_usd": 90000.0
+    },
+    {
+      "title": "Sr. Data Modeler",
+      "count": 2,
+      "median_wage_usd": 103647.0
+    },
+    {
+      "title": "AI Engineer",
+      "count": 1,
+      "median_wage_usd": 123656.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 1,
+      "median_wage_usd": 88000.0
+    },
+    {
+      "title": "Application  Developer",
+      "count": 1,
+      "median_wage_usd": 113000.0
+    },
+    {
+      "title": "Test Engineer",
+      "count": 1,
+      "median_wage_usd": 94500.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 83000.0
+    },
+    {
+      "title": "Full Stack Engineer",
+      "count": 1,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Senior UX/UI Designer",
+      "count": 1,
+      "median_wage_usd": 70000.0
+    },
+    {
+      "title": ".NET Core Developer",
+      "count": 1,
+      "median_wage_usd": 101109.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "county": "QUEENS",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "county": "BROWARD",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 7
+    },
+    {
+      "state": "CA",
+      "count": 3
+    },
+    {
+      "state": "GA",
+      "count": 1
+    },
+    {
+      "state": "OH",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 110913.0,
+    "gap_usd": -19247.0
+  }
+}

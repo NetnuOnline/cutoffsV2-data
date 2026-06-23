@@ -1,0 +1,106 @@
+{
+  "slug": "california-capital-insurance-company",
+  "canonical_name": "California Capital Insurance Company",
+  "fein": "95-1332270",
+  "lca_filing_count": 8,
+  "lca_worker_positions": 8,
+  "warn_notice_count": 0,
+  "median_wage_usd": 100121.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 118810.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 93891.5
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 106038.5
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 81037.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 174782.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Corporate Strategy Consultant",
+      "count": 2,
+      "median_wage_usd": 81037.0
+    },
+    {
+      "title": "Software Developer VI",
+      "count": 1,
+      "median_wage_usd": 113485.0
+    },
+    {
+      "title": "Sr. Programmer Analyst - 514.18.12",
+      "count": 1,
+      "median_wage_usd": 118810.0
+    },
+    {
+      "title": "Quality Assurance Lead",
+      "count": 1,
+      "median_wage_usd": 98592.0
+    },
+    {
+      "title": "Sr. Actuarial Analyst",
+      "count": 1,
+      "median_wage_usd": 101650.0
+    },
+    {
+      "title": "Senior Developer VI",
+      "count": 1,
+      "median_wage_usd": 86133.0
+    },
+    {
+      "title": "Sr. Data Engineering Manager",
+      "count": 1,
+      "median_wage_usd": 174782.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NV",
+      "county": "WASHOE",
+      "count": 4
+    },
+    {
+      "state": "CA",
+      "county": "MONTEREY",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NV",
+      "count": 5
+    },
+    {
+      "state": "CA",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 99809.0,
+    "gap_usd": -30351.0
+  }
+}

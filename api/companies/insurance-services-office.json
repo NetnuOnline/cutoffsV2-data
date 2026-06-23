@@ -1,0 +1,203 @@
+{
+  "slug": "insurance-services-office",
+  "canonical_name": "Insurance Services Office, Inc.",
+  "fein": "13-3131412",
+  "lca_filing_count": 147,
+  "lca_worker_positions": 147,
+  "warn_notice_count": 0,
+  "median_wage_usd": 122500.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 15,
+      "median_wage_usd": 122500.0
+    },
+    {
+      "fy": 2021,
+      "filings": 18,
+      "median_wage_usd": 112000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 28,
+      "median_wage_usd": 112500.0
+    },
+    {
+      "fy": 2023,
+      "filings": 20,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 26,
+      "median_wage_usd": 124600.0
+    },
+    {
+      "fy": 2025,
+      "filings": 18,
+      "median_wage_usd": 128788.0
+    },
+    {
+      "fy": 2026,
+      "filings": 22,
+      "median_wage_usd": 139427.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Developer III",
+      "count": 19,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "title": "QA Analyst II",
+      "count": 16,
+      "median_wage_usd": 112650.0
+    },
+    {
+      "title": "Developer II",
+      "count": 16,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "title": "Technical Consultant I",
+      "count": 7,
+      "median_wage_usd": 151900.0
+    },
+    {
+      "title": "QA Analyst III",
+      "count": 6,
+      "median_wage_usd": 120750.0
+    },
+    {
+      "title": "Data Scientist",
+      "count": 5,
+      "median_wage_usd": 98950.0
+    },
+    {
+      "title": "Data Engineer",
+      "count": 3,
+      "median_wage_usd": 116000.0
+    },
+    {
+      "title": "Software Engineer II",
+      "count": 3,
+      "median_wage_usd": 117260.0
+    },
+    {
+      "title": "DevOps Engineer III",
+      "count": 3,
+      "median_wage_usd": 134800.0
+    },
+    {
+      "title": "QA Analyst I",
+      "count": 2,
+      "median_wage_usd": 96500.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NJ",
+      "county": "HUDSON",
+      "count": 78
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 3
+    },
+    {
+      "state": "UT",
+      "county": "UTAH",
+      "count": 3
+    },
+    {
+      "state": "MA",
+      "county": "BOSTON CITY",
+      "count": 3
+    },
+    {
+      "state": "OH",
+      "county": "CUYAHOGA",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 2
+    },
+    {
+      "state": "CT",
+      "county": "MIDDLETOWN CITY",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "county": "DUPAGE",
+      "count": 2
+    },
+    {
+      "state": "CT",
+      "county": "EAST HARTFORD",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "county": "HILLSBOROUGH",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 110
+    },
+    {
+      "state": "TX",
+      "count": 7
+    },
+    {
+      "state": "IL",
+      "count": 4
+    },
+    {
+      "state": "MA",
+      "count": 4
+    },
+    {
+      "state": "OH",
+      "count": 4
+    },
+    {
+      "state": "CT",
+      "count": 3
+    },
+    {
+      "state": "UT",
+      "count": 3
+    },
+    {
+      "state": "WA",
+      "count": 3
+    },
+    {
+      "state": "CA",
+      "count": 3
+    },
+    {
+      "state": "FL",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 134900.0,
+    "gap_usd": 4740.0
+  }
+}

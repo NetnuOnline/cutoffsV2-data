@@ -1,0 +1,82 @@
+{
+  "slug": "merical",
+  "canonical_name": "MeriCal, LLC",
+  "fein": null,
+  "lca_filing_count": 1,
+  "warn_notice_count": 1,
+  "median_wage_usd": 99466.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 99466.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Gummy Formulation Scientist",
+      "count": 1,
+      "median_wage_usd": 99466.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "ORANGE",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "11/22/2023",
+      "effective_date": "11/22/2023",
+      "state": "UT",
+      "workers": 36,
+      "city": "Salt Lake City"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "wasatch-front-south-wib",
+      "name": "Wasatch Front South WIB",
+      "state": "UT"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 1,
+    "continuing_denials": 0,
+    "total_approvals": 2,
+    "by_fy": [
+      {
+        "fy": 2021,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 1,
+  "top_socs": [],
+  "lca_periods": []
+}

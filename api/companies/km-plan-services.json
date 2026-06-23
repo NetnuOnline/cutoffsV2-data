@@ -1,0 +1,43 @@
+{
+  "slug": "km-plan-services",
+  "canonical_name": "KM Plan Services",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "IN",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "11/26/2008",
+      "effective_date": "10/17/2008",
+      "state": "IN",
+      "workers": 239,
+      "city": "Hammond"
+    },
+    {
+      "date": "11/26/2008",
+      "effective_date": "01/23/2008",
+      "state": "IN",
+      "workers": 239,
+      "city": "Hammond"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "economic-growth-region-1",
+      "name": "Economic Growth Region 1",
+      "state": "IN"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

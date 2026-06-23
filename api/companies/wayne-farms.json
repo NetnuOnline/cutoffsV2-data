@@ -1,0 +1,140 @@
+{
+  "slug": "wayne-farms",
+  "canonical_name": "Wayne Farms LLC",
+  "fein": "58-2530930",
+  "lca_filing_count": 3,
+  "warn_notice_count": 5,
+  "median_wage_usd": 97500.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 91500.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 110950.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Business Systems Analyst II",
+      "count": 3,
+      "median_wage_usd": 97500.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 3
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "GA",
+      "county": "HALL",
+      "count": 2
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "12/19/2016",
+      "effective_date": "02/15/2017",
+      "state": "FL",
+      "workers": 13,
+      "city": "Defuniak Springs"
+    },
+    {
+      "date": "04/02/2014",
+      "effective_date": "06/08/2014",
+      "state": "AL",
+      "workers": 560,
+      "city": "Dothan"
+    },
+    {
+      "date": "11/16/2011",
+      "effective_date": "01/16/2012",
+      "state": "AL",
+      "workers": 363,
+      "city": "Decatur"
+    },
+    {
+      "date": "05/14/2009",
+      "effective_date": "05/14/2009",
+      "state": "GA",
+      "workers": 153,
+      "city": "Douglas"
+    },
+    {
+      "date": "10/21/2008",
+      "effective_date": "10/21/2008",
+      "state": "GA",
+      "workers": 597,
+      "city": "College Park"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "southeast-alabama-works",
+      "name": "Southeast Alabama Works",
+      "state": "AL"
+    },
+    {
+      "slug": "careersource-okaloosa-walton",
+      "name": "CareerSource Okaloosa Walton",
+      "state": "FL"
+    },
+    {
+      "slug": "southeast-georgia-wib",
+      "name": "Southeast Georgia WIB",
+      "state": "GA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 1,
+    "continuing_denials": 0,
+    "total_approvals": 2,
+    "by_fy": [
+      {
+        "fy": 2009,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1211",
+    "soc_title": "Computer Systems Analysts",
+    "market_median_usd": 103800.0,
+    "employer_median_usd": 104225.0,
+    "gap_usd": 425.0
+  }
+}

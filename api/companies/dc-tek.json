@@ -1,0 +1,46 @@
+{
+  "slug": "dc-tek",
+  "canonical_name": "DC TEK INC",
+  "fein": null,
+  "lca_filing_count": 8,
+  "warn_notice_count": 0,
+  "median_wage_usd": 91520.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 8,
+      "median_wage_usd": 91520.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 8,
+      "median_wage_usd": 91520.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MI",
+      "county": "OAKLAND",
+      "count": 8
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MI",
+      "count": 8
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 8,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 91520.0,
+    "gap_usd": -38640.0
+  }
+}

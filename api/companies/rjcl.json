@@ -1,0 +1,83 @@
+{
+  "slug": "rjcl",
+  "canonical_name": "RJCL Corporation",
+  "fein": "66-0570754",
+  "lca_filing_count": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 46841.6,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 33675.200000000004
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 37856.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "ACCOUNTANT",
+      "count": 1,
+      "median_wage_usd": 33675.200000000004
+    },
+    {
+      "title": "Accountant",
+      "count": 1,
+      "median_wage_usd": 37856.0
+    },
+    {
+      "title": "ELECTRICAL ENGINEER",
+      "count": 1,
+      "median_wage_usd": 55827.2
+    },
+    {
+      "title": "CIVIL ENGINEER",
+      "count": 1,
+      "median_wage_usd": 55827.2
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MP",
+      "county": "SAIPAN",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MP",
+      "count": 4
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 1,
+    "continuing_denials": 0,
+    "total_approvals": 1,
+    "by_fy": [
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-2011",
+    "soc_title": "Accountants and Auditors",
+    "market_median_usd": 79000.0,
+    "employer_median_usd": 35765.6,
+    "gap_usd": -43234.4
+  }
+}

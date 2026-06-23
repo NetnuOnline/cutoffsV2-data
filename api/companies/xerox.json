@@ -1,0 +1,530 @@
+{
+  "slug": "xerox",
+  "canonical_name": "XEROX CORPORATION",
+  "fein": "16-0468020",
+  "lca_filing_count": 7,
+  "warn_notice_count": 39,
+  "median_wage_usd": 170320.8,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 104500.0
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 170320.8
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 183500.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 170320.8
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Analyst II, IM Security",
+      "count": 3,
+      "median_wage_usd": 170320.8
+    },
+    {
+      "title": "Sr. Engineer, Electrical & Electronics Engineering",
+      "count": 1,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Product and System Engineer, 3D Printing Quality",
+      "count": 1,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "title": "Chief Information Security Officer",
+      "count": 1,
+      "median_wage_usd": 267000.0
+    },
+    {
+      "title": "Scientist I, Research and Development ",
+      "count": 1,
+      "median_wage_usd": 104500.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 4
+    },
+    {
+      "state": "NC",
+      "count": 2
+    },
+    {
+      "state": "NY",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 4
+    },
+    {
+      "state": "NC",
+      "county": "WAKE",
+      "count": 2
+    },
+    {
+      "state": "NY",
+      "county": "MONROE",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "05/18/2020",
+      "effective_date": "05/19/2020",
+      "state": "CA",
+      "workers": 7,
+      "city": "Sunnyvale"
+    },
+    {
+      "date": "05/18/2020",
+      "effective_date": "05/19/2020",
+      "state": "CA",
+      "workers": 8,
+      "city": "Sacramento"
+    },
+    {
+      "date": "01/10/2018",
+      "effective_date": "03/10/2018",
+      "state": "CA",
+      "workers": 47,
+      "city": "Cerritos"
+    },
+    {
+      "date": "12/18/2017",
+      "effective_date": "12/18/2017",
+      "state": "NY",
+      "workers": 23,
+      "city": "Webster"
+    },
+    {
+      "date": "09/20/2017",
+      "effective_date": "12/18/2017",
+      "state": "NY",
+      "workers": 115,
+      "city": "Webster"
+    },
+    {
+      "date": "01/09/2017",
+      "effective_date": "03/09/2017",
+      "state": "OH",
+      "workers": 55,
+      "city": "Groveport/Franklin"
+    },
+    {
+      "date": "09/01/2016",
+      "effective_date": "10/31/2016",
+      "state": "CA",
+      "workers": 19,
+      "city": "Irvine"
+    },
+    {
+      "date": "08/12/2016",
+      "effective_date": "10/14/2016",
+      "state": "CA",
+      "workers": 11,
+      "city": "Los Angeles"
+    },
+    {
+      "date": "06/28/2016",
+      "effective_date": "08/26/2016",
+      "state": "FL",
+      "workers": 95,
+      "city": "Orlando"
+    },
+    {
+      "date": "06/28/2016",
+      "effective_date": "08/26/2016",
+      "state": "NC",
+      "workers": 53,
+      "city": "Raleigh"
+    },
+    {
+      "date": "06/27/2016",
+      "effective_date": "06/27/2016",
+      "state": "CO",
+      "workers": 85,
+      "city": "Arapahoe/Douglas"
+    },
+    {
+      "date": "06/06/2016",
+      "effective_date": "08/04/2016",
+      "state": "CA",
+      "workers": 39,
+      "city": "Cerritos"
+    },
+    {
+      "date": "06/01/2016",
+      "effective_date": "08/29/2016",
+      "state": "NY",
+      "workers": 48,
+      "city": "Webster"
+    },
+    {
+      "date": "04/28/2016",
+      "effective_date": "06/30/2016",
+      "state": "CA",
+      "workers": 55,
+      "city": "Riverside"
+    },
+    {
+      "date": "04/01/2016",
+      "effective_date": "05/31/2016",
+      "state": "WA",
+      "workers": 98,
+      "city": "Kent"
+    },
+    {
+      "date": "03/31/2016",
+      "effective_date": "03/31/2016",
+      "state": "CO",
+      "workers": 328,
+      "city": "Pikes Peak/Teller"
+    },
+    {
+      "date": "03/30/2016",
+      "effective_date": "05/31/2016",
+      "state": "NC",
+      "workers": 139,
+      "city": "Henderson"
+    },
+    {
+      "date": "03/07/2016",
+      "effective_date": "05/06/2016",
+      "state": "WA",
+      "workers": 325,
+      "city": "Redmond"
+    },
+    {
+      "date": "03/05/2016",
+      "effective_date": "05/06/2016",
+      "state": "LA",
+      "workers": 84,
+      "city": "Baton Rouge"
+    },
+    {
+      "date": "02/26/2016",
+      "effective_date": "04/25/2016",
+      "state": "CA",
+      "workers": 15,
+      "city": "Bakersfield"
+    },
+    {
+      "date": "06/30/2015",
+      "effective_date": "08/28/2015",
+      "state": "TX",
+      "workers": 257,
+      "city": "Wichita Falls"
+    },
+    {
+      "date": "08/07/2014",
+      "effective_date": "09/30/2014",
+      "state": "TX",
+      "workers": 468,
+      "city": "Houston"
+    },
+    {
+      "date": "07/28/2014",
+      "effective_date": "07/28/2014",
+      "state": "UT",
+      "workers": 279,
+      "city": "Salt Lake City"
+    },
+    {
+      "date": "07/15/2014",
+      "effective_date": "09/15/2014",
+      "state": "CA",
+      "workers": 38,
+      "city": "Bakersfield"
+    },
+    {
+      "date": "02/13/2014",
+      "effective_date": "02/13/2014",
+      "state": "UT",
+      "workers": 175,
+      "city": "Sandy"
+    },
+    {
+      "date": "07/01/2013",
+      "effective_date": "09/03/2013",
+      "state": "TX",
+      "workers": 439,
+      "city": "El Paso"
+    },
+    {
+      "date": "06/27/2013",
+      "effective_date": "09/27/2013",
+      "state": "TX",
+      "workers": 81,
+      "city": "Houston"
+    },
+    {
+      "date": "05/23/2013",
+      "effective_date": "07/09/2013",
+      "state": "TN",
+      "workers": 70,
+      "city": "Nashville"
+    },
+    {
+      "date": "05/01/2013",
+      "effective_date": "07/07/2013",
+      "state": "OR",
+      "workers": 285,
+      "city": "Lewisville, TX"
+    },
+    {
+      "date": "04/15/2013",
+      "effective_date": "04/15/2013",
+      "state": "KY",
+      "workers": 124,
+      "city": "Laurel"
+    },
+    {
+      "date": "04/02/2012",
+      "effective_date": "04/02/2012",
+      "state": "KY",
+      "workers": 140,
+      "city": null
+    },
+    {
+      "date": "09/03/2010",
+      "effective_date": "09/03/2010",
+      "state": "GA",
+      "workers": 93,
+      "city": "Atlanta"
+    },
+    {
+      "date": "11/05/2008",
+      "effective_date": "11/05/2008",
+      "state": "OK",
+      "workers": 101,
+      "city": "05 - CentralRegion"
+    },
+    {
+      "date": "11/05/2008",
+      "effective_date": "11/05/2008",
+      "state": "OK",
+      "workers": 0,
+      "city": "CentralRegion"
+    },
+    {
+      "date": "07/06/2001",
+      "effective_date": "07/06/2001",
+      "state": "OK",
+      "workers": 24,
+      "city": "05 - CentralRegion"
+    },
+    {
+      "date": "07/06/2001",
+      "effective_date": "07/06/2001",
+      "state": "OK",
+      "workers": 0,
+      "city": "YUKON"
+    },
+    {
+      "date": "10/11/1994",
+      "effective_date": "11/01/1994",
+      "state": "IL",
+      "workers": 220,
+      "city": "Oak Brook"
+    },
+    {
+      "date": "10/11/1994",
+      "effective_date": "10/01/1994",
+      "state": "IL",
+      "workers": 72,
+      "city": "Oak Brook"
+    },
+    {
+      "date": "09/16/1994",
+      "effective_date": "09/16/1994",
+      "state": "GA",
+      "workers": 77,
+      "city": "College Park"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "dupage-county-wib",
+      "name": "DuPage County WIB",
+      "state": "IL"
+    },
+    {
+      "slug": "east-baton-rouge-parish-wia",
+      "name": "East Baton Rouge Parish WIA",
+      "state": "LA"
+    },
+    {
+      "slug": "09-local-workforce-investment-area",
+      "name": "09 Local Workforce Investment Area",
+      "state": "TN"
+    },
+    {
+      "slug": "north-texas-wda",
+      "name": "North Texas WDA",
+      "state": "TX"
+    },
+    {
+      "slug": "wasatch-front-south-wib",
+      "name": "Wasatch Front South WIB",
+      "state": "UT"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 3,
+    "initial_denials": 0,
+    "continuing_approvals": 20,
+    "continuing_denials": 0,
+    "total_approvals": 23,
+    "by_fy": [
+      {
+        "fy": 2009,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2010,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2011,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2012,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2013,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2014,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2015,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2016,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2017,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 7,
+        "continuing_denials": 0,
+        "total_approvals": 7
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 6,
+        "continuing_denials": 0,
+        "total_approvals": 7
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 6,
+        "continuing_denials": 0,
+        "total_approvals": 8
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 6,
+  "top_socs": [],
+  "lca_periods": []
+}

@@ -1,0 +1,112 @@
+{
+  "slug": "the-goodyear-tire-rubber-company",
+  "canonical_name": "The Goodyear Tire & Rubber Company",
+  "fein": "34-0253240",
+  "lca_filing_count": 18,
+  "lca_worker_positions": 18,
+  "warn_notice_count": 0,
+  "median_wage_usd": 104998.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 84198.0
+    },
+    {
+      "fy": 2022,
+      "filings": 8,
+      "median_wage_usd": 96980.0
+    },
+    {
+      "fy": 2024,
+      "filings": 7,
+      "median_wage_usd": 105747.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 120370.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 127130.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Global SAP Process Architect",
+      "count": 3,
+      "median_wage_usd": 104998.0
+    },
+    {
+      "title": "Business Process Architect \u2013 IT PLM",
+      "count": 2,
+      "median_wage_usd": 111405.0
+    },
+    {
+      "title": "Engineer (Tire Mechanics Engineer)",
+      "count": 2,
+      "median_wage_usd": 74360.0
+    },
+    {
+      "title": "Principal Data Scientist",
+      "count": 2,
+      "median_wage_usd": 109616.0
+    },
+    {
+      "title": "Application Development Architect",
+      "count": 2,
+      "median_wage_usd": 115294.5
+    },
+    {
+      "title": "Software Engineer Lead",
+      "count": 1,
+      "median_wage_usd": 127130.0
+    },
+    {
+      "title": "Senior Engineer",
+      "count": 1,
+      "median_wage_usd": 104686.0
+    },
+    {
+      "title": "Business Process Architect",
+      "count": 1,
+      "median_wage_usd": 84198.0
+    },
+    {
+      "title": "Quality Engineer Senior",
+      "count": 1,
+      "median_wage_usd": 88899.0
+    },
+    {
+      "title": "Engineer Staff \u2013 Software Integration",
+      "count": 1,
+      "median_wage_usd": 96595.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "OH",
+      "county": "SUMMIT",
+      "count": 16
+    }
+  ],
+  "top_states": [
+    {
+      "state": "OH",
+      "count": 18
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1211",
+    "soc_title": "Computer Systems Analysts",
+    "market_median_usd": 103800.0,
+    "employer_median_usd": 105747.0,
+    "gap_usd": 1947.0
+  }
+}

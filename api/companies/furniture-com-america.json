@@ -1,0 +1,81 @@
+{
+  "slug": "furniture-com-america",
+  "canonical_name": "Furniture.com America LLC",
+  "fein": "81-2575105",
+  "lca_filing_count": 5,
+  "lca_worker_positions": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 155000.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 156894.5
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 155000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 140000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Lead QA Automation Engineer",
+      "count": 1,
+      "median_wage_usd": 160000.0
+    },
+    {
+      "title": "Data Scientist",
+      "count": 1,
+      "median_wage_usd": 110469.0
+    },
+    {
+      "title": "QA Engineer",
+      "count": 1,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "Data Engineer",
+      "count": 1,
+      "median_wage_usd": 155000.0
+    },
+    {
+      "title": "Engineering Manager",
+      "count": 1,
+      "median_wage_usd": 203320.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "GA",
+      "county": "DEKALB",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 4
+    },
+    {
+      "state": "NC",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1253",
+    "soc_title": "Software Quality Assurance Analysts and Testers",
+    "market_median_usd": 101800.0,
+    "employer_median_usd": 140000.0,
+    "gap_usd": 38200.0
+  }
+}

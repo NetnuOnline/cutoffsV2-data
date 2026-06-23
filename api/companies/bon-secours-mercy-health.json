@@ -1,0 +1,183 @@
+{
+  "slug": "bon-secours-mercy-health",
+  "canonical_name": "Bon Secours Mercy Health, Inc.",
+  "fein": "52-1301088",
+  "lca_filing_count": 14,
+  "warn_notice_count": 1,
+  "median_wage_usd": 128980.8,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 3,
+      "median_wage_usd": 128000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 4,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 4,
+      "median_wage_usd": 133827.2
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 144352.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 77209.6
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Sr. Workforce Scientist",
+      "count": 2,
+      "median_wage_usd": 128980.8
+    },
+    {
+      "title": "Physical Therapist",
+      "count": 1,
+      "median_wage_usd": 99944.0
+    },
+    {
+      "title": "Cloud DevOps Administrator",
+      "count": 1,
+      "median_wage_usd": 128000.0
+    },
+    {
+      "title": "Application Services Developer Lead ",
+      "count": 1,
+      "median_wage_usd": 130998.0
+    },
+    {
+      "title": "Senior Data Engineer",
+      "count": 1,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "title": "Salesforce Engineer III",
+      "count": 1,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Application Services Developer Lead",
+      "count": 1,
+      "median_wage_usd": 138673.6
+    },
+    {
+      "title": "Data Analyst",
+      "count": 1,
+      "median_wage_usd": 68640.0
+    },
+    {
+      "title": "Sr. Data Engineer",
+      "count": 1,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "title": "QA Engineer ",
+      "count": 1,
+      "median_wage_usd": 105000.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "OH",
+      "count": 12
+    },
+    {
+      "state": "VA",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "OH",
+      "county": "HAMILTON",
+      "count": 10
+    },
+    {
+      "state": "OH",
+      "county": "CLERMONT",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "county": "PORTSMOUTH CITY",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "county": "DUPAGE",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "05/31/2019",
+      "effective_date": "05/31/2019",
+      "state": "SC",
+      "workers": 60,
+      "city": "Greenville"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "greenville-wib",
+      "name": "Greenville WIB",
+      "state": "SC"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 7,
+    "initial_denials": 0,
+    "continuing_approvals": 19,
+    "continuing_denials": 0,
+    "total_approvals": 26,
+    "by_fy": [
+      {
+        "fy": 2021,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 5,
+        "continuing_denials": 0,
+        "total_approvals": 7
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 3,
+        "initial_denials": 0,
+        "continuing_approvals": 10,
+        "continuing_denials": 0,
+        "total_approvals": 13
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 4,
+        "continuing_denials": 0,
+        "total_approvals": 6
+      }
+    ]
+  },
+  "lca_worker_positions": 14,
+  "top_socs": [],
+  "lca_periods": []
+}

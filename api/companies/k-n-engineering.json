@@ -1,0 +1,76 @@
+{
+  "slug": "k-n-engineering",
+  "canonical_name": "K&N Engineering Inc.",
+  "fein": "95-2408507",
+  "lca_filing_count": 2,
+  "warn_notice_count": 2,
+  "median_wage_usd": 130000.0,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 130000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Business Intelligence Architect",
+      "count": 2,
+      "median_wage_usd": 130000.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "06/17/2020",
+      "effective_date": "06/17/2020",
+      "state": "CA",
+      "workers": 44,
+      "city": "Riverside"
+    },
+    {
+      "date": "04/08/2020",
+      "effective_date": "04/04/2020",
+      "state": "CA",
+      "workers": 272,
+      "city": "Riverside"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 2,
+    "continuing_denials": 0,
+    "total_approvals": 3,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      }
+    ]
+  },
+  "lca_worker_positions": 1,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Business Intelligence Analysts",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 130000.0,
+    "gap_usd": 21980.0
+  }
+}

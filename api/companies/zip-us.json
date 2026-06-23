@@ -1,0 +1,126 @@
+{
+  "slug": "zip-us",
+  "canonical_name": "Zip Co US Inc.",
+  "fein": "30-1130431",
+  "lca_filing_count": 19,
+  "lca_worker_positions": 17,
+  "warn_notice_count": 0,
+  "median_wage_usd": 185000.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 3,
+      "median_wage_usd": 185000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 4,
+      "median_wage_usd": 272950.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 170000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 160000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 4,
+      "median_wage_usd": 217500.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 241238.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Data Analyst",
+      "count": 3,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "title": "Vice President, US Strategy & Corporate Development",
+      "count": 3,
+      "median_wage_usd": 270000.0
+    },
+    {
+      "title": "Assistant Controller",
+      "count": 2,
+      "median_wage_usd": 160000.0
+    },
+    {
+      "title": "Chief Financial Officer",
+      "count": 2,
+      "median_wage_usd": 272950.0
+    },
+    {
+      "title": "Product Manager (Business Operations Specialist)",
+      "count": 1,
+      "median_wage_usd": 142500.0
+    },
+    {
+      "title": "Operations Manager (VP People & Culture, US and New Markets)",
+      "count": 1,
+      "median_wage_usd": 185000.0
+    },
+    {
+      "title": "People Systems Manager",
+      "count": 1,
+      "median_wage_usd": 145000.0
+    },
+    {
+      "title": "Global Chief Executive Officer",
+      "count": 1,
+      "median_wage_usd": 370000.0
+    },
+    {
+      "title": "Vice President, B2B Marketing",
+      "count": 1,
+      "median_wage_usd": 185000.0
+    },
+    {
+      "title": "CHIEF STRATEGY AND CORPORATE DEVELOPMENT OFFICER",
+      "count": 1,
+      "median_wage_usd": 241238.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 11
+    },
+    {
+      "state": "FL",
+      "county": "DUVAL",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 18
+    },
+    {
+      "state": "FL",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3031",
+    "soc_title": "Financial Managers",
+    "market_median_usd": 156100.0,
+    "employer_median_usd": 272950.0,
+    "gap_usd": 116850.0
+  }
+}

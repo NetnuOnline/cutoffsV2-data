@@ -1,0 +1,66 @@
+{
+  "slug": "verinova-technologies",
+  "canonical_name": "VERINOVA TECHNOLOGIES, LLC.",
+  "fein": "20-4187766",
+  "lca_filing_count": 3,
+  "lca_worker_positions": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 90667.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 102690.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 82274.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SALESFORCE DEVELOPER",
+      "count": 1,
+      "median_wage_usd": 102690.0
+    },
+    {
+      "title": "SR. NETWORK ENGINEER",
+      "count": 1,
+      "median_wage_usd": 90667.0
+    },
+    {
+      "title": "NETWORK ENGINEER",
+      "count": 1,
+      "median_wage_usd": 73882.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IL",
+      "county": "DUPAGE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MO",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1244",
+    "soc_title": "Network and Computer Systems Administrators",
+    "market_median_usd": 95000.0,
+    "employer_median_usd": 82274.5,
+    "gap_usd": -12725.5
+  }
+}

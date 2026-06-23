@@ -1,0 +1,86 @@
+{
+  "slug": "gorgias",
+  "canonical_name": "Gorgias, Inc.",
+  "fein": "32-0475327",
+  "lca_filing_count": 6,
+  "lca_worker_positions": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 163144.5,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 155064.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 157575.0
+    },
+    {
+      "fy": 2026,
+      "filings": 4,
+      "median_wage_usd": 216601.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Director, Data Analytics",
+      "count": 2,
+      "median_wage_usd": 264489.0
+    },
+    {
+      "title": "Product Manager",
+      "count": 2,
+      "median_wage_usd": 161889.0
+    },
+    {
+      "title": "Strategy Manager",
+      "count": 1,
+      "median_wage_usd": 157575.0
+    },
+    {
+      "title": "Data Analyst",
+      "count": 1,
+      "median_wage_usd": 128751.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 3
+    },
+    {
+      "state": "NY",
+      "county": "KINGS",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 5
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3021",
+    "soc_title": "Computer and Information Systems Managers",
+    "market_median_usd": 169510.0,
+    "employer_median_usd": 264489.0,
+    "gap_usd": 94979.0
+  }
+}

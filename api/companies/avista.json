@@ -1,0 +1,78 @@
+{
+  "slug": "avista",
+  "canonical_name": "Avista Corporation",
+  "fein": null,
+  "lca_filing_count": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 155000.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 152500.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 155000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "ADSS Solution Architect",
+      "count": 1,
+      "median_wage_usd": 155000.0
+    },
+    {
+      "title": "QA Architect/SDET/Lead",
+      "count": 1,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "title": "Software Solutions Architect",
+      "count": 1,
+      "median_wage_usd": 155000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "WA",
+      "county": "SPOKANE",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "WA",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 2,
+    "continuing_denials": 0,
+    "total_approvals": 2,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      }
+    ]
+  },
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Computer Systems Engineers/Architects",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 155000.0,
+    "gap_usd": 37000.0
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "slug": "westat",
+  "canonical_name": "Westat",
+  "fein": "84-0529566",
+  "lca_filing_count": 6,
+  "lca_worker_positions": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 91050.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 3,
+      "median_wage_usd": 85200.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 92100.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 143400.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Systems Analyst",
+      "count": 2,
+      "median_wage_usd": 143400.0
+    },
+    {
+      "title": "Mobile Application Developer ",
+      "count": 1,
+      "median_wage_usd": 85200.0
+    },
+    {
+      "title": "Web Developer",
+      "count": 1,
+      "median_wage_usd": 80204.0
+    },
+    {
+      "title": "Statistician",
+      "count": 1,
+      "median_wage_usd": 92100.0
+    },
+    {
+      "title": "Systems Analyst ",
+      "count": 1,
+      "median_wage_usd": 90000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MD",
+      "county": "MONTGOMERY",
+      "count": 3
+    },
+    {
+      "state": "DC",
+      "county": "DISTRICT OF COLUMBIA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MD",
+      "count": 5
+    },
+    {
+      "state": "DC",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": []
+}

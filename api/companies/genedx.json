@@ -1,0 +1,57 @@
+{
+  "slug": "genedx",
+  "canonical_name": "GeneDX",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 1,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "CT",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "01/01/2023",
+      "effective_date": "05/28/2023",
+      "state": "CT",
+      "workers": 19,
+      "city": "West Simsbury"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "north-central-wia-ct",
+      "name": "North Central WIA",
+      "state": "CT"
+    }
+  ],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2022-11-14",
+        "formType": "8-K",
+        "accessionNumber": "0001818331-22-000075",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001818331&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 1,
+    "itemCounts": {
+      "2.05": 1
+    },
+    "latestFilingDate": "2022-11-14",
+    "earliestFilingDate": "2022-11-14"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

@@ -1,0 +1,110 @@
+{
+  "slug": "penn-mutual-life-insurance-company",
+  "canonical_name": "Penn Mutual Life Insurance Company",
+  "fein": "23-0952300",
+  "lca_filing_count": 9,
+  "lca_worker_positions": 9,
+  "warn_notice_count": 0,
+  "median_wage_usd": 140000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 109229.0
+    },
+    {
+      "fy": 2022,
+      "filings": 4,
+      "median_wage_usd": 140567.875
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 250000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 137626.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Software Engineer",
+      "count": 2,
+      "median_wage_usd": 146679.0
+    },
+    {
+      "title": "Lead Software Engineer",
+      "count": 2,
+      "median_wage_usd": 125182.375
+    },
+    {
+      "title": "Chief Risk Officer",
+      "count": 2,
+      "median_wage_usd": 230000.0
+    },
+    {
+      "title": "Sr. Software Engineer",
+      "count": 2,
+      "median_wage_usd": 130947.0
+    },
+    {
+      "title": "Software Engineer-Applied Innovation",
+      "count": 1,
+      "median_wage_usd": 120000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "PA",
+      "county": "MONTGOMERY",
+      "count": 3
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "county": "CENTRE",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "county": "DUPAGE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "PA",
+      "count": 6
+    },
+    {
+      "state": "WA",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 140000.0,
+    "gap_usd": 9840.0
+  }
+}

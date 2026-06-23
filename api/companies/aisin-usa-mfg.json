@@ -1,0 +1,74 @@
+{
+  "slug": "aisin-usa-mfg",
+  "canonical_name": "AISIN USA Mfg., Inc.",
+  "fein": null,
+  "lca_filing_count": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 68802.5,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 3,
+      "median_wage_usd": 80000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 68554.5
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Quality Engineer",
+      "count": 3,
+      "median_wage_usd": 68306.5
+    },
+    {
+      "title": "Group Leader of Quality Engineering ",
+      "count": 2,
+      "median_wage_usd": 80000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IN",
+      "county": "JACKSON",
+      "count": 5
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IN",
+      "count": 5
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 6,
+    "initial_denials": 0,
+    "continuing_approvals": 2,
+    "continuing_denials": 0,
+    "total_approvals": 8,
+    "by_fy": [
+      {
+        "fy": 2020,
+        "initial_approvals": 4,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 4
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 4
+      }
+    ]
+  },
+  "lca_worker_positions": 5,
+  "top_socs": [],
+  "lca_periods": []
+}

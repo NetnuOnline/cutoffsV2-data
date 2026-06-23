@@ -1,0 +1,104 @@
+{
+  "slug": "lincoln-national-corporation",
+  "canonical_name": "Lincoln National Corporation",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 8,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 6
+    },
+    {
+      "state": "CT",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "06/24/2019",
+      "effective_date": "09/01/2019",
+      "state": "CT",
+      "workers": 83,
+      "city": "Rocky Hill"
+    },
+    {
+      "date": "01/01/2019",
+      "effective_date": "09/01/2019",
+      "state": "CT",
+      "workers": 83,
+      "city": "Rockyhill"
+    },
+    {
+      "date": "08/04/2010",
+      "effective_date": "06/01/2011",
+      "state": "IL",
+      "workers": 8,
+      "city": "Arlington Heights"
+    },
+    {
+      "date": "08/04/2010",
+      "effective_date": "12/01/2010",
+      "state": "IL",
+      "workers": 28,
+      "city": "Arlington Heights"
+    },
+    {
+      "date": "08/04/2010",
+      "effective_date": "11/01/2010",
+      "state": "IL",
+      "workers": 18,
+      "city": "Arlington Heights"
+    },
+    {
+      "date": "08/04/2010",
+      "effective_date": "10/01/2010",
+      "state": "IL",
+      "workers": 8,
+      "city": "Arlington Heights"
+    },
+    {
+      "date": "02/16/1989",
+      "effective_date": "04/01/1989",
+      "state": "IL",
+      "workers": 63,
+      "city": "Downers Grove"
+    },
+    {
+      "date": "02/16/1989",
+      "effective_date": "02/01/1989",
+      "state": "IL",
+      "workers": 3,
+      "city": "Downers Grove"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2016-08-11",
+        "formType": "8-K/A",
+        "accessionNumber": "0000059558-16-000109",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000059558&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 1,
+    "itemCounts": {
+      "5.02": 1
+    },
+    "latestFilingDate": "2016-08-11",
+    "earliestFilingDate": "2016-08-11"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

@@ -1,0 +1,59 @@
+{
+  "slug": "rosetta-stone",
+  "canonical_name": "Rosetta Stone",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 3,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "VA",
+      "count": 2
+    },
+    {
+      "state": "WA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "05/11/2021",
+      "effective_date": "07/11/2021",
+      "state": "WA",
+      "workers": 16,
+      "city": "Seattle"
+    },
+    {
+      "date": "05/11/2021",
+      "effective_date": "07/11/2021",
+      "state": "VA",
+      "workers": 97,
+      "city": "Arlington, VA"
+    },
+    {
+      "date": "05/11/2021",
+      "effective_date": "07/11/2021",
+      "state": "VA",
+      "workers": 64,
+      "city": "Harrisonburg, VA"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "shenandoah-valley-lwia-iv",
+      "name": "Shenandoah Valley LWIA IV",
+      "state": "VA"
+    },
+    {
+      "slug": "alexandriaarlington-lwia-xii",
+      "name": "Alexandria/Arlington LWIA XII",
+      "state": "VA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

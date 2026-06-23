@@ -1,0 +1,106 @@
+{
+  "slug": "alaska-airlines",
+  "canonical_name": "Alaska Airlines, Inc.",
+  "fein": "92-0009235",
+  "lca_filing_count": 22,
+  "lca_worker_positions": 22,
+  "warn_notice_count": 0,
+  "median_wage_usd": 127237.5,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 4,
+      "median_wage_usd": 115737.5
+    },
+    {
+      "fy": 2022,
+      "filings": 7,
+      "median_wage_usd": 108500.0
+    },
+    {
+      "fy": 2024,
+      "filings": 4,
+      "median_wage_usd": 136843.0
+    },
+    {
+      "fy": 2025,
+      "filings": 5,
+      "median_wage_usd": 139298.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 118851.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Software Engineer",
+      "count": 11,
+      "median_wage_usd": 118851.0
+    },
+    {
+      "title": "Senior Network Reliability Engineer",
+      "count": 2,
+      "median_wage_usd": 129074.5
+    },
+    {
+      "title": "Software Engineer",
+      "count": 2,
+      "median_wage_usd": 101274.5
+    },
+    {
+      "title": "Senior Software Engineer ",
+      "count": 2,
+      "median_wage_usd": 121750.0
+    },
+    {
+      "title": "Principal Software Engineer",
+      "count": 2,
+      "median_wage_usd": 166317.0
+    },
+    {
+      "title": "Principal Network & Security Engineer ",
+      "count": 1,
+      "median_wage_usd": 136053.0
+    },
+    {
+      "title": "Principal Network & Security Engineer",
+      "count": 1,
+      "median_wage_usd": 136053.0
+    },
+    {
+      "title": "Manager Software Engineering",
+      "count": 1,
+      "median_wage_usd": 167024.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 15
+    }
+  ],
+  "top_states": [
+    {
+      "state": "WA",
+      "count": 20
+    },
+    {
+      "state": "AZ",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Computer Systems Engineers/Architects",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 118851.0,
+    "gap_usd": 851.0
+  }
+}

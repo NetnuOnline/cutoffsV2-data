@@ -1,0 +1,48 @@
+{
+  "slug": "discoverfresh-foods",
+  "canonical_name": "DiscoverFresh Foods",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "SC",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "08/01/2024",
+      "effective_date": "08/01/2024",
+      "state": "SC",
+      "workers": 53,
+      "city": "Easley"
+    },
+    {
+      "date": "08/01/2024",
+      "effective_date": "08/01/2024",
+      "state": "SC",
+      "workers": 7,
+      "city": "Greenville"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "pendleton-district-w",
+      "name": "Pendleton District W",
+      "state": "SC"
+    },
+    {
+      "slug": "greenville-wib",
+      "name": "Greenville WIB",
+      "state": "SC"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

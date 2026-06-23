@@ -1,0 +1,427 @@
+{
+  "slug": "benihana",
+  "canonical_name": "Benihana",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 51,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 15
+    },
+    {
+      "state": "FL",
+      "count": 8
+    },
+    {
+      "state": "TX",
+      "count": 7
+    },
+    {
+      "state": "AZ",
+      "count": 4
+    },
+    {
+      "state": "IL",
+      "count": 3
+    },
+    {
+      "state": "NY",
+      "count": 3
+    },
+    {
+      "state": "MN",
+      "count": 3
+    },
+    {
+      "state": "OH",
+      "count": 2
+    },
+    {
+      "state": "TN",
+      "count": 1
+    },
+    {
+      "state": "MD",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "04/15/2020",
+      "effective_date": "03/20/2020",
+      "state": "TN",
+      "workers": 43,
+      "city": "Shelby County"
+    },
+    {
+      "date": "04/08/2020",
+      "effective_date": "03/18/2020",
+      "state": "CA",
+      "workers": 75,
+      "city": "Ontario"
+    },
+    {
+      "date": "04/08/2020",
+      "effective_date": "03/17/2020",
+      "state": "CA",
+      "workers": 114,
+      "city": "San Diego"
+    },
+    {
+      "date": "04/08/2020",
+      "effective_date": "03/17/2020",
+      "state": "CA",
+      "workers": 84,
+      "city": "Newport Beach"
+    },
+    {
+      "date": "04/08/2020",
+      "effective_date": "03/17/2020",
+      "state": "CA",
+      "workers": 107,
+      "city": "Anaheim"
+    },
+    {
+      "date": "04/08/2020",
+      "effective_date": "03/16/2020",
+      "state": "CA",
+      "workers": 66,
+      "city": "Burlingame"
+    },
+    {
+      "date": "04/08/2020",
+      "effective_date": "03/16/2020",
+      "state": "CA",
+      "workers": 76,
+      "city": "Cupertino"
+    },
+    {
+      "date": "04/08/2020",
+      "effective_date": "03/16/2020",
+      "state": "CA",
+      "workers": 58,
+      "city": "San Francisco"
+    },
+    {
+      "date": "04/08/2020",
+      "effective_date": "03/16/2020",
+      "state": "CA",
+      "workers": 100,
+      "city": "Torrance"
+    },
+    {
+      "date": "04/08/2020",
+      "effective_date": "03/16/2020",
+      "state": "CA",
+      "workers": 97,
+      "city": "Concord"
+    },
+    {
+      "date": "04/07/2020",
+      "effective_date": "03/21/2020",
+      "state": "FL",
+      "workers": 42,
+      "city": "BOCA RATON"
+    },
+    {
+      "date": "04/07/2020",
+      "effective_date": "03/21/2020",
+      "state": "FL",
+      "workers": 51,
+      "city": "CORAL SPRINGS"
+    },
+    {
+      "date": "04/07/2020",
+      "effective_date": "03/20/2020",
+      "state": "FL",
+      "workers": 81,
+      "city": "ORLANDO"
+    },
+    {
+      "date": "04/07/2020",
+      "effective_date": "03/20/2020",
+      "state": "FL",
+      "workers": 50,
+      "city": "LAKE BUENA VISTA"
+    },
+    {
+      "date": "04/07/2020",
+      "effective_date": "03/18/2020",
+      "state": "FL",
+      "workers": 50,
+      "city": "STUART"
+    },
+    {
+      "date": "04/07/2020",
+      "effective_date": "03/18/2020",
+      "state": "FL",
+      "workers": 78,
+      "city": "MIRAMAR"
+    },
+    {
+      "date": "04/07/2020",
+      "effective_date": "03/18/2020",
+      "state": "FL",
+      "workers": 128,
+      "city": "NORTH BAY VILLAGE"
+    },
+    {
+      "date": "04/07/2020",
+      "effective_date": "03/18/2020",
+      "state": "FL",
+      "workers": 63,
+      "city": "LAUDERDALE BY THE SEA"
+    },
+    {
+      "date": "04/07/2020",
+      "effective_date": "03/16/2020",
+      "state": "OH",
+      "workers": 34,
+      "city": "Cincinnati/Hamilton"
+    },
+    {
+      "date": "04/07/2020",
+      "effective_date": "03/16/2020",
+      "state": "OH",
+      "workers": 37,
+      "city": "Columbus/Delaware"
+    },
+    {
+      "date": "04/06/2020",
+      "effective_date": "03/18/2020",
+      "state": "TX",
+      "workers": 56,
+      "city": "Plano"
+    },
+    {
+      "date": "04/05/2020",
+      "effective_date": "03/19/2020",
+      "state": "TX",
+      "workers": 38,
+      "city": "The Woodlands"
+    },
+    {
+      "date": "04/05/2020",
+      "effective_date": "03/17/2020",
+      "state": "TX",
+      "workers": 41,
+      "city": "Sugar Land"
+    },
+    {
+      "date": "04/05/2020",
+      "effective_date": "03/17/2020",
+      "state": "TX",
+      "workers": 41,
+      "city": "Houston"
+    },
+    {
+      "date": "04/05/2020",
+      "effective_date": "03/17/2020",
+      "state": "TX",
+      "workers": 52,
+      "city": "Houston"
+    },
+    {
+      "date": "04/05/2020",
+      "effective_date": "03/17/2020",
+      "state": "TX",
+      "workers": 72,
+      "city": "Dallas"
+    },
+    {
+      "date": "04/05/2020",
+      "effective_date": "03/17/2020",
+      "state": "TX",
+      "workers": 53,
+      "city": "Irving"
+    },
+    {
+      "date": "04/05/2020",
+      "effective_date": "03/01/2020",
+      "state": "IL",
+      "workers": 24,
+      "city": "Wheeling"
+    },
+    {
+      "date": "04/05/2020",
+      "effective_date": "03/01/2020",
+      "state": "IL",
+      "workers": 37,
+      "city": "1200 E. Higgins Road  Schaumburg, IL 60713"
+    },
+    {
+      "date": "04/05/2020",
+      "effective_date": "03/01/2020",
+      "state": "IL",
+      "workers": 41,
+      "city": "Lombard"
+    },
+    {
+      "date": "04/05/2020",
+      "effective_date": "04/05/2020",
+      "state": "AZ",
+      "workers": 26,
+      "city": "Phoenix"
+    },
+    {
+      "date": "04/05/2020",
+      "effective_date": "04/05/2020",
+      "state": "AZ",
+      "workers": 52,
+      "city": "Scottsdale"
+    },
+    {
+      "date": "04/05/2020",
+      "effective_date": "04/05/2020",
+      "state": "AZ",
+      "workers": 49,
+      "city": "Chandler"
+    },
+    {
+      "date": "04/05/2020",
+      "effective_date": "04/05/2020",
+      "state": "AZ",
+      "workers": 53,
+      "city": "Scottsdale"
+    },
+    {
+      "date": "04/03/2020",
+      "effective_date": "03/16/2020",
+      "state": "MD",
+      "workers": 43,
+      "city": "Bethesda"
+    },
+    {
+      "date": "04/02/2020",
+      "effective_date": "04/16/2020",
+      "state": "AK",
+      "workers": 68,
+      "city": "Anchorage"
+    },
+    {
+      "date": "04/02/2020",
+      "effective_date": "03/17/2020",
+      "state": "OR",
+      "workers": 57,
+      "city": "Beaverton"
+    },
+    {
+      "date": "04/02/2020",
+      "effective_date": "03/17/2020",
+      "state": "VA",
+      "workers": 22,
+      "city": "Dulles, VA"
+    },
+    {
+      "date": "04/02/2020",
+      "effective_date": "03/16/2020",
+      "state": "NY",
+      "workers": 161,
+      "city": "New York"
+    },
+    {
+      "date": "04/02/2020",
+      "effective_date": "03/16/2020",
+      "state": "NY",
+      "workers": 43,
+      "city": "Manhasset"
+    },
+    {
+      "date": "04/02/2020",
+      "effective_date": "03/16/2020",
+      "state": "NY",
+      "workers": 51,
+      "city": "Westbury"
+    },
+    {
+      "date": "04/01/2020",
+      "effective_date": "03/22/2020",
+      "state": "IN",
+      "workers": 33,
+      "city": "Indianapolis"
+    },
+    {
+      "date": "03/25/2020",
+      "effective_date": "03/17/2020",
+      "state": "CA",
+      "workers": 62,
+      "city": "Carlsbad"
+    },
+    {
+      "date": "03/25/2020",
+      "effective_date": "03/16/2020",
+      "state": "CA",
+      "workers": 65,
+      "city": "Santa Monica"
+    },
+    {
+      "date": "03/25/2020",
+      "effective_date": "03/16/2020",
+      "state": "CA",
+      "workers": 60,
+      "city": "Arcadia"
+    },
+    {
+      "date": "03/25/2020",
+      "effective_date": "03/16/2020",
+      "state": "CA",
+      "workers": 97,
+      "city": "Downey"
+    },
+    {
+      "date": "03/25/2020",
+      "effective_date": "03/16/2020",
+      "state": "CA",
+      "workers": 82,
+      "city": "Encino"
+    },
+    {
+      "date": "03/25/2020",
+      "effective_date": "03/16/2020",
+      "state": "CA",
+      "workers": 85,
+      "city": "City of Industry"
+    },
+    {
+      "date": "03/17/2020",
+      "effective_date": "03/17/2020",
+      "state": "MN",
+      "workers": 45,
+      "city": "Maple Grove"
+    },
+    {
+      "date": "03/17/2020",
+      "effective_date": "03/17/2020",
+      "state": "MN",
+      "workers": 51,
+      "city": "Golden Valley"
+    },
+    {
+      "date": "03/17/2020",
+      "effective_date": "03/17/2020",
+      "state": "MN",
+      "workers": 77,
+      "city": "Bloomington"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "alaska-wib",
+      "name": "Alaska WIB",
+      "state": "AK"
+    },
+    {
+      "slug": "careersource-research-coast",
+      "name": "CareerSource Research Coast",
+      "state": "FL"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

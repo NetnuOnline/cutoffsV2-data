@@ -1,0 +1,81 @@
+{
+  "slug": "kenvue",
+  "canonical_name": "Kenvue Inc.",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "01/10/2025",
+      "effective_date": "01/10/2025",
+      "state": "NJ",
+      "workers": 69,
+      "city": "Summit"
+    },
+    {
+      "date": "02/13/2024",
+      "effective_date": "01/15/2024",
+      "state": "NJ",
+      "workers": 51,
+      "city": "Skillman"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "greater-raritan-wib",
+      "name": "Greater Raritan WIB",
+      "state": "NJ"
+    },
+    {
+      "slug": "union-wib",
+      "name": "Union WIB",
+      "state": "NJ"
+    }
+  ],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2026-02-17",
+        "formType": "8-K",
+        "accessionNumber": "0001944048-26-000016",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001944048&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2024-05-07",
+        "formType": "8-K",
+        "accessionNumber": "0001944048-24-000096",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001944048&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 2,
+    "itemCounts": {
+      "2.05": 2
+    },
+    "latestFilingDate": "2026-02-17",
+    "earliestFilingDate": "2024-05-07"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

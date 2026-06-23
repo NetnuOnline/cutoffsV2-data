@@ -1,0 +1,55 @@
+{
+  "slug": "peterson-bros",
+  "canonical_name": "Peterson Bros., Inc.",
+  "fein": "25-1577831",
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 119997.6,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 119995.2
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Technical Project Manager",
+      "count": 2,
+      "median_wage_usd": 119997.6
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Information Technology Project Managers",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 119997.6,
+    "gap_usd": 1997.6
+  }
+}

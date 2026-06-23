@@ -1,0 +1,91 @@
+{
+  "slug": "srima-tech",
+  "canonical_name": "Srima Tech LLC",
+  "fein": "87-3766820",
+  "lca_filing_count": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 89253.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 99237.0
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 79269.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Data Engineer",
+      "count": 2,
+      "median_wage_usd": 79269.0
+    },
+    {
+      "title": "Project Manager",
+      "count": 1,
+      "median_wage_usd": 99237.0
+    },
+    {
+      "title": "Adobe Journey\u00a0Optimizer Developer",
+      "count": 1,
+      "median_wage_usd": 105976.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "FL",
+      "county": "HILLSBOROUGH",
+      "count": 1
+    },
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NV",
+      "count": 2
+    },
+    {
+      "state": "FL",
+      "count": 1
+    },
+    {
+      "state": "AZ",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 3,
+    "initial_denials": 0,
+    "continuing_approvals": 0,
+    "continuing_denials": 0,
+    "total_approvals": 3,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 3,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      }
+    ]
+  },
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 79269.0,
+    "gap_usd": -28751.0
+  }
+}

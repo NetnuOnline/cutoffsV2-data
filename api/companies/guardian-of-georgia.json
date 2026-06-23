@@ -1,0 +1,47 @@
+{
+  "slug": "guardian-of-georgia",
+  "canonical_name": "Guardian of Georgia, LLC",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "MD",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "06/13/2022",
+      "effective_date": "07/01/2022",
+      "state": "MD",
+      "workers": 21,
+      "city": "12240 Kiln Court Beltsville, MD 20705"
+    },
+    {
+      "date": "06/07/2022",
+      "effective_date": "08/05/2022",
+      "state": "GA",
+      "workers": 181,
+      "city": "Norcross"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "atlanta-regional-wib",
+      "name": "Atlanta Regional WIB",
+      "state": "GA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

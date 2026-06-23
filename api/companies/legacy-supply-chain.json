@@ -1,0 +1,177 @@
+{
+  "slug": "legacy-supply-chain",
+  "canonical_name": "Legacy Supply Chain",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 15,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 7
+    },
+    {
+      "state": "SC",
+      "count": 2
+    },
+    {
+      "state": "TN",
+      "count": 1
+    },
+    {
+      "state": "AL",
+      "count": 1
+    },
+    {
+      "state": "MD",
+      "count": 1
+    },
+    {
+      "state": "KY",
+      "count": 1
+    },
+    {
+      "state": "NV",
+      "count": 1
+    },
+    {
+      "state": "DE",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "04/10/2026",
+      "effective_date": "04/10/2026",
+      "state": "TN",
+      "workers": 4,
+      "city": "McNairy County"
+    },
+    {
+      "date": "04/09/2026",
+      "effective_date": "06/06/2026",
+      "state": "AL",
+      "workers": 6,
+      "city": "Decatur"
+    },
+    {
+      "date": "04/01/2026",
+      "effective_date": "06/06/2026",
+      "state": "MD",
+      "workers": 21,
+      "city": "Perryville"
+    },
+    {
+      "date": "04/01/2026",
+      "effective_date": "06/06/2026",
+      "state": "KY",
+      "workers": 123,
+      "city": "Jefferson County - Louisville"
+    },
+    {
+      "date": "01/31/2026",
+      "effective_date": "04/01/2026",
+      "state": "CA",
+      "workers": 14,
+      "city": "New York"
+    },
+    {
+      "date": "01/31/2026",
+      "effective_date": "04/01/2026",
+      "state": "CA",
+      "workers": 11,
+      "city": "14835 San Bernardino Ave  Fontana CA 92335"
+    },
+    {
+      "date": "01/31/2026",
+      "effective_date": "04/01/2026",
+      "state": "CA",
+      "workers": 4,
+      "city": "Indio"
+    },
+    {
+      "date": "01/31/2026",
+      "effective_date": "04/01/2026",
+      "state": "CA",
+      "workers": 92,
+      "city": "Brea"
+    },
+    {
+      "date": "01/31/2026",
+      "effective_date": "04/01/2026",
+      "state": "CA",
+      "workers": 8,
+      "city": "Canoga Park"
+    },
+    {
+      "date": "04/19/2024",
+      "effective_date": "06/19/2024",
+      "state": "SC",
+      "workers": 48,
+      "city": "830 Drop Off Dr., Ste B, Summerville, SC 29486"
+    },
+    {
+      "date": "08/28/2023",
+      "effective_date": "10/29/2023",
+      "state": "SC",
+      "workers": 47,
+      "city": "2200 Charleston Regional Pkwy. Charleston, SC29492"
+    },
+    {
+      "date": "08/28/2023",
+      "effective_date": "10/29/2023",
+      "state": "CA",
+      "workers": 14,
+      "city": "17825 Indian Street  Moreno Valley CA 92551"
+    },
+    {
+      "date": "12/20/2022",
+      "effective_date": "12/20/2022",
+      "state": "NV",
+      "workers": 24,
+      "city": "Reno, Washoe County"
+    },
+    {
+      "date": "10/24/2016",
+      "effective_date": "12/23/2016",
+      "state": "CA",
+      "workers": 220,
+      "city": "Fontana"
+    },
+    {
+      "date": "02/06/2015",
+      "effective_date": "02/06/2015",
+      "state": "DE",
+      "workers": 122,
+      "city": null
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "los-angeles-county-wib",
+      "name": "Los Angeles County WIB",
+      "state": "CA"
+    },
+    {
+      "slug": "orange-county-wib",
+      "name": "Orange County WIB",
+      "state": "CA"
+    },
+    {
+      "slug": "riverside-county-wib",
+      "name": "Riverside County WIB",
+      "state": "CA"
+    },
+    {
+      "slug": "susquehanna-wia",
+      "name": "Susquehanna WIA",
+      "state": "MD"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

@@ -1,0 +1,84 @@
+{
+  "slug": "turnitin",
+  "canonical_name": "Turnitin LLC",
+  "fein": "94-3392995",
+  "lca_filing_count": 4,
+  "lca_worker_positions": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 132909.4,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 121763.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 112986.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 185307.52
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 144055.8,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 3,
+      "median_wage_usd": 121763.0
+    },
+    {
+      "title": "Principal Software Engineer",
+      "count": 1,
+      "median_wage_usd": 185307.52
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "county": "NEWTON CITY",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 144055.8,
+    "gap_usd": 13895.8
+  }
+}

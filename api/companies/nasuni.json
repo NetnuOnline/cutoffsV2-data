@@ -1,0 +1,155 @@
+{
+  "slug": "nasuni",
+  "canonical_name": "Nasuni Corporation",
+  "fein": "26-4010721",
+  "lca_filing_count": 8,
+  "warn_notice_count": 0,
+  "median_wage_usd": 132656.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 137530.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 129189.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 145400.0
+    },
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 130312.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Software Engineer",
+      "count": 5,
+      "median_wage_usd": 130312.0
+    },
+    {
+      "title": "Senior Sustaining Engineer",
+      "count": 1,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Director IT Operations",
+      "count": 1,
+      "median_wage_usd": 137530.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 135000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MA",
+      "county": "BOSTON CITY",
+      "count": 5
+    },
+    {
+      "state": "MA",
+      "county": "MARLBOROUGH CITY",
+      "count": 2
+    },
+    {
+      "state": "WI",
+      "county": "DANE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MA",
+      "count": 7
+    },
+    {
+      "state": "WI",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 16,
+    "continuing_denials": 0,
+    "total_approvals": 16,
+    "by_fy": [
+      {
+        "fy": 2015,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2017,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 5,
+        "continuing_denials": 0,
+        "total_approvals": 5
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 8,
+        "continuing_denials": 0,
+        "total_approvals": 8
+      }
+    ]
+  },
+  "lca_worker_positions": 8,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 130312.0,
+    "gap_usd": 152.0
+  }
+}

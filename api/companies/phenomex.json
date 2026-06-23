@@ -1,0 +1,64 @@
+{
+  "slug": "phenomex",
+  "canonical_name": "PhenomeX Inc.",
+  "fein": null,
+  "lca_filing_count": 1,
+  "warn_notice_count": 2,
+  "median_wage_usd": 137301.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 137301.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Manager, Field Applications",
+      "count": 1,
+      "median_wage_usd": 137301.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "10/02/2023",
+      "effective_date": "10/02/2023",
+      "state": "CT",
+      "workers": 0,
+      "city": "Branford"
+    },
+    {
+      "date": "01/01/2023",
+      "effective_date": "10/02/2023",
+      "state": "CT",
+      "workers": 208,
+      "city": "Branford"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "northwest-wia-ct",
+      "name": "Northwest WIA",
+      "state": "CT"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "lca_worker_positions": 1,
+  "top_socs": [],
+  "lca_periods": []
+}

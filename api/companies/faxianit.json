@@ -1,0 +1,150 @@
+{
+  "slug": "faxianit",
+  "canonical_name": "FAXIANIT INC",
+  "fein": "92-0408954",
+  "lca_filing_count": 20,
+  "lca_worker_positions": 20,
+  "warn_notice_count": 0,
+  "median_wage_usd": 96033.6,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 88982.40000000001
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 88868.0
+    },
+    {
+      "fy": 2025,
+      "filings": 10,
+      "median_wage_usd": 96033.6
+    },
+    {
+      "fy": 2026,
+      "filings": 6,
+      "median_wage_usd": 101899.2,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SOFTWARE DEVELOPER",
+      "count": 5,
+      "median_wage_usd": 97385.6
+    },
+    {
+      "title": "Dot net developer",
+      "count": 3,
+      "median_wage_usd": 101899.2
+    },
+    {
+      "title": "Software Engineer",
+      "count": 2,
+      "median_wage_usd": 110531.3
+    },
+    {
+      "title": "IAM SECURITY ENGINEER",
+      "count": 1,
+      "median_wage_usd": 86798.4
+    },
+    {
+      "title": "IAM Security Engineer",
+      "count": 1,
+      "median_wage_usd": 77958.4
+    },
+    {
+      "title": ".Net Developer",
+      "count": 1,
+      "median_wage_usd": 101899.2
+    },
+    {
+      "title": "Database Developer",
+      "count": 1,
+      "median_wage_usd": 89585.6
+    },
+    {
+      "title": "PROJECT MANAGER",
+      "count": 1,
+      "median_wage_usd": 94681.6
+    },
+    {
+      "title": "Service Virtualization Architect",
+      "count": 1,
+      "median_wage_usd": 88150.40000000001
+    },
+    {
+      "title": "Java Developer",
+      "count": 1,
+      "median_wage_usd": 76835.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NC",
+      "county": "MECKLENBURG",
+      "count": 3
+    },
+    {
+      "state": "KY",
+      "county": "JEFFERSON",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "county": "LAKE",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "county": "UNION",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 4
+    },
+    {
+      "state": "NC",
+      "count": 4
+    },
+    {
+      "state": "OH",
+      "count": 4
+    },
+    {
+      "state": "NJ",
+      "count": 2
+    },
+    {
+      "state": "KY",
+      "count": 2
+    },
+    {
+      "state": "MS",
+      "count": 2
+    },
+    {
+      "state": "GA",
+      "count": 1
+    },
+    {
+      "state": "IA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 101899.2,
+    "gap_usd": -28260.8
+  }
+}

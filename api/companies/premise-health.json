@@ -1,0 +1,55 @@
+{
+  "slug": "premise-health",
+  "canonical_name": "Premise Health",
+  "fein": "62-1625299",
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 145000.0,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 145000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Manager. Data Product Delivery",
+      "count": 1,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "title": "Director, Platform Support",
+      "count": 1,
+      "median_wage_usd": 150000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NJ",
+      "county": "MIDDLESEX",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 1
+    },
+    {
+      "state": "TN",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3021",
+    "soc_title": "Computer and Information Systems Managers",
+    "market_median_usd": 169510.0,
+    "employer_median_usd": 150000.0,
+    "gap_usd": -19510.0
+  }
+}

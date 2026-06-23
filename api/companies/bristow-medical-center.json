@@ -1,0 +1,43 @@
+{
+  "slug": "bristow-medical-center",
+  "canonical_name": "Bristow Medical Center",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "OK",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "10/28/2021",
+      "effective_date": "10/28/2021",
+      "state": "OK",
+      "workers": 49,
+      "city": "Bristow"
+    },
+    {
+      "date": "10/28/2021",
+      "effective_date": "10/28/2021",
+      "state": "OK",
+      "workers": 0,
+      "city": "GreenCountryRegion"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "tulsa-wia",
+      "name": "Tulsa WIA",
+      "state": "OK"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

@@ -1,0 +1,46 @@
+{
+  "slug": "calvert-research-and-management-morgan-stanley",
+  "canonical_name": "Calvert Research and Management (Morgan Stanley)",
+  "fein": null,
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 99000.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 99000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Analyst",
+      "count": 2,
+      "median_wage_usd": 99000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "DC",
+      "county": "DISTRICT OF COLUMBIA",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "DC",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 99000.0,
+    "gap_usd": -9020.0
+  }
+}

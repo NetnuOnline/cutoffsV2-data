@@ -1,0 +1,119 @@
+{
+  "slug": "u-haul-international",
+  "canonical_name": "U-Haul International, Inc.",
+  "fein": "86-0663060",
+  "lca_filing_count": 13,
+  "lca_worker_positions": 13,
+  "warn_notice_count": 0,
+  "median_wage_usd": 110000.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 113157.14
+    },
+    {
+      "fy": 2025,
+      "filings": 7,
+      "median_wage_usd": 98861.52
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 124800.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 4,
+      "median_wage_usd": 104430.76000000001
+    },
+    {
+      "title": "Lead Software Developer",
+      "count": 2,
+      "median_wage_usd": 128537.6
+    },
+    {
+      "title": "Senior Data Engineer",
+      "count": 1,
+      "median_wage_usd": 138000.0
+    },
+    {
+      "title": "Senior Software Developer",
+      "count": 1,
+      "median_wage_usd": 124800.0
+    },
+    {
+      "title": "Manager Software Development",
+      "count": 1,
+      "median_wage_usd": 145101.96
+    },
+    {
+      "title": "Data Scientist",
+      "count": 1,
+      "median_wage_usd": 82940.0
+    },
+    {
+      "title": "Database Administrator",
+      "count": 1,
+      "median_wage_usd": 107203.0
+    },
+    {
+      "title": "Data Analyst",
+      "count": 1,
+      "median_wage_usd": 70000.0
+    },
+    {
+      "title": "Software Development Test Engineer",
+      "count": 1,
+      "median_wage_usd": 76898.76
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NV",
+      "county": "WASHOE",
+      "count": 2
+    },
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "AZ",
+      "count": 9
+    },
+    {
+      "state": "NV",
+      "count": 2
+    },
+    {
+      "state": "KY",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 120978.24,
+    "gap_usd": -9181.76
+  }
+}

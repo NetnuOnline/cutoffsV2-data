@@ -1,0 +1,95 @@
+{
+  "slug": "acme-markets",
+  "canonical_name": "ACME Markets, Inc.",
+  "fein": null,
+  "lca_filing_count": 1,
+  "warn_notice_count": 5,
+  "median_wage_usd": 88740.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 88740.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Industrial Engineer ",
+      "count": 1,
+      "median_wage_usd": 88740.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "PA",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "PA",
+      "county": "LANCASTER",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "08/15/2026",
+      "effective_date": "08/15/2026",
+      "state": "NJ",
+      "workers": 115,
+      "city": "Edgewater"
+    },
+    {
+      "date": "06/07/2024",
+      "effective_date": "09/01/2024",
+      "state": "NJ",
+      "workers": 61,
+      "city": "Chatham"
+    },
+    {
+      "date": "01/03/2024",
+      "effective_date": "04/01/2024",
+      "state": "NJ",
+      "workers": 70,
+      "city": "Milltown"
+    },
+    {
+      "date": "11/05/2006",
+      "effective_date": "11/05/2006",
+      "state": "NJ",
+      "workers": 79,
+      "city": "FREEHOLD"
+    },
+    {
+      "date": "11/05/2006",
+      "effective_date": "11/05/2006",
+      "state": "NJ",
+      "workers": 100,
+      "city": "MARLBORO"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "middlesex-wib",
+      "name": "Middlesex WIB",
+      "state": "NJ"
+    },
+    {
+      "slug": "monmouth-wib",
+      "name": "Monmouth WIB",
+      "state": "NJ"
+    },
+    {
+      "slug": "morris-sussex-warren-wib",
+      "name": "Morris-Sussex-Warren WIB",
+      "state": "NJ"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "lca_worker_positions": 1,
+  "top_socs": [],
+  "lca_periods": []
+}

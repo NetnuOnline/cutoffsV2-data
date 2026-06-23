@@ -1,0 +1,64 @@
+{
+  "slug": "solaray",
+  "canonical_name": "Solaray LLC",
+  "fein": null,
+  "lca_filing_count": 1,
+  "warn_notice_count": 1,
+  "median_wage_usd": 132830.8,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 132830.8
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Oracle EBS Developer",
+      "count": 1,
+      "median_wage_usd": 132830.8
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CO",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CO",
+      "county": "DOUGLAS",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "08/05/2021",
+      "effective_date": "08/05/2021",
+      "state": "OK",
+      "workers": 88,
+      "city": "Sapulpa"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "tulsa-wia",
+      "name": "Tulsa WIA",
+      "state": "OK"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "lca_worker_positions": 1,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 132830.8,
+    "gap_usd": 2670.8
+  }
+}

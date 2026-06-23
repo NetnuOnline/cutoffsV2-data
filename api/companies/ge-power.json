@@ -1,0 +1,99 @@
+{
+  "slug": "ge-power",
+  "canonical_name": "GE Power",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 7,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "TN",
+      "count": 2
+    },
+    {
+      "state": "GA",
+      "count": 1
+    },
+    {
+      "state": "IN",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "12/29/2017",
+      "effective_date": "12/29/2017",
+      "state": "GA",
+      "workers": 20,
+      "city": "Atlanta"
+    },
+    {
+      "date": "10/14/2016",
+      "effective_date": "12/31/2016",
+      "state": "TX",
+      "workers": 255,
+      "city": "Houston"
+    },
+    {
+      "date": "07/22/2016",
+      "effective_date": "09/23/2016",
+      "state": "TN",
+      "workers": 94,
+      "city": "Chattanooga"
+    },
+    {
+      "date": "06/22/2016",
+      "effective_date": "08/21/2016",
+      "state": "TN",
+      "workers": 85,
+      "city": "Knoxville"
+    },
+    {
+      "date": "11/03/2014",
+      "effective_date": "01/31/2015",
+      "state": "IN",
+      "workers": 56,
+      "city": "Fort Wayne"
+    },
+    {
+      "date": "11/18/2013",
+      "effective_date": "01/24/2014",
+      "state": "TX",
+      "workers": 200,
+      "city": "Houston"
+    },
+    {
+      "date": "11/15/2013",
+      "effective_date": "01/01/2014",
+      "state": "IL",
+      "workers": 65,
+      "city": "Chicago"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "03-local-workforce-investment-area",
+      "name": "03 Local Workforce Investment Area",
+      "state": "TN"
+    },
+    {
+      "slug": "05-local-workforce-investment-area",
+      "name": "05 Local Workforce Investment Area",
+      "state": "TN"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

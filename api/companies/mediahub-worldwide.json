@@ -1,0 +1,60 @@
+{
+  "slug": "mediahub-worldwide",
+  "canonical_name": "Mediahub Worldwide LLC",
+  "fein": null,
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 71000.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 71000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Analyst, Media Data Science",
+      "count": 1,
+      "median_wage_usd": 75000.0
+    },
+    {
+      "title": "ANALYST, CAMPAIGN INSIGHTS",
+      "count": 1,
+      "median_wage_usd": 67000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "county": "NORFOLK",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MA",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 75000.0,
+    "gap_usd": -33020.0
+  }
+}

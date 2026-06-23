@@ -1,0 +1,125 @@
+{
+  "slug": "pactiv-corporation",
+  "canonical_name": "Pactiv Corporation",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 10,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 4
+    },
+    {
+      "state": "CA",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "08/14/2025",
+      "effective_date": "10/14/2025",
+      "state": "CA",
+      "workers": 127,
+      "city": "Bakersfield"
+    },
+    {
+      "date": "04/16/2020",
+      "effective_date": "04/06/2020",
+      "state": "CA",
+      "workers": 104,
+      "city": "Stockton"
+    },
+    {
+      "date": "01/05/2018",
+      "effective_date": "03/01/2018",
+      "state": "IL",
+      "workers": 101,
+      "city": "Bolingbrook"
+    },
+    {
+      "date": "05/06/2016",
+      "effective_date": "07/08/2016",
+      "state": "CA",
+      "workers": 106,
+      "city": "Vernon"
+    },
+    {
+      "date": "06/30/2014",
+      "effective_date": "09/09/2014",
+      "state": "TX",
+      "workers": 66,
+      "city": "Dallas"
+    },
+    {
+      "date": "11/16/2012",
+      "effective_date": "11/16/2012",
+      "state": "NJ",
+      "workers": 79,
+      "city": "Kearny"
+    },
+    {
+      "date": "03/03/2008",
+      "effective_date": "05/09/2008",
+      "state": "WA",
+      "workers": 51,
+      "city": "Yakima"
+    },
+    {
+      "date": "01/28/2008",
+      "effective_date": "04/01/2008",
+      "state": "IL",
+      "workers": 42,
+      "city": "Wheeling"
+    },
+    {
+      "date": "01/30/2004",
+      "effective_date": "03/01/2004",
+      "state": "IL",
+      "workers": 68,
+      "city": "Bridgeview"
+    },
+    {
+      "date": "07/19/2001",
+      "effective_date": "08/01/2001",
+      "state": "IL",
+      "workers": 132,
+      "city": "Romeoville"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "kern-inyo-mono-consortium-wib",
+      "name": "Kern, Inyo, Mono Consortium WIB",
+      "state": "CA"
+    },
+    {
+      "slug": "lake-county-wib",
+      "name": "Lake County WIB",
+      "state": "IL"
+    },
+    {
+      "slug": "central-washington-wib",
+      "name": "Central Washington WIB",
+      "state": "WA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

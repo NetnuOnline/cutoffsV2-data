@@ -1,0 +1,79 @@
+{
+  "slug": "midwest-assets-operations",
+  "canonical_name": "Midwest Assets & Operations, LLC",
+  "fein": "81-4940892",
+  "lca_filing_count": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 80000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 35110.0
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 80000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 80000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 80000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "BUSINESS DEVELOPMENT AND MARKETING SPECIALIST",
+      "count": 3,
+      "median_wage_usd": 80000.0
+    },
+    {
+      "title": "Sales Executive - Yachts",
+      "count": 1,
+      "median_wage_usd": 35110.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NJ",
+      "county": "HUDSON",
+      "count": 2
+    },
+    {
+      "state": "MD",
+      "county": "QUEEN ANNE'S",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 2
+    },
+    {
+      "state": "FL",
+      "count": 1
+    },
+    {
+      "state": "MD",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1161",
+    "soc_title": "Market Research Analysts and Marketing Specialists",
+    "market_median_usd": 74680.0,
+    "employer_median_usd": 80000.0,
+    "gap_usd": 5320.0
+  }
+}

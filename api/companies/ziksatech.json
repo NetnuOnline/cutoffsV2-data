@@ -1,0 +1,89 @@
+{
+  "slug": "ziksatech",
+  "canonical_name": "ZIKSATECH, LLC",
+  "fein": "81-1909022",
+  "lca_filing_count": 8,
+  "warn_notice_count": 0,
+  "median_wage_usd": 112923.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 102000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 4,
+      "median_wage_usd": 114500.0
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 112923.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SAP Consultant",
+      "count": 6,
+      "median_wage_usd": 112923.0
+    },
+    {
+      "title": "Sr. SAP Consultant",
+      "count": 1,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "title": "Business Analyst",
+      "count": 1,
+      "median_wage_usd": 85000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 2
+    },
+    {
+      "state": "FL",
+      "county": "HILLSBOROUGH",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 1
+    },
+    {
+      "state": "OK",
+      "county": "OKLAHOMA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 6
+    },
+    {
+      "state": "FL",
+      "count": 1
+    },
+    {
+      "state": "OK",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 8,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 112923.0,
+    "gap_usd": -17237.0
+  }
+}

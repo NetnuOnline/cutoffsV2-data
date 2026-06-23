@@ -1,0 +1,163 @@
+{
+  "slug": "teletech",
+  "canonical_name": "TeleTech",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 8,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "KS",
+      "count": 4
+    },
+    {
+      "state": "WA",
+      "count": 1
+    },
+    {
+      "state": "AL",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "08/31/2011",
+      "effective_date": "10/30/2011",
+      "state": "WA",
+      "workers": 240,
+      "city": "Bremerton"
+    },
+    {
+      "date": "04/25/2008",
+      "effective_date": "06/27/2008",
+      "state": "AL",
+      "workers": 272,
+      "city": "Fairfield"
+    },
+    {
+      "date": "01/27/2004",
+      "effective_date": "01/27/2004",
+      "state": "KS",
+      "workers": 790,
+      "city": "2 - Workforce Investment Area II"
+    },
+    {
+      "date": "05/09/2003",
+      "effective_date": "05/09/2003",
+      "state": "KS",
+      "workers": 380,
+      "city": "3 - Workforce Investment Area III"
+    },
+    {
+      "date": "04/15/2003",
+      "effective_date": "04/15/2003",
+      "state": "KS",
+      "workers": 4,
+      "city": "3 - Workforce Investment Area III"
+    },
+    {
+      "date": "04/09/2003",
+      "effective_date": "04/09/2003",
+      "state": "KS",
+      "workers": 28,
+      "city": "3 - Workforce Investment Area III"
+    },
+    {
+      "date": "01/29/2003",
+      "effective_date": "01/29/2003",
+      "state": "GA",
+      "workers": 602,
+      "city": "Duluth"
+    },
+    {
+      "date": "07/31/2002",
+      "effective_date": "09/30/2002",
+      "state": "TX",
+      "workers": 149,
+      "city": "Temple"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "central-texas-wda",
+      "name": "Central Texas WDA",
+      "state": "TX"
+    },
+    {
+      "slug": "olympic-wib",
+      "name": "Olympic WIB",
+      "state": "WA"
+    }
+  ],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2012-07-19",
+        "formType": "8-K",
+        "accessionNumber": "0001104659-12-049897",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001013880&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2007-10-03",
+        "formType": "8-K",
+        "accessionNumber": "0001035704-07-000689",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001013880&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2006-01-13",
+        "formType": "8-K",
+        "accessionNumber": "0001035704-06-000036",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001013880&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2005-07-13",
+        "formType": "8-K",
+        "accessionNumber": "0001035704-05-000352",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001013880&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 4,
+    "itemCounts": {
+      "2.05": 4
+    },
+    "latestFilingDate": "2012-07-19",
+    "earliestFilingDate": "2005-07-13"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

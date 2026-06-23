@@ -1,0 +1,47 @@
+{
+  "slug": "dcp-midstream",
+  "canonical_name": "DCP Midstream",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "CO",
+      "count": 1
+    },
+    {
+      "state": "OK",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "01/25/2023",
+      "effective_date": "03/31/2023",
+      "state": "CO",
+      "workers": 136,
+      "city": "Denver"
+    },
+    {
+      "date": "02/20/2015",
+      "effective_date": "02/20/2015",
+      "state": "OK",
+      "workers": 200,
+      "city": null
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "denver-wib",
+      "name": "Denver WIB",
+      "state": "CO"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

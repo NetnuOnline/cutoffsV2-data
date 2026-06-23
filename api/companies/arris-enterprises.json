@@ -1,0 +1,149 @@
+{
+  "slug": "arris-enterprises",
+  "canonical_name": "ARRIS Enterprises LLC",
+  "fein": null,
+  "lca_filing_count": 7,
+  "warn_notice_count": 0,
+  "median_wage_usd": 106611.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 3,
+      "median_wage_usd": 85842.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 124394.5
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 116391.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Principal Software Engineer",
+      "count": 2,
+      "median_wage_usd": 117261.0
+    },
+    {
+      "title": "Staff IT Software Specialist",
+      "count": 2,
+      "median_wage_usd": 119069.0
+    },
+    {
+      "title": "Senior Software Engineer ",
+      "count": 1,
+      "median_wage_usd": 85842.0
+    },
+    {
+      "title": "Sr. Staff IT Business Sys Analyst",
+      "count": 1,
+      "median_wage_usd": 106611.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 1,
+      "median_wage_usd": 64792.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "GA",
+      "county": "GWINNETT",
+      "count": 7
+    }
+  ],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 7
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 4,
+    "initial_denials": 0,
+    "continuing_approvals": 18,
+    "continuing_denials": 2,
+    "total_approvals": 22,
+    "by_fy": [
+      {
+        "fy": 2014,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2015,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2016,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 4,
+        "initial_denials": 0,
+        "continuing_approvals": 12,
+        "continuing_denials": 1,
+        "total_approvals": 16
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 5,
+        "continuing_denials": 0,
+        "total_approvals": 5
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 1,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 7,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 119069.0,
+    "gap_usd": -11091.0
+  }
+}

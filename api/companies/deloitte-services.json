@@ -1,0 +1,203 @@
+{
+  "slug": "deloitte-services",
+  "canonical_name": "Deloitte Services LP",
+  "fein": "13-4147118",
+  "lca_filing_count": 134,
+  "lca_worker_positions": 278,
+  "warn_notice_count": 0,
+  "median_wage_usd": 123552.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 12,
+      "median_wage_usd": 116241.0
+    },
+    {
+      "fy": 2021,
+      "filings": 16,
+      "median_wage_usd": 79237.5
+    },
+    {
+      "fy": 2022,
+      "filings": 25,
+      "median_wage_usd": 103771.0
+    },
+    {
+      "fy": 2023,
+      "filings": 14,
+      "median_wage_usd": 141145.0
+    },
+    {
+      "fy": 2024,
+      "filings": 10,
+      "median_wage_usd": 134014.0
+    },
+    {
+      "fy": 2025,
+      "filings": 23,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 34,
+      "median_wage_usd": 144116.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Manager, Application Architecture",
+      "count": 28,
+      "median_wage_usd": 140920.0
+    },
+    {
+      "title": "Manager, Solution Architecture",
+      "count": 11,
+      "median_wage_usd": 120994.0
+    },
+    {
+      "title": "Lead Application Developer",
+      "count": 9,
+      "median_wage_usd": 109283.0
+    },
+    {
+      "title": "Lead DevOps Engineer",
+      "count": 6,
+      "median_wage_usd": 129641.5
+    },
+    {
+      "title": "Manager, Software Solutions Specialist",
+      "count": 6,
+      "median_wage_usd": 146766.5
+    },
+    {
+      "title": "Senior Manager, Solution Architecture",
+      "count": 6,
+      "median_wage_usd": 153358.0
+    },
+    {
+      "title": "Manager, Finance Business Partner",
+      "count": 4,
+      "median_wage_usd": 129190.0
+    },
+    {
+      "title": "Manager, ITS Specialist",
+      "count": 3,
+      "median_wage_usd": 146078.0
+    },
+    {
+      "title": "Senior Consultant",
+      "count": 3,
+      "median_wage_usd": 83699.0
+    },
+    {
+      "title": "Consultant",
+      "count": 3,
+      "median_wage_usd": 79373.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TN",
+      "county": "DAVIDSON",
+      "count": 18
+    },
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 7
+    },
+    {
+      "state": "TN",
+      "county": "WILSON",
+      "count": 7
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 4
+    },
+    {
+      "state": "FL",
+      "county": "HILLSBOROUGH",
+      "count": 4
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 4
+    },
+    {
+      "state": "VA",
+      "county": "FAIRFAX",
+      "count": 3
+    },
+    {
+      "state": "FL",
+      "county": "MIAMI-DADE",
+      "count": 3
+    },
+    {
+      "state": "TN",
+      "county": "WILLIAMSON",
+      "count": 3
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TN",
+      "count": 42
+    },
+    {
+      "state": "CA",
+      "count": 17
+    },
+    {
+      "state": "TX",
+      "count": 16
+    },
+    {
+      "state": "FL",
+      "count": 15
+    },
+    {
+      "state": "GA",
+      "count": 9
+    },
+    {
+      "state": "PA",
+      "count": 8
+    },
+    {
+      "state": "NJ",
+      "count": 6
+    },
+    {
+      "state": "IL",
+      "count": 6
+    },
+    {
+      "state": "VA",
+      "count": 6
+    },
+    {
+      "state": "MA",
+      "count": 4
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 140920.0,
+    "gap_usd": 10760.0
+  }
+}

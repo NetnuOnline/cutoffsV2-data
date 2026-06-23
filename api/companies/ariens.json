@@ -1,0 +1,54 @@
+{
+  "slug": "ariens",
+  "canonical_name": "Ariens",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 3,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "NE",
+      "count": 2
+    },
+    {
+      "state": "WI",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "08/17/2018",
+      "effective_date": "08/17/2018",
+      "state": "NE",
+      "workers": 194,
+      "city": "Auburn"
+    },
+    {
+      "date": "06/19/2018",
+      "effective_date": "08/20/2018",
+      "state": "WI",
+      "workers": 141,
+      "city": "Janesville"
+    },
+    {
+      "date": "06/14/2018",
+      "effective_date": "06/14/2018",
+      "state": "NE",
+      "workers": 194,
+      "city": "Auburn"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "southeast-economic-region",
+      "name": "Southeast Economic Region",
+      "state": "NE"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "commonwealth-mccann",
+  "canonical_name": "Commonwealth/McCann",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 1,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "MI",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "07/31/2024",
+      "effective_date": "10/01/2024",
+      "state": "MI",
+      "workers": 56,
+      "city": "Detroit, Michigan"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "detroit-workforce-development-department",
+      "name": "Detroit Workforce Development Department",
+      "state": "MI"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

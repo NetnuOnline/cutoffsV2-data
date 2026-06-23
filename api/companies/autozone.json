@@ -1,0 +1,177 @@
+{
+  "slug": "autozone",
+  "canonical_name": "AutoZone, Inc.",
+  "fein": "62-1611055",
+  "lca_filing_count": 120,
+  "lca_worker_positions": 119,
+  "warn_notice_count": 0,
+  "median_wage_usd": 128905.5,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 23,
+      "median_wage_usd": 113000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 5,
+      "median_wage_usd": 119686.0
+    },
+    {
+      "fy": 2022,
+      "filings": 23,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 17,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 25,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 9,
+      "median_wage_usd": 127296.0
+    },
+    {
+      "fy": 2026,
+      "filings": 17,
+      "median_wage_usd": 134805.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Sr. Systems Engineer",
+      "count": 16,
+      "median_wage_usd": 139176.0
+    },
+    {
+      "title": "Systems Engineer",
+      "count": 13,
+      "median_wage_usd": 115104.0
+    },
+    {
+      "title": "Sr. Systems Specialist",
+      "count": 4,
+      "median_wage_usd": 133549.0
+    },
+    {
+      "title": "IT Manager",
+      "count": 3,
+      "median_wage_usd": 158000.0
+    },
+    {
+      "title": "Lead Systems Specialist",
+      "count": 3,
+      "median_wage_usd": 155000.0
+    },
+    {
+      "title": "Sr. Digital Experience and Marketing Analyst",
+      "count": 3,
+      "median_wage_usd": 105000.0
+    },
+    {
+      "title": "Systems Engineer (Quality Engineering) ",
+      "count": 2,
+      "median_wage_usd": 107500.0
+    },
+    {
+      "title": "Systems Engineer (DevOps Release)",
+      "count": 2,
+      "median_wage_usd": 105000.0
+    },
+    {
+      "title": "IT Architect",
+      "count": 2,
+      "median_wage_usd": 174816.0
+    },
+    {
+      "title": "Sr. Systems Engineer (eCommerce)",
+      "count": 2,
+      "median_wage_usd": 139000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TN",
+      "county": "SHELBY",
+      "count": 85
+    },
+    {
+      "state": "TX",
+      "county": "TARRANT",
+      "count": 2
+    },
+    {
+      "state": "OH",
+      "county": "LORAIN",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "county": "MIDDLESEX",
+      "count": 2
+    },
+    {
+      "state": "OH",
+      "county": "DELAWARE",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 1
+    },
+    {
+      "state": "CO",
+      "county": "DOUGLAS",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TN",
+      "count": 107
+    },
+    {
+      "state": "TX",
+      "count": 6
+    },
+    {
+      "state": "OH",
+      "count": 3
+    },
+    {
+      "state": "NJ",
+      "count": 2
+    },
+    {
+      "state": "NY",
+      "count": 1
+    },
+    {
+      "state": "CO",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 130057.5,
+    "gap_usd": -102.5
+  }
+}

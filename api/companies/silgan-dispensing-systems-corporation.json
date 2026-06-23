@@ -1,0 +1,57 @@
+{
+  "slug": "silgan-dispensing-systems-corporation",
+  "canonical_name": "Silgan Dispensing Systems Corporation",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 1,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "KS",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "11/28/2023",
+      "effective_date": "11/28/2023",
+      "state": "KS",
+      "workers": 0,
+      "city": "Winfield"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "local-area-iv-south-central-wib",
+      "name": "Local Area IV - South Central WIB",
+      "state": "KS"
+    }
+  ],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2006-07-07",
+        "formType": "8-K",
+        "accessionNumber": "0000849869-06-000033",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000849869&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 1,
+    "itemCounts": {
+      "2.05": 1
+    },
+    "latestFilingDate": "2006-07-07",
+    "earliestFilingDate": "2006-07-07"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

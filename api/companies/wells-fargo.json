@@ -1,0 +1,139 @@
+{
+  "slug": "wells-fargo",
+  "canonical_name": "Wells Fargo",
+  "fein": "94-1347393",
+  "lca_filing_count": 114,
+  "lca_worker_positions": 112,
+  "warn_notice_count": 0,
+  "median_wage_usd": 149094.0,
+  "by_fy": [
+    {
+      "fy": 2026,
+      "filings": 112,
+      "median_wage_usd": 149645.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Lead Software Engineer",
+      "count": 8,
+      "median_wage_usd": 154669.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 4,
+      "median_wage_usd": 134025.0
+    },
+    {
+      "title": "Quantitative Analytics Specialist",
+      "count": 2,
+      "median_wage_usd": 128024.0
+    },
+    {
+      "title": "Lead Securities Quantitative Analytics Specialist (001722)",
+      "count": 2,
+      "median_wage_usd": 190757.0
+    },
+    {
+      "title": "Lead Software Engineer (017040.000990)",
+      "count": 2,
+      "median_wage_usd": 153389.5
+    },
+    {
+      "title": "Senior Software Engineer (017040.002013)",
+      "count": 2,
+      "median_wage_usd": 135787.0
+    },
+    {
+      "title": "Senior Quantitative Analytics Specialist",
+      "count": 2,
+      "median_wage_usd": 149947.0
+    },
+    {
+      "title": "Lead Software Engineer (017040.002024)",
+      "count": 2,
+      "median_wage_usd": 119000.0
+    },
+    {
+      "title": "Lead Specialty Software Engineer (017040.001191)",
+      "count": 1,
+      "median_wage_usd": 213512.0
+    },
+    {
+      "title": "Senior Software Engineer (017040.001789)",
+      "count": 1,
+      "median_wage_usd": 123827.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NC",
+      "count": 54
+    },
+    {
+      "state": "CA",
+      "count": 13
+    },
+    {
+      "state": "NJ",
+      "count": 9
+    },
+    {
+      "state": "TX",
+      "count": 9
+    },
+    {
+      "state": "AZ",
+      "count": 8
+    },
+    {
+      "state": "NY",
+      "count": 5
+    },
+    {
+      "state": "IA",
+      "count": 4
+    },
+    {
+      "state": "MN",
+      "count": 4
+    },
+    {
+      "state": "VA",
+      "count": 3
+    },
+    {
+      "state": "MO",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 144009.0,
+    "gap_usd": 13849.0
+  },
+  "entity_group": {
+    "parent_slug": "wells-fargo",
+    "parent_name": "Wells Fargo",
+    "children": [
+      {
+        "slug": "wells-fargo-bank",
+        "name": "Wells Fargo Bank NA",
+        "lca_filing_count": 0
+      }
+    ]
+  }
+}

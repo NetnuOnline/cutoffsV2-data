@@ -1,0 +1,203 @@
+{
+  "slug": "geisinger-system-services",
+  "canonical_name": "Geisinger System Services",
+  "fein": "23-2164794",
+  "lca_filing_count": 39,
+  "lca_worker_positions": 39,
+  "warn_notice_count": 0,
+  "median_wage_usd": 94307.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 3,
+      "median_wage_usd": 85363.0
+    },
+    {
+      "fy": 2021,
+      "filings": 3,
+      "median_wage_usd": 90000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 11,
+      "median_wage_usd": 90522.0
+    },
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 56617.0
+    },
+    {
+      "fy": 2024,
+      "filings": 9,
+      "median_wage_usd": 104603.0
+    },
+    {
+      "fy": 2025,
+      "filings": 7,
+      "median_wage_usd": 97906.0
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 111092.8,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Business Intelligence Developer Senior",
+      "count": 3,
+      "median_wage_usd": 97906.0
+    },
+    {
+      "title": "Application Programmer IV",
+      "count": 2,
+      "median_wage_usd": 105965.5
+    },
+    {
+      "title": "Application Developer Lead",
+      "count": 2,
+      "median_wage_usd": 111487.9
+    },
+    {
+      "title": "Staff Scientist",
+      "count": 2,
+      "median_wage_usd": 66144.0
+    },
+    {
+      "title": "Data Scientist Intermediate",
+      "count": 2,
+      "median_wage_usd": 84167.0
+    },
+    {
+      "title": "Application Developer - Senior",
+      "count": 2,
+      "median_wage_usd": 110937.0
+    },
+    {
+      "title": "Business Intelligence Developer Intermediate",
+      "count": 2,
+      "median_wage_usd": 61786.3
+    },
+    {
+      "title": "Infrastructure Platform Engineer III",
+      "count": 1,
+      "median_wage_usd": 92498.0
+    },
+    {
+      "title": "ETL Developer - Intermediate",
+      "count": 1,
+      "median_wage_usd": 85000.0
+    },
+    {
+      "title": "Application Developer IV",
+      "count": 1,
+      "median_wage_usd": 115170.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "PA",
+      "county": "MONTOUR",
+      "count": 6
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 4
+    },
+    {
+      "state": "NJ",
+      "county": "HUDSON",
+      "count": 2
+    },
+    {
+      "state": "PA",
+      "county": "UNION",
+      "count": 2
+    },
+    {
+      "state": "PA",
+      "county": "DAUPHIN",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "county": "GWINNETT",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "county": "MECKLENBURG",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "county": "BOSTON CITY",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "PA",
+      "count": 15
+    },
+    {
+      "state": "TX",
+      "count": 10
+    },
+    {
+      "state": "MA",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "count": 2
+    },
+    {
+      "state": "NC",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "count": 2
+    },
+    {
+      "state": "OH",
+      "count": 2
+    },
+    {
+      "state": "NY",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "count": 1
+    },
+    {
+      "state": "AZ",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 88462.5,
+    "gap_usd": -19557.5
+  }
+}

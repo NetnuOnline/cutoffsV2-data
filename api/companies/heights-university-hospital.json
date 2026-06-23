@@ -1,0 +1,43 @@
+{
+  "slug": "heights-university-hospital",
+  "canonical_name": "Heights University Hospital",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "03/16/2026",
+      "effective_date": "03/16/2026",
+      "state": "NJ",
+      "workers": 65,
+      "city": "Jersey City"
+    },
+    {
+      "date": "01/25/2025",
+      "effective_date": "01/25/2025",
+      "state": "NJ",
+      "workers": 206,
+      "city": "Jersey City"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "hudson-jersey-city-wib",
+      "name": "Hudson-Jersey City WIB",
+      "state": "NJ"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "blackhawk-services-corp",
+  "canonical_name": "Blackhawk Services Corp",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "IA",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "09/29/2022",
+      "effective_date": "10/28/2022",
+      "state": "IA",
+      "workers": 74,
+      "city": "Burlington"
+    },
+    {
+      "date": "05/02/2022",
+      "effective_date": "05/14/2022",
+      "state": "IA",
+      "workers": 57,
+      "city": "Burlington"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "region-16-burlington-wib",
+      "name": "Region 16 - Burlington WIB",
+      "state": "IA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

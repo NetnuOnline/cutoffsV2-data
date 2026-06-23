@@ -1,0 +1,51 @@
+{
+  "slug": "nacittech",
+  "canonical_name": "NACITTECH LLC",
+  "fein": "87-4077528",
+  "lca_filing_count": 10,
+  "warn_notice_count": 0,
+  "median_wage_usd": 108160.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 6,
+      "median_wage_usd": 108160.0
+    },
+    {
+      "fy": 2024,
+      "filings": 4,
+      "median_wage_usd": 112985.6
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SOFTWARE DEVELOPER",
+      "count": 10,
+      "median_wage_usd": 108160.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "SC",
+      "county": "YORK",
+      "count": 10
+    }
+  ],
+  "top_states": [
+    {
+      "state": "SC",
+      "count": 10
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 10,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 108160.0,
+    "gap_usd": -22000.0
+  }
+}

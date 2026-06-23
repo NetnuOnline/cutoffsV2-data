@@ -1,0 +1,51 @@
+{
+  "slug": "prestige-auto-group",
+  "canonical_name": "PRESTIGE AUTO GROUP, LLC",
+  "fein": null,
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 102000.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 95000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 109000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "FINANCE & INSURANCE MANAGER",
+      "count": 2,
+      "median_wage_usd": 102000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MA",
+      "county": "BARNSTABLE CITY",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MA",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3031",
+    "soc_title": "Financial Managers",
+    "market_median_usd": 156100.0,
+    "employer_median_usd": 102000.0,
+    "gap_usd": -54100.0
+  }
+}

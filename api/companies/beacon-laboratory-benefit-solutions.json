@@ -1,0 +1,51 @@
+{
+  "slug": "beacon-laboratory-benefit-solutions",
+  "canonical_name": "Beacon Laboratory Benefit Solutions Inc.",
+  "fein": null,
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 145214.96,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 138499.92
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 151930.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "IT Project Manager",
+      "count": 2,
+      "median_wage_usd": 145214.96000000002
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NC",
+      "county": "DURHAM",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NC",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Information Technology Project Managers",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 151930.0,
+    "gap_usd": 33930.0
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "slug": "assuranceamerica-managing-general-agency",
+  "canonical_name": "AssuranceAmerica Managing General Agency, LLC",
+  "fein": "58-2480769",
+  "lca_filing_count": 3,
+  "lca_worker_positions": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 150000.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 141877.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 150000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Manager, Data Analytics I",
+      "count": 2,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "title": "Head of Analytics",
+      "count": 1,
+      "median_wage_usd": 141877.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 150000.0,
+    "gap_usd": 41980.0
+  }
+}

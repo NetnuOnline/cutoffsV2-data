@@ -1,0 +1,103 @@
+{
+  "slug": "golden-corral",
+  "canonical_name": "Golden Corral Corporation",
+  "fein": null,
+  "lca_filing_count": 1,
+  "warn_notice_count": 4,
+  "median_wage_usd": 115897.6,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 115897.59999999999
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Corporate Manager, Off-Premises Business Development",
+      "count": 1,
+      "median_wage_usd": 115897.59999999999
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NC",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NC",
+      "county": "WAKE",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "02/19/2026",
+      "effective_date": "02/19/2026",
+      "state": "MN",
+      "workers": 1,
+      "city": "Dining Establishments"
+    },
+    {
+      "date": "03/20/2020",
+      "effective_date": "03/20/2020",
+      "state": "GA",
+      "workers": 60,
+      "city": "Cordele"
+    },
+    {
+      "date": "11/02/2017",
+      "effective_date": "11/02/2017",
+      "state": "KS",
+      "workers": 50,
+      "city": "1 - Workforce Investment Area I"
+    },
+    {
+      "date": "04/15/2004",
+      "effective_date": "04/15/2004",
+      "state": "KS",
+      "workers": 25,
+      "city": "1 - Workforce Investment Area I"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "middle-flint-wib",
+      "name": "Middle Flint WIB",
+      "state": "GA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 1,
+    "continuing_denials": 0,
+    "total_approvals": 1,
+    "by_fy": [
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 1,
+  "top_socs": [],
+  "lca_periods": []
+}

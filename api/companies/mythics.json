@@ -1,0 +1,116 @@
+{
+  "slug": "mythics",
+  "canonical_name": "Mythics, LLC",
+  "fein": "54-1987871",
+  "lca_filing_count": 11,
+  "lca_worker_positions": 10,
+  "warn_notice_count": 0,
+  "median_wage_usd": 155000.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 225000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 6,
+      "median_wage_usd": 155650.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 109850.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Applications Developer ",
+      "count": 2,
+      "median_wage_usd": 225000.0
+    },
+    {
+      "title": "Consultant",
+      "count": 2,
+      "median_wage_usd": 93375.0
+    },
+    {
+      "title": "Manager, Technical Delivery",
+      "count": 2,
+      "median_wage_usd": 129617.0
+    },
+    {
+      "title": "Director Technical Delivery",
+      "count": 1,
+      "median_wage_usd": 155000.0
+    },
+    {
+      "title": "Sr Manager, Tech Delivery",
+      "count": 1,
+      "median_wage_usd": 162154.0
+    },
+    {
+      "title": "Consultant 3",
+      "count": 1,
+      "median_wage_usd": 101283.0
+    },
+    {
+      "title": "Oracle Cloud Technical Lead",
+      "count": 1,
+      "median_wage_usd": 156300.0
+    },
+    {
+      "title": "Senior Consulting Sales Director",
+      "count": 1,
+      "median_wage_usd": 200000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "FL",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "count": 2
+    },
+    {
+      "state": "DE",
+      "count": 2
+    },
+    {
+      "state": "GA",
+      "count": 2
+    },
+    {
+      "state": "NC",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "count": 1
+    },
+    {
+      "state": "IN",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 128791.5,
+    "gap_usd": -1368.5
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "slug": "raynet-americas",
+  "canonical_name": "Raynet Americas, Inc.",
+  "fein": "42-1766588",
+  "lca_filing_count": 4,
+  "lca_worker_positions": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 110811.9,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 79248.0
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 101275.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 120348.8,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SAP Supply Chain consultant",
+      "count": 2,
+      "median_wage_usd": 120348.8
+    },
+    {
+      "title": "SAP Supply Chain Consultant",
+      "count": 2,
+      "median_wage_usd": 90261.5
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MI",
+      "county": "OAKLAND",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MI",
+      "count": 4
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 120348.8,
+    "gap_usd": -9811.2
+  }
+}

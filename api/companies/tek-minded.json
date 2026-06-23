@@ -1,0 +1,71 @@
+{
+  "slug": "tek-minded",
+  "canonical_name": "TEK MINDED INC",
+  "fein": "87-1038436",
+  "lca_filing_count": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 74911.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 88233.6
+    },
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 70678.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Consultant",
+      "count": 2,
+      "median_wage_usd": 70678.0
+    },
+    {
+      "title": "Software Engineer in Test",
+      "count": 2,
+      "median_wage_usd": 81119.8
+    },
+    {
+      "title": "Software Test Engineer",
+      "count": 1,
+      "median_wage_usd": 91978.0
+    },
+    {
+      "title": "Cloud Engineer",
+      "count": 1,
+      "median_wage_usd": 75816.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NC",
+      "county": "WAKE",
+      "count": 5
+    },
+    {
+      "state": "NC",
+      "county": "DURHAM",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NC",
+      "count": 6
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 6,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1253",
+    "soc_title": "Software Quality Assurance Analysts and Testers",
+    "market_median_usd": 101800.0,
+    "employer_median_usd": 88233.6,
+    "gap_usd": -13566.4
+  }
+}

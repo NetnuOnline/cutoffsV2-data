@@ -1,0 +1,50 @@
+{
+  "slug": "west-ocean",
+  "canonical_name": "West Ocean Inc.",
+  "fein": "99-1104452",
+  "lca_filing_count": 4,
+  "lca_worker_positions": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 80256.8,
+  "by_fy": [
+    {
+      "fy": 2026,
+      "filings": 4,
+      "median_wage_usd": 80256.8,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Management Analyst",
+      "count": 2,
+      "median_wage_usd": 70512.0
+    },
+    {
+      "title": "Data Analyst",
+      "count": 2,
+      "median_wage_usd": 90001.6
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "TN",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1111",
+    "soc_title": "Management Analysts",
+    "market_median_usd": 99000.0,
+    "employer_median_usd": 70512.0,
+    "gap_usd": -28488.0
+  }
+}

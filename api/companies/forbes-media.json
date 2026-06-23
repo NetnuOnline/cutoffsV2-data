@@ -1,0 +1,102 @@
+{
+  "slug": "forbes-media",
+  "canonical_name": "Forbes Media LLC",
+  "fein": "34-2065766",
+  "lca_filing_count": 9,
+  "lca_worker_positions": 9,
+  "warn_notice_count": 0,
+  "median_wage_usd": 130000.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 3,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 145000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 161538.56
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 95000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Principal Product Manager",
+      "count": 1,
+      "median_wage_usd": 157000.0
+    },
+    {
+      "title": "Manager, Engineering",
+      "count": 1,
+      "median_wage_usd": 166077.12
+    },
+    {
+      "title": "Senior Engineer",
+      "count": 1,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Reporter, Companies and Markets",
+      "count": 1,
+      "median_wage_usd": 60000.0
+    },
+    {
+      "title": "Senior Data Engineer",
+      "count": 1,
+      "median_wage_usd": 145000.0
+    },
+    {
+      "title": "Data Engineer, Business Intelligence ",
+      "count": 1,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "Deputy Editor",
+      "count": 1,
+      "median_wage_usd": 95000.0
+    },
+    {
+      "title": "Research Analyst, Content & Design Services",
+      "count": 1,
+      "median_wage_usd": 74970.0
+    },
+    {
+      "title": "Senior Data Scientist",
+      "count": 1,
+      "median_wage_usd": 145000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NJ",
+      "county": "HUDSON",
+      "count": 8
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 9
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 145000.0,
+    "gap_usd": 36980.0
+  }
+}

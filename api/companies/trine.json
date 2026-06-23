@@ -1,0 +1,124 @@
+{
+  "slug": "trine",
+  "canonical_name": "Trine LLC",
+  "fein": "47-4943135",
+  "lca_filing_count": 7,
+  "warn_notice_count": 0,
+  "median_wage_usd": 105206.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 93777.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 109501.5
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 92600.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Product Manager",
+      "count": 2,
+      "median_wage_usd": 89550.0
+    },
+    {
+      "title": "System Analyst",
+      "count": 1,
+      "median_wage_usd": 78562.0
+    },
+    {
+      "title": "Cloud Architect",
+      "count": 1,
+      "median_wage_usd": 105206.0
+    },
+    {
+      "title": "Computer Systems Analyst",
+      "count": 1,
+      "median_wage_usd": 108243.0
+    },
+    {
+      "title": "System Engineer",
+      "count": 1,
+      "median_wage_usd": 113797.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 1,
+      "median_wage_usd": 108992.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 3
+    },
+    {
+      "state": "CO",
+      "county": "ADAMS",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "county": "CHESTER",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "WA",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "CO",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 0,
+    "continuing_denials": 0,
+    "total_approvals": 1,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 7,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Information Technology Project Managers",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 89550.0,
+    "gap_usd": -28450.0
+  }
+}

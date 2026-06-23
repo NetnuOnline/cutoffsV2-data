@@ -1,0 +1,89 @@
+{
+  "slug": "epro-technologies",
+  "canonical_name": "EPRO TECHNOLOGIES LLC.",
+  "fein": null,
+  "lca_filing_count": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 105997.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 105997.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 117652.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "IVR SOFTWARE ARCHITECT",
+      "count": 1,
+      "median_wage_usd": 135304.0
+    },
+    {
+      "title": "BUSINESS INTELLIGENCE ENGINEER",
+      "count": 1,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "title": "SOFTWARE DEVELOPER",
+      "count": 1,
+      "median_wage_usd": 104000.0
+    },
+    {
+      "title": "SOFTWARE QA ENGINEER",
+      "count": 1,
+      "median_wage_usd": 107994.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MA",
+      "county": "FRANKLIN CITY",
+      "count": 1
+    },
+    {
+      "state": "NE",
+      "county": "SARPY",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "MONTEREY",
+      "count": 1
+    },
+    {
+      "state": "NE",
+      "county": "DOUGLAS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NE",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 119652.0,
+    "gap_usd": -10508.0
+  }
+}

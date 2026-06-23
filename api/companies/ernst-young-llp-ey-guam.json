@@ -1,0 +1,121 @@
+{
+  "slug": "ernst-young-llp-ey-guam",
+  "canonical_name": "Ernst & Young LLP (EY GUAM)",
+  "fein": "66-0526565",
+  "lca_filing_count": 26,
+  "lca_worker_positions": 26,
+  "warn_notice_count": 0,
+  "median_wage_usd": 46000.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 6,
+      "median_wage_usd": 42500.0
+    },
+    {
+      "fy": 2022,
+      "filings": 3,
+      "median_wage_usd": 44000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 7,
+      "median_wage_usd": 51522.0
+    },
+    {
+      "fy": 2025,
+      "filings": 6,
+      "median_wage_usd": 48100.0
+    },
+    {
+      "fy": 2026,
+      "filings": 4,
+      "median_wage_usd": 45000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Audit Senior ",
+      "count": 3,
+      "median_wage_usd": 51522.0
+    },
+    {
+      "title": "Accountants and Auditors - KBGFJG67423-6",
+      "count": 2,
+      "median_wage_usd": 51522.0
+    },
+    {
+      "title": "Audit Senior - KBGFJG376446-1",
+      "count": 2,
+      "median_wage_usd": 44000.0
+    },
+    {
+      "title": "Audit Senior - KBGFJG212306-2",
+      "count": 2,
+      "median_wage_usd": 48500.0
+    },
+    {
+      "title": "Audit Senior - KBGFJG212278-2",
+      "count": 2,
+      "median_wage_usd": 48100.0
+    },
+    {
+      "title": "Audit Senior - KBGFJG369956-1",
+      "count": 2,
+      "median_wage_usd": 44000.0
+    },
+    {
+      "title": "Accountants and Auditors - KBGFJG160921-1",
+      "count": 2,
+      "median_wage_usd": 42500.0
+    },
+    {
+      "title": "Audit Senior - KBGFJG376434-1",
+      "count": 2,
+      "median_wage_usd": 46000.0
+    },
+    {
+      "title": "Accountants and Auditors - KBOEYTEST14913-23",
+      "count": 1,
+      "median_wage_usd": 60000.0
+    },
+    {
+      "title": "Accountants and Auditors - KBGFJG202454-1",
+      "count": 1,
+      "median_wage_usd": 44000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "GU",
+      "county": "TAMUNING",
+      "count": 11
+    },
+    {
+      "state": "MP",
+      "county": "SAIPAN",
+      "count": 5
+    }
+  ],
+  "top_states": [
+    {
+      "state": "GU",
+      "count": 16
+    },
+    {
+      "state": "MP",
+      "count": 10
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-2011",
+    "soc_title": "Accountants and Auditors",
+    "market_median_usd": 79000.0,
+    "employer_median_usd": 46000.0,
+    "gap_usd": -33000.0
+  }
+}

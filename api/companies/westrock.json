@@ -1,0 +1,525 @@
+{
+  "slug": "westrock",
+  "canonical_name": "WestRock",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 55,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 10
+    },
+    {
+      "state": "NY",
+      "count": 6
+    },
+    {
+      "state": "IL",
+      "count": 5
+    },
+    {
+      "state": "TN",
+      "count": 4
+    },
+    {
+      "state": "FL",
+      "count": 3
+    },
+    {
+      "state": "IA",
+      "count": 3
+    },
+    {
+      "state": "WA",
+      "count": 2
+    },
+    {
+      "state": "NC",
+      "count": 2
+    },
+    {
+      "state": "SC",
+      "count": 2
+    },
+    {
+      "state": "MD",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "09/11/2024",
+      "effective_date": "10/18/2024",
+      "state": "GA",
+      "workers": 9,
+      "city": "3950 Shackleford Rd, Duluth, Georgia"
+    },
+    {
+      "date": "08/28/2024",
+      "effective_date": "10/18/2024",
+      "state": "GA",
+      "workers": 9,
+      "city": "3950 Shackleford Rd, Duluth, Georgia"
+    },
+    {
+      "date": "07/05/2024",
+      "effective_date": "08/30/2024",
+      "state": "GA",
+      "workers": 10,
+      "city": "3950 Shackleford Rd, Duluth, Georgia"
+    },
+    {
+      "date": "07/05/2024",
+      "effective_date": "08/30/2024",
+      "state": "GA",
+      "workers": 10,
+      "city": "3950 Shackleford Rd, Duluth, Georgia"
+    },
+    {
+      "date": "07/02/2024",
+      "effective_date": "08/30/2024",
+      "state": "FL",
+      "workers": 1,
+      "city": "JACKSONVILLE"
+    },
+    {
+      "date": "04/16/2024",
+      "effective_date": "08/30/2024",
+      "state": "MI",
+      "workers": 11,
+      "city": "Lansing, Michigan"
+    },
+    {
+      "date": "01/19/2024",
+      "effective_date": "03/18/2024",
+      "state": "WA",
+      "workers": 87,
+      "city": "Seattle"
+    },
+    {
+      "date": "01/17/2024",
+      "effective_date": "08/30/2024",
+      "state": "NC",
+      "workers": 147,
+      "city": "101 Lexington Parkway, Lexington"
+    },
+    {
+      "date": "10/18/2023",
+      "effective_date": "10/18/2023",
+      "state": "NY",
+      "workers": 77,
+      "city": "Patchogue"
+    },
+    {
+      "date": "09/28/2023",
+      "effective_date": "11/30/2023",
+      "state": "IL",
+      "workers": 73,
+      "city": "Chicago"
+    },
+    {
+      "date": "09/19/2023",
+      "effective_date": "09/19/2023",
+      "state": "NY",
+      "workers": 70,
+      "city": "Patchogue"
+    },
+    {
+      "date": "09/19/2023",
+      "effective_date": "09/19/2023",
+      "state": "NY",
+      "workers": 70,
+      "city": "Patchogue"
+    },
+    {
+      "date": "09/19/2023",
+      "effective_date": "09/19/2023",
+      "state": "NY",
+      "workers": 70,
+      "city": null
+    },
+    {
+      "date": "09/18/2023",
+      "effective_date": "08/12/2023",
+      "state": "GA",
+      "workers": 89,
+      "city": "2370 Sullivan Rd, College Park, Georgia"
+    },
+    {
+      "date": "09/13/2023",
+      "effective_date": "09/30/2023",
+      "state": "WA",
+      "workers": 408,
+      "city": "Tacoma"
+    },
+    {
+      "date": "08/15/2023",
+      "effective_date": "10/15/2023",
+      "state": "IN",
+      "workers": 101,
+      "city": "Columbus"
+    },
+    {
+      "date": "07/14/2023",
+      "effective_date": "09/15/2023",
+      "state": "MO",
+      "workers": 52,
+      "city": "St. Louis (city)"
+    },
+    {
+      "date": "07/13/2023",
+      "effective_date": "09/01/2023",
+      "state": "IA",
+      "workers": 29,
+      "city": "Des Moines"
+    },
+    {
+      "date": "06/21/2023",
+      "effective_date": "08/12/2023",
+      "state": "GA",
+      "workers": 89,
+      "city": "2370 Sullivan Rd, College Park, Georgia"
+    },
+    {
+      "date": "05/03/2023",
+      "effective_date": "07/31/2023",
+      "state": "IL",
+      "workers": 48,
+      "city": "Chicago"
+    },
+    {
+      "date": "05/02/2023",
+      "effective_date": "08/30/2023",
+      "state": "SC",
+      "workers": 499,
+      "city": "5600 Virginia Avenue, Charleston, South Carolina29406"
+    },
+    {
+      "date": "04/25/2023",
+      "effective_date": "07/03/2023",
+      "state": "MD",
+      "workers": 75,
+      "city": "Curtis Bay"
+    },
+    {
+      "date": "02/27/2023",
+      "effective_date": "04/17/2023",
+      "state": "KY",
+      "workers": 76,
+      "city": "Warren"
+    },
+    {
+      "date": "10/28/2022",
+      "effective_date": "10/28/2022",
+      "state": "MN",
+      "workers": 130,
+      "city": "St Paul"
+    },
+    {
+      "date": "06/07/2022",
+      "effective_date": "06/07/2022",
+      "state": "OH",
+      "workers": 72,
+      "city": "Toledo/Lucas"
+    },
+    {
+      "date": "04/08/2022",
+      "effective_date": "06/06/2022",
+      "state": "FL",
+      "workers": 426,
+      "city": "PANAMA CITY"
+    },
+    {
+      "date": "03/31/2022",
+      "effective_date": "05/31/2022",
+      "state": "MD",
+      "workers": 30,
+      "city": "Curtis Bay"
+    },
+    {
+      "date": "08/07/2020",
+      "effective_date": "09/30/2020",
+      "state": "KY",
+      "workers": 24,
+      "city": "Pulaski"
+    },
+    {
+      "date": "12/21/2019",
+      "effective_date": "12/21/2019",
+      "state": "NJ",
+      "workers": 114,
+      "city": "Newark"
+    },
+    {
+      "date": "12/18/2019",
+      "effective_date": "02/01/2020",
+      "state": "IL",
+      "workers": 7,
+      "city": "Edwardsville"
+    },
+    {
+      "date": "10/01/2019",
+      "effective_date": "10/01/2019",
+      "state": "GA",
+      "workers": 34,
+      "city": "Lithonia"
+    },
+    {
+      "date": "06/11/2019",
+      "effective_date": "09/10/2019",
+      "state": "NY",
+      "workers": 57,
+      "city": "Amsterdam"
+    },
+    {
+      "date": "04/23/2019",
+      "effective_date": "06/24/2019",
+      "state": "LA",
+      "workers": 83,
+      "city": "2929 Louisville Ave Monroe, LA 71210"
+    },
+    {
+      "date": "03/29/2019",
+      "effective_date": "05/27/2019",
+      "state": "TN",
+      "workers": 61,
+      "city": "Marion County"
+    },
+    {
+      "date": "03/25/2019",
+      "effective_date": "03/25/2019",
+      "state": "CO",
+      "workers": 61,
+      "city": "Arapahoe/Douglas"
+    },
+    {
+      "date": "03/25/2019",
+      "effective_date": "03/25/2019",
+      "state": "CO",
+      "workers": 61,
+      "city": "Arapahoe/Douglas"
+    },
+    {
+      "date": "08/16/2018",
+      "effective_date": "10/19/2018",
+      "state": "NC",
+      "workers": 170,
+      "city": "2750 Whitehall Park Dr, Charlotte"
+    },
+    {
+      "date": "12/18/2017",
+      "effective_date": "02/24/2018",
+      "state": "CA",
+      "workers": 76,
+      "city": "Moreno Valley"
+    },
+    {
+      "date": "12/14/2017",
+      "effective_date": "02/08/2018",
+      "state": "TN",
+      "workers": 76,
+      "city": "Marion County"
+    },
+    {
+      "date": "11/27/2017",
+      "effective_date": "11/27/2017",
+      "state": "GA",
+      "workers": 57,
+      "city": "Lithia Springs"
+    },
+    {
+      "date": "08/31/2017",
+      "effective_date": "08/31/2017",
+      "state": "GA",
+      "workers": 71,
+      "city": "Atlanta"
+    },
+    {
+      "date": "08/01/2017",
+      "effective_date": "09/29/2017",
+      "state": "IA",
+      "workers": 80,
+      "city": "Sioux City"
+    },
+    {
+      "date": "07/17/2017",
+      "effective_date": "10/13/2017",
+      "state": "NY",
+      "workers": 94,
+      "city": "Wheatley Heights"
+    },
+    {
+      "date": "07/11/2017",
+      "effective_date": "07/11/2017",
+      "state": "TX",
+      "workers": 145,
+      "city": "Waxahachie"
+    },
+    {
+      "date": "11/01/2016",
+      "effective_date": "11/01/2016",
+      "state": "SC",
+      "workers": 99,
+      "city": "Latta"
+    },
+    {
+      "date": "07/13/2016",
+      "effective_date": "09/12/2016",
+      "state": "FL",
+      "workers": 127,
+      "city": "Jacksonville"
+    },
+    {
+      "date": "05/10/2016",
+      "effective_date": "07/01/2016",
+      "state": "IL",
+      "workers": 173,
+      "city": "Chicago"
+    },
+    {
+      "date": "03/11/2016",
+      "effective_date": "05/01/2016",
+      "state": "IL",
+      "workers": 49,
+      "city": "Chicago"
+    },
+    {
+      "date": "01/20/2016",
+      "effective_date": "01/20/2016",
+      "state": "GA",
+      "workers": 66,
+      "city": "Atlanta"
+    },
+    {
+      "date": "01/15/2016",
+      "effective_date": "03/15/2016",
+      "state": "CT",
+      "workers": 87,
+      "city": "Uncasville"
+    },
+    {
+      "date": "10/20/2015",
+      "effective_date": "11/15/2015",
+      "state": "OR",
+      "workers": 171,
+      "city": "Newberg"
+    },
+    {
+      "date": "10/16/2015",
+      "effective_date": "12/15/2015",
+      "state": "OH",
+      "workers": 229,
+      "city": "Coshocton/Coshocton"
+    },
+    {
+      "date": "07/17/2015",
+      "effective_date": "09/30/2015",
+      "state": "IA",
+      "workers": 50,
+      "city": "Iowa City"
+    },
+    {
+      "date": "07/16/2015",
+      "effective_date": "09/17/2015",
+      "state": "TN",
+      "workers": 136,
+      "city": "Jasper"
+    },
+    {
+      "date": "07/14/2015",
+      "effective_date": "09/11/2015",
+      "state": "TN",
+      "workers": 50,
+      "city": "Tullahoma"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "careersource-gulf-coast",
+      "name": "CareerSource Gulf Coast",
+      "state": "FL"
+    },
+    {
+      "slug": "dekalb-county-wib",
+      "name": "DeKalb County WIB",
+      "state": "GA"
+    },
+    {
+      "slug": "madison-bond-wib",
+      "name": "Madison-Bond WIB",
+      "state": "IL"
+    },
+    {
+      "slug": "economic-growth-region-9",
+      "name": "Economic Growth Region 9",
+      "state": "IN"
+    },
+    {
+      "slug": "region-12-sioux-city-wib",
+      "name": "Region 12 - Sioux City WIB",
+      "state": "IA"
+    },
+    {
+      "slug": "anne-arundel-wia",
+      "name": "Anne Arundel WIA",
+      "state": "MD"
+    },
+    {
+      "slug": "capital-area-michigan-works",
+      "name": "Capital Area Michigan Works!",
+      "state": "MI"
+    },
+    {
+      "slug": "st-louis-county-region-wib",
+      "name": "St. Louis County Region WIB",
+      "state": "MO"
+    },
+    {
+      "slug": "suffolk-county-lwia",
+      "name": "Suffolk County LWIA",
+      "state": "NY"
+    },
+    {
+      "slug": "fultonmontgomeryschoharie-lwia",
+      "name": "Fulton/Montgomery/Schoharie LWIA",
+      "state": "NY"
+    },
+    {
+      "slug": "southeast-ohio",
+      "name": "Southeast Ohio",
+      "state": "OH"
+    },
+    {
+      "slug": "mid-valley-wia",
+      "name": "Mid-Valley WIA",
+      "state": "OR"
+    },
+    {
+      "slug": "pee-dee-wib",
+      "name": "Pee Dee WIB",
+      "state": "SC"
+    },
+    {
+      "slug": "05-local-workforce-investment-area",
+      "name": "05 Local Workforce Investment Area",
+      "state": "TN"
+    },
+    {
+      "slug": "06-local-workforce-investment-area",
+      "name": "06 Local Workforce Investment Area",
+      "state": "TN"
+    },
+    {
+      "slug": "tacomapierce-county-wib",
+      "name": "Tacoma/Pierce County WIB",
+      "state": "WA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

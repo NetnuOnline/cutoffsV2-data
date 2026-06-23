@@ -1,0 +1,56 @@
+{
+  "slug": "china-citic-bank-international-limited",
+  "canonical_name": "China CITIC Bank International Limited",
+  "fein": "05-0538507",
+  "lca_filing_count": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 67000.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 67000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Accountant",
+      "count": 1,
+      "median_wage_usd": 75600.0
+    },
+    {
+      "title": "Loan Officer",
+      "count": 1,
+      "median_wage_usd": 63000.0
+    },
+    {
+      "title": "Credit Counselor",
+      "count": 1,
+      "median_wage_usd": 67000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-2011",
+    "soc_title": "Accountants and Auditors",
+    "market_median_usd": 79000.0,
+    "employer_median_usd": 75600.0,
+    "gap_usd": -3400.0
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "slug": "abridge-ai",
+  "canonical_name": "Abridge AI, Inc.",
+  "fein": "82-4607710",
+  "lca_filing_count": 8,
+  "lca_worker_positions": 8,
+  "warn_notice_count": 0,
+  "median_wage_usd": 245000.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 205000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 255000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 4,
+      "median_wage_usd": 220000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Software Engineer, Quality",
+      "count": 2,
+      "median_wage_usd": 190000.0
+    },
+    {
+      "title": "Staff Software Engineer",
+      "count": 1,
+      "median_wage_usd": 205000.0
+    },
+    {
+      "title": "Senior Machine Learning Scientist",
+      "count": 1,
+      "median_wage_usd": 275000.0
+    },
+    {
+      "title": "Staff Platform Engineer",
+      "count": 1,
+      "median_wage_usd": 270000.0
+    },
+    {
+      "title": "Senior Software/Data Engineer, Gen AI",
+      "count": 1,
+      "median_wage_usd": 250000.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 1,
+      "median_wage_usd": 255000.0
+    },
+    {
+      "title": "Analytics Data Engineer",
+      "count": 1,
+      "median_wage_usd": 240000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "PA",
+      "county": "ALLEGHENY",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 6
+    },
+    {
+      "state": "AZ",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 255000.0,
+    "gap_usd": 124840.0
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "slug": "riviant",
+  "canonical_name": "RIVIANT INC",
+  "fein": "88-0972631",
+  "lca_filing_count": 6,
+  "lca_worker_positions": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 95680.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 99840.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 87692.79999999999
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 91520.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 4,
+      "median_wage_usd": 99840.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 1,
+      "median_wage_usd": 91520.0
+    },
+    {
+      "title": "Java Developer",
+      "count": 1,
+      "median_wage_usd": 84489.59999999999
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "NASSAU",
+      "count": 2
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "NV",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 95680.0,
+    "gap_usd": -34480.0
+  }
+}

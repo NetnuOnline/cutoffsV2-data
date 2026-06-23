@@ -1,0 +1,51 @@
+{
+  "slug": "control-space-tech",
+  "canonical_name": "Control Space Tech LLC",
+  "fein": "30-1375442",
+  "lca_filing_count": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 75700.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 4,
+      "median_wage_usd": 75700.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Computer Systems Analyst",
+      "count": 2,
+      "median_wage_usd": 73600.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 2,
+      "median_wage_usd": 77800.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "KY",
+      "county": "JEFFERSON",
+      "count": 4
+    }
+  ],
+  "top_states": [
+    {
+      "state": "KY",
+      "count": 4
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 8,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 77800.0,
+    "gap_usd": -52360.0
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "slug": "wp-company-d-b-a-the-washington-post",
+  "canonical_name": "WP Company LLC d/b/a The Washington Post",
+  "fein": "80-0298139",
+  "lca_filing_count": 14,
+  "lca_worker_positions": 14,
+  "warn_notice_count": 0,
+  "median_wage_usd": 131539.5,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 160908.0
+    },
+    {
+      "fy": 2024,
+      "filings": 4,
+      "median_wage_usd": 129844.0
+    },
+    {
+      "fy": 2025,
+      "filings": 8,
+      "median_wage_usd": 136313.5
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 80300.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Software Engineer",
+      "count": 4,
+      "median_wage_usd": 126090.0
+    },
+    {
+      "title": "Staff Cybersecurity Engineer",
+      "count": 1,
+      "median_wage_usd": 148221.0
+    },
+    {
+      "title": "Engineering Lead",
+      "count": 1,
+      "median_wage_usd": 160908.0
+    },
+    {
+      "title": "HR Manager, HRIS",
+      "count": 1,
+      "median_wage_usd": 146537.0
+    },
+    {
+      "title": "Software Engineer 2",
+      "count": 1,
+      "median_wage_usd": 122699.0
+    },
+    {
+      "title": "Senior Designer",
+      "count": 1,
+      "median_wage_usd": 99362.0
+    },
+    {
+      "title": "Copy Editor",
+      "count": 1,
+      "median_wage_usd": 80300.0
+    },
+    {
+      "title": "Staff Software Engineer",
+      "count": 1,
+      "median_wage_usd": 150758.0
+    },
+    {
+      "title": "Senior Data Engineer",
+      "count": 1,
+      "median_wage_usd": 114716.0
+    },
+    {
+      "title": "National Security Reporter",
+      "count": 1,
+      "median_wage_usd": 162843.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "DC",
+      "county": "DISTRICT OF COLUMBIA",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "DC",
+      "count": 9
+    },
+    {
+      "state": "TX",
+      "count": 4
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 148221.0,
+    "gap_usd": 18061.0
+  }
+}

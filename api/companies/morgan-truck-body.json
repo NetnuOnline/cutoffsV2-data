@@ -1,0 +1,69 @@
+{
+  "slug": "morgan-truck-body",
+  "canonical_name": "Morgan Truck Body LLC",
+  "fein": null,
+  "lca_filing_count": 1,
+  "warn_notice_count": 2,
+  "median_wage_usd": 82000.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 82000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Manufacturing Engineer",
+      "count": 1,
+      "median_wage_usd": 82000.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "RIVERSIDE",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "12/15/2025",
+      "effective_date": "12/15/2025",
+      "state": "PA",
+      "workers": 92,
+      "city": "Ephrata"
+    },
+    {
+      "date": "06/02/2025",
+      "effective_date": "08/01/2025",
+      "state": "OH",
+      "workers": 110,
+      "city": "Orrville/Wayne"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "northeast-ohio",
+      "name": "Northeast Ohio",
+      "state": "OH"
+    },
+    {
+      "slug": "south-central-wia-pa",
+      "name": "South Central WIA",
+      "state": "PA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": []
+}

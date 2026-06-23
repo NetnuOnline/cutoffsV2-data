@@ -1,0 +1,76 @@
+{
+  "slug": "detroil-diesel",
+  "canonical_name": "Detroil Diesel",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 1,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "KS",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "08/19/2009",
+      "effective_date": "08/19/2009",
+      "state": "KS",
+      "workers": 34,
+      "city": "5 - Workforce Investment Area V"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2020-04-20",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-20-111531",
+        "items": [
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001666700&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2019-05-29",
+        "formType": "8-K",
+        "accessionNumber": "0001666700-19-000025",
+        "items": [
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001666700&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2017-11-02",
+        "formType": "8-K",
+        "accessionNumber": "0001666700-17-000022",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001666700&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 3,
+    "itemCounts": {
+      "2.06": 2,
+      "2.05": 1
+    },
+    "latestFilingDate": "2020-04-20",
+    "earliestFilingDate": "2017-11-02"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

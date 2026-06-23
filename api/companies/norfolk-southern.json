@@ -1,0 +1,131 @@
+{
+  "slug": "norfolk-southern",
+  "canonical_name": "Norfolk Southern Corporation",
+  "fein": "52-1188014",
+  "lca_filing_count": 18,
+  "lca_worker_positions": 18,
+  "warn_notice_count": 0,
+  "median_wage_usd": 134463.5,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 92000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 3,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 5,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 149371.0
+    },
+    {
+      "fy": 2026,
+      "filings": 4,
+      "median_wage_usd": 138148.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Technology Engineer \u201c Application Development",
+      "count": 1,
+      "median_wage_usd": 142370.0
+    },
+    {
+      "title": "Senior Operations Research Specialist",
+      "count": 1,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "title": "Operations Research Scientist",
+      "count": 1,
+      "median_wage_usd": 116000.0
+    },
+    {
+      "title": "Senior Middleware Integrations Engineer (JBoss RedHat)",
+      "count": 1,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Technology Analyst - QA",
+      "count": 1,
+      "median_wage_usd": 92000.0
+    },
+    {
+      "title": "Technology Engineer \u201c iManage WorkSite",
+      "count": 1,
+      "median_wage_usd": 133927.0
+    },
+    {
+      "title": "Cloud FinOps Engineer",
+      "count": 1,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "title": "SharePoint Farm Administrator",
+      "count": 1,
+      "median_wage_usd": 117915.0
+    },
+    {
+      "title": "Senior Data Engineer",
+      "count": 1,
+      "median_wage_usd": 152500.0
+    },
+    {
+      "title": "Lead Computer Vision Scientist",
+      "count": 1,
+      "median_wage_usd": 170000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 11
+    },
+    {
+      "state": "OH",
+      "county": "BUTLER",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 17
+    },
+    {
+      "state": "OH",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 145400.0,
+    "gap_usd": 15240.0
+  }
+}

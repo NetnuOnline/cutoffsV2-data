@@ -1,0 +1,100 @@
+{
+  "slug": "touchworld",
+  "canonical_name": "Touchworld, Inc.",
+  "fein": "38-3345403",
+  "lca_filing_count": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 112905.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 102000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 105810.0
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 122000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Business Management Analyst",
+      "count": 2,
+      "median_wage_usd": 111000.0
+    },
+    {
+      "title": "AWS Engineer/Devops",
+      "count": 2,
+      "median_wage_usd": 113905.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 2,
+      "median_wage_usd": 112006.5
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "AL",
+      "county": "MONTGOMERY",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "SAN JOAQUIN",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "AL",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "count": 2
+    },
+    {
+      "state": "NC",
+      "count": 1
+    },
+    {
+      "state": "MD",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 3,
+    "initial_denials": 0,
+    "continuing_approvals": 2,
+    "continuing_denials": 0,
+    "total_approvals": 5,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 3,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 5
+      }
+    ]
+  },
+  "lca_worker_positions": 6,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 113905.0,
+    "gap_usd": -16255.0
+  }
+}

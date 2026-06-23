@@ -1,0 +1,76 @@
+{
+  "slug": "varn-technologies",
+  "canonical_name": "VARN Technologies LLC",
+  "fein": "92-2229635",
+  "lca_filing_count": 4,
+  "lca_worker_positions": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 109949.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 109949.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 111675.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 100818.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Software Developer",
+      "count": 1,
+      "median_wage_usd": 109949.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 1,
+      "median_wage_usd": 111675.0
+    },
+    {
+      "title": "Senior Data Engineer",
+      "count": 1,
+      "median_wage_usd": 109949.0
+    },
+    {
+      "title": "Senior Software QA",
+      "count": 1,
+      "median_wage_usd": 100818.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "PA",
+      "county": "CUMBERLAND",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "PA",
+      "count": 3
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 109949.0,
+    "gap_usd": -20211.0
+  }
+}

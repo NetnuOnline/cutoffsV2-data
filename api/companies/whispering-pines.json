@@ -1,0 +1,47 @@
+{
+  "slug": "whispering-pines",
+  "canonical_name": "Whispering Pines",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "KS",
+      "count": 1
+    },
+    {
+      "state": "NE",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "08/29/2022",
+      "effective_date": "08/29/2022",
+      "state": "KS",
+      "workers": 0,
+      "city": "Norton"
+    },
+    {
+      "date": "09/30/2011",
+      "effective_date": "09/30/2011",
+      "state": "NE",
+      "workers": 9,
+      "city": "Schuyler"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "local-area-i-western-wib",
+      "name": "Local Area I - Western WIB",
+      "state": "KS"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

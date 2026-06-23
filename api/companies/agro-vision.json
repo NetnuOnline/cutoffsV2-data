@@ -1,0 +1,65 @@
+{
+  "slug": "agro-vision",
+  "canonical_name": "Agro Vision Corp.",
+  "fein": null,
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 114593.5,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 104187.0
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 125000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Global Operations Manager",
+      "count": 1,
+      "median_wage_usd": 104187.0
+    },
+    {
+      "title": "Operations and Quality Assurance Manager",
+      "count": 1,
+      "median_wage_usd": 125000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NJ",
+      "county": "ATLANTIC",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1111",
+    "soc_title": "Management Analysts",
+    "market_median_usd": 99000.0,
+    "employer_median_usd": 104187.0,
+    "gap_usd": 5187.0
+  }
+}

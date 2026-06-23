@@ -1,0 +1,43 @@
+{
+  "slug": "path-ai",
+  "canonical_name": "Path AI",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "MA",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "06/01/2023",
+      "effective_date": "06/01/2023",
+      "state": "MA",
+      "workers": 0,
+      "city": "Boston"
+    },
+    {
+      "date": "06/01/2023",
+      "effective_date": "06/01/2023",
+      "state": "MA",
+      "workers": 51,
+      "city": "Boston"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "metro-north-wia",
+      "name": "Metro North WIA",
+      "state": "MA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

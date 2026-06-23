@@ -1,0 +1,210 @@
+{
+  "slug": "exxonmobil",
+  "canonical_name": "ExxonMobil Global Services Company",
+  "fein": null,
+  "lca_filing_count": 1,
+  "warn_notice_count": 18,
+  "median_wage_usd": 186580,
+  "by_fy": [
+    {
+      "fy": 2026,
+      "filings": 0,
+      "median_wage_usd": null
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SharePoint Engineer",
+      "count": 0,
+      "median_wage_usd": null
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 15
+    },
+    {
+      "state": "GA",
+      "count": 1
+    },
+    {
+      "state": "OH",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "11/25/2024",
+      "effective_date": "03/31/2025",
+      "state": "TX",
+      "workers": 2,
+      "city": "Big Lake"
+    },
+    {
+      "date": "11/25/2024",
+      "effective_date": "12/31/2024",
+      "state": "TX",
+      "workers": 1,
+      "city": "Big Lake"
+    },
+    {
+      "date": "11/12/2024",
+      "effective_date": "12/31/2024",
+      "state": "TX",
+      "workers": 9,
+      "city": "Midland"
+    },
+    {
+      "date": "11/12/2024",
+      "effective_date": "12/31/2024",
+      "state": "TX",
+      "workers": 9,
+      "city": "Midland"
+    },
+    {
+      "date": "11/12/2024",
+      "effective_date": "12/31/2024",
+      "state": "TX",
+      "workers": 376,
+      "city": "Irving"
+    },
+    {
+      "date": "08/05/2024",
+      "effective_date": "09/30/2024",
+      "state": "TX",
+      "workers": 10,
+      "city": "Midland"
+    },
+    {
+      "date": "08/05/2024",
+      "effective_date": "09/30/2024",
+      "state": "TX",
+      "workers": 7,
+      "city": "Midland"
+    },
+    {
+      "date": "08/05/2024",
+      "effective_date": "09/30/2024",
+      "state": "TX",
+      "workers": 1,
+      "city": "Midland"
+    },
+    {
+      "date": "08/01/2024",
+      "effective_date": "09/30/2024",
+      "state": "TX",
+      "workers": 2,
+      "city": "Big Lake"
+    },
+    {
+      "date": "08/01/2024",
+      "effective_date": "09/30/2024",
+      "state": "TX",
+      "workers": 39,
+      "city": "Irving"
+    },
+    {
+      "date": "12/02/2020",
+      "effective_date": "02/02/2021",
+      "state": "TX",
+      "workers": 10,
+      "city": "The Woodlands"
+    },
+    {
+      "date": "12/02/2020",
+      "effective_date": "02/02/2021",
+      "state": "TX",
+      "workers": 35,
+      "city": "The Woodlands"
+    },
+    {
+      "date": "12/02/2020",
+      "effective_date": "02/02/2021",
+      "state": "TX",
+      "workers": 677,
+      "city": "Spring"
+    },
+    {
+      "date": "05/10/2020",
+      "effective_date": "05/10/2020",
+      "state": "GA",
+      "workers": 3,
+      "city": "macon"
+    },
+    {
+      "date": "04/06/2015",
+      "effective_date": "12/31/2015",
+      "state": "OH",
+      "workers": 0,
+      "city": "Akron/Summit"
+    },
+    {
+      "date": "01/22/2012",
+      "effective_date": "01/22/2012",
+      "state": "NJ",
+      "workers": 180,
+      "city": "Fairfax"
+    },
+    {
+      "date": "03/09/2000",
+      "effective_date": "02/01/2000",
+      "state": "TX",
+      "workers": 91,
+      "city": "Midland"
+    },
+    {
+      "date": "03/09/2000",
+      "effective_date": "02/01/2000",
+      "state": "TX",
+      "workers": 50,
+      "city": "The Woodlands"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "macon-bibb-wib",
+      "name": "Macon-Bibb WIB",
+      "state": "GA"
+    },
+    {
+      "slug": "permian-basin-wda",
+      "name": "Permian Basin WDA",
+      "state": "TX"
+    },
+    {
+      "slug": "concho-valley-wda",
+      "name": "Concho Valley WDA",
+      "state": "TX"
+    }
+  ],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2020-11-30",
+        "formType": "8-K",
+        "accessionNumber": "0000034088-20-000093",
+        "items": [
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000034088&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 1,
+    "itemCounts": {
+      "2.06": 1
+    },
+    "latestFilingDate": "2020-11-30",
+    "earliestFilingDate": "2020-11-30"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

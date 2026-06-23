@@ -1,0 +1,101 @@
+{
+  "slug": "advanced-management-technology",
+  "canonical_name": "Advanced Management Technology, Inc.",
+  "fein": "54-1554855",
+  "lca_filing_count": 9,
+  "lca_worker_positions": 9,
+  "warn_notice_count": 0,
+  "median_wage_usd": 134000.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 127000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 130120.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 141450.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 158426.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 3,
+      "median_wage_usd": 122000.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 2,
+      "median_wage_usd": 137725.0
+    },
+    {
+      "title": "IT Programmer Analyst/Lead",
+      "count": 1,
+      "median_wage_usd": 158426.0
+    },
+    {
+      "title": "Database Developer",
+      "count": 1,
+      "median_wage_usd": 108000.0
+    },
+    {
+      "title": "Database Administrator",
+      "count": 1,
+      "median_wage_usd": 98000.0
+    },
+    {
+      "title": "IT Programmer Analyst (Software Architect)",
+      "count": 1,
+      "median_wage_usd": 158426.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "VA",
+      "county": "ARLINGTON",
+      "count": 5
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "VA",
+      "count": 8
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 149938.0,
+    "gap_usd": 19778.0
+  }
+}

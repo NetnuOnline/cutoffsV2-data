@@ -1,0 +1,43 @@
+{
+  "slug": "saltzer-health",
+  "canonical_name": "Saltzer Health",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "ID",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "01/22/2024",
+      "effective_date": "03/29/2024",
+      "state": "ID",
+      "workers": 162,
+      "city": "Nampa"
+    },
+    {
+      "date": "01/22/2024",
+      "effective_date": "03/29/2024",
+      "state": "ID",
+      "workers": 216,
+      "city": "Meridian"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "southwest-wib-id",
+      "name": "Southwest WIB",
+      "state": "ID"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

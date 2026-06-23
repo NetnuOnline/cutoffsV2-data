@@ -1,0 +1,75 @@
+{
+  "slug": "the-mental-health-association-of-new-york-city",
+  "canonical_name": "The Mental Health Association of New York City, Inc.",
+  "fein": "13-2637308",
+  "lca_filing_count": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 142345.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 106080.0
+    },
+    {
+      "fy": 2025,
+      "filings": 4,
+      "median_wage_usd": 202249.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Chief Technology Officer",
+      "count": 2,
+      "median_wage_usd": 261248.0
+    },
+    {
+      "title": "Senior Data Engineer",
+      "count": 1,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "title": "Sr. Director of Clinical Services",
+      "count": 1,
+      "median_wage_usd": 143250.0
+    },
+    {
+      "title": "Human Resources Manager",
+      "count": 1,
+      "median_wage_usd": 141440.0
+    },
+    {
+      "title": "Human Resources Program Specialist",
+      "count": 1,
+      "median_wage_usd": 70720.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 5
+    },
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 6,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3021",
+    "soc_title": "Computer and Information Systems Managers",
+    "market_median_usd": 169510.0,
+    "employer_median_usd": 261248.0,
+    "gap_usd": 91738.0
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "slug": "rcube-it",
+  "canonical_name": "RCube IT LLC",
+  "fein": "83-3536219",
+  "lca_filing_count": 7,
+  "lca_worker_positions": 7,
+  "warn_notice_count": 0,
+  "median_wage_usd": 110240.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 110240.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 92394.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 108930.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 131997.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 115939.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Business Analyst",
+      "count": 2,
+      "median_wage_usd": 100662.0
+    },
+    {
+      "title": "Infrastructure Engineer",
+      "count": 2,
+      "median_wage_usd": 110240.0
+    },
+    {
+      "title": "FCC Tech Software Engineer",
+      "count": 1,
+      "median_wage_usd": 131997.0
+    },
+    {
+      "title": "Alteryx Developer",
+      "count": 1,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "title": "Senior Data Engineer",
+      "count": 1,
+      "median_wage_usd": 115939.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "VA",
+      "county": "LOUDOUN",
+      "count": 2
+    },
+    {
+      "state": "NY",
+      "county": "ERIE",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "county": "PASCO",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "FORT BEND",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "VA",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 110240.0,
+    "gap_usd": -19920.0
+  }
+}

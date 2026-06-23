@@ -1,0 +1,163 @@
+{
+  "slug": "insulet",
+  "canonical_name": "Insulet Corporation",
+  "fein": "04-3523891",
+  "lca_filing_count": 53,
+  "lca_worker_positions": 53,
+  "warn_notice_count": 0,
+  "median_wage_usd": 130715.39,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 3,
+      "median_wage_usd": 105186.0
+    },
+    {
+      "fy": 2021,
+      "filings": 6,
+      "median_wage_usd": 110791.0
+    },
+    {
+      "fy": 2022,
+      "filings": 14,
+      "median_wage_usd": 121794.5
+    },
+    {
+      "fy": 2023,
+      "filings": 5,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 4,
+      "median_wage_usd": 139282.565
+    },
+    {
+      "fy": 2025,
+      "filings": 11,
+      "median_wage_usd": 133385.0
+    },
+    {
+      "fy": 2026,
+      "filings": 10,
+      "median_wage_usd": 146341.8,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Associate Product Manager",
+      "count": 2,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "title": "Manufacturing Engineer",
+      "count": 2,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 2,
+      "median_wage_usd": 124564.5
+    },
+    {
+      "title": "Senior Staff SW Design Quality Assurance Engineer",
+      "count": 2,
+      "median_wage_usd": 147256.58500000002
+    },
+    {
+      "title": "Senior Systems Dv Software Development Engineer In Test",
+      "count": 2,
+      "median_wage_usd": 136565.13
+    },
+    {
+      "title": "Senior Business Analyst, Customer Identity",
+      "count": 2,
+      "median_wage_usd": 122042.5
+    },
+    {
+      "title": "Senior Manufacturing Engineer",
+      "count": 2,
+      "median_wage_usd": 126863.195
+    },
+    {
+      "title": "Director, Regulatory Affairs",
+      "count": 1,
+      "median_wage_usd": 227600.0
+    },
+    {
+      "title": "Salesforce Developer",
+      "count": 1,
+      "median_wage_usd": 93766.0
+    },
+    {
+      "title": "Test Engineer ",
+      "count": 1,
+      "median_wage_usd": 112070.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MA",
+      "county": "ACTON",
+      "count": 19
+    },
+    {
+      "state": "CA",
+      "county": "SAN DIEGO",
+      "count": 10
+    },
+    {
+      "state": "MA",
+      "county": "BILLERICA",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "county": "MORRIS",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "county": "WORCESTER CITY",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MA",
+      "count": 35
+    },
+    {
+      "state": "CA",
+      "count": 14
+    },
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 139282.57,
+    "gap_usd": 9122.57
+  }
+}

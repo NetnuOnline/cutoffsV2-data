@@ -1,0 +1,185 @@
+{
+  "slug": "compute-tech",
+  "canonical_name": "COMPUTE TECH, INC.",
+  "fein": "26-1929707",
+  "lca_filing_count": 10,
+  "warn_notice_count": 0,
+  "median_wage_usd": 92092.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 7,
+      "median_wage_usd": 94619.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 78187.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 82347.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "IAM ENGINEER",
+      "count": 4,
+      "median_wage_usd": 92092.0
+    },
+    {
+      "title": "CA IDENTITY MANAGEMENT AND GOVERNANCE ENGINEER",
+      "count": 2,
+      "median_wage_usd": 98904.0
+    },
+    {
+      "title": "SECURITY ANALYST",
+      "count": 2,
+      "median_wage_usd": 81682.0
+    },
+    {
+      "title": "Performance Test Engineer",
+      "count": 1,
+      "median_wage_usd": 82347.0
+    },
+    {
+      "title": "OIM ENGINEER",
+      "count": 1,
+      "median_wage_usd": 94619.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "MONTGOMERY",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 2
+    },
+    {
+      "state": "NV",
+      "county": "CLARK",
+      "count": 2
+    },
+    {
+      "state": "CT",
+      "county": "ROCKY HILL",
+      "count": 1
+    },
+    {
+      "state": "WI",
+      "county": "BROWN",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 5
+    },
+    {
+      "state": "NV",
+      "count": 2
+    },
+    {
+      "state": "GA",
+      "count": 1
+    },
+    {
+      "state": "CT",
+      "count": 1
+    },
+    {
+      "state": "WI",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 13,
+    "initial_denials": 3,
+    "continuing_approvals": 9,
+    "continuing_denials": 0,
+    "total_approvals": 22,
+    "by_fy": [
+      {
+        "fy": 2016,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2017,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 5,
+        "initial_denials": 3,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 5
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 6,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 9
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 4,
+        "continuing_denials": 0,
+        "total_approvals": 6
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      }
+    ]
+  },
+  "lca_worker_positions": 9,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Computer Occupations, All Other",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 94619.0,
+    "gap_usd": -23381.0
+  }
+}

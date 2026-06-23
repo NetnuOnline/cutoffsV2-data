@@ -1,0 +1,84 @@
+{
+  "slug": "stream",
+  "canonical_name": "STREAM",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 7,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 4
+    },
+    {
+      "state": "SD",
+      "count": 1
+    },
+    {
+      "state": "IA",
+      "count": 1
+    },
+    {
+      "state": "OR",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "08/22/2012",
+      "effective_date": "08/22/2012",
+      "state": "SD",
+      "workers": 180,
+      "city": "Vermillion"
+    },
+    {
+      "date": "03/14/2011",
+      "effective_date": "05/15/2011",
+      "state": "IA",
+      "workers": 246,
+      "city": "Sergeant Bluff"
+    },
+    {
+      "date": "04/16/2009",
+      "effective_date": "06/26/2009",
+      "state": "TX",
+      "workers": 60,
+      "city": "Richardson"
+    },
+    {
+      "date": "06/24/2004",
+      "effective_date": "08/23/2004",
+      "state": "OR",
+      "workers": 206,
+      "city": "EUGENE"
+    },
+    {
+      "date": "09/29/2003",
+      "effective_date": "11/29/2003",
+      "state": "TX",
+      "workers": 354,
+      "city": "Carrollton"
+    },
+    {
+      "date": "03/31/2003",
+      "effective_date": "06/30/2003",
+      "state": "TX",
+      "workers": 175,
+      "city": "Carrollton"
+    },
+    {
+      "date": "02/27/2002",
+      "effective_date": "07/01/2002",
+      "state": "TX",
+      "workers": 649,
+      "city": "Dallas"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

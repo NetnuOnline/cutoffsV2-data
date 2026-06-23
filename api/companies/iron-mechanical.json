@@ -1,0 +1,80 @@
+{
+  "slug": "iron-mechanical",
+  "canonical_name": "Iron Mechanical",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 1,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "04/03/2020",
+      "effective_date": "03/23/2020",
+      "state": "CA",
+      "workers": 88,
+      "city": "Sacramento"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2026-02-27",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-26-082855",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001816736&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2022-02-28",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-22-055899",
+        "items": [
+          "2.05",
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities",
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001816736&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2021-10-06",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-21-292589",
+        "items": [
+          "2.05",
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities",
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001816736&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 3,
+    "itemCounts": {
+      "2.05": 3,
+      "5.02": 2
+    },
+    "latestFilingDate": "2026-02-27",
+    "earliestFilingDate": "2021-10-06"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

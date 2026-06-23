@@ -1,0 +1,141 @@
+{
+  "slug": "peabody-energyamendedamendedamendedamendedamendedamended",
+  "canonical_name": "Peabody EnergyAmendedAmendedAmendedAmendedAmendedAmended",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 1,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "IN",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "09/05/2012",
+      "effective_date": "02/28/2013",
+      "state": "IN",
+      "workers": 230,
+      "city": "Vincennes"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "economic-growth-region-11",
+      "name": "Economic Growth Region 11",
+      "state": "IN"
+    }
+  ],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2019-10-30",
+        "formType": "8-K",
+        "accessionNumber": "0001064728-19-000041",
+        "items": [
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001064728&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2015-07-01",
+        "formType": "8-K",
+        "accessionNumber": "0001064728-15-000059",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001064728&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2013-12-09",
+        "formType": "8-K",
+        "accessionNumber": "0001064728-13-000131",
+        "items": [
+          "2.05",
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities",
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001064728&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2009-03-02",
+        "formType": "8-K",
+        "accessionNumber": "0000950152-09-002021",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001064728&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2007-11-09",
+        "formType": "8-K/A",
+        "accessionNumber": "0000950137-07-016944",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001064728&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2007-10-17",
+        "formType": "8-K",
+        "accessionNumber": "0000950137-07-015626",
+        "items": [
+          "2.05",
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities",
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001064728&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 6,
+    "itemCounts": {
+      "2.06": 2,
+      "2.05": 4,
+      "5.02": 2
+    },
+    "latestFilingDate": "2019-10-30",
+    "earliestFilingDate": "2007-10-17"
+  },
+  "bankruptcy_data": {
+    "filings": [
+      {
+        "filingDate": "2017-03-20",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-17-088305",
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001064728&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2016-04-13",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-16-539191",
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001064728&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 2,
+    "latestFilingDate": "2017-03-20",
+    "earliestFilingDate": "2016-04-13"
+  },
+  "source": "warntracker"
+}

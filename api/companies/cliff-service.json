@@ -1,0 +1,45 @@
+{
+  "slug": "cliff-service",
+  "canonical_name": "Cliff Service Inc.,",
+  "fein": "38-4256438",
+  "lca_filing_count": 2,
+  "lca_worker_positions": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 99767.5,
+  "by_fy": [
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 99767.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Data Engineer",
+      "count": 2,
+      "median_wage_usd": 99767.5
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "VA",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 99767.5,
+    "gap_usd": -8252.5
+  }
+}

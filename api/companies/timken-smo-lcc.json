@@ -1,0 +1,75 @@
+{
+  "slug": "timken-smo-lcc",
+  "canonical_name": "Timken SMO LCC",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 1,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "KS",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "01/17/2020",
+      "effective_date": "01/17/2020",
+      "state": "KS",
+      "workers": 30,
+      "city": "5 - Workforce Investment Area V"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2014-09-09",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-14-336190",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000098362&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2014-09-09",
+        "formType": "8-K/A",
+        "accessionNumber": "0001193125-14-336393",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000098362&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2012-05-24",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-12-246143",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000098362&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 3,
+    "itemCounts": {
+      "2.05": 3
+    },
+    "latestFilingDate": "2014-09-09",
+    "earliestFilingDate": "2012-05-24"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

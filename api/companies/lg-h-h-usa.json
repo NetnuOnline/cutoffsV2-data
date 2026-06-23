@@ -1,0 +1,121 @@
+{
+  "slug": "lg-h-h-usa",
+  "canonical_name": "LG H&H USA, Inc.",
+  "fein": "95-4262915",
+  "lca_filing_count": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 80000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 55000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 80000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 97012.4
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 99922.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "E-Commerce Associate",
+      "count": 2,
+      "median_wage_usd": 80000.0
+    },
+    {
+      "title": "Package Engineer",
+      "count": 2,
+      "median_wage_usd": 98467.2
+    },
+    {
+      "title": "Sales & Marketing Specialist ",
+      "count": 1,
+      "median_wage_usd": 55000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 3
+    },
+    {
+      "state": "NJ",
+      "county": "BERGEN",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 4
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 4,
+    "continuing_denials": 0,
+    "total_approvals": 5,
+    "by_fy": [
+      {
+        "fy": 2020,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 5,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1161",
+    "soc_title": "Market Research Analysts and Marketing Specialists",
+    "market_median_usd": 74680.0,
+    "employer_median_usd": 67500.0,
+    "gap_usd": -7180.0
+  }
+}

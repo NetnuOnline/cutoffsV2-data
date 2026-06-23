@@ -1,0 +1,80 @@
+{
+  "slug": "pmr-virginia-holding",
+  "canonical_name": "PMR Virginia Holding, LLC",
+  "fein": "45-1257743",
+  "lca_filing_count": 5,
+  "lca_worker_positions": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 224890.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 122117.0
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 289099.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 224890.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 233413.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 131643.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Center Medical Director",
+      "count": 2,
+      "median_wage_usd": 173503.5
+    },
+    {
+      "title": "Primary Care Physician",
+      "count": 2,
+      "median_wage_usd": 182528.0
+    },
+    {
+      "title": "Medical Director, Cardiovascular Care",
+      "count": 1,
+      "median_wage_usd": 289099.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "VA",
+      "county": "RICHMOND",
+      "count": 2
+    },
+    {
+      "state": "VA",
+      "county": "HENRICO",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "county": "PORTSMOUTH CITY",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "VA",
+      "count": 5
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": []
+}

@@ -1,0 +1,71 @@
+{
+  "slug": "quantumtech",
+  "canonical_name": "Quantumtech Inc",
+  "fein": null,
+  "lca_filing_count": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 88108.5,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 6,
+      "median_wage_usd": 88108.5
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer ",
+      "count": 1,
+      "median_wage_usd": 96866.0
+    },
+    {
+      "title": "Identity & Access management Developer",
+      "count": 1,
+      "median_wage_usd": 69950.0
+    },
+    {
+      "title": "Data Engineer",
+      "count": 1,
+      "median_wage_usd": 88275.0
+    },
+    {
+      "title": "Database Administrator",
+      "count": 1,
+      "median_wage_usd": 87942.0
+    },
+    {
+      "title": "Data Scientist",
+      "count": 1,
+      "median_wage_usd": 88275.0
+    },
+    {
+      "title": "Infrastructure Engineer",
+      "count": 1,
+      "median_wage_usd": 81910.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 6
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 6
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 6,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 88275.0,
+    "gap_usd": -19745.0
+  }
+}

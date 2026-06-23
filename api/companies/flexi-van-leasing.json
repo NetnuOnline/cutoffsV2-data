@@ -1,0 +1,82 @@
+{
+  "slug": "flexi-van-leasing",
+  "canonical_name": "Flexi-Van Leasing, LLC",
+  "fein": "13-1985646",
+  "lca_filing_count": 5,
+  "lca_worker_positions": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 92500.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 105518.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 74155.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 92500.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 144144.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Fleet Administration Supervisor",
+      "count": 1,
+      "median_wage_usd": 66310.0
+    },
+    {
+      "title": "Systems Manager",
+      "count": 1,
+      "median_wage_usd": 144144.0
+    },
+    {
+      "title": "Business Intelligence Analyst",
+      "count": 1,
+      "median_wage_usd": 92500.0
+    },
+    {
+      "title": "Manager, Application Integration",
+      "count": 1,
+      "median_wage_usd": 105518.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 82000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "AZ",
+      "count": 5
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 82000.0,
+    "gap_usd": -48160.0
+  }
+}

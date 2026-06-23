@@ -1,0 +1,43 @@
+{
+  "slug": "harsco-rail",
+  "canonical_name": "Harsco Rail",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "MI",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "04/01/2019",
+      "effective_date": "04/01/2019",
+      "state": "MI",
+      "workers": 151,
+      "city": "Ludington, Michigan"
+    },
+    {
+      "date": "02/01/2019",
+      "effective_date": "02/01/2019",
+      "state": "MI",
+      "workers": 151,
+      "city": "Ludington"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "michigan-works-west-central",
+      "name": "Michigan Works! West Central",
+      "state": "MI"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

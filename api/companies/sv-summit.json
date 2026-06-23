@@ -1,0 +1,70 @@
+{
+  "slug": "sv-summit",
+  "canonical_name": "SV Summit Inc.",
+  "fein": null,
+  "lca_filing_count": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 80000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 83360.0
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 80000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Marketing Analyst",
+      "count": 1,
+      "median_wage_usd": 80000.0
+    },
+    {
+      "title": "HR Specialist",
+      "count": 1,
+      "median_wage_usd": 70000.0
+    },
+    {
+      "title": "Financial Analyst",
+      "count": 1,
+      "median_wage_usd": 96720.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 2
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 2
+    },
+    {
+      "state": "NY",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1161",
+    "soc_title": "Market Research Analysts and Marketing Specialists",
+    "market_median_usd": 74680.0,
+    "employer_median_usd": 80000.0,
+    "gap_usd": 5320.0
+  }
+}

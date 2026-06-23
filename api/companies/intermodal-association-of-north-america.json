@@ -1,0 +1,51 @@
+{
+  "slug": "intermodal-association-of-north-america",
+  "canonical_name": "Intermodal Association of North America",
+  "fein": null,
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 153139.22,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 153139.22
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Technical Support Analyst",
+      "count": 2,
+      "median_wage_usd": 153139.22
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MD",
+      "county": "CALVERT",
+      "count": 1
+    },
+    {
+      "state": "MD",
+      "county": "PRINCE GEORGE'S",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MD",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3021",
+    "soc_title": "Computer and Information Systems Managers",
+    "market_median_usd": 169510.0,
+    "employer_median_usd": 153139.22,
+    "gap_usd": -16370.78
+  }
+}

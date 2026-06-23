@@ -1,0 +1,104 @@
+{
+  "slug": "prabhav-eglobal-services",
+  "canonical_name": "Prabhav eGlobal Services LLC",
+  "fein": "76-0712620",
+  "lca_filing_count": 7,
+  "lca_worker_positions": 7,
+  "warn_notice_count": 0,
+  "median_wage_usd": 80850.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 3,
+      "median_wage_usd": 63710.0
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 88000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 80850.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 126817.59999999999,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "ERP Consultant",
+      "count": 2,
+      "median_wage_usd": 80850.0
+    },
+    {
+      "title": "Field Test Engineer ",
+      "count": 2,
+      "median_wage_usd": 63710.0
+    },
+    {
+      "title": "Quality Engineer ",
+      "count": 1,
+      "median_wage_usd": 72363.0
+    },
+    {
+      "title": "M3 ERP IT project Director",
+      "count": 1,
+      "median_wage_usd": 126817.59999999999
+    },
+    {
+      "title": "Electrical Engineer",
+      "count": 1,
+      "median_wage_usd": 88000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 4
+    },
+    {
+      "state": "DE",
+      "county": "NEW CASTLE",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "county": "RAYNHAM",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 4
+    },
+    {
+      "state": "DE",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 80850.0,
+    "gap_usd": -49310.0
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "energizer",
+  "canonical_name": "Energizer",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 3,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "IN",
+      "count": 1
+    },
+    {
+      "state": "WI",
+      "count": 1
+    },
+    {
+      "state": "VT",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "01/22/2024",
+      "effective_date": "04/01/2024",
+      "state": "IN",
+      "workers": 64,
+      "city": "Franklin"
+    },
+    {
+      "date": "01/05/2024",
+      "effective_date": "03/05/2024",
+      "state": "WI",
+      "workers": 135,
+      "city": "Portage"
+    },
+    {
+      "date": "03/18/2013",
+      "effective_date": "03/18/2013",
+      "state": "VT",
+      "workers": 123,
+      "city": "00 - Vermont Workforce Investment Area"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "economic-growth-region-5",
+      "name": "Economic Growth Region 5",
+      "state": "IN"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

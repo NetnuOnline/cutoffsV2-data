@@ -1,0 +1,65 @@
+{
+  "slug": "delphi",
+  "canonical_name": "Delphi, Inc",
+  "fein": "88-4268858",
+  "lca_filing_count": 1,
+  "warn_notice_count": 2,
+  "median_wage_usd": 180000.0,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 180000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Applied AI Engineer",
+      "count": 1,
+      "median_wage_usd": 180000.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "02/28/2007",
+      "effective_date": "02/28/2007",
+      "state": "GA",
+      "workers": 240,
+      "city": "Fitzgerald"
+    },
+    {
+      "date": "08/12/1992",
+      "effective_date": "08/12/1992",
+      "state": "GA",
+      "workers": 70,
+      "city": "Dunwoody"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "south-georgia-wib",
+      "name": "South Georgia WIB",
+      "state": "GA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "lca_worker_positions": 1,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 180000.0,
+    "gap_usd": 49840.0
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "slug": "moose-toys",
+  "canonical_name": "Moose Toys LLC",
+  "fein": "82-4978423",
+  "lca_filing_count": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 160331.02,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 216653.0
+    },
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 143953.5
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 132755.04
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Business Data Analyst",
+      "count": 1,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "title": "Senior Manager, US Analytics",
+      "count": 1,
+      "median_wage_usd": 132755.04
+    },
+    {
+      "title": "SVP Business Development & Marketing Strategy",
+      "count": 1,
+      "median_wage_usd": 216653.0
+    },
+    {
+      "title": "Business Development Manager",
+      "count": 1,
+      "median_wage_usd": 187907.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 3
+    },
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 4
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-2021",
+    "soc_title": "Marketing Managers",
+    "market_median_usd": 157620.0,
+    "employer_median_usd": 202280.0,
+    "gap_usd": 44660.0
+  }
+}

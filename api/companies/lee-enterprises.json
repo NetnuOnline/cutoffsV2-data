@@ -1,0 +1,111 @@
+{
+  "slug": "lee-enterprises",
+  "canonical_name": "Lee Enterprises",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "WI",
+      "count": 1
+    },
+    {
+      "state": "IN",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "06/17/2019",
+      "effective_date": "08/10/2019",
+      "state": "WI",
+      "workers": 20,
+      "city": "La Crosse"
+    },
+    {
+      "date": "01/29/2018",
+      "effective_date": "03/30/2018",
+      "state": "IN",
+      "workers": 93,
+      "city": "Crown Point and Munster"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "western-wda",
+      "name": "Western WDA",
+      "state": "WI"
+    }
+  ],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2024-07-18",
+        "formType": "8-K",
+        "accessionNumber": "0001628280-24-032177",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000058361&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2014-04-04",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-14-131853",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000058361&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2005-11-07",
+        "formType": "8-K",
+        "accessionNumber": "0001183010-05-000069",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000058361&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 3,
+    "itemCounts": {
+      "5.02": 2,
+      "2.05": 1
+    },
+    "latestFilingDate": "2024-07-18",
+    "earliestFilingDate": "2005-11-07"
+  },
+  "bankruptcy_data": {
+    "filings": [
+      {
+        "filingDate": "2012-01-26",
+        "formType": "8-K",
+        "accessionNumber": "0000058361-12-000007",
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000058361&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2011-12-12",
+        "formType": "8-K",
+        "accessionNumber": "0001183010-11-000033",
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000058361&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 2,
+    "latestFilingDate": "2012-01-26",
+    "earliestFilingDate": "2011-12-12"
+  },
+  "source": "warntracker"
+}

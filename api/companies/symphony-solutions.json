@@ -1,0 +1,70 @@
+{
+  "slug": "symphony-solutions",
+  "canonical_name": "Symphony Solutions Inc",
+  "fein": "88-1124622",
+  "lca_filing_count": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 83605.6,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 85092.79999999999
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 82118.4
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Quality Assurance Analyst",
+      "count": 2,
+      "median_wage_usd": 87152.0
+    },
+    {
+      "title": "Systems Architect (Datawarehouse)",
+      "count": 1,
+      "median_wage_usd": 81120.0
+    },
+    {
+      "title": "Computer Systems Engineer",
+      "count": 1,
+      "median_wage_usd": 82118.4
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MN",
+      "county": "HENNEPIN",
+      "count": 3
+    },
+    {
+      "state": "OH",
+      "county": "CUYAHOGA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MN",
+      "count": 3
+    },
+    {
+      "state": "OH",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1253",
+    "soc_title": "Software Quality Assurance Analysts and Testers",
+    "market_median_usd": 101800.0,
+    "employer_median_usd": 87152.0,
+    "gap_usd": -14648.0
+  }
+}

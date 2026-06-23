@@ -1,0 +1,43 @@
+{
+  "slug": "mcdonalds-restaurant-of-california",
+  "canonical_name": "McDonald's Restaurant of California, Inc.",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "04/04/2025",
+      "effective_date": "06/09/2025",
+      "state": "CA",
+      "workers": 67,
+      "city": "Santa Monica"
+    },
+    {
+      "date": "04/03/2025",
+      "effective_date": "06/09/2025",
+      "state": "CA",
+      "workers": 105,
+      "city": "Fresno"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "fresno-county-wib",
+      "name": "Fresno County WIB",
+      "state": "CA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

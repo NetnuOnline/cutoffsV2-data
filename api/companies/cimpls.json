@@ -1,0 +1,43 @@
+{
+  "slug": "cimpls",
+  "canonical_name": "Cimpl's LLC",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "SD",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "05/30/2025",
+      "effective_date": "05/30/2025",
+      "state": "SD",
+      "workers": 36,
+      "city": "Yankton"
+    },
+    {
+      "date": "03/17/2025",
+      "effective_date": "03/17/2025",
+      "state": "SD",
+      "workers": 277,
+      "city": "Yankton"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "east-area-wib",
+      "name": "East Area WIB",
+      "state": "SD"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

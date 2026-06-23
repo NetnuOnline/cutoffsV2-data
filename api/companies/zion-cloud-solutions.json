@@ -1,0 +1,101 @@
+{
+  "slug": "zion-cloud-solutions",
+  "canonical_name": "Zion Cloud Solutions LLC",
+  "fein": "81-2233356",
+  "lca_filing_count": 12,
+  "lca_worker_positions": 12,
+  "warn_notice_count": 0,
+  "median_wage_usd": 117811.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 91853.0
+    },
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 6,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 121815.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Power Platform Developer",
+      "count": 4,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Middleware Engineer/Administrator",
+      "count": 3,
+      "median_wage_usd": 112923.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 1,
+      "median_wage_usd": 130707.0
+    },
+    {
+      "title": "Middleware Engineer / Administrator",
+      "count": 1,
+      "median_wage_usd": 91853.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 122699.0
+    },
+    {
+      "title": "Azure Administrator",
+      "count": 1,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "Business Analyst",
+      "count": 1,
+      "median_wage_usd": 80000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 3
+    },
+    {
+      "state": "IL",
+      "county": "SANGAMON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 9
+    },
+    {
+      "state": "TX",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 130000.0,
+    "gap_usd": -160.0
+  }
+}

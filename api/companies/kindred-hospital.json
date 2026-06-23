@@ -1,0 +1,134 @@
+{
+  "slug": "kindred-hospital",
+  "canonical_name": "Kindred Hospital",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 11,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "IN",
+      "count": 2
+    },
+    {
+      "state": "FL",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "count": 1
+    },
+    {
+      "state": "OH",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "count": 1
+    },
+    {
+      "state": "LA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "02/27/2025",
+      "effective_date": "04/30/2025",
+      "state": "FL",
+      "workers": 143,
+      "city": "TAMPA"
+    },
+    {
+      "date": "02/10/2025",
+      "effective_date": "03/19/2025",
+      "state": "IL",
+      "workers": 74,
+      "city": "Chicago"
+    },
+    {
+      "date": "02/10/2025",
+      "effective_date": "03/19/2025",
+      "state": "IL",
+      "workers": 83,
+      "city": "Sycamore"
+    },
+    {
+      "date": "04/15/2021",
+      "effective_date": "06/14/2021",
+      "state": "TX",
+      "workers": 156,
+      "city": "Mansfield"
+    },
+    {
+      "date": "01/15/2020",
+      "effective_date": "03/17/2020",
+      "state": "TX",
+      "workers": 160,
+      "city": "Houston"
+    },
+    {
+      "date": "06/13/2019",
+      "effective_date": "08/09/2019",
+      "state": "WA",
+      "workers": 166,
+      "city": "Seattle"
+    },
+    {
+      "date": "07/31/2018",
+      "effective_date": "09/29/2018",
+      "state": "IN",
+      "workers": 117,
+      "city": "Mishawaka"
+    },
+    {
+      "date": "09/08/2017",
+      "effective_date": "11/07/2017",
+      "state": "IN",
+      "workers": 86,
+      "city": "Greenwood"
+    },
+    {
+      "date": "07/27/2017",
+      "effective_date": "09/30/2017",
+      "state": "OH",
+      "workers": 111,
+      "city": "Mansfield/Richland"
+    },
+    {
+      "date": "07/20/2017",
+      "effective_date": "07/20/2017",
+      "state": "MI",
+      "workers": 145,
+      "city": "Detroit"
+    },
+    {
+      "date": "09/07/2012",
+      "effective_date": "11/09/2012",
+      "state": "LA",
+      "workers": 122,
+      "city": "Marrero"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "jefferson-parish-wia",
+      "name": "Jefferson Parish WIA",
+      "state": "LA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

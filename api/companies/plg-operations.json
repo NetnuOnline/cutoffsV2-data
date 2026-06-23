@@ -1,0 +1,116 @@
+{
+  "slug": "plg-operations",
+  "canonical_name": "PLG Operations, LLC",
+  "fein": "87-3288399",
+  "lca_filing_count": 9,
+  "warn_notice_count": 0,
+  "median_wage_usd": 190000.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 3,
+      "median_wage_usd": 165000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 243087.0
+    },
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 190000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Developer Relations Engineer",
+      "count": 3,
+      "median_wage_usd": 165000.0
+    },
+    {
+      "title": "Data Governance",
+      "count": 2,
+      "median_wage_usd": 220000.0
+    },
+    {
+      "title": "Governance and Standards Lead",
+      "count": 2,
+      "median_wage_usd": 243087.0
+    },
+    {
+      "title": "Startup Operator",
+      "count": 1,
+      "median_wage_usd": 190000.0
+    },
+    {
+      "title": "Social Media Lead",
+      "count": 1,
+      "median_wage_usd": 155000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NJ",
+      "county": "MERCER",
+      "count": 4
+    },
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 3
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "county": "KINGS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 4
+    },
+    {
+      "state": "CA",
+      "count": 3
+    },
+    {
+      "state": "NY",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 1,
+    "continuing_denials": 0,
+    "total_approvals": 2,
+    "by_fy": [
+      {
+        "fy": 2023,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      }
+    ]
+  },
+  "lca_worker_positions": 8,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Information Technology Project Managers",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 231543.5,
+    "gap_usd": 113543.5
+  }
+}

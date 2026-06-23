@@ -1,0 +1,159 @@
+{
+  "slug": "hach-company",
+  "canonical_name": "Hach Company",
+  "fein": "42-0704420",
+  "lca_filing_count": 13,
+  "lca_worker_positions": 13,
+  "warn_notice_count": 0,
+  "median_wage_usd": 130207.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 127802.0
+    },
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 130207.0
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 151424.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 126944.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 130197.935,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Manager, Business Systems",
+      "count": 2,
+      "median_wage_usd": 137695.97999999998
+    },
+    {
+      "title": "Sr. Business Systems Analyst",
+      "count": 2,
+      "median_wage_usd": 126944.0
+    },
+    {
+      "title": "Engineer Sr, Firmware",
+      "count": 2,
+      "median_wage_usd": 130207.0
+    },
+    {
+      "title": "Global Product Mgr, Digital and Connectivity Business Unit",
+      "count": 1,
+      "median_wage_usd": 151424.0
+    },
+    {
+      "title": "Senior Business Systems Analyst",
+      "count": 1,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "title": "DBS Leader",
+      "count": 1,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "Global Data Analyst",
+      "count": 1,
+      "median_wage_usd": 73950.0
+    },
+    {
+      "title": "Data Architect",
+      "count": 1,
+      "median_wage_usd": 106810.28
+    },
+    {
+      "title": "Senior Director Global FP&A",
+      "count": 1,
+      "median_wage_usd": 280000.0
+    },
+    {
+      "title": "Supplier Development Manager",
+      "count": 1,
+      "median_wage_usd": 133451.87
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CO",
+      "county": "LARIMER",
+      "count": 5
+    },
+    {
+      "state": "CO",
+      "county": "JEFFERSON",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "ORANGE",
+      "count": 1
+    },
+    {
+      "state": "CO",
+      "county": "ARAPAHOE",
+      "count": 1
+    },
+    {
+      "state": "IA",
+      "county": "STORY",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "county": "MONTGOMERY",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CO",
+      "count": 10
+    },
+    {
+      "state": "PA",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "IA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 126944.0,
+    "gap_usd": -3216.0
+  }
+}

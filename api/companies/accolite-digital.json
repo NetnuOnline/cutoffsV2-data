@@ -1,0 +1,194 @@
+{
+  "slug": "accolite-digital",
+  "canonical_name": "Accolite Digital LLC",
+  "fein": "85-4113831",
+  "lca_filing_count": 26,
+  "warn_notice_count": 0,
+  "median_wage_usd": 114400.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 8,
+      "median_wage_usd": 118900.0
+    },
+    {
+      "fy": 2022,
+      "filings": 9,
+      "median_wage_usd": 114400.0
+    },
+    {
+      "fy": 2023,
+      "filings": 5,
+      "median_wage_usd": 101192.0
+    },
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 108337.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Sr. Enterprise Architect",
+      "count": 3,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Sr. Software Developer",
+      "count": 3,
+      "median_wage_usd": 115482.0
+    },
+    {
+      "title": "Enterprise Architect",
+      "count": 3,
+      "median_wage_usd": 78562.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 2,
+      "median_wage_usd": 162500.0
+    },
+    {
+      "title": "Sr. Software Engineer",
+      "count": 2,
+      "median_wage_usd": 100630.5
+    },
+    {
+      "title": "Director - Technical Delivery",
+      "count": 2,
+      "median_wage_usd": 182000.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 2,
+      "median_wage_usd": 119166.5
+    },
+    {
+      "title": "Java Developer",
+      "count": 1,
+      "median_wage_usd": 81058.0
+    },
+    {
+      "title": "Principal Software Engineer",
+      "count": 1,
+      "median_wage_usd": 95000.0
+    },
+    {
+      "title": "Computer Systems Analyst",
+      "count": 1,
+      "median_wage_usd": 112000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 7
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 4
+    },
+    {
+      "state": "DE",
+      "county": "NEW CASTLE",
+      "count": 4
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 4
+    },
+    {
+      "state": "TN",
+      "county": "SHELBY",
+      "count": 3
+    },
+    {
+      "state": "LA",
+      "county": "OUACHITA",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 1
+    },
+    {
+      "state": "WI",
+      "county": "DANE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 12
+    },
+    {
+      "state": "WA",
+      "count": 4
+    },
+    {
+      "state": "DE",
+      "count": 4
+    },
+    {
+      "state": "TN",
+      "count": 3
+    },
+    {
+      "state": "LA",
+      "count": 2
+    },
+    {
+      "state": "WI",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 12,
+    "initial_denials": 0,
+    "continuing_approvals": 15,
+    "continuing_denials": 0,
+    "total_approvals": 27,
+    "by_fy": [
+      {
+        "fy": 2021,
+        "initial_approvals": 4,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 6
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 7,
+        "initial_denials": 0,
+        "continuing_approvals": 8,
+        "continuing_denials": 0,
+        "total_approvals": 15
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 5,
+        "continuing_denials": 0,
+        "total_approvals": 6
+      }
+    ]
+  },
+  "lca_worker_positions": 25,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 114400.0,
+    "gap_usd": -15760.0
+  }
+}

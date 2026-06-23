@@ -1,0 +1,151 @@
+{
+  "slug": "rli-insurance-company",
+  "canonical_name": "RLI Insurance Company",
+  "fein": "37-0915434",
+  "lca_filing_count": 17,
+  "lca_worker_positions": 17,
+  "warn_notice_count": 0,
+  "median_wage_usd": 133457.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 85000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 175651.0
+    },
+    {
+      "fy": 2023,
+      "filings": 6,
+      "median_wage_usd": 118500.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 158168.315
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 131239.5
+    },
+    {
+      "fy": 2026,
+      "filings": 5,
+      "median_wage_usd": 148163.75,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Sr. QA Engineer",
+      "count": 4,
+      "median_wage_usd": 124511.0
+    },
+    {
+      "title": "Sr. Software Engineer",
+      "count": 4,
+      "median_wage_usd": 136243.065
+    },
+    {
+      "title": "Enterprise Architect",
+      "count": 3,
+      "median_wage_usd": 194184.46
+    },
+    {
+      "title": "Lead Software Engineer",
+      "count": 2,
+      "median_wage_usd": 146211.9
+    },
+    {
+      "title": "QA Engineer",
+      "count": 1,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "title": "Senior Quality Assurance Analyst",
+      "count": 1,
+      "median_wage_usd": 85000.0
+    },
+    {
+      "title": "Lead Quality Assurance Analyst",
+      "count": 1,
+      "median_wage_usd": 133457.0
+    },
+    {
+      "title": "Lead QA Engineer",
+      "count": 1,
+      "median_wage_usd": 122152.17
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IL",
+      "county": "PEORIA",
+      "count": 5
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 2
+    },
+    {
+      "state": "SC",
+      "county": "RICHLAND",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "county": "ONEIDA",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SAN JOAQUIN",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 7
+    },
+    {
+      "state": "TX",
+      "count": 3
+    },
+    {
+      "state": "CA",
+      "count": 2
+    },
+    {
+      "state": "SC",
+      "count": 2
+    },
+    {
+      "state": "NY",
+      "count": 1
+    },
+    {
+      "state": "KY",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1253",
+    "soc_title": "Software Quality Assurance Analysts and Testers",
+    "market_median_usd": 101800.0,
+    "employer_median_usd": 122152.17,
+    "gap_usd": 20352.17
+  }
+}

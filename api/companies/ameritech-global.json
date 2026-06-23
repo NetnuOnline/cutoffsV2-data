@@ -1,0 +1,203 @@
+{
+  "slug": "ameritech-global",
+  "canonical_name": "AMERITECH GLOBAL, INC.",
+  "fein": "26-0903674",
+  "lca_filing_count": 35,
+  "lca_worker_positions": 34,
+  "warn_notice_count": 0,
+  "median_wage_usd": 98301.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 5,
+      "median_wage_usd": 97406.0
+    },
+    {
+      "fy": 2021,
+      "filings": 3,
+      "median_wage_usd": 87838.0
+    },
+    {
+      "fy": 2022,
+      "filings": 7,
+      "median_wage_usd": 92290.0
+    },
+    {
+      "fy": 2023,
+      "filings": 4,
+      "median_wage_usd": 99150.5
+    },
+    {
+      "fy": 2024,
+      "filings": 5,
+      "median_wage_usd": 97157.0
+    },
+    {
+      "fy": 2025,
+      "filings": 4,
+      "median_wage_usd": 105060.5
+    },
+    {
+      "fy": 2026,
+      "filings": 6,
+      "median_wage_usd": 99289.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SOFTWARE DEVELOPER",
+      "count": 9,
+      "median_wage_usd": 100838.0
+    },
+    {
+      "title": "DEVOPS ENGINEER",
+      "count": 3,
+      "median_wage_usd": 85467.0
+    },
+    {
+      "title": "QA ANALYST",
+      "count": 2,
+      "median_wage_usd": 70762.0
+    },
+    {
+      "title": "JAVA DEVELOPER",
+      "count": 2,
+      "median_wage_usd": 100097.0
+    },
+    {
+      "title": "SOFTWARE DEVELOPER / GREENPLUM ADMIN",
+      "count": 2,
+      "median_wage_usd": 95087.5
+    },
+    {
+      "title": "SR. SOFTWARE ARCHITECT ",
+      "count": 1,
+      "median_wage_usd": 114067.0
+    },
+    {
+      "title": "QA ENGINEER",
+      "count": 1,
+      "median_wage_usd": 86611.0
+    },
+    {
+      "title": "DATA ENGINEER",
+      "count": 1,
+      "median_wage_usd": 108826.0
+    },
+    {
+      "title": "CLOUD SECURITY ARCHITECT",
+      "count": 1,
+      "median_wage_usd": 97406.0
+    },
+    {
+      "title": "SAS DEVELOPER",
+      "count": 1,
+      "median_wage_usd": 99029.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IL",
+      "county": "DUPAGE",
+      "count": 5
+    },
+    {
+      "state": "MN",
+      "county": "HENNEPIN",
+      "count": 3
+    },
+    {
+      "state": "MO",
+      "county": "ST LOUIS",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "county": "MERCER",
+      "count": 2
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "ORANGE",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "county": "BOSTON CITY",
+      "count": 1
+    },
+    {
+      "state": "WI",
+      "county": "DANE",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 7
+    },
+    {
+      "state": "TX",
+      "count": 6
+    },
+    {
+      "state": "MN",
+      "count": 4
+    },
+    {
+      "state": "GA",
+      "count": 3
+    },
+    {
+      "state": "NJ",
+      "count": 3
+    },
+    {
+      "state": "MA",
+      "count": 2
+    },
+    {
+      "state": "PA",
+      "count": 2
+    },
+    {
+      "state": "MO",
+      "count": 2
+    },
+    {
+      "state": "WI",
+      "count": 1
+    },
+    {
+      "state": "OH",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 103210.0,
+    "gap_usd": -26950.0
+  }
+}

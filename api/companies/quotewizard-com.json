@@ -1,0 +1,124 @@
+{
+  "slug": "quotewizard-com",
+  "canonical_name": "QuoteWizard.com, LLC",
+  "fein": "20-8980555",
+  "lca_filing_count": 9,
+  "lca_worker_positions": 9,
+  "warn_notice_count": 0,
+  "median_wage_usd": 118893.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 90418.0
+    },
+    {
+      "fy": 2021,
+      "filings": 3,
+      "median_wage_usd": 119350.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 116844.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 110864.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 146255.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Data Engineer",
+      "count": 2,
+      "median_wage_usd": 128877.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 1,
+      "median_wage_usd": 173618.0
+    },
+    {
+      "title": "DIGITAL PRODUCT ANALYST",
+      "count": 1,
+      "median_wage_usd": 90418.0
+    },
+    {
+      "title": "Data Scientist",
+      "count": 1,
+      "median_wage_usd": 110864.0
+    },
+    {
+      "title": "Software Engineer II",
+      "count": 1,
+      "median_wage_usd": 119350.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 94827.0
+    },
+    {
+      "title": "Senior Data Engineer",
+      "count": 1,
+      "median_wage_usd": 119475.0
+    },
+    {
+      "title": "Senior Paid Research Analyst",
+      "count": 1,
+      "median_wage_usd": 75566.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 5
+    },
+    {
+      "state": "CO",
+      "county": "DENVER",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SAN DIEGO",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "WA",
+      "count": 5
+    },
+    {
+      "state": "CA",
+      "count": 2
+    },
+    {
+      "state": "CO",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 110864.0,
+    "gap_usd": 2844.0
+  }
+}

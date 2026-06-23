@@ -1,0 +1,203 @@
+{
+  "slug": "i5-tech",
+  "canonical_name": "i5 TECH INC",
+  "fein": "47-1831857",
+  "lca_filing_count": 109,
+  "lca_worker_positions": 109,
+  "warn_notice_count": 0,
+  "median_wage_usd": 100600.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 37,
+      "median_wage_usd": 95000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 14,
+      "median_wage_usd": 97900.0
+    },
+    {
+      "fy": 2022,
+      "filings": 15,
+      "median_wage_usd": 101400.0
+    },
+    {
+      "fy": 2023,
+      "filings": 20,
+      "median_wage_usd": 102750.0
+    },
+    {
+      "fy": 2024,
+      "filings": 12,
+      "median_wage_usd": 112350.0
+    },
+    {
+      "fy": 2025,
+      "filings": 8,
+      "median_wage_usd": 112750.0
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 132000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SOFTWARE ENGINEER",
+      "count": 7,
+      "median_wage_usd": 96500.0
+    },
+    {
+      "title": "AEM Developer",
+      "count": 4,
+      "median_wage_usd": 99550.0
+    },
+    {
+      "title": "Application Developer",
+      "count": 4,
+      "median_wage_usd": 103450.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 4,
+      "median_wage_usd": 105750.0
+    },
+    {
+      "title": "Network Engineer",
+      "count": 3,
+      "median_wage_usd": 70000.0
+    },
+    {
+      "title": "MDM Developer",
+      "count": 3,
+      "median_wage_usd": 108000.0
+    },
+    {
+      "title": "Database Administrator / Project Manager",
+      "count": 3,
+      "median_wage_usd": 110300.0
+    },
+    {
+      "title": "SOFTWARE DEVELOPER",
+      "count": 3,
+      "median_wage_usd": 102000.0
+    },
+    {
+      "title": "Java Developer",
+      "count": 3,
+      "median_wage_usd": 90200.0
+    },
+    {
+      "title": "NETWORK ENGINEER",
+      "count": 3,
+      "median_wage_usd": 106000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 7
+    },
+    {
+      "state": "NC",
+      "county": "WAKE",
+      "count": 4
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 4
+    },
+    {
+      "state": "MD",
+      "county": "MONTGOMERY",
+      "count": 4
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 4
+    },
+    {
+      "state": "NJ",
+      "county": "MERCER",
+      "count": 4
+    },
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 3
+    },
+    {
+      "state": "OK",
+      "county": "TULSA",
+      "count": 3
+    },
+    {
+      "state": "NY",
+      "county": "WESTCHESTER",
+      "count": 3
+    },
+    {
+      "state": "CA",
+      "county": "ORANGE",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 18
+    },
+    {
+      "state": "CA",
+      "count": 9
+    },
+    {
+      "state": "MD",
+      "count": 9
+    },
+    {
+      "state": "NJ",
+      "count": 9
+    },
+    {
+      "state": "NY",
+      "count": 8
+    },
+    {
+      "state": "VA",
+      "count": 7
+    },
+    {
+      "state": "NC",
+      "count": 6
+    },
+    {
+      "state": "PA",
+      "count": 6
+    },
+    {
+      "state": "OH",
+      "count": 5
+    },
+    {
+      "state": "CO",
+      "count": 4
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 108000.0,
+    "gap_usd": -22160.0
+  }
+}

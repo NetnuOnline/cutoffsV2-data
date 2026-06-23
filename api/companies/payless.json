@@ -1,0 +1,59 @@
+{
+  "slug": "payless",
+  "canonical_name": "Payless",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 3,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "NE",
+      "count": 2
+    },
+    {
+      "state": "ME",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "05/31/2019",
+      "effective_date": "05/31/2019",
+      "state": "NE",
+      "workers": 2,
+      "city": "Scottsbluff"
+    },
+    {
+      "date": "04/19/2019",
+      "effective_date": "04/19/2019",
+      "state": "NE",
+      "workers": 5,
+      "city": "North Platte"
+    },
+    {
+      "date": "04/10/2017",
+      "effective_date": "04/10/2017",
+      "state": "ME",
+      "workers": 4,
+      "city": "4 - Coastal Counties Local Area 4"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "mid-plains-economic-region",
+      "name": "Mid Plains Economic Region",
+      "state": "NE"
+    },
+    {
+      "slug": "panhandle-economic-region",
+      "name": "Panhandle Economic Region",
+      "state": "NE"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

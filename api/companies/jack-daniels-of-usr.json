@@ -1,0 +1,79 @@
+{
+  "slug": "jack-daniels-of-usr",
+  "canonical_name": "JACK DANIELS OF USR",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 1,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "03/26/2020",
+      "effective_date": "03/26/2020",
+      "state": "NJ",
+      "workers": 26,
+      "city": "UPPER SADDLE RIVER"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2013-06-17",
+        "formType": "8-K",
+        "accessionNumber": "0001157523-13-003088",
+        "items": [
+          "2.05",
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities",
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000807882&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2010-09-29",
+        "formType": "8-K",
+        "accessionNumber": "0001157523-10-005657",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000807882&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2005-09-22",
+        "formType": "8-K/A",
+        "accessionNumber": "0001157523-05-008298",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000807882&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 3,
+    "itemCounts": {
+      "2.05": 2,
+      "2.06": 1,
+      "5.02": 1
+    },
+    "latestFilingDate": "2013-06-17",
+    "earliestFilingDate": "2005-09-22"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "the-step2-company",
+  "canonical_name": "The Step2 Company, LLC",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "02/16/2022",
+      "effective_date": "02/16/2022",
+      "state": "GA",
+      "workers": 162,
+      "city": "Decatur"
+    },
+    {
+      "date": "01/05/2010",
+      "effective_date": "01/05/2010",
+      "state": "GA",
+      "workers": 102,
+      "city": "Fort Valley"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "dekalb-county-wib",
+      "name": "DeKalb County WIB",
+      "state": "GA"
+    },
+    {
+      "slug": "middle-georgia-wib",
+      "name": "Middle Georgia WIB",
+      "state": "GA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 1,
+    "continuing_denials": 0,
+    "total_approvals": 1,
+    "by_fy": [
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  }
+}

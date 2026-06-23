@@ -1,0 +1,44 @@
+{
+  "slug": "suntrust",
+  "canonical_name": "Suntrust",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 3,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 3
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "06/25/2008",
+      "effective_date": "06/25/2008",
+      "state": "GA",
+      "workers": 60,
+      "city": "Gainesville"
+    },
+    {
+      "date": "10/03/2007",
+      "effective_date": "10/03/2007",
+      "state": "GA",
+      "workers": 300,
+      "city": "Atlanta"
+    },
+    {
+      "date": "04/11/2005",
+      "effective_date": "04/11/2005",
+      "state": "GA",
+      "workers": 122,
+      "city": "Atlanta"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

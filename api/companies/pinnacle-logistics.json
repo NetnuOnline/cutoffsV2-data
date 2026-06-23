@@ -1,0 +1,77 @@
+{
+  "slug": "pinnacle-logistics",
+  "canonical_name": "Pinnacle Logistics",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 5,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "RI",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "03/27/2020",
+      "effective_date": "03/28/2020",
+      "state": "TX",
+      "workers": 134,
+      "city": "Dallas"
+    },
+    {
+      "date": "01/15/2020",
+      "effective_date": "05/01/2020",
+      "state": "IL",
+      "workers": 1416,
+      "city": "Rockford"
+    },
+    {
+      "date": "09/19/2018",
+      "effective_date": "07/31/2018",
+      "state": "RI",
+      "workers": 149,
+      "city": "North Kingstown"
+    },
+    {
+      "date": "07/31/2018",
+      "effective_date": "07/31/2018",
+      "state": "RI",
+      "workers": 149,
+      "city": "North Kingstown"
+    },
+    {
+      "date": "04/30/2001",
+      "effective_date": "07/06/2001",
+      "state": "TX",
+      "workers": 198,
+      "city": "El Paso"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "northern-il-workforce-alliance",
+      "name": "Northern IL Workforce Alliance",
+      "state": "IL"
+    },
+    {
+      "slug": "workforce-partnership-of-greater-rhode-island",
+      "name": "Workforce Partnership of Greater Rhode Island",
+      "state": "RI"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

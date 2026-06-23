@@ -1,0 +1,66 @@
+{
+  "slug": "hutchinson-technology",
+  "canonical_name": "Hutchinson Technology Inc.",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 4,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "WI",
+      "count": 3
+    },
+    {
+      "state": "SD",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "02/05/2024",
+      "effective_date": "04/05/2024",
+      "state": "WI",
+      "workers": 90,
+      "city": "Eau Claire"
+    },
+    {
+      "date": "05/05/2023",
+      "effective_date": "05/05/2023",
+      "state": "WI",
+      "workers": 237,
+      "city": "Eau Claire"
+    },
+    {
+      "date": "04/21/2020",
+      "effective_date": "05/28/2020",
+      "state": "WI",
+      "workers": 110,
+      "city": "Eau Claire"
+    },
+    {
+      "date": "01/08/2009",
+      "effective_date": "01/08/2009",
+      "state": "SD",
+      "workers": 275,
+      "city": "Sioux Falls"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "sioux-falls-msa-wib",
+      "name": "Sioux Falls MSA WIB",
+      "state": "SD"
+    },
+    {
+      "slug": "west-central-wda-wi",
+      "name": "West Central WDA",
+      "state": "WI"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

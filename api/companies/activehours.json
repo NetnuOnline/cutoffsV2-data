@@ -1,0 +1,136 @@
+{
+  "slug": "activehours",
+  "canonical_name": "Activehours, Inc.",
+  "fein": "46-2925567",
+  "lca_filing_count": 53,
+  "lca_worker_positions": 53,
+  "warn_notice_count": 0,
+  "median_wage_usd": 184662.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 5,
+      "median_wage_usd": 145725.0
+    },
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 176457.0
+    },
+    {
+      "fy": 2022,
+      "filings": 8,
+      "median_wage_usd": 184465.0
+    },
+    {
+      "fy": 2023,
+      "filings": 10,
+      "median_wage_usd": 183986.0
+    },
+    {
+      "fy": 2024,
+      "filings": 9,
+      "median_wage_usd": 211536.0
+    },
+    {
+      "fy": 2025,
+      "filings": 14,
+      "median_wage_usd": 209539.5
+    },
+    {
+      "fy": 2026,
+      "filings": 5,
+      "median_wage_usd": 226138.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Software Engineer",
+      "count": 7,
+      "median_wage_usd": 192941.0
+    },
+    {
+      "title": "Senior Machine Learning Engineer",
+      "count": 4,
+      "median_wage_usd": 211318.0
+    },
+    {
+      "title": "Staff Software Engineer",
+      "count": 3,
+      "median_wage_usd": 264514.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 2,
+      "median_wage_usd": 178505.5
+    },
+    {
+      "title": "Analytics Engineer",
+      "count": 2,
+      "median_wage_usd": 140993.0
+    },
+    {
+      "title": "Business Intelligence Engineer",
+      "count": 2,
+      "median_wage_usd": 130416.0
+    },
+    {
+      "title": "Senior Product Manager",
+      "count": 2,
+      "median_wage_usd": 180357.0
+    },
+    {
+      "title": "Sr. Machine Learning Engineer",
+      "count": 2,
+      "median_wage_usd": 226138.0
+    },
+    {
+      "title": "Staff Risk Analytics",
+      "count": 1,
+      "median_wage_usd": 170186.0
+    },
+    {
+      "title": "Engineering Manager",
+      "count": 1,
+      "median_wage_usd": 274206.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 36
+    },
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 51
+    },
+    {
+      "state": "TX",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 226138.0,
+    "gap_usd": 95978.0
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "kla-tencor-corporation",
+  "canonical_name": "KLA-Tencor Corporation",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 1,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "06/30/2015",
+      "effective_date": "09/15/2015",
+      "state": "CA",
+      "workers": 213,
+      "city": "Milpitas"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2015-06-26",
+        "formType": "8-K/A",
+        "accessionNumber": "0000319201-15-000038",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000319201&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2015-04-16",
+        "formType": "8-K",
+        "accessionNumber": "0000319201-15-000022",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000319201&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2009-03-30",
+        "formType": "8-K",
+        "accessionNumber": "0001181431-09-017691",
+        "items": [
+          "2.05",
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities",
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000319201&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2008-11-18",
+        "formType": "8-K",
+        "accessionNumber": "0001181431-08-062619",
+        "items": [
+          "2.05",
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities",
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000319201&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2006-10-18",
+        "formType": "8-K",
+        "accessionNumber": "0000891618-06-000417",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000319201&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2006-05-11",
+        "formType": "8-K",
+        "accessionNumber": "0000891618-06-000212",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000319201&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2005-07-28",
+        "formType": "8-K",
+        "accessionNumber": "0000891618-05-000535",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000319201&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 7,
+    "itemCounts": {
+      "2.05": 3,
+      "5.02": 6
+    },
+    "latestFilingDate": "2015-06-26",
+    "earliestFilingDate": "2005-07-28"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

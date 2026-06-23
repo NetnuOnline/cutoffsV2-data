@@ -1,0 +1,65 @@
+{
+  "slug": "york-international-corporation",
+  "canonical_name": "York International Corporation",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 4,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "MD",
+      "count": 1
+    },
+    {
+      "state": "OR",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "09/05/2025",
+      "effective_date": "11/14/2025",
+      "state": "MD",
+      "workers": 54,
+      "city": "Rosedale"
+    },
+    {
+      "date": "02/21/2002",
+      "effective_date": "03/08/2002",
+      "state": "TX",
+      "workers": 47,
+      "city": "San Antonio"
+    },
+    {
+      "date": "01/17/2001",
+      "effective_date": "06/29/2001",
+      "state": "OR",
+      "workers": 206,
+      "city": "PORTLAND"
+    },
+    {
+      "date": "06/14/1999",
+      "effective_date": "05/28/1999",
+      "state": "TX",
+      "workers": 74,
+      "city": "San Antonio"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "baltimore-county-wia",
+      "name": "Baltimore County WIA",
+      "state": "MD"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

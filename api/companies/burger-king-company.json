@@ -1,0 +1,86 @@
+{
+  "slug": "burger-king-company",
+  "canonical_name": "Burger King Company LLC",
+  "fein": "59-0787929",
+  "lca_filing_count": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 160050.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 218400.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 137550.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "VP, Finance",
+      "count": 1,
+      "median_wage_usd": 290000.0
+    },
+    {
+      "title": "Sr. Manager, Development & Analytics, BK, US&C",
+      "count": 1,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Sr Analyst, Real Estate Asset Management, BK US&C",
+      "count": 1,
+      "median_wage_usd": 95000.0
+    },
+    {
+      "title": "Director, Digital Reliability & Expansion, BK, US & Canada",
+      "count": 1,
+      "median_wage_usd": 180100.0
+    },
+    {
+      "title": "Sr. Director, Merchandising and Marketing Execution, BK, US",
+      "count": 1,
+      "median_wage_usd": 218400.0
+    },
+    {
+      "title": "Software Development Engineer III",
+      "count": 1,
+      "median_wage_usd": 140000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "FL",
+      "county": "MIAMI-DADE  (OLD DEF)",
+      "count": 3
+    },
+    {
+      "state": "FL",
+      "county": "MIAMI-DADE",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "FL",
+      "count": 6
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 6,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-2021",
+    "soc_title": "Marketing Managers",
+    "market_median_usd": 157620.0,
+    "employer_median_usd": 174200.0,
+    "gap_usd": 16580.0
+  }
+}

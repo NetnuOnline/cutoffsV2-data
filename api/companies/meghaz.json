@@ -1,0 +1,203 @@
+{
+  "slug": "meghaz",
+  "canonical_name": "Meghaz Inc.",
+  "fein": "83-4143251",
+  "lca_filing_count": 80,
+  "lca_worker_positions": 80,
+  "warn_notice_count": 0,
+  "median_wage_usd": 100443.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 3,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 11,
+      "median_wage_usd": 100443.0
+    },
+    {
+      "fy": 2022,
+      "filings": 11,
+      "median_wage_usd": 98904.0
+    },
+    {
+      "fy": 2023,
+      "filings": 25,
+      "median_wage_usd": 98301.0
+    },
+    {
+      "fy": 2024,
+      "filings": 11,
+      "median_wage_usd": 112986.0
+    },
+    {
+      "fy": 2025,
+      "filings": 6,
+      "median_wage_usd": 101670.5
+    },
+    {
+      "fy": 2026,
+      "filings": 13,
+      "median_wage_usd": 109283.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 18,
+      "median_wage_usd": 109564.0
+    },
+    {
+      "title": "Sr. IOS Lead Developer",
+      "count": 5,
+      "median_wage_usd": 128232.0
+    },
+    {
+      "title": "Java Developer",
+      "count": 3,
+      "median_wage_usd": 102877.0
+    },
+    {
+      "title": "ETL Developer",
+      "count": 3,
+      "median_wage_usd": 98301.0
+    },
+    {
+      "title": "Data Engineer",
+      "count": 3,
+      "median_wage_usd": 98904.0
+    },
+    {
+      "title": "Site Reliability Engineer",
+      "count": 3,
+      "median_wage_usd": 100443.0
+    },
+    {
+      "title": "DevOps Engineer",
+      "count": 3,
+      "median_wage_usd": 98301.0
+    },
+    {
+      "title": "QA Engineer",
+      "count": 3,
+      "median_wage_usd": 81099.0
+    },
+    {
+      "title": "Dot Net Developer",
+      "count": 2,
+      "median_wage_usd": 110458.5
+    },
+    {
+      "title": "IOS lead developer",
+      "count": 2,
+      "median_wage_usd": 107109.5
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 12
+    },
+    {
+      "state": "MO",
+      "county": "ST LOUIS",
+      "count": 11
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 9
+    },
+    {
+      "state": "TX",
+      "county": "FORT BEND",
+      "count": 4
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 3
+    },
+    {
+      "state": "NC",
+      "county": "UNION",
+      "count": 3
+    },
+    {
+      "state": "NC",
+      "county": "MECKLENBURG",
+      "count": 3
+    },
+    {
+      "state": "TN",
+      "county": "WILSON",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "SAN DIEGO",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 40
+    },
+    {
+      "state": "MO",
+      "count": 12
+    },
+    {
+      "state": "NC",
+      "count": 8
+    },
+    {
+      "state": "GA",
+      "count": 6
+    },
+    {
+      "state": "PA",
+      "count": 3
+    },
+    {
+      "state": "TN",
+      "count": 3
+    },
+    {
+      "state": "CA",
+      "count": 3
+    },
+    {
+      "state": "FL",
+      "count": 2
+    },
+    {
+      "state": "MD",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "SoftwareDevelopers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 105976.0,
+    "gap_usd": -24184.0
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "slug": "anchor-glass-container",
+  "canonical_name": "Anchor Glass Container LLC",
+  "fein": "59-3417812",
+  "lca_filing_count": 11,
+  "lca_worker_positions": 11,
+  "warn_notice_count": 0,
+  "median_wage_usd": 110040.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 4,
+      "median_wage_usd": 107520.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 121997.5
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 109080.0
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 107100.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Project Engineer",
+      "count": 2,
+      "median_wage_usd": 94440.0
+    },
+    {
+      "title": "Senior Business Analyst",
+      "count": 2,
+      "median_wage_usd": 121077.5
+    },
+    {
+      "title": "Process Engineer",
+      "count": 1,
+      "median_wage_usd": 91740.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 1,
+      "median_wage_usd": 110040.0
+    },
+    {
+      "title": "Senior ERP Developer",
+      "count": 1,
+      "median_wage_usd": 138610.0
+    },
+    {
+      "title": "Continuous Improvement Engineer",
+      "count": 1,
+      "median_wage_usd": 95000.0
+    },
+    {
+      "title": "HRIS Developer",
+      "count": 1,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 105000.0
+    },
+    {
+      "title": "Senior ERP Architect",
+      "count": 1,
+      "median_wage_usd": 140000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "FL",
+      "county": "HILLSBOROUGH",
+      "count": 5
+    },
+    {
+      "state": "NY",
+      "county": "CHEMUNG",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "FL",
+      "count": 10
+    },
+    {
+      "state": "NY",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Business Intelligence Analysts",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 121077.5,
+    "gap_usd": 13057.5
+  }
+}

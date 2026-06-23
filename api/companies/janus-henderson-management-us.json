@@ -1,0 +1,71 @@
+{
+  "slug": "janus-henderson-management-us",
+  "canonical_name": "Janus Henderson Management US Corporation",
+  "fein": null,
+  "lca_filing_count": 8,
+  "warn_notice_count": 0,
+  "median_wage_usd": 133307.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 124153.5
+    },
+    {
+      "fy": 2023,
+      "filings": 5,
+      "median_wage_usd": 135000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Data Developer",
+      "count": 2,
+      "median_wage_usd": 133307.0
+    },
+    {
+      "title": "Research Analyst",
+      "count": 2,
+      "median_wage_usd": 132288.0
+    },
+    {
+      "title": "Sr. Eagle Pace Developer/Analyst",
+      "count": 2,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "title": "Salesforce Developer",
+      "count": 1,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "title": "Data Scientist ",
+      "count": 1,
+      "median_wage_usd": 145000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CO",
+      "county": "DENVER",
+      "count": 8
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CO",
+      "count": 8
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 7,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 135000.0,
+    "gap_usd": 4840.0
+  }
+}

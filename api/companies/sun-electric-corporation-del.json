@@ -1,0 +1,43 @@
+{
+  "slug": "sun-electric-corporation-del",
+  "canonical_name": "Sun Electric Corporation (del)",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "10/07/1996",
+      "effective_date": "02/01/1997",
+      "state": "IL",
+      "workers": 283,
+      "city": "Crystal Lake"
+    },
+    {
+      "date": "10/07/1996",
+      "effective_date": "12/01/1996",
+      "state": "IL",
+      "workers": 21,
+      "city": "Crystal Lake"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "mchenry-county-wib",
+      "name": "McHenry County WIB",
+      "state": "IL"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

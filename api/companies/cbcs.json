@@ -1,0 +1,47 @@
+{
+  "slug": "cbcs",
+  "canonical_name": "CBCS",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "OH",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "04/15/2020",
+      "effective_date": "03/23/2020",
+      "state": "OH",
+      "workers": 17,
+      "city": "Dayton/Montgomery"
+    },
+    {
+      "date": "04/14/2020",
+      "effective_date": "04/01/2020",
+      "state": "FL",
+      "workers": 1,
+      "city": "JACKSONVILLE"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "west-ohio",
+      "name": "West Ohio",
+      "state": "OH"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

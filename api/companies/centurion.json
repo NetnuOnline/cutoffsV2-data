@@ -1,0 +1,47 @@
+{
+  "slug": "centurion",
+  "canonical_name": "Centurion",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "FL",
+      "count": 1
+    },
+    {
+      "state": "NM",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "02/23/2023",
+      "effective_date": "04/25/2023",
+      "state": "FL",
+      "workers": 80,
+      "city": "DAYTONA BEACH"
+    },
+    {
+      "date": "09/26/2019",
+      "effective_date": "11/25/2019",
+      "state": "NM",
+      "workers": 344,
+      "city": "New Mexico"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "careersource-flagler-volusia",
+      "name": "CareerSource Flagler Volusia",
+      "state": "FL"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

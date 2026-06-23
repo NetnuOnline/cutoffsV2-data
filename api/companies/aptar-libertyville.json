@@ -1,0 +1,69 @@
+{
+  "slug": "aptar-libertyville",
+  "canonical_name": "Aptar Libertyville",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 1,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "12/01/2022",
+      "effective_date": "02/01/2023",
+      "state": "IL",
+      "workers": 77,
+      "city": "Libertyville"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "lake-county-wib",
+      "name": "Lake County WIB",
+      "state": "IL"
+    }
+  ],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2007-10-17",
+        "formType": "8-K",
+        "accessionNumber": "0001157523-07-009941",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000896622&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2007-04-18",
+        "formType": "8-K",
+        "accessionNumber": "0001157523-07-003761",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000896622&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 2,
+    "itemCounts": {
+      "5.02": 2
+    },
+    "latestFilingDate": "2007-10-17",
+    "earliestFilingDate": "2007-04-18"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

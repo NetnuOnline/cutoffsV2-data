@@ -1,0 +1,130 @@
+{
+  "slug": "cape-cod-hospital-subsidiary-of-cape-cod-healthcare",
+  "canonical_name": "Cape Cod Hospital, Inc., subsidiary of Cape Cod Healthcare, Inc.",
+  "fein": "04-2103600",
+  "lca_filing_count": 8,
+  "warn_notice_count": 0,
+  "median_wage_usd": 138770.5,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 210000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 110406.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 134000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 4,
+      "median_wage_usd": 234270.5
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior ERP Developer",
+      "count": 2,
+      "median_wage_usd": 122000.0
+    },
+    {
+      "title": "Neurologist",
+      "count": 1,
+      "median_wage_usd": 325000.0
+    },
+    {
+      "title": "Pharmacist",
+      "count": 1,
+      "median_wage_usd": 110406.0
+    },
+    {
+      "title": "Software Development FSCM",
+      "count": 1,
+      "median_wage_usd": 143541.0
+    },
+    {
+      "title": "Hospitalist Physician",
+      "count": 1,
+      "median_wage_usd": 210000.0
+    },
+    {
+      "title": "Software Development HCM",
+      "count": 1,
+      "median_wage_usd": 130707.0
+    },
+    {
+      "title": "Pulmonologist",
+      "count": 1,
+      "median_wage_usd": 400000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MA",
+      "county": "BARNSTABLE CITY",
+      "count": 6
+    },
+    {
+      "state": "MI",
+      "county": "OAKLAND",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MA",
+      "count": 6
+    },
+    {
+      "state": "MI",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 8,
+    "continuing_denials": 0,
+    "total_approvals": 8,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 4,
+        "continuing_denials": 0,
+        "total_approvals": 4
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 4,
+        "continuing_denials": 0,
+        "total_approvals": 4
+      }
+    ]
+  },
+  "lca_worker_positions": 8,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 134000.0,
+    "gap_usd": 3840.0
+  }
+}

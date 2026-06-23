@@ -1,0 +1,191 @@
+{
+  "slug": "bytedance",
+  "canonical_name": "ByteDance Inc.",
+  "fein": "81-2345210",
+  "lca_filing_count": 1054,
+  "lca_worker_positions": 1263,
+  "warn_notice_count": 0,
+  "median_wage_usd": 199000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 82,
+      "median_wage_usd": 180000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 126,
+      "median_wage_usd": 172000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 112,
+      "median_wage_usd": 204874.5
+    },
+    {
+      "fy": 2023,
+      "filings": 246,
+      "median_wage_usd": 195000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 198,
+      "median_wage_usd": 221000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 194,
+      "median_wage_usd": 197250.0
+    },
+    {
+      "fy": 2026,
+      "filings": 83,
+      "median_wage_usd": 205000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 92,
+      "median_wage_usd": 187046.5
+    },
+    {
+      "title": "Product Manager",
+      "count": 26,
+      "median_wage_usd": 181293.0
+    },
+    {
+      "title": "Data Scientist",
+      "count": 24,
+      "median_wage_usd": 174902.0
+    },
+    {
+      "title": "Research Scientist",
+      "count": 20,
+      "median_wage_usd": 210000.0
+    },
+    {
+      "title": "Backend Software Engineer",
+      "count": 17,
+      "median_wage_usd": 182072.0
+    },
+    {
+      "title": "Data Engineer",
+      "count": 14,
+      "median_wage_usd": 204340.0
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "count": 14,
+      "median_wage_usd": 261500.0
+    },
+    {
+      "title": "Software Development Engineer in Test",
+      "count": 13,
+      "median_wage_usd": 195000.0
+    },
+    {
+      "title": "Solutions Engineer, Ads",
+      "count": 11,
+      "median_wage_usd": 185000.0
+    },
+    {
+      "title": "Backend Software Engineer, Global E-commerce",
+      "count": 11,
+      "median_wage_usd": 222000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 491
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 165
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 49
+    },
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 41
+    },
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 16
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 9
+    },
+    {
+      "state": "VA",
+      "county": "LOUDOUN",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SAN DIEGO",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "AUSTIN",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 736
+    },
+    {
+      "state": "WA",
+      "count": 219
+    },
+    {
+      "state": "NY",
+      "count": 82
+    },
+    {
+      "state": "TX",
+      "count": 13
+    },
+    {
+      "state": "VA",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 211124.85,
+    "gap_usd": 80964.85
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "maplehurst-bakeries",
+  "canonical_name": "Maplehurst Bakeries, LLC",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 4,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 2
+    },
+    {
+      "state": "TN",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "12/28/2017",
+      "effective_date": "02/23/2018",
+      "state": "TN",
+      "workers": 145,
+      "city": "Davidson County"
+    },
+    {
+      "date": "09/13/2016",
+      "effective_date": "12/01/2016",
+      "state": "IL",
+      "workers": 26,
+      "city": "Chicago"
+    },
+    {
+      "date": "06/30/2016",
+      "effective_date": "06/30/2016",
+      "state": "GA",
+      "workers": 0,
+      "city": "Carrollton"
+    },
+    {
+      "date": "05/21/2016",
+      "effective_date": "05/21/2016",
+      "state": "GA",
+      "workers": 140,
+      "city": "Carrollton"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "west-central-wib-ga",
+      "name": "West Central WIB",
+      "state": "GA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

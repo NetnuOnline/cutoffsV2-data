@@ -1,0 +1,54 @@
+{
+  "slug": "asrc-federal",
+  "canonical_name": "ASRC Federal",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 3,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "MD",
+      "count": 2
+    },
+    {
+      "state": "SC",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "05/14/2025",
+      "effective_date": "06/04/2025",
+      "state": "MD",
+      "workers": 16,
+      "city": "Alexandria"
+    },
+    {
+      "date": "02/27/2025",
+      "effective_date": "07/31/2025",
+      "state": "SC",
+      "workers": 292,
+      "city": "North Charleston"
+    },
+    {
+      "date": "12/04/2024",
+      "effective_date": "01/31/2025",
+      "state": "MD",
+      "workers": 21,
+      "city": "Bigler"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "trident-wib",
+      "name": "Trident WIB",
+      "state": "SC"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

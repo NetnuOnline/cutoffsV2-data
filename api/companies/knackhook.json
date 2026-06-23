@@ -1,0 +1,55 @@
+{
+  "slug": "knackhook",
+  "canonical_name": "KNACKHOOK LLC.",
+  "fein": "92-3490378",
+  "lca_filing_count": 3,
+  "lca_worker_positions": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 87859.0,
+  "by_fy": [
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 87859.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "IT Procurement Analyst",
+      "count": 1,
+      "median_wage_usd": 96866.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 1,
+      "median_wage_usd": 87859.0
+    },
+    {
+      "title": "Systems Analyst",
+      "count": 1,
+      "median_wage_usd": 73237.0
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1211",
+    "soc_title": "Computer Systems Analysts",
+    "market_median_usd": 103800.0,
+    "employer_median_usd": 73237.0,
+    "gap_usd": -30563.0
+  }
+}

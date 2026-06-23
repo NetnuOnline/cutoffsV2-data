@@ -1,0 +1,134 @@
+{
+  "slug": "epi-use-america",
+  "canonical_name": "EPI-USE America, Inc.",
+  "fein": "58-2430345",
+  "lca_filing_count": 16,
+  "lca_worker_positions": 15,
+  "warn_notice_count": 0,
+  "median_wage_usd": 123032.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 3,
+      "median_wage_usd": 121139.0
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 123614.0
+    },
+    {
+      "fy": 2022,
+      "filings": 4,
+      "median_wage_usd": 114628.5
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 103823.5
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 130878.5
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 154000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior SAP Payroll Consultant",
+      "count": 2,
+      "median_wage_usd": 157840.5
+    },
+    {
+      "title": "SAP SECURITY ANALYST (GRC CONSULTANT)",
+      "count": 2,
+      "median_wage_usd": 140379.0
+    },
+    {
+      "title": "GRC and Security Architect",
+      "count": 1,
+      "median_wage_usd": 121139.0
+    },
+    {
+      "title": "HCM and Talent Management Consultant",
+      "count": 1,
+      "median_wage_usd": 85842.0
+    },
+    {
+      "title": "Senior HCM Consultant ",
+      "count": 1,
+      "median_wage_usd": 117915.0
+    },
+    {
+      "title": "Senior SAP SuccessFactors Associate Consultant",
+      "count": 1,
+      "median_wage_usd": 80101.0
+    },
+    {
+      "title": "Associate Consultant",
+      "count": 1,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "Senior SAP HCM Developer",
+      "count": 1,
+      "median_wage_usd": 123614.0
+    },
+    {
+      "title": "AMS Consultant",
+      "count": 1,
+      "median_wage_usd": 85197.0
+    },
+    {
+      "title": "Director of Technology Services",
+      "count": 1,
+      "median_wage_usd": 154648.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "GA",
+      "county": "DEKALB",
+      "count": 11
+    },
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 12
+    },
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "MI",
+      "count": 1
+    },
+    {
+      "state": "AZ",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 120182.5,
+    "gap_usd": -9977.5
+  }
+}

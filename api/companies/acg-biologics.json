@@ -1,0 +1,43 @@
+{
+  "slug": "acg-biologics",
+  "canonical_name": "ACG Biologics",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "CO",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "09/16/2025",
+      "effective_date": "11/15/2025",
+      "state": "CO",
+      "workers": 267,
+      "city": "Boulder"
+    },
+    {
+      "date": "09/16/2025",
+      "effective_date": "09/16/2025",
+      "state": "CO",
+      "workers": 0,
+      "city": "32,5414: Biological Products (Except Manufacturing)"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "boulder-wib",
+      "name": "Boulder WIB",
+      "state": "CO"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

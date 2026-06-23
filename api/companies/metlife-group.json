@@ -1,0 +1,203 @@
+{
+  "slug": "metlife-group",
+  "canonical_name": "MetLife Group, Inc.",
+  "fein": "55-0790010",
+  "lca_filing_count": 223,
+  "lca_worker_positions": 219,
+  "warn_notice_count": 0,
+  "median_wage_usd": 117187.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 37,
+      "median_wage_usd": 108659.0
+    },
+    {
+      "fy": 2021,
+      "filings": 28,
+      "median_wage_usd": 99300.0
+    },
+    {
+      "fy": 2022,
+      "filings": 56,
+      "median_wage_usd": 117187.0
+    },
+    {
+      "fy": 2023,
+      "filings": 24,
+      "median_wage_usd": 119018.0
+    },
+    {
+      "fy": 2024,
+      "filings": 31,
+      "median_wage_usd": 121535.0
+    },
+    {
+      "fy": 2025,
+      "filings": 31,
+      "median_wage_usd": 127796.0
+    },
+    {
+      "fy": 2026,
+      "filings": 12,
+      "median_wage_usd": 129663.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Lead Software Development Engineer",
+      "count": 16,
+      "median_wage_usd": 117187.0
+    },
+    {
+      "title": "Senior Software Development Engineer",
+      "count": 15,
+      "median_wage_usd": 103272.0
+    },
+    {
+      "title": "Lead Full Stack Software Engineer",
+      "count": 11,
+      "median_wage_usd": 131120.0
+    },
+    {
+      "title": "Full Stack Software Engineer",
+      "count": 8,
+      "median_wage_usd": 112518.0
+    },
+    {
+      "title": "Sr. Full Stack Software Engineer",
+      "count": 8,
+      "median_wage_usd": 127070.5
+    },
+    {
+      "title": "Senior Database Administrator",
+      "count": 4,
+      "median_wage_usd": 109264.5
+    },
+    {
+      "title": "Lead Software Develop Engineer",
+      "count": 4,
+      "median_wage_usd": 113129.5
+    },
+    {
+      "title": "Lead Business Systems Analyst",
+      "count": 4,
+      "median_wage_usd": 93050.0
+    },
+    {
+      "title": "Senior Software Develop Engineer",
+      "count": 4,
+      "median_wage_usd": 90563.0
+    },
+    {
+      "title": "Software Development Engineer II",
+      "count": 4,
+      "median_wage_usd": 77864.5
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NC",
+      "county": "WAKE",
+      "count": 124
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 15
+    },
+    {
+      "state": "FL",
+      "county": "HILLSBOROUGH",
+      "count": 15
+    },
+    {
+      "state": "SC",
+      "county": "GREENVILLE",
+      "count": 4
+    },
+    {
+      "state": "NJ",
+      "county": "MORRIS",
+      "count": 4
+    },
+    {
+      "state": "NJ",
+      "county": "SOMERSET",
+      "count": 4
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 3
+    },
+    {
+      "state": "NC",
+      "county": "MECKLENBURG",
+      "count": 3
+    },
+    {
+      "state": "PA",
+      "county": "LACKAWANNA",
+      "count": 2
+    },
+    {
+      "state": "DE",
+      "county": "NEW CASTLE",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NC",
+      "count": 159
+    },
+    {
+      "state": "NY",
+      "count": 16
+    },
+    {
+      "state": "FL",
+      "count": 15
+    },
+    {
+      "state": "NJ",
+      "count": 11
+    },
+    {
+      "state": "SC",
+      "count": 8
+    },
+    {
+      "state": "TX",
+      "count": 5
+    },
+    {
+      "state": "PA",
+      "count": 3
+    },
+    {
+      "state": "DE",
+      "count": 3
+    },
+    {
+      "state": "DC",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 127796.0,
+    "gap_usd": -2364.0
+  }
+}

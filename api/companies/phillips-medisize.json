@@ -1,0 +1,104 @@
+{
+  "slug": "phillips-medisize",
+  "canonical_name": "Phillips-Medisize",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 3,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "WI",
+      "count": 3
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "06/06/2023",
+      "effective_date": "08/07/2023",
+      "state": "WI",
+      "workers": 83,
+      "city": "Medford"
+    },
+    {
+      "date": "07/06/2022",
+      "effective_date": "07/12/2022",
+      "state": "WI",
+      "workers": 96,
+      "city": "Hudson"
+    },
+    {
+      "date": "08/12/2020",
+      "effective_date": "10/15/2020",
+      "state": "WI",
+      "workers": 98,
+      "city": "Eau Claire"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "northwest-wda",
+      "name": "Northwest WDA",
+      "state": "WI"
+    },
+    {
+      "slug": "west-central-wda-wi",
+      "name": "West Central WDA",
+      "state": "WI"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 9,
+    "continuing_denials": 0,
+    "total_approvals": 9,
+    "by_fy": [
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 6,
+        "continuing_denials": 0,
+        "total_approvals": 6
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  }
+}

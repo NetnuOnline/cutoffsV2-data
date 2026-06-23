@@ -1,0 +1,46 @@
+{
+  "slug": "pielabs",
+  "canonical_name": "PieLabs Inc.",
+  "fein": "99-4458003",
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 155604.8,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 155604.80000000002
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 2,
+      "median_wage_usd": 155604.80000000002
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 155604.8,
+    "gap_usd": 25444.8
+  }
+}

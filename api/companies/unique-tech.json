@@ -1,0 +1,216 @@
+{
+  "slug": "unique-tech",
+  "canonical_name": "Unique Tech. Inc",
+  "fein": null,
+  "lca_filing_count": 19,
+  "warn_notice_count": 0,
+  "median_wage_usd": 91520.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 81931.0
+    },
+    {
+      "fy": 2021,
+      "filings": 4,
+      "median_wage_usd": 95727.0
+    },
+    {
+      "fy": 2022,
+      "filings": 5,
+      "median_wage_usd": 108500.0
+    },
+    {
+      "fy": 2023,
+      "filings": 8,
+      "median_wage_usd": 91520.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SOFTWARE DEVELOPER",
+      "count": 6,
+      "median_wage_usd": 91520.0
+    },
+    {
+      "title": "Dot net developer",
+      "count": 2,
+      "median_wage_usd": 93153.0
+    },
+    {
+      "title": "Technical lead",
+      "count": 1,
+      "median_wage_usd": 86000.0
+    },
+    {
+      "title": "Java Developer",
+      "count": 1,
+      "median_wage_usd": 89700.0
+    },
+    {
+      "title": "Java full stack developer",
+      "count": 1,
+      "median_wage_usd": 108500.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 141500.0
+    },
+    {
+      "title": "SUPPORT ENGINEER",
+      "count": 1,
+      "median_wage_usd": 97000.0
+    },
+    {
+      "title": "IT DELIVERY LEAD II",
+      "count": 1,
+      "median_wage_usd": 108500.0
+    },
+    {
+      "title": "Archer Developer",
+      "count": 1,
+      "median_wage_usd": 101754.0
+    },
+    {
+      "title": "Programmer Analyst ",
+      "count": 1,
+      "median_wage_usd": 121600.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MI",
+      "county": "OAKLAND",
+      "count": 6
+    },
+    {
+      "state": "MI",
+      "county": "WAYNE",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "county": "SOMERSET",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "county": "MORRIS",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MI",
+      "count": 8
+    },
+    {
+      "state": "TX",
+      "count": 4
+    },
+    {
+      "state": "NJ",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "count": 2
+    },
+    {
+      "state": "VA",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 19,
+    "initial_denials": 1,
+    "continuing_approvals": 12,
+    "continuing_denials": 0,
+    "total_approvals": 31,
+    "by_fy": [
+      {
+        "fy": 2020,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 5,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 6
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 6,
+        "initial_denials": 1,
+        "continuing_approvals": 7,
+        "continuing_denials": 0,
+        "total_approvals": 13
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 7,
+        "initial_denials": 0,
+        "continuing_approvals": 4,
+        "continuing_denials": 0,
+        "total_approvals": 11
+      }
+    ]
+  },
+  "lca_worker_positions": 18,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 91520.0,
+    "gap_usd": -38640.0
+  }
+}

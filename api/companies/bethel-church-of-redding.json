@@ -1,0 +1,92 @@
+{
+  "slug": "bethel-church-of-redding",
+  "canonical_name": "Bethel Church of Redding",
+  "fein": null,
+  "lca_filing_count": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 63940.03,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 45760.0
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 55380.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 98931.03
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Marketing Director",
+      "count": 2,
+      "median_wage_usd": 98931.03
+    },
+    {
+      "title": "Marketing and Communications Specialist",
+      "count": 1,
+      "median_wage_usd": 45760.0
+    },
+    {
+      "title": "Acting Professor",
+      "count": 1,
+      "median_wage_usd": 55380.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SHASTA",
+      "count": 3
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 3
+    },
+    {
+      "state": "NY",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 1,
+    "continuing_denials": 0,
+    "total_approvals": 1,
+    "by_fy": [
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-2021",
+    "soc_title": "Marketing Managers",
+    "market_median_usd": 157620.0,
+    "employer_median_usd": 98931.03,
+    "gap_usd": -58688.97
+  }
+}

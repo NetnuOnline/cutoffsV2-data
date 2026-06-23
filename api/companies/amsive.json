@@ -1,0 +1,103 @@
+{
+  "slug": "amsive",
+  "canonical_name": "Amsive LLC",
+  "fein": "84-3339624",
+  "lca_filing_count": 5,
+  "warn_notice_count": 2,
+  "median_wage_usd": 70500.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 3,
+      "median_wage_usd": 70500.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 94074.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Data Research Scientist",
+      "count": 2,
+      "median_wage_usd": 70500.0
+    },
+    {
+      "title": "Data Scientist",
+      "count": 2,
+      "median_wage_usd": 61500.0
+    },
+    {
+      "title": "Sr. Data Scientist",
+      "count": 1,
+      "median_wage_usd": 94074.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 5
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IL",
+      "county": "WILL",
+      "count": 5
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "03/18/2024",
+      "effective_date": "05/17/2024",
+      "state": "OH",
+      "workers": 60,
+      "city": "Miamisburg/Montgomery"
+    },
+    {
+      "date": "03/13/2023",
+      "effective_date": "05/15/2023",
+      "state": "FL",
+      "workers": 48,
+      "city": "TAMPA"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "west-ohio",
+      "name": "West Ohio",
+      "state": "OH"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 1,
+    "continuing_denials": 0,
+    "total_approvals": 1,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 80037.0,
+    "gap_usd": -27983.0
+  }
+}

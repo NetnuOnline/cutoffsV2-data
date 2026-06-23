@@ -1,0 +1,47 @@
+{
+  "slug": "kelloggs-snacks",
+  "canonical_name": "Kellogg's Snacks",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "TN",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "05/26/2017",
+      "effective_date": "07/29/2017",
+      "state": "TN",
+      "workers": 172,
+      "city": "Memphis"
+    },
+    {
+      "date": "05/13/2005",
+      "effective_date": "07/01/2005",
+      "state": "IL",
+      "workers": 271,
+      "city": "Des Plaines"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "13-local-workforce-investment-area",
+      "name": "13 Local Workforce Investment Area",
+      "state": "TN"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

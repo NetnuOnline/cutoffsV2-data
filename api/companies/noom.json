@@ -1,0 +1,134 @@
+{
+  "slug": "noom",
+  "canonical_name": "NOOM, Inc",
+  "fein": "80-0243906",
+  "lca_filing_count": 16,
+  "lca_worker_positions": 16,
+  "warn_notice_count": 0,
+  "median_wage_usd": 157500.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 161000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 131000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 4,
+      "median_wage_usd": 190235.0
+    },
+    {
+      "fy": 2024,
+      "filings": 4,
+      "median_wage_usd": 95500.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 196000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 187000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Manager, Corporate Tax",
+      "count": 2,
+      "median_wage_usd": 108000.0
+    },
+    {
+      "title": "Lead Business Intelligence Engineer",
+      "count": 2,
+      "median_wage_usd": 154000.0
+    },
+    {
+      "title": "Technical Lead Manager",
+      "count": 2,
+      "median_wage_usd": 196000.0
+    },
+    {
+      "title": "Senior Accountant, Corporate Tax",
+      "count": 2,
+      "median_wage_usd": 83000.0
+    },
+    {
+      "title": "Senior Data Scientist, Product Analytics",
+      "count": 2,
+      "median_wage_usd": 161000.0
+    },
+    {
+      "title": "FP&A Manager, Margin Strategy",
+      "count": 2,
+      "median_wage_usd": 131000.0
+    },
+    {
+      "title": "Lead Marketing Data Scientist",
+      "count": 2,
+      "median_wage_usd": 187000.0
+    },
+    {
+      "title": "Director of International Product",
+      "count": 1,
+      "median_wage_usd": 226470.0
+    },
+    {
+      "title": "DIRECTOR OF INTERNATIONAL PRODUCT",
+      "count": 1,
+      "median_wage_usd": 226470.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 9
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "county": "MIDDLESEX",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 10
+    },
+    {
+      "state": "NJ",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "PA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-2011",
+    "soc_title": "Accountants and Auditors",
+    "market_median_usd": 79000.0,
+    "employer_median_usd": 95500.0,
+    "gap_usd": 16500.0
+  }
+}

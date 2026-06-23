@@ -1,0 +1,207 @@
+{
+  "slug": "rab3-tech",
+  "canonical_name": "RAB3 Tech LLC",
+  "fein": "84-2736133",
+  "lca_filing_count": 14,
+  "warn_notice_count": 0,
+  "median_wage_usd": 101483.2,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 96865.6
+    },
+    {
+      "fy": 2022,
+      "filings": 5,
+      "median_wage_usd": 110510.40000000001
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 101483.2
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 114348.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 122012.79999999999
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Java Developer",
+      "count": 4,
+      "median_wage_usd": 104707.20000000001
+    },
+    {
+      "title": "Senior Java Developer",
+      "count": 2,
+      "median_wage_usd": 96865.6
+    },
+    {
+      "title": "Software Developer",
+      "count": 1,
+      "median_wage_usd": 94036.8
+    },
+    {
+      "title": "Senior Application Developer",
+      "count": 1,
+      "median_wage_usd": 98550.40000000001
+    },
+    {
+      "title": "Java Devlops Engineer",
+      "count": 1,
+      "median_wage_usd": 110510.40000000001
+    },
+    {
+      "title": "Full Stack Developer",
+      "count": 1,
+      "median_wage_usd": 105996.8
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 1,
+      "median_wage_usd": 103272.0
+    },
+    {
+      "title": "Sr Api Backend Developerr",
+      "count": 1,
+      "median_wage_usd": 122012.79999999999
+    },
+    {
+      "title": "Sr Full Stack Developer",
+      "count": 1,
+      "median_wage_usd": 99694.4
+    },
+    {
+      "title": "App Dev Java Sr",
+      "count": 1,
+      "median_wage_usd": 122699.2
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 4
+    },
+    {
+      "state": "MD",
+      "county": "BALTIMORE",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 2
+    },
+    {
+      "state": "MO",
+      "county": "ST LOUIS",
+      "count": 1
+    },
+    {
+      "state": "MN",
+      "county": "HENNEPIN",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "county": "WAKE",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "county": "PRINCE WILLIAM",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "BEXAR",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 7
+    },
+    {
+      "state": "MD",
+      "count": 3
+    },
+    {
+      "state": "MO",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "count": 1
+    },
+    {
+      "state": "MN",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 18,
+    "initial_denials": 0,
+    "continuing_approvals": 21,
+    "continuing_denials": 1,
+    "total_approvals": 39,
+    "by_fy": [
+      {
+        "fy": 2020,
+        "initial_approvals": 4,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 4
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 5,
+        "initial_denials": 0,
+        "continuing_approvals": 4,
+        "continuing_denials": 0,
+        "total_approvals": 9
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 9,
+        "initial_denials": 0,
+        "continuing_approvals": 10,
+        "continuing_denials": 0,
+        "total_approvals": 19
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 7,
+        "continuing_denials": 1,
+        "total_approvals": 7
+      }
+    ]
+  },
+  "lca_worker_positions": 12,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 110510.4,
+    "gap_usd": -19649.6
+  }
+}

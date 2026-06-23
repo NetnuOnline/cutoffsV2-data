@@ -1,0 +1,96 @@
+{
+  "slug": "general-aluminum",
+  "canonical_name": "General Aluminum",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 7,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "OH",
+      "count": 4
+    },
+    {
+      "state": "IN",
+      "count": 2
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "08/29/2025",
+      "effective_date": "12/14/2025",
+      "state": "IN",
+      "workers": 62,
+      "city": "Huntington"
+    },
+    {
+      "date": "10/16/2024",
+      "effective_date": "11/08/2024",
+      "state": "OH",
+      "workers": 69,
+      "city": "Conneaut/Ashtabula"
+    },
+    {
+      "date": "03/31/2020",
+      "effective_date": "03/23/2020",
+      "state": "OH",
+      "workers": 198,
+      "city": "Conneaut/Ashtabula"
+    },
+    {
+      "date": "03/30/2020",
+      "effective_date": "03/23/2020",
+      "state": "OH",
+      "workers": 121,
+      "city": "Wapakoneta/Auglaize"
+    },
+    {
+      "date": "03/30/2020",
+      "effective_date": "03/23/2020",
+      "state": "OH",
+      "workers": 212,
+      "city": "Ravenna/Portage"
+    },
+    {
+      "date": "03/04/2011",
+      "effective_date": "03/04/2011",
+      "state": "GA",
+      "workers": 67,
+      "city": "Rome"
+    },
+    {
+      "date": "01/09/2009",
+      "effective_date": "03/08/2009",
+      "state": "IN",
+      "workers": 84,
+      "city": "Richmond"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "economic-growth-region-3",
+      "name": "Economic Growth Region 3",
+      "state": "IN"
+    },
+    {
+      "slug": "economic-growth-region-6",
+      "name": "Economic Growth Region 6",
+      "state": "IN"
+    },
+    {
+      "slug": "northeast-ohio",
+      "name": "Northeast Ohio",
+      "state": "OH"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

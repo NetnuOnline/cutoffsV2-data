@@ -1,0 +1,102 @@
+{
+  "slug": "centura-health",
+  "canonical_name": "Centura Health Corporation",
+  "fein": null,
+  "lca_filing_count": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 99840.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 93870.40000000001
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 115440.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Eval Systems Analyst Senior",
+      "count": 1,
+      "median_wage_usd": 99840.0
+    },
+    {
+      "title": "Data Analyst-Workforce Analytics ",
+      "count": 1,
+      "median_wage_usd": 93870.40000000001
+    },
+    {
+      "title": "Senior Security Engineer ",
+      "count": 1,
+      "median_wage_usd": 131040.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CO",
+      "county": "ARAPAHOE",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CO",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 5,
+    "continuing_denials": 0,
+    "total_approvals": 6,
+    "by_fy": [
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 4
+      }
+    ]
+  },
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Information Security Engineers",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 131040.0,
+    "gap_usd": 13040.0
+  }
+}

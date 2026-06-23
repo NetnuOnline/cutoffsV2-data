@@ -1,0 +1,128 @@
+{
+  "slug": "insightsoftware",
+  "canonical_name": "insightsoftware, LLC",
+  "fein": "56-1944603",
+  "lca_filing_count": 8,
+  "warn_notice_count": 0,
+  "median_wage_usd": 136820.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 4,
+      "median_wage_usd": 140826.5
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 65000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 152500.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Master Solutions Architect",
+      "count": 3,
+      "median_wage_usd": 148013.0
+    },
+    {
+      "title": "Senior Technical Architect",
+      "count": 2,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "title": "Technical Support Engineer/Specialist",
+      "count": 1,
+      "median_wage_usd": 65000.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 1,
+      "median_wage_usd": 65000.0
+    },
+    {
+      "title": "Lead UI/UX Designer",
+      "count": 1,
+      "median_wage_usd": 133640.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 4
+    },
+    {
+      "state": "MI",
+      "county": "KENT",
+      "count": 2
+    },
+    {
+      "state": "NC",
+      "county": "WAKE",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "county": "FAIRFAX",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "WA",
+      "count": 4
+    },
+    {
+      "state": "MI",
+      "count": 2
+    },
+    {
+      "state": "VA",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 6,
+    "continuing_denials": 0,
+    "total_approvals": 7,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 5,
+        "continuing_denials": 0,
+        "total_approvals": 6
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 8,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 140826.5,
+    "gap_usd": 10666.5
+  }
+}

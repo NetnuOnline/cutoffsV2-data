@@ -1,0 +1,60 @@
+{
+  "slug": "dms-it-services",
+  "canonical_name": "DMS IT SERVICES INC.",
+  "fein": null,
+  "lca_filing_count": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 91853.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 91853.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Development Engineer in Test",
+      "count": 2,
+      "median_wage_usd": 91021.0
+    },
+    {
+      "title": "System Implementation Specialist",
+      "count": 1,
+      "median_wage_usd": 91853.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NJ",
+      "county": "MERCER",
+      "count": 2
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 2
+    },
+    {
+      "state": "WA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1253",
+    "soc_title": "Software Quality Assurance Analysts and Testers",
+    "market_median_usd": 101800.0,
+    "employer_median_usd": 91853.0,
+    "gap_usd": -9947.0
+  }
+}

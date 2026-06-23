@@ -1,0 +1,43 @@
+{
+  "slug": "eagle-river-mine",
+  "canonical_name": "Eagle River Mine",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "10/27/2020",
+      "effective_date": "12/02/2020",
+      "state": "IL",
+      "workers": 42,
+      "city": "Harrisburg"
+    },
+    {
+      "date": "10/27/2020",
+      "effective_date": "10/27/2020",
+      "state": "IL",
+      "workers": 44,
+      "city": "Harrisburg"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "southern-14-wib",
+      "name": "Southern 14 WIB",
+      "state": "IL"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

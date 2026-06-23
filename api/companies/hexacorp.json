@@ -1,0 +1,203 @@
+{
+  "slug": "hexacorp",
+  "canonical_name": "HexaCorp LLC",
+  "fein": "22-3827622",
+  "lca_filing_count": 54,
+  "lca_worker_positions": 54,
+  "warn_notice_count": 0,
+  "median_wage_usd": 79450.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 12,
+      "median_wage_usd": 74450.0
+    },
+    {
+      "fy": 2021,
+      "filings": 10,
+      "median_wage_usd": 82400.0
+    },
+    {
+      "fy": 2022,
+      "filings": 4,
+      "median_wage_usd": 88750.0
+    },
+    {
+      "fy": 2023,
+      "filings": 8,
+      "median_wage_usd": 78000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 5,
+      "median_wage_usd": 80400.0
+    },
+    {
+      "fy": 2025,
+      "filings": 10,
+      "median_wage_usd": 85900.0
+    },
+    {
+      "fy": 2026,
+      "filings": 5,
+      "median_wage_usd": 71500.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "JAVA DEVELOPER",
+      "count": 7,
+      "median_wage_usd": 75670.0
+    },
+    {
+      "title": "SR. SOFTWARE DEVELOPER",
+      "count": 5,
+      "median_wage_usd": 79900.0
+    },
+    {
+      "title": "SHAREPOINT DEVELOPER",
+      "count": 3,
+      "median_wage_usd": 74100.0
+    },
+    {
+      "title": "SR. JAVA DEVELOPER",
+      "count": 3,
+      "median_wage_usd": 84500.0
+    },
+    {
+      "title": "Data Engineer",
+      "count": 3,
+      "median_wage_usd": 113000.0
+    },
+    {
+      "title": "CLOUD ENGINEER",
+      "count": 2,
+      "median_wage_usd": 60900.0
+    },
+    {
+      "title": ".NET FULLSTACK DEVELOPER",
+      "count": 2,
+      "median_wage_usd": 79700.0
+    },
+    {
+      "title": "SR. SHAREPOINT ADMINISTRATOR",
+      "count": 2,
+      "median_wage_usd": 77000.0
+    },
+    {
+      "title": "BIG DATA DEVELOPER",
+      "count": 2,
+      "median_wage_usd": 76950.0
+    },
+    {
+      "title": "SR. SHAREPOINT DEVELOPER",
+      "count": 2,
+      "median_wage_usd": 95725.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "GA",
+      "county": "FORSYTH",
+      "count": 18
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 4
+    },
+    {
+      "state": "VA",
+      "county": "HENRICO",
+      "count": 3
+    },
+    {
+      "state": "NJ",
+      "county": "MORRIS",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "county": "BERGEN",
+      "count": 2
+    },
+    {
+      "state": "NC",
+      "county": "MECKLENBURG",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "county": "WAKE",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "county": "BROWARD",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 26
+    },
+    {
+      "state": "NC",
+      "count": 7
+    },
+    {
+      "state": "NJ",
+      "count": 7
+    },
+    {
+      "state": "VA",
+      "count": 4
+    },
+    {
+      "state": "FL",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "MO",
+      "count": 1
+    },
+    {
+      "state": "DC",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Computer Occupations, All Other",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 78250.0,
+    "gap_usd": -39750.0
+  }
+}

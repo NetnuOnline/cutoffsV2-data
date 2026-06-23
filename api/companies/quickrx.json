@@ -1,0 +1,103 @@
+{
+  "slug": "quickrx",
+  "canonical_name": "QuickRX LLC",
+  "fein": "87-2015811",
+  "lca_filing_count": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 67017.5,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 51480.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 55000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 133120.0
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 72800.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "HEALTH EDUCATOR",
+      "count": 3,
+      "median_wage_usd": 55000.0
+    },
+    {
+      "title": "Regulatory & Compliance Analyst",
+      "count": 1,
+      "median_wage_usd": 76960.0
+    },
+    {
+      "title": "Pharmacist Intern",
+      "count": 1,
+      "median_wage_usd": 72800.0
+    },
+    {
+      "title": "Pharmacist",
+      "count": 1,
+      "median_wage_usd": 133120.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NJ",
+      "county": "UNION",
+      "count": 2
+    },
+    {
+      "state": "WA",
+      "county": "OKANOGAN",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 3
+    },
+    {
+      "state": "WA",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 1,
+    "continuing_denials": 0,
+    "total_approvals": 1,
+    "by_fy": [
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 6,
+  "top_socs": [],
+  "lca_periods": []
+}

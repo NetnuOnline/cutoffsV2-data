@@ -1,0 +1,158 @@
+{
+  "slug": "government-employee-insurance-company-geico",
+  "canonical_name": "Government Employee Insurance Company (GEICO)",
+  "fein": "53-0075853",
+  "lca_filing_count": 219,
+  "lca_worker_positions": 217,
+  "warn_notice_count": 0,
+  "median_wage_usd": 175960.0,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 119,
+      "median_wage_usd": 173810.0
+    },
+    {
+      "fy": 2026,
+      "filings": 98,
+      "median_wage_usd": 180000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Engineer - .NET",
+      "count": 32,
+      "median_wage_usd": 160277.5
+    },
+    {
+      "title": "Senior Engineer - Java",
+      "count": 21,
+      "median_wage_usd": 205000.0
+    },
+    {
+      "title": "Senior Engineer - Data",
+      "count": 13,
+      "median_wage_usd": 157300.0
+    },
+    {
+      "title": "Staff Engineer - .NET",
+      "count": 13,
+      "median_wage_usd": 187095.0
+    },
+    {
+      "title": "Engineer II",
+      "count": 12,
+      "median_wage_usd": 131300.0
+    },
+    {
+      "title": "Staff Engineer - Java",
+      "count": 12,
+      "median_wage_usd": 220000.0
+    },
+    {
+      "title": "Senior Engineer - DevOps",
+      "count": 10,
+      "median_wage_usd": 153400.0
+    },
+    {
+      "title": "Senior Engineer - .Net",
+      "count": 9,
+      "median_wage_usd": 151410.0
+    },
+    {
+      "title": "Staff Engineer - Data",
+      "count": 7,
+      "median_wage_usd": 186500.0
+    },
+    {
+      "title": "Senior Engineer - Guidewire",
+      "count": 5,
+      "median_wage_usd": 161160.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "county": "MORRIS",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DEAF SMITH",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "county": "SOMERSET",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "county": "STAFFORD",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 48
+    },
+    {
+      "state": "MD",
+      "count": 42
+    },
+    {
+      "state": "CA",
+      "count": 35
+    },
+    {
+      "state": "VA",
+      "count": 24
+    },
+    {
+      "state": "WA",
+      "count": 17
+    },
+    {
+      "state": "IN",
+      "count": 12
+    },
+    {
+      "state": "NJ",
+      "count": 10
+    },
+    {
+      "state": "NC",
+      "count": 7
+    },
+    {
+      "state": "GA",
+      "count": 5
+    },
+    {
+      "state": "FL",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 173175.0,
+    "gap_usd": 43015.0
+  }
+}

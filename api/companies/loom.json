@@ -1,0 +1,146 @@
+{
+  "slug": "loom",
+  "canonical_name": "Loom, Inc.",
+  "fein": null,
+  "lca_filing_count": 8,
+  "warn_notice_count": 0,
+  "median_wage_usd": 169187.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 3,
+      "median_wage_usd": 142958.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 217000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 203169.56
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Data Engineer",
+      "count": 2,
+      "median_wage_usd": 140660.0
+    },
+    {
+      "title": "Senior Security Engineer",
+      "count": 1,
+      "median_wage_usd": 217000.0
+    },
+    {
+      "title": "Senior Data Scientist",
+      "count": 1,
+      "median_wage_usd": 163696.0
+    },
+    {
+      "title": "Senior Data Science Manager",
+      "count": 1,
+      "median_wage_usd": 217000.0
+    },
+    {
+      "title": "Engineering Manager",
+      "count": 1,
+      "median_wage_usd": 174678.0
+    },
+    {
+      "title": "Staff Security Engineer ",
+      "count": 1,
+      "median_wage_usd": 242643.12
+    },
+    {
+      "title": "Data Scientist",
+      "count": 1,
+      "median_wage_usd": 163696.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 3
+    },
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 3
+    },
+    {
+      "state": "NY",
+      "county": "QUEENS",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 7
+    },
+    {
+      "state": "NY",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 24,
+    "continuing_denials": 0,
+    "total_approvals": 25,
+    "by_fy": [
+      {
+        "fy": 2020,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 6,
+        "continuing_denials": 0,
+        "total_approvals": 6
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 13,
+        "continuing_denials": 0,
+        "total_approvals": 13
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      }
+    ]
+  },
+  "lca_worker_positions": 7,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 190348.0,
+    "gap_usd": 82328.0
+  }
+}

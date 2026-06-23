@@ -1,0 +1,83 @@
+{
+  "slug": "nyp-holdings",
+  "canonical_name": "NYP Holdings, Inc",
+  "fein": null,
+  "lca_filing_count": 6,
+  "warn_notice_count": 2,
+  "median_wage_usd": 100000.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 4,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 112500.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior News Reporter",
+      "count": 2,
+      "median_wage_usd": 105000.0
+    },
+    {
+      "title": "Circulation System Specialist and Application Developer",
+      "count": 1,
+      "median_wage_usd": 143000.0
+    },
+    {
+      "title": "Real Estate Reporter",
+      "count": 1,
+      "median_wage_usd": 78000.0
+    },
+    {
+      "title": "City Hall Reporter",
+      "count": 1,
+      "median_wage_usd": 82000.0
+    },
+    {
+      "title": "Reporter ",
+      "count": 1,
+      "median_wage_usd": 95000.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 6
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 6
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "05/29/2025",
+      "effective_date": "08/31/2025",
+      "state": "NY",
+      "workers": 83,
+      "city": "Flushing"
+    },
+    {
+      "date": "10/20/2020",
+      "effective_date": "01/31/2020",
+      "state": "NY",
+      "workers": 351,
+      "city": "Bronx"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "lca_worker_positions": 6,
+  "top_socs": [],
+  "lca_periods": []
+}

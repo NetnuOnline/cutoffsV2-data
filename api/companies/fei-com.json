@@ -1,0 +1,149 @@
+{
+  "slug": "fei-com",
+  "canonical_name": "FEI.COM, Inc.",
+  "fein": "52-2067447",
+  "lca_filing_count": 50,
+  "lca_worker_positions": 50,
+  "warn_notice_count": 0,
+  "median_wage_usd": 112150.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 5,
+      "median_wage_usd": 80000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 15,
+      "median_wage_usd": 90000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 5,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 6,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 7,
+      "median_wage_usd": 118450.0
+    },
+    {
+      "fy": 2025,
+      "filings": 6,
+      "median_wage_usd": 134341.5
+    },
+    {
+      "fy": 2026,
+      "filings": 6,
+      "median_wage_usd": 133276.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Systems Analyst",
+      "count": 16,
+      "median_wage_usd": 122500.0
+    },
+    {
+      "title": "Application Developer",
+      "count": 11,
+      "median_wage_usd": 93000.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 6,
+      "median_wage_usd": 102500.0
+    },
+    {
+      "title": "Quality Assurance Analyst",
+      "count": 6,
+      "median_wage_usd": 92127.0
+    },
+    {
+      "title": "Scrum Master",
+      "count": 3,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "Product Manager",
+      "count": 1,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "title": "Database Developer",
+      "count": 1,
+      "median_wage_usd": 109300.0
+    },
+    {
+      "title": "Senior Software Developer",
+      "count": 1,
+      "median_wage_usd": 138000.0
+    },
+    {
+      "title": "Accountant",
+      "count": 1,
+      "median_wage_usd": 93000.0
+    },
+    {
+      "title": "Engineering Management Analyst",
+      "count": 1,
+      "median_wage_usd": 134100.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MD",
+      "county": "HOWARD",
+      "count": 36
+    },
+    {
+      "state": "OR",
+      "county": "WASHINGTON",
+      "count": 1
+    },
+    {
+      "state": "OH",
+      "county": "DELAWARE",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "county": "CABARRUS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MD",
+      "count": 47
+    },
+    {
+      "state": "OR",
+      "count": 1
+    },
+    {
+      "state": "OH",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1211",
+    "soc_title": "Computer Systems Analysts",
+    "market_median_usd": 103800.0,
+    "employer_median_usd": 133276.0,
+    "gap_usd": 29476.0
+  }
+}

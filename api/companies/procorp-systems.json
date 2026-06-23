@@ -1,0 +1,181 @@
+{
+  "slug": "procorp-systems",
+  "canonical_name": "Procorp Systems, Inc",
+  "fein": "20-8941705",
+  "lca_filing_count": 32,
+  "lca_worker_positions": 29,
+  "warn_notice_count": 0,
+  "median_wage_usd": 110490.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 8,
+      "median_wage_usd": 102825.0
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 130998.0
+    },
+    {
+      "fy": 2022,
+      "filings": 3,
+      "median_wage_usd": 91296.0
+    },
+    {
+      "fy": 2023,
+      "filings": 7,
+      "median_wage_usd": 108888.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 6,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 98304.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 3,
+      "median_wage_usd": 95160.0
+    },
+    {
+      "title": "Systems Integration Manager",
+      "count": 3,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "Service Developer-Full Stack",
+      "count": 2,
+      "median_wage_usd": 108888.0
+    },
+    {
+      "title": "Software Integration Engineer",
+      "count": 2,
+      "median_wage_usd": 110490.0
+    },
+    {
+      "title": "Genesys Intelligent Automation Engineer",
+      "count": 2,
+      "median_wage_usd": 130998.0
+    },
+    {
+      "title": "IT Project Manager",
+      "count": 2,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "Senior Splunk Cloud Administrator",
+      "count": 2,
+      "median_wage_usd": 120936.0
+    },
+    {
+      "title": "Integration Developer ",
+      "count": 2,
+      "median_wage_usd": 87194.0
+    },
+    {
+      "title": "Developer/Automation Tester",
+      "count": 2,
+      "median_wage_usd": 91296.0
+    },
+    {
+      "title": "Embedded Software Engineer",
+      "count": 1,
+      "median_wage_usd": 102192.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "OH",
+      "county": "HAMILTON",
+      "count": 11
+    },
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 4
+    },
+    {
+      "state": "MI",
+      "county": "WAYNE",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 2
+    },
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "county": "COBB",
+      "count": 1
+    },
+    {
+      "state": "OH",
+      "county": "DELAWARE",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "OH",
+      "count": 14
+    },
+    {
+      "state": "TX",
+      "count": 11
+    },
+    {
+      "state": "MI",
+      "count": 3
+    },
+    {
+      "state": "GA",
+      "count": 1
+    },
+    {
+      "state": "AZ",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 108888.0,
+    "gap_usd": -21272.0
+  }
+}

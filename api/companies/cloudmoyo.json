@@ -1,0 +1,172 @@
+{
+  "slug": "cloudmoyo",
+  "canonical_name": "Cloudmoyo, Inc.",
+  "fein": null,
+  "lca_filing_count": 10,
+  "warn_notice_count": 0,
+  "median_wage_usd": 113744.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 5,
+      "median_wage_usd": 134243.0
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 100700.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 90000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Data Analyst",
+      "count": 2,
+      "median_wage_usd": 90000.0
+    },
+    {
+      "title": "Senior Data Analyst",
+      "count": 2,
+      "median_wage_usd": 98000.0
+    },
+    {
+      "title": "Principal Consultant",
+      "count": 1,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "title": "Technical Manager and Presales",
+      "count": 1,
+      "median_wage_usd": 134243.0
+    },
+    {
+      "title": "Sr. Analytics Consultant & Technical Manager - Services",
+      "count": 1,
+      "median_wage_usd": 126788.0
+    },
+    {
+      "title": "Sr. Director \u2013 Pre-Sales",
+      "count": 1,
+      "median_wage_usd": 180000.0
+    },
+    {
+      "title": "Project Manager",
+      "count": 1,
+      "median_wage_usd": 143000.0
+    },
+    {
+      "title": "Associate Architect",
+      "count": 1,
+      "median_wage_usd": 100700.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MO",
+      "county": "JACKSON",
+      "count": 4
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 3
+    },
+    {
+      "state": "KS",
+      "county": "JOHNSON",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MO",
+      "count": 4
+    },
+    {
+      "state": "WA",
+      "count": 3
+    },
+    {
+      "state": "KS",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 5,
+    "initial_denials": 0,
+    "continuing_approvals": 14,
+    "continuing_denials": 0,
+    "total_approvals": 19,
+    "by_fy": [
+      {
+        "fy": 2016,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 5,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 8
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 4,
+        "continuing_denials": 0,
+        "total_approvals": 4
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 7,
+        "continuing_denials": 0,
+        "total_approvals": 7
+      }
+    ]
+  },
+  "lca_worker_positions": 13,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3021",
+    "soc_title": "Computer and Information Systems Managers",
+    "market_median_usd": 169510.0,
+    "employer_median_usd": 138394.0,
+    "gap_usd": -31116.0
+  }
+}

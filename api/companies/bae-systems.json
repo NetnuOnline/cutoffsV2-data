@@ -1,0 +1,632 @@
+{
+  "slug": "bae-systems",
+  "canonical_name": "BAE Systems",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 71,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 24
+    },
+    {
+      "state": "VA",
+      "count": 8
+    },
+    {
+      "state": "WA",
+      "count": 8
+    },
+    {
+      "state": "AL",
+      "count": 6
+    },
+    {
+      "state": "TX",
+      "count": 6
+    },
+    {
+      "state": "HI",
+      "count": 3
+    },
+    {
+      "state": "GA",
+      "count": 3
+    },
+    {
+      "state": "MD",
+      "count": 2
+    },
+    {
+      "state": "DC",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "03/19/2026",
+      "effective_date": "03/18/2026",
+      "state": "VA",
+      "workers": 119,
+      "city": "Vienna, VA"
+    },
+    {
+      "date": "01/02/2026",
+      "effective_date": "03/02/2026",
+      "state": "MD",
+      "workers": 55,
+      "city": "Annapolis Junction"
+    },
+    {
+      "date": "07/15/2024",
+      "effective_date": "09/14/2024",
+      "state": "VA",
+      "workers": 56,
+      "city": "McLean, VA"
+    },
+    {
+      "date": "05/06/2024",
+      "effective_date": "05/06/2024",
+      "state": "HI",
+      "workers": 0,
+      "city": null
+    },
+    {
+      "date": "02/16/2024",
+      "effective_date": "04/17/2024",
+      "state": "WA",
+      "workers": 54,
+      "city": "Keyport, Silverdale"
+    },
+    {
+      "date": "05/12/2023",
+      "effective_date": "07/12/2023",
+      "state": "CA",
+      "workers": 275,
+      "city": "San Diego"
+    },
+    {
+      "date": "08/04/2022",
+      "effective_date": "08/04/2022",
+      "state": "HI",
+      "workers": 0,
+      "city": null
+    },
+    {
+      "date": "05/30/2022",
+      "effective_date": "05/30/2022",
+      "state": "GA",
+      "workers": 10,
+      "city": "Fort Gordon"
+    },
+    {
+      "date": "04/18/2022",
+      "effective_date": "04/18/2022",
+      "state": "GA",
+      "workers": 70,
+      "city": "Fort Gordon"
+    },
+    {
+      "date": "06/30/2021",
+      "effective_date": "06/30/2021",
+      "state": "GA",
+      "workers": 65,
+      "city": "Fort Gordon"
+    },
+    {
+      "date": "10/16/2019",
+      "effective_date": "10/16/2019",
+      "state": "HI",
+      "workers": 0,
+      "city": null
+    },
+    {
+      "date": "09/27/2018",
+      "effective_date": "09/27/2018",
+      "state": "SC",
+      "workers": 233,
+      "city": "Summerville"
+    },
+    {
+      "date": "06/25/2018",
+      "effective_date": "08/31/2018",
+      "state": "AK",
+      "workers": 101,
+      "city": "Clear, AK"
+    },
+    {
+      "date": "03/02/2018",
+      "effective_date": "04/29/2018",
+      "state": "AL",
+      "workers": 80,
+      "city": "Mobile"
+    },
+    {
+      "date": "01/29/2018",
+      "effective_date": "03/20/2018",
+      "state": "VA",
+      "workers": 141,
+      "city": "Sterling, VA"
+    },
+    {
+      "date": "07/10/2017",
+      "effective_date": "09/05/2017",
+      "state": "CA",
+      "workers": 276,
+      "city": "San Diego"
+    },
+    {
+      "date": "01/31/2017",
+      "effective_date": "03/31/2017",
+      "state": "WA",
+      "workers": 59,
+      "city": "Keyport, WA"
+    },
+    {
+      "date": "08/19/2016",
+      "effective_date": "10/19/2016",
+      "state": "AL",
+      "workers": 200,
+      "city": "Mobile"
+    },
+    {
+      "date": "06/01/2016",
+      "effective_date": "07/29/2016",
+      "state": "DC",
+      "workers": 56,
+      "city": "Washington D.C."
+    },
+    {
+      "date": "05/26/2016",
+      "effective_date": "05/24/2016",
+      "state": "CA",
+      "workers": 53,
+      "city": "San Francisco"
+    },
+    {
+      "date": "05/26/2016",
+      "effective_date": "05/24/2016",
+      "state": "CA",
+      "workers": 1,
+      "city": "San Francisco"
+    },
+    {
+      "date": "04/29/2016",
+      "effective_date": "06/30/2016",
+      "state": "DC",
+      "workers": 13,
+      "city": "Washington D.C."
+    },
+    {
+      "date": "03/29/2016",
+      "effective_date": "03/28/2016",
+      "state": "CA",
+      "workers": 154,
+      "city": "San Francisco"
+    },
+    {
+      "date": "03/29/2016",
+      "effective_date": "03/28/2016",
+      "state": "CA",
+      "workers": 1,
+      "city": "San Francisco"
+    },
+    {
+      "date": "02/12/2016",
+      "effective_date": "02/09/2016",
+      "state": "CA",
+      "workers": 228,
+      "city": "San Francisco"
+    },
+    {
+      "date": "02/12/2016",
+      "effective_date": "02/09/2016",
+      "state": "CA",
+      "workers": 2,
+      "city": "San Francisco"
+    },
+    {
+      "date": "01/13/2016",
+      "effective_date": "03/18/2016",
+      "state": "FL",
+      "workers": 300,
+      "city": "Jacksonville"
+    },
+    {
+      "date": "01/12/2016",
+      "effective_date": "03/18/2016",
+      "state": "VA",
+      "workers": 500,
+      "city": "Norfolk, VA"
+    },
+    {
+      "date": "12/16/2015",
+      "effective_date": "12/14/2015",
+      "state": "CA",
+      "workers": 61,
+      "city": "San Francisco"
+    },
+    {
+      "date": "12/16/2015",
+      "effective_date": "12/14/2015",
+      "state": "CA",
+      "workers": 2,
+      "city": "San Francisco"
+    },
+    {
+      "date": "10/26/2015",
+      "effective_date": "10/20/2015",
+      "state": "CA",
+      "workers": 163,
+      "city": "San Francisco"
+    },
+    {
+      "date": "10/26/2015",
+      "effective_date": "10/20/2015",
+      "state": "CA",
+      "workers": 2,
+      "city": "San Francisco"
+    },
+    {
+      "date": "09/21/2015",
+      "effective_date": "11/20/2015",
+      "state": "VA",
+      "workers": 1512,
+      "city": "Norfolk, VA"
+    },
+    {
+      "date": "08/28/2015",
+      "effective_date": "08/25/2015",
+      "state": "CA",
+      "workers": 134,
+      "city": "San Francisco"
+    },
+    {
+      "date": "07/01/2015",
+      "effective_date": "06/29/2015",
+      "state": "CA",
+      "workers": 78,
+      "city": "San Francisco"
+    },
+    {
+      "date": "07/01/2015",
+      "effective_date": "06/29/2015",
+      "state": "CA",
+      "workers": 4,
+      "city": "San Francisco"
+    },
+    {
+      "date": "05/27/2015",
+      "effective_date": "05/26/2015",
+      "state": "CA",
+      "workers": 1,
+      "city": "San Francisco"
+    },
+    {
+      "date": "05/21/2015",
+      "effective_date": "05/20/2015",
+      "state": "CA",
+      "workers": 1,
+      "city": "San Francisco"
+    },
+    {
+      "date": "05/19/2015",
+      "effective_date": "05/05/2015",
+      "state": "CA",
+      "workers": 104,
+      "city": "San Francisco"
+    },
+    {
+      "date": "03/23/2015",
+      "effective_date": "03/06/2015",
+      "state": "CA",
+      "workers": 201,
+      "city": "San Francisco"
+    },
+    {
+      "date": "12/23/2014",
+      "effective_date": "01/06/2015",
+      "state": "CA",
+      "workers": 192,
+      "city": "San Francisco"
+    },
+    {
+      "date": "11/06/2014",
+      "effective_date": "11/06/2014",
+      "state": "TX",
+      "workers": 203,
+      "city": "Ft. Worth"
+    },
+    {
+      "date": "10/31/2014",
+      "effective_date": "10/31/2014",
+      "state": "NJ",
+      "workers": 90,
+      "city": "Mount Laurel"
+    },
+    {
+      "date": "10/10/2014",
+      "effective_date": "09/09/2014",
+      "state": "CA",
+      "workers": 201,
+      "city": "San Francisco"
+    },
+    {
+      "date": "09/30/2014",
+      "effective_date": "09/30/2014",
+      "state": "NJ",
+      "workers": 90,
+      "city": "Mount Laurel"
+    },
+    {
+      "date": "08/25/2014",
+      "effective_date": "09/09/2014",
+      "state": "CA",
+      "workers": 87,
+      "city": "San Francisco"
+    },
+    {
+      "date": "08/12/2014",
+      "effective_date": "08/11/2014",
+      "state": "CA",
+      "workers": 1,
+      "city": "San Francisco"
+    },
+    {
+      "date": "08/05/2014",
+      "effective_date": "08/04/2014",
+      "state": "CA",
+      "workers": 1,
+      "city": "San Francisco"
+    },
+    {
+      "date": "06/26/2014",
+      "effective_date": "06/26/2014",
+      "state": "KY",
+      "workers": 150,
+      "city": "Jackson"
+    },
+    {
+      "date": "05/01/2014",
+      "effective_date": "06/30/2014",
+      "state": "MD",
+      "workers": 172,
+      "city": "23481 Cottonwood Parkway, California, MD 20619"
+    },
+    {
+      "date": "10/15/2013",
+      "effective_date": "12/20/2013",
+      "state": "TX",
+      "workers": 190,
+      "city": "Sealy"
+    },
+    {
+      "date": "10/02/2013",
+      "effective_date": "12/01/2013",
+      "state": "TX",
+      "workers": 361,
+      "city": "Corpus Christi"
+    },
+    {
+      "date": "09/11/2013",
+      "effective_date": "11/18/2013",
+      "state": "TX",
+      "workers": 140,
+      "city": "Sealy"
+    },
+    {
+      "date": "02/22/2013",
+      "effective_date": "11/30/2012",
+      "state": "VA",
+      "workers": 0,
+      "city": "Norfolk, VA"
+    },
+    {
+      "date": "10/31/2012",
+      "effective_date": "12/27/2012",
+      "state": "WA",
+      "workers": 57,
+      "city": "Keyport"
+    },
+    {
+      "date": "10/05/2012",
+      "effective_date": "10/26/2012",
+      "state": "VA",
+      "workers": 77,
+      "city": "Newport News, VA"
+    },
+    {
+      "date": "07/24/2012",
+      "effective_date": "08/27/2012",
+      "state": "VA",
+      "workers": 76,
+      "city": "Newport News, VA"
+    },
+    {
+      "date": "04/27/2012",
+      "effective_date": "06/30/2012",
+      "state": "WA",
+      "workers": 61,
+      "city": "Keyport"
+    },
+    {
+      "date": "03/07/2012",
+      "effective_date": "03/09/2012",
+      "state": "TN",
+      "workers": 57,
+      "city": "Jefferson City"
+    },
+    {
+      "date": "12/13/2011",
+      "effective_date": "03/01/2012",
+      "state": "TX",
+      "workers": 160,
+      "city": "Irving"
+    },
+    {
+      "date": "10/31/2011",
+      "effective_date": "12/30/2011",
+      "state": "AL",
+      "workers": 155,
+      "city": "Anniston"
+    },
+    {
+      "date": "06/30/2011",
+      "effective_date": "06/30/2011",
+      "state": "WA",
+      "workers": 90,
+      "city": "Keyport"
+    },
+    {
+      "date": "05/10/2011",
+      "effective_date": "06/30/2011",
+      "state": "WA",
+      "workers": 90,
+      "city": "Keyport"
+    },
+    {
+      "date": "08/14/2009",
+      "effective_date": "11/27/2010",
+      "state": "AL",
+      "workers": 102,
+      "city": "Anniston"
+    },
+    {
+      "date": "02/26/2009",
+      "effective_date": "04/28/2009",
+      "state": "TX",
+      "workers": 450,
+      "city": "Irving"
+    },
+    {
+      "date": "11/07/2008",
+      "effective_date": "12/19/2008",
+      "state": "WA",
+      "workers": 31,
+      "city": "Bremerton"
+    },
+    {
+      "date": "09/10/2008",
+      "effective_date": "09/11/2008",
+      "state": "AL",
+      "workers": 194,
+      "city": "Geneva"
+    },
+    {
+      "date": "12/13/2007",
+      "effective_date": "02/19/2008",
+      "state": "WA",
+      "workers": 55,
+      "city": "Keyport"
+    },
+    {
+      "date": "09/27/2005",
+      "effective_date": "12/15/2008",
+      "state": "AL",
+      "workers": 222,
+      "city": "Anniston"
+    },
+    {
+      "date": "06/17/2002",
+      "effective_date": "06/17/2002",
+      "state": "KS",
+      "workers": 67,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "03/08/2002",
+      "effective_date": "03/08/2002",
+      "state": "KS",
+      "workers": 31,
+      "city": "same"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "east-alabama-works",
+      "name": "East Alabama Works",
+      "state": "AL"
+    },
+    {
+      "slug": "southeast-alabama-works",
+      "name": "Southeast Alabama Works",
+      "state": "AL"
+    },
+    {
+      "slug": "southwest-alabama-works",
+      "name": "Southwest Alabama Works",
+      "state": "AL"
+    },
+    {
+      "slug": "alaska-wib",
+      "name": "Alaska WIB",
+      "state": "AK"
+    },
+    {
+      "slug": "san-francisco-citycounty-wib",
+      "name": "San Francisco City/County WIB",
+      "state": "CA"
+    },
+    {
+      "slug": "careersource-northeast-florida",
+      "name": "CareerSource Northeast Florida",
+      "state": "FL"
+    },
+    {
+      "slug": "g-ekcep-wib",
+      "name": "G Ekcep WIB",
+      "state": "KY"
+    },
+    {
+      "slug": "mid-maryland-wia",
+      "name": "MID-Maryland WIA",
+      "state": "MD"
+    },
+    {
+      "slug": "burlington-wib",
+      "name": "Burlington WIB",
+      "state": "NJ"
+    },
+    {
+      "slug": "trident-wib",
+      "name": "Trident WIB",
+      "state": "SC"
+    },
+    {
+      "slug": "02-local-workforce-investment-area",
+      "name": "02 Local Workforce Investment Area",
+      "state": "TN"
+    },
+    {
+      "slug": "coastal-bend-wda",
+      "name": "Coastal Bend WDA",
+      "state": "TX"
+    },
+    {
+      "slug": "northern-virginia-lwia-xi",
+      "name": "Northern Virginia LWIA XI",
+      "state": "VA"
+    },
+    {
+      "slug": "hampton-roads-lwia-xvi",
+      "name": "Hampton Roads LWIA XVI",
+      "state": "VA"
+    },
+    {
+      "slug": "olympic-wib",
+      "name": "Olympic WIB",
+      "state": "WA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

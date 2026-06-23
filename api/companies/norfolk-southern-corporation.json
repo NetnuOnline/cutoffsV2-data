@@ -1,0 +1,76 @@
+{
+  "slug": "norfolk-southern-corporation",
+  "canonical_name": "Norfolk Southern Corporation",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 5,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "VA",
+      "count": 2
+    },
+    {
+      "state": "NC",
+      "count": 1
+    },
+    {
+      "state": "AL",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "05/01/2020",
+      "effective_date": "05/12/2020",
+      "state": "NC",
+      "workers": 85,
+      "city": "5281, Southern Station RR Station Linwood"
+    },
+    {
+      "date": "02/18/2020",
+      "effective_date": "04/18/2020",
+      "state": "VA",
+      "workers": 104,
+      "city": "Roanoke, VA"
+    },
+    {
+      "date": "03/27/2015",
+      "effective_date": "06/01/2015",
+      "state": "VA",
+      "workers": 426,
+      "city": "Roanoke, VA"
+    },
+    {
+      "date": "07/17/2009",
+      "effective_date": "09/13/2009",
+      "state": "AL",
+      "workers": 64,
+      "city": "Muscle Shoals"
+    },
+    {
+      "date": "04/15/1994",
+      "effective_date": "06/01/1994",
+      "state": "IL",
+      "workers": 120,
+      "city": "Chicago"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "western-virginia-lwia-iii",
+      "name": "Western Virginia LWIA III",
+      "state": "VA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

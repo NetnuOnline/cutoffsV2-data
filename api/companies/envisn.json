@@ -1,0 +1,86 @@
+{
+  "slug": "envisn",
+  "canonical_name": "Envisn Inc",
+  "fein": null,
+  "lca_filing_count": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 92040.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 92040.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 70000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "DevOps Engineer",
+      "count": 1,
+      "median_wage_usd": 96866.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 1,
+      "median_wage_usd": 92040.0
+    },
+    {
+      "title": "Systems Engineer",
+      "count": 1,
+      "median_wage_usd": 70000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 30,
+    "initial_denials": 0,
+    "continuing_approvals": 0,
+    "continuing_denials": 0,
+    "total_approvals": 30,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 6,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 6
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 24,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 24
+      }
+    ]
+  },
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 92040.0,
+    "gap_usd": -38120.0
+  }
+}

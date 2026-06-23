@@ -1,0 +1,68 @@
+{
+  "slug": "anecdotes",
+  "canonical_name": "anecdotes Inc",
+  "fein": "86-1865522",
+  "lca_filing_count": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 355149.6,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 416000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 294299.2
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Compliance Expert",
+      "count": 3,
+      "median_wage_usd": 355149.6
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 1,
+    "continuing_approvals": 0,
+    "continuing_denials": 0,
+    "total_approvals": 1,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 1,
+        "initial_denials": 1,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3021",
+    "soc_title": "Computer and Information Systems Managers",
+    "market_median_usd": 169510.0,
+    "employer_median_usd": 294299.2,
+    "gap_usd": 124789.2
+  }
+}

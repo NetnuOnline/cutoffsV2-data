@@ -1,0 +1,240 @@
+{
+  "slug": "niantic",
+  "canonical_name": "Niantic, Inc.",
+  "fein": "47-4877639",
+  "lca_filing_count": 37,
+  "warn_notice_count": 3,
+  "median_wage_usd": 170872.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 6,
+      "median_wage_usd": 167936.0
+    },
+    {
+      "fy": 2021,
+      "filings": 8,
+      "median_wage_usd": 165000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 5,
+      "median_wage_usd": 156000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 8,
+      "median_wage_usd": 183000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 7,
+      "median_wage_usd": 212000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 223400.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 8,
+      "median_wage_usd": 159310.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 4,
+      "median_wage_usd": 201470.5
+    },
+    {
+      "title": "Staff Software Engineer",
+      "count": 3,
+      "median_wage_usd": 234700.0
+    },
+    {
+      "title": "Software Development Engineer in Test",
+      "count": 2,
+      "median_wage_usd": 165000.0
+    },
+    {
+      "title": "Data Scientist, Game Analytics",
+      "count": 2,
+      "median_wage_usd": 165000.0
+    },
+    {
+      "title": "Group Product Manager",
+      "count": 2,
+      "median_wage_usd": 230000.0
+    },
+    {
+      "title": "Product Manager",
+      "count": 2,
+      "median_wage_usd": 185000.0
+    },
+    {
+      "title": "Senior Software Engineer ",
+      "count": 1,
+      "median_wage_usd": 170872.0
+    },
+    {
+      "title": "Developer Support Manager",
+      "count": 1,
+      "median_wage_usd": 170000.0
+    },
+    {
+      "title": "Data Engineer, Machine Learning",
+      "count": 1,
+      "median_wage_usd": 153500.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 23
+    },
+    {
+      "state": "WA",
+      "count": 14
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 14
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 12
+    },
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 8
+    },
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 2
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "05/16/2025",
+      "effective_date": "05/19/2025",
+      "state": "CA",
+      "workers": 5,
+      "city": "San Francisco"
+    },
+    {
+      "date": "03/20/2025",
+      "effective_date": "05/20/2025",
+      "state": "CA",
+      "workers": 68,
+      "city": "San Francisco"
+    },
+    {
+      "date": "06/28/2023",
+      "effective_date": "07/01/2023",
+      "state": "CA",
+      "workers": 57,
+      "city": "San Francisco"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "san-francisco-citycounty-wib",
+      "name": "San Francisco City/County WIB",
+      "state": "CA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 29,
+    "initial_denials": 1,
+    "continuing_approvals": 98,
+    "continuing_denials": 3,
+    "total_approvals": 127,
+    "by_fy": [
+      {
+        "fy": 2016,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2017,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 14,
+        "initial_denials": 1,
+        "continuing_approvals": 9,
+        "continuing_denials": 1,
+        "total_approvals": 23
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 8,
+        "initial_denials": 0,
+        "continuing_approvals": 33,
+        "continuing_denials": 0,
+        "total_approvals": 41
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 7,
+        "initial_denials": 0,
+        "continuing_approvals": 42,
+        "continuing_denials": 1,
+        "total_approvals": 49
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 14,
+        "continuing_denials": 1,
+        "total_approvals": 14
+      }
+    ]
+  },
+  "lca_worker_positions": 37,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 192941.0,
+    "gap_usd": 62781.0
+  }
+}

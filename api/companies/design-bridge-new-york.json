@@ -1,0 +1,51 @@
+{
+  "slug": "design-bridge-new-york",
+  "canonical_name": "Design Bridge New York LLC",
+  "fein": null,
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 124000.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 124000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Client Manager",
+      "count": 1,
+      "median_wage_usd": 83000.0
+    },
+    {
+      "title": "CLIENT BUSINESS DIRECTOR",
+      "count": 1,
+      "median_wage_usd": 165000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-2021",
+    "soc_title": "Marketing Managers",
+    "market_median_usd": 157620.0,
+    "employer_median_usd": 165000.0,
+    "gap_usd": 7380.0
+  }
+}

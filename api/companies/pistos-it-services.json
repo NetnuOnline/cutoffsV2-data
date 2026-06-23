@@ -1,0 +1,80 @@
+{
+  "slug": "pistos-it-services",
+  "canonical_name": "Pistos It Services LLC",
+  "fein": "83-0591409",
+  "lca_filing_count": 6,
+  "lca_worker_positions": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 83148.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 83325.0
+    },
+    {
+      "fy": 2024,
+      "filings": 4,
+      "median_wage_usd": 82971.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 101421.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 4,
+      "median_wage_usd": 82971.0
+    },
+    {
+      "title": "SOFTWARE ENGINEER",
+      "count": 1,
+      "median_wage_usd": 83325.0
+    },
+    {
+      "title": "Product Manager",
+      "count": 1,
+      "median_wage_usd": 118061.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "GA",
+      "county": "FORSYTH",
+      "count": 4
+    },
+    {
+      "state": "PA",
+      "county": "DAUPHIN",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 4
+    },
+    {
+      "state": "PA",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 82971.0,
+    "gap_usd": -47189.0
+  }
+}

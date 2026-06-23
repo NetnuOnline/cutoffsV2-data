@@ -1,0 +1,203 @@
+{
+  "slug": "mckinsey-company-united-states",
+  "canonical_name": "McKinsey & Company, Inc. United States",
+  "fein": "13-3796161",
+  "lca_filing_count": 570,
+  "lca_worker_positions": 1001,
+  "warn_notice_count": 0,
+  "median_wage_usd": 165000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 55,
+      "median_wage_usd": 160000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 104,
+      "median_wage_usd": 160000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 105,
+      "median_wage_usd": 175000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 117,
+      "median_wage_usd": 145000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 81,
+      "median_wage_usd": 192000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 77,
+      "median_wage_usd": 192000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 23,
+      "median_wage_usd": 192000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Associate (Management Consultant)",
+      "count": 42,
+      "median_wage_usd": 192000.0
+    },
+    {
+      "title": "Specialist",
+      "count": 28,
+      "median_wage_usd": 198300.0
+    },
+    {
+      "title": "Business Analyst (Management Consultant)",
+      "count": 25,
+      "median_wage_usd": 112000.0
+    },
+    {
+      "title": "Engagement Manager (Management Consultant)",
+      "count": 22,
+      "median_wage_usd": 201500.0
+    },
+    {
+      "title": "Expert",
+      "count": 15,
+      "median_wage_usd": 210200.0
+    },
+    {
+      "title": "Senior Analyst",
+      "count": 15,
+      "median_wage_usd": 122000.0
+    },
+    {
+      "title": "Senior Business Analyst (Management Consultant)",
+      "count": 13,
+      "median_wage_usd": 112000.0
+    },
+    {
+      "title": "Associate - Implementation",
+      "count": 12,
+      "median_wage_usd": 192000.0
+    },
+    {
+      "title": "Data Engineer II",
+      "count": 10,
+      "median_wage_usd": 150800.0
+    },
+    {
+      "title": "Partner",
+      "count": 9,
+      "median_wage_usd": 275000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 95
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 56
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 43
+    },
+    {
+      "state": "MA",
+      "county": "WALTHAM CITY",
+      "count": 41
+    },
+    {
+      "state": "MA",
+      "county": "BOSTON CITY",
+      "count": 29
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 29
+    },
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 18
+    },
+    {
+      "state": "DC",
+      "county": "DISTRICT OF COLUMBIA",
+      "count": 16
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 15
+    },
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 15
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 129
+    },
+    {
+      "state": "MA",
+      "count": 90
+    },
+    {
+      "state": "GA",
+      "count": 64
+    },
+    {
+      "state": "TX",
+      "count": 60
+    },
+    {
+      "state": "CA",
+      "count": 56
+    },
+    {
+      "state": "IL",
+      "count": 48
+    },
+    {
+      "state": "NJ",
+      "count": 27
+    },
+    {
+      "state": "DC",
+      "count": 21
+    },
+    {
+      "state": "WA",
+      "count": 15
+    },
+    {
+      "state": "PA",
+      "count": 12
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1111",
+    "soc_title": "Management Analysts",
+    "market_median_usd": 99000.0,
+    "employer_median_usd": 173000.0,
+    "gap_usd": 74000.0
+  }
+}

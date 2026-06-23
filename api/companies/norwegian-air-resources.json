@@ -1,0 +1,47 @@
+{
+  "slug": "norwegian-air-resources",
+  "canonical_name": "Norwegian Air Resources US",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "FL",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "02/12/2021",
+      "effective_date": "02/11/2021",
+      "state": "FL",
+      "workers": 154,
+      "city": "FORT LAUDERDALE"
+    },
+    {
+      "date": "03/18/2020",
+      "effective_date": "02/11/2021",
+      "state": "NY",
+      "workers": 204,
+      "city": "Jamaica"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "careersource-broward",
+      "name": "CareerSource Broward",
+      "state": "FL"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

@@ -1,0 +1,124 @@
+{
+  "slug": "tricentis-usa",
+  "canonical_name": "Tricentis USA Corp",
+  "fein": "27-5099781",
+  "lca_filing_count": 8,
+  "lca_worker_positions": 7,
+  "warn_notice_count": 0,
+  "median_wage_usd": 150152.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 3,
+      "median_wage_usd": 165000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 148429.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 134285.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Site Reliability Engineer",
+      "count": 2,
+      "median_wage_usd": 151875.0
+    },
+    {
+      "title": "Lead Product Manager",
+      "count": 1,
+      "median_wage_usd": 172307.0
+    },
+    {
+      "title": "Market Research Analyst",
+      "count": 1,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "title": "Partner Solution Architect",
+      "count": 1,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Director, Engineering",
+      "count": 1,
+      "median_wage_usd": 148429.0
+    },
+    {
+      "title": "Lead Data Analytics Engineer",
+      "count": 1,
+      "median_wage_usd": 165000.0
+    },
+    {
+      "title": "Salesforce CPQ Developer",
+      "count": 1,
+      "median_wage_usd": 134285.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "JOHNSON",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 4
+    },
+    {
+      "state": "GA",
+      "count": 2
+    },
+    {
+      "state": "NY",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3021",
+    "soc_title": "Computer and Information Systems Managers",
+    "market_median_usd": 169510.0,
+    "employer_median_usd": 160368.0,
+    "gap_usd": -9142.0
+  }
+}

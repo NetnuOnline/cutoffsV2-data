@@ -1,0 +1,110 @@
+{
+  "slug": "philo",
+  "canonical_name": "Philo, Inc.",
+  "fein": "27-3472079",
+  "lca_filing_count": 10,
+  "lca_worker_positions": 10,
+  "warn_notice_count": 0,
+  "median_wage_usd": 231875.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 210000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 188885.0
+    },
+    {
+      "fy": 2025,
+      "filings": 4,
+      "median_wage_usd": 232500.0
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 233750.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Corporate Counsel, Content Acquisition and Business Developm",
+      "count": 2,
+      "median_wage_usd": 233750.0
+    },
+    {
+      "title": "Lead Data Scientist (CTV Advertising)",
+      "count": 2,
+      "median_wage_usd": 194442.5
+    },
+    {
+      "title": "Principal Video Product Manager",
+      "count": 1,
+      "median_wage_usd": 260000.0
+    },
+    {
+      "title": "Lead Data Scientist (Product & Experimentation)",
+      "count": 1,
+      "median_wage_usd": 235000.0
+    },
+    {
+      "title": "Software Engineering Lead",
+      "count": 1,
+      "median_wage_usd": 235000.0
+    },
+    {
+      "title": "Senior Software Engineer ",
+      "count": 1,
+      "median_wage_usd": 210000.0
+    },
+    {
+      "title": "Roku Software Engineer",
+      "count": 1,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "title": "Lead Data Engineer",
+      "count": 1,
+      "median_wage_usd": 230000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 6
+    },
+    {
+      "state": "NY",
+      "count": 3
+    },
+    {
+      "state": "MI",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 200000.0,
+    "gap_usd": 91980.0
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "slug": "west-liberty-foods",
+  "canonical_name": "West Liberty Foods",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 4,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "IA",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "03/29/2024",
+      "effective_date": "08/18/2024",
+      "state": "IA",
+      "workers": 1,
+      "city": "West Liberty"
+    },
+    {
+      "date": "10/27/2022",
+      "effective_date": "12/31/2022",
+      "state": "IA",
+      "workers": 350,
+      "city": "Mount Pleasant"
+    },
+    {
+      "date": "12/05/2018",
+      "effective_date": "12/01/2018",
+      "state": "IL",
+      "workers": 225,
+      "city": "Bolingbrook"
+    },
+    {
+      "date": "04/26/2018",
+      "effective_date": "04/26/2018",
+      "state": "IL",
+      "workers": 0,
+      "city": "Bolingbrook"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "region-9-davenport-wib",
+      "name": "Region 9 - Davenport WIB",
+      "state": "IA"
+    },
+    {
+      "slug": "region-16-burlington-wib",
+      "name": "Region 16 - Burlington WIB",
+      "state": "IA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

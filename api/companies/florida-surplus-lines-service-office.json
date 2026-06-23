@@ -1,0 +1,51 @@
+{
+  "slug": "florida-surplus-lines-service-office",
+  "canonical_name": "Florida Surplus Lines Service Office, Inc.",
+  "fein": null,
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 76783.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 76783.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Business Analyst",
+      "count": 1,
+      "median_wage_usd": 66539.0
+    },
+    {
+      "title": "Database Administrator",
+      "count": 1,
+      "median_wage_usd": 87027.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "FL",
+      "county": "LEON",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "FL",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1111",
+    "soc_title": "Management Analysts",
+    "market_median_usd": 99000.0,
+    "employer_median_usd": 66539.0,
+    "gap_usd": -32461.0
+  }
+}

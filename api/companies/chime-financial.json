@@ -1,0 +1,199 @@
+{
+  "slug": "chime-financial",
+  "canonical_name": "Chime Financial, Inc.",
+  "fein": "46-0925388",
+  "lca_filing_count": 181,
+  "lca_worker_positions": 179,
+  "warn_notice_count": 0,
+  "median_wage_usd": 185800.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 14,
+      "median_wage_usd": 185000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 35,
+      "median_wage_usd": 190000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 17,
+      "median_wage_usd": 170000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 36,
+      "median_wage_usd": 174277.5
+    },
+    {
+      "fy": 2024,
+      "filings": 36,
+      "median_wage_usd": 195000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 31,
+      "median_wage_usd": 200000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 10,
+      "median_wage_usd": 170000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Software Engineer",
+      "count": 29,
+      "median_wage_usd": 214500.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 18,
+      "median_wage_usd": 172500.0
+    },
+    {
+      "title": "Engineering Manager",
+      "count": 7,
+      "median_wage_usd": 237120.0
+    },
+    {
+      "title": "Senior Data Analyst",
+      "count": 5,
+      "median_wage_usd": 180000.0
+    },
+    {
+      "title": "Product Manager",
+      "count": 4,
+      "median_wage_usd": 139800.0
+    },
+    {
+      "title": "Data Scientist",
+      "count": 4,
+      "median_wage_usd": 202500.0
+    },
+    {
+      "title": "Lead Data Analyst",
+      "count": 4,
+      "median_wage_usd": 187900.0
+    },
+    {
+      "title": "Senior Software Engineer, Data Engineering",
+      "count": 3,
+      "median_wage_usd": 215000.0
+    },
+    {
+      "title": "Senior Program Manager",
+      "count": 3,
+      "median_wage_usd": 145170.0
+    },
+    {
+      "title": "Senior Program Manager, Member Experience",
+      "count": 3,
+      "median_wage_usd": 170000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 126
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 2
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 2
+    },
+    {
+      "state": "GA",
+      "county": "COBB",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "county": "MIDDLESEX",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "county": "MECKLENBURG",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SACRAMENTO",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 164
+    },
+    {
+      "state": "IL",
+      "count": 4
+    },
+    {
+      "state": "TX",
+      "count": 3
+    },
+    {
+      "state": "NJ",
+      "count": 2
+    },
+    {
+      "state": "WA",
+      "count": 2
+    },
+    {
+      "state": "GA",
+      "count": 2
+    },
+    {
+      "state": "NY",
+      "count": 2
+    },
+    {
+      "state": "NC",
+      "count": 1
+    },
+    {
+      "state": "DE",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 207300.0,
+    "gap_usd": 77140.0
+  }
+}

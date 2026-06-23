@@ -1,0 +1,203 @@
+{
+  "slug": "IBM CORPORATION",
+  "canonical_name": "IBM Corporation",
+  "fein": "52-2061430",
+  "lca_filing_count": 3625,
+  "lca_worker_positions": 3562,
+  "warn_notice_count": 0,
+  "median_wage_usd": 104832.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 602,
+      "median_wage_usd": 88722.5
+    },
+    {
+      "fy": 2021,
+      "filings": 364,
+      "median_wage_usd": 88608.0
+    },
+    {
+      "fy": 2022,
+      "filings": 441,
+      "median_wage_usd": 105854.0
+    },
+    {
+      "fy": 2023,
+      "filings": 673,
+      "median_wage_usd": 104416.0
+    },
+    {
+      "fy": 2024,
+      "filings": 734,
+      "median_wage_usd": 116644.5
+    },
+    {
+      "fy": 2025,
+      "filings": 467,
+      "median_wage_usd": 127234.0
+    },
+    {
+      "fy": 2026,
+      "filings": 281,
+      "median_wage_usd": 126818.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Application Developer",
+      "count": 683,
+      "median_wage_usd": 93736.08
+    },
+    {
+      "title": "Application Architect",
+      "count": 170,
+      "median_wage_usd": 115839.22
+    },
+    {
+      "title": "Package Consultant",
+      "count": 154,
+      "median_wage_usd": 104125.0
+    },
+    {
+      "title": "Test Specialist",
+      "count": 117,
+      "median_wage_usd": 82202.0
+    },
+    {
+      "title": "Project Manager",
+      "count": 100,
+      "median_wage_usd": 103311.4
+    },
+    {
+      "title": "Data Engineer",
+      "count": 89,
+      "median_wage_usd": 97469.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 81,
+      "median_wage_usd": 179741.88
+    },
+    {
+      "title": "Software Engineer",
+      "count": 78,
+      "median_wage_usd": 96242.0
+    },
+    {
+      "title": "IT Specialist",
+      "count": 67,
+      "median_wage_usd": 100027.0
+    },
+    {
+      "title": "Technical Lead",
+      "count": 67,
+      "median_wage_usd": 102003.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 272
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 226
+    },
+    {
+      "state": "NJ",
+      "county": "MORRIS",
+      "count": 133
+    },
+    {
+      "state": "NJ",
+      "county": "ESSEX",
+      "count": 131
+    },
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 131
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 95
+    },
+    {
+      "state": "NY",
+      "county": "WESTCHESTER",
+      "count": 77
+    },
+    {
+      "state": "PA",
+      "county": "MONTGOMERY",
+      "count": 76
+    },
+    {
+      "state": "NC",
+      "county": "DURHAM",
+      "count": 74
+    },
+    {
+      "state": "TX",
+      "county": "BEXAR",
+      "count": 73
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 558
+    },
+    {
+      "state": "NJ",
+      "count": 534
+    },
+    {
+      "state": "GA",
+      "count": 313
+    },
+    {
+      "state": "CA",
+      "count": 282
+    },
+    {
+      "state": "NY",
+      "count": 240
+    },
+    {
+      "state": "NC",
+      "count": 240
+    },
+    {
+      "state": "IL",
+      "count": 195
+    },
+    {
+      "state": "AZ",
+      "count": 164
+    },
+    {
+      "state": "PA",
+      "count": 152
+    },
+    {
+      "state": "MA",
+      "count": 141
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1211",
+    "soc_title": "Computer Systems Analysts",
+    "market_median_usd": 103800.0,
+    "employer_median_usd": 106184.0,
+    "gap_usd": 2384.0
+  }
+}

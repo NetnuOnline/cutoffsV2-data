@@ -1,0 +1,204 @@
+{
+  "slug": "fisker-group",
+  "canonical_name": "Fisker Group, Inc.",
+  "fein": "81-3883342",
+  "lca_filing_count": 34,
+  "warn_notice_count": 4,
+  "median_wage_usd": 139628.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 16,
+      "median_wage_usd": 137500.0
+    },
+    {
+      "fy": 2023,
+      "filings": 17,
+      "median_wage_usd": 140947.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 96303.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "AP Manager/SAP",
+      "count": 3,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "Integration Architect",
+      "count": 2,
+      "median_wage_usd": 161000.0
+    },
+    {
+      "title": "HR Business Analyst",
+      "count": 2,
+      "median_wage_usd": 90651.5
+    },
+    {
+      "title": "HRIS Systems Lead",
+      "count": 1,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Manager, Crash & Safety CAE",
+      "count": 1,
+      "median_wage_usd": 158000.0
+    },
+    {
+      "title": "Sr. Engineer, Quality Assurance",
+      "count": 1,
+      "median_wage_usd": 133000.0
+    },
+    {
+      "title": "Technical Program Manager (SW) ",
+      "count": 1,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "title": "Sr. Manager, Software Engineering",
+      "count": 1,
+      "median_wage_usd": 165000.0
+    },
+    {
+      "title": "Mulesoft Architect",
+      "count": 1,
+      "median_wage_usd": 162000.0
+    },
+    {
+      "title": "Sr. Engineer, Testing",
+      "count": 1,
+      "median_wage_usd": 150111.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 28
+    },
+    {
+      "state": "MI",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "WI",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 21
+    },
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 4
+    },
+    {
+      "state": "CA",
+      "county": "ORANGE",
+      "count": 3
+    },
+    {
+      "state": "WI",
+      "county": "WAUKESHA",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "county": "OAKLAND",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "county": "MACOMB",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "county": "WAYNE",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "08/27/2024",
+      "effective_date": "10/01/2024",
+      "state": "CA",
+      "workers": 8,
+      "city": "La Palma"
+    },
+    {
+      "date": "08/27/2024",
+      "effective_date": "10/01/2024",
+      "state": "CA",
+      "workers": 43,
+      "city": "Manhattan Beach"
+    },
+    {
+      "date": "04/29/2024",
+      "effective_date": "06/28/2024",
+      "state": "CA",
+      "workers": 45,
+      "city": "San Francisco"
+    },
+    {
+      "date": "04/29/2024",
+      "effective_date": "06/28/2024",
+      "state": "CA",
+      "workers": 35,
+      "city": "La Palma"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 11,
+    "initial_denials": 0,
+    "continuing_approvals": 58,
+    "continuing_denials": 0,
+    "total_approvals": 69,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 8,
+        "initial_denials": 0,
+        "continuing_approvals": 47,
+        "continuing_denials": 0,
+        "total_approvals": 55
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 3,
+        "initial_denials": 0,
+        "continuing_approvals": 11,
+        "continuing_denials": 0,
+        "total_approvals": 14
+      }
+    ]
+  },
+  "lca_worker_positions": 34,
+  "top_socs": [],
+  "lca_periods": []
+}

@@ -1,0 +1,110 @@
+{
+  "slug": "brinderson",
+  "canonical_name": "Brinderson",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 11,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 10
+    },
+    {
+      "state": "WA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "08/29/2019",
+      "effective_date": "09/05/2019",
+      "state": "WA",
+      "workers": 61,
+      "city": "Anacortes"
+    },
+    {
+      "date": "10/10/2018",
+      "effective_date": "12/13/2018",
+      "state": "CA",
+      "workers": 99,
+      "city": "Rodeo"
+    },
+    {
+      "date": "10/01/2018",
+      "effective_date": "12/06/2018",
+      "state": "CA",
+      "workers": 115,
+      "city": "Wilmington"
+    },
+    {
+      "date": "10/01/2018",
+      "effective_date": "12/06/2018",
+      "state": "CA",
+      "workers": 110,
+      "city": "Carson"
+    },
+    {
+      "date": "09/06/2018",
+      "effective_date": "11/08/2018",
+      "state": "CA",
+      "workers": 98,
+      "city": "Martinez"
+    },
+    {
+      "date": "01/12/2018",
+      "effective_date": "03/29/2018",
+      "state": "CA",
+      "workers": 256,
+      "city": "Wilmington"
+    },
+    {
+      "date": "08/14/2017",
+      "effective_date": "10/16/2017",
+      "state": "CA",
+      "workers": 204,
+      "city": "El Segundo"
+    },
+    {
+      "date": "11/25/2015",
+      "effective_date": "12/07/2015",
+      "state": "CA",
+      "workers": 88,
+      "city": "Tupman"
+    },
+    {
+      "date": "11/25/2015",
+      "effective_date": "12/07/2015",
+      "state": "CA",
+      "workers": 101,
+      "city": "San Ardo"
+    },
+    {
+      "date": "11/25/2015",
+      "effective_date": "12/07/2015",
+      "state": "CA",
+      "workers": 56,
+      "city": "Lost Hills"
+    },
+    {
+      "date": "11/25/2015",
+      "effective_date": "12/07/2015",
+      "state": "CA",
+      "workers": 84,
+      "city": "Coalinga"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "northwest-washington-wib",
+      "name": "Northwest Washington WIB",
+      "state": "WA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

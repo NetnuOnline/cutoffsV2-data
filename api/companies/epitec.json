@@ -1,0 +1,203 @@
+{
+  "slug": "epitec",
+  "canonical_name": "Epitec, Inc.",
+  "fein": "38-2563079",
+  "lca_filing_count": 452,
+  "lca_worker_positions": 433,
+  "warn_notice_count": 0,
+  "median_wage_usd": 98883.2,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 55,
+      "median_wage_usd": 86112.0
+    },
+    {
+      "fy": 2021,
+      "filings": 88,
+      "median_wage_usd": 93600.0
+    },
+    {
+      "fy": 2022,
+      "filings": 101,
+      "median_wage_usd": 100256.0
+    },
+    {
+      "fy": 2023,
+      "filings": 58,
+      "median_wage_usd": 107328.0
+    },
+    {
+      "fy": 2024,
+      "filings": 66,
+      "median_wage_usd": 114400.0
+    },
+    {
+      "fy": 2025,
+      "filings": 47,
+      "median_wage_usd": 98384.0
+    },
+    {
+      "fy": 2026,
+      "filings": 18,
+      "median_wage_usd": 124290.4,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 36,
+      "median_wage_usd": 120952.0
+    },
+    {
+      "title": "Systems Engineer",
+      "count": 20,
+      "median_wage_usd": 103802.4
+    },
+    {
+      "title": "Software Developer, Applications",
+      "count": 19,
+      "median_wage_usd": 89294.4
+    },
+    {
+      "title": "Software Developer",
+      "count": 18,
+      "median_wage_usd": 110874.4
+    },
+    {
+      "title": "Electrical Engineer",
+      "count": 14,
+      "median_wage_usd": 92040.0
+    },
+    {
+      "title": "Mechanical Engineer",
+      "count": 13,
+      "median_wage_usd": 87360.0
+    },
+    {
+      "title": "Product Engineer",
+      "count": 12,
+      "median_wage_usd": 90968.8
+    },
+    {
+      "title": "Product Manager",
+      "count": 12,
+      "median_wage_usd": 141440.0
+    },
+    {
+      "title": "System Engineer",
+      "count": 10,
+      "median_wage_usd": 94764.79999999999
+    },
+    {
+      "title": "Business Analyst",
+      "count": 9,
+      "median_wage_usd": 118560.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MI",
+      "county": "WAYNE",
+      "count": 210
+    },
+    {
+      "state": "MI",
+      "county": "OAKLAND",
+      "count": 47
+    },
+    {
+      "state": "IL",
+      "county": "PEORIA",
+      "count": 17
+    },
+    {
+      "state": "MI",
+      "county": "MACOMB",
+      "count": 10
+    },
+    {
+      "state": "MI",
+      "county": "WASHTENAW",
+      "count": 10
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 6
+    },
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 6
+    },
+    {
+      "state": "KY",
+      "county": "JEFFERSON",
+      "count": 5
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 5
+    },
+    {
+      "state": "IL",
+      "county": "LAKE",
+      "count": 4
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MI",
+      "count": 311
+    },
+    {
+      "state": "IL",
+      "count": 44
+    },
+    {
+      "state": "TX",
+      "count": 17
+    },
+    {
+      "state": "CA",
+      "count": 13
+    },
+    {
+      "state": "OH",
+      "count": 7
+    },
+    {
+      "state": "AZ",
+      "count": 6
+    },
+    {
+      "state": "GA",
+      "count": 6
+    },
+    {
+      "state": "NC",
+      "count": 6
+    },
+    {
+      "state": "KY",
+      "count": 5
+    },
+    {
+      "state": "NJ",
+      "count": 4
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 120120.0,
+    "gap_usd": -10040.0
+  }
+}

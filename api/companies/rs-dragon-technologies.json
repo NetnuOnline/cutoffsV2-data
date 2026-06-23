@@ -1,0 +1,104 @@
+{
+  "slug": "rs-dragon-technologies",
+  "canonical_name": "RS DRAGON TECHNOLOGIES LLC",
+  "fein": "87-3243994",
+  "lca_filing_count": 7,
+  "warn_notice_count": 0,
+  "median_wage_usd": 101192.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 100596.0
+    },
+    {
+      "fy": 2025,
+      "filings": 4,
+      "median_wage_usd": 105961.5
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SOFTWARE DEVELOPER",
+      "count": 3,
+      "median_wage_usd": 112923.0
+    },
+    {
+      "title": "SOFTWARE DEVELOPER ",
+      "count": 2,
+      "median_wage_usd": 114847.0
+    },
+    {
+      "title": "DATA SCIENTIST",
+      "count": 1,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "title": "SITE RELIABILITY ENGINEER",
+      "count": 1,
+      "median_wage_usd": 95000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 2
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 5
+    },
+    {
+      "state": "MO",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 5,
+    "initial_denials": 0,
+    "continuing_approvals": 0,
+    "continuing_denials": 0,
+    "total_approvals": 5,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 3,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      }
+    ]
+  },
+  "lca_worker_positions": 6,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 107057.5,
+    "gap_usd": -23102.5
+  }
+}

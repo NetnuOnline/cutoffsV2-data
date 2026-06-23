@@ -1,0 +1,90 @@
+{
+  "slug": "eagle-pride-services",
+  "canonical_name": "EAGLE PRIDE SERVICES Inc",
+  "fein": "87-1609035",
+  "lca_filing_count": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 94016.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 3,
+      "median_wage_usd": 94016.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 111176.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": ".NET Developer",
+      "count": 3,
+      "median_wage_usd": 94016.0
+    },
+    {
+      "title": "Devops Engineer",
+      "count": 1,
+      "median_wage_usd": 111176.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IL",
+      "county": "DUPAGE",
+      "count": 3
+    },
+    {
+      "state": "CA",
+      "county": "SAN JOAQUIN",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 3
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 2,
+    "initial_denials": 0,
+    "continuing_approvals": 1,
+    "continuing_denials": 0,
+    "total_approvals": 3,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      }
+    ]
+  },
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 94016.0,
+    "gap_usd": -36144.0
+  }
+}

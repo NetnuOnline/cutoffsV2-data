@@ -1,0 +1,203 @@
+{
+  "slug": "cbre",
+  "canonical_name": "CBRE, INC.",
+  "fein": "95-2743174",
+  "lca_filing_count": 239,
+  "lca_worker_positions": 323,
+  "warn_notice_count": 0,
+  "median_wage_usd": 125000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 25,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 56,
+      "median_wage_usd": 111000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 38,
+      "median_wage_usd": 134996.0
+    },
+    {
+      "fy": 2023,
+      "filings": 32,
+      "median_wage_usd": 120164.0
+    },
+    {
+      "fy": 2024,
+      "filings": 40,
+      "median_wage_usd": 132007.0
+    },
+    {
+      "fy": 2025,
+      "filings": 27,
+      "median_wage_usd": 119954.0
+    },
+    {
+      "fy": 2026,
+      "filings": 18,
+      "median_wage_usd": 145225.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Software Engineer",
+      "count": 22,
+      "median_wage_usd": 130662.495
+    },
+    {
+      "title": "Principal Software Engineer",
+      "count": 20,
+      "median_wage_usd": 148878.0
+    },
+    {
+      "title": "PRINCIPAL SOFTWARE ENGINEER",
+      "count": 11,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "title": "Project Manager",
+      "count": 7,
+      "median_wage_usd": 115939.0
+    },
+    {
+      "title": "Senior Principal Software Engineer",
+      "count": 6,
+      "median_wage_usd": 166182.815
+    },
+    {
+      "title": "Business Intelligence Manager",
+      "count": 5,
+      "median_wage_usd": 106000.0
+    },
+    {
+      "title": "SENIOR SOFTWARE ENGINEER",
+      "count": 5,
+      "median_wage_usd": 128502.0
+    },
+    {
+      "title": "SOFTWARE ENGINEER",
+      "count": 4,
+      "median_wage_usd": 90900.0
+    },
+    {
+      "title": "Associate Project Manager",
+      "count": 4,
+      "median_wage_usd": 84000.0
+    },
+    {
+      "title": "Control Systems Engineer",
+      "count": 4,
+      "median_wage_usd": 69500.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 56
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 47
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 19
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 10
+    },
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 7
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 6
+    },
+    {
+      "state": "PA",
+      "county": "BERKS",
+      "count": 5
+    },
+    {
+      "state": "MA",
+      "county": "BOSTON CITY",
+      "count": 3
+    },
+    {
+      "state": "DC",
+      "county": "DISTRICT OF COLUMBIA",
+      "count": 3
+    },
+    {
+      "state": "AR",
+      "county": "BENTON",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 131
+    },
+    {
+      "state": "NY",
+      "count": 22
+    },
+    {
+      "state": "CA",
+      "count": 18
+    },
+    {
+      "state": "PA",
+      "count": 10
+    },
+    {
+      "state": "WA",
+      "count": 7
+    },
+    {
+      "state": "NJ",
+      "count": 6
+    },
+    {
+      "state": "FL",
+      "count": 5
+    },
+    {
+      "state": "IL",
+      "count": 4
+    },
+    {
+      "state": "OH",
+      "count": 4
+    },
+    {
+      "state": "GA",
+      "count": 4
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 140000.0,
+    "gap_usd": 9840.0
+  }
+}

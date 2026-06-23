@@ -1,0 +1,92 @@
+{
+  "slug": "intradiem",
+  "canonical_name": "Intradiem, Inc.",
+  "fein": "58-2190364",
+  "lca_filing_count": 5,
+  "lca_worker_positions": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 126300.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 69909.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 75587.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 130150.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 143440.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Machine Learning Engineer",
+      "count": 1,
+      "median_wage_usd": 75587.0
+    },
+    {
+      "title": "Platform Product Manager",
+      "count": 1,
+      "median_wage_usd": 134000.0
+    },
+    {
+      "title": "DevSecOps Engineer",
+      "count": 1,
+      "median_wage_usd": 126300.0
+    },
+    {
+      "title": "Cloud Security Engineer",
+      "count": 1,
+      "median_wage_usd": 143440.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 1,
+      "median_wage_usd": 69909.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 2
+    },
+    {
+      "state": "GA",
+      "county": "GWINNETT",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "county": "CLARKE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 5
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 100943.5,
+    "gap_usd": -29216.5
+  }
+}

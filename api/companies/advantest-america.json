@@ -1,0 +1,150 @@
+{
+  "slug": "advantest-america",
+  "canonical_name": "Advantest America, Inc.",
+  "fein": "20-4242678",
+  "lca_filing_count": 19,
+  "lca_worker_positions": 19,
+  "warn_notice_count": 0,
+  "median_wage_usd": 132683.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 108045.0
+    },
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 110396.0
+    },
+    {
+      "fy": 2022,
+      "filings": 7,
+      "median_wage_usd": 132683.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 133370.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 161059.56
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 148350.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 140000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "R&D Engineer",
+      "count": 3,
+      "median_wage_usd": 111026.0
+    },
+    {
+      "title": "Application Engineer",
+      "count": 2,
+      "median_wage_usd": 155127.0
+    },
+    {
+      "title": "R&D Engineer Developing",
+      "count": 1,
+      "median_wage_usd": 100546.0
+    },
+    {
+      "title": "Database Administrator Senior",
+      "count": 1,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Mechanical Engineer Developing",
+      "count": 1,
+      "median_wage_usd": 125757.0
+    },
+    {
+      "title": "Business Intelligence Analyst Senior",
+      "count": 1,
+      "median_wage_usd": 116043.0
+    },
+    {
+      "title": "Software Engineer Expert",
+      "count": 1,
+      "median_wage_usd": 118310.0
+    },
+    {
+      "title": "Application Engineer Senior",
+      "count": 1,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "title": "Technical Program Manager",
+      "count": 1,
+      "median_wage_usd": 146700.0
+    },
+    {
+      "title": "R&D Engineer - Expert",
+      "count": 1,
+      "median_wage_usd": 133390.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 10
+    },
+    {
+      "state": "NJ",
+      "county": "SOMERSET",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "ORANGE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 13
+    },
+    {
+      "state": "TX",
+      "count": 4
+    },
+    {
+      "state": "NJ",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 133390.0,
+    "gap_usd": 3230.0
+  }
+}

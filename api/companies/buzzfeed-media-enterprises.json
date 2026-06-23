@@ -1,0 +1,87 @@
+{
+  "slug": "buzzfeed-media-enterprises",
+  "canonical_name": "BuzzFeed Media Enterprises, Inc.",
+  "fein": null,
+  "lca_filing_count": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 110000.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 102000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 110000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Data Scientist - Machine Learning",
+      "count": 1,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "Reporter, Mental Health \u2013 Inequality Desk",
+      "count": 1,
+      "median_wage_usd": 102000.0
+    },
+    {
+      "title": "Manager of Analytics, Product Analytics ",
+      "count": 1,
+      "median_wage_usd": 110000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 2
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 2
+    },
+    {
+      "state": "NY",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 3,
+    "initial_denials": 0,
+    "continuing_approvals": 4,
+    "continuing_denials": 0,
+    "total_approvals": 7,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 3,
+        "initial_denials": 0,
+        "continuing_approvals": 4,
+        "continuing_denials": 0,
+        "total_approvals": 7
+      }
+    ]
+  },
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 110000.0,
+    "gap_usd": 1980.0
+  }
+}

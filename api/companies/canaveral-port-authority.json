@@ -1,0 +1,43 @@
+{
+  "slug": "canaveral-port-authority",
+  "canonical_name": "Canaveral Port Authority",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "FL",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "11/30/2020",
+      "effective_date": "11/26/2020",
+      "state": "FL",
+      "workers": 16,
+      "city": "CAPE CANAVERAL"
+    },
+    {
+      "date": "08/03/2020",
+      "effective_date": "04/02/2020",
+      "state": "FL",
+      "workers": 85,
+      "city": "CAPE CANAVERAL"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "careersource-brevard",
+      "name": "CareerSource Brevard",
+      "state": "FL"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

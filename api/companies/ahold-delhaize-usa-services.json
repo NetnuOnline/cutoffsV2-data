@@ -1,0 +1,129 @@
+{
+  "slug": "ahold-delhaize-usa-services",
+  "canonical_name": "Ahold Delhaize USA Services, LLC",
+  "fein": "27-3756754",
+  "lca_filing_count": 15,
+  "lca_worker_positions": 15,
+  "warn_notice_count": 0,
+  "median_wage_usd": 136464.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 6,
+      "median_wage_usd": 117978.0
+    },
+    {
+      "fy": 2025,
+      "filings": 5,
+      "median_wage_usd": 140587.0
+    },
+    {
+      "fy": 2026,
+      "filings": 4,
+      "median_wage_usd": 136464.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 3,
+      "median_wage_usd": 136464.0
+    },
+    {
+      "title": "Software Engineer III",
+      "count": 3,
+      "median_wage_usd": 136464.0
+    },
+    {
+      "title": "IT Engineer Data",
+      "count": 2,
+      "median_wage_usd": 99880.0
+    },
+    {
+      "title": "DevOps Engineer",
+      "count": 1,
+      "median_wage_usd": 140587.0
+    },
+    {
+      "title": "IT Engineer IV Software",
+      "count": 1,
+      "median_wage_usd": 142141.0
+    },
+    {
+      "title": "Software Engineer II",
+      "count": 1,
+      "median_wage_usd": 112986.0
+    },
+    {
+      "title": "Analyst, Data Science",
+      "count": 1,
+      "median_wage_usd": 147160.0
+    },
+    {
+      "title": "IT Engineer Platform",
+      "count": 1,
+      "median_wage_usd": 139942.0
+    },
+    {
+      "title": "Software Engineer - Security Operations",
+      "count": 1,
+      "median_wage_usd": 112403.0
+    },
+    {
+      "title": "Sr. Product Manager",
+      "count": 1,
+      "median_wage_usd": 142000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NC",
+      "county": "ROWAN",
+      "count": 4
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "county": "QUINCY CITY",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "county": "NORFOLK",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 6
+    },
+    {
+      "state": "NC",
+      "count": 5
+    },
+    {
+      "state": "MA",
+      "count": 3
+    },
+    {
+      "state": "NY",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 136464.0,
+    "gap_usd": 6304.0
+  }
+}

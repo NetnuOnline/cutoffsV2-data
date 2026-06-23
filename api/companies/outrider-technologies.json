@@ -1,0 +1,138 @@
+{
+  "slug": "outrider-technologies",
+  "canonical_name": "Outrider Technologies, Inc.",
+  "fein": "82-2450977",
+  "lca_filing_count": 10,
+  "warn_notice_count": 0,
+  "median_wage_usd": 118510.5,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 3,
+      "median_wage_usd": 113000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 172500.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 139591.5
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Robotics Software Engineer",
+      "count": 4,
+      "median_wage_usd": 111500.0
+    },
+    {
+      "title": "Embedded Software Engineer ",
+      "count": 1,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "Support Engineer",
+      "count": 1,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "title": "Principal Software Engineer \u2013 Sensor Architecture",
+      "count": 1,
+      "median_wage_usd": 220000.0
+    },
+    {
+      "title": "Senior Software Engineer, Autonomy",
+      "count": 1,
+      "median_wage_usd": 185000.0
+    },
+    {
+      "title": "Engineer II, Deep Learning Core",
+      "count": 1,
+      "median_wage_usd": 117021.0
+    },
+    {
+      "title": "Electrical Engineer",
+      "count": 1,
+      "median_wage_usd": 85000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CO",
+      "county": "JEFFERSON",
+      "count": 6
+    },
+    {
+      "state": "CO",
+      "county": "ADAMS",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CO",
+      "count": 9
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 9,
+    "initial_denials": 0,
+    "continuing_approvals": 14,
+    "continuing_denials": 0,
+    "total_approvals": 23,
+    "by_fy": [
+      {
+        "fy": 2021,
+        "initial_approvals": 5,
+        "initial_denials": 0,
+        "continuing_approvals": 9,
+        "continuing_denials": 0,
+        "total_approvals": 14
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 3,
+        "initial_denials": 0,
+        "continuing_approvals": 4,
+        "continuing_denials": 0,
+        "total_approvals": 7
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      }
+    ]
+  },
+  "lca_worker_positions": 10,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 113510.5,
+    "gap_usd": -16649.5
+  }
+}

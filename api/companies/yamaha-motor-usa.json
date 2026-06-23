@@ -1,0 +1,131 @@
+{
+  "slug": "yamaha-motor-usa",
+  "canonical_name": "Yamaha Motor Corporation, USA",
+  "fein": "95-3069495",
+  "lca_filing_count": 22,
+  "lca_worker_positions": 21,
+  "warn_notice_count": 0,
+  "median_wage_usd": 125000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 138780.06
+    },
+    {
+      "fy": 2022,
+      "filings": 6,
+      "median_wage_usd": 147249.96000000002
+    },
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 110611.0
+    },
+    {
+      "fy": 2025,
+      "filings": 6,
+      "median_wage_usd": 132006.5
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 107291.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Sr. SAP BW Hana Developer",
+      "count": 4,
+      "median_wage_usd": 121222.0
+    },
+    {
+      "title": "Sr. Oracle eCommerce Developer/Analyst",
+      "count": 2,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "title": "Senior SAP BW/HANA/BPC Architect",
+      "count": 1,
+      "median_wage_usd": 155000.04
+    },
+    {
+      "title": "Senior SAP APO GATP Functional Analyst",
+      "count": 1,
+      "median_wage_usd": 155000.0
+    },
+    {
+      "title": "Business Process Analyst",
+      "count": 1,
+      "median_wage_usd": 124807.54
+    },
+    {
+      "title": "Sr. Java Sys Analyst",
+      "count": 1,
+      "median_wage_usd": 128813.0
+    },
+    {
+      "title": "Oracle eCommerce Manager",
+      "count": 1,
+      "median_wage_usd": 158000.0
+    },
+    {
+      "title": "SAP EWM Functional Analyst",
+      "count": 1,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "title": "UX/UI Designer Developer",
+      "count": 1,
+      "median_wage_usd": 144499.92
+    },
+    {
+      "title": "Senior Project Manager",
+      "count": 1,
+      "median_wage_usd": 135200.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "ORANGE",
+      "count": 10
+    },
+    {
+      "state": "GA",
+      "county": "COBB",
+      "count": 8
+    }
+  ],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 11
+    },
+    {
+      "state": "CA",
+      "count": 11
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 125000.0,
+    "gap_usd": -5160.0
+  }
+}

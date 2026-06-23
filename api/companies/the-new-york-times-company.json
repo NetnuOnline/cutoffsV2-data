@@ -1,0 +1,168 @@
+{
+  "slug": "the-new-york-times-company",
+  "canonical_name": "The New York Times Company",
+  "fein": "13-1102020",
+  "lca_filing_count": 55,
+  "lca_worker_positions": 55,
+  "warn_notice_count": 0,
+  "median_wage_usd": 142665.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 10,
+      "median_wage_usd": 143294.0
+    },
+    {
+      "fy": 2021,
+      "filings": 9,
+      "median_wage_usd": 136500.0
+    },
+    {
+      "fy": 2022,
+      "filings": 8,
+      "median_wage_usd": 143185.5
+    },
+    {
+      "fy": 2023,
+      "filings": 13,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 4,
+      "median_wage_usd": 113277.0
+    },
+    {
+      "fy": 2025,
+      "filings": 7,
+      "median_wage_usd": 150980.49
+    },
+    {
+      "fy": 2026,
+      "filings": 4,
+      "median_wage_usd": 169454.33500000002,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Software Engineer",
+      "count": 8,
+      "median_wage_usd": 162750.0
+    },
+    {
+      "title": "Ad Reporting and Data Warehouse Lead",
+      "count": 2,
+      "median_wage_usd": 165558.0
+    },
+    {
+      "title": "Social Staff Editor",
+      "count": 2,
+      "median_wage_usd": 115592.36
+    },
+    {
+      "title": "Software Engineer",
+      "count": 2,
+      "median_wage_usd": 144675.745
+    },
+    {
+      "title": "Senior Designer",
+      "count": 2,
+      "median_wage_usd": 92027.0
+    },
+    {
+      "title": "Senior Data Scientist",
+      "count": 2,
+      "median_wage_usd": 150590.0
+    },
+    {
+      "title": "Data Scientist",
+      "count": 2,
+      "median_wage_usd": 125500.0
+    },
+    {
+      "title": "Editor, Photo",
+      "count": 1,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "title": "Senior Product  Designer",
+      "count": 1,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "title": "Graphics, Multimedia Editor, Reporter Video",
+      "count": 1,
+      "median_wage_usd": 140000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 35
+    },
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 2
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 2
+    },
+    {
+      "state": "NY",
+      "county": "QUEENS",
+      "count": 2
+    },
+    {
+      "state": "NY",
+      "county": "KINGS",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 48
+    },
+    {
+      "state": "CA",
+      "count": 3
+    },
+    {
+      "state": "WA",
+      "count": 2
+    },
+    {
+      "state": "VA",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 160652.5,
+    "gap_usd": 30492.5
+  }
+}

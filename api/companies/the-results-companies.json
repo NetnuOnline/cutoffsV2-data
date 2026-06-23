@@ -1,0 +1,79 @@
+{
+  "slug": "the-results-companies",
+  "canonical_name": "The Results Companies LLC",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 4,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 1
+    },
+    {
+      "state": "MO",
+      "count": 1
+    },
+    {
+      "state": "UT",
+      "count": 1
+    },
+    {
+      "state": "TN",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "01/27/2021",
+      "effective_date": "03/31/2021",
+      "state": "IL",
+      "workers": 83,
+      "city": "Streator"
+    },
+    {
+      "date": "03/01/2019",
+      "effective_date": "05/03/2019",
+      "state": "MO",
+      "workers": 82,
+      "city": "Kansas City"
+    },
+    {
+      "date": "09/24/2018",
+      "effective_date": "09/24/2018",
+      "state": "UT",
+      "workers": 300,
+      "city": "Provo"
+    },
+    {
+      "date": "03/28/2017",
+      "effective_date": "06/01/2017",
+      "state": "TN",
+      "workers": 150,
+      "city": "Nashville"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "nw-central-il-works",
+      "name": "NW Central IL Works",
+      "state": "IL"
+    },
+    {
+      "slug": "09-local-workforce-investment-area",
+      "name": "09 Local Workforce Investment Area",
+      "state": "TN"
+    },
+    {
+      "slug": "mountainland-wib",
+      "name": "Mountainland WIB",
+      "state": "UT"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

@@ -1,0 +1,51 @@
+{
+  "slug": "short-bark-industries",
+  "canonical_name": "Short Bark Industries,",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 1,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "FL",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "03/03/2015",
+      "effective_date": "05/01/2015",
+      "state": "FL",
+      "workers": 156,
+      "city": "Hollywood"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2014-05-29",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-14-217216",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000882300&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 1,
+    "itemCounts": {
+      "5.02": 1
+    },
+    "latestFilingDate": "2014-05-29",
+    "earliestFilingDate": "2014-05-29"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

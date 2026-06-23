@@ -1,0 +1,71 @@
+{
+  "slug": "mid-atlantic-permanente-medical-group-pc",
+  "canonical_name": "Mid-Atlantic Permanente Medical Group, PC",
+  "fein": null,
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 104117.5,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 104117.5
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Data Consultant",
+      "count": 2,
+      "median_wage_usd": 104117.5
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MD",
+      "county": "MONTGOMERY",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MD",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 6,
+    "initial_denials": 0,
+    "continuing_approvals": 7,
+    "continuing_denials": 0,
+    "total_approvals": 13,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 3,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 6
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 3,
+        "initial_denials": 0,
+        "continuing_approvals": 4,
+        "continuing_denials": 0,
+        "total_approvals": 7
+      }
+    ]
+  },
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 100235.0,
+    "gap_usd": -7785.0
+  }
+}

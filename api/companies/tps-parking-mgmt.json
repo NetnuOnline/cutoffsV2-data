@@ -1,0 +1,43 @@
+{
+  "slug": "tps-parking-mgmt",
+  "canonical_name": "TPS Parking Mgmt",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "CO",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "08/01/2024",
+      "effective_date": "09/30/2024",
+      "state": "CO",
+      "workers": 85,
+      "city": "Arapahoe/Douglas"
+    },
+    {
+      "date": "08/01/2024",
+      "effective_date": "09/30/2024",
+      "state": "CO",
+      "workers": 85,
+      "city": "Adams"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "eastern-wib-co",
+      "name": "Eastern WIB",
+      "state": "CO"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

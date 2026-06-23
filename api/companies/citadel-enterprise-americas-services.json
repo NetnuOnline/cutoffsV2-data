@@ -1,0 +1,125 @@
+{
+  "slug": "citadel-enterprise-americas-services",
+  "canonical_name": "CITADEL ENTERPRISE AMERICAS SERVICES LLC",
+  "fein": "87-2301961",
+  "lca_filing_count": 50,
+  "lca_worker_positions": 50,
+  "warn_notice_count": 0,
+  "median_wage_usd": 222500.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 8,
+      "median_wage_usd": 227500.0
+    },
+    {
+      "fy": 2023,
+      "filings": 8,
+      "median_wage_usd": 207500.0
+    },
+    {
+      "fy": 2024,
+      "filings": 10,
+      "median_wage_usd": 225000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 11,
+      "median_wage_usd": 225000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 13,
+      "median_wage_usd": 200000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 15,
+      "median_wage_usd": 225000.0
+    },
+    {
+      "title": "Application Software Engineer",
+      "count": 4,
+      "median_wage_usd": 217500.0
+    },
+    {
+      "title": "Site Reliability Engineer",
+      "count": 3,
+      "median_wage_usd": 335000.0
+    },
+    {
+      "title": "Funding Control Manager",
+      "count": 2,
+      "median_wage_usd": 207500.0
+    },
+    {
+      "title": "Senior Associate",
+      "count": 2,
+      "median_wage_usd": 182500.0
+    },
+    {
+      "title": "Quantitative Risk Analyst",
+      "count": 2,
+      "median_wage_usd": 190000.0
+    },
+    {
+      "title": "Business Intelligence Analyst",
+      "count": 2,
+      "median_wage_usd": 165000.0
+    },
+    {
+      "title": "Technical Business Analyst",
+      "count": 1,
+      "median_wage_usd": 250000.0
+    },
+    {
+      "title": "Head of Transaction Reporting, USA",
+      "count": 1,
+      "median_wage_usd": 175000.0
+    },
+    {
+      "title": "Business Analyst / Project Manager",
+      "count": 1,
+      "median_wage_usd": 225000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 26
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 48
+    },
+    {
+      "state": "IL",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 225000.0,
+    "gap_usd": 94840.0
+  }
+}

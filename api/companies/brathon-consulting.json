@@ -1,0 +1,65 @@
+{
+  "slug": "brathon-consulting",
+  "canonical_name": "Brathon Consulting LLC",
+  "fein": "92-3695238",
+  "lca_filing_count": 4,
+  "lca_worker_positions": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 99684.0,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 106579.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 92789.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Storage Engineer",
+      "count": 1,
+      "median_wage_usd": 82181.0
+    },
+    {
+      "title": "Azure Data Engineer",
+      "count": 1,
+      "median_wage_usd": 106579.0
+    },
+    {
+      "title": "AWS Engineer",
+      "count": 1,
+      "median_wage_usd": 92789.0
+    },
+    {
+      "title": "Network Security Engineer",
+      "count": 1,
+      "median_wage_usd": 141960.0
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 99684.0,
+    "gap_usd": -30476.0
+  }
+}

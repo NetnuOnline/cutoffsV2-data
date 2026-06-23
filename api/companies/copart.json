@@ -1,0 +1,153 @@
+{
+  "slug": "copart",
+  "canonical_name": "COPART, INC",
+  "fein": "94-2867490",
+  "lca_filing_count": 101,
+  "lca_worker_positions": 100,
+  "warn_notice_count": 0,
+  "median_wage_usd": 115472.5,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 16,
+      "median_wage_usd": 101198.5
+    },
+    {
+      "fy": 2021,
+      "filings": 11,
+      "median_wage_usd": 99750.0
+    },
+    {
+      "fy": 2022,
+      "filings": 14,
+      "median_wage_usd": 111899.64
+    },
+    {
+      "fy": 2023,
+      "filings": 15,
+      "median_wage_usd": 105000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 17,
+      "median_wage_usd": 128939.8
+    },
+    {
+      "fy": 2025,
+      "filings": 15,
+      "median_wage_usd": 126010.46
+    },
+    {
+      "fy": 2026,
+      "filings": 12,
+      "median_wage_usd": 148510.77,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 16,
+      "median_wage_usd": 101994.475
+    },
+    {
+      "title": "Sr. DevOps Engineer",
+      "count": 5,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "title": "Senior QA Engineer",
+      "count": 4,
+      "median_wage_usd": 113387.22
+    },
+    {
+      "title": "Sr. Technology Product Analyst",
+      "count": 3,
+      "median_wage_usd": 115530.0
+    },
+    {
+      "title": "Product Analyst",
+      "count": 3,
+      "median_wage_usd": 80000.0
+    },
+    {
+      "title": "Sr. Software Engineer",
+      "count": 3,
+      "median_wage_usd": 136547.77
+    },
+    {
+      "title": "Software Development Engineer in Test",
+      "count": 3,
+      "median_wage_usd": 85000.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 3,
+      "median_wage_usd": 115566.0
+    },
+    {
+      "title": "Lead QA Engineer",
+      "count": 3,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "SAP Basis Administrator",
+      "count": 2,
+      "median_wage_usd": 122769.105
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 71
+    },
+    {
+      "state": "GA",
+      "county": "FORSYTH",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "county": "OAKLAND",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "county": "WESTCHESTER",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 97
+    },
+    {
+      "state": "NY",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "count": 1
+    },
+    {
+      "state": "IN",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 123211.54,
+    "gap_usd": -6948.46
+  }
+}

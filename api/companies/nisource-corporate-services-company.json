@@ -1,0 +1,51 @@
+{
+  "slug": "nisource-corporate-services-company",
+  "canonical_name": "NiSource Corporate Services Company",
+  "fein": null,
+  "lca_filing_count": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 64240.07,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 4,
+      "median_wage_usd": 64240.07
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Sr. Financial Analyst",
+      "count": 3,
+      "median_wage_usd": 64270.14
+    },
+    {
+      "title": "Sr. Financial Accountant",
+      "count": 1,
+      "median_wage_usd": 64210.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "OH",
+      "county": "FRANKLIN",
+      "count": 4
+    }
+  ],
+  "top_states": [
+    {
+      "state": "OH",
+      "count": 4
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-2011",
+    "soc_title": "Accountants and Auditors",
+    "market_median_usd": 79000.0,
+    "employer_median_usd": 64210.0,
+    "gap_usd": -14790.0
+  }
+}

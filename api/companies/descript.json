@@ -1,0 +1,124 @@
+{
+  "slug": "descript",
+  "canonical_name": "Descript, Inc.",
+  "fein": "82-2638807",
+  "lca_filing_count": 9,
+  "warn_notice_count": 0,
+  "median_wage_usd": 240000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 170000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 162500.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 230000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 264264.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 255000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Product/Production Manager",
+      "count": 3,
+      "median_wage_usd": 264264.0
+    },
+    {
+      "title": "Software Engineer ",
+      "count": 2,
+      "median_wage_usd": 162500.0
+    },
+    {
+      "title": "Senior Engineering Manager, Growth",
+      "count": 1,
+      "median_wage_usd": 270000.0
+    },
+    {
+      "title": "Senior Manager, Revenue Operations & GTM Systems",
+      "count": 1,
+      "median_wage_usd": 240000.0
+    },
+    {
+      "title": "PRODUCT MANAGER",
+      "count": 1,
+      "median_wage_usd": 170000.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 230000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 7
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 9
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 6,
+    "continuing_denials": 0,
+    "total_approvals": 7,
+    "by_fy": [
+      {
+        "fy": 2020,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 4
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      }
+    ]
+  },
+  "lca_worker_positions": 9,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3021",
+    "soc_title": "Computer and Information Systems Managers",
+    "market_median_usd": 169510.0,
+    "employer_median_usd": 264264.0,
+    "gap_usd": 94754.0
+  }
+}

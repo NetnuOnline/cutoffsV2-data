@@ -1,0 +1,110 @@
+{
+  "slug": "softdata",
+  "canonical_name": "Softdata Inc",
+  "fein": "87-2994856",
+  "lca_filing_count": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 78354.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 78354.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 78655.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 2,
+      "median_wage_usd": 72966.5
+    },
+    {
+      "title": "Software System Engineer",
+      "count": 1,
+      "median_wage_usd": 88150.0
+    },
+    {
+      "title": "BI Engineer",
+      "count": 1,
+      "median_wage_usd": 69160.0
+    },
+    {
+      "title": "Software System Engineer ",
+      "count": 1,
+      "median_wage_usd": 78354.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IL",
+      "county": "LAKE",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 1
+    },
+    {
+      "state": "MO",
+      "county": "ST LOUIS",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "MO",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 4,
+    "initial_denials": 0,
+    "continuing_approvals": 0,
+    "continuing_denials": 0,
+    "total_approvals": 4,
+    "by_fy": [
+      {
+        "fy": 2023,
+        "initial_approvals": 4,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 4
+      }
+    ]
+  },
+  "lca_worker_positions": 5,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Computer Systems Engineers/Architects",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 83252.0,
+    "gap_usd": -34748.0
+  }
+}

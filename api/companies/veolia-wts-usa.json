@@ -1,0 +1,61 @@
+{
+  "slug": "veolia-wts-usa",
+  "canonical_name": "VEOLIA WTS USA, INC.",
+  "fein": "23-1503731",
+  "lca_filing_count": 2,
+  "lca_worker_positions": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 107346.3,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 96000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 118692.6,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Lead Researcher \u2013 Microbiologist",
+      "count": 1,
+      "median_wage_usd": 96000.0
+    },
+    {
+      "title": "LEAD DATA ANALYST",
+      "count": 1,
+      "median_wage_usd": 118692.6
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 118692.6,
+    "gap_usd": 10672.6
+  }
+}

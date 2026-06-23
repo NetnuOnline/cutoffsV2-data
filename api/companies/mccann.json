@@ -1,0 +1,36 @@
+{
+  "slug": "mccann",
+  "canonical_name": "McCann",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 1,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "MI",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "02/04/2025",
+      "effective_date": "04/05/2025",
+      "state": "MI",
+      "workers": 60,
+      "city": "Birmingham, Michigan"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "oakland-county-employment-and-training-division",
+      "name": "Oakland County Employment and Training Division",
+      "state": "MI"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

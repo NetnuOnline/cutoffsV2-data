@@ -1,0 +1,61 @@
+{
+  "slug": "voicestream-wireless",
+  "canonical_name": "Voicestream Wireless",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "04/02/2002",
+      "effective_date": "04/02/2002",
+      "state": "GA",
+      "workers": 159,
+      "city": "Atlanta"
+    },
+    {
+      "date": "08/16/2001",
+      "effective_date": "08/16/2001",
+      "state": "GA",
+      "workers": 106,
+      "city": "West Point"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2020-06-17",
+        "formType": "8-K",
+        "accessionNumber": "0001140361-20-014081",
+        "items": [
+          "2.06",
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Material Impairments",
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001283699&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 1,
+    "itemCounts": {
+      "2.06": 1,
+      "5.02": 1
+    },
+    "latestFilingDate": "2020-06-17",
+    "earliestFilingDate": "2020-06-17"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

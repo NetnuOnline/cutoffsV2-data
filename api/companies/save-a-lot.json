@@ -1,0 +1,65 @@
+{
+  "slug": "save-a-lot",
+  "canonical_name": "Save-a-Lot",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 4,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "ME",
+      "count": 2
+    },
+    {
+      "state": "KS",
+      "count": 1
+    },
+    {
+      "state": "NV",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "05/08/2023",
+      "effective_date": "05/08/2023",
+      "state": "ME",
+      "workers": 0,
+      "city": "Waterville"
+    },
+    {
+      "date": "11/23/2022",
+      "effective_date": "11/23/2022",
+      "state": "ME",
+      "workers": 0,
+      "city": "Farmington"
+    },
+    {
+      "date": "12/18/2018",
+      "effective_date": "12/18/2018",
+      "state": "KS",
+      "workers": 12,
+      "city": "5 - Workforce Investment Area V"
+    },
+    {
+      "date": "01/19/2017",
+      "effective_date": "02/09/2017",
+      "state": "NV",
+      "workers": 64,
+      "city": "Las Vegas, Clark County"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "centralwestern-wia",
+      "name": "Central/Western WIA",
+      "state": "ME"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

@@ -1,0 +1,51 @@
+{
+  "slug": "metrostudy",
+  "canonical_name": "Metrostudy, Inc.",
+  "fein": "35-2488214",
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 92000.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 92000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Business Analyst - Product Development Team",
+      "count": 2,
+      "median_wage_usd": 92000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "ORANGE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 1,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1111",
+    "soc_title": "Management Analysts",
+    "market_median_usd": 99000.0,
+    "employer_median_usd": 92000.0,
+    "gap_usd": -7000.0
+  }
+}

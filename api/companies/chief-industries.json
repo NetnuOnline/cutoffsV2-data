@@ -1,0 +1,64 @@
+{
+  "slug": "chief-industries",
+  "canonical_name": "Chief Industries, Inc.",
+  "fein": "47-0444429",
+  "lca_filing_count": 1,
+  "warn_notice_count": 1,
+  "median_wage_usd": 97000.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 97000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Network Administrator",
+      "count": 1,
+      "median_wage_usd": 97000.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NE",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NE",
+      "county": "HALL",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "10/01/2015",
+      "effective_date": "10/01/2015",
+      "state": "NE",
+      "workers": 32,
+      "city": "Grand Island"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "grand-island-msa",
+      "name": "Grand Island MSA",
+      "state": "NE"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "lca_worker_positions": 1,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1244",
+    "soc_title": "Network and Computer Systems Administrators",
+    "market_median_usd": 95000.0,
+    "employer_median_usd": 97000.0,
+    "gap_usd": 2000.0
+  }
+}

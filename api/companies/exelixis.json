@@ -1,0 +1,140 @@
+{
+  "slug": "exelixis",
+  "canonical_name": "Exelixis, Inc.",
+  "fein": "04-3257395",
+  "lca_filing_count": 42,
+  "lca_worker_positions": 42,
+  "warn_notice_count": 0,
+  "median_wage_usd": 190348.6,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 6,
+      "median_wage_usd": 155000.16999999998
+    },
+    {
+      "fy": 2021,
+      "filings": 5,
+      "median_wage_usd": 190000.2
+    },
+    {
+      "fy": 2022,
+      "filings": 11,
+      "median_wage_usd": 183000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 4,
+      "median_wage_usd": 182538.47
+    },
+    {
+      "fy": 2024,
+      "filings": 4,
+      "median_wage_usd": 248754.11
+    },
+    {
+      "fy": 2025,
+      "filings": 7,
+      "median_wage_usd": 207522.0
+    },
+    {
+      "fy": 2026,
+      "filings": 5,
+      "median_wage_usd": 209084.95,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Statistical Programmer I",
+      "count": 3,
+      "median_wage_usd": 150292.74
+    },
+    {
+      "title": "Senior Clinical Data Manager",
+      "count": 2,
+      "median_wage_usd": 137500.09
+    },
+    {
+      "title": "Senior Manager, Statistical & Clinical Programming",
+      "count": 2,
+      "median_wage_usd": 183000.0
+    },
+    {
+      "title": "Director, Drug Safety Operations",
+      "count": 2,
+      "median_wage_usd": 275000.0
+    },
+    {
+      "title": "External Data Management Director",
+      "count": 2,
+      "median_wage_usd": 242000.0
+    },
+    {
+      "title": "Biostatistics Manager",
+      "count": 1,
+      "median_wage_usd": 178241.0
+    },
+    {
+      "title": "Director, Project Management",
+      "count": 1,
+      "median_wage_usd": 230000.0
+    },
+    {
+      "title": "Associate Director, Clinical Data Management",
+      "count": 1,
+      "median_wage_usd": 230000.0
+    },
+    {
+      "title": "Senior Scientist I",
+      "count": 1,
+      "median_wage_usd": 150000.24
+    },
+    {
+      "title": "Associate Director, Data & Analytics Architecture",
+      "count": 1,
+      "median_wage_usd": 210000.18
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 27
+    },
+    {
+      "state": "PA",
+      "county": "MONTGOMERY",
+      "count": 2
+    },
+    {
+      "state": "MO",
+      "county": "ST LOUIS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 38
+    },
+    {
+      "state": "PA",
+      "count": 3
+    },
+    {
+      "state": "MO",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Clinical Data Managers",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 190000.0,
+    "gap_usd": 81980.0
+  }
+}

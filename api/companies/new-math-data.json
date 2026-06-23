@@ -1,0 +1,79 @@
+{
+  "slug": "new-math-data",
+  "canonical_name": "New Math Data LLC",
+  "fein": "82-4236931",
+  "lca_filing_count": 9,
+  "warn_notice_count": 0,
+  "median_wage_usd": 170000.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 145000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 7,
+      "median_wage_usd": 180000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Solution Architect",
+      "count": 4,
+      "median_wage_usd": 180000.0
+    },
+    {
+      "title": "Solutions Architect",
+      "count": 2,
+      "median_wage_usd": 170000.0
+    },
+    {
+      "title": "Data Engineer",
+      "count": 2,
+      "median_wage_usd": 155000.0
+    },
+    {
+      "title": "Full-Stack Software Developer",
+      "count": 1,
+      "median_wage_usd": 145000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 2
+    },
+    {
+      "state": "NC",
+      "county": "MECKLENBURG",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 6
+    },
+    {
+      "state": "SC",
+      "count": 2
+    },
+    {
+      "state": "NC",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 8,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Computer Systems Engineers/Architects",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 180000.0,
+    "gap_usd": 62000.0
+  }
+}

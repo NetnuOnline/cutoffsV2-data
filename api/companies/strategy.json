@@ -1,0 +1,71 @@
+{
+  "slug": "strategy",
+  "canonical_name": "Strategy, Inc.",
+  "fein": "51-0323571",
+  "lca_filing_count": 7,
+  "warn_notice_count": 0,
+  "median_wage_usd": 130000.0,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 7,
+      "median_wage_usd": 130000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer, Senior",
+      "count": 2,
+      "median_wage_usd": 145500.0
+    },
+    {
+      "title": "Hardware Engineer",
+      "count": 1,
+      "median_wage_usd": 78000.0
+    },
+    {
+      "title": "Senior AI Engineer I",
+      "count": 1,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "Quality Engineer, Senior",
+      "count": 1,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "AI Engineer I",
+      "count": 1,
+      "median_wage_usd": 97157.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 1,
+      "median_wage_usd": 145000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "VA",
+      "county": "FAIRFAX",
+      "count": 6
+    }
+  ],
+  "top_states": [
+    {
+      "state": "VA",
+      "count": 7
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 7,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 145000.0,
+    "gap_usd": 14840.0
+  }
+}

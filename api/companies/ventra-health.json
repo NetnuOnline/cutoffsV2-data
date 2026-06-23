@@ -1,0 +1,47 @@
+{
+  "slug": "ventra-health",
+  "canonical_name": "Ventra Health",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "MD",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "07/19/2023",
+      "effective_date": "10/09/2023",
+      "state": "MD",
+      "workers": 34,
+      "city": "Frederick"
+    },
+    {
+      "date": "07/19/2023",
+      "effective_date": "10/09/2023",
+      "state": "TX",
+      "workers": 64,
+      "city": "Fort Worth"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "frederick-wia",
+      "name": "Frederick WIA",
+      "state": "MD"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

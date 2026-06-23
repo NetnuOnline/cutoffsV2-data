@@ -1,0 +1,115 @@
+{
+  "slug": "ta-instruments-waters",
+  "canonical_name": "TA Instruments - Waters LLC",
+  "fein": "51-0389767",
+  "lca_filing_count": 7,
+  "lca_worker_positions": 7,
+  "warn_notice_count": 0,
+  "median_wage_usd": 115000.08,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 115000.08
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 128000.16
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 130000.08
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 106050.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 103011.33,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Lead Software Developer",
+      "count": 1,
+      "median_wage_usd": 130000.08
+    },
+    {
+      "title": "Software Development Engineer III",
+      "count": 1,
+      "median_wage_usd": 130680.0
+    },
+    {
+      "title": "Hardware Engineering, Project Manager",
+      "count": 1,
+      "median_wage_usd": 128000.16
+    },
+    {
+      "title": "Regional Applications Scientist",
+      "count": 1,
+      "median_wage_usd": 97704.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 1,
+      "median_wage_usd": 103011.33
+    },
+    {
+      "title": "Software Development Engineer",
+      "count": 1,
+      "median_wage_usd": 106050.0
+    },
+    {
+      "title": "Sr. Controls Systems Development Engineer ",
+      "count": 1,
+      "median_wage_usd": 115000.08
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "DE",
+      "county": "NEW CASTLE",
+      "count": 5
+    },
+    {
+      "state": "PA",
+      "county": "DELAWARE",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "county": "PEORIA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "DE",
+      "count": 5
+    },
+    {
+      "state": "IL",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 106050.0,
+    "gap_usd": -24110.0
+  }
+}

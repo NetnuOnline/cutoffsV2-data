@@ -1,0 +1,94 @@
+{
+  "slug": "interstate-brands",
+  "canonical_name": "Interstate Brands",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 7,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "TN",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "count": 2
+    },
+    {
+      "state": "NY",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "03/28/2013",
+      "effective_date": "11/20/2012",
+      "state": "TN",
+      "workers": 12,
+      "city": "Jacksboro"
+    },
+    {
+      "date": "03/14/2013",
+      "effective_date": "11/21/2012",
+      "state": "TN",
+      "workers": 136,
+      "city": "Knoxville"
+    },
+    {
+      "date": "10/12/2010",
+      "effective_date": "01/07/2011",
+      "state": "NY",
+      "workers": 0,
+      "city": "Jamaica"
+    },
+    {
+      "date": "08/20/2010",
+      "effective_date": "10/01/2010",
+      "state": "IL",
+      "workers": 65,
+      "city": "Decatur"
+    },
+    {
+      "date": "11/12/2005",
+      "effective_date": "11/12/2005",
+      "state": "NJ",
+      "workers": 59,
+      "city": "STATEWIDE"
+    },
+    {
+      "date": "10/19/2005",
+      "effective_date": "12/17/2005",
+      "state": "WA",
+      "workers": 185,
+      "city": "Lakewood"
+    },
+    {
+      "date": "07/29/2005",
+      "effective_date": "07/29/2005",
+      "state": "NJ",
+      "workers": 100,
+      "city": "STATEWIDE"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "macon-dewitt-wib",
+      "name": "Macon-Dewitt WIB",
+      "state": "IL"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

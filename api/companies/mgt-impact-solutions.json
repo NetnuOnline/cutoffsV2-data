@@ -1,0 +1,99 @@
+{
+  "slug": "mgt-impact-solutions",
+  "canonical_name": "MGT Impact Solutions LLC",
+  "fein": "81-0890071",
+  "lca_filing_count": 11,
+  "warn_notice_count": 0,
+  "median_wage_usd": 101962.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 6,
+      "median_wage_usd": 101731.0
+    },
+    {
+      "fy": 2025,
+      "filings": 5,
+      "median_wage_usd": 127254.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Network Engineer",
+      "count": 3,
+      "median_wage_usd": 90000.0
+    },
+    {
+      "title": "Security Engineer",
+      "count": 2,
+      "median_wage_usd": 117887.0
+    },
+    {
+      "title": "Senior Technical Project Manager",
+      "count": 1,
+      "median_wage_usd": 131000.0
+    },
+    {
+      "title": "Lead Security Engineer",
+      "count": 1,
+      "median_wage_usd": 122360.0
+    },
+    {
+      "title": "Senior System Security Engineer",
+      "count": 1,
+      "median_wage_usd": 101962.0
+    },
+    {
+      "title": "Vice President, Infrastructure Operations",
+      "count": 1,
+      "median_wage_usd": 184000.0
+    },
+    {
+      "title": "Senior Network Engineer",
+      "count": 1,
+      "median_wage_usd": 101500.0
+    },
+    {
+      "title": "Senior Systems Engineer",
+      "count": 1,
+      "median_wage_usd": 101962.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "GA",
+      "county": "GWINNETT",
+      "count": 4
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 8
+    },
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "TN",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 11,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1244",
+    "soc_title": "Network and Computer Systems Administrators",
+    "market_median_usd": 95000.0,
+    "employer_median_usd": 90000.0,
+    "gap_usd": -5000.0
+  }
+}

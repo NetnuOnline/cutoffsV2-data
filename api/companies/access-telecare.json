@@ -1,0 +1,51 @@
+{
+  "slug": "access-telecare",
+  "canonical_name": "Access TeleCare LLC",
+  "fein": "85-3321296",
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 154224.2,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 154224.2
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Director, Software Engineering",
+      "count": 1,
+      "median_wage_usd": 154224.2
+    },
+    {
+      "title": "Director, Software Engineer",
+      "count": 1,
+      "median_wage_usd": 154224.2
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "VA",
+      "county": "LOUDOUN",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "VA",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 154224.2,
+    "gap_usd": 24064.2
+  }
+}

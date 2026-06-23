@@ -1,0 +1,172 @@
+{
+  "slug": "igt",
+  "canonical_name": "IGT",
+  "fein": "88-0062109",
+  "lca_filing_count": 32,
+  "lca_worker_positions": 32,
+  "warn_notice_count": 0,
+  "median_wage_usd": 116381.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 10,
+      "median_wage_usd": 88035.0
+    },
+    {
+      "fy": 2021,
+      "filings": 3,
+      "median_wage_usd": 125066.24
+    },
+    {
+      "fy": 2022,
+      "filings": 8,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 128214.06
+    },
+    {
+      "fy": 2025,
+      "filings": 4,
+      "median_wage_usd": 161933.95
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 124247.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SOFTWARE ENGINEER",
+      "count": 6,
+      "median_wage_usd": 120544.58
+    },
+    {
+      "title": "SOFTWARE PA ENGINEER",
+      "count": 2,
+      "median_wage_usd": 103000.0
+    },
+    {
+      "title": "MANAGER - PRODUCT MANAGEMENT",
+      "count": 2,
+      "median_wage_usd": 171563.54
+    },
+    {
+      "title": "SQA ENGINEER",
+      "count": 2,
+      "median_wage_usd": 111955.5
+    },
+    {
+      "title": "SR. SOFTWARE ENGINEER",
+      "count": 2,
+      "median_wage_usd": 166830.2
+    },
+    {
+      "title": "SQA ENGINEER (Software Engineer)",
+      "count": 1,
+      "median_wage_usd": 124247.0
+    },
+    {
+      "title": "SOFTWARE ENGINEER III",
+      "count": 1,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "ANALYST BUSINESS PROCESS IMPROVEMENT",
+      "count": 1,
+      "median_wage_usd": 93175.0
+    },
+    {
+      "title": "UNIX ADMINISTRATOR SYSTEMS & APPS ENGINEER",
+      "count": 1,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "SYSTEMS ENGINEER 714.385.12",
+      "count": 1,
+      "median_wage_usd": 80129.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NV",
+      "county": "WASHOE",
+      "count": 12
+    },
+    {
+      "state": "NV",
+      "county": "CLARK",
+      "count": 7
+    },
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 2
+    },
+    {
+      "state": "MD",
+      "county": "BALTIMORE CITY",
+      "count": 1
+    },
+    {
+      "state": "KS",
+      "county": "JOHNSON",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NV",
+      "count": 22
+    },
+    {
+      "state": "CA",
+      "count": 5
+    },
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "NY",
+      "count": 1
+    },
+    {
+      "state": "MD",
+      "count": 1
+    },
+    {
+      "state": "KS",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 130597.0,
+    "gap_usd": 437.0
+  }
+}

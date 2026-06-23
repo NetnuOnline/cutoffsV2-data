@@ -1,0 +1,50 @@
+{
+  "slug": "gibson-county-coal",
+  "canonical_name": "Gibson County Coal, LLC",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 3,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "IN",
+      "count": 3
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "04/15/2020",
+      "effective_date": "04/26/2020",
+      "state": "IN",
+      "workers": 117,
+      "city": "Owensville"
+    },
+    {
+      "date": "11/15/2019",
+      "effective_date": "11/15/2019",
+      "state": "IN",
+      "workers": 184,
+      "city": "Owensville"
+    },
+    {
+      "date": "11/06/2015",
+      "effective_date": "01/06/2016",
+      "state": "IN",
+      "workers": 130,
+      "city": "Princeton"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "economic-growth-region-11",
+      "name": "Economic Growth Region 11",
+      "state": "IN"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

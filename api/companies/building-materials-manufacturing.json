@@ -1,0 +1,114 @@
+{
+  "slug": "building-materials-manufacturing",
+  "canonical_name": "Building Materials Manufacturing LLC",
+  "fein": "22-3626208",
+  "lca_filing_count": 9,
+  "lca_worker_positions": 7,
+  "warn_notice_count": 0,
+  "median_wage_usd": 137571.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 117894.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 98998.0
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 159026.5
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 107307.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Engineer",
+      "count": 2,
+      "median_wage_usd": 157248.0
+    },
+    {
+      "title": "Sr. Engineer",
+      "count": 1,
+      "median_wage_usd": 160805.0
+    },
+    {
+      "title": "Automation and Controls Specialist",
+      "count": 1,
+      "median_wage_usd": 107307.0
+    },
+    {
+      "title": "Sr. Engineer.NET",
+      "count": 1,
+      "median_wage_usd": 160805.0
+    },
+    {
+      "title": "Senior Release & DevOps Engineer",
+      "count": 1,
+      "median_wage_usd": 117894.0
+    },
+    {
+      "title": "Sr. Engineer. NET",
+      "count": 1,
+      "median_wage_usd": null
+    },
+    {
+      "title": "Manager Advanced Analytics",
+      "count": 1,
+      "median_wage_usd": 87194.0
+    },
+    {
+      "title": "Regional Controls Specialist",
+      "count": 1,
+      "median_wage_usd": 110802.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NJ",
+      "county": "MORRIS",
+      "count": 2
+    },
+    {
+      "state": "MD",
+      "county": "BALTIMORE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 5
+    },
+    {
+      "state": "NC",
+      "count": 2
+    },
+    {
+      "state": "MD",
+      "count": 1
+    },
+    {
+      "state": "SC",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 159026.5,
+    "gap_usd": 28866.5
+  }
+}

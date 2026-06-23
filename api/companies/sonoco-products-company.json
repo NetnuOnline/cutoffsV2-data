@@ -1,0 +1,129 @@
+{
+  "slug": "sonoco-products-company",
+  "canonical_name": "Sonoco Products Company",
+  "fein": "57-0248420",
+  "lca_filing_count": 13,
+  "lca_worker_positions": 13,
+  "warn_notice_count": 0,
+  "median_wage_usd": 110000.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 101916.0
+    },
+    {
+      "fy": 2022,
+      "filings": 6,
+      "median_wage_usd": 105000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 102538.5
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 122866.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Data Architect",
+      "count": 3,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "Specialist IV Application Development",
+      "count": 2,
+      "median_wage_usd": 105000.0
+    },
+    {
+      "title": "Field Engineer",
+      "count": 2,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "Client Services Transition / Regional Support Specialist",
+      "count": 2,
+      "median_wage_usd": 122866.0
+    },
+    {
+      "title": "Specialist IV ",
+      "count": 2,
+      "median_wage_usd": 105000.0
+    },
+    {
+      "title": "Tax Analyst IV",
+      "count": 1,
+      "median_wage_usd": 93832.0
+    },
+    {
+      "title": "Engineer III",
+      "count": 1,
+      "median_wage_usd": 95077.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "SC",
+      "county": "DARLINGTON",
+      "count": 6
+    },
+    {
+      "state": "TN",
+      "county": "DAVIDSON",
+      "count": 2
+    },
+    {
+      "state": "NC",
+      "county": "MECKLENBURG",
+      "count": 1
+    },
+    {
+      "state": "SC",
+      "county": "FLORENCE",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "county": "MONTGOMERY",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "SC",
+      "count": 9
+    },
+    {
+      "state": "TN",
+      "count": 2
+    },
+    {
+      "state": "NC",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Computer Systems Engineers/Architects",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 122866.0,
+    "gap_usd": 4866.0
+  }
+}

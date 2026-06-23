@@ -1,0 +1,55 @@
+{
+  "slug": "knittech",
+  "canonical_name": "KNITTECH INC",
+  "fein": "84-3482230",
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 65765.6,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 60000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "IT Project Manager",
+      "count": 2,
+      "median_wage_usd": 65765.6
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "BRAZORIA",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "county": "COBB",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 1,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Information Technology Project Managers",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 60000.0,
+    "gap_usd": -58000.0
+  }
+}

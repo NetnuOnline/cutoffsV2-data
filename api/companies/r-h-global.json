@@ -1,0 +1,57 @@
+{
+  "slug": "r-h-global",
+  "canonical_name": "R&H Global Inc.",
+  "fein": "33-1222499",
+  "lca_filing_count": 2,
+  "lca_worker_positions": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 90563.5,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 75005.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 106122.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Accountant",
+      "count": 1,
+      "median_wage_usd": 75005.0
+    },
+    {
+      "title": "Financial and Investment Analyst",
+      "count": 1,
+      "median_wage_usd": 106122.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MA",
+      "county": "BRAINTREE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MA",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-2011",
+    "soc_title": "Accountants",
+    "market_median_usd": 79000.0,
+    "employer_median_usd": 75005.0,
+    "gap_usd": -3995.0
+  }
+}

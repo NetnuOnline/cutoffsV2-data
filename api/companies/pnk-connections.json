@@ -1,0 +1,65 @@
+{
+  "slug": "pnk-connections",
+  "canonical_name": "PNK Connections, LLC",
+  "fein": null,
+  "lca_filing_count": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 120640.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 120640.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "DevOps Engineer",
+      "count": 1,
+      "median_wage_usd": 85738.0
+    },
+    {
+      "title": "Senior .net Developer",
+      "count": 1,
+      "median_wage_usd": 120640.0
+    },
+    {
+      "title": "Senior .Net Developer",
+      "count": 1,
+      "median_wage_usd": 120640.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MA",
+      "county": "BOSTON CITY",
+      "count": 2
+    },
+    {
+      "state": "NC",
+      "county": "MECKLENBURG",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MA",
+      "count": 2
+    },
+    {
+      "state": "NC",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 120640.0,
+    "gap_usd": -9520.0
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "slug": "xtivia",
+  "canonical_name": "Xtivia Inc.",
+  "fein": "13-4054927",
+  "lca_filing_count": 18,
+  "lca_worker_positions": 17,
+  "warn_notice_count": 0,
+  "median_wage_usd": 119674.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 124550.0
+    },
+    {
+      "fy": 2021,
+      "filings": 4,
+      "median_wage_usd": 107650.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 118162.5
+    },
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 75566.0
+    },
+    {
+      "fy": 2024,
+      "filings": 4,
+      "median_wage_usd": 97692.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 136989.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 149240.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Programmer Analyst",
+      "count": 4,
+      "median_wage_usd": 100058.0
+    },
+    {
+      "title": "Portal Programmer I",
+      "count": 3,
+      "median_wage_usd": 90750.0
+    },
+    {
+      "title": "Integration Architect",
+      "count": 3,
+      "median_wage_usd": 149240.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 2,
+      "median_wage_usd": 132007.0
+    },
+    {
+      "title": "Web UI Developer II",
+      "count": 2,
+      "median_wage_usd": 100375.0
+    },
+    {
+      "title": "Technical Architect",
+      "count": 1,
+      "median_wage_usd": 124550.0
+    },
+    {
+      "title": "DevOps Engineer II",
+      "count": 1,
+      "median_wage_usd": 136989.0
+    },
+    {
+      "title": "Portal Programmer II",
+      "count": 1,
+      "median_wage_usd": 114798.0
+    },
+    {
+      "title": "Full Stack Developer II",
+      "count": 1,
+      "median_wage_usd": 84094.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 9
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 2
+    },
+    {
+      "state": "MO",
+      "county": "CAPE GIRARDEAU",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "county": "FORSYTH",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 14
+    },
+    {
+      "state": "IL",
+      "count": 2
+    },
+    {
+      "state": "MO",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 93000.0,
+    "gap_usd": -37160.0
+  }
+}

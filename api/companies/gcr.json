@@ -1,0 +1,58 @@
+{
+  "slug": "gcr",
+  "canonical_name": "GCR Inc.",
+  "fein": null,
+  "lca_filing_count": 1,
+  "warn_notice_count": 2,
+  "median_wage_usd": 65894.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 65894.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": ".NET Developer",
+      "count": 1,
+      "median_wage_usd": 65894.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "LA",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "LA",
+      "county": "JEFFERSON",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "08/07/2018",
+      "effective_date": "09/30/2018",
+      "state": "FL",
+      "workers": 35,
+      "city": "Base"
+    },
+    {
+      "date": "02/01/2016",
+      "effective_date": "03/31/2016",
+      "state": "FL",
+      "workers": 36,
+      "city": "Patrick Afb"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "lca_worker_positions": 1,
+  "top_socs": [],
+  "lca_periods": []
+}

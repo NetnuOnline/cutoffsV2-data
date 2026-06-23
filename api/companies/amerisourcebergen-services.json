@@ -1,0 +1,158 @@
+{
+  "slug": "amerisourcebergen-services",
+  "canonical_name": "AmerisourceBergen Services Corporation",
+  "fein": "23-2546940",
+  "lca_filing_count": 33,
+  "lca_worker_positions": 33,
+  "warn_notice_count": 0,
+  "median_wage_usd": 125100.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 5,
+      "median_wage_usd": 115918.0
+    },
+    {
+      "fy": 2023,
+      "filings": 5,
+      "median_wage_usd": 116979.0
+    },
+    {
+      "fy": 2024,
+      "filings": 10,
+      "median_wage_usd": 125550.0
+    },
+    {
+      "fy": 2025,
+      "filings": 7,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 6,
+      "median_wage_usd": 131000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Business Solutions Analyst Lead",
+      "count": 3,
+      "median_wage_usd": 141000.0
+    },
+    {
+      "title": "Senior EDI Technical Administrator",
+      "count": 2,
+      "median_wage_usd": 108513.5
+    },
+    {
+      "title": "EDI Business Solutions Analyst III",
+      "count": 2,
+      "median_wage_usd": 129000.0
+    },
+    {
+      "title": "Manager - Business Solutions Analysis",
+      "count": 2,
+      "median_wage_usd": 134500.0
+    },
+    {
+      "title": "Mgr - Business Solutions Analysis",
+      "count": 1,
+      "median_wage_usd": 143000.0
+    },
+    {
+      "title": "SAP Systems Administrator I",
+      "count": 1,
+      "median_wage_usd": 105000.0
+    },
+    {
+      "title": "Data Engineer Lead",
+      "count": 1,
+      "median_wage_usd": 125100.0
+    },
+    {
+      "title": "Administrator III-IO",
+      "count": 1,
+      "median_wage_usd": 99100.0
+    },
+    {
+      "title": "Senior Director, IT Data Management & Governance",
+      "count": 1,
+      "median_wage_usd": 205962.0
+    },
+    {
+      "title": "Spec - Data Visualization Specialist Lead",
+      "count": 1,
+      "median_wage_usd": 97739.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "PA",
+      "county": "MONTGOMERY",
+      "count": 11
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 3
+    },
+    {
+      "state": "IL",
+      "county": "PEORIA",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "county": "SANGAMON",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "county": "CHESTER",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "county": "MIDDLESEX",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "PA",
+      "count": 18
+    },
+    {
+      "state": "TX",
+      "count": 9
+    },
+    {
+      "state": "IL",
+      "count": 3
+    },
+    {
+      "state": "NJ",
+      "count": 2
+    },
+    {
+      "state": "FL",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 126000.0,
+    "gap_usd": -4160.0
+  }
+}

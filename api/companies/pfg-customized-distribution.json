@@ -1,0 +1,51 @@
+{
+  "slug": "pfg-customized-distribution",
+  "canonical_name": "PFG Customized Distribution",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 1,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "06/06/2017",
+      "effective_date": "06/06/2017",
+      "state": "GA",
+      "workers": 170,
+      "city": "Austell"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2015-03-20",
+        "formType": "8-K",
+        "accessionNumber": "0001126328-15-000097",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001126328&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 1,
+    "itemCounts": {
+      "5.02": 1
+    },
+    "latestFilingDate": "2015-03-20",
+    "earliestFilingDate": "2015-03-20"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

@@ -1,0 +1,203 @@
+{
+  "slug": "leidos",
+  "canonical_name": "Leidos, Inc.",
+  "fein": "95-3630868",
+  "lca_filing_count": 104,
+  "lca_worker_positions": 102,
+  "warn_notice_count": 0,
+  "median_wage_usd": 120372.47,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 18,
+      "median_wage_usd": 123069.5
+    },
+    {
+      "fy": 2021,
+      "filings": 17,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 14,
+      "median_wage_usd": 118916.0
+    },
+    {
+      "fy": 2023,
+      "filings": 18,
+      "median_wage_usd": 149455.0
+    },
+    {
+      "fy": 2024,
+      "filings": 10,
+      "median_wage_usd": 117750.0
+    },
+    {
+      "fy": 2025,
+      "filings": 15,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 10,
+      "median_wage_usd": 138590.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Research Scientist",
+      "count": 5,
+      "median_wage_usd": 89731.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 5,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "title": "ServiceNow Developer",
+      "count": 5,
+      "median_wage_usd": 112986.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 5,
+      "median_wage_usd": 117832.0
+    },
+    {
+      "title": "Lead Solution Architect",
+      "count": 4,
+      "median_wage_usd": 141705.0
+    },
+    {
+      "title": "Java Developer",
+      "count": 3,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "Senior Software Developer",
+      "count": 3,
+      "median_wage_usd": 163148.0
+    },
+    {
+      "title": "Pega Lead Systems Architect",
+      "count": 2,
+      "median_wage_usd": 168250.0
+    },
+    {
+      "title": "Senior Java Software Engineer",
+      "count": 2,
+      "median_wage_usd": 141523.0
+    },
+    {
+      "title": "Senior Java Developer",
+      "count": 2,
+      "median_wage_usd": 144440.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MD",
+      "county": "BALTIMORE",
+      "count": 18
+    },
+    {
+      "state": "MD",
+      "county": "MONTGOMERY",
+      "count": 12
+    },
+    {
+      "state": "VA",
+      "county": "FAIRFAX",
+      "count": 10
+    },
+    {
+      "state": "WV",
+      "county": "MONONGALIA",
+      "count": 7
+    },
+    {
+      "state": "MD",
+      "county": "BALTIMORE CITY",
+      "count": 5
+    },
+    {
+      "state": "DC",
+      "county": "DISTRICT OF COLUMBIA",
+      "count": 4
+    },
+    {
+      "state": "MD",
+      "county": "HOWARD",
+      "count": 4
+    },
+    {
+      "state": "GA",
+      "county": "DEKALB",
+      "count": 2
+    },
+    {
+      "state": "PA",
+      "county": "ALLEGHENY",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MD",
+      "count": 51
+    },
+    {
+      "state": "VA",
+      "count": 13
+    },
+    {
+      "state": "WV",
+      "count": 11
+    },
+    {
+      "state": "PA",
+      "count": 5
+    },
+    {
+      "state": "DC",
+      "count": 4
+    },
+    {
+      "state": "GA",
+      "count": 4
+    },
+    {
+      "state": "TX",
+      "count": 3
+    },
+    {
+      "state": "NC",
+      "count": 3
+    },
+    {
+      "state": "SC",
+      "count": 2
+    },
+    {
+      "state": "MI",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 145000.0,
+    "gap_usd": 14840.0
+  }
+}

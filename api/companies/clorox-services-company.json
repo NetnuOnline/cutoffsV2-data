@@ -1,0 +1,112 @@
+{
+  "slug": "clorox-services-company",
+  "canonical_name": "Clorox Services Company",
+  "fein": "94-3240526",
+  "lca_filing_count": 8,
+  "warn_notice_count": 0,
+  "median_wage_usd": 162619.4,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 4,
+      "median_wage_usd": 162619.405
+    },
+    {
+      "fy": 2025,
+      "filings": 4,
+      "median_wage_usd": 161226.5
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Systems Architect - Integrations",
+      "count": 2,
+      "median_wage_usd": 175816.405
+    },
+    {
+      "title": "Associate Director, Data Architecture",
+      "count": 1,
+      "median_wage_usd": 184950.0
+    },
+    {
+      "title": "Senior HR Developer (Workday Technical Lead)",
+      "count": 1,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "title": "Sr. Scientist",
+      "count": 1,
+      "median_wage_usd": 105000.0
+    },
+    {
+      "title": "Associate Director, Analytics",
+      "count": 1,
+      "median_wage_usd": 159600.0
+    },
+    {
+      "title": "Senior Manager Value Transformation",
+      "count": 1,
+      "median_wage_usd": 172453.0
+    },
+    {
+      "title": "Associate Manager, Analytics",
+      "count": 1,
+      "median_wage_usd": 133952.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "county": "DURHAM",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "county": "LEE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 3
+    },
+    {
+      "state": "NC",
+      "count": 2
+    },
+    {
+      "state": "FL",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 8,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Computer Systems Engineers/Architects",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 175294.4,
+    "gap_usd": 57294.4
+  }
+}

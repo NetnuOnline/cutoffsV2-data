@@ -1,0 +1,149 @@
+{
+  "slug": "cognex",
+  "canonical_name": "Cognex Corporation",
+  "fein": "04-2713778",
+  "lca_filing_count": 31,
+  "lca_worker_positions": 31,
+  "warn_notice_count": 0,
+  "median_wage_usd": 139700.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 6,
+      "median_wage_usd": 139850.0
+    },
+    {
+      "fy": 2021,
+      "filings": 7,
+      "median_wage_usd": 102500.0
+    },
+    {
+      "fy": 2022,
+      "filings": 3,
+      "median_wage_usd": 150197.0
+    },
+    {
+      "fy": 2023,
+      "filings": 9,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 155000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 158100.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 148303.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Software Engineer",
+      "count": 5,
+      "median_wage_usd": 126600.0
+    },
+    {
+      "title": "Principal Software Engineer",
+      "count": 4,
+      "median_wage_usd": 151403.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 2,
+      "median_wage_usd": 107815.0
+    },
+    {
+      "title": "SAP OTC/FTM Business Analyst",
+      "count": 1,
+      "median_wage_usd": 162400.0
+    },
+    {
+      "title": "Information Technology Project Manager",
+      "count": 1,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "title": "Associate Software Engineer",
+      "count": 1,
+      "median_wage_usd": 102500.0
+    },
+    {
+      "title": "Senior Web Designer",
+      "count": 1,
+      "median_wage_usd": 84000.0
+    },
+    {
+      "title": "Senior Mechanical Engineer - Advanced 3D Tech",
+      "count": 1,
+      "median_wage_usd": 118000.0
+    },
+    {
+      "title": "Senior SAP Business Analyst",
+      "count": 1,
+      "median_wage_usd": 145000.0
+    },
+    {
+      "title": "Consulting Software Engineer",
+      "count": 1,
+      "median_wage_usd": 185000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MA",
+      "county": "NATICK",
+      "count": 24
+    },
+    {
+      "state": "WI",
+      "county": "MILWAUKEE",
+      "count": 2
+    },
+    {
+      "state": "MA",
+      "county": "TYNGSBOROUGH",
+      "count": 1
+    },
+    {
+      "state": "NH",
+      "county": "HILLSBOROUGH",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MA",
+      "count": 27
+    },
+    {
+      "state": "WI",
+      "count": 2
+    },
+    {
+      "state": "MI",
+      "count": 1
+    },
+    {
+      "state": "NH",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 149198.5,
+    "gap_usd": 19038.5
+  }
+}

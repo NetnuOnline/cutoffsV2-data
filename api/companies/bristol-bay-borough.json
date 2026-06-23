@@ -1,0 +1,41 @@
+{
+  "slug": "bristol-bay-borough",
+  "canonical_name": "Bristol Bay Borough",
+  "fein": "92-0029832",
+  "lca_filing_count": 1,
+  "lca_worker_positions": 1,
+  "warn_notice_count": 0,
+  "median_wage_usd": 178973.96,
+  "by_fy": [
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 178973.96,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Assistant Finance Director",
+      "count": 1,
+      "median_wage_usd": 178973.96
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "AK",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-2011",
+    "soc_title": "Accountants and Auditors",
+    "market_median_usd": 79000.0,
+    "employer_median_usd": 178973.96,
+    "gap_usd": 99973.96
+  }
+}

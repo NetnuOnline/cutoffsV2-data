@@ -1,0 +1,86 @@
+{
+  "slug": "gd-copper-u-s-a",
+  "canonical_name": "GD Copper (U.S.A.), Inc.",
+  "fein": null,
+  "lca_filing_count": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 42000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 36837.0
+    },
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 44824.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 43500.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Buyer",
+      "count": 1,
+      "median_wage_usd": 42000.0
+    },
+    {
+      "title": "Cost Estimator",
+      "count": 1,
+      "median_wage_usd": 41101.0
+    },
+    {
+      "title": "Supply Chain Manager",
+      "count": 1,
+      "median_wage_usd": 36837.0
+    },
+    {
+      "title": "Electrical Engineering Technologist",
+      "count": 1,
+      "median_wage_usd": 48547.0
+    },
+    {
+      "title": "Cost Accountant",
+      "count": 1,
+      "median_wage_usd": 45000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "AL",
+      "county": "WILCOX",
+      "count": 5
+    }
+  ],
+  "top_states": [
+    {
+      "state": "AL",
+      "count": 5
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 1,
+    "continuing_denials": 0,
+    "total_approvals": 1,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 5,
+  "top_socs": [],
+  "lca_periods": []
+}

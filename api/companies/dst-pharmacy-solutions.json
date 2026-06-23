@@ -1,0 +1,164 @@
+{
+  "slug": "dst-pharmacy-solutions",
+  "canonical_name": "DST Pharmacy Solutions, Inc.",
+  "fein": null,
+  "lca_filing_count": 11,
+  "warn_notice_count": 0,
+  "median_wage_usd": 114920.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 78251.0
+    },
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 78312.0
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 85363.0
+    },
+    {
+      "fy": 2023,
+      "filings": 6,
+      "median_wage_usd": 128943.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Software Quality Engineer ",
+      "count": 1,
+      "median_wage_usd": 80000.0
+    },
+    {
+      "title": "Full Stack Developer",
+      "count": 1,
+      "median_wage_usd": 76502.0
+    },
+    {
+      "title": "Sr Software Engineer",
+      "count": 1,
+      "median_wage_usd": 80122.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 1,
+      "median_wage_usd": 85363.0
+    },
+    {
+      "title": "Sr Software Engineer [00055964]",
+      "count": 1,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "title": "Software Engineer [00055281]",
+      "count": 1,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "title": "Sr IT Project Management Specialist",
+      "count": 1,
+      "median_wage_usd": 76502.0
+    },
+    {
+      "title": "Manager Software QA Engineering [00056183]",
+      "count": 1,
+      "median_wage_usd": 122886.0
+    },
+    {
+      "title": "Sr Software Engineer [00055620]",
+      "count": 1,
+      "median_wage_usd": 114920.0
+    },
+    {
+      "title": "Sr Software Engineer [00055614]",
+      "count": 1,
+      "median_wage_usd": 135000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MO",
+      "county": "JACKSON",
+      "count": 10
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MO",
+      "count": 10
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 23,
+    "continuing_denials": 0,
+    "total_approvals": 23,
+    "by_fy": [
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 5,
+        "continuing_denials": 0,
+        "total_approvals": 5
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 12,
+        "continuing_denials": 0,
+        "total_approvals": 12
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      }
+    ]
+  },
+  "lca_worker_positions": 11,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 124960.0,
+    "gap_usd": -5200.0
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "bi-lo",
+  "canonical_name": "Bi-Lo",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "SC",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "05/31/2014",
+      "effective_date": "05/31/2014",
+      "state": "SC",
+      "workers": 54,
+      "city": "Orangeburg"
+    },
+    {
+      "date": "04/17/2013",
+      "effective_date": "04/17/2013",
+      "state": "SC",
+      "workers": 130,
+      "city": "Greenville"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "greenville-wib",
+      "name": "Greenville WIB",
+      "state": "SC"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

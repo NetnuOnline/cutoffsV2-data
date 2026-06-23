@@ -1,0 +1,144 @@
+{
+  "slug": "scott-white-health-plan",
+  "canonical_name": "Scott & White Health Plan",
+  "fein": "74-2052197",
+  "lca_filing_count": 15,
+  "lca_worker_positions": 15,
+  "warn_notice_count": 0,
+  "median_wage_usd": 118997.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 105310.2
+    },
+    {
+      "fy": 2022,
+      "filings": 3,
+      "median_wage_usd": 105900.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 136400.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 140192.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 124833.0
+    },
+    {
+      "fy": 2026,
+      "filings": 6,
+      "median_wage_usd": 118997.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer Sr.",
+      "count": 2,
+      "median_wage_usd": 113998.5
+    },
+    {
+      "title": "EBI (Enterprise Business Intelligence) Developer II",
+      "count": 2,
+      "median_wage_usd": 94806.0
+    },
+    {
+      "title": "IS EBI Developer II",
+      "count": 2,
+      "median_wage_usd": 115960.5
+    },
+    {
+      "title": "Software Developer SR",
+      "count": 1,
+      "median_wage_usd": 133012.0
+    },
+    {
+      "title": "Software Developer Sr",
+      "count": 1,
+      "median_wage_usd": 118997.0
+    },
+    {
+      "title": "EBI Developer",
+      "count": 1,
+      "median_wage_usd": 105900.0
+    },
+    {
+      "title": "Sr. Software Developer",
+      "count": 1,
+      "median_wage_usd": 140192.0
+    },
+    {
+      "title": "Manager of Advanced Analytics I",
+      "count": 1,
+      "median_wage_usd": 121888.0
+    },
+    {
+      "title": "EBI Developer III",
+      "count": 1,
+      "median_wage_usd": 127666.0
+    },
+    {
+      "title": "Systems Analyst III",
+      "count": 1,
+      "median_wage_usd": 122000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "BELL",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 12
+    },
+    {
+      "state": "TN",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 126004.5,
+    "gap_usd": -4155.5
+  }
+}

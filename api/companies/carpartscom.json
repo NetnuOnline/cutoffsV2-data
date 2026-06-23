@@ -1,0 +1,97 @@
+{
+  "slug": "carpartscom",
+  "canonical_name": "CarParts.com, Inc.",
+  "fein": null,
+  "lca_filing_count": 3,
+  "warn_notice_count": 1,
+  "median_wage_usd": 172147,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 0,
+      "median_wage_usd": null
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Lead Data Engineer",
+      "count": 0,
+      "median_wage_usd": null
+    }
+  ],
+  "top_states": [
+    {
+      "state": "VA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "06/09/2025",
+      "effective_date": "08/08/2025",
+      "state": "VA",
+      "workers": 104,
+      "city": "Chesapeake, VA"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "hampton-roads-lwia-xvi",
+      "name": "Hampton Roads LWIA XVI",
+      "state": "VA"
+    }
+  ],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2017-01-30",
+        "formType": "8-K",
+        "accessionNumber": "0001378950-17-000006",
+        "items": [
+          "2.05",
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities",
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001378950&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2016-06-02",
+        "formType": "8-K",
+        "accessionNumber": "0001628280-16-016897",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001378950&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2014-06-30",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-14-254480",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001378950&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 3,
+    "itemCounts": {
+      "2.05": 2,
+      "2.06": 1,
+      "5.02": 1
+    },
+    "latestFilingDate": "2017-01-30",
+    "earliestFilingDate": "2014-06-30"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

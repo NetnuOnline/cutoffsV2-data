@@ -1,0 +1,185 @@
+{
+  "slug": "ameriprise-financial",
+  "canonical_name": "Ameriprise Financial, Inc.",
+  "fein": "13-3180631",
+  "lca_filing_count": 139,
+  "lca_worker_positions": 136,
+  "warn_notice_count": 0,
+  "median_wage_usd": 124750.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 12,
+      "median_wage_usd": 106400.0
+    },
+    {
+      "fy": 2021,
+      "filings": 26,
+      "median_wage_usd": 111950.0
+    },
+    {
+      "fy": 2022,
+      "filings": 23,
+      "median_wage_usd": 113610.0
+    },
+    {
+      "fy": 2023,
+      "filings": 11,
+      "median_wage_usd": 124000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 17,
+      "median_wage_usd": 134700.0
+    },
+    {
+      "fy": 2025,
+      "filings": 27,
+      "median_wage_usd": 130083.0
+    },
+    {
+      "fy": 2026,
+      "filings": 20,
+      "median_wage_usd": 141400.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Systems Engineer",
+      "count": 16,
+      "median_wage_usd": 129189.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 14,
+      "median_wage_usd": 138700.0
+    },
+    {
+      "title": "SOFTWARE ENGINEER",
+      "count": 13,
+      "median_wage_usd": 116000.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 10,
+      "median_wage_usd": 118966.5
+    },
+    {
+      "title": "Senior Cloud Engineer",
+      "count": 4,
+      "median_wage_usd": 142650.0
+    },
+    {
+      "title": "Senior Information Security Engineer",
+      "count": 4,
+      "median_wage_usd": 132000.0
+    },
+    {
+      "title": "OPERATIONS ENGINEER",
+      "count": 4,
+      "median_wage_usd": 112300.0
+    },
+    {
+      "title": "Information Security Engineer",
+      "count": 4,
+      "median_wage_usd": 126500.0
+    },
+    {
+      "title": "Systems Administrator II",
+      "count": 3,
+      "median_wage_usd": 89000.0
+    },
+    {
+      "title": "Principal Engineer",
+      "count": 3,
+      "median_wage_usd": 130998.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MN",
+      "county": "HENNEPIN",
+      "count": 83
+    },
+    {
+      "state": "MA",
+      "county": "BOSTON CITY",
+      "count": 6
+    },
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 2
+    },
+    {
+      "state": "MA",
+      "county": "AYER",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "county": "UNION",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MN",
+      "count": 118
+    },
+    {
+      "state": "MA",
+      "count": 8
+    },
+    {
+      "state": "TX",
+      "count": 4
+    },
+    {
+      "state": "NC",
+      "count": 3
+    },
+    {
+      "state": "NY",
+      "count": 2
+    },
+    {
+      "state": "AZ",
+      "count": 2
+    },
+    {
+      "state": "CO",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 135000.0,
+    "gap_usd": 4840.0
+  }
+}

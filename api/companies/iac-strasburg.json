@@ -1,0 +1,43 @@
+{
+  "slug": "iac-strasburg",
+  "canonical_name": "IAC Strasburg, LLC",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "VA",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "10/08/2024",
+      "effective_date": "12/31/2024",
+      "state": "VA",
+      "workers": 69,
+      "city": "Strasburg, VA"
+    },
+    {
+      "date": "02/23/2024",
+      "effective_date": "04/26/2024",
+      "state": "VA",
+      "workers": 135,
+      "city": "Strasburg, VA"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "shenandoah-valley-lwia-iv",
+      "name": "Shenandoah Valley LWIA IV",
+      "state": "VA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

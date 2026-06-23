@@ -1,0 +1,60 @@
+{
+  "slug": "quest-scholars-program",
+  "canonical_name": "Quest Scholars Program, Inc.",
+  "fein": "94-3348336",
+  "lca_filing_count": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 146260.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 89773.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 146260.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "TECHNICAL LEAD, DATA SCIENCE",
+      "count": 2,
+      "median_wage_usd": 146260.0
+    },
+    {
+      "title": "DATA SCIENTIST",
+      "count": 1,
+      "median_wage_usd": 89773.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "VA",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 146260.0,
+    "gap_usd": 38240.0
+  }
+}

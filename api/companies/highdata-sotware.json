@@ -1,0 +1,69 @@
+{
+  "slug": "highdata-sotware",
+  "canonical_name": "HIGHDATA SOTWARE CORPORATION",
+  "fein": "02-0495484",
+  "lca_filing_count": 12,
+  "lca_worker_positions": 11,
+  "warn_notice_count": 0,
+  "median_wage_usd": 92581.0,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 8,
+      "median_wage_usd": 91541.0
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 109283.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 8,
+      "median_wage_usd": 92581.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 4,
+      "median_wage_usd": 109283.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "GA",
+      "county": "FORSYTH",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 4
+    },
+    {
+      "state": "TX",
+      "count": 4
+    },
+    {
+      "state": "NY",
+      "count": 2
+    },
+    {
+      "state": "GA",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Computer Systems Engineers/Architects",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 92581.0,
+    "gap_usd": -25419.0
+  }
+}

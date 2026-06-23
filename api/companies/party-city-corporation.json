@@ -1,0 +1,136 @@
+{
+  "slug": "party-city-corporation",
+  "canonical_name": "Party City Corporation",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 10,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 3
+    },
+    {
+      "state": "MD",
+      "count": 3
+    },
+    {
+      "state": "KS",
+      "count": 3
+    },
+    {
+      "state": "ME",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "12/20/2024",
+      "effective_date": "03/21/2025",
+      "state": "NY",
+      "workers": 471,
+      "city": "Chester"
+    },
+    {
+      "date": "12/20/2024",
+      "effective_date": "02/28/2025",
+      "state": "NY",
+      "workers": 15,
+      "city": null
+    },
+    {
+      "date": "12/20/2024",
+      "effective_date": "02/28/2025",
+      "state": "MD",
+      "workers": 20,
+      "city": "Rockville"
+    },
+    {
+      "date": "12/20/2024",
+      "effective_date": "02/28/2025",
+      "state": "MD",
+      "workers": 22,
+      "city": "Lanham"
+    },
+    {
+      "date": "12/20/2024",
+      "effective_date": "02/28/2025",
+      "state": "MD",
+      "workers": 20,
+      "city": "Gaithersburg"
+    },
+    {
+      "date": "12/20/2024",
+      "effective_date": "02/28/2025",
+      "state": "NY",
+      "workers": 524,
+      "city": "Chester"
+    },
+    {
+      "date": "12/20/2024",
+      "effective_date": "12/20/2024",
+      "state": "KS",
+      "workers": 0,
+      "city": "Wichita"
+    },
+    {
+      "date": "12/20/2024",
+      "effective_date": "12/20/2024",
+      "state": "KS",
+      "workers": 15,
+      "city": "Wichita"
+    },
+    {
+      "date": "04/28/2022",
+      "effective_date": "04/28/2022",
+      "state": "KS",
+      "workers": 0,
+      "city": "Salina"
+    },
+    {
+      "date": "02/19/2020",
+      "effective_date": "02/19/2020",
+      "state": "ME",
+      "workers": 12,
+      "city": "3 - Central Western Local Area 3"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "dupage-county-wib",
+      "name": "DuPage County WIB",
+      "state": "IL"
+    },
+    {
+      "slug": "local-area-i-western-wib",
+      "name": "Local Area I - Western WIB",
+      "state": "KS"
+    },
+    {
+      "slug": "local-area-iv-south-central-wib",
+      "name": "Local Area IV - South Central WIB",
+      "state": "KS"
+    },
+    {
+      "slug": "montgomery-wia",
+      "name": "Montgomery WIA",
+      "state": "MD"
+    },
+    {
+      "slug": "prince-georges-wia",
+      "name": "Prince George's WIA",
+      "state": "MD"
+    },
+    {
+      "slug": "orange-county-lwia",
+      "name": "Orange County LWIA",
+      "state": "NY"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

@@ -1,0 +1,162 @@
+{
+  "slug": "hulu-indirect-subsidiary-of-the-walt-disney-company",
+  "canonical_name": "Hulu, LLC (indirect subsidiary of The Walt Disney Company)",
+  "fein": "02-0809769",
+  "lca_filing_count": 60,
+  "warn_notice_count": 0,
+  "median_wage_usd": 179031.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 23,
+      "median_wage_usd": 165000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 20,
+      "median_wage_usd": 180550.0
+    },
+    {
+      "fy": 2025,
+      "filings": 16,
+      "median_wage_usd": 181514.88
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Software Engineer",
+      "count": 10,
+      "median_wage_usd": 160650.0
+    },
+    {
+      "title": "Lead Software Engineer",
+      "count": 6,
+      "median_wage_usd": 181100.0
+    },
+    {
+      "title": "Manager Software Engineering",
+      "count": 6,
+      "median_wage_usd": 194342.5
+    },
+    {
+      "title": "Lead Data Engineer",
+      "count": 5,
+      "median_wage_usd": 178000.0
+    },
+    {
+      "title": "LEAD SOFTWARE ENGINEER",
+      "count": 4,
+      "median_wage_usd": 185740.02000000002
+    },
+    {
+      "title": "Software Engineer II",
+      "count": 4,
+      "median_wage_usd": 142139.0
+    },
+    {
+      "title": "SENIOR SOFTWARE ENGINEER",
+      "count": 4,
+      "median_wage_usd": 167674.5
+    },
+    {
+      "title": "Senior Software Developer",
+      "count": 2,
+      "median_wage_usd": 175225.0
+    },
+    {
+      "title": "Lead Machine Learning Engineer",
+      "count": 2,
+      "median_wage_usd": 181100.0
+    },
+    {
+      "title": "Principal Software Engineer",
+      "count": 2,
+      "median_wage_usd": 219897.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 32
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 9
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 3
+    },
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 2
+    },
+    {
+      "state": "NC",
+      "county": "WAKE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 40
+    },
+    {
+      "state": "WA",
+      "count": 12
+    },
+    {
+      "state": "NY",
+      "count": 4
+    },
+    {
+      "state": "CT",
+      "count": 2
+    },
+    {
+      "state": "NC",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 15,
+    "initial_denials": 0,
+    "continuing_approvals": 49,
+    "continuing_denials": 0,
+    "total_approvals": 64,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 14,
+        "initial_denials": 0,
+        "continuing_approvals": 34,
+        "continuing_denials": 0,
+        "total_approvals": 48
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 15,
+        "continuing_denials": 0,
+        "total_approvals": 16
+      }
+    ]
+  },
+  "lca_worker_positions": 59,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 175875.0,
+    "gap_usd": 45715.0
+  }
+}

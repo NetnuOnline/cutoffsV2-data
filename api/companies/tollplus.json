@@ -1,0 +1,147 @@
+{
+  "slug": "tollplus",
+  "canonical_name": "Tollplus, LLC",
+  "fein": "35-2554322",
+  "lca_filing_count": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 104530.5,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 89544.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 118807.52
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 96262.4
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 142508.5
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Database Administrator",
+      "count": 2,
+      "median_wage_usd": 92903.2
+    },
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 102544.0
+    },
+    {
+      "title": "Product Development Manager - Tolling and Mobility Solutions",
+      "count": 1,
+      "median_wage_usd": 178500.0
+    },
+    {
+      "title": "Quality Test Lead",
+      "count": 1,
+      "median_wage_usd": 106517.0
+    },
+    {
+      "title": "Software Developer, Applications",
+      "count": 1,
+      "median_wage_usd": 135071.04
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "ORANGE",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 4
+    },
+    {
+      "state": "CA",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 12,
+    "initial_denials": 0,
+    "continuing_approvals": 14,
+    "continuing_denials": 0,
+    "total_approvals": 26,
+    "by_fy": [
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 3,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 4
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 5,
+        "initial_denials": 0,
+        "continuing_approvals": 9,
+        "continuing_denials": 0,
+        "total_approvals": 14
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 5
+      }
+    ]
+  },
+  "lca_worker_positions": 6,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 135071.04,
+    "gap_usd": 4911.04
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "slug": "servit",
+  "canonical_name": "ServIT, LLC",
+  "fein": "32-0155904",
+  "lca_filing_count": 8,
+  "warn_notice_count": 0,
+  "median_wage_usd": 94342.5,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 92685.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 100235.2
+    },
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 89856.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 107072.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "DevOps Engineer ",
+      "count": 2,
+      "median_wage_usd": 92685.0
+    },
+    {
+      "title": "Data Modeler",
+      "count": 1,
+      "median_wage_usd": 118144.0
+    },
+    {
+      "title": "Lead Automation Engineer",
+      "count": 1,
+      "median_wage_usd": 96000.0
+    },
+    {
+      "title": "Data Engineer ",
+      "count": 1,
+      "median_wage_usd": 100235.2
+    },
+    {
+      "title": "Sr. Automation Engineer",
+      "count": 1,
+      "median_wage_usd": 75000.0
+    },
+    {
+      "title": "Data Engineer   ",
+      "count": 1,
+      "median_wage_usd": 89856.0
+    },
+    {
+      "title": "Cloud Engineer",
+      "count": 1,
+      "median_wage_usd": 110240.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 2
+    },
+    {
+      "state": "VA",
+      "county": "FAIRFAX",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "county": "INGHAM",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "county": "PRINCE WILLIAM",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "county": "PINELLAS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 3
+    },
+    {
+      "state": "MI",
+      "count": 2
+    },
+    {
+      "state": "VA",
+      "count": 2
+    },
+    {
+      "state": "FL",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 7,
+    "initial_denials": 1,
+    "continuing_approvals": 5,
+    "continuing_denials": 0,
+    "total_approvals": 12,
+    "by_fy": [
+      {
+        "fy": 2016,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2017,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 3,
+        "initial_denials": 1,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 6
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 3,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      }
+    ]
+  },
+  "lca_worker_positions": 8,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 101462.5,
+    "gap_usd": -28697.5
+  }
+}

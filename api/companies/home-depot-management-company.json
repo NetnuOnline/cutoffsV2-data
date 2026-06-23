@@ -1,0 +1,193 @@
+{
+  "slug": "home-depot-management-company",
+  "canonical_name": "Home Depot Management Company LLC",
+  "fein": "87-2928157",
+  "lca_filing_count": 314,
+  "lca_worker_positions": 314,
+  "warn_notice_count": 0,
+  "median_wage_usd": 140000.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 44,
+      "median_wage_usd": 134612.5
+    },
+    {
+      "fy": 2023,
+      "filings": 73,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 73,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 70,
+      "median_wage_usd": 142826.78
+    },
+    {
+      "fy": 2026,
+      "filings": 54,
+      "median_wage_usd": 159135.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Sr. Software Engineer",
+      "count": 60,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "title": "Staff Software Engineer",
+      "count": 52,
+      "median_wage_usd": 155373.75
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 15,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "title": "Sr. Data Scientist",
+      "count": 10,
+      "median_wage_usd": 155822.22
+    },
+    {
+      "title": "Cybersecurity Sr. Engineer",
+      "count": 10,
+      "median_wage_usd": 137852.15
+    },
+    {
+      "title": "Cybersecurity Staff Engineer",
+      "count": 8,
+      "median_wage_usd": 160330.225
+    },
+    {
+      "title": "Software Engineer Manager",
+      "count": 6,
+      "median_wage_usd": 186735.0
+    },
+    {
+      "title": "Online Sr. Decision Analyst",
+      "count": 6,
+      "median_wage_usd": 108017.5
+    },
+    {
+      "title": "Cybersecurity Manager",
+      "count": 6,
+      "median_wage_usd": 190759.1
+    },
+    {
+      "title": "Associate Data Scientist",
+      "count": 6,
+      "median_wage_usd": 105464.125
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "GA",
+      "county": "COBB",
+      "count": 101
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 13
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 12
+    },
+    {
+      "state": "GA",
+      "county": "FORSYTH",
+      "count": 9
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 5
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 5
+    },
+    {
+      "state": "NJ",
+      "county": "HUDSON",
+      "count": 5
+    },
+    {
+      "state": "NC",
+      "county": "MECKLENBURG",
+      "count": 4
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 4
+    },
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 194
+    },
+    {
+      "state": "TX",
+      "count": 56
+    },
+    {
+      "state": "NC",
+      "count": 9
+    },
+    {
+      "state": "NJ",
+      "count": 7
+    },
+    {
+      "state": "AZ",
+      "count": 6
+    },
+    {
+      "state": "CA",
+      "count": 6
+    },
+    {
+      "state": "NY",
+      "count": 5
+    },
+    {
+      "state": "VA",
+      "count": 5
+    },
+    {
+      "state": "WA",
+      "count": 4
+    },
+    {
+      "state": "FL",
+      "count": 4
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 145000.0,
+    "gap_usd": 14840.0
+  }
+}

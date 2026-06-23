@@ -1,0 +1,123 @@
+{
+  "slug": "lts-associate",
+  "canonical_name": "LTS Associate, Inc.",
+  "fein": "83-2455380",
+  "lca_filing_count": 8,
+  "lca_worker_positions": 8,
+  "warn_notice_count": 0,
+  "median_wage_usd": 57917.6,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 38500.8
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 46675.200000000004
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 50554.40000000001
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 73465.6
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 68848.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Database Administrator",
+      "count": 2,
+      "median_wage_usd": 73465.6
+    },
+    {
+      "title": "Sr. Supply Chain Logistic Analyst",
+      "count": 1,
+      "median_wage_usd": 61360.0
+    },
+    {
+      "title": "Marketing Specialist",
+      "count": 1,
+      "median_wage_usd": 46633.600000000006
+    },
+    {
+      "title": "Computer Systems Administrator",
+      "count": 1,
+      "median_wage_usd": 68848.0
+    },
+    {
+      "title": "Business Analyst",
+      "count": 1,
+      "median_wage_usd": 54475.200000000004
+    },
+    {
+      "title": "Copy Writer",
+      "count": 1,
+      "median_wage_usd": 38500.8
+    },
+    {
+      "title": "Market Research Analyst",
+      "count": 1,
+      "median_wage_usd": 46675.200000000004
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NJ",
+      "county": "BURLINGTON",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "county": "NASSAU",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "count": 2
+    },
+    {
+      "state": "MD",
+      "count": 2
+    },
+    {
+      "state": "NY",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1161",
+    "soc_title": "Market Research Analysts and Marketing Specialists",
+    "market_median_usd": 74680.0,
+    "employer_median_usd": 46675.2,
+    "gap_usd": -28004.8
+  }
+}

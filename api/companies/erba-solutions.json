@@ -1,0 +1,126 @@
+{
+  "slug": "erba-solutions",
+  "canonical_name": "ERBA Solutions LLC",
+  "fein": "92-0843903",
+  "lca_filing_count": 18,
+  "lca_worker_positions": 16,
+  "warn_notice_count": 0,
+  "median_wage_usd": 91062.0,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 10,
+      "median_wage_usd": 89250.0
+    },
+    {
+      "fy": 2026,
+      "filings": 6,
+      "median_wage_usd": 102375.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 3,
+      "median_wage_usd": 91000.0
+    },
+    {
+      "title": "Statistical Programmer Analyst",
+      "count": 2,
+      "median_wage_usd": 83100.0
+    },
+    {
+      "title": "Python Developer",
+      "count": 2,
+      "median_wage_usd": 103250.0
+    },
+    {
+      "title": "Software Test Engineer",
+      "count": 2,
+      "median_wage_usd": 81750.0
+    },
+    {
+      "title": "Sr. Kronos Consultant",
+      "count": 1,
+      "median_wage_usd": null
+    },
+    {
+      "title": "Business Systems Analyst",
+      "count": 1,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 91000.0
+    },
+    {
+      "title": "IOS Developer",
+      "count": 1,
+      "median_wage_usd": 101500.0
+    },
+    {
+      "title": "Sr. Kronos consultant",
+      "count": 1,
+      "median_wage_usd": 91062.0
+    },
+    {
+      "title": "SAP Technical Consultant",
+      "count": 1,
+      "median_wage_usd": 92000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 8
+    },
+    {
+      "state": "NJ",
+      "count": 3
+    },
+    {
+      "state": "MN",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "count": 2
+    },
+    {
+      "state": "OH",
+      "count": 1
+    },
+    {
+      "state": "NE",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 91000.0,
+    "gap_usd": -39160.0
+  }
+}

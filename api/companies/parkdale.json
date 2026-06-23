@@ -1,0 +1,54 @@
+{
+  "slug": "parkdale",
+  "canonical_name": "Parkdale",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 3,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "VA",
+      "count": 2
+    },
+    {
+      "state": "AL",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "08/26/2025",
+      "effective_date": "10/24/2025",
+      "state": "VA",
+      "workers": 68,
+      "city": "Hillsville, VA"
+    },
+    {
+      "date": "08/15/2023",
+      "effective_date": "10/14/2023",
+      "state": "AL",
+      "workers": 76,
+      "city": "Leesburg"
+    },
+    {
+      "date": "08/10/2023",
+      "effective_date": "10/09/2023",
+      "state": "VA",
+      "workers": 326,
+      "city": "Hillsville, VA"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "new-rivermt-rogers-lwia-ii",
+      "name": "New River/Mt. Rogers LWIA II",
+      "state": "VA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

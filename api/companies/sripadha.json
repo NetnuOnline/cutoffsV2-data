@@ -1,0 +1,159 @@
+{
+  "slug": "sripadha",
+  "canonical_name": "Sripadha Inc,",
+  "fein": "83-0643692",
+  "lca_filing_count": 19,
+  "lca_worker_positions": 19,
+  "warn_notice_count": 0,
+  "median_wage_usd": 101754.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 8,
+      "median_wage_usd": 94037.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 104041.5
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 106974.0
+    },
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 108826.0
+    },
+    {
+      "fy": 2026,
+      "filings": 5,
+      "median_wage_usd": 112424.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 16,
+      "median_wage_usd": 101140.0
+    },
+    {
+      "title": "Business System analyst",
+      "count": 1,
+      "median_wage_usd": 149760.0
+    },
+    {
+      "title": "Computer Systems Engineer",
+      "count": 1,
+      "median_wage_usd": 109928.0
+    },
+    {
+      "title": "Business Systems Analyst",
+      "count": 1,
+      "median_wage_usd": 71698.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 3
+    },
+    {
+      "state": "NJ",
+      "county": "ESSEX",
+      "count": 2
+    },
+    {
+      "state": "FL",
+      "county": "HILLSBOROUGH",
+      "count": 1
+    },
+    {
+      "state": "SC",
+      "county": "RICHLAND",
+      "count": 1
+    },
+    {
+      "state": "AR",
+      "county": "BENTON",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "BEXAR",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "county": "LAKE",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "county": "FAIRFAX",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 5
+    },
+    {
+      "state": "SC",
+      "count": 4
+    },
+    {
+      "state": "OR",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "count": 2
+    },
+    {
+      "state": "VA",
+      "count": 1
+    },
+    {
+      "state": "AR",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 107900.0,
+    "gap_usd": -22260.0
+  }
+}

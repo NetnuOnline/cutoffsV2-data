@@ -1,0 +1,112 @@
+{
+  "slug": "kemper-insurance-company",
+  "canonical_name": "KEMPER INSURANCE COMPANY",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "KS",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "05/09/2003",
+      "effective_date": "05/09/2003",
+      "state": "KS",
+      "workers": 65,
+      "city": "3 - Workforce Investment Area III"
+    },
+    {
+      "date": "02/10/2003",
+      "effective_date": "05/01/2003",
+      "state": "IL",
+      "workers": 161,
+      "city": "ONE KEMPER DRIVE  LONG GROVE, IL 60049"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2025-05-08",
+        "formType": "8-K",
+        "accessionNumber": "0000860748-25-000138",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000860748&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2023-05-04",
+        "formType": "8-K",
+        "accessionNumber": "0000860748-23-000087",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000860748&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2014-10-06",
+        "formType": "8-K",
+        "accessionNumber": "0000860748-14-000079",
+        "items": [
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000860748&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2009-03-24",
+        "formType": "8-K",
+        "accessionNumber": "0001181431-09-017000",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000860748&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2009-02-10",
+        "formType": "8-K/A",
+        "accessionNumber": "0001193125-09-023770",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000860748&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 5,
+    "itemCounts": {
+      "5.02": 3,
+      "2.06": 1,
+      "2.05": 1
+    },
+    "latestFilingDate": "2025-05-08",
+    "earliestFilingDate": "2009-02-10"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

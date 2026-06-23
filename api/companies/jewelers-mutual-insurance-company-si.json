@@ -1,0 +1,120 @@
+{
+  "slug": "jewelers-mutual-insurance-company-si",
+  "canonical_name": "Jewelers Mutual Insurance Company, SI",
+  "fein": "39-0493890",
+  "lca_filing_count": 9,
+  "warn_notice_count": 0,
+  "median_wage_usd": 112000.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 107869.0
+    },
+    {
+      "fy": 2024,
+      "filings": 4,
+      "median_wage_usd": 120816.5
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 152729.5
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Data Scientist",
+      "count": 2,
+      "median_wage_usd": 150144.5
+    },
+    {
+      "title": "Software Engineer II",
+      "count": 2,
+      "median_wage_usd": 106596.0
+    },
+    {
+      "title": "Data Scientist II",
+      "count": 2,
+      "median_wage_usd": 109616.0
+    },
+    {
+      "title": "Data Scientist 1",
+      "count": 1,
+      "median_wage_usd": 84900.0
+    },
+    {
+      "title": "Business Intelligence Developer II",
+      "count": 1,
+      "median_wage_usd": 130270.0
+    },
+    {
+      "title": "Senior Business Intelligence Developer",
+      "count": 1,
+      "median_wage_usd": 150000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 4
+    },
+    {
+      "state": "WI",
+      "county": "WINNEBAGO",
+      "count": 2
+    },
+    {
+      "state": "PA",
+      "county": "DELAWARE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 5
+    },
+    {
+      "state": "WI",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 1,
+    "continuing_denials": 0,
+    "total_approvals": 1,
+    "by_fy": [
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 9,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 107869.0,
+    "gap_usd": -151.0
+  }
+}

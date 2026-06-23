@@ -1,0 +1,80 @@
+{
+  "slug": "augusta-it-solutions",
+  "canonical_name": "AUGUSTA IT SOLUTIONS LLC",
+  "fein": "92-0607482",
+  "lca_filing_count": 4,
+  "lca_worker_positions": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 93579.5,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 85738.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 85738.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 101421.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "FRONT END DEVELOPER",
+      "count": 2,
+      "median_wage_usd": 101421.0
+    },
+    {
+      "title": "SOFTWARE DEVELOPER",
+      "count": 1,
+      "median_wage_usd": 85738.0
+    },
+    {
+      "title": "SITE RELIABILITY ENGINEER",
+      "count": 1,
+      "median_wage_usd": 85738.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NC",
+      "county": "MECKLENBURG",
+      "count": 1
+    },
+    {
+      "state": "MO",
+      "county": "ST CHARLES",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "VA",
+      "count": 2
+    },
+    {
+      "state": "NC",
+      "count": 1
+    },
+    {
+      "state": "MO",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 93579.5,
+    "gap_usd": -36580.5
+  }
+}

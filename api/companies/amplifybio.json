@@ -1,0 +1,96 @@
+{
+  "slug": "amplifybio",
+  "canonical_name": "AmplifyBio, LLC",
+  "fein": "86-2301671",
+  "lca_filing_count": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 167000.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 176850.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 121139.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Study Director",
+      "count": 1,
+      "median_wage_usd": 121139.0
+    },
+    {
+      "title": "Senior Enterprise Systems Engineer",
+      "count": 1,
+      "median_wage_usd": 167000.0
+    },
+    {
+      "title": "Associate Director, Technical Operations Finance ",
+      "count": 1,
+      "median_wage_usd": 186700.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NV",
+      "county": "CLARK",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SAN MATEO",
+      "count": 1
+    },
+    {
+      "state": "OH",
+      "county": "MADISON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "OH",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "NV",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 2,
+    "continuing_denials": 0,
+    "total_approvals": 2,
+    "by_fy": [
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      }
+    ]
+  },
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Clinical Data Managers",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 121139.0,
+    "gap_usd": 13119.0
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "elior",
+  "canonical_name": "Elior, Inc.",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "WI",
+      "count": 1
+    },
+    {
+      "state": "MS",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "11/03/2025",
+      "effective_date": "05/17/2026",
+      "state": "WI",
+      "workers": 155,
+      "city": "Oshkosh"
+    },
+    {
+      "date": "07/18/2024",
+      "effective_date": "07/18/2024",
+      "state": "MS",
+      "workers": 59,
+      "city": "Ridgeland, Madison County"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "fox-valley-wda",
+      "name": "Fox Valley WDA",
+      "state": "WI"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

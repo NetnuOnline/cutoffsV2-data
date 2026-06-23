@@ -1,0 +1,41 @@
+{
+  "slug": "i1-tech",
+  "canonical_name": "I1 Tech INC",
+  "fein": "33-2360042",
+  "lca_filing_count": 2,
+  "lca_worker_positions": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 92518.5,
+  "by_fy": [
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 92518.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 2,
+      "median_wage_usd": 92518.5
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "UT",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 92518.5,
+    "gap_usd": -37641.5
+  }
+}

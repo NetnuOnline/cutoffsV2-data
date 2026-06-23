@@ -1,0 +1,57 @@
+{
+  "slug": "price-rite",
+  "canonical_name": "Price Rite",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 4,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "MD",
+      "count": 4
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "08/22/2023",
+      "effective_date": "10/22/2023",
+      "state": "MD",
+      "workers": 25,
+      "city": "Rosedale"
+    },
+    {
+      "date": "01/05/2023",
+      "effective_date": "02/28/2023",
+      "state": "MD",
+      "workers": 40,
+      "city": "Hyattsville"
+    },
+    {
+      "date": "11/10/2022",
+      "effective_date": "12/31/2022",
+      "state": "MD",
+      "workers": 31,
+      "city": "Baltimore"
+    },
+    {
+      "date": "11/30/2021",
+      "effective_date": "12/30/2021",
+      "state": "MD",
+      "workers": 36,
+      "city": "District Heights"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "prince-georges-wia",
+      "name": "Prince George's WIA",
+      "state": "MD"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

@@ -1,0 +1,75 @@
+{
+  "slug": "fresh-thyme",
+  "canonical_name": "Fresh Thyme",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 4,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "NE",
+      "count": 2
+    },
+    {
+      "state": "WI",
+      "count": 1
+    },
+    {
+      "state": "IA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "08/31/2020",
+      "effective_date": "09/17/2020",
+      "state": "WI",
+      "workers": 56,
+      "city": "Menomonee Falls"
+    },
+    {
+      "date": "11/16/2019",
+      "effective_date": "11/16/2019",
+      "state": "NE",
+      "workers": 28,
+      "city": "Omaha"
+    },
+    {
+      "date": "11/16/2019",
+      "effective_date": "11/16/2019",
+      "state": "NE",
+      "workers": 45,
+      "city": "Grand Island"
+    },
+    {
+      "date": "10/17/2019",
+      "effective_date": "11/17/2019",
+      "state": "IA",
+      "workers": 49,
+      "city": "Ames"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "omaha-consortium",
+      "name": "Omaha Consortium",
+      "state": "NE"
+    },
+    {
+      "slug": "grand-island-msa",
+      "name": "Grand Island MSA",
+      "state": "NE"
+    },
+    {
+      "slug": "washington-ozaukee-waukesha-wda",
+      "name": "Washington-Ozaukee-Waukesha WDA",
+      "state": "WI"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

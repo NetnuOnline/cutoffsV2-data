@@ -1,0 +1,162 @@
+{
+  "slug": "qbe-insurance",
+  "canonical_name": "QBE Insurance Corporation",
+  "fein": "22-2311816",
+  "lca_filing_count": 18,
+  "lca_worker_positions": 18,
+  "warn_notice_count": 0,
+  "median_wage_usd": 125777.5,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 95576.0
+    },
+    {
+      "fy": 2021,
+      "filings": 3,
+      "median_wage_usd": 127150.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 167500.0
+    },
+    {
+      "fy": 2024,
+      "filings": 5,
+      "median_wage_usd": 94500.0
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 118049.0
+    },
+    {
+      "fy": 2026,
+      "filings": 4,
+      "median_wage_usd": 176194.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "DATABASE ENGINEER",
+      "count": 1,
+      "median_wage_usd": 95576.0
+    },
+    {
+      "title": "Business Title Assistant Vice President, Catastrophe Modelin",
+      "count": 1,
+      "median_wage_usd": 156000.0
+    },
+    {
+      "title": "Software Engineer - KBGFJG274904-1",
+      "count": 1,
+      "median_wage_usd": 113850.0
+    },
+    {
+      "title": "Analytics lead - KBOEYTEST20182-8",
+      "count": 1,
+      "median_wage_usd": 155250.0
+    },
+    {
+      "title": "Head of Market and Liquidity Risk Oversight - KBGFJG90947-7",
+      "count": 1,
+      "median_wage_usd": 273600.0
+    },
+    {
+      "title": "Testing Analyst - KBGFJG256874-1",
+      "count": 1,
+      "median_wage_usd": 87975.0
+    },
+    {
+      "title": "Senior IdAM Engineer - [KBGFJG147219-1]",
+      "count": 1,
+      "median_wage_usd": 127150.0
+    },
+    {
+      "title": "Associate - KBGFJG199578-7",
+      "count": 1,
+      "median_wage_usd": 169361.0
+    },
+    {
+      "title": "Lead Software Engineer  - KBGFJG200589-1",
+      "count": 1,
+      "median_wage_usd": 165000.0
+    },
+    {
+      "title": "Senior Data Scientist I - KBGFJG229037-2",
+      "count": 1,
+      "median_wage_usd": 94500.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 6
+    },
+    {
+      "state": "WI",
+      "county": "DANE",
+      "count": 3
+    },
+    {
+      "state": "MI",
+      "county": "OAKLAND",
+      "count": 2
+    },
+    {
+      "state": "FL",
+      "county": "MIAMI-DADE",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "county": "MIDDLESEX",
+      "count": 1
+    },
+    {
+      "state": "CT",
+      "county": "TOLLAND",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 9
+    },
+    {
+      "state": "WI",
+      "count": 4
+    },
+    {
+      "state": "MI",
+      "count": 2
+    },
+    {
+      "state": "CT",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 118049.0,
+    "gap_usd": -12111.0
+  }
+}

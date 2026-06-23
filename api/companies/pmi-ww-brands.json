@@ -1,0 +1,71 @@
+{
+  "slug": "pmi-ww-brands",
+  "canonical_name": "PMI WW Brands, LLC",
+  "fein": "92-0505688",
+  "lca_filing_count": 4,
+  "lca_worker_positions": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 165610.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 165610.0
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 165610.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Oracle  Finance Implementation Architect",
+      "count": 2,
+      "median_wage_usd": 165610.0
+    },
+    {
+      "title": "Senior Applications Analyst, Oracle",
+      "count": 1,
+      "median_wage_usd": 162531.0
+    },
+    {
+      "title": "Director of Systems Architecture-Order Management & Planning",
+      "count": 1,
+      "median_wage_usd": 173638.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 3
+    },
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "WA",
+      "count": 3
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Computer Systems Engineers/Architects",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 165610.0,
+    "gap_usd": 47610.0
+  }
+}

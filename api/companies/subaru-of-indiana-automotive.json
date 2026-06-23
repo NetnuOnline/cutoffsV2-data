@@ -1,0 +1,67 @@
+{
+  "slug": "subaru-of-indiana-automotive",
+  "canonical_name": "Subaru of Indiana Automotive Inc.",
+  "fein": "35-1709710",
+  "lca_filing_count": 3,
+  "lca_worker_positions": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 113000.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 113000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 97260.8
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 140153.78,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Financial Controls Information Systems Analyst",
+      "count": 1,
+      "median_wage_usd": 140153.78
+    },
+    {
+      "title": "Group Leader - Quality Control Model Development",
+      "count": 1,
+      "median_wage_usd": 97260.8
+    },
+    {
+      "title": "Information Systems Development Group Leader",
+      "count": 1,
+      "median_wage_usd": 113000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IN",
+      "county": "TIPPECANOE",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IN",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1253",
+    "soc_title": "Software Quality Assurance Analysts and Testers",
+    "market_median_usd": 101800.0,
+    "employer_median_usd": 140153.78,
+    "gap_usd": 38353.78
+  }
+}

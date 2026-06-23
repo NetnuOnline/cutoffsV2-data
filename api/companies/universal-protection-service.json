@@ -1,0 +1,111 @@
+{
+  "slug": "universal-protection-service",
+  "canonical_name": "Universal Protection Service, LP",
+  "fein": "56-0515447",
+  "lca_filing_count": 3,
+  "warn_notice_count": 6,
+  "median_wage_usd": 73944.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 49275.200000000004
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 81015.5
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Business Intelligence Software Developer",
+      "count": 1,
+      "median_wage_usd": 88087.0
+    },
+    {
+      "title": "Security Systems Analyst",
+      "count": 1,
+      "median_wage_usd": 73944.0
+    },
+    {
+      "title": "Communications Specialist",
+      "count": 1,
+      "median_wage_usd": 49275.200000000004
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "ORANGE",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "01/09/2025",
+      "effective_date": "01/09/2025",
+      "state": "GA",
+      "workers": 51,
+      "city": "3393 Peachtree Rd NE, Atlanta, Georgia"
+    },
+    {
+      "date": "11/07/2024",
+      "effective_date": "01/09/2025",
+      "state": "GA",
+      "workers": 51,
+      "city": "3393 Peachtree Rd NE, Atlanta, Georgia"
+    },
+    {
+      "date": "03/01/2024",
+      "effective_date": "05/01/2024",
+      "state": "VA",
+      "workers": 86,
+      "city": "McLean, VA"
+    },
+    {
+      "date": "10/04/2023",
+      "effective_date": "12/31/2023",
+      "state": "NY",
+      "workers": 137,
+      "city": null
+    },
+    {
+      "date": "10/01/2023",
+      "effective_date": "12/31/2023",
+      "state": "NY",
+      "workers": 137,
+      "city": null
+    },
+    {
+      "date": "12/07/2020",
+      "effective_date": "02/01/2021",
+      "state": "KY",
+      "workers": 52,
+      "city": "Warren"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "northern-virginia-lwia-xi",
+      "name": "Northern Virginia LWIA XI",
+      "state": "VA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": []
+}

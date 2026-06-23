@@ -1,0 +1,119 @@
+{
+  "slug": "platinum-infosys",
+  "canonical_name": "Platinum Infosys Inc",
+  "fein": "26-1815808",
+  "lca_filing_count": 27,
+  "lca_worker_positions": 27,
+  "warn_notice_count": 0,
+  "median_wage_usd": 101192.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 5,
+      "median_wage_usd": 98904.0
+    },
+    {
+      "fy": 2023,
+      "filings": 11,
+      "median_wage_usd": 101192.0
+    },
+    {
+      "fy": 2024,
+      "filings": 5,
+      "median_wage_usd": 105997.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 96470.5
+    },
+    {
+      "fy": 2026,
+      "filings": 4,
+      "median_wage_usd": 97500.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 20,
+      "median_wage_usd": 101192.0
+    },
+    {
+      "title": "Computer Programmer",
+      "count": 4,
+      "median_wage_usd": 94518.5
+    },
+    {
+      "title": " Software Developer",
+      "count": 1,
+      "median_wage_usd": 101192.0
+    },
+    {
+      "title": "Computer Systems Analyst",
+      "count": 1,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "title": "SOFTWARE DEVELOPER",
+      "count": 1,
+      "median_wage_usd": 98904.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 17
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "county": "CHESTER",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "county": "ORANGE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 23
+    },
+    {
+      "state": "FL",
+      "count": 2
+    },
+    {
+      "state": "PA",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 101192.0,
+    "gap_usd": -28968.0
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "slug": "crane-plumbing",
+  "canonical_name": "Crane Plumbing",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 7,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 4
+    },
+    {
+      "state": "GA",
+      "count": 2
+    },
+    {
+      "state": "KY",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "03/31/2008",
+      "effective_date": "06/06/2008",
+      "state": "TX",
+      "workers": 50,
+      "city": "Dallas"
+    },
+    {
+      "date": "11/16/2007",
+      "effective_date": "02/18/2008",
+      "state": "TX",
+      "workers": 255,
+      "city": "Hondo"
+    },
+    {
+      "date": "06/20/2007",
+      "effective_date": "08/31/2007",
+      "state": "TX",
+      "workers": 100,
+      "city": "Dallas"
+    },
+    {
+      "date": "01/02/2007",
+      "effective_date": "05/31/2007",
+      "state": "TX",
+      "workers": 136,
+      "city": "Hearne"
+    },
+    {
+      "date": "09/06/2006",
+      "effective_date": "09/06/2006",
+      "state": "GA",
+      "workers": 262,
+      "city": "Monroe"
+    },
+    {
+      "date": "12/19/2005",
+      "effective_date": "12/19/2005",
+      "state": "KY",
+      "workers": 169,
+      "city": "Somerset"
+    },
+    {
+      "date": "06/13/2005",
+      "effective_date": "06/13/2005",
+      "state": "GA",
+      "workers": 55,
+      "city": "Union Point"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "northeast-wib-ga",
+      "name": "Northeast WIB",
+      "state": "GA"
+    },
+    {
+      "slug": "h-cumberlands-wib",
+      "name": "H Cumberlands WIB",
+      "state": "KY"
+    },
+    {
+      "slug": "brazos-valley-wda",
+      "name": "Brazos Valley WDA",
+      "state": "TX"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

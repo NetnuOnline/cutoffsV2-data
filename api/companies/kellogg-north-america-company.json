@@ -1,0 +1,57 @@
+{
+  "slug": "kellogg-north-america-company",
+  "canonical_name": "Kellogg North America Company LLC",
+  "fein": "36-4170177",
+  "lca_filing_count": 2,
+  "lca_worker_positions": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 186325.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 242650.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Consumer Insights & Analytics Manager",
+      "count": 1,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Sr. Dir, Global Procurement Knowledge Technology, KWS & PMO",
+      "count": 1,
+      "median_wage_usd": 242650.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1161",
+    "soc_title": "Market Research Analysts and Marketing Specialists",
+    "market_median_usd": 74680.0,
+    "employer_median_usd": 130000.0,
+    "gap_usd": 55320.0
+  }
+}

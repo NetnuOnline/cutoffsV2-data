@@ -1,0 +1,58 @@
+{
+  "slug": "crest-logistics",
+  "canonical_name": "Crest Logistics",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 3,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "05/11/2020",
+      "effective_date": "05/15/2020",
+      "state": "NY",
+      "workers": 171,
+      "city": "Rotterdam"
+    },
+    {
+      "date": "05/11/2020",
+      "effective_date": "05/11/2020",
+      "state": "WA",
+      "workers": 68,
+      "city": "Burbank, WA"
+    },
+    {
+      "date": "05/11/2020",
+      "effective_date": "05/11/2020",
+      "state": "CA",
+      "workers": 46,
+      "city": "Delano"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "eastern-washington-wib",
+      "name": "Eastern Washington WIB",
+      "state": "WA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

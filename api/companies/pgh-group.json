@@ -1,0 +1,105 @@
+{
+  "slug": "pgh-group",
+  "canonical_name": "PGH Group, LLC",
+  "fein": "45-4773091",
+  "lca_filing_count": 11,
+  "lca_worker_positions": 10,
+  "warn_notice_count": 0,
+  "median_wage_usd": 99944.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 4,
+      "median_wage_usd": 99944.0
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 98904.0
+    },
+    {
+      "fy": 2023,
+      "filings": 4,
+      "median_wage_usd": 101192.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 101900.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Applications Developer",
+      "count": 3,
+      "median_wage_usd": 99944.0
+    },
+    {
+      "title": "Application Developer",
+      "count": 3,
+      "median_wage_usd": 101192.0
+    },
+    {
+      "title": "Senior Data Analyst",
+      "count": 2,
+      "median_wage_usd": 101192.0
+    },
+    {
+      "title": "SAP Technical Consultant",
+      "count": 1,
+      "median_wage_usd": 101900.0
+    },
+    {
+      "title": "Software Application Developer",
+      "count": 1,
+      "median_wage_usd": 98904.0
+    },
+    {
+      "title": "Test Lead",
+      "count": 1,
+      "median_wage_usd": 99944.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 4
+    },
+    {
+      "state": "MA",
+      "county": "PLYMOUTH",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 7
+    },
+    {
+      "state": "MA",
+      "count": 3
+    },
+    {
+      "state": "OH",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 101192.0,
+    "gap_usd": -28968.0
+  }
+}

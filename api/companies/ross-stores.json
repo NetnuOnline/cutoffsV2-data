@@ -1,0 +1,249 @@
+{
+  "slug": "ross-stores",
+  "canonical_name": "Ross Stores, Inc.",
+  "fein": "94-1390387",
+  "lca_filing_count": 5,
+  "warn_notice_count": 2,
+  "median_wage_usd": 170106.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 139050.0
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 177201.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 161168.5
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 211860.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Engineer II",
+      "count": 2,
+      "median_wage_usd": 145640.5
+    },
+    {
+      "title": "IT Manager II ",
+      "count": 1,
+      "median_wage_usd": 170106.0
+    },
+    {
+      "title": "Security Engineer III",
+      "count": 1,
+      "median_wage_usd": 177201.0
+    },
+    {
+      "title": "IT Manager II",
+      "count": 1,
+      "median_wage_usd": 211860.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 4
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "07/27/2020",
+      "effective_date": "07/02/2020",
+      "state": "CA",
+      "workers": 153,
+      "city": "El Centro"
+    },
+    {
+      "date": "04/03/2020",
+      "effective_date": "04/05/2020",
+      "state": "CA",
+      "workers": 51,
+      "city": "West Sacramento"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "imperial-county-wib",
+      "name": "Imperial County WIB",
+      "state": "CA"
+    }
+  ],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2017-03-22",
+        "formType": "8-K/A",
+        "accessionNumber": "0000745732-17-000007",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000745732&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2016-09-29",
+        "formType": "8-K/A",
+        "accessionNumber": "0000745732-16-000062",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000745732&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 2,
+    "itemCounts": {
+      "5.02": 2
+    },
+    "latestFilingDate": "2017-03-22",
+    "earliestFilingDate": "2016-09-29"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 5,
+    "initial_denials": 0,
+    "continuing_approvals": 16,
+    "continuing_denials": 1,
+    "total_approvals": 21,
+    "by_fy": [
+      {
+        "fy": 2009,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2011,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2012,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2014,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2015,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2016,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2017,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 4,
+        "initial_denials": 0,
+        "continuing_approvals": 6,
+        "continuing_denials": 0,
+        "total_approvals": 10
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 8,
+        "continuing_denials": 0,
+        "total_approvals": 8
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 1,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 5,
+  "top_socs": [],
+  "lca_periods": []
+}

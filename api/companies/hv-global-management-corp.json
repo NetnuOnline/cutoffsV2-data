@@ -1,0 +1,54 @@
+{
+  "slug": "hv-global-management-corp",
+  "canonical_name": "HV Global Management Corp",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 3,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 2
+    },
+    {
+      "state": "HI",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "09/21/2023",
+      "effective_date": "09/21/2023",
+      "state": "HI",
+      "workers": 0,
+      "city": null
+    },
+    {
+      "date": "09/02/2020",
+      "effective_date": "10/08/2020",
+      "state": "CA",
+      "workers": 94,
+      "city": "Carmel"
+    },
+    {
+      "date": "09/02/2020",
+      "effective_date": "09/11/2020",
+      "state": "CA",
+      "workers": 109,
+      "city": "Carmel"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "monterey-county-wib",
+      "name": "Monterey County WIB",
+      "state": "CA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

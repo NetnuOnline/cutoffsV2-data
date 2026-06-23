@@ -1,0 +1,145 @@
+{
+  "slug": "zna-services",
+  "canonical_name": "ZNA Services, LLC",
+  "fein": "02-0802795",
+  "lca_filing_count": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 135000.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 114431.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 181033.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 140750.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Catastrophe Modeler",
+      "count": 2,
+      "median_wage_usd": 137875.0
+    },
+    {
+      "title": "Associate Director, Senior Investment Analyst",
+      "count": 1,
+      "median_wage_usd": 227066.0
+    },
+    {
+      "title": "Catastrophe Modeler",
+      "count": 1,
+      "median_wage_usd": 98862.0
+    },
+    {
+      "title": "Investment Analyst",
+      "count": 1,
+      "median_wage_usd": 130000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 3
+    },
+    {
+      "state": "NJ",
+      "county": "HUDSON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 3
+    },
+    {
+      "state": "NJ",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 5,
+    "initial_denials": 0,
+    "continuing_approvals": 2,
+    "continuing_denials": 0,
+    "total_approvals": 7,
+    "by_fy": [
+      {
+        "fy": 2013,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2015,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2017,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 3,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      }
+    ]
+  },
+  "lca_worker_positions": 5,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 137875.0,
+    "gap_usd": 29855.0
+  }
+}

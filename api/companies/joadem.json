@@ -1,0 +1,96 @@
+{
+  "slug": "joadem",
+  "canonical_name": "JOADEM Corporation",
+  "fein": "46-4316511",
+  "lca_filing_count": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 66500.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 65000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 69048.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 62525.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Inspector",
+      "count": 1,
+      "median_wage_usd": 65000.0
+    },
+    {
+      "title": "Technical Project Manager",
+      "count": 1,
+      "median_wage_usd": 62525.0
+    },
+    {
+      "title": "Special Inspector",
+      "count": 1,
+      "median_wage_usd": 70096.0
+    },
+    {
+      "title": "Accounting Manager",
+      "count": 1,
+      "median_wage_usd": 68000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "NASSAU",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 4
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 3,
+    "initial_denials": 2,
+    "continuing_approvals": 0,
+    "continuing_denials": 0,
+    "total_approvals": 3,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 2,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 3,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      }
+    ]
+  },
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Information Technology Project Managers",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 62525.0,
+    "gap_usd": -55475.0
+  }
+}

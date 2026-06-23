@@ -1,0 +1,85 @@
+{
+  "slug": "computacenter-united-states",
+  "canonical_name": "Computacenter United States, Inc.",
+  "fein": "88-0382430",
+  "lca_filing_count": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 149221.44,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 124176.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 161599.88
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 155921.5
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Engineer (IC Engineering)",
+      "count": 2,
+      "median_wage_usd": 130509.5
+    },
+    {
+      "title": "Solutions Specialist 1",
+      "count": 1,
+      "median_wage_usd": 175000.0
+    },
+    {
+      "title": "Solutions Architect",
+      "count": 1,
+      "median_wage_usd": 161599.88
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "county": "NORFOLK",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MA",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 3,
+    "continuing_denials": 0,
+    "total_approvals": 3,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      }
+    ]
+  },
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": []
+}

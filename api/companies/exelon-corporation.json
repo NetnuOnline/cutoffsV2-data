@@ -1,0 +1,65 @@
+{
+  "slug": "exelon-corporation",
+  "canonical_name": "Exelon Corporation",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 4,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 2
+    },
+    {
+      "state": "NY",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "06/30/2019",
+      "effective_date": "06/30/2019",
+      "state": "NJ",
+      "workers": 65,
+      "city": "Forked River"
+    },
+    {
+      "date": "06/27/2018",
+      "effective_date": "09/24/2018",
+      "state": "NY",
+      "workers": 25,
+      "city": "Valhalla"
+    },
+    {
+      "date": "06/22/2018",
+      "effective_date": "06/22/2018",
+      "state": "NJ",
+      "workers": 84,
+      "city": "Forked River"
+    },
+    {
+      "date": "06/13/2001",
+      "effective_date": "06/13/2001",
+      "state": "IL",
+      "workers": 0,
+      "city": "3500 NORTH CALIFORNIA AVENUE  CHICAGO, IL 60680-5398"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "ocean-wib",
+      "name": "Ocean WIB",
+      "state": "NJ"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

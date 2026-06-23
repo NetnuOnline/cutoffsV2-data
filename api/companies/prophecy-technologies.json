@@ -1,0 +1,207 @@
+{
+  "slug": "prophecy-technologies",
+  "canonical_name": "Prophecy Technologies Corporation",
+  "fein": "84-5031736",
+  "lca_filing_count": 16,
+  "warn_notice_count": 0,
+  "median_wage_usd": 99632.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 99632.0
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 78520.0
+    },
+    {
+      "fy": 2022,
+      "filings": 6,
+      "median_wage_usd": 100724.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 97594.0
+    },
+    {
+      "fy": 2024,
+      "filings": 6,
+      "median_wage_usd": 102357.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Data Engineer",
+      "count": 3,
+      "median_wage_usd": 99632.0
+    },
+    {
+      "title": "Software Development Engineer in Test (SDET)",
+      "count": 2,
+      "median_wage_usd": 92924.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 2,
+      "median_wage_usd": 90532.0
+    },
+    {
+      "title": "SAP Consultant",
+      "count": 1,
+      "median_wage_usd": 98904.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 1,
+      "median_wage_usd": 88504.0
+    },
+    {
+      "title": "SAP MM/CRM Consultant",
+      "count": 1,
+      "median_wage_usd": 97594.0
+    },
+    {
+      "title": "SDET (Software Development Engineer in Test)",
+      "count": 1,
+      "median_wage_usd": 98904.0
+    },
+    {
+      "title": "Enterprise Architect",
+      "count": 1,
+      "median_wage_usd": 109283.0
+    },
+    {
+      "title": "Scrum Master",
+      "count": 1,
+      "median_wage_usd": 102544.0
+    },
+    {
+      "title": "Oracle EBS Technical Consultant/Developer",
+      "count": 1,
+      "median_wage_usd": 105997.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "ORANGE",
+      "count": 7
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 3
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "county": "JACKSON",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SAN JOAQUIN",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    },
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 1
+    },
+    {
+      "state": "TN",
+      "county": "HAMILTON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 8
+    },
+    {
+      "state": "TX",
+      "count": 4
+    },
+    {
+      "state": "AZ",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "count": 1
+    },
+    {
+      "state": "TN",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 27,
+    "initial_denials": 0,
+    "continuing_approvals": 16,
+    "continuing_denials": 0,
+    "total_approvals": 43,
+    "by_fy": [
+      {
+        "fy": 2020,
+        "initial_approvals": 5,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 6
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 8,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 8
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 9,
+        "initial_denials": 0,
+        "continuing_approvals": 8,
+        "continuing_denials": 0,
+        "total_approvals": 17
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 5,
+        "initial_denials": 0,
+        "continuing_approvals": 7,
+        "continuing_denials": 0,
+        "total_approvals": 12
+      }
+    ]
+  },
+  "lca_worker_positions": 16,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 102357.0,
+    "gap_usd": -27803.0
+  }
+}

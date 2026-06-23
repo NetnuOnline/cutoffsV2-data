@@ -1,0 +1,138 @@
+{
+  "slug": "swartek",
+  "canonical_name": "Swartek Corporation",
+  "fein": "46-4391710",
+  "lca_filing_count": 10,
+  "lca_worker_positions": 10,
+  "warn_notice_count": 0,
+  "median_wage_usd": 106970.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 93810.0
+    },
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 111950.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 93465.0
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 125000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Test Automation Engineer",
+      "count": 1,
+      "median_wage_usd": 86925.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 1,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Sr. Capacity Engineer (System Administrator)",
+      "count": 1,
+      "median_wage_usd": 96200.0
+    },
+    {
+      "title": "Desktop Support Engineer",
+      "count": 1,
+      "median_wage_usd": 90730.0
+    },
+    {
+      "title": "Systems Administrator",
+      "count": 1,
+      "median_wage_usd": 83680.0
+    },
+    {
+      "title": "Gen AI Engineer",
+      "count": 1,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "Database Administrators",
+      "count": 1,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "title": "Database Administrator",
+      "count": 1,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "title": "Backend Developer",
+      "count": 1,
+      "median_wage_usd": 111950.0
+    },
+    {
+      "title": "Systems Engineer",
+      "count": 1,
+      "median_wage_usd": 103940.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "VA",
+      "county": "ALEXANDRIA CITY",
+      "count": 2
+    },
+    {
+      "state": "MO",
+      "county": "ST CHARLES",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "county": "LOUDOUN",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "VA",
+      "count": 5
+    },
+    {
+      "state": "NC",
+      "count": 2
+    },
+    {
+      "state": "SC",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "MO",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Computer Systems Engineers/Architects",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 103940.0,
+    "gap_usd": -14060.0
+  }
+}

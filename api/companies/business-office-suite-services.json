@@ -1,0 +1,60 @@
+{
+  "slug": "business-office-suite-services",
+  "canonical_name": "Business Office Suite Services, Inc.",
+  "fein": "88-0333472",
+  "lca_filing_count": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 100000.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 104000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 100000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Financial Planning & Analysis Lead",
+      "count": 2,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "title": "Salesforce Developer",
+      "count": 1,
+      "median_wage_usd": 104000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NV",
+      "county": "CLARK",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NV",
+      "count": 2
+    },
+    {
+      "state": "FL",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 104000.0,
+    "gap_usd": -26160.0
+  }
+}

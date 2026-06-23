@@ -1,0 +1,191 @@
+{
+  "slug": "us-cellular",
+  "canonical_name": "U.S. Cellular Corporation",
+  "fein": null,
+  "lca_filing_count": 5,
+  "warn_notice_count": 8,
+  "median_wage_usd": 124036,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 0,
+      "median_wage_usd": null
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "RF Engineer",
+      "count": 0,
+      "median_wage_usd": null
+    }
+  ],
+  "top_states": [
+    {
+      "state": "ME",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "count": 2
+    },
+    {
+      "state": "OK",
+      "count": 2
+    },
+    {
+      "state": "MO",
+      "count": 1
+    },
+    {
+      "state": "OR",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "04/07/2025",
+      "effective_date": "06/02/2025",
+      "state": "MO",
+      "workers": 0,
+      "city": null
+    },
+    {
+      "date": "04/07/2025",
+      "effective_date": "04/07/2025",
+      "state": "ME",
+      "workers": 20,
+      "city": "Washington"
+    },
+    {
+      "date": "04/07/2025",
+      "effective_date": "04/07/2025",
+      "state": "ME",
+      "workers": 0,
+      "city": "Washington"
+    },
+    {
+      "date": "03/15/2013",
+      "effective_date": "05/01/2013",
+      "state": "IL",
+      "workers": 380,
+      "city": "Chicago"
+    },
+    {
+      "date": "03/15/2013",
+      "effective_date": "05/01/2013",
+      "state": "IL",
+      "workers": 75,
+      "city": "Naperville"
+    },
+    {
+      "date": "06/07/2010",
+      "effective_date": "06/07/2010",
+      "state": "OK",
+      "workers": 180,
+      "city": null
+    },
+    {
+      "date": "06/07/2010",
+      "effective_date": "06/07/2010",
+      "state": "OK",
+      "workers": 0,
+      "city": null
+    },
+    {
+      "date": "09/19/2005",
+      "effective_date": "09/20/2005",
+      "state": "OR",
+      "workers": 159,
+      "city": "Medford"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "six-county-coastal-wia",
+      "name": "Six County Coastal WIA",
+      "state": "ME"
+    },
+    {
+      "slug": "rogue-valley-wia",
+      "name": "Rogue Valley WIA",
+      "state": "OR"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 40,
+    "continuing_denials": 0,
+    "total_approvals": 41,
+    "by_fy": [
+      {
+        "fy": 2012,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2015,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2016,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 13,
+        "continuing_denials": 0,
+        "total_approvals": 14
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 16,
+        "continuing_denials": 0,
+        "total_approvals": 16
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 11,
+        "continuing_denials": 0,
+        "total_approvals": 11
+      }
+    ]
+  }
+}

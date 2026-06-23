@@ -1,0 +1,203 @@
+{
+  "slug": "sage-it",
+  "canonical_name": "Sage IT Inc",
+  "fein": "20-0306879",
+  "lca_filing_count": 231,
+  "lca_worker_positions": 224,
+  "warn_notice_count": 0,
+  "median_wage_usd": 97406.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 40,
+      "median_wage_usd": 93558.0
+    },
+    {
+      "fy": 2021,
+      "filings": 15,
+      "median_wage_usd": 92685.0
+    },
+    {
+      "fy": 2022,
+      "filings": 17,
+      "median_wage_usd": 98904.0
+    },
+    {
+      "fy": 2023,
+      "filings": 27,
+      "median_wage_usd": 101192.0
+    },
+    {
+      "fy": 2024,
+      "filings": 44,
+      "median_wage_usd": 92778.5
+    },
+    {
+      "fy": 2025,
+      "filings": 51,
+      "median_wage_usd": 101899.0
+    },
+    {
+      "fy": 2026,
+      "filings": 30,
+      "median_wage_usd": 100298.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 61,
+      "median_wage_usd": 98904.0
+    },
+    {
+      "title": "Data Engineer",
+      "count": 25,
+      "median_wage_usd": 96034.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 18,
+      "median_wage_usd": 93797.5
+    },
+    {
+      "title": "Application Developer",
+      "count": 10,
+      "median_wage_usd": 98904.0
+    },
+    {
+      "title": "Golang Developer",
+      "count": 9,
+      "median_wage_usd": 84094.0
+    },
+    {
+      "title": "Technical Architect",
+      "count": 7,
+      "median_wage_usd": 101899.0
+    },
+    {
+      "title": "Application Engineer",
+      "count": 6,
+      "median_wage_usd": 100100.0
+    },
+    {
+      "title": "Actimize Developer",
+      "count": 6,
+      "median_wage_usd": 103594.5
+    },
+    {
+      "title": "DevOps Engineer",
+      "count": 4,
+      "median_wage_usd": 95212.0
+    },
+    {
+      "title": "Apigee Developer",
+      "count": 3,
+      "median_wage_usd": 102877.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 51
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 17
+    },
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 10
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 8
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 7
+    },
+    {
+      "state": "CA",
+      "county": "ORANGE",
+      "count": 6
+    },
+    {
+      "state": "GA",
+      "county": "COBB",
+      "count": 5
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 4
+    },
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 3
+    },
+    {
+      "state": "PA",
+      "county": "CHESTER",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 123
+    },
+    {
+      "state": "GA",
+      "count": 18
+    },
+    {
+      "state": "CA",
+      "count": 15
+    },
+    {
+      "state": "AZ",
+      "count": 13
+    },
+    {
+      "state": "NJ",
+      "count": 12
+    },
+    {
+      "state": "NC",
+      "count": 8
+    },
+    {
+      "state": "PA",
+      "count": 7
+    },
+    {
+      "state": "VA",
+      "count": 6
+    },
+    {
+      "state": "AR",
+      "count": 4
+    },
+    {
+      "state": "NY",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 101192.0,
+    "gap_usd": -28968.0
+  }
+}

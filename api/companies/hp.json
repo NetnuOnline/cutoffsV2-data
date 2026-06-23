@@ -1,0 +1,203 @@
+{
+  "slug": "hp",
+  "canonical_name": "HP Inc.",
+  "fein": "94-1081436",
+  "lca_filing_count": 182,
+  "lca_worker_positions": 557,
+  "warn_notice_count": 0,
+  "median_wage_usd": 126807.5,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 25,
+      "median_wage_usd": 124851.0
+    },
+    {
+      "fy": 2021,
+      "filings": 23,
+      "median_wage_usd": 118000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 24,
+      "median_wage_usd": 120349.0
+    },
+    {
+      "fy": 2023,
+      "filings": 25,
+      "median_wage_usd": 125986.0
+    },
+    {
+      "fy": 2024,
+      "filings": 39,
+      "median_wage_usd": 136989.0
+    },
+    {
+      "fy": 2025,
+      "filings": 25,
+      "median_wage_usd": 139360.0
+    },
+    {
+      "fy": 2026,
+      "filings": 21,
+      "median_wage_usd": 149718.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Data Engineer",
+      "count": 7,
+      "median_wage_usd": 123346.77
+    },
+    {
+      "title": "Software Applications Engineer",
+      "count": 7,
+      "median_wage_usd": 149718.0
+    },
+    {
+      "title": "Software Designer",
+      "count": 7,
+      "median_wage_usd": 125824.65
+    },
+    {
+      "title": "IT Developer/Engineer",
+      "count": 6,
+      "median_wage_usd": 122220.06
+    },
+    {
+      "title": "Software Applications Engineer 5",
+      "count": 5,
+      "median_wage_usd": 149947.0
+    },
+    {
+      "title": "Data Engineer ",
+      "count": 3,
+      "median_wage_usd": 121888.0
+    },
+    {
+      "title": "Business Planning Manager ",
+      "count": 3,
+      "median_wage_usd": 99008.0
+    },
+    {
+      "title": "IT Engineer",
+      "count": 3,
+      "median_wage_usd": 139443.0
+    },
+    {
+      "title": "Software Dev Ops Engineer 3",
+      "count": 3,
+      "median_wage_usd": 127878.0
+    },
+    {
+      "title": "Manager, Industry/Customer Segment Marketing",
+      "count": 3,
+      "median_wage_usd": 210000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 34
+    },
+    {
+      "state": "WA",
+      "county": "CLARK",
+      "count": 22
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 17
+    },
+    {
+      "state": "OR",
+      "county": "BENTON",
+      "count": 15
+    },
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 13
+    },
+    {
+      "state": "CA",
+      "county": "SAN DIEGO",
+      "count": 10
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 8
+    },
+    {
+      "state": "IL",
+      "county": "DUPAGE",
+      "count": 3
+    },
+    {
+      "state": "ID",
+      "county": "ADA",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 77
+    },
+    {
+      "state": "CA",
+      "count": 39
+    },
+    {
+      "state": "WA",
+      "count": 28
+    },
+    {
+      "state": "OR",
+      "count": 16
+    },
+    {
+      "state": "CO",
+      "count": 6
+    },
+    {
+      "state": "NC",
+      "count": 5
+    },
+    {
+      "state": "ID",
+      "count": 4
+    },
+    {
+      "state": "IL",
+      "count": 4
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    },
+    {
+      "state": "AZ",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 145662.0,
+    "gap_usd": 15502.0
+  }
+}

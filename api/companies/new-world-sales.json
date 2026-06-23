@@ -1,0 +1,41 @@
+{
+  "slug": "new-world-sales",
+  "canonical_name": "New World Sales LLC",
+  "fein": "33-1785179",
+  "lca_filing_count": 3,
+  "lca_worker_positions": 1,
+  "warn_notice_count": 0,
+  "median_wage_usd": 78332.8,
+  "by_fy": [
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 78332.79999999999,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Management Consultant",
+      "count": 3,
+      "median_wage_usd": 78332.79999999999
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "FL",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1111",
+    "soc_title": "Management Analysts",
+    "market_median_usd": 99000.0,
+    "employer_median_usd": 78332.8,
+    "gap_usd": -20667.2
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "slug": "fof-music",
+  "canonical_name": "FOF Music LLC",
+  "fein": null,
+  "lca_filing_count": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 44168.8,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 42494.4
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 43534.4
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 44803.2
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 44803.2
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Marketing Analyst",
+      "count": 4,
+      "median_wage_usd": 44168.8
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 4
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 4
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1161",
+    "soc_title": "Market Research Analysts and Marketing Specialists",
+    "market_median_usd": 74680.0,
+    "employer_median_usd": 44168.8,
+    "gap_usd": -30511.2
+  }
+}

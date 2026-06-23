@@ -1,0 +1,203 @@
+{
+  "slug": "linkedin",
+  "canonical_name": "LinkedIn Corporation",
+  "fein": "47-0912023",
+  "lca_filing_count": 1523,
+  "lca_worker_positions": 5419,
+  "warn_notice_count": 0,
+  "median_wage_usd": 159748.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 227,
+      "median_wage_usd": 145725.0
+    },
+    {
+      "fy": 2021,
+      "filings": 250,
+      "median_wage_usd": 157477.0
+    },
+    {
+      "fy": 2022,
+      "filings": 206,
+      "median_wage_usd": 166764.0
+    },
+    {
+      "fy": 2023,
+      "filings": 165,
+      "median_wage_usd": 163805.0
+    },
+    {
+      "fy": 2024,
+      "filings": 221,
+      "median_wage_usd": 162038.0
+    },
+    {
+      "fy": 2025,
+      "filings": 107,
+      "median_wage_usd": 182523.0
+    },
+    {
+      "fy": 2026,
+      "filings": 338,
+      "median_wage_usd": 179421.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Sr Software Engineer",
+      "count": 253,
+      "median_wage_usd": 157477.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 131,
+      "median_wage_usd": 130894.0
+    },
+    {
+      "title": "Staff Software Engineer",
+      "count": 117,
+      "median_wage_usd": 191286.0
+    },
+    {
+      "title": "Sr. Software Engineer, Systems Infrastructure",
+      "count": 99,
+      "median_wage_usd": 167149.0
+    },
+    {
+      "title": "Sr. Software Engineer",
+      "count": 69,
+      "median_wage_usd": 170872.0
+    },
+    {
+      "title": "Staff Software Engineer, Systems Infrastructure",
+      "count": 52,
+      "median_wage_usd": 207000.0
+    },
+    {
+      "title": "Software Engineer, Systems Infrastructure",
+      "count": 52,
+      "median_wage_usd": 138129.5
+    },
+    {
+      "title": "Sr. Software Engineer, Machine Learning",
+      "count": 49,
+      "median_wage_usd": 170882.5
+    },
+    {
+      "title": "Strategic Operations Lead, AI Data Operations",
+      "count": 48,
+      "median_wage_usd": 184710.5
+    },
+    {
+      "title": "Manager, Software Engineering",
+      "count": 48,
+      "median_wage_usd": 207600.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 877
+    },
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 84
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 44
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 36
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 3
+    },
+    {
+      "state": "NJ",
+      "county": "HUDSON",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 2
+    },
+    {
+      "state": "VA",
+      "county": "MONTGOMERY",
+      "count": 2
+    },
+    {
+      "state": "NM",
+      "county": "BERNALILLO",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 1287
+    },
+    {
+      "state": "NY",
+      "count": 102
+    },
+    {
+      "state": "WA",
+      "count": 87
+    },
+    {
+      "state": "TX",
+      "count": 13
+    },
+    {
+      "state": "IL",
+      "count": 6
+    },
+    {
+      "state": "VA",
+      "count": 4
+    },
+    {
+      "state": "UT",
+      "count": 3
+    },
+    {
+      "state": "NJ",
+      "count": 3
+    },
+    {
+      "state": "NC",
+      "count": 2
+    },
+    {
+      "state": "OR",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 169457.0,
+    "gap_usd": 39297.0
+  }
+}

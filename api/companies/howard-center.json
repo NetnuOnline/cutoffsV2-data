@@ -1,0 +1,43 @@
+{
+  "slug": "howard-center",
+  "canonical_name": "Howard Center",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "VT",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "07/07/2025",
+      "effective_date": "07/07/2025",
+      "state": "VT",
+      "workers": 27,
+      "city": "Burlington"
+    },
+    {
+      "date": "05/08/2020",
+      "effective_date": "05/08/2020",
+      "state": "VT",
+      "workers": 271,
+      "city": "00 - Vermont Workforce Investment Area"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "lake-champlain-regional-wib",
+      "name": "Lake Champlain Regional WIB",
+      "state": "VT"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

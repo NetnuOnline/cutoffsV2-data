@@ -1,0 +1,104 @@
+{
+  "slug": "it-soft-usa",
+  "canonical_name": "IT Soft USA, Inc.",
+  "fein": "22-3932852",
+  "lca_filing_count": 11,
+  "lca_worker_positions": 11,
+  "warn_notice_count": 0,
+  "median_wage_usd": 142000.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 92685.0
+    },
+    {
+      "fy": 2024,
+      "filings": 5,
+      "median_wage_usd": 145500.0
+    },
+    {
+      "fy": 2026,
+      "filings": 5,
+      "median_wage_usd": 140220.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Principal Consultant",
+      "count": 4,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "title": "Senior Consultant",
+      "count": 3,
+      "median_wage_usd": 145500.0
+    },
+    {
+      "title": "PLM Solution Architect",
+      "count": 1,
+      "median_wage_usd": 165000.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 1,
+      "median_wage_usd": 140000.16
+    },
+    {
+      "title": "Solution Consultant",
+      "count": 1,
+      "median_wage_usd": 119600.0
+    },
+    {
+      "title": "Senior PLM Consultant",
+      "count": 1,
+      "median_wage_usd": 140220.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "FORT BEND",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 5
+    },
+    {
+      "state": "IL",
+      "count": 3
+    },
+    {
+      "state": "VA",
+      "count": 2
+    },
+    {
+      "state": "MI",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 143750.0,
+    "gap_usd": 13590.0
+  }
+}

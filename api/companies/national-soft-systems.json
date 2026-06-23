@@ -1,0 +1,175 @@
+{
+  "slug": "national-soft-systems",
+  "canonical_name": "National Soft Systems, Inc",
+  "fein": "81-4640310",
+  "lca_filing_count": 13,
+  "warn_notice_count": 0,
+  "median_wage_usd": 80829.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 5,
+      "median_wage_usd": 80829.0
+    },
+    {
+      "fy": 2022,
+      "filings": 4,
+      "median_wage_usd": 92217.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 84906.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 75566.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 78000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 13,
+      "median_wage_usd": 80829.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IL",
+      "county": "PEORIA",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "SAN JOAQUIN",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 2
+    },
+    {
+      "state": "AR",
+      "county": "BENTON",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    },
+    {
+      "state": "MD",
+      "county": "MONTGOMERY",
+      "count": 1
+    },
+    {
+      "state": "WI",
+      "county": "WAUKESHA",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "count": 3
+    },
+    {
+      "state": "IL",
+      "count": 2
+    },
+    {
+      "state": "WI",
+      "count": 1
+    },
+    {
+      "state": "MD",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    },
+    {
+      "state": "AR",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 25,
+    "initial_denials": 3,
+    "continuing_approvals": 18,
+    "continuing_denials": 0,
+    "total_approvals": 43,
+    "by_fy": [
+      {
+        "fy": 2020,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 15,
+        "initial_denials": 2,
+        "continuing_approvals": 5,
+        "continuing_denials": 0,
+        "total_approvals": 20
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 10,
+        "initial_denials": 0,
+        "continuing_approvals": 5,
+        "continuing_denials": 0,
+        "total_approvals": 15
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 1,
+        "continuing_approvals": 7,
+        "continuing_denials": 0,
+        "total_approvals": 7
+      }
+    ]
+  },
+  "lca_worker_positions": 13,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 84906.0,
+    "gap_usd": -45254.0
+  }
+}

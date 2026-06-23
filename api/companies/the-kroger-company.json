@@ -1,0 +1,180 @@
+{
+  "slug": "the-kroger-company",
+  "canonical_name": "The Kroger Company",
+  "fein": "31-0345740",
+  "lca_filing_count": 94,
+  "lca_worker_positions": 93,
+  "warn_notice_count": 0,
+  "median_wage_usd": 130487.74,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 6,
+      "median_wage_usd": 133786.0
+    },
+    {
+      "fy": 2021,
+      "filings": 8,
+      "median_wage_usd": 129975.0
+    },
+    {
+      "fy": 2022,
+      "filings": 13,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 15,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 22,
+      "median_wage_usd": 126320.55
+    },
+    {
+      "fy": 2025,
+      "filings": 19,
+      "median_wage_usd": 130840.5
+    },
+    {
+      "fy": 2026,
+      "filings": 10,
+      "median_wage_usd": 133957.315,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Software Engineer",
+      "count": 27,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Senior Quality Engineer",
+      "count": 17,
+      "median_wage_usd": 117182.22
+    },
+    {
+      "title": "Advanced Software Engineer",
+      "count": 14,
+      "median_wage_usd": 151837.94
+    },
+    {
+      "title": "Pharmacist",
+      "count": 3,
+      "median_wage_usd": 153400.0
+    },
+    {
+      "title": "Advanced Quality Engineer",
+      "count": 3,
+      "median_wage_usd": 141988.7
+    },
+    {
+      "title": "MFG Plant Senior Quality Leader",
+      "count": 2,
+      "median_wage_usd": 105511.45
+    },
+    {
+      "title": "Sr. Software Engineer",
+      "count": 2,
+      "median_wage_usd": 130420.25
+    },
+    {
+      "title": "Sr. Advanced Software Engineer",
+      "count": 2,
+      "median_wage_usd": 153694.8
+    },
+    {
+      "title": "Advanced Solutions Architect",
+      "count": 2,
+      "median_wage_usd": 155150.215
+    },
+    {
+      "title": "Advanced Data Engineer",
+      "count": 2,
+      "median_wage_usd": 137775.22
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "OH",
+      "county": "HAMILTON",
+      "count": 55
+    },
+    {
+      "state": "FL",
+      "county": "PALM BEACH",
+      "count": 4
+    },
+    {
+      "state": "AZ",
+      "county": "YUMA",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 1
+    },
+    {
+      "state": "IN",
+      "county": "HAMILTON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "OH",
+      "count": 83
+    },
+    {
+      "state": "FL",
+      "count": 4
+    },
+    {
+      "state": "AZ",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "IN",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 133783.82,
+    "gap_usd": 3623.82
+  }
+}

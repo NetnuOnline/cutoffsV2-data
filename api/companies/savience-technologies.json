@@ -1,0 +1,56 @@
+{
+  "slug": "savience-technologies",
+  "canonical_name": "SAVIENCE TECHNOLOGIES INC",
+  "fein": null,
+  "lca_filing_count": 8,
+  "warn_notice_count": 0,
+  "median_wage_usd": 101192.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 8,
+      "median_wage_usd": 101192.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SOFTWARE ENGINEER",
+      "count": 4,
+      "median_wage_usd": 101192.0
+    },
+    {
+      "title": "PROGRAMMER ANALYST",
+      "count": 2,
+      "median_wage_usd": 91562.0
+    },
+    {
+      "title": "SOFTWARE DEVELOPER",
+      "count": 2,
+      "median_wage_usd": 101192.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 8
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 8
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 8,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 101192.0,
+    "gap_usd": -28968.0
+  }
+}

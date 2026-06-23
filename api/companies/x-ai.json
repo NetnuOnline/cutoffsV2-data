@@ -1,0 +1,110 @@
+{
+  "slug": "x-ai",
+  "canonical_name": "X.AI LLC",
+  "fein": "92-3033368",
+  "lca_filing_count": 38,
+  "lca_worker_positions": 216,
+  "warn_notice_count": 0,
+  "median_wage_usd": 318781.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 350000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 5,
+      "median_wage_usd": 300000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 15,
+      "median_wage_usd": 300000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 16,
+      "median_wage_usd": 334390.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Member of Technical Staff",
+      "count": 26,
+      "median_wage_usd": 320000.0
+    },
+    {
+      "title": "Principal ML Engineer",
+      "count": 7,
+      "median_wage_usd": 350000.0
+    },
+    {
+      "title": "Sales Architect Lead",
+      "count": 1,
+      "median_wage_usd": 300000.0
+    },
+    {
+      "title": "Controller",
+      "count": 1,
+      "median_wage_usd": 285000.0
+    },
+    {
+      "title": "Network Engineer",
+      "count": 1,
+      "median_wage_usd": 250000.0
+    },
+    {
+      "title": "Sales Architect",
+      "count": 1,
+      "median_wage_usd": 221250.0
+    },
+    {
+      "title": "Enterprise Market Research Analyst",
+      "count": 1,
+      "median_wage_usd": 175000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 4
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "SAN MATEO",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 33
+    },
+    {
+      "state": "WA",
+      "count": 4
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3021",
+    "soc_title": "Computer and Information Systems Managers",
+    "market_median_usd": 169510.0,
+    "employer_median_usd": 360000.0,
+    "gap_usd": 190490.0
+  }
+}

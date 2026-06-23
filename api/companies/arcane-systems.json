@@ -1,0 +1,139 @@
+{
+  "slug": "arcane-systems",
+  "canonical_name": "ARCANE SYSTEMS INC",
+  "fein": "88-2608929",
+  "lca_filing_count": 21,
+  "lca_worker_positions": 20,
+  "warn_notice_count": 0,
+  "median_wage_usd": 89000.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 6,
+      "median_wage_usd": 70075.2
+    },
+    {
+      "fy": 2024,
+      "filings": 4,
+      "median_wage_usd": 100750.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 83050.0
+    },
+    {
+      "fy": 2026,
+      "filings": 8,
+      "median_wage_usd": 83250.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "COMPUTER PROGRAMMER",
+      "count": 5,
+      "median_wage_usd": 77500.0
+    },
+    {
+      "title": "TECHNICAL MANAGER",
+      "count": 4,
+      "median_wage_usd": 70075.2
+    },
+    {
+      "title": "SOFTWARE (DEVOPS) ENGINEER",
+      "count": 2,
+      "median_wage_usd": 122000.0
+    },
+    {
+      "title": "CLINICAL DATA MANAGER",
+      "count": 2,
+      "median_wage_usd": 129708.8
+    },
+    {
+      "title": "AUTOMATION ENGINEER",
+      "count": 2,
+      "median_wage_usd": 90650.0
+    },
+    {
+      "title": "DATABASE ENGINEER",
+      "count": 1,
+      "median_wage_usd": 95100.0
+    },
+    {
+      "title": "SOFTWARE (AWS DEVOPS) ENGINEER",
+      "count": 1,
+      "median_wage_usd": 112923.2
+    },
+    {
+      "title": "DATA ENGINEER",
+      "count": 1,
+      "median_wage_usd": 123000.0
+    },
+    {
+      "title": "SOFTWARE (JAVA) DEVELOPER",
+      "count": 1,
+      "median_wage_usd": 82100.0
+    },
+    {
+      "title": "SOFTWARE (JAVA BACKEND) DEVELOPER",
+      "count": 1,
+      "median_wage_usd": 101200.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 4
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 1
+    },
+    {
+      "state": "KS",
+      "county": "JOHNSON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 17
+    },
+    {
+      "state": "WA",
+      "count": 2
+    },
+    {
+      "state": "VA",
+      "count": 1
+    },
+    {
+      "state": "KS",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 105100.0,
+    "gap_usd": -25060.0
+  }
+}

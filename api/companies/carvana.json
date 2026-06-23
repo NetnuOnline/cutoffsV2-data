@@ -1,0 +1,199 @@
+{
+  "slug": "carvana",
+  "canonical_name": "Carvana, LLC",
+  "fein": "45-4788036",
+  "lca_filing_count": 69,
+  "lca_worker_positions": 67,
+  "warn_notice_count": 0,
+  "median_wage_usd": 140000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 20,
+      "median_wage_usd": 137500.0
+    },
+    {
+      "fy": 2022,
+      "filings": 8,
+      "median_wage_usd": 142500.0
+    },
+    {
+      "fy": 2023,
+      "filings": 8,
+      "median_wage_usd": 145000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 18,
+      "median_wage_usd": 130716.0
+    },
+    {
+      "fy": 2025,
+      "filings": 5,
+      "median_wage_usd": 122304.0
+    },
+    {
+      "fy": 2026,
+      "filings": 6,
+      "median_wage_usd": 164704.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Engineer I",
+      "count": 10,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "title": "Engineer II",
+      "count": 10,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "title": "Senior Engineer II",
+      "count": 5,
+      "median_wage_usd": 145000.0
+    },
+    {
+      "title": "Manager, Engineering",
+      "count": 4,
+      "median_wage_usd": 177949.95500000002
+    },
+    {
+      "title": "Engineer II, DevOps",
+      "count": 3,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "title": "Senior Engineer I, Quality Assurance",
+      "count": 2,
+      "median_wage_usd": 137030.5
+    },
+    {
+      "title": "Engineer I",
+      "count": 2,
+      "median_wage_usd": 97613.5
+    },
+    {
+      "title": "Senior Data Engineer, Product Analytics",
+      "count": 2,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "title": "Lead Data Engineer, Product Analytics",
+      "count": 2,
+      "median_wage_usd": 139000.0
+    },
+    {
+      "title": "Cloud App. Integration Specialist, Business Applications",
+      "count": 2,
+      "median_wage_usd": 115000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 34
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 5
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 4
+    },
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "county": "PAULDING",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "TARRANT",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "AZ",
+      "count": 41
+    },
+    {
+      "state": "CA",
+      "count": 9
+    },
+    {
+      "state": "TX",
+      "count": 8
+    },
+    {
+      "state": "GA",
+      "count": 6
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 145000.0,
+    "gap_usd": 14840.0
+  }
+}

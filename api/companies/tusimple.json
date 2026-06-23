@@ -1,0 +1,306 @@
+{
+  "slug": "tusimple",
+  "canonical_name": "TuSimple, Inc.",
+  "fein": null,
+  "lca_filing_count": 147,
+  "warn_notice_count": 9,
+  "median_wage_usd": 101109.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 9,
+      "median_wage_usd": 82181.0
+    },
+    {
+      "fy": 2021,
+      "filings": 38,
+      "median_wage_usd": 101109.0
+    },
+    {
+      "fy": 2022,
+      "filings": 26,
+      "median_wage_usd": 101109.0
+    },
+    {
+      "fy": 2023,
+      "filings": 69,
+      "median_wage_usd": 101109.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer I",
+      "count": 12,
+      "median_wage_usd": 101109.0
+    },
+    {
+      "title": "Senior Software Engineer I",
+      "count": 10,
+      "median_wage_usd": 111322.0
+    },
+    {
+      "title": "Research Engineer III",
+      "count": 8,
+      "median_wage_usd": 106485.5
+    },
+    {
+      "title": "Software Engineer II",
+      "count": 8,
+      "median_wage_usd": 111322.0
+    },
+    {
+      "title": "Research Engineer I",
+      "count": 7,
+      "median_wage_usd": 110136.0
+    },
+    {
+      "title": "Software Engineer III",
+      "count": 6,
+      "median_wage_usd": 101109.0
+    },
+    {
+      "title": "Research Engineer II",
+      "count": 6,
+      "median_wage_usd": 105622.5
+    },
+    {
+      "title": "Software Engineer",
+      "count": 4,
+      "median_wage_usd": 99257.5
+    },
+    {
+      "title": "Research Engineer I ",
+      "count": 4,
+      "median_wage_usd": 110136.0
+    },
+    {
+      "title": "Research Engineer",
+      "count": 3,
+      "median_wage_usd": 82181.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 120
+    },
+    {
+      "state": "AZ",
+      "count": 25
+    },
+    {
+      "state": "IN",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SAN DIEGO",
+      "count": 120
+    },
+    {
+      "state": "AZ",
+      "county": "PIMA",
+      "count": 25
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 1
+    },
+    {
+      "state": "IN",
+      "county": "BARTHOLOMEW",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "05/31/2024",
+      "effective_date": "05/31/2024",
+      "state": "AZ",
+      "workers": 0,
+      "city": "Tucson"
+    },
+    {
+      "date": "02/23/2024",
+      "effective_date": "10/30/2024",
+      "state": "CA",
+      "workers": 1,
+      "city": "San Diego"
+    },
+    {
+      "date": "02/16/2024",
+      "effective_date": "02/16/2024",
+      "state": "AZ",
+      "workers": 8,
+      "city": "Tucson"
+    },
+    {
+      "date": "05/22/2023",
+      "effective_date": "07/20/2023",
+      "state": "CA",
+      "workers": 151,
+      "city": "San Diego"
+    },
+    {
+      "date": "02/27/2023",
+      "effective_date": "02/17/2023",
+      "state": "TX",
+      "workers": 10,
+      "city": "Hutchins"
+    },
+    {
+      "date": "02/27/2023",
+      "effective_date": "02/17/2023",
+      "state": "TX",
+      "workers": 10,
+      "city": "Fort Worth"
+    },
+    {
+      "date": "01/10/2023",
+      "effective_date": "12/21/2023",
+      "state": "TX",
+      "workers": 76,
+      "city": "Dallas"
+    },
+    {
+      "date": "12/22/2022",
+      "effective_date": "12/22/2022",
+      "state": "AZ",
+      "workers": 0,
+      "city": "Tucson"
+    },
+    {
+      "date": "12/22/2022",
+      "effective_date": "12/22/2022",
+      "state": "AZ",
+      "workers": 0,
+      "city": "Tucson"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "pima-county-lwib",
+      "name": "Pima County LWIB",
+      "state": "AZ"
+    }
+  ],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2023-12-04",
+        "formType": "8-K",
+        "accessionNumber": "0001628280-23-040615",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001823593&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2022-12-21",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-22-310070",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001823593&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 2,
+    "itemCounts": {
+      "2.05": 2
+    },
+    "latestFilingDate": "2023-12-04",
+    "earliestFilingDate": "2022-12-21"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 144,
+    "initial_denials": 1,
+    "continuing_approvals": 136,
+    "continuing_denials": 2,
+    "total_approvals": 280,
+    "by_fy": [
+      {
+        "fy": 2016,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2017,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 29,
+        "initial_denials": 1,
+        "continuing_approvals": 18,
+        "continuing_denials": 0,
+        "total_approvals": 47
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 49,
+        "initial_denials": 0,
+        "continuing_approvals": 51,
+        "continuing_denials": 1,
+        "total_approvals": 100
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 65,
+        "initial_denials": 0,
+        "continuing_approvals": 49,
+        "continuing_denials": 0,
+        "total_approvals": 114
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 18,
+        "continuing_denials": 1,
+        "total_approvals": 19
+      }
+    ]
+  },
+  "lca_worker_positions": 148,
+  "top_socs": [],
+  "lca_periods": []
+}

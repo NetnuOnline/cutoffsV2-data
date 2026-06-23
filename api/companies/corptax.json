@@ -1,0 +1,134 @@
+{
+  "slug": "corptax",
+  "canonical_name": "Corptax, Inc.",
+  "fein": "01-0868383",
+  "lca_filing_count": 11,
+  "lca_worker_positions": 11,
+  "warn_notice_count": 0,
+  "median_wage_usd": 115000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 113630.0
+    },
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 77553.0
+    },
+    {
+      "fy": 2022,
+      "filings": 4,
+      "median_wage_usd": 120222.5
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 144560.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 101192.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 187296.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 3,
+      "median_wage_usd": 101192.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 2,
+      "median_wage_usd": 129781.5
+    },
+    {
+      "title": "Senior Manager of Technology",
+      "count": 1,
+      "median_wage_usd": 185000.0
+    },
+    {
+      "title": "Technology Manager",
+      "count": 1,
+      "median_wage_usd": 189592.0
+    },
+    {
+      "title": "Technology Team Lead",
+      "count": 1,
+      "median_wage_usd": 144560.0
+    },
+    {
+      "title": "Team Lead",
+      "count": 1,
+      "median_wage_usd": 113630.0
+    },
+    {
+      "title": "Data Analyst",
+      "count": 1,
+      "median_wage_usd": 64709.0
+    },
+    {
+      "title": "Software Test Engineer",
+      "count": 1,
+      "median_wage_usd": 94182.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IL",
+      "county": "LAKE",
+      "count": 4
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SAN DIEGO",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 7
+    },
+    {
+      "state": "CA",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 139339.0,
+    "gap_usd": 9179.0
+  }
+}

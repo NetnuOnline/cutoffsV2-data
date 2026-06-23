@@ -1,0 +1,110 @@
+{
+  "slug": "eos-accountants-llp",
+  "canonical_name": "EOS Accountants LLP",
+  "fein": "22-3462644",
+  "lca_filing_count": 12,
+  "lca_worker_positions": 12,
+  "warn_notice_count": 0,
+  "median_wage_usd": 65655.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 4,
+      "median_wage_usd": 73538.5
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 64709.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 65343.0
+    },
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 90979.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 79466.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Tax Senior Accountant",
+      "count": 5,
+      "median_wage_usd": 65000.0
+    },
+    {
+      "title": "Audit Manager",
+      "count": 2,
+      "median_wage_usd": 90979.0
+    },
+    {
+      "title": "Senior Tax Accountant",
+      "count": 2,
+      "median_wage_usd": 65509.5
+    },
+    {
+      "title": "Audit Senior Accountant",
+      "count": 1,
+      "median_wage_usd": 57949.0
+    },
+    {
+      "title": "Audit Staff Accountant",
+      "count": 1,
+      "median_wage_usd": 61526.0
+    },
+    {
+      "title": "Tax/Transfer Pricing Manager",
+      "count": 1,
+      "median_wage_usd": 97406.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NJ",
+      "county": "BERGEN",
+      "count": 4
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 4
+    },
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 5
+    },
+    {
+      "state": "IL",
+      "count": 4
+    },
+    {
+      "state": "CA",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-2011",
+    "soc_title": "Accountants and Auditors",
+    "market_median_usd": 79000.0,
+    "employer_median_usd": 65509.5,
+    "gap_usd": -13490.5
+  }
+}

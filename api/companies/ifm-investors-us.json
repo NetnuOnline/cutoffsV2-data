@@ -1,0 +1,200 @@
+{
+  "slug": "ifm-investors-us",
+  "canonical_name": "IFM Investors (US) LLC",
+  "fein": "56-2676864",
+  "lca_filing_count": 24,
+  "warn_notice_count": 0,
+  "median_wage_usd": 163500.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 7,
+      "median_wage_usd": 172000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 3,
+      "median_wage_usd": 100443.0
+    },
+    {
+      "fy": 2022,
+      "filings": 4,
+      "median_wage_usd": 144716.0
+    },
+    {
+      "fy": 2024,
+      "filings": 4,
+      "median_wage_usd": 256500.0
+    },
+    {
+      "fy": 2025,
+      "filings": 6,
+      "median_wage_usd": 231000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Vice President",
+      "count": 4,
+      "median_wage_usd": 185099.5
+    },
+    {
+      "title": "Investment Director",
+      "count": 4,
+      "median_wage_usd": 305000.0
+    },
+    {
+      "title": "Associate",
+      "count": 3,
+      "median_wage_usd": 162000.0
+    },
+    {
+      "title": "Analyst",
+      "count": 3,
+      "median_wage_usd": 100443.0
+    },
+    {
+      "title": "Salesforce Developer",
+      "count": 2,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "title": "Senior Associate, Infrastructure",
+      "count": 2,
+      "median_wage_usd": 208000.0
+    },
+    {
+      "title": "Data Analyst- Infrastructure",
+      "count": 2,
+      "median_wage_usd": 128003.0
+    },
+    {
+      "title": "Business Partner, Corporate Finance",
+      "count": 1,
+      "median_wage_usd": 165000.0
+    },
+    {
+      "title": "Senior Associate",
+      "count": 1,
+      "median_wage_usd": 209000.0
+    },
+    {
+      "title": "Senior Associate ",
+      "count": 1,
+      "median_wage_usd": 172000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 15
+    },
+    {
+      "state": "NJ",
+      "county": "HUDSON",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "county": "KINGS",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SAN DIEGO",
+      "count": 1
+    },
+    {
+      "state": "CO",
+      "county": "BOULDER",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 20
+    },
+    {
+      "state": "NJ",
+      "count": 2
+    },
+    {
+      "state": "CO",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 7,
+    "initial_denials": 0,
+    "continuing_approvals": 11,
+    "continuing_denials": 0,
+    "total_approvals": 18,
+    "by_fy": [
+      {
+        "fy": 2016,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 4,
+        "continuing_denials": 0,
+        "total_approvals": 6
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 4,
+        "initial_denials": 0,
+        "continuing_approvals": 6,
+        "continuing_denials": 0,
+        "total_approvals": 10
+      }
+    ]
+  },
+  "lca_worker_positions": 24,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3031",
+    "soc_title": "Financial Managers",
+    "market_median_usd": 156100.0,
+    "employer_median_usd": 253000.0,
+    "gap_usd": 96900.0
+  }
+}

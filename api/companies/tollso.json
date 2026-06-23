@@ -1,0 +1,46 @@
+{
+  "slug": "tollso",
+  "canonical_name": "Tollso LLC",
+  "fein": "99-0417611",
+  "lca_filing_count": 3,
+  "lca_worker_positions": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 72000.0,
+  "by_fy": [
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 90000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Manager",
+      "count": 2,
+      "median_wage_usd": 72000.0
+    },
+    {
+      "title": "Marketing Manager",
+      "count": 1,
+      "median_wage_usd": 108000.0
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "MN",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-2021",
+    "soc_title": "Marketing Managers",
+    "market_median_usd": 157620.0,
+    "employer_median_usd": 108000.0,
+    "gap_usd": -49620.0
+  }
+}

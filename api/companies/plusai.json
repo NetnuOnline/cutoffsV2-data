@@ -1,0 +1,126 @@
+{
+  "slug": "plusai",
+  "canonical_name": "PlusAI, Inc.",
+  "fein": "81-3283445",
+  "lca_filing_count": 21,
+  "lca_worker_positions": 21,
+  "warn_notice_count": 0,
+  "median_wage_usd": 170739.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 3,
+      "median_wage_usd": 145000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 4,
+      "median_wage_usd": 151125.0
+    },
+    {
+      "fy": 2023,
+      "filings": 4,
+      "median_wage_usd": 190369.5
+    },
+    {
+      "fy": 2024,
+      "filings": 7,
+      "median_wage_usd": 180000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 211756.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 1,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "title": "Software Engineer ",
+      "count": 1,
+      "median_wage_usd": 147368.0
+    },
+    {
+      "title": "Senior Engineering Manager, Control",
+      "count": 1,
+      "median_wage_usd": 210000.0
+    },
+    {
+      "title": "Senior Research Engineer ",
+      "count": 1,
+      "median_wage_usd": 165000.0
+    },
+    {
+      "title": "Senior Systems Engineer",
+      "count": 1,
+      "median_wage_usd": 175000.0
+    },
+    {
+      "title": "Senior Research Engineer",
+      "count": 1,
+      "median_wage_usd": 170739.0
+    },
+    {
+      "title": "Mechatronics Engineer",
+      "count": 1,
+      "median_wage_usd": 145000.0
+    },
+    {
+      "title": "Senior Software Engineer ",
+      "count": 1,
+      "median_wage_usd": 220000.0
+    },
+    {
+      "title": "Engineering Manager",
+      "count": 1,
+      "median_wage_usd": 210000.0
+    },
+    {
+      "title": "Motion Planning Engineer",
+      "count": 1,
+      "median_wage_usd": 152250.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 18
+    },
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 20
+    },
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 177417.5,
+    "gap_usd": 47257.5
+  }
+}

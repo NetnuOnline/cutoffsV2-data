@@ -1,0 +1,61 @@
+{
+  "slug": "incon-gems",
+  "canonical_name": "Incon Gems Inc",
+  "fein": "13-3134672",
+  "lca_filing_count": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 96949.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 4,
+      "median_wage_usd": 106932.9
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 85300.8
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Marketing Manager ",
+      "count": 2,
+      "median_wage_usd": 116916.9
+    },
+    {
+      "title": "Market Research Analyst ",
+      "count": 2,
+      "median_wage_usd": 96948.9
+    },
+    {
+      "title": "Financial Analyst",
+      "count": 1,
+      "median_wage_usd": 85300.8
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 5
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 5
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 5,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-2021",
+    "soc_title": "Marketing Managers",
+    "market_median_usd": 157620.0,
+    "employer_median_usd": 116916.9,
+    "gap_usd": -40703.1
+  }
+}

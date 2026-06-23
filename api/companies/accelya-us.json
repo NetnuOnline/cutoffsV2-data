@@ -1,0 +1,95 @@
+{
+  "slug": "accelya-us",
+  "canonical_name": "Accelya US, Inc.",
+  "fein": "75-2859299",
+  "lca_filing_count": 5,
+  "lca_worker_positions": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 135000.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 121400.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 147865.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 146325.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Manager - Software Development",
+      "count": 1,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "title": "Manager \u2013 Software Development",
+      "count": 1,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "title": "Director - Implementation",
+      "count": 1,
+      "median_wage_usd": 127800.0
+    },
+    {
+      "title": "Sr. Principal - Product Manager - Offer Growth",
+      "count": 1,
+      "median_wage_usd": 146325.0
+    },
+    {
+      "title": "Manager \u201c Software Development",
+      "count": 1,
+      "median_wage_usd": 147865.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "FL",
+      "county": "BROWARD",
+      "count": 2
+    },
+    {
+      "state": "MI",
+      "county": "WAYNE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "FL",
+      "count": 3
+    },
+    {
+      "state": "MI",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Information Technology Project Managers",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 146325.0,
+    "gap_usd": 28325.0
+  }
+}

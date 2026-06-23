@@ -1,0 +1,82 @@
+{
+  "slug": "groupultra-limited",
+  "canonical_name": "GroupUltra Limited",
+  "fein": "92-3397435",
+  "lca_filing_count": 7,
+  "lca_worker_positions": 7,
+  "warn_notice_count": 0,
+  "median_wage_usd": 120000.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 79040.0
+    },
+    {
+      "fy": 2025,
+      "filings": 5,
+      "median_wage_usd": 149760.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 112500.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Computer System Architect",
+      "count": 3,
+      "median_wage_usd": 151840.0
+    },
+    {
+      "title": "Project Manager",
+      "count": 1,
+      "median_wage_usd": 112500.0
+    },
+    {
+      "title": "Information Techology Project Manager",
+      "count": 1,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "Human Resources Specialist",
+      "count": 1,
+      "median_wage_usd": 109616.0
+    },
+    {
+      "title": "Marketing Specialist",
+      "count": 1,
+      "median_wage_usd": 79040.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 7
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Computer Occupations, All Other",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 150800.0,
+    "gap_usd": 32800.0
+  }
+}

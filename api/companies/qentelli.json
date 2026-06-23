@@ -1,0 +1,158 @@
+{
+  "slug": "qentelli",
+  "canonical_name": "Qentelli, LLC",
+  "fein": "47-5172131",
+  "lca_filing_count": 29,
+  "lca_worker_positions": 29,
+  "warn_notice_count": 0,
+  "median_wage_usd": 112332.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 3,
+      "median_wage_usd": 95000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 136521.0
+    },
+    {
+      "fy": 2023,
+      "filings": 10,
+      "median_wage_usd": 114566.0
+    },
+    {
+      "fy": 2024,
+      "filings": 6,
+      "median_wage_usd": 110609.0
+    },
+    {
+      "fy": 2025,
+      "filings": 6,
+      "median_wage_usd": 116667.0
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 112923.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Automation Engineer",
+      "count": 5,
+      "median_wage_usd": 122000.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 3,
+      "median_wage_usd": 111218.0
+    },
+    {
+      "title": "Senior Software Engineer - Delivery",
+      "count": 2,
+      "median_wage_usd": 99923.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 2,
+      "median_wage_usd": 115588.0
+    },
+    {
+      "title": "Associate Architect",
+      "count": 2,
+      "median_wage_usd": 107283.0
+    },
+    {
+      "title": "Project Manager - Finance & Operations",
+      "count": 1,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "title": "iOS Lead",
+      "count": 1,
+      "median_wage_usd": 200000.0
+    },
+    {
+      "title": "SDET Lead",
+      "count": 1,
+      "median_wage_usd": 154500.0
+    },
+    {
+      "title": "Delivery Lead",
+      "count": 1,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "title": "Delivery Manager",
+      "count": 1,
+      "median_wage_usd": 114566.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 7
+    },
+    {
+      "state": "MD",
+      "county": "MONTGOMERY",
+      "count": 5
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 5
+    },
+    {
+      "state": "TN",
+      "county": "DAVIDSON",
+      "count": 2
+    },
+    {
+      "state": "FL",
+      "county": "MIAMI-DADE",
+      "count": 1
+    },
+    {
+      "state": "LA",
+      "county": "ST TAMMANY",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 17
+    },
+    {
+      "state": "MD",
+      "count": 5
+    },
+    {
+      "state": "TN",
+      "count": 5
+    },
+    {
+      "state": "FL",
+      "count": 1
+    },
+    {
+      "state": "LA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 116461.5,
+    "gap_usd": -13698.5
+  }
+}

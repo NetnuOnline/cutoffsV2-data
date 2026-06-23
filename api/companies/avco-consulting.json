@@ -1,0 +1,203 @@
+{
+  "slug": "avco-consulting",
+  "canonical_name": "Avco consulting Inc.",
+  "fein": "04-3481560",
+  "lca_filing_count": 400,
+  "lca_worker_positions": 383,
+  "warn_notice_count": 0,
+  "median_wage_usd": 100000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 71,
+      "median_wage_usd": 92290.0
+    },
+    {
+      "fy": 2021,
+      "filings": 93,
+      "median_wage_usd": 95000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 64,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 44,
+      "median_wage_usd": 102877.0
+    },
+    {
+      "fy": 2024,
+      "filings": 37,
+      "median_wage_usd": 105227.0
+    },
+    {
+      "fy": 2025,
+      "filings": 33,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 41,
+      "median_wage_usd": 109845.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 32,
+      "median_wage_usd": 100263.0
+    },
+    {
+      "title": "Salesforce Developer",
+      "count": 23,
+      "median_wage_usd": 98550.0
+    },
+    {
+      "title": "Dot Net Developer",
+      "count": 20,
+      "median_wage_usd": 98972.0
+    },
+    {
+      "title": "Java Developer",
+      "count": 19,
+      "median_wage_usd": 99944.0
+    },
+    {
+      "title": "Application Developer",
+      "count": 16,
+      "median_wage_usd": 99767.0
+    },
+    {
+      "title": "DevOps Engineer",
+      "count": 14,
+      "median_wage_usd": 101421.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 13,
+      "median_wage_usd": 99195.0
+    },
+    {
+      "title": "Data Engineer",
+      "count": 8,
+      "median_wage_usd": 114296.0
+    },
+    {
+      "title": "Senior Data Engineer",
+      "count": 6,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "AWS DevOps Engineer",
+      "count": 5,
+      "median_wage_usd": 100526.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 17
+    },
+    {
+      "state": "NC",
+      "county": "WAKE",
+      "count": 14
+    },
+    {
+      "state": "VA",
+      "county": "FAIRFAX",
+      "count": 13
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 12
+    },
+    {
+      "state": "CT",
+      "county": "HARTFORD CITY",
+      "count": 10
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 10
+    },
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 10
+    },
+    {
+      "state": "NC",
+      "county": "MECKLENBURG",
+      "count": 9
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 8
+    },
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 8
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 82
+    },
+    {
+      "state": "NC",
+      "count": 37
+    },
+    {
+      "state": "VA",
+      "count": 27
+    },
+    {
+      "state": "FL",
+      "count": 27
+    },
+    {
+      "state": "NJ",
+      "count": 26
+    },
+    {
+      "state": "MA",
+      "count": 25
+    },
+    {
+      "state": "GA",
+      "count": 19
+    },
+    {
+      "state": "CT",
+      "count": 14
+    },
+    {
+      "state": "PA",
+      "count": 13
+    },
+    {
+      "state": "OH",
+      "count": 12
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 103272.0,
+    "gap_usd": -26888.0
+  }
+}

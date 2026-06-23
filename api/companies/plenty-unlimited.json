@@ -1,0 +1,232 @@
+{
+  "slug": "plenty-unlimited",
+  "canonical_name": "Plenty Unlimited, Inc.",
+  "fein": "81-1900916",
+  "lca_filing_count": 18,
+  "warn_notice_count": 3,
+  "median_wage_usd": 140500.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 3,
+      "median_wage_usd": 145000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 107000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 5,
+      "median_wage_usd": 155000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 6,
+      "median_wage_usd": 118000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 110000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Staff Mechanical Design Engineer, Environmental Skids",
+      "count": 3,
+      "median_wage_usd": 155000.0
+    },
+    {
+      "title": "Staff Software Engineer, Platform",
+      "count": 1,
+      "median_wage_usd": 180000.0
+    },
+    {
+      "title": "Security Cloud Engineer",
+      "count": 1,
+      "median_wage_usd": 160000.0
+    },
+    {
+      "title": "Senior Installation and Integration Engineeer",
+      "count": 1,
+      "median_wage_usd": 95000.0
+    },
+    {
+      "title": "Senior Scientist, Photobiology",
+      "count": 1,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "Sr. Thermal System Deployment Engineer",
+      "count": 1,
+      "median_wage_usd": 145000.0
+    },
+    {
+      "title": "Senior Manager, Continuous Improvement",
+      "count": 1,
+      "median_wage_usd": 185000.0
+    },
+    {
+      "title": "Research Associate III, Strawberry Production",
+      "count": 1,
+      "median_wage_usd": 60000.0
+    },
+    {
+      "title": "Manager, Engineering/Technical Program Management",
+      "count": 1,
+      "median_wage_usd": 155000.0
+    },
+    {
+      "title": "Senior Thermal Modeling & Analysis Engineer",
+      "count": 1,
+      "median_wage_usd": 140000.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 10
+    },
+    {
+      "state": "WY",
+      "count": 3
+    },
+    {
+      "state": "VA",
+      "count": 2
+    },
+    {
+      "state": "NY",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SAN MATEO",
+      "count": 10
+    },
+    {
+      "state": "WY",
+      "county": "ALBANY",
+      "count": 3
+    },
+    {
+      "state": "VA",
+      "county": "CHESTERFIELD",
+      "count": 2
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "county": "ORANGE",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "12/16/2024",
+      "effective_date": "02/14/2025",
+      "state": "CA",
+      "workers": 48,
+      "city": "Compton"
+    },
+    {
+      "date": "01/19/2024",
+      "effective_date": "01/18/2024",
+      "state": "CA",
+      "workers": 55,
+      "city": "South San Francisco"
+    },
+    {
+      "date": "12/01/2022",
+      "effective_date": "01/31/2023",
+      "state": "CA",
+      "workers": 18,
+      "city": "South San Francisco"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 3,
+    "initial_denials": 0,
+    "continuing_approvals": 34,
+    "continuing_denials": 1,
+    "total_approvals": 37,
+    "by_fy": [
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 6,
+        "continuing_denials": 0,
+        "total_approvals": 7
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 15,
+        "continuing_denials": 0,
+        "total_approvals": 15
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 8,
+        "continuing_denials": 0,
+        "total_approvals": 10
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 5,
+        "continuing_denials": 1,
+        "total_approvals": 5
+      }
+    ]
+  },
+  "lca_worker_positions": 17,
+  "top_socs": [],
+  "lca_periods": []
+}

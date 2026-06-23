@@ -1,0 +1,138 @@
+{
+  "slug": "cryptograph-technologies-usa",
+  "canonical_name": "Cryptograph Technologies USA Inc",
+  "fein": "81-3975920",
+  "lca_filing_count": 14,
+  "warn_notice_count": 0,
+  "median_wage_usd": 96647.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 75000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 11,
+      "median_wage_usd": 105206.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 88088.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 7,
+      "median_wage_usd": 105206.0
+    },
+    {
+      "title": "SAP SD Consultant",
+      "count": 4,
+      "median_wage_usd": 86736.0
+    },
+    {
+      "title": "Microsoft Dynamics AX Technical Consultant",
+      "count": 2,
+      "median_wage_usd": 75000.0
+    },
+    {
+      "title": "QA Tester",
+      "count": 1,
+      "median_wage_usd": 88088.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "PA",
+      "county": "DELAWARE",
+      "count": 6
+    },
+    {
+      "state": "PA",
+      "county": "CHESTER",
+      "count": 5
+    },
+    {
+      "state": "IN",
+      "county": "HAMILTON",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "PA",
+      "count": 11
+    },
+    {
+      "state": "IN",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 2,
+    "initial_denials": 3,
+    "continuing_approvals": 0,
+    "continuing_denials": 0,
+    "total_approvals": 2,
+    "by_fy": [
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 0,
+        "initial_denials": 3,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 14,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 105206.0,
+    "gap_usd": -24954.0
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "slug": "masco-cabinetry",
+  "canonical_name": "Masco Cabinetry",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "11/21/2012",
+      "effective_date": "11/21/2012",
+      "state": "NJ",
+      "workers": 190,
+      "city": "Lakewood"
+    },
+    {
+      "date": "11/15/2012",
+      "effective_date": "01/14/2013",
+      "state": "VA",
+      "workers": 280,
+      "city": "Atkins, VA"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "ocean-wib",
+      "name": "Ocean WIB",
+      "state": "NJ"
+    },
+    {
+      "slug": "new-rivermt-rogers-lwia-ii",
+      "name": "New River/Mt. Rogers LWIA II",
+      "state": "VA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

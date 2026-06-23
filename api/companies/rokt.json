@@ -1,0 +1,155 @@
+{
+  "slug": "rokt",
+  "canonical_name": "Rokt Corp.",
+  "fein": null,
+  "lca_filing_count": 30,
+  "warn_notice_count": 0,
+  "median_wage_usd": 112500.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 142500.0
+    },
+    {
+      "fy": 2021,
+      "filings": 8,
+      "median_wage_usd": 92560.0
+    },
+    {
+      "fy": 2022,
+      "filings": 10,
+      "median_wage_usd": 137696.0
+    },
+    {
+      "fy": 2023,
+      "filings": 8,
+      "median_wage_usd": 116817.5
+    }
+  ],
+  "top_titles": [
+    {
+      "title": " Product Manager - Finance",
+      "count": 5,
+      "median_wage_usd": 90000.0
+    },
+    {
+      "title": "Account Coordinator",
+      "count": 2,
+      "median_wage_usd": 56784.0
+    },
+    {
+      "title": "Business Analyst",
+      "count": 2,
+      "median_wage_usd": 101250.0
+    },
+    {
+      "title": "Vice President of Design",
+      "count": 2,
+      "median_wage_usd": 128960.0
+    },
+    {
+      "title": "SVP, Business Development",
+      "count": 1,
+      "median_wage_usd": 300000.0
+    },
+    {
+      "title": " Senior Business Analyst",
+      "count": 1,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "VP, Sales Enablement",
+      "count": 1,
+      "median_wage_usd": 250000.0
+    },
+    {
+      "title": "Customer Success Manager",
+      "count": 1,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "title": "Sales Operations Analyst",
+      "count": 1,
+      "median_wage_usd": 80850.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 1,
+      "median_wage_usd": 180000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 30
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 30
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 13,
+    "initial_denials": 1,
+    "continuing_approvals": 15,
+    "continuing_denials": 0,
+    "total_approvals": 28,
+    "by_fy": [
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 0,
+        "initial_denials": 1,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 6,
+        "initial_denials": 0,
+        "continuing_approvals": 5,
+        "continuing_denials": 0,
+        "total_approvals": 11
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 6,
+        "initial_denials": 0,
+        "continuing_approvals": 4,
+        "continuing_denials": 0,
+        "total_approvals": 10
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 6,
+        "continuing_denials": 0,
+        "total_approvals": 7
+      }
+    ]
+  },
+  "lca_worker_positions": 28,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1161",
+    "soc_title": "Market Research Analysts and Marketing Specialists",
+    "market_median_usd": 74680.0,
+    "employer_median_usd": 102500.0,
+    "gap_usd": 27820.0
+  }
+}

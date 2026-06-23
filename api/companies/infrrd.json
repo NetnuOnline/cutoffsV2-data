@@ -1,0 +1,165 @@
+{
+  "slug": "infrrd",
+  "canonical_name": "Infrrd, Inc.",
+  "fein": "81-2795068",
+  "lca_filing_count": 10,
+  "warn_notice_count": 0,
+  "median_wage_usd": 141439.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 3,
+      "median_wage_usd": 129780.0
+    },
+    {
+      "fy": 2022,
+      "filings": 3,
+      "median_wage_usd": 141500.0
+    },
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 165000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 4,
+      "median_wage_usd": 141500.0
+    },
+    {
+      "title": "Statistical Data Analyst",
+      "count": 1,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "title": "Sr. Software Developer - Research & Machine Learning",
+      "count": 1,
+      "median_wage_usd": 180000.0
+    },
+    {
+      "title": "Sr. Software Engineer",
+      "count": 1,
+      "median_wage_usd": 141378.0
+    },
+    {
+      "title": "Technical Program Manager",
+      "count": 1,
+      "median_wage_usd": 140442.0
+    },
+    {
+      "title": "Technical Lead",
+      "count": 1,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "Sr. Computer Programmer ",
+      "count": 1,
+      "median_wage_usd": 150000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 8
+    },
+    {
+      "state": "UT",
+      "county": "SALT LAKE",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 8
+    },
+    {
+      "state": "UT",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 11,
+    "initial_denials": 1,
+    "continuing_approvals": 12,
+    "continuing_denials": 0,
+    "total_approvals": 23,
+    "by_fy": [
+      {
+        "fy": 2017,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 7,
+        "initial_denials": 1,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 10
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 5,
+        "continuing_denials": 0,
+        "total_approvals": 7
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 4
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      }
+    ]
+  },
+  "lca_worker_positions": 10,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 141500.0,
+    "gap_usd": 11340.0
+  }
+}

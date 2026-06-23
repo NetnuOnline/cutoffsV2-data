@@ -1,0 +1,126 @@
+{
+  "slug": "routeone",
+  "canonical_name": "RouteOne LLC",
+  "fein": "41-2040021",
+  "lca_filing_count": 13,
+  "lca_worker_positions": 13,
+  "warn_notice_count": 0,
+  "median_wage_usd": 143200.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 163000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 143623.56
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 143750.0
+    },
+    {
+      "fy": 2024,
+      "filings": 4,
+      "median_wage_usd": 131750.08000000002
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 153146.16
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 178000.08,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Lead Software Engineer",
+      "count": 2,
+      "median_wage_usd": 142350.0
+    },
+    {
+      "title": "Lead, Architect",
+      "count": 2,
+      "median_wage_usd": 178000.08
+    },
+    {
+      "title": "Sr. Software Engineer - Java",
+      "count": 1,
+      "median_wage_usd": 123000.0
+    },
+    {
+      "title": "Software Engineer - Lead (JAVA)",
+      "count": 1,
+      "median_wage_usd": 160000.0
+    },
+    {
+      "title": "Senior Software Engineer - Java",
+      "count": 1,
+      "median_wage_usd": 127500.0
+    },
+    {
+      "title": "Senior Architect - JAVA",
+      "count": 1,
+      "median_wage_usd": 149247.12
+    },
+    {
+      "title": "Sr. Software Engineer - .NET",
+      "count": 1,
+      "median_wage_usd": 122000.16
+    },
+    {
+      "title": "Software Engineer \u2013 JAVA",
+      "count": 1,
+      "median_wage_usd": 108000.0
+    },
+    {
+      "title": "Lead Software Engineer - Java",
+      "count": 1,
+      "median_wage_usd": 153146.16
+    },
+    {
+      "title": "Technical Engineering Manager",
+      "count": 1,
+      "median_wage_usd": 138000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MI",
+      "county": "OAKLAND",
+      "count": 8
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MI",
+      "count": 12
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 138000.0,
+    "gap_usd": 7840.0
+  }
+}

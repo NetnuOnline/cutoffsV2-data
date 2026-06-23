@@ -1,0 +1,123 @@
+{
+  "slug": "bridge-flair",
+  "canonical_name": "BRIDGE FLAIR LLC",
+  "fein": "87-1349723",
+  "lca_filing_count": 10,
+  "lca_worker_positions": 10,
+  "warn_notice_count": 0,
+  "median_wage_usd": 102492.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 5,
+      "median_wage_usd": 105996.8
+    },
+    {
+      "fy": 2025,
+      "filings": 4,
+      "median_wage_usd": 100672.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 112424.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Frontend Developer",
+      "count": 2,
+      "median_wage_usd": 91644.8
+    },
+    {
+      "title": "DevOps Engineer",
+      "count": 2,
+      "median_wage_usd": 100672.0
+    },
+    {
+      "title": "SQL Server Database Administrator",
+      "count": 1,
+      "median_wage_usd": 95035.2
+    },
+    {
+      "title": "DevOps(GKE) Engineer",
+      "count": 1,
+      "median_wage_usd": 111217.59999999999
+    },
+    {
+      "title": "Endpoint Security and Application Deployment Engineer",
+      "count": 1,
+      "median_wage_usd": 103480.0
+    },
+    {
+      "title": "Systems Analyst",
+      "count": 1,
+      "median_wage_usd": 112424.0
+    },
+    {
+      "title": "Senior Python Developer",
+      "count": 1,
+      "median_wage_usd": 107890.0
+    },
+    {
+      "title": "Java FullStack Developer",
+      "count": 1,
+      "median_wage_usd": 105996.8
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NC",
+      "county": "MECKLENBURG",
+      "count": 2
+    },
+    {
+      "state": "LA",
+      "county": "ORLEANS",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "county": "HENRICO",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 4
+    },
+    {
+      "state": "NC",
+      "count": 3
+    },
+    {
+      "state": "PA",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "count": 1
+    },
+    {
+      "state": "LA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 103750.4,
+    "gap_usd": -26409.6
+  }
+}

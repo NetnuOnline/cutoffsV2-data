@@ -1,0 +1,66 @@
+{
+  "slug": "johndel-international",
+  "canonical_name": "Johndel International, Inc.",
+  "fein": "98-0078337",
+  "lca_filing_count": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 39229.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 3,
+      "median_wage_usd": 36795.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 44397.5
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 41309.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Accountant",
+      "count": 3,
+      "median_wage_usd": 41309.0
+    },
+    {
+      "title": "Electrical Engineer",
+      "count": 2,
+      "median_wage_usd": 41745.5
+    },
+    {
+      "title": "Mechanical Engineer",
+      "count": 1,
+      "median_wage_usd": 36795.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "GU",
+      "county": "UNKOWN NAME",
+      "count": 6
+    }
+  ],
+  "top_states": [
+    {
+      "state": "GU",
+      "count": 6
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 6,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-2011",
+    "soc_title": "Accountants and Auditors",
+    "market_median_usd": 79000.0,
+    "employer_median_usd": 41309.0,
+    "gap_usd": -37691.0
+  }
+}

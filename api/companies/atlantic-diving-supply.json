@@ -1,0 +1,97 @@
+{
+  "slug": "atlantic-diving-supply",
+  "canonical_name": "Atlantic Diving Supply, Inc.",
+  "fein": "54-1867268",
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 212500.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 175000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 250000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Director of Business Analytics",
+      "count": 1,
+      "median_wage_usd": 175000.0
+    },
+    {
+      "title": "VP, Business Analytics",
+      "count": 1,
+      "median_wage_usd": 250000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "VA",
+      "county": "VIRGINIA BEACH CITY",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "VA",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 1,
+    "continuing_denials": 0,
+    "total_approvals": 1,
+    "by_fy": [
+      {
+        "fy": 2014,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2016,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1111",
+    "soc_title": "Management Analysts",
+    "market_median_usd": 99000.0,
+    "employer_median_usd": 212500.0,
+    "gap_usd": 113500.0
+  }
+}

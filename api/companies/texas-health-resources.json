@@ -1,0 +1,122 @@
+{
+  "slug": "texas-health-resources",
+  "canonical_name": "Texas Health Resources",
+  "fein": "75-2702388",
+  "lca_filing_count": 22,
+  "lca_worker_positions": 22,
+  "warn_notice_count": 0,
+  "median_wage_usd": 112000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 4,
+      "median_wage_usd": 102285.0
+    },
+    {
+      "fy": 2021,
+      "filings": 6,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 99000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 5,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 122500.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Data Integration Engineer II",
+      "count": 7,
+      "median_wage_usd": 111000.0
+    },
+    {
+      "title": "Sr. Data Integration Engineer",
+      "count": 4,
+      "median_wage_usd": 137500.0
+    },
+    {
+      "title": "Predictive and Inferential Analyst",
+      "count": 2,
+      "median_wage_usd": 87500.0
+    },
+    {
+      "title": "Integration Analyst III",
+      "count": 1,
+      "median_wage_usd": 111000.0
+    },
+    {
+      "title": "Lead Enterprise Performance Planning Analyst",
+      "count": 1,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "Business Intelligence Performance Specialist",
+      "count": 1,
+      "median_wage_usd": 90000.0
+    },
+    {
+      "title": "Salesforce Marketing Developer I",
+      "count": 1,
+      "median_wage_usd": 85000.0
+    },
+    {
+      "title": "Salesforce Marketing Cloud Technical Architect",
+      "count": 1,
+      "median_wage_usd": 155000.0
+    },
+    {
+      "title": "Clinical Biomechanist",
+      "count": 1,
+      "median_wage_usd": 57000.0
+    },
+    {
+      "title": "Data Analyst - Urgent Care",
+      "count": 1,
+      "median_wage_usd": 58500.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "TARRANT",
+      "count": 18
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 22
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 140000.0,
+    "gap_usd": 9840.0
+  }
+}

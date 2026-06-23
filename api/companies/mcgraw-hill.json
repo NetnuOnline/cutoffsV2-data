@@ -1,0 +1,203 @@
+{
+  "slug": "mcgraw-hill",
+  "canonical_name": "McGraw Hill LLC",
+  "fein": "80-0885860",
+  "lca_filing_count": 34,
+  "lca_worker_positions": 33,
+  "warn_notice_count": 0,
+  "median_wage_usd": 150098.5,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 4,
+      "median_wage_usd": 127500.0
+    },
+    {
+      "fy": 2022,
+      "filings": 9,
+      "median_wage_usd": 160000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 4,
+      "median_wage_usd": 134350.0
+    },
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 153405.0
+    },
+    {
+      "fy": 2025,
+      "filings": 5,
+      "median_wage_usd": 181220.0
+    },
+    {
+      "fy": 2026,
+      "filings": 6,
+      "median_wage_usd": 181425.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Manager, Software Engineering",
+      "count": 6,
+      "median_wage_usd": 170610.0
+    },
+    {
+      "title": "Lead Software Engineer",
+      "count": 5,
+      "median_wage_usd": 162500.0
+    },
+    {
+      "title": "Senior Data Engineer",
+      "count": 2,
+      "median_wage_usd": 173652.0
+    },
+    {
+      "title": "Director, Engineering",
+      "count": 1,
+      "median_wage_usd": 217300.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 1,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "title": "Lead Software Engineer 1",
+      "count": 1,
+      "median_wage_usd": 180000.0
+    },
+    {
+      "title": "Database Engineer",
+      "count": 1,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "title": "Senior Risk and Compliance Analyst",
+      "count": 1,
+      "median_wage_usd": 96733.0
+    },
+    {
+      "title": "Software Development Engineer in Test",
+      "count": 1,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "title": "Sr. Big Data Engineer",
+      "count": 1,
+      "median_wage_usd": 150000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "OH",
+      "county": "DELAWARE",
+      "count": 10
+    },
+    {
+      "state": "DE",
+      "county": "NEW CASTLE",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "county": "WILL",
+      "count": 1
+    },
+    {
+      "state": "CO",
+      "county": "DOUGLAS",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "county": "SOMERSET",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "county": "MIDDLESEX",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "county": "MIDDLETON",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "county": "HUDSON",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "county": "BOSTON CITY",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "OH",
+      "count": 16
+    },
+    {
+      "state": "NJ",
+      "count": 4
+    },
+    {
+      "state": "TX",
+      "count": 4
+    },
+    {
+      "state": "CA",
+      "count": 2
+    },
+    {
+      "state": "MA",
+      "count": 2
+    },
+    {
+      "state": "NH",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "count": 1
+    },
+    {
+      "state": "DE",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "count": 1
+    },
+    {
+      "state": "CO",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 169950.0,
+    "gap_usd": 39790.0
+  }
+}

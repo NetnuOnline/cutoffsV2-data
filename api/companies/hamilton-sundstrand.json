@@ -1,0 +1,140 @@
+{
+  "slug": "hamilton-sundstrand",
+  "canonical_name": "Hamilton Sundstrand Corporation",
+  "fein": "06-1543584",
+  "lca_filing_count": 17,
+  "lca_worker_positions": 16,
+  "warn_notice_count": 0,
+  "median_wage_usd": 112216.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 127764.0
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 88067.0
+    },
+    {
+      "fy": 2022,
+      "filings": 4,
+      "median_wage_usd": 101005.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 131352.0
+    },
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 112216.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 135366.0
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 126942.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Engineer, Software Engineering",
+      "count": 3,
+      "median_wage_usd": 91104.0
+    },
+    {
+      "title": "Senior Principal Engineer, Software Engineering",
+      "count": 2,
+      "median_wage_usd": 126942.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 2,
+      "median_wage_usd": 100141.5
+    },
+    {
+      "title": "Principal Engineer, Systems Engineering",
+      "count": 2,
+      "median_wage_usd": 118924.0
+    },
+    {
+      "title": "Senior Principal Engineer, Systems Engineering",
+      "count": 1,
+      "median_wage_usd": 179546.0
+    },
+    {
+      "title": "Principal Engineer, Software Engineering",
+      "count": 1,
+      "median_wage_usd": 110906.0
+    },
+    {
+      "title": "Principal Specialist, Procurement",
+      "count": 1,
+      "median_wage_usd": 89440.0
+    },
+    {
+      "title": "Senior Manager, Value Stream Management",
+      "count": 1,
+      "median_wage_usd": 140546.0
+    },
+    {
+      "title": "Senior Research Aerospace Engineer",
+      "count": 1,
+      "median_wage_usd": 109650.0
+    },
+    {
+      "title": "Senior Principal Engineer, Project Engineering",
+      "count": 1,
+      "median_wage_usd": 131352.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IL",
+      "county": "WINNEBAGO",
+      "count": 9
+    },
+    {
+      "state": "CT",
+      "county": "WINDSOR LOCKS",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "county": "MONROE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 15
+    },
+    {
+      "state": "CT",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 112216.0,
+    "gap_usd": -17944.0
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "slug": "mutual-of-omaha-insurance-company",
+  "canonical_name": "Mutual of Omaha Insurance Company",
+  "fein": "47-0246511",
+  "lca_filing_count": 98,
+  "lca_worker_positions": 93,
+  "warn_notice_count": 0,
+  "median_wage_usd": 116870.5,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 6,
+      "median_wage_usd": 97998.0
+    },
+    {
+      "fy": 2021,
+      "filings": 13,
+      "median_wage_usd": 112000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 22,
+      "median_wage_usd": 112015.5
+    },
+    {
+      "fy": 2023,
+      "filings": 16,
+      "median_wage_usd": 109175.5
+    },
+    {
+      "fy": 2024,
+      "filings": 21,
+      "median_wage_usd": 119232.0
+    },
+    {
+      "fy": 2025,
+      "filings": 8,
+      "median_wage_usd": 131981.5
+    },
+    {
+      "fy": 2026,
+      "filings": 7,
+      "median_wage_usd": 118294.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Engineer",
+      "count": 46,
+      "median_wage_usd": 118534.5
+    },
+    {
+      "title": "Engineer III",
+      "count": 7,
+      "median_wage_usd": 131950.0
+    },
+    {
+      "title": "Engineer ",
+      "count": 7,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "Application Systems Analyst",
+      "count": 4,
+      "median_wage_usd": 101090.0
+    },
+    {
+      "title": "Application Developer",
+      "count": 4,
+      "median_wage_usd": 89332.5
+    },
+    {
+      "title": "Engineer II ",
+      "count": 3,
+      "median_wage_usd": 114688.0
+    },
+    {
+      "title": "Engineer II",
+      "count": 3,
+      "median_wage_usd": 116961.0
+    },
+    {
+      "title": "Actuarial Associate",
+      "count": 2,
+      "median_wage_usd": 125413.0
+    },
+    {
+      "title": "Engineer I",
+      "count": 2,
+      "median_wage_usd": 99968.0
+    },
+    {
+      "title": "I/S Security Analyst",
+      "count": 2,
+      "median_wage_usd": 113547.5
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NE",
+      "county": "DOUGLAS",
+      "count": 59
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 3
+    },
+    {
+      "state": "IL",
+      "county": "WILL",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 2
+    },
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 2
+    },
+    {
+      "state": "MO",
+      "county": "ST CHARLES",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 1
+    },
+    {
+      "state": "TN",
+      "county": "WILSON",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "county": "CAMDEN",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NE",
+      "count": 65
+    },
+    {
+      "state": "TX",
+      "count": 14
+    },
+    {
+      "state": "MI",
+      "count": 4
+    },
+    {
+      "state": "IL",
+      "count": 4
+    },
+    {
+      "state": "AZ",
+      "count": 2
+    },
+    {
+      "state": "NC",
+      "count": 2
+    },
+    {
+      "state": "OR",
+      "count": 1
+    },
+    {
+      "state": "SC",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "count": 1
+    },
+    {
+      "state": "MO",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 118775.0,
+    "gap_usd": -11385.0
+  }
+}

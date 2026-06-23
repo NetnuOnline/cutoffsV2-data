@@ -1,0 +1,161 @@
+{
+  "slug": "seagate-us",
+  "canonical_name": "Seagate US LLC",
+  "fein": "77-0545987",
+  "lca_filing_count": 30,
+  "lca_worker_positions": 30,
+  "warn_notice_count": 0,
+  "median_wage_usd": 133754.4,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 5,
+      "median_wage_usd": 179982.4
+    },
+    {
+      "fy": 2021,
+      "filings": 6,
+      "median_wage_usd": 156759.2
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 105008.79999999999
+    },
+    {
+      "fy": 2023,
+      "filings": 5,
+      "median_wage_usd": 128044.8
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 132670.5
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 113547.2
+    },
+    {
+      "fy": 2026,
+      "filings": 7,
+      "median_wage_usd": 162593.6,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Staff Engineer",
+      "count": 6,
+      "median_wage_usd": 179992.8
+    },
+    {
+      "title": "Staff Engineer",
+      "count": 4,
+      "median_wage_usd": 141936.9
+    },
+    {
+      "title": "Sr. Engineer",
+      "count": 4,
+      "median_wage_usd": 117240.06
+    },
+    {
+      "title": "Engineer II",
+      "count": 4,
+      "median_wage_usd": 102167.2
+    },
+    {
+      "title": "Principal Engineer",
+      "count": 1,
+      "median_wage_usd": 176384.0
+    },
+    {
+      "title": "Senior Data Scientist",
+      "count": 1,
+      "median_wage_usd": 105040.0
+    },
+    {
+      "title": "Sr. Staff Program/Project Manager",
+      "count": 1,
+      "median_wage_usd": 169998.4
+    },
+    {
+      "title": "Sr Engineer",
+      "count": 1,
+      "median_wage_usd": 113547.2
+    },
+    {
+      "title": "Sr. Manager",
+      "count": 1,
+      "median_wage_usd": 186513.6
+    },
+    {
+      "title": "Sr. Engineering Manager",
+      "count": 1,
+      "median_wage_usd": 174553.6
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 11
+    },
+    {
+      "state": "CO",
+      "county": "BOULDER",
+      "count": 4
+    },
+    {
+      "state": "MN",
+      "county": "HENNEPIN",
+      "count": 3
+    },
+    {
+      "state": "MN",
+      "county": "SCOTT",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 11
+    },
+    {
+      "state": "MN",
+      "count": 8
+    },
+    {
+      "state": "CO",
+      "count": 7
+    },
+    {
+      "state": "WA",
+      "count": 1
+    },
+    {
+      "state": "OK",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 131903.2,
+    "gap_usd": 1743.2
+  }
+}

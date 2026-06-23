@@ -1,0 +1,110 @@
+{
+  "slug": "futuremindz",
+  "canonical_name": "Futuremindz, LLC.",
+  "fein": "81-1524687",
+  "lca_filing_count": 7,
+  "lca_worker_positions": 7,
+  "warn_notice_count": 0,
+  "median_wage_usd": 104000.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 95443.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 90000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 107000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 119000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SQL Database Administrator ",
+      "count": 1,
+      "median_wage_usd": 94000.0
+    },
+    {
+      "title": "Power Platform  Developer",
+      "count": 1,
+      "median_wage_usd": 132000.0
+    },
+    {
+      "title": "Software Developer/Salesforce Developer",
+      "count": 1,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": ".NET/Azure Software Engineer",
+      "count": 1,
+      "median_wage_usd": 104000.0
+    },
+    {
+      "title": "Workday Programmer",
+      "count": 1,
+      "median_wage_usd": 96886.0
+    },
+    {
+      "title": "Delivery Lead",
+      "count": 1,
+      "median_wage_usd": 90000.0
+    },
+    {
+      "title": "Java Developer",
+      "count": 1,
+      "median_wage_usd": 106000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NJ",
+      "county": "BERGEN",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "county": "MIDDLESEX",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 4
+    },
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 108000.0,
+    "gap_usd": -22160.0
+  }
+}

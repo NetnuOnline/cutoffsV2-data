@@ -1,0 +1,158 @@
+{
+  "slug": "qolo",
+  "canonical_name": "Qolo Inc.",
+  "fein": "83-0656114",
+  "lca_filing_count": 11,
+  "warn_notice_count": 0,
+  "median_wage_usd": 100000.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 3,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 76544.0
+    },
+    {
+      "fy": 2025,
+      "filings": 4,
+      "median_wage_usd": 112270.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Quality Assurance Engineer",
+      "count": 3,
+      "median_wage_usd": 76544.0
+    },
+    {
+      "title": "QA Engineer",
+      "count": 2,
+      "median_wage_usd": 101500.0
+    },
+    {
+      "title": "Sr. Full Stack Engineer",
+      "count": 2,
+      "median_wage_usd": 123770.0
+    },
+    {
+      "title": "Senior QA Engineer",
+      "count": 1,
+      "median_wage_usd": 95555.0
+    },
+    {
+      "title": "Senior Full Stack Software Developer",
+      "count": 1,
+      "median_wage_usd": 106000.0
+    },
+    {
+      "title": "Full Stack Developer",
+      "count": 1,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "Sr. Quality Assurance Engineer",
+      "count": 1,
+      "median_wage_usd": 100000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "PA",
+      "county": "ALLEGHENY",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "county": "GWINNETT",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "county": "HILLSBOROUGH",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "county": "BUTLER",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "county": "BROWARD",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "PA",
+      "count": 5
+    },
+    {
+      "state": "TX",
+      "count": 3
+    },
+    {
+      "state": "FL",
+      "count": 2
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 2,
+    "initial_denials": 0,
+    "continuing_approvals": 5,
+    "continuing_denials": 1,
+    "total_approvals": 7,
+    "by_fy": [
+      {
+        "fy": 2021,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 5
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 1,
+        "total_approvals": 2
+      }
+    ]
+  },
+  "lca_worker_positions": 11,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1253",
+    "soc_title": "Software Quality Assurance Analysts and Testers",
+    "market_median_usd": 101800.0,
+    "employer_median_usd": 97777.5,
+    "gap_usd": -4022.5
+  }
+}

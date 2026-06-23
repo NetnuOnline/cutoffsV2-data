@@ -1,0 +1,60 @@
+{
+  "slug": "workiy",
+  "canonical_name": "WORKIY LLC",
+  "fein": "92-3412727",
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 115398.5,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 121514.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 109283.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SOFTWARE DEVELOPER",
+      "count": 1,
+      "median_wage_usd": 109283.0
+    },
+    {
+      "title": "TECHNICAL LEAD",
+      "count": 1,
+      "median_wage_usd": 121514.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NJ",
+      "county": "MONMOUTH",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Computer Systems Engineers/Architects",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 121514.0,
+    "gap_usd": 3514.0
+  }
+}

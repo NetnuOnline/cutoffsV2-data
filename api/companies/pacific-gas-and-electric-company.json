@@ -1,0 +1,142 @@
+{
+  "slug": "pacific-gas-and-electric-company",
+  "canonical_name": "Pacific Gas and Electric Company",
+  "fein": "94-0742640",
+  "lca_filing_count": 52,
+  "lca_worker_positions": 51,
+  "warn_notice_count": 0,
+  "median_wage_usd": 165158.7,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 4,
+      "median_wage_usd": 149416.0
+    },
+    {
+      "fy": 2021,
+      "filings": 8,
+      "median_wage_usd": 151704.31
+    },
+    {
+      "fy": 2022,
+      "filings": 3,
+      "median_wage_usd": 168936.0
+    },
+    {
+      "fy": 2023,
+      "filings": 4,
+      "median_wage_usd": 170373.35
+    },
+    {
+      "fy": 2024,
+      "filings": 10,
+      "median_wage_usd": 160972.91999999998
+    },
+    {
+      "fy": 2025,
+      "filings": 16,
+      "median_wage_usd": 172453.0
+    },
+    {
+      "fy": 2026,
+      "filings": 6,
+      "median_wage_usd": 160350.905,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Programmer Analyst, Senior",
+      "count": 3,
+      "median_wage_usd": 133386.0
+    },
+    {
+      "title": "IT Business Operations Analyst, Sr-ESC",
+      "count": 3,
+      "median_wage_usd": 144780.0
+    },
+    {
+      "title": "IT ERP Functional Analyst, Expert",
+      "count": 2,
+      "median_wage_usd": 172453.0
+    },
+    {
+      "title": "IT Applications Operations Analyst, Expert ",
+      "count": 2,
+      "median_wage_usd": 165882.0
+    },
+    {
+      "title": "Programmer Analyst, Expert",
+      "count": 2,
+      "median_wage_usd": 171340.10499999998
+    },
+    {
+      "title": "Principal Data Engineer",
+      "count": 1,
+      "median_wage_usd": 196000.0
+    },
+    {
+      "title": "Business Architect, Principal",
+      "count": 1,
+      "median_wage_usd": 230900.49
+    },
+    {
+      "title": "Expert SAP HCM Programmer Analyst",
+      "count": 1,
+      "median_wage_usd": 171719.63
+    },
+    {
+      "title": "Business System Specialist, Expert ",
+      "count": 1,
+      "median_wage_usd": 148408.62
+    },
+    {
+      "title": "Technology Architect, Principal ",
+      "count": 1,
+      "median_wage_usd": 173373.85
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 16
+    },
+    {
+      "state": "CA",
+      "county": "CONTRA COSTA",
+      "count": 8
+    },
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 4
+    },
+    {
+      "state": "CA",
+      "county": "SAN JOAQUIN",
+      "count": 3
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 52
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 181464.98,
+    "gap_usd": 51304.98
+  }
+}

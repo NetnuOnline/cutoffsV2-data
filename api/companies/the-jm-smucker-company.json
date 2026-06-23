@@ -1,0 +1,58 @@
+{
+  "slug": "the-jm-smucker-company",
+  "canonical_name": "The J.M. Smucker Company",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 3,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "WI",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "03/08/2022",
+      "effective_date": "12/30/2022",
+      "state": "WI",
+      "workers": 93,
+      "city": "Ripon"
+    },
+    {
+      "date": "03/23/2021",
+      "effective_date": "04/01/2022",
+      "state": "VA",
+      "workers": 76,
+      "city": "Suffolk, VA"
+    },
+    {
+      "date": "07/13/2018",
+      "effective_date": "10/31/2018",
+      "state": "CA",
+      "workers": 100,
+      "city": "San Francisco"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "fox-valley-wda",
+      "name": "Fox Valley WDA",
+      "state": "WI"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

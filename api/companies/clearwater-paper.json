@@ -1,0 +1,114 @@
+{
+  "slug": "clearwater-paper",
+  "canonical_name": "Clearwater Paper Corporation",
+  "fein": "20-3594554",
+  "lca_filing_count": 2,
+  "warn_notice_count": 5,
+  "median_wage_usd": 113410.5,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 113410.5
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Sr. Process Engineer",
+      "count": 2,
+      "median_wage_usd": 113410.5
+    }
+  ],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 2
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "GA",
+      "county": "RICHMOND",
+      "count": 2
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "06/02/2021",
+      "effective_date": "07/02/2021",
+      "state": "WI",
+      "workers": 285,
+      "city": "Neenah"
+    },
+    {
+      "date": "11/29/2017",
+      "effective_date": "11/29/2017",
+      "state": "OK",
+      "workers": 108,
+      "city": "05 - CentralRegion"
+    },
+    {
+      "date": "11/30/2016",
+      "effective_date": "12/31/2016",
+      "state": "WI",
+      "workers": 91,
+      "city": "Neenah"
+    },
+    {
+      "date": "03/08/2013",
+      "effective_date": "03/08/2013",
+      "state": "GA",
+      "workers": 142,
+      "city": "Thomaston"
+    },
+    {
+      "date": "10/26/2011",
+      "effective_date": "10/27/2011",
+      "state": "ID",
+      "workers": 250,
+      "city": "Lewiston"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "north-central-wib-id",
+      "name": "North Central WIB",
+      "state": "ID"
+    },
+    {
+      "slug": "fox-valley-wda",
+      "name": "Fox Valley WDA",
+      "state": "WI"
+    }
+  ],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2021-06-01",
+        "formType": "8-K",
+        "accessionNumber": "0001157523-21-000729",
+        "items": [
+          "2.05",
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities",
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001441236&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 1,
+    "itemCounts": {
+      "2.05": 1,
+      "2.06": 1
+    },
+    "latestFilingDate": "2021-06-01",
+    "earliestFilingDate": "2021-06-01"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": []
+}

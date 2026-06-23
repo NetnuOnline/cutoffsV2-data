@@ -1,0 +1,91 @@
+{
+  "slug": "vormittag-associates",
+  "canonical_name": "VORMITTAG ASSOCIATES, INC.",
+  "fein": "11-2532460",
+  "lca_filing_count": 8,
+  "lca_worker_positions": 7,
+  "warn_notice_count": 0,
+  "median_wage_usd": 136240.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 5,
+      "median_wage_usd": 137280.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 135200.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 126880.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "JAVA PROGRAMMER",
+      "count": 2,
+      "median_wage_usd": 131040.0
+    },
+    {
+      "title": "SOFTWARE DEVELOPER",
+      "count": 2,
+      "median_wage_usd": 137280.0
+    },
+    {
+      "title": "SENIOR APPLICATION MOBILE DEVELOPER",
+      "count": 1,
+      "median_wage_usd": 148720.0
+    },
+    {
+      "title": "SENIOR JAVA PROGRAMMER",
+      "count": 1,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "title": "RPG/Cognos Developer",
+      "count": 1,
+      "median_wage_usd": 114000.0
+    },
+    {
+      "title": "SENIOR DEVELOPER, MOBILE APPLICATIONS ",
+      "count": 1,
+      "median_wage_usd": 141440.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "SUFFOLK",
+      "count": 7
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 7
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 137280.0,
+    "gap_usd": 7120.0
+  }
+}

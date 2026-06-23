@@ -1,0 +1,143 @@
+{
+  "slug": "bayfirst",
+  "canonical_name": "BayFirst",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 9,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "RI",
+      "count": 2
+    },
+    {
+      "state": "FL",
+      "count": 2
+    },
+    {
+      "state": "MD",
+      "count": 1
+    },
+    {
+      "state": "OH",
+      "count": 1
+    },
+    {
+      "state": "NM",
+      "count": 1
+    },
+    {
+      "state": "OR",
+      "count": 1
+    },
+    {
+      "state": "SC",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "01/23/2023",
+      "effective_date": "11/25/2022",
+      "state": "RI",
+      "workers": 1,
+      "city": "Warwick"
+    },
+    {
+      "date": "09/30/2022",
+      "effective_date": "11/25/2022",
+      "state": "MD",
+      "workers": 20,
+      "city": "Sykesville"
+    },
+    {
+      "date": "09/30/2022",
+      "effective_date": "11/25/2022",
+      "state": "FL",
+      "workers": 20,
+      "city": "STATEWIDE"
+    },
+    {
+      "date": "09/29/2022",
+      "effective_date": "11/25/2022",
+      "state": "FL",
+      "workers": 58,
+      "city": "CLEARWATER"
+    },
+    {
+      "date": "09/27/2022",
+      "effective_date": "11/25/2022",
+      "state": "RI",
+      "workers": 1,
+      "city": "Warwick"
+    },
+    {
+      "date": "09/26/2022",
+      "effective_date": "11/25/2022",
+      "state": "OH",
+      "workers": 1,
+      "city": "Powell/Delaware"
+    },
+    {
+      "date": "09/23/2022",
+      "effective_date": "11/25/2022",
+      "state": "NM",
+      "workers": 58,
+      "city": "Albuquerque"
+    },
+    {
+      "date": "09/23/2022",
+      "effective_date": "11/25/2022",
+      "state": "OR",
+      "workers": 58,
+      "city": "St. Petersburg, FL"
+    },
+    {
+      "date": "09/23/2022",
+      "effective_date": "09/23/2022",
+      "state": "SC",
+      "workers": 1,
+      "city": "2520 Countryside Boulevard, Clearwater, FL33763"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2022-09-21",
+        "formType": "8-K",
+        "accessionNumber": "0001649739-22-000308",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001649739&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2022-05-18",
+        "formType": "8-K",
+        "accessionNumber": "0001649739-22-000169",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001649739&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 2,
+    "itemCounts": {
+      "2.05": 2
+    },
+    "latestFilingDate": "2022-09-21",
+    "earliestFilingDate": "2022-05-18"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

@@ -1,0 +1,197 @@
+{
+  "slug": "wells-fargo-bank-n-a",
+  "canonical_name": "Wells Fargo Bank, N.A.",
+  "fein": "94-1347393",
+  "lca_filing_count": 785,
+  "warn_notice_count": 0,
+  "median_wage_usd": 133300.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 103,
+      "median_wage_usd": 122616.0
+    },
+    {
+      "fy": 2021,
+      "filings": 127,
+      "median_wage_usd": 123677.0
+    },
+    {
+      "fy": 2022,
+      "filings": 144,
+      "median_wage_usd": 133300.0
+    },
+    {
+      "fy": 2023,
+      "filings": 131,
+      "median_wage_usd": 133300.0
+    },
+    {
+      "fy": 2024,
+      "filings": 159,
+      "median_wage_usd": 134347.0
+    },
+    {
+      "fy": 2025,
+      "filings": 113,
+      "median_wage_usd": 154669.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 12,
+      "median_wage_usd": 123677.0
+    },
+    {
+      "title": "Lead Software Engineer",
+      "count": 12,
+      "median_wage_usd": 152225.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 8,
+      "median_wage_usd": 127965.5
+    },
+    {
+      "title": "Software Sr. Engineer",
+      "count": 6,
+      "median_wage_usd": 124280.0
+    },
+    {
+      "title": "Applications Systems Engineer 5",
+      "count": 6,
+      "median_wage_usd": 132580.5
+    },
+    {
+      "title": "Quantitative Analytics Specialist 3",
+      "count": 5,
+      "median_wage_usd": 112528.0
+    },
+    {
+      "title": "Lead Systems Operations Engineer",
+      "count": 4,
+      "median_wage_usd": 142646.5
+    },
+    {
+      "title": "Quantitative Analytics Specialist 2",
+      "count": 3,
+      "median_wage_usd": 100526.0
+    },
+    {
+      "title": "Application Systems Engineer 5",
+      "count": 3,
+      "median_wage_usd": 124987.0
+    },
+    {
+      "title": "Lead Securities Quantitative Analytics Specialist",
+      "count": 3,
+      "median_wage_usd": 191922.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NC",
+      "county": "MECKLENBURG",
+      "count": 333
+    },
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 55
+    },
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 50
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 43
+    },
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 41
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 39
+    },
+    {
+      "state": "NJ",
+      "county": "MIDDLESEX",
+      "count": 17
+    },
+    {
+      "state": "CA",
+      "county": "CONTRA COSTA",
+      "count": 17
+    },
+    {
+      "state": "MN",
+      "county": "HENNEPIN",
+      "count": 13
+    },
+    {
+      "state": "NJ",
+      "county": "UNION",
+      "count": 9
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NC",
+      "count": 382
+    },
+    {
+      "state": "CA",
+      "count": 133
+    },
+    {
+      "state": "TX",
+      "count": 59
+    },
+    {
+      "state": "NY",
+      "count": 56
+    },
+    {
+      "state": "AZ",
+      "count": 50
+    },
+    {
+      "state": "NJ",
+      "count": 33
+    },
+    {
+      "state": "MN",
+      "count": 15
+    },
+    {
+      "state": "VA",
+      "count": 9
+    },
+    {
+      "state": "DE",
+      "count": 8
+    },
+    {
+      "state": "MO",
+      "count": 8
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 969,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 139027.0,
+    "gap_usd": 8867.0
+  }
+}

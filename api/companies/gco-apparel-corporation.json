@@ -1,0 +1,87 @@
+{
+  "slug": "gco-apparel-corporation",
+  "canonical_name": "Gco Apparel Corporation",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 3,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 3
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "03/14/2000",
+      "effective_date": "03/14/2000",
+      "state": "GA",
+      "workers": 160,
+      "city": "Bowdon"
+    },
+    {
+      "date": "08/04/1998",
+      "effective_date": "08/04/1998",
+      "state": "GA",
+      "workers": 300,
+      "city": "Bowdon"
+    },
+    {
+      "date": "04/24/1995",
+      "effective_date": "04/24/1995",
+      "state": "GA",
+      "workers": 510,
+      "city": "Bowdon"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "west-central-wib-ga",
+      "name": "West Central WIB",
+      "state": "GA"
+    }
+  ],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2018-12-19",
+        "formType": "8-K",
+        "accessionNumber": "0000018498-18-000052",
+        "items": [
+          "2.05",
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities",
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000018498&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2015-11-17",
+        "formType": "8-K/A",
+        "accessionNumber": "0000018498-15-000040",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000018498&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 2,
+    "itemCounts": {
+      "2.05": 1,
+      "2.06": 1,
+      "5.02": 1
+    },
+    "latestFilingDate": "2018-12-19",
+    "earliestFilingDate": "2015-11-17"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

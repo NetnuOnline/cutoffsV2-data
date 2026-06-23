@@ -1,0 +1,149 @@
+{
+  "slug": "east-west-bank",
+  "canonical_name": "East West Bank",
+  "fein": "95-2795851",
+  "lca_filing_count": 61,
+  "lca_worker_positions": 60,
+  "warn_notice_count": 0,
+  "median_wage_usd": 150000.24,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 7,
+      "median_wage_usd": 124000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 12,
+      "median_wage_usd": 147500.21
+    },
+    {
+      "fy": 2022,
+      "filings": 7,
+      "median_wage_usd": 162864.41
+    },
+    {
+      "fy": 2023,
+      "filings": 7,
+      "median_wage_usd": 157000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 6,
+      "median_wage_usd": 139799.825
+    },
+    {
+      "fy": 2025,
+      "filings": 12,
+      "median_wage_usd": 175792.70500000002
+    },
+    {
+      "fy": 2026,
+      "filings": 9,
+      "median_wage_usd": 146500.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Applications Developer",
+      "count": 6,
+      "median_wage_usd": 161000.0
+    },
+    {
+      "title": "Senior Mobile Developer",
+      "count": 5,
+      "median_wage_usd": 178144.31
+    },
+    {
+      "title": "Lead Application Developer",
+      "count": 3,
+      "median_wage_usd": 167200.0
+    },
+    {
+      "title": "Lead Applications Developer",
+      "count": 3,
+      "median_wage_usd": 176310.25
+    },
+    {
+      "title": "Senior Identity and Access Management Engineer",
+      "count": 2,
+      "median_wage_usd": 147500.0
+    },
+    {
+      "title": "Application Development Manager",
+      "count": 2,
+      "median_wage_usd": 219873.8
+    },
+    {
+      "title": "Senior QA Engineer",
+      "count": 2,
+      "median_wage_usd": 135553.25
+    },
+    {
+      "title": "Solution Architect and Development Lead",
+      "count": 2,
+      "median_wage_usd": 160000.0
+    },
+    {
+      "title": "Financial Reporting Lead",
+      "count": 2,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "title": "Senior Accounting Analysis & Reporting Analyst",
+      "count": 2,
+      "median_wage_usd": 101887.5
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 23
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 14
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "BEXAR",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 55
+    },
+    {
+      "state": "NY",
+      "count": 4
+    },
+    {
+      "state": "PA",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 175792.71,
+    "gap_usd": 45632.71
+  }
+}

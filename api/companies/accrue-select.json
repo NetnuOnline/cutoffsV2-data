@@ -1,0 +1,89 @@
+{
+  "slug": "accrue-select",
+  "canonical_name": "ACCRUE SELECT INC",
+  "fein": "46-1318097",
+  "lca_filing_count": 4,
+  "lca_worker_positions": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 92019.2,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 69888.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 106600.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 95180.7,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "UX DESIGNER",
+      "count": 1,
+      "median_wage_usd": 69888.0
+    },
+    {
+      "title": "Oracle Database Administrator",
+      "count": 1,
+      "median_wage_usd": 77438.4
+    },
+    {
+      "title": "Senior Developer",
+      "count": 1,
+      "median_wage_usd": 112923.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 1,
+      "median_wage_usd": 106600.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "county": "INGHAM",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 109761.5,
+    "gap_usd": -20398.5
+  }
+}

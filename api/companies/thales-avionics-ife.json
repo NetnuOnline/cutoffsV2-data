@@ -1,0 +1,129 @@
+{
+  "slug": "thales-avionics-ife",
+  "canonical_name": "Thales Avionics, Inc (IFE)",
+  "fein": null,
+  "lca_filing_count": 9,
+  "warn_notice_count": 0,
+  "median_wage_usd": 125000.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 8,
+      "median_wage_usd": 124993.5
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Sr. IVVQ Engineer",
+      "count": 2,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "title": "DevSecOps Engineer",
+      "count": 2,
+      "median_wage_usd": 129993.5
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 1,
+      "median_wage_usd": 124987.0
+    },
+    {
+      "title": " Product Sustaining Engineer 2",
+      "count": 1,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "title": "Product Engagement Manager",
+      "count": 1,
+      "median_wage_usd": 218000.0
+    },
+    {
+      "title": "Development Security Operations (DevSecOps) Engineer",
+      "count": 1,
+      "median_wage_usd": 138375.0
+    },
+    {
+      "title": "Accounts Payable Manager",
+      "count": 1,
+      "median_wage_usd": 115000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "ORANGE",
+      "count": 5
+    },
+    {
+      "state": "FL",
+      "county": "BREVARD",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "county": "ORANGE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 5
+    },
+    {
+      "state": "FL",
+      "count": 3
+    },
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 2,
+    "continuing_approvals": 25,
+    "continuing_denials": 1,
+    "total_approvals": 25,
+    "by_fy": [
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 1,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 2,
+        "continuing_approvals": 24,
+        "continuing_denials": 0,
+        "total_approvals": 24
+      }
+    ]
+  },
+  "lca_worker_positions": 9,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 124987.0,
+    "gap_usd": -5173.0
+  }
+}

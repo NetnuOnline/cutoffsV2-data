@@ -1,0 +1,129 @@
+{
+  "slug": "dave-operating",
+  "canonical_name": "Dave Operating, LLC",
+  "fein": "87-1020853",
+  "lca_filing_count": 8,
+  "warn_notice_count": 0,
+  "median_wage_usd": 212324.4,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 215000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 181180.0
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 209648.79
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Lead Data Analyst",
+      "count": 2,
+      "median_wage_usd": 212324.39500000002
+    },
+    {
+      "title": "Security Engineer II",
+      "count": 2,
+      "median_wage_usd": 145000.0
+    },
+    {
+      "title": "Lead Data Scientist",
+      "count": 1,
+      "median_wage_usd": 230000.0
+    },
+    {
+      "title": "Software Engineer II",
+      "count": 1,
+      "median_wage_usd": 156000.0
+    },
+    {
+      "title": "Manager, Data Engineering",
+      "count": 1,
+      "median_wage_usd": 230000.0
+    },
+    {
+      "title": "Manager, Software Engineering",
+      "count": 1,
+      "median_wage_usd": 217360.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "CONTRA COSTA",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "county": "CHESTER",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "county": "FAIRFAX",
+      "count": 1
+    },
+    {
+      "state": "DC",
+      "county": "DISTRICT OF COLUMBIA",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 1
+    },
+    {
+      "state": "DC",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 8,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 215000.0,
+    "gap_usd": 106980.0
+  }
+}

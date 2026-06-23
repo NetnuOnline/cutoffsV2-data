@@ -1,0 +1,203 @@
+{
+  "slug": "new-york-life-insurance-company",
+  "canonical_name": "New York Life Insurance Company",
+  "fein": "13-5582869",
+  "lca_filing_count": 144,
+  "lca_worker_positions": 144,
+  "warn_notice_count": 0,
+  "median_wage_usd": 122117.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 14,
+      "median_wage_usd": 121110.5
+    },
+    {
+      "fy": 2021,
+      "filings": 23,
+      "median_wage_usd": 115253.0
+    },
+    {
+      "fy": 2022,
+      "filings": 23,
+      "median_wage_usd": 101400.0
+    },
+    {
+      "fy": 2023,
+      "filings": 18,
+      "median_wage_usd": 120816.5
+    },
+    {
+      "fy": 2024,
+      "filings": 18,
+      "median_wage_usd": 141117.5
+    },
+    {
+      "fy": 2025,
+      "filings": 28,
+      "median_wage_usd": 139750.5
+    },
+    {
+      "fy": 2026,
+      "filings": 20,
+      "median_wage_usd": 157809.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Associate",
+      "count": 39,
+      "median_wage_usd": 111176.0
+    },
+    {
+      "title": "Corporate Vice President",
+      "count": 22,
+      "median_wage_usd": 139505.5
+    },
+    {
+      "title": "Actuarial Assistant",
+      "count": 8,
+      "median_wage_usd": 85082.5
+    },
+    {
+      "title": "Corporate Vice President & Actuary",
+      "count": 7,
+      "median_wage_usd": 122387.0
+    },
+    {
+      "title": "Actuarial Associate",
+      "count": 4,
+      "median_wage_usd": 85290.5
+    },
+    {
+      "title": "Senior Actuarial Associate",
+      "count": 4,
+      "median_wage_usd": 120338.5
+    },
+    {
+      "title": "Corporate Vice President, Lead Data Scientist",
+      "count": 3,
+      "median_wage_usd": 128003.0
+    },
+    {
+      "title": "CVP - Data Governance Process Lead",
+      "count": 2,
+      "median_wage_usd": 94910.0
+    },
+    {
+      "title": "Senior Associate, Advanced Analytics",
+      "count": 2,
+      "median_wage_usd": 114499.0
+    },
+    {
+      "title": "Senior Pega Developer",
+      "count": 2,
+      "median_wage_usd": 139594.5
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 62
+    },
+    {
+      "state": "NJ",
+      "county": "HUDSON",
+      "count": 12
+    },
+    {
+      "state": "NJ",
+      "county": "HUNTERDON",
+      "count": 9
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 7
+    },
+    {
+      "state": "FL",
+      "county": "HILLSBOROUGH",
+      "count": 3
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "county": "MIDDLESEX",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "county": "BROOKLINE",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "county": "HOPKINTON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 95
+    },
+    {
+      "state": "NJ",
+      "count": 26
+    },
+    {
+      "state": "TX",
+      "count": 10
+    },
+    {
+      "state": "FL",
+      "count": 4
+    },
+    {
+      "state": "GA",
+      "count": 2
+    },
+    {
+      "state": "PA",
+      "count": 2
+    },
+    {
+      "state": "MA",
+      "count": 2
+    },
+    {
+      "state": "NC",
+      "count": 1
+    },
+    {
+      "state": "OH",
+      "count": 1
+    },
+    {
+      "state": "IN",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 139995.0,
+    "gap_usd": 9835.0
+  }
+}

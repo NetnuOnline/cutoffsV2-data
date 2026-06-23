@@ -1,0 +1,232 @@
+{
+  "slug": "spreetail",
+  "canonical_name": "Spreetail, LLC",
+  "fein": "83-4172203",
+  "lca_filing_count": 40,
+  "warn_notice_count": 2,
+  "median_wage_usd": 102500.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 15,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 19,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 147175.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 131344.25
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 115000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Software Engineer",
+      "count": 5,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "title": "Software Engineer III",
+      "count": 4,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "title": "Data Platform Engineer",
+      "count": 4,
+      "median_wage_usd": 90000.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 4,
+      "median_wage_usd": 102500.0
+    },
+    {
+      "title": "Supply Chain Analyst",
+      "count": 2,
+      "median_wage_usd": 80900.0
+    },
+    {
+      "title": "Software Engineer II",
+      "count": 2,
+      "median_wage_usd": 106000.0
+    },
+    {
+      "title": "Sr. DevOps Engineer",
+      "count": 2,
+      "median_wage_usd": 160319.25
+    },
+    {
+      "title": "Senior Supply Planner",
+      "count": 2,
+      "median_wage_usd": 95000.0
+    },
+    {
+      "title": "Senior Pricing Optimization Analyst",
+      "count": 1,
+      "median_wage_usd": 90000.0
+    },
+    {
+      "title": "Senior Planning Manager",
+      "count": 1,
+      "median_wage_usd": 100000.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NE",
+      "count": 19
+    },
+    {
+      "state": "TX",
+      "count": 9
+    },
+    {
+      "state": "PA",
+      "count": 5
+    },
+    {
+      "state": "IN",
+      "count": 2
+    },
+    {
+      "state": "KS",
+      "count": 2
+    },
+    {
+      "state": "IA",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NE",
+      "county": "DOUGLAS",
+      "count": 12
+    },
+    {
+      "state": "NE",
+      "county": "LANCASTER",
+      "count": 7
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 4
+    },
+    {
+      "state": "PA",
+      "county": "CHESTER",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 2
+    },
+    {
+      "state": "KS",
+      "county": "JOHNSON",
+      "count": 2
+    },
+    {
+      "state": "IN",
+      "county": "HAMILTON",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 2
+    },
+    {
+      "state": "FL",
+      "county": "DUVAL",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "10/31/2022",
+      "effective_date": "10/31/2022",
+      "state": "NE",
+      "workers": 220,
+      "city": null
+    },
+    {
+      "date": "07/24/2019",
+      "effective_date": "07/24/2019",
+      "state": "NE",
+      "workers": 22,
+      "city": "Lincoln"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "lincoln-msa",
+      "name": "Lincoln MSA",
+      "state": "NE"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 3,
+    "initial_denials": 0,
+    "continuing_approvals": 6,
+    "continuing_denials": 0,
+    "total_approvals": 9,
+    "by_fy": [
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 3,
+        "initial_denials": 0,
+        "continuing_approvals": 6,
+        "continuing_denials": 0,
+        "total_approvals": 9
+      }
+    ]
+  },
+  "lca_worker_positions": 40,
+  "top_socs": [],
+  "lca_periods": []
+}

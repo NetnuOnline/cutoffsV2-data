@@ -1,0 +1,74 @@
+{
+  "slug": "ymca",
+  "canonical_name": "YMCA",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 4,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "count": 1
+    },
+    {
+      "state": "KS",
+      "count": 1
+    },
+    {
+      "state": "NE",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "11/20/2020",
+      "effective_date": "11/20/2020",
+      "state": "CA",
+      "workers": 80,
+      "city": "Burbank"
+    },
+    {
+      "date": "04/14/2020",
+      "effective_date": "03/18/2020",
+      "state": "FL",
+      "workers": 1206,
+      "city": "CLEARWATER"
+    },
+    {
+      "date": "03/20/2020",
+      "effective_date": "03/20/2020",
+      "state": "KS",
+      "workers": 1381,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "02/06/2018",
+      "effective_date": "02/06/2018",
+      "state": "NE",
+      "workers": 1,
+      "city": "Grand Island"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "careersource-pinellas",
+      "name": "CareerSource Pinellas",
+      "state": "FL"
+    },
+    {
+      "slug": "grand-island-msa",
+      "name": "Grand Island MSA",
+      "state": "NE"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

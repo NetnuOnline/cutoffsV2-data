@@ -1,0 +1,163 @@
+{
+  "slug": "outset-medical",
+  "canonical_name": "Outset Medical, Inc.",
+  "fein": "20-0514392",
+  "lca_filing_count": 23,
+  "lca_worker_positions": 23,
+  "warn_notice_count": 0,
+  "median_wage_usd": 155000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 124250.0
+    },
+    {
+      "fy": 2021,
+      "filings": 5,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 4,
+      "median_wage_usd": 160000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 6,
+      "median_wage_usd": 165000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 225000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 225000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Information Security Director",
+      "count": 4,
+      "median_wage_usd": 225000.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 2,
+      "median_wage_usd": 142500.0
+    },
+    {
+      "title": "Salesforce Developer/Administrator",
+      "count": 2,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Systems Engineer",
+      "count": 2,
+      "median_wage_usd": 124250.0
+    },
+    {
+      "title": "Manager, Electrical Engineering",
+      "count": 1,
+      "median_wage_usd": 190000.0
+    },
+    {
+      "title": "Director, Reliability Engineering & Field Analytics",
+      "count": 1,
+      "median_wage_usd": 230000.16
+    },
+    {
+      "title": "Senior Mechanical Engineer",
+      "count": 1,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "title": "Sales Operation Analyst",
+      "count": 1,
+      "median_wage_usd": 70000.0
+    },
+    {
+      "title": "Senior FP&A Analyst",
+      "count": 1,
+      "median_wage_usd": 122000.0
+    },
+    {
+      "title": "Digital Marketing Engineer",
+      "count": 1,
+      "median_wage_usd": 130000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 11
+    },
+    {
+      "state": "CA",
+      "county": "SAN JOAQUIN",
+      "count": 2
+    },
+    {
+      "state": "MA",
+      "county": "BOSTON CITY",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "county": "RANDOLPH",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "county": "WAKE",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 14
+    },
+    {
+      "state": "NC",
+      "count": 4
+    },
+    {
+      "state": "MA",
+      "count": 3
+    },
+    {
+      "state": "WA",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3021",
+    "soc_title": "Computer and Information Systems Managers",
+    "market_median_usd": 169510.0,
+    "employer_median_usd": 225000.0,
+    "gap_usd": 55490.0
+  }
+}

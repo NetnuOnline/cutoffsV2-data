@@ -1,0 +1,149 @@
+{
+  "slug": "tata-elxsi",
+  "canonical_name": "Tata Elxsi Ltd",
+  "fein": "52-2103083",
+  "lca_filing_count": 20,
+  "warn_notice_count": 0,
+  "median_wage_usd": 92394.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 80163.0
+    },
+    {
+      "fy": 2022,
+      "filings": 5,
+      "median_wage_usd": 98904.0
+    },
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 91021.0
+    },
+    {
+      "fy": 2025,
+      "filings": 11,
+      "median_wage_usd": 99736.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 5,
+      "median_wage_usd": 98904.0
+    },
+    {
+      "title": "Computer Systems Engineer/Architect",
+      "count": 3,
+      "median_wage_usd": 99736.0
+    },
+    {
+      "title": "Software Quality Assurance Analysts and Testers",
+      "count": 2,
+      "median_wage_usd": 86465.5
+    },
+    {
+      "title": "Software Quality Assurance Engineer and Tester ",
+      "count": 2,
+      "median_wage_usd": 89648.0
+    },
+    {
+      "title": "Software Developer, Applications",
+      "count": 1,
+      "median_wage_usd": 80163.0
+    },
+    {
+      "title": "Information Technology Project Manager",
+      "count": 1,
+      "median_wage_usd": 126432.0
+    },
+    {
+      "title": "Computer Hardware Engineer",
+      "count": 1,
+      "median_wage_usd": 104957.0
+    },
+    {
+      "title": "Mechanical Design Engineer",
+      "count": 1,
+      "median_wage_usd": 84302.0
+    },
+    {
+      "title": "Mechatronics Engineer",
+      "count": 1,
+      "median_wage_usd": 91957.0
+    },
+    {
+      "title": "Computer Systems Architects",
+      "count": 1,
+      "median_wage_usd": 139443.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MI",
+      "county": "OAKLAND",
+      "count": 5
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 2
+    },
+    {
+      "state": "TN",
+      "county": "KNOX",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "county": "PHILADELPHIA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "PA",
+      "count": 6
+    },
+    {
+      "state": "MI",
+      "count": 5
+    },
+    {
+      "state": "CA",
+      "count": 3
+    },
+    {
+      "state": "MN",
+      "count": 2
+    },
+    {
+      "state": "CO",
+      "count": 1
+    },
+    {
+      "state": "TN",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    },
+    {
+      "state": "WI",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 120,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 98904.0,
+    "gap_usd": -31256.0
+  }
+}

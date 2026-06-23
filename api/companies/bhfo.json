@@ -1,0 +1,43 @@
+{
+  "slug": "bhfo",
+  "canonical_name": "BHFO, Inc",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "IA",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "10/28/2025",
+      "effective_date": "11/26/2025",
+      "state": "IA",
+      "workers": 46,
+      "city": "Cedar Rapids"
+    },
+    {
+      "date": "04/15/2025",
+      "effective_date": "05/16/2025",
+      "state": "IA",
+      "workers": 32,
+      "city": "Cedar Rapids"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "region-10-cedar-rapids-wib",
+      "name": "Region 10 - Cedar Rapids WIB",
+      "state": "IA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

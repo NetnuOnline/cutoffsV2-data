@@ -1,0 +1,115 @@
+{
+  "slug": "nyc-gravitynet",
+  "canonical_name": "NYC Gravitynet LLC",
+  "fein": "92-2304420",
+  "lca_filing_count": 14,
+  "lca_worker_positions": 14,
+  "warn_notice_count": 0,
+  "median_wage_usd": 95493.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 8,
+      "median_wage_usd": 95493.0
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 103210.0
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 88088.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 3,
+      "median_wage_usd": 95493.0
+    },
+    {
+      "title": "SOFTWARE DEVELOPER",
+      "count": 2,
+      "median_wage_usd": 88088.0
+    },
+    {
+      "title": "Software Engineer / DevOps",
+      "count": 2,
+      "median_wage_usd": 103210.0
+    },
+    {
+      "title": "Software Developer / Data Engineer",
+      "count": 1,
+      "median_wage_usd": 103210.0
+    },
+    {
+      "title": "Java Developer",
+      "count": 1,
+      "median_wage_usd": 146307.0
+    },
+    {
+      "title": "RPA Developer",
+      "count": 1,
+      "median_wage_usd": 95493.0
+    },
+    {
+      "title": "BI Developer",
+      "count": 1,
+      "median_wage_usd": 95493.0
+    },
+    {
+      "title": "Microsoft Dynamics 365 Consultant",
+      "count": 1,
+      "median_wage_usd": 103210.0
+    },
+    {
+      "title": "Data Engineer",
+      "count": 1,
+      "median_wage_usd": 95493.0
+    },
+    {
+      "title": "Oracle Apps Technical",
+      "count": 1,
+      "median_wage_usd": 95493.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "SUFFOLK",
+      "count": 7
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 11
+    },
+    {
+      "state": "PA",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 95493.0,
+    "gap_usd": -34667.0
+  }
+}

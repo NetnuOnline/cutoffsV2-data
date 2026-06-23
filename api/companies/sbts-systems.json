@@ -1,0 +1,46 @@
+{
+  "slug": "sbts-systems",
+  "canonical_name": "SBTS Systems, LLC.",
+  "fein": "46-4377101",
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 70574.5,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 70574.5
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Data Analyst",
+      "count": 2,
+      "median_wage_usd": 70574.5
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 70574.5,
+    "gap_usd": -37445.5
+  }
+}

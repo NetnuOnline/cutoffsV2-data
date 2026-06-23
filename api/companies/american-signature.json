@@ -1,0 +1,130 @@
+{
+  "slug": "american-signature",
+  "canonical_name": "American Signature, Inc.",
+  "fein": "42-1546162",
+  "lca_filing_count": 2,
+  "warn_notice_count": 4,
+  "median_wage_usd": 103069.5,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 85000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 121139.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Sr. Business Intelligence Analyst",
+      "count": 1,
+      "median_wage_usd": 121139.0
+    },
+    {
+      "title": "IT Senior Application Developer",
+      "count": 1,
+      "median_wage_usd": 85000.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "OH",
+      "count": 2
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "OH",
+      "county": "FRANKLIN",
+      "count": 2
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "11/21/2025",
+      "effective_date": "01/20/2026",
+      "state": "OH",
+      "workers": 256,
+      "city": "Columbus/Franklin"
+    },
+    {
+      "date": "08/19/2024",
+      "effective_date": "10/22/2024",
+      "state": "MD",
+      "workers": 24,
+      "city": "Baltimore"
+    },
+    {
+      "date": "10/26/2017",
+      "effective_date": "12/02/2017",
+      "state": "OH",
+      "workers": 111,
+      "city": "Mineral Ridge/Trumbull"
+    },
+    {
+      "date": "10/26/2017",
+      "effective_date": "12/02/2017",
+      "state": "OH",
+      "workers": 13,
+      "city": "Columbus/Franklin"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 3,
+    "continuing_denials": 0,
+    "total_approvals": 3,
+    "by_fy": [
+      {
+        "fy": 2009,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Business Intelligence Analysts",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 121139.0,
+    "gap_usd": 13119.0
+  }
+}

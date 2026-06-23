@@ -1,0 +1,65 @@
+{
+  "slug": "hyatt-regency-waikiki",
+  "canonical_name": "Hyatt Regency Waikiki",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 3,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "HI",
+      "count": 3
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "10/06/2020",
+      "effective_date": "10/06/2020",
+      "state": "HI",
+      "workers": 0,
+      "city": null
+    },
+    {
+      "date": "08/24/2020",
+      "effective_date": "08/24/2020",
+      "state": "HI",
+      "workers": 0,
+      "city": null
+    },
+    {
+      "date": "06/25/2020",
+      "effective_date": "06/25/2020",
+      "state": "HI",
+      "workers": 0,
+      "city": null
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2014-04-04",
+        "formType": "8-K/A",
+        "accessionNumber": "0001468174-14-000097",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001468174&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 1,
+    "itemCounts": {
+      "5.02": 1
+    },
+    "latestFilingDate": "2014-04-04",
+    "earliestFilingDate": "2014-04-04"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

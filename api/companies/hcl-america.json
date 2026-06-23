@@ -1,0 +1,203 @@
+{
+  "slug": "hcl-america",
+  "canonical_name": "HCL America, Inc.",
+  "fein": "77-0205035",
+  "lca_filing_count": 5473,
+  "lca_worker_positions": 15410,
+  "warn_notice_count": 0,
+  "median_wage_usd": 105471.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 840,
+      "median_wage_usd": 97510.0
+    },
+    {
+      "fy": 2021,
+      "filings": 1102,
+      "median_wage_usd": 97622.0
+    },
+    {
+      "fy": 2022,
+      "filings": 756,
+      "median_wage_usd": 108000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 895,
+      "median_wage_usd": 106950.0
+    },
+    {
+      "fy": 2024,
+      "filings": 918,
+      "median_wage_usd": 109345.5
+    },
+    {
+      "fy": 2025,
+      "filings": 662,
+      "median_wage_usd": 113692.0
+    },
+    {
+      "fy": 2026,
+      "filings": 241,
+      "median_wage_usd": 123116.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Programmer Analyst - II",
+      "count": 762,
+      "median_wage_usd": 92082.0
+    },
+    {
+      "title": "System Architect - III",
+      "count": 386,
+      "median_wage_usd": 112275.0
+    },
+    {
+      "title": "IT Project Managers - IV",
+      "count": 319,
+      "median_wage_usd": 124030.0
+    },
+    {
+      "title": "Systems Analyst - III",
+      "count": 311,
+      "median_wage_usd": 113488.0
+    },
+    {
+      "title": "IT Project Managers - III",
+      "count": 304,
+      "median_wage_usd": 106390.0
+    },
+    {
+      "title": "Systems Analyst - II",
+      "count": 247,
+      "median_wage_usd": 93000.0
+    },
+    {
+      "title": "System Architect - IV",
+      "count": 218,
+      "median_wage_usd": 130950.0
+    },
+    {
+      "title": "Test Analyst - II",
+      "count": 164,
+      "median_wage_usd": 84984.5
+    },
+    {
+      "title": "System Architect - II",
+      "count": 124,
+      "median_wage_usd": 97650.0
+    },
+    {
+      "title": "Project Manager - III",
+      "count": 103,
+      "median_wage_usd": 117000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 427
+    },
+    {
+      "state": "TX",
+      "county": "BEXAR",
+      "count": 407
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 343
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 292
+    },
+    {
+      "state": "NC",
+      "county": "WAKE",
+      "count": 236
+    },
+    {
+      "state": "NJ",
+      "county": "SOMERSET",
+      "count": 116
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 107
+    },
+    {
+      "state": "PA",
+      "county": "MONTGOMERY",
+      "count": 99
+    },
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 97
+    },
+    {
+      "state": "WA",
+      "county": "SNOHOMISH",
+      "count": 77
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 1346
+    },
+    {
+      "state": "CA",
+      "count": 825
+    },
+    {
+      "state": "WA",
+      "count": 430
+    },
+    {
+      "state": "NJ",
+      "count": 405
+    },
+    {
+      "state": "NC",
+      "count": 377
+    },
+    {
+      "state": "PA",
+      "count": 197
+    },
+    {
+      "state": "FL",
+      "count": 194
+    },
+    {
+      "state": "GA",
+      "count": 176
+    },
+    {
+      "state": "MA",
+      "count": 176
+    },
+    {
+      "state": "IL",
+      "count": 160
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Information Technology Project Managers",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 118800.0,
+    "gap_usd": 800.0
+  }
+}

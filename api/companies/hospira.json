@@ -1,0 +1,89 @@
+{
+  "slug": "hospira",
+  "canonical_name": "Hospira",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 8,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 7
+    },
+    {
+      "state": "NC",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "05/04/2015",
+      "effective_date": "07/03/2015",
+      "state": "NC",
+      "workers": 100,
+      "city": "Clayton"
+    },
+    {
+      "date": "06/17/2010",
+      "effective_date": "04/01/2009",
+      "state": "IL",
+      "workers": 300,
+      "city": "North Chicago"
+    },
+    {
+      "date": "04/28/2010",
+      "effective_date": "11/01/2008",
+      "state": "IL",
+      "workers": 514,
+      "city": "Lake Forest"
+    },
+    {
+      "date": "09/12/2008",
+      "effective_date": "11/01/2008",
+      "state": "IL",
+      "workers": 97,
+      "city": "North Chicago"
+    },
+    {
+      "date": "09/12/2008",
+      "effective_date": "08/01/2008",
+      "state": "IL",
+      "workers": 10,
+      "city": "North Chicago"
+    },
+    {
+      "date": "09/12/2008",
+      "effective_date": "05/01/2008",
+      "state": "IL",
+      "workers": 23,
+      "city": "North Chicago"
+    },
+    {
+      "date": "09/12/2008",
+      "effective_date": "04/01/2008",
+      "state": "IL",
+      "workers": 2,
+      "city": "North Chicago"
+    },
+    {
+      "date": "09/12/2008",
+      "effective_date": "03/01/2008",
+      "state": "IL",
+      "workers": 36,
+      "city": "North Chicago"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "lake-county-wib",
+      "name": "Lake County WIB",
+      "state": "IL"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

@@ -1,0 +1,109 @@
+{
+  "slug": "ameren",
+  "canonical_name": "Ameren Services Company",
+  "fein": null,
+  "lca_filing_count": 4,
+  "warn_notice_count": 1,
+  "median_wage_usd": 151600,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 0,
+      "median_wage_usd": null
+    },
+    {
+      "fy": 2026,
+      "filings": 0,
+      "median_wage_usd": null
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Lead Business Analyst (Oracle Cloud)",
+      "count": 0,
+      "median_wage_usd": null
+    },
+    {
+      "title": "Lead Business Intelligence Engineer",
+      "count": 0,
+      "median_wage_usd": null
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "10/20/2006",
+      "effective_date": "10/20/2006",
+      "state": "IL",
+      "workers": 0,
+      "city": "Peoria"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "west-central-wf-dev-council",
+      "name": "West Central WF Dev Council",
+      "state": "IL"
+    }
+  ],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2013-03-19",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-13-113527",
+        "items": [
+          "2.05",
+          "2.06",
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities",
+          "Material Impairments",
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001002910&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2012-12-20",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-12-509316",
+        "items": [
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001002910&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2011-10-07",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-11-266870",
+        "items": [
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001002910&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 3,
+    "itemCounts": {
+      "2.05": 1,
+      "2.06": 3,
+      "5.02": 1
+    },
+    "latestFilingDate": "2013-03-19",
+    "earliestFilingDate": "2011-10-07"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

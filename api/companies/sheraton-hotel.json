@@ -1,0 +1,43 @@
+{
+  "slug": "sheraton-hotel",
+  "canonical_name": "Sheraton Hotel",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "LA",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "09/03/2020",
+      "effective_date": "11/06/2020",
+      "state": "LA",
+      "workers": 170,
+      "city": "New Orleans"
+    },
+    {
+      "date": "06/04/2020",
+      "effective_date": "03/13/2020",
+      "state": "LA",
+      "workers": 431,
+      "city": "New Orleans"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "orleans-parish-wia",
+      "name": "Orleans Parish WIA",
+      "state": "LA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

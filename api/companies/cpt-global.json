@@ -1,0 +1,82 @@
+{
+  "slug": "cpt-global",
+  "canonical_name": "cpt global inc",
+  "fein": "02-0619867",
+  "lca_filing_count": 9,
+  "lca_worker_positions": 26,
+  "warn_notice_count": 0,
+  "median_wage_usd": 152859.2,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 208000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 133868.80000000002
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 147284.80000000002
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 145485.59999999998
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 173720.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Technical Consultant",
+      "count": 5,
+      "median_wage_usd": 152859.19999999998
+    },
+    {
+      "title": "SENIOR TECHNICAL CONSULTANT",
+      "count": 2,
+      "median_wage_usd": 133868.80000000002
+    },
+    {
+      "title": "Senior Consultant",
+      "count": 1,
+      "median_wage_usd": 166228.0
+    },
+    {
+      "title": "Head of Global Resourcing & APAC Strategic Accounts",
+      "count": 1,
+      "median_wage_usd": 181213.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 7
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 9
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1211",
+    "soc_title": "Computer Systems Analysts",
+    "market_median_usd": 103800.0,
+    "employer_median_usd": 150072.0,
+    "gap_usd": 46272.0
+  }
+}

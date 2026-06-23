@@ -1,0 +1,203 @@
+{
+  "slug": "ptc",
+  "canonical_name": "PTC, Inc.",
+  "fein": "04-2866152",
+  "lca_filing_count": 73,
+  "lca_worker_positions": 72,
+  "warn_notice_count": 0,
+  "median_wage_usd": 125557.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 5,
+      "median_wage_usd": 105851.0
+    },
+    {
+      "fy": 2021,
+      "filings": 13,
+      "median_wage_usd": 119933.0
+    },
+    {
+      "fy": 2022,
+      "filings": 8,
+      "median_wage_usd": 116250.0
+    },
+    {
+      "fy": 2023,
+      "filings": 14,
+      "median_wage_usd": 126803.5
+    },
+    {
+      "fy": 2024,
+      "filings": 19,
+      "median_wage_usd": 148536.0
+    },
+    {
+      "fy": 2025,
+      "filings": 7,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 6,
+      "median_wage_usd": 148921.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Business Analyst, Principal",
+      "count": 4,
+      "median_wage_usd": 149763.0
+    },
+    {
+      "title": "Principal Software Engineer",
+      "count": 3,
+      "median_wage_usd": 141780.0
+    },
+    {
+      "title": "Software Development Engineer, Senior",
+      "count": 3,
+      "median_wage_usd": 127550.0
+    },
+    {
+      "title": "PRODUCT OWNER GROUP LEAD",
+      "count": 2,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "title": "Quality Assurance Engineer",
+      "count": 2,
+      "median_wage_usd": 101605.0
+    },
+    {
+      "title": "Senior RPA Developer",
+      "count": 2,
+      "median_wage_usd": 108000.0
+    },
+    {
+      "title": "UX Designer",
+      "count": 2,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "title": "Senior Technical Support Engineer",
+      "count": 2,
+      "median_wage_usd": 84353.155
+    },
+    {
+      "title": "Sr. Staff Software Engineer",
+      "count": 2,
+      "median_wage_usd": 212175.0
+    },
+    {
+      "title": "Sr. Full Stack Web Developer",
+      "count": 2,
+      "median_wage_usd": 119933.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MA",
+      "county": "BOSTON CITY",
+      "count": 34
+    },
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 4
+    },
+    {
+      "state": "PA",
+      "county": "CHESTER",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 3
+    },
+    {
+      "state": "MN",
+      "county": "RAMSEY",
+      "count": 2
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 2
+    },
+    {
+      "state": "NC",
+      "county": "PITT",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "BEXAR",
+      "count": 1
+    },
+    {
+      "state": "RI",
+      "county": "PROVIDENCE CITY",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "county": "WASHTENAW",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MA",
+      "count": 38
+    },
+    {
+      "state": "CA",
+      "count": 8
+    },
+    {
+      "state": "NC",
+      "count": 6
+    },
+    {
+      "state": "MN",
+      "count": 4
+    },
+    {
+      "state": "TX",
+      "count": 4
+    },
+    {
+      "state": "PA",
+      "count": 4
+    },
+    {
+      "state": "GA",
+      "count": 3
+    },
+    {
+      "state": "MI",
+      "count": 2
+    },
+    {
+      "state": "NY",
+      "count": 1
+    },
+    {
+      "state": "RI",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 132479.0,
+    "gap_usd": 2319.0
+  }
+}

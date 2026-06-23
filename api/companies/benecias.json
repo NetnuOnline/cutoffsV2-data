@@ -1,0 +1,168 @@
+{
+  "slug": "benecias",
+  "canonical_name": "BENECIAS, LLC.",
+  "fein": "27-4729288",
+  "lca_filing_count": 22,
+  "lca_worker_positions": 22,
+  "warn_notice_count": 0,
+  "median_wage_usd": 93500.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 95000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 92000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 12,
+      "median_wage_usd": 91000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 5,
+      "median_wage_usd": 93000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 102000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SOFTWARE ENGINEER",
+      "count": 7,
+      "median_wage_usd": 91000.0
+    },
+    {
+      "title": "SOFTWARE DEVELOPER",
+      "count": 6,
+      "median_wage_usd": 95500.0
+    },
+    {
+      "title": "DATA ENGINEER",
+      "count": 3,
+      "median_wage_usd": 93000.0
+    },
+    {
+      "title": "BUSINESS ANALYST",
+      "count": 1,
+      "median_wage_usd": 107000.0
+    },
+    {
+      "title": "AZURE DATA ENGINEER",
+      "count": 1,
+      "median_wage_usd": 106000.0
+    },
+    {
+      "title": "QUALITY ANALYST",
+      "count": 1,
+      "median_wage_usd": 104000.0
+    },
+    {
+      "title": "SCRUM MASTER",
+      "count": 1,
+      "median_wage_usd": 83000.0
+    },
+    {
+      "title": ".NET FULL STACK DEVELOPER",
+      "count": 1,
+      "median_wage_usd": 91000.0
+    },
+    {
+      "title": "COMPUTER SYSTEMS ANALYST",
+      "count": 1,
+      "median_wage_usd": 106000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NJ",
+      "county": "MIDDLESEX",
+      "count": 9
+    },
+    {
+      "state": "NY",
+      "county": "ALBANY",
+      "count": 2
+    },
+    {
+      "state": "PA",
+      "county": "ALLEGHENY",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "county": "HUDSON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 10
+    },
+    {
+      "state": "IL",
+      "count": 2
+    },
+    {
+      "state": "NY",
+      "count": 2
+    },
+    {
+      "state": "PA",
+      "count": 2
+    },
+    {
+      "state": "CT",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "count": 1
+    },
+    {
+      "state": "MO",
+      "count": 1
+    },
+    {
+      "state": "SC",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 95000.0,
+    "gap_usd": -35160.0
+  }
+}

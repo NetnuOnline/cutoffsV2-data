@@ -1,0 +1,203 @@
+{
+  "slug": "humana",
+  "canonical_name": "Humana, Inc.",
+  "fein": "61-0647538",
+  "lca_filing_count": 435,
+  "lca_worker_positions": 427,
+  "warn_notice_count": 0,
+  "median_wage_usd": 135000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 34,
+      "median_wage_usd": 118150.0
+    },
+    {
+      "fy": 2021,
+      "filings": 59,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 52,
+      "median_wage_usd": 133750.86
+    },
+    {
+      "fy": 2023,
+      "filings": 57,
+      "median_wage_usd": 141750.0
+    },
+    {
+      "fy": 2024,
+      "filings": 56,
+      "median_wage_usd": 144160.5
+    },
+    {
+      "fy": 2025,
+      "filings": 78,
+      "median_wage_usd": 134971.0
+    },
+    {
+      "fy": 2026,
+      "filings": 91,
+      "median_wage_usd": 137743.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Software Engineer",
+      "count": 70,
+      "median_wage_usd": 128000.0
+    },
+    {
+      "title": "Lead Technology Leadership Professional",
+      "count": 21,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "title": "Lead Cloud Architect",
+      "count": 20,
+      "median_wage_usd": 152984.0
+    },
+    {
+      "title": "Lead Application Architect",
+      "count": 16,
+      "median_wage_usd": 150434.625
+    },
+    {
+      "title": "Senior Application Architect",
+      "count": 16,
+      "median_wage_usd": 135130.49
+    },
+    {
+      "title": "Senior Cloud Solutions Engineer",
+      "count": 15,
+      "median_wage_usd": 140275.0
+    },
+    {
+      "title": "Senior Technology Leadership Professional",
+      "count": 13,
+      "median_wage_usd": 126314.75
+    },
+    {
+      "title": "Senior Full Stack Engineer",
+      "count": 13,
+      "median_wage_usd": 130645.0
+    },
+    {
+      "title": "Lead Software Engineer",
+      "count": 12,
+      "median_wage_usd": 141605.0
+    },
+    {
+      "title": "Senior Data Scientist",
+      "count": 10,
+      "median_wage_usd": 142627.5
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "KY",
+      "county": "JEFFERSON",
+      "count": 134
+    },
+    {
+      "state": "MA",
+      "county": "BOSTON CITY",
+      "count": 10
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 10
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 7
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 6
+    },
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 6
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 6
+    },
+    {
+      "state": "FL",
+      "county": "HILLSBOROUGH",
+      "count": 4
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 4
+    },
+    {
+      "state": "WI",
+      "county": "BROWN",
+      "count": 4
+    }
+  ],
+  "top_states": [
+    {
+      "state": "KY",
+      "count": 200
+    },
+    {
+      "state": "TX",
+      "count": 65
+    },
+    {
+      "state": "CA",
+      "count": 21
+    },
+    {
+      "state": "NC",
+      "count": 15
+    },
+    {
+      "state": "MA",
+      "count": 13
+    },
+    {
+      "state": "FL",
+      "count": 12
+    },
+    {
+      "state": "GA",
+      "count": 10
+    },
+    {
+      "state": "IL",
+      "count": 9
+    },
+    {
+      "state": "NJ",
+      "count": 8
+    },
+    {
+      "state": "WA",
+      "count": 8
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 133394.86,
+    "gap_usd": 3234.86
+  }
+}

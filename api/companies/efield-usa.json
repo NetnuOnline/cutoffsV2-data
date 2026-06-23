@@ -1,0 +1,40 @@
+{
+  "slug": "efield-usa",
+  "canonical_name": "Efield USA Inc",
+  "fein": "38-4006216",
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 79456.0,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 79456.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Data Analyst",
+      "count": 2,
+      "median_wage_usd": 79456.0
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 79456.0,
+    "gap_usd": -28564.0
+  }
+}

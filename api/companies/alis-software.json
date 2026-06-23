@@ -1,0 +1,67 @@
+{
+  "slug": "alis-software",
+  "canonical_name": "ALIS Software LLC",
+  "fein": "46-4411948",
+  "lca_filing_count": 5,
+  "lca_worker_positions": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 135000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 128960.0
+    },
+    {
+      "fy": 2022,
+      "filings": 3,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 168000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Applications Architect",
+      "count": 3,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "title": "Project Manager",
+      "count": 1,
+      "median_wage_usd": 168000.0
+    },
+    {
+      "title": "Big Data Consultant",
+      "count": 1,
+      "median_wage_usd": 128960.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 4
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 5
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 135000.0,
+    "gap_usd": 4840.0
+  }
+}

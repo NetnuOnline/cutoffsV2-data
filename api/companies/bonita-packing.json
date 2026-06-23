@@ -1,0 +1,65 @@
+{
+  "slug": "bonita-packing",
+  "canonical_name": "Bonita Packing Co.",
+  "fein": "95-0561546",
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 155174.5,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 155174.5
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer, Sr.",
+      "count": 2,
+      "median_wage_usd": 155174.5
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 2,
+    "continuing_denials": 0,
+    "total_approvals": 2,
+    "by_fy": [
+      {
+        "fy": 2020,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 155174.5,
+    "gap_usd": 47154.5
+  }
+}

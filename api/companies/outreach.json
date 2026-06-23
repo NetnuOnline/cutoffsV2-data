@@ -1,0 +1,134 @@
+{
+  "slug": "outreach",
+  "canonical_name": "Outreach Corporation",
+  "fein": "45-0914779",
+  "lca_filing_count": 17,
+  "lca_worker_positions": 17,
+  "warn_notice_count": 0,
+  "median_wage_usd": 180000.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 8,
+      "median_wage_usd": 192500.0
+    },
+    {
+      "fy": 2022,
+      "filings": 5,
+      "median_wage_usd": 168709.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 215000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 194576.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Software Engineer (BackEnd)",
+      "count": 2,
+      "median_wage_usd": 168709.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 2,
+      "median_wage_usd": 164006.5
+    },
+    {
+      "title": "Product Pricing Strategy Director",
+      "count": 2,
+      "median_wage_usd": 215000.0
+    },
+    {
+      "title": "Director of Product Management, Enterprise Data Platform",
+      "count": 1,
+      "median_wage_usd": 270000.0
+    },
+    {
+      "title": "Senior Staff Data Scientist",
+      "count": 1,
+      "median_wage_usd": 220000.0
+    },
+    {
+      "title": "Staff Software Engineer",
+      "count": 1,
+      "median_wage_usd": 205000.0
+    },
+    {
+      "title": "Project Manager, Professional Services",
+      "count": 1,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "title": "Senior Staff Software Engineer",
+      "count": 1,
+      "median_wage_usd": 209152.0
+    },
+    {
+      "title": "Senior Staff Applied Scientist",
+      "count": 1,
+      "median_wage_usd": 230000.0
+    },
+    {
+      "title": "Senior Data Scientist",
+      "count": 1,
+      "median_wage_usd": 152750.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 12
+    },
+    {
+      "state": "CA",
+      "county": "SAN DIEGO",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "county": "OAKLAND",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SAN MATEO",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "WA",
+      "count": 13
+    },
+    {
+      "state": "CA",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 168709.0,
+    "gap_usd": 38549.0
+  }
+}

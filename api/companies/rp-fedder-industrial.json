@@ -1,0 +1,43 @@
+{
+  "slug": "rp-fedder-industrial",
+  "canonical_name": "R.P. Fedder Industrial, LLC",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "09/05/2024",
+      "effective_date": "12/06/2024",
+      "state": "NY",
+      "workers": 25,
+      "city": "Rochester"
+    },
+    {
+      "date": "09/05/2024",
+      "effective_date": "12/06/2024",
+      "state": "NY",
+      "workers": 25,
+      "city": null
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "monroe-county-lwia",
+      "name": "Monroe County LWIA",
+      "state": "NY"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

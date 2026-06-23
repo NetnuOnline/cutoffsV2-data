@@ -1,0 +1,115 @@
+{
+  "slug": "envision-physician-services",
+  "canonical_name": "Envision Physician Services, LLC",
+  "fein": "82-3024963",
+  "lca_filing_count": 9,
+  "lca_worker_positions": 9,
+  "warn_notice_count": 0,
+  "median_wage_usd": 146730.04,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 300000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 180000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 4,
+      "median_wage_usd": 136401.02000000002
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 126072.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Architect Software IV",
+      "count": 2,
+      "median_wage_usd": 180000.0
+    },
+    {
+      "title": "Chief Financial Officer",
+      "count": 1,
+      "median_wage_usd": 300000.0
+    },
+    {
+      "title": "Analyst Business Systems III",
+      "count": 1,
+      "median_wage_usd": 126072.0
+    },
+    {
+      "title": "Manager IT Data Engineering",
+      "count": 1,
+      "median_wage_usd": 164046.58
+    },
+    {
+      "title": "Data Engineer II",
+      "count": 1,
+      "median_wage_usd": 121767.28
+    },
+    {
+      "title": "Manager IT Data",
+      "count": 1,
+      "median_wage_usd": 146730.04
+    },
+    {
+      "title": "Analyst IT QA II",
+      "count": 1,
+      "median_wage_usd": 102107.0
+    },
+    {
+      "title": "Analyst IT Business",
+      "count": 1,
+      "median_wage_usd": 126072.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NC",
+      "county": "WAKE",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 4
+    },
+    {
+      "state": "FL",
+      "count": 4
+    },
+    {
+      "state": "NC",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 180000.0,
+    "gap_usd": 49840.0
+  }
+}

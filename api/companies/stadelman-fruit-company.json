@@ -1,0 +1,43 @@
+{
+  "slug": "stadelman-fruit-company",
+  "canonical_name": "Stadelman Fruit Company",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "WA",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "10/17/2022",
+      "effective_date": "11/15/2022",
+      "state": "WA",
+      "workers": 381,
+      "city": "Zillah"
+    },
+    {
+      "date": "07/26/2021",
+      "effective_date": "08/31/2021",
+      "state": "WA",
+      "workers": 120,
+      "city": "Zillah"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "central-washington-wib",
+      "name": "Central Washington WIB",
+      "state": "WA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

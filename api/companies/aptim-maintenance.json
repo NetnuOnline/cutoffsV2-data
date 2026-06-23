@@ -1,0 +1,93 @@
+{
+  "slug": "aptim-maintenance",
+  "canonical_name": "Aptim Maintenance",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 5,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 3
+    },
+    {
+      "state": "LA",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/27/2020",
+      "state": "LA",
+      "workers": 122,
+      "city": "Cameron"
+    },
+    {
+      "date": "05/24/2019",
+      "effective_date": "05/23/2019",
+      "state": "LA",
+      "workers": 344,
+      "city": "Westlake"
+    },
+    {
+      "date": "02/16/2018",
+      "effective_date": "02/28/2018",
+      "state": "TX",
+      "workers": 327,
+      "city": "Deer Park"
+    },
+    {
+      "date": "02/01/2018",
+      "effective_date": "02/28/2018",
+      "state": "TX",
+      "workers": 221,
+      "city": "Gregory"
+    },
+    {
+      "date": "11/08/2017",
+      "effective_date": "12/03/2017",
+      "state": "TX",
+      "workers": 103,
+      "city": "Texas City"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "calcasieu-parish-consortium-wia",
+      "name": "Calcasieu Parish Consortium WIA",
+      "state": "LA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 2,
+    "continuing_denials": 0,
+    "total_approvals": 2,
+    "by_fy": [
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      }
+    ]
+  }
+}

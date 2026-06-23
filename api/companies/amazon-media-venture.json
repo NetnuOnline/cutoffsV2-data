@@ -1,0 +1,100 @@
+{
+  "slug": "amazon-media-venture",
+  "canonical_name": "Amazon Media Venture LLC",
+  "fein": "87-3314334",
+  "lca_filing_count": 9,
+  "lca_worker_positions": 21,
+  "warn_notice_count": 0,
+  "median_wage_usd": 160550.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 7,
+      "median_wage_usd": 160000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 178300.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Development Engineer I",
+      "count": 3,
+      "median_wage_usd": 115586.0
+    },
+    {
+      "title": "Software Dev Engineer II",
+      "count": 2,
+      "median_wage_usd": 178300.0
+    },
+    {
+      "title": "Software Development Engineer II",
+      "count": 2,
+      "median_wage_usd": 160550.0
+    },
+    {
+      "title": "Product Manager III - Technical",
+      "count": 1,
+      "median_wage_usd": 125486.0
+    },
+    {
+      "title": "Data Engineer II",
+      "count": 1,
+      "median_wage_usd": 163000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "FORT BEND",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 6
+    },
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "WA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 160550.0,
+    "gap_usd": 30390.0
+  }
+}

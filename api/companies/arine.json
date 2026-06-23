@@ -1,0 +1,64 @@
+{
+  "slug": "arine",
+  "canonical_name": "Arine Inc.",
+  "fein": "82-3168049",
+  "lca_filing_count": 4,
+  "lca_worker_positions": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 180970.0,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 159195.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 180970.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Manager of Data Engineering",
+      "count": 2,
+      "median_wage_usd": 198390.0
+    },
+    {
+      "title": "Sr. DevOps Engineer",
+      "count": 1,
+      "median_wage_usd": 163550.0
+    },
+    {
+      "title": "Data Engineer",
+      "count": 1,
+      "median_wage_usd": 120000.0
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "WA",
+      "count": 2
+    },
+    {
+      "state": "MO",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3021",
+    "soc_title": "Computer and Information Systems Managers",
+    "market_median_usd": 169510.0,
+    "employer_median_usd": 198390.0,
+    "gap_usd": 28880.0
+  }
+}

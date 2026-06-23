@@ -1,0 +1,47 @@
+{
+  "slug": "ag-processing",
+  "canonical_name": "Ag Processing Inc.",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "NE",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "02/01/2013",
+      "effective_date": "02/01/2013",
+      "state": "NE",
+      "workers": 43,
+      "city": "Hastings"
+    },
+    {
+      "date": "02/12/2001",
+      "effective_date": "04/17/2001",
+      "state": "TX",
+      "workers": 97,
+      "city": "Sherman"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "texoma-wda",
+      "name": "Texoma WDA",
+      "state": "TX"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

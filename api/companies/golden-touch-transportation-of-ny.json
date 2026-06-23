@@ -1,0 +1,54 @@
+{
+  "slug": "golden-touch-transportation-of-ny",
+  "canonical_name": "Golden Touch Transportation of NY, Inc.",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 3,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "09/30/2020",
+      "effective_date": "09/30/2020",
+      "state": "NJ",
+      "workers": 150,
+      "city": "Newark"
+    },
+    {
+      "date": "06/20/2020",
+      "effective_date": "09/30/2020",
+      "state": "NY",
+      "workers": 202,
+      "city": "Queens, Springfield Gardens, Astoria"
+    },
+    {
+      "date": "04/06/2018",
+      "effective_date": "07/06/2018",
+      "state": "NY",
+      "workers": 178,
+      "city": "Astoria"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "essex-wib",
+      "name": "Essex WIB",
+      "state": "NJ"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

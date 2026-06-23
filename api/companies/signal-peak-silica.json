@@ -1,0 +1,54 @@
+{
+  "slug": "signal-peak-silica",
+  "canonical_name": "Signal Peak Silica",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 3,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "OK",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "04/23/2020",
+      "effective_date": "06/12/2020",
+      "state": "TX",
+      "workers": 72,
+      "city": "Poteet"
+    },
+    {
+      "date": "04/14/2020",
+      "effective_date": "04/14/2020",
+      "state": "TX",
+      "workers": 37,
+      "city": "Monahans"
+    },
+    {
+      "date": "03/30/2020",
+      "effective_date": "03/30/2020",
+      "state": "OK",
+      "workers": 87,
+      "city": null
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "permian-basin-wda",
+      "name": "Permian Basin WDA",
+      "state": "TX"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

@@ -1,0 +1,179 @@
+{
+  "slug": "21-staff",
+  "canonical_name": "21 Staff, LLC.",
+  "fein": "81-4083144",
+  "lca_filing_count": 17,
+  "lca_worker_positions": 17,
+  "warn_notice_count": 0,
+  "median_wage_usd": 93000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 88000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 5,
+      "median_wage_usd": 85000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 83000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 89000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 99091.0
+    },
+    {
+      "fy": 2026,
+      "filings": 6,
+      "median_wage_usd": 95000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Identity Access Management Engineer",
+      "count": 3,
+      "median_wage_usd": 99091.0
+    },
+    {
+      "title": "Security Engineer",
+      "count": 3,
+      "median_wage_usd": 80600.0
+    },
+    {
+      "title": "Identity and Access Management Engineer",
+      "count": 2,
+      "median_wage_usd": 86486.0
+    },
+    {
+      "title": "GCP Kubernetes Engineer",
+      "count": 2,
+      "median_wage_usd": 103500.0
+    },
+    {
+      "title": "Information Security Engineer",
+      "count": 1,
+      "median_wage_usd": 83000.0
+    },
+    {
+      "title": "Forgerock  Developer",
+      "count": 1,
+      "median_wage_usd": 94307.0
+    },
+    {
+      "title": "I AM Engineer",
+      "count": 1,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "title": "IT SECURITY ENGINEER",
+      "count": 1,
+      "median_wage_usd": 88000.0
+    },
+    {
+      "title": "Identity And Access Management Engineer",
+      "count": 1,
+      "median_wage_usd": 85000.0
+    },
+    {
+      "title": "CyberArk Administrator",
+      "count": 1,
+      "median_wage_usd": 93000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MD",
+      "county": "MONTGOMERY",
+      "count": 4
+    },
+    {
+      "state": "MO",
+      "county": "ST LOUIS",
+      "count": 2
+    },
+    {
+      "state": "MN",
+      "county": "HENNEPIN",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "county": "PALM BEACH",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "ORANGE",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 1
+    },
+    {
+      "state": "MO",
+      "county": "ST CHARLES",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MD",
+      "count": 4
+    },
+    {
+      "state": "TX",
+      "count": 3
+    },
+    {
+      "state": "MO",
+      "count": 3
+    },
+    {
+      "state": "IL",
+      "count": 2
+    },
+    {
+      "state": "MI",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "NH",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "count": 1
+    },
+    {
+      "state": "MN",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1244",
+    "soc_title": "Network and Computer Systems Administrators",
+    "market_median_usd": 95000.0,
+    "employer_median_usd": 98045.5,
+    "gap_usd": 3045.5
+  }
+}

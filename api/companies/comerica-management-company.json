@@ -1,0 +1,173 @@
+{
+  "slug": "comerica-management-company",
+  "canonical_name": "Comerica Management Company",
+  "fein": "38-3317682",
+  "lca_filing_count": 48,
+  "lca_worker_positions": 48,
+  "warn_notice_count": 0,
+  "median_wage_usd": 132500.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 102946.29000000001
+    },
+    {
+      "fy": 2021,
+      "filings": 4,
+      "median_wage_usd": 105308.37
+    },
+    {
+      "fy": 2022,
+      "filings": 12,
+      "median_wage_usd": 128000.08
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 115668.195
+    },
+    {
+      "fy": 2024,
+      "filings": 7,
+      "median_wage_usd": 151300.0
+    },
+    {
+      "fy": 2025,
+      "filings": 11,
+      "median_wage_usd": 152000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 10,
+      "median_wage_usd": 139450.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Principal Engineer",
+      "count": 10,
+      "median_wage_usd": 149000.0
+    },
+    {
+      "title": "Senior Staff Engineer",
+      "count": 10,
+      "median_wage_usd": 127250.04000000001
+    },
+    {
+      "title": "Sr. Staff Engineer",
+      "count": 5,
+      "median_wage_usd": 127400.0
+    },
+    {
+      "title": "Manager Technology",
+      "count": 3,
+      "median_wage_usd": 165000.0
+    },
+    {
+      "title": "Model Risk Officer Assistant",
+      "count": 2,
+      "median_wage_usd": 84946.38
+    },
+    {
+      "title": "Quantitative Financial Analytics Officer III",
+      "count": 2,
+      "median_wage_usd": 128202.5
+    },
+    {
+      "title": "Domain Architect",
+      "count": 2,
+      "median_wage_usd": 197500.07
+    },
+    {
+      "title": "Principal Product Manager",
+      "count": 1,
+      "median_wage_usd": 190000.2
+    },
+    {
+      "title": "Senior Manager SOX IT",
+      "count": 1,
+      "median_wage_usd": 180000.08
+    },
+    {
+      "title": "Automation Test Engineer III",
+      "count": 1,
+      "median_wage_usd": 150000.24
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MI",
+      "county": "OAKLAND",
+      "count": 11
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 6
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 5
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 3
+    },
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 1
+    },
+    {
+      "state": "CT",
+      "county": "FARMINGTON",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "county": "DUPAGE",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SAN JOAQUIN",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 24
+    },
+    {
+      "state": "MI",
+      "count": 20
+    },
+    {
+      "state": "CA",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "count": 1
+    },
+    {
+      "state": "CT",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 135456.08,
+    "gap_usd": 5296.08
+  }
+}

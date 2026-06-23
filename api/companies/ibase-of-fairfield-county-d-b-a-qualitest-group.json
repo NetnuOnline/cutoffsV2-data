@@ -1,0 +1,74 @@
+{
+  "slug": "ibase-of-fairfield-county-d-b-a-qualitest-group",
+  "canonical_name": "Ibase of Fairfield County, LLC (d/b/a Qualitest Group)",
+  "fein": null,
+  "lca_filing_count": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 100000.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 6,
+      "median_wage_usd": 100000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Engineer",
+      "count": 4,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "title": "Engineer - Quality SLS",
+      "count": 1,
+      "median_wage_usd": 75234.0
+    },
+    {
+      "title": "Business Analyst",
+      "count": 1,
+      "median_wage_usd": 89000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 4
+    },
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "county": "POLK",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "WA",
+      "count": 4
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 6,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1253",
+    "soc_title": "Software Quality Assurance Analysts and Testers",
+    "market_median_usd": 101800.0,
+    "employer_median_usd": 100000.0,
+    "gap_usd": -1800.0
+  }
+}

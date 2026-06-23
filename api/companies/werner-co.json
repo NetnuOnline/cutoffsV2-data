@@ -1,0 +1,85 @@
+{
+  "slug": "werner-co",
+  "canonical_name": "Werner Co.",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 5,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "FL",
+      "count": 1
+    },
+    {
+      "state": "KY",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "count": 1
+    },
+    {
+      "state": "AL",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "07/31/2019",
+      "effective_date": "09/19/2019",
+      "state": "FL",
+      "workers": 31,
+      "city": "PENSACOLA"
+    },
+    {
+      "date": "08/20/2018",
+      "effective_date": "10/09/2019",
+      "state": "KY",
+      "workers": 118,
+      "city": "Jefferson County - Louisville"
+    },
+    {
+      "date": "11/02/2012",
+      "effective_date": "12/31/2012",
+      "state": "TX",
+      "workers": 62,
+      "city": "Socorro"
+    },
+    {
+      "date": "09/12/2006",
+      "effective_date": "11/01/2006",
+      "state": "IL",
+      "workers": 230,
+      "city": "10800 West Belmont Avenue  Franklin Park, IL 60131"
+    },
+    {
+      "date": "02/17/2004",
+      "effective_date": "04/30/2004",
+      "state": "AL",
+      "workers": 530,
+      "city": "Anniston"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "careersource-escarosa",
+      "name": "CareerSource Escarosa",
+      "state": "FL"
+    },
+    {
+      "slug": "c-greater-louisville-wib",
+      "name": "C Greater Louisville WIB",
+      "state": "KY"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

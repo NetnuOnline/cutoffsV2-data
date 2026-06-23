@@ -1,0 +1,134 @@
+{
+  "slug": "people-center",
+  "canonical_name": "People Center, Inc.",
+  "fein": null,
+  "lca_filing_count": 59,
+  "warn_notice_count": 0,
+  "median_wage_usd": 225000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 169562.0
+    },
+    {
+      "fy": 2021,
+      "filings": 13,
+      "median_wage_usd": 175000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 21,
+      "median_wage_usd": 250000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 23,
+      "median_wage_usd": 247200.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 24,
+      "median_wage_usd": 213000.0
+    },
+    {
+      "title": "Engineering Manager",
+      "count": 7,
+      "median_wage_usd": 300000.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 4,
+      "median_wage_usd": 255000.0
+    },
+    {
+      "title": "Staff Software Engineer",
+      "count": 4,
+      "median_wage_usd": 290000.0
+    },
+    {
+      "title": "Senior Engineering Manager, Infrastructure",
+      "count": 2,
+      "median_wage_usd": 300000.0
+    },
+    {
+      "title": "Data Scientist, Analytics",
+      "count": 2,
+      "median_wage_usd": 145019.0
+    },
+    {
+      "title": "Security Engineer",
+      "count": 2,
+      "median_wage_usd": 227500.0
+    },
+    {
+      "title": "Product Designer",
+      "count": 2,
+      "median_wage_usd": 182281.0
+    },
+    {
+      "title": "Strategic Finance Lead, Customer Experience",
+      "count": 1,
+      "median_wage_usd": 165000.0
+    },
+    {
+      "title": "Senior Segment GTM Manager",
+      "count": 1,
+      "median_wage_usd": 230000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 39
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 11
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 7
+    },
+    {
+      "state": "NY",
+      "county": "QUEENS",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SACRAMENTO",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 40
+    },
+    {
+      "state": "WA",
+      "count": 11
+    },
+    {
+      "state": "NY",
+      "count": 8
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 83,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 250000.0,
+    "gap_usd": 119840.0
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "slug": "amadeus-hospitality",
+  "canonical_name": "Amadeus Hospitality, Inc.",
+  "fein": "36-4300213",
+  "lca_filing_count": 10,
+  "lca_worker_positions": 10,
+  "warn_notice_count": 0,
+  "median_wage_usd": 138729.5,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 4,
+      "median_wage_usd": 124888.0
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 155000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 143897.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Sr. Software Engineer",
+      "count": 2,
+      "median_wage_usd": 124888.0
+    },
+    {
+      "title": "Technical Business Analyst",
+      "count": 1,
+      "median_wage_usd": 112641.0
+    },
+    {
+      "title": "QA Engineer",
+      "count": 1,
+      "median_wage_usd": 103731.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 1,
+      "median_wage_usd": 137005.0
+    },
+    {
+      "title": "Senior Platform Engineering Engineer",
+      "count": 1,
+      "median_wage_usd": 168920.0
+    },
+    {
+      "title": "Associate Manager, QA",
+      "count": 1,
+      "median_wage_usd": 140454.0
+    },
+    {
+      "title": "Manager, Contract Management",
+      "count": 1,
+      "median_wage_usd": 182312.0
+    },
+    {
+      "title": "Principal Engineer",
+      "count": 1,
+      "median_wage_usd": 155000.0
+    },
+    {
+      "title": "Salesforce Lead Developer",
+      "count": 1,
+      "median_wage_usd": 143897.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TN",
+      "county": "DAVIDSON",
+      "count": 2
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 1
+    },
+    {
+      "state": "NH",
+      "county": "PORTSMOUTH CITY",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TN",
+      "count": 2
+    },
+    {
+      "state": "GA",
+      "count": 2
+    },
+    {
+      "state": "NY",
+      "count": 2
+    },
+    {
+      "state": "NH",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 143897.0,
+    "gap_usd": 13737.0
+  }
+}

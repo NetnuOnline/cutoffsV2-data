@@ -1,0 +1,202 @@
+{
+  "slug": "marsh-mclennan-shared-services",
+  "canonical_name": "Marsh & McLennan Shared Services LLC",
+  "fein": "45-3910234",
+  "lca_filing_count": 43,
+  "warn_notice_count": 0,
+  "median_wage_usd": 128315.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 100651.0
+    },
+    {
+      "fy": 2021,
+      "filings": 7,
+      "median_wage_usd": 94349.0
+    },
+    {
+      "fy": 2022,
+      "filings": 11,
+      "median_wage_usd": 126200.0
+    },
+    {
+      "fy": 2023,
+      "filings": 8,
+      "median_wage_usd": 139132.0
+    },
+    {
+      "fy": 2024,
+      "filings": 5,
+      "median_wage_usd": 149781.0
+    },
+    {
+      "fy": 2025,
+      "filings": 10,
+      "median_wage_usd": 152799.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Data Analyst",
+      "count": 2,
+      "median_wage_usd": 128003.0
+    },
+    {
+      "title": "Sr Specialist\u2013Data Engineering (BI Analytics Reporting Lead)",
+      "count": 2,
+      "median_wage_usd": 133000.0
+    },
+    {
+      "title": "Business Data Analyst",
+      "count": 2,
+      "median_wage_usd": 76960.0
+    },
+    {
+      "title": "Sr Mgr \u2013Applications Development(FIS Lead Business Analyst)",
+      "count": 2,
+      "median_wage_usd": 126200.0
+    },
+    {
+      "title": "Senior Specialist - Data Engineering",
+      "count": 2,
+      "median_wage_usd": 123016.0
+    },
+    {
+      "title": "Senior Applications Developer",
+      "count": 2,
+      "median_wage_usd": 153400.0
+    },
+    {
+      "title": "Lead Data Scientist ",
+      "count": 2,
+      "median_wage_usd": 138800.0
+    },
+    {
+      "title": "Lead Specialist - Digital Exp & App Dev Engineer",
+      "count": 2,
+      "median_wage_usd": 143416.0
+    },
+    {
+      "title": "SharePoint/QA Analyst",
+      "count": 2,
+      "median_wage_usd": 94349.0
+    },
+    {
+      "title": "Senior HRIS BI & Analytics Specialist",
+      "count": 2,
+      "median_wage_usd": 100651.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NJ",
+      "county": "HUDSON",
+      "count": 12
+    },
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 4
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 4
+    },
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "county": "MORRIS",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "county": "MIDDLESEX",
+      "count": 2
+    },
+    {
+      "state": "NC",
+      "county": "WAKE",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "county": "BERGEN",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 20
+    },
+    {
+      "state": "TX",
+      "count": 9
+    },
+    {
+      "state": "NY",
+      "count": 7
+    },
+    {
+      "state": "AZ",
+      "count": 6
+    },
+    {
+      "state": "NC",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 2,
+    "initial_denials": 0,
+    "continuing_approvals": 24,
+    "continuing_denials": 0,
+    "total_approvals": 26,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 9,
+        "continuing_denials": 0,
+        "total_approvals": 11
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 15,
+        "continuing_denials": 0,
+        "total_approvals": 15
+      }
+    ]
+  },
+  "lca_worker_positions": 43,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 145700.0,
+    "gap_usd": 15540.0
+  }
+}

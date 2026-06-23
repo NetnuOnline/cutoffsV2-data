@@ -1,0 +1,60 @@
+{
+  "slug": "talcott-resolution-life",
+  "canonical_name": "Talcott Resolution Life, Inc.",
+  "fein": "06-1470915",
+  "lca_filing_count": 2,
+  "warn_notice_count": 1,
+  "median_wage_usd": 125000.0,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 125000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "Director - Asset Modeling",
+      "count": 1,
+      "median_wage_usd": 140000.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "CT",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "01/01/2026",
+      "effective_date": "04/24/2026",
+      "state": "CT",
+      "workers": 101,
+      "city": "Hartford"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "north-central-wia-ct",
+      "name": "North Central WIA",
+      "state": "CT"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": []
+}

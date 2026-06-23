@@ -1,0 +1,118 @@
+{
+  "slug": "shake-shack-enterprises",
+  "canonical_name": "Shake Shack Enterprises",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 9,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 7
+    },
+    {
+      "state": "NY",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "11/25/2025",
+      "effective_date": "12/18/2025",
+      "state": "CA",
+      "workers": 26,
+      "city": "San Francisco"
+    },
+    {
+      "date": "08/26/2024",
+      "effective_date": "08/27/2024",
+      "state": "CA",
+      "workers": 24,
+      "city": "Canoga Park"
+    },
+    {
+      "date": "08/26/2024",
+      "effective_date": "08/27/2024",
+      "state": "CA",
+      "workers": 18,
+      "city": "Los Angeles"
+    },
+    {
+      "date": "08/26/2024",
+      "effective_date": "08/27/2024",
+      "state": "CA",
+      "workers": 20,
+      "city": "Los Angeles"
+    },
+    {
+      "date": "08/26/2024",
+      "effective_date": "08/27/2024",
+      "state": "CA",
+      "workers": 24,
+      "city": "Culver City"
+    },
+    {
+      "date": "08/26/2024",
+      "effective_date": "08/27/2024",
+      "state": "CA",
+      "workers": 18,
+      "city": "Los Angeles"
+    },
+    {
+      "date": "08/26/2024",
+      "effective_date": "08/27/2024",
+      "state": "CA",
+      "workers": 32,
+      "city": "Oakland"
+    },
+    {
+      "date": "04/17/2020",
+      "effective_date": "03/19/2020",
+      "state": "NY",
+      "workers": 62,
+      "city": "Central Valley"
+    },
+    {
+      "date": "04/17/2020",
+      "effective_date": "03/17/2020",
+      "state": "NY",
+      "workers": 40,
+      "city": "New York"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "san-francisco-citycounty-wib",
+      "name": "San Francisco City/County WIB",
+      "state": "CA"
+    },
+    {
+      "slug": "orange-county-lwia",
+      "name": "Orange County LWIA",
+      "state": "NY"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 1,
+    "continuing_denials": 0,
+    "total_approvals": 1,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  }
+}

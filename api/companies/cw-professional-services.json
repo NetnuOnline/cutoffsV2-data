@@ -1,0 +1,222 @@
+{
+  "slug": "cw-professional-services",
+  "canonical_name": "CW Professional Services LLC",
+  "fein": "46-4553320",
+  "lca_filing_count": 32,
+  "warn_notice_count": 0,
+  "median_wage_usd": 112647.6,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 6,
+      "median_wage_usd": 109830.5
+    },
+    {
+      "fy": 2021,
+      "filings": 7,
+      "median_wage_usd": 114404.0
+    },
+    {
+      "fy": 2022,
+      "filings": 5,
+      "median_wage_usd": 95715.0
+    },
+    {
+      "fy": 2023,
+      "filings": 8,
+      "median_wage_usd": 106397.6
+    },
+    {
+      "fy": 2024,
+      "filings": 4,
+      "median_wage_usd": 125662.08
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 109246.17
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Consultant- Business Analysis",
+      "count": 4,
+      "median_wage_usd": 114404.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 3,
+      "median_wage_usd": 107161.0
+    },
+    {
+      "title": "Senior Consultant / Programmer",
+      "count": 2,
+      "median_wage_usd": 116684.0
+    },
+    {
+      "title": "Consultant BI and Analytics",
+      "count": 2,
+      "median_wage_usd": 87194.0
+    },
+    {
+      "title": "Validation Test Engineer, Connected Solutions",
+      "count": 2,
+      "median_wage_usd": 64477.58
+    },
+    {
+      "title": "Senior Consultant \u2013 Quality Assurance",
+      "count": 1,
+      "median_wage_usd": 104062.0
+    },
+    {
+      "title": "WebSphere Administrator",
+      "count": 1,
+      "median_wage_usd": 120600.0
+    },
+    {
+      "title": "Architect IoT Development",
+      "count": 1,
+      "median_wage_usd": 115556.0
+    },
+    {
+      "title": "Senior Telematics Architect",
+      "count": 1,
+      "median_wage_usd": 112500.0
+    },
+    {
+      "title": "Principal Architect",
+      "count": 1,
+      "median_wage_usd": 165360.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MI",
+      "county": "OAKLAND",
+      "count": 15
+    },
+    {
+      "state": "MI",
+      "county": "WAYNE",
+      "count": 3
+    },
+    {
+      "state": "OH",
+      "county": "HAMILTON",
+      "count": 2
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 2
+    },
+    {
+      "state": "MD",
+      "county": "ANNE ARUNDEL",
+      "count": 2
+    },
+    {
+      "state": "OH",
+      "county": "DELAWARE",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "county": "INGHAM",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    },
+    {
+      "state": "WI",
+      "county": "MILWAUKEE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MI",
+      "count": 21
+    },
+    {
+      "state": "OH",
+      "count": 4
+    },
+    {
+      "state": "MD",
+      "count": 2
+    },
+    {
+      "state": "WA",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "WI",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 8,
+    "initial_denials": 1,
+    "continuing_approvals": 48,
+    "continuing_denials": 2,
+    "total_approvals": 56,
+    "by_fy": [
+      {
+        "fy": 2016,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 8,
+        "initial_denials": 1,
+        "continuing_approvals": 20,
+        "continuing_denials": 1,
+        "total_approvals": 28
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 22,
+        "continuing_denials": 0,
+        "total_approvals": 22
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 6,
+        "continuing_denials": 1,
+        "total_approvals": 6
+      }
+    ]
+  },
+  "lca_worker_positions": 31,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 106654.08,
+    "gap_usd": -23505.92
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "motts-llp",
+  "canonical_name": "Mott's LLP",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 1,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "10/01/2021",
+      "effective_date": "10/01/2021",
+      "state": "NJ",
+      "workers": 51,
+      "city": "Avenel"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "middlesex-wib",
+      "name": "Middlesex WIB",
+      "state": "NJ"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

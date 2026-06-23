@@ -1,0 +1,84 @@
+{
+  "slug": "levy",
+  "canonical_name": "Levy",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 6,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "FL",
+      "count": 3
+    },
+    {
+      "state": "MO",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "07/09/2025",
+      "effective_date": "09/10/2025",
+      "state": "CA",
+      "workers": 276,
+      "city": "Los Angeles"
+    },
+    {
+      "date": "06/29/2020",
+      "effective_date": "08/01/2020",
+      "state": "FL",
+      "workers": 422,
+      "city": "SAINT PETERSBURG"
+    },
+    {
+      "date": "06/29/2020",
+      "effective_date": "08/01/2020",
+      "state": "FL",
+      "workers": 587,
+      "city": "MIAMI"
+    },
+    {
+      "date": "06/29/2020",
+      "effective_date": "08/01/2020",
+      "state": "FL",
+      "workers": 448,
+      "city": "ORLANDO"
+    },
+    {
+      "date": "06/24/2020",
+      "effective_date": "08/01/2020",
+      "state": "MO",
+      "workers": 210,
+      "city": "St. Louis"
+    },
+    {
+      "date": "06/24/2020",
+      "effective_date": "08/01/2020",
+      "state": "MO",
+      "workers": 210,
+      "city": "St. Louis (city)"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "careersource-pinellas",
+      "name": "CareerSource Pinellas",
+      "state": "FL"
+    },
+    {
+      "slug": "careersource-south-florida",
+      "name": "CareerSource South Florida",
+      "state": "FL"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

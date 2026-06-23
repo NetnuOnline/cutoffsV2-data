@@ -1,0 +1,131 @@
+{
+  "slug": "akuna-capital",
+  "canonical_name": "Akuna Capital, LLC",
+  "fein": "27-4213219",
+  "lca_filing_count": 70,
+  "lca_worker_positions": 70,
+  "warn_notice_count": 0,
+  "median_wage_usd": 130000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 10,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 15,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 7,
+      "median_wage_usd": 84094.0
+    },
+    {
+      "fy": 2023,
+      "filings": 15,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 8,
+      "median_wage_usd": 149350.0
+    },
+    {
+      "fy": 2025,
+      "filings": 9,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 6,
+      "median_wage_usd": 139050.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Developer",
+      "count": 9,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Trader",
+      "count": 8,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Quantitative Researcher",
+      "count": 8,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Quantitative Trader",
+      "count": 5,
+      "median_wage_usd": 80246.0
+    },
+    {
+      "title": "Quantitative Developer",
+      "count": 5,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Junior Trader",
+      "count": 4,
+      "median_wage_usd": 116950.0
+    },
+    {
+      "title": "Jr. Developer",
+      "count": 4,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 2,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "title": "Junior Developer",
+      "count": 2,
+      "median_wage_usd": 81744.0
+    },
+    {
+      "title": "Staff Software Engineer",
+      "count": 2,
+      "median_wage_usd": 182550.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 54
+    },
+    {
+      "state": "MA",
+      "county": "BOSTON CITY",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 69
+    },
+    {
+      "state": "MA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 150000.0,
+    "gap_usd": 19840.0
+  }
+}

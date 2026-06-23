@@ -1,0 +1,114 @@
+{
+  "slug": "mission-lane",
+  "canonical_name": "Mission lane LLC",
+  "fein": "83-2674981",
+  "lca_filing_count": 7,
+  "lca_worker_positions": 7,
+  "warn_notice_count": 0,
+  "median_wage_usd": 175000.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 3,
+      "median_wage_usd": 175000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 180227.7
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 187000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 155000.16,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 2,
+      "median_wage_usd": 175000.0
+    },
+    {
+      "title": "Senior Data Scientist",
+      "count": 1,
+      "median_wage_usd": 180473.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 1,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "title": "Data Engineer",
+      "count": 1,
+      "median_wage_usd": 155000.16
+    },
+    {
+      "title": "Sr. Data Scientist",
+      "count": 1,
+      "median_wage_usd": 179982.4
+    },
+    {
+      "title": "Staff Data Scientist",
+      "count": 1,
+      "median_wage_usd": 187000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NC",
+      "county": "DURHAM",
+      "count": 2
+    },
+    {
+      "state": "WA",
+      "county": "CLARK",
+      "count": 1
+    },
+    {
+      "state": "MO",
+      "county": "ST LOUIS",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NC",
+      "count": 3
+    },
+    {
+      "state": "MO",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 175000.0,
+    "gap_usd": 44840.0
+  }
+}

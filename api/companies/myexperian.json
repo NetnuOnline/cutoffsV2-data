@@ -1,0 +1,82 @@
+{
+  "slug": "myexperian",
+  "canonical_name": "MyExperian Inc.",
+  "fein": "81-2766753",
+  "lca_filing_count": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 136620.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 116607.6
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 141743.25
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Development Staff Engineer",
+      "count": 2,
+      "median_wage_usd": 139181.625
+    },
+    {
+      "title": "Senior Software QA Engineer",
+      "count": 1,
+      "median_wage_usd": 96595.2
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "ORANGE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 1,
+    "continuing_denials": 0,
+    "total_approvals": 1,
+    "by_fy": [
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Computer Systems Engineers/Architects",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 139181.62,
+    "gap_usd": 21181.62
+  }
+}

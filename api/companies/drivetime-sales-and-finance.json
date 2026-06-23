@@ -1,0 +1,126 @@
+{
+  "slug": "drivetime-sales-and-finance",
+  "canonical_name": "DriveTime Sales and Finance, LLC",
+  "fein": "86-0657074",
+  "lca_filing_count": 14,
+  "lca_worker_positions": 12,
+  "warn_notice_count": 0,
+  "median_wage_usd": 134294.87,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 107500.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 136500.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 167410.56
+    },
+    {
+      "fy": 2025,
+      "filings": 4,
+      "median_wage_usd": 134294.87
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 116550.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Business Intelligence Developer III",
+      "count": 3,
+      "median_wage_usd": 138589.74
+    },
+    {
+      "title": "DATABASE DEVELOPER III",
+      "count": 2,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "MANAGER, SOFTWARE ENGINEERING",
+      "count": 2,
+      "median_wage_usd": 156160.56
+    },
+    {
+      "title": "BUSINESS DEVELOPMENT ENGINEER III",
+      "count": 2,
+      "median_wage_usd": 123000.0
+    },
+    {
+      "title": "SOFTWARE ENGINEER",
+      "count": 1,
+      "median_wage_usd": 116550.0
+    },
+    {
+      "title": "Application Developer II",
+      "count": 1,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "title": "Senior Manager, Software Engineering",
+      "count": 1,
+      "median_wage_usd": 172500.0
+    },
+    {
+      "title": "Director, Software Engineering",
+      "count": 1,
+      "median_wage_usd": 186000.0
+    },
+    {
+      "title": "Business Development Engineer III",
+      "count": 1,
+      "median_wage_usd": 115000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 7
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "TARRANT",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "AZ",
+      "count": 8
+    },
+    {
+      "state": "TX",
+      "count": 6
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 150000.0,
+    "gap_usd": 19840.0
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "slug": "mike-1-hospitality",
+  "canonical_name": "Mike.1 Hospitality LLC",
+  "fein": "84-3032078",
+  "lca_filing_count": 3,
+  "lca_worker_positions": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 50877.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 45000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 50877.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 62000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Accountant",
+      "count": 3,
+      "median_wage_usd": 50877.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "ND",
+      "county": "WALSH",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "ND",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-2011",
+    "soc_title": "Accountants and Auditors",
+    "market_median_usd": 79000.0,
+    "employer_median_usd": 50877.0,
+    "gap_usd": -28123.0
+  }
+}

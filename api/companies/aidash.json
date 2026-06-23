@@ -1,0 +1,86 @@
+{
+  "slug": "aidash",
+  "canonical_name": "AiDash Inc.",
+  "fein": "83-3368842",
+  "lca_filing_count": 5,
+  "lca_worker_positions": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 166962.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 134410.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 166962.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 170000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 173545.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Product Manager",
+      "count": 2,
+      "median_wage_usd": 166962.0
+    },
+    {
+      "title": "Product Manager, Customer Success ",
+      "count": 1,
+      "median_wage_usd": 170000.0
+    },
+    {
+      "title": "Engineering Manager",
+      "count": 1,
+      "median_wage_usd": 134410.0
+    },
+    {
+      "title": "Principal Machine Learning Platform Engineer",
+      "count": 1,
+      "median_wage_usd": 180128.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 4
+    },
+    {
+      "state": "GA",
+      "county": "FORSYTH",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 4
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Information Technology Project Managers",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 166962.0,
+    "gap_usd": 48962.0
+  }
+}

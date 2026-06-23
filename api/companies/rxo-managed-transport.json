@@ -1,0 +1,118 @@
+{
+  "slug": "rxo-managed-transport",
+  "canonical_name": "RXO Managed Transport, LLC.",
+  "fein": "82-3268160",
+  "lca_filing_count": 5,
+  "warn_notice_count": 2,
+  "median_wage_usd": 99757.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 85738.0
+    },
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 99757.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 121500.08
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Principal, Business Analysis and Integration",
+      "count": 2,
+      "median_wage_usd": 103386.5
+    },
+    {
+      "title": "Engineer, Solutions Engineering",
+      "count": 1,
+      "median_wage_usd": 63357.0
+    },
+    {
+      "title": "Engineer, Software Engineer",
+      "count": 1,
+      "median_wage_usd": 85738.0
+    },
+    {
+      "title": "Lead Engineer, Solutions Engineering",
+      "count": 1,
+      "median_wage_usd": 121500.08
+    }
+  ],
+  "top_states": [
+    {
+      "state": "OH",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "OH",
+      "county": "FRANKLIN",
+      "count": 2
+    },
+    {
+      "state": "NC",
+      "county": "MECKLENBURG",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "county": "DUPAGE",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "04/02/2024",
+      "effective_date": "04/02/2024",
+      "state": "MI",
+      "workers": 114,
+      "city": "Warren"
+    },
+    {
+      "date": "03/29/2024",
+      "effective_date": "05/31/2024",
+      "state": "MI",
+      "workers": 114,
+      "city": "Warren, Michigan"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "macombst-clair-workforce-development-board-inc",
+      "name": "Macomb/St. Clair Workforce Development Board, Inc.",
+      "state": "MI"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "lca_worker_positions": 5,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Business Intelligence Analysts",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 107016.0,
+    "gap_usd": -1004.0
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "kakivik-asset-mgmt",
+  "canonical_name": "Kakivik Asset Mgmt",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 1,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "AK",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "07/02/2021",
+      "effective_date": "08/31/2021",
+      "state": "AK",
+      "workers": 134,
+      "city": "Prudhoe Bay"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "alaska-wib",
+      "name": "Alaska WIB",
+      "state": "AK"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

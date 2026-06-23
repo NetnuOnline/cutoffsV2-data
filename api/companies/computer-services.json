@@ -1,0 +1,229 @@
+{
+  "slug": "computer-services",
+  "canonical_name": "Computer Services, Inc.",
+  "fein": "61-0649699",
+  "lca_filing_count": 9,
+  "warn_notice_count": 0,
+  "median_wage_usd": 98821.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 71906.0
+    },
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 87766.0
+    },
+    {
+      "fy": 2022,
+      "filings": 4,
+      "median_wage_usd": 98862.5
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 110136.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 114754.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 85842.0
+    },
+    {
+      "title": "QA Automation and Performance Engineer ",
+      "count": 1,
+      "median_wage_usd": 98821.0
+    },
+    {
+      "title": "Technical Architect II",
+      "count": 1,
+      "median_wage_usd": 122616.0
+    },
+    {
+      "title": "Security Operations Analyst",
+      "count": 1,
+      "median_wage_usd": 71906.0
+    },
+    {
+      "title": "Senior Database Administrator",
+      "count": 1,
+      "median_wage_usd": 89690.0
+    },
+    {
+      "title": "Network Engineer III",
+      "count": 1,
+      "median_wage_usd": 93725.0
+    },
+    {
+      "title": "DevOps Engineer II",
+      "count": 1,
+      "median_wage_usd": 98904.0
+    },
+    {
+      "title": "Technical Architect",
+      "count": 1,
+      "median_wage_usd": 110136.0
+    },
+    {
+      "title": "DevOps Engineer",
+      "count": 1,
+      "median_wage_usd": 114754.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NC",
+      "county": "MECKLENBURG",
+      "count": 2
+    },
+    {
+      "state": "LA",
+      "county": "OUACHITA",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "county": "MIDDLESEX",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "county": "FORSYTH",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 1
+    },
+    {
+      "state": "TN",
+      "county": "DAVIDSON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 3
+    },
+    {
+      "state": "NC",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    },
+    {
+      "state": "LA",
+      "count": 1
+    },
+    {
+      "state": "TN",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 6,
+    "initial_denials": 0,
+    "continuing_approvals": 13,
+    "continuing_denials": 0,
+    "total_approvals": 19,
+    "by_fy": [
+      {
+        "fy": 2010,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2013,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2016,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 5,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 7
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 8,
+        "continuing_denials": 0,
+        "total_approvals": 8
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      }
+    ]
+  },
+  "lca_worker_positions": 9,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 110136.0,
+    "gap_usd": -20024.0
+  }
+}

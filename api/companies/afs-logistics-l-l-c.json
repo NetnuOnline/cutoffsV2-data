@@ -1,0 +1,81 @@
+{
+  "slug": "afs-logistics-l-l-c",
+  "canonical_name": "AFS Logistics L.L.C.",
+  "fein": "72-1130766",
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 106430.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 89877.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 122983.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Business Intelligence Developer",
+      "count": 1,
+      "median_wage_usd": 122983.0
+    },
+    {
+      "title": "Revenue Management Analyst",
+      "count": 1,
+      "median_wage_usd": 89877.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 3,
+    "initial_denials": 0,
+    "continuing_approvals": 3,
+    "continuing_denials": 0,
+    "total_approvals": 6,
+    "by_fy": [
+      {
+        "fy": 2020,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      }
+    ]
+  },
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 122983.0,
+    "gap_usd": 14963.0
+  }
+}

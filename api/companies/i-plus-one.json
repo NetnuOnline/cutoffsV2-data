@@ -1,0 +1,46 @@
+{
+  "slug": "i-plus-one",
+  "canonical_name": "i plus one, INC.",
+  "fein": "99-4458975",
+  "lca_filing_count": 3,
+  "lca_worker_positions": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 161637.0,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 161637.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 161637.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 3,
+      "median_wage_usd": 161637.0
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 161637.0,
+    "gap_usd": 31477.0
+  }
+}

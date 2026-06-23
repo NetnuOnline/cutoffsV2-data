@@ -1,0 +1,128 @@
+{
+  "slug": "cargill",
+  "canonical_name": "Cargill, Incorporated",
+  "fein": null,
+  "lca_filing_count": 13,
+  "warn_notice_count": 8,
+  "median_wage_usd": 141579,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 0,
+      "median_wage_usd": null
+    },
+    {
+      "fy": 2026,
+      "filings": 0,
+      "median_wage_usd": null
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Automated Storage and Retrieval System Superintendent",
+      "count": 0,
+      "median_wage_usd": null
+    },
+    {
+      "title": "Engineering Manager - KBGFJG361441-1",
+      "count": 0,
+      "median_wage_usd": null
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NE",
+      "count": 2
+    },
+    {
+      "state": "KS",
+      "count": 2
+    },
+    {
+      "state": "AL",
+      "count": 2
+    },
+    {
+      "state": "IA",
+      "count": 1
+    },
+    {
+      "state": "TN",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "12/23/2024",
+      "effective_date": "02/05/2025",
+      "state": "IA",
+      "workers": 29,
+      "city": "Eddyville"
+    },
+    {
+      "date": "04/07/2017",
+      "effective_date": "04/07/2017",
+      "state": "NE",
+      "workers": 7,
+      "city": "Blair"
+    },
+    {
+      "date": "01/11/2016",
+      "effective_date": "01/11/2016",
+      "state": "NE",
+      "workers": 7,
+      "city": "Blair"
+    },
+    {
+      "date": "12/03/2014",
+      "effective_date": "06/30/2015",
+      "state": "TN",
+      "workers": 210,
+      "city": "Memphis"
+    },
+    {
+      "date": "05/19/2014",
+      "effective_date": "05/19/2014",
+      "state": "KS",
+      "workers": 102,
+      "city": "1 - Workforce Investment Area I"
+    },
+    {
+      "date": "09/30/2010",
+      "effective_date": "09/30/2010",
+      "state": "KS",
+      "workers": 52,
+      "city": "2 - Workforce Investment Area II"
+    },
+    {
+      "date": "02/09/2009",
+      "effective_date": "04/20/2009",
+      "state": "AL",
+      "workers": 107,
+      "city": "Decatur"
+    },
+    {
+      "date": "10/06/2005",
+      "effective_date": "12/05/2005",
+      "state": "AL",
+      "workers": 106,
+      "city": "Decatur"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "region-15-ottumwa-wib",
+      "name": "Region 15 - Ottumwa WIB",
+      "state": "IA"
+    },
+    {
+      "slug": "13-local-workforce-investment-area",
+      "name": "13 Local Workforce Investment Area",
+      "state": "TN"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

@@ -1,0 +1,75 @@
+{
+  "slug": "anheuser-busch-warehouse",
+  "canonical_name": "Anheuser Busch Warehouse",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 6,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 5
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "07/16/2020",
+      "effective_date": "10/02/2020",
+      "state": "CA",
+      "workers": 222,
+      "city": "Riverside"
+    },
+    {
+      "date": "02/04/2009",
+      "effective_date": "12/01/2009",
+      "state": "IL",
+      "workers": 29,
+      "city": "Mount Vernon"
+    },
+    {
+      "date": "02/04/2009",
+      "effective_date": "10/01/2009",
+      "state": "IL",
+      "workers": 20,
+      "city": "Mount Vernon"
+    },
+    {
+      "date": "02/04/2009",
+      "effective_date": "08/01/2009",
+      "state": "IL",
+      "workers": 20,
+      "city": "Mount Vernon"
+    },
+    {
+      "date": "02/04/2009",
+      "effective_date": "04/01/2009",
+      "state": "IL",
+      "workers": 30,
+      "city": "Mount Vernon"
+    },
+    {
+      "date": "02/04/2009",
+      "effective_date": "02/01/2009",
+      "state": "IL",
+      "workers": 34,
+      "city": "Mount Vernon"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "southern-il-wib",
+      "name": "Southern IL WIB",
+      "state": "IL"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

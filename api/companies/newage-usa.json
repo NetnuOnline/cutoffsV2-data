@@ -1,0 +1,46 @@
+{
+  "slug": "newage-usa",
+  "canonical_name": "NewAge USA Inc.",
+  "fein": null,
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 81235.18,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 81235.18
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 2,
+      "median_wage_usd": 81235.18
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "UT",
+      "county": "SALT LAKE",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "UT",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 1,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 81235.18,
+    "gap_usd": -48924.82
+  }
+}

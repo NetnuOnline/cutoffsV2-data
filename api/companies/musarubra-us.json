@@ -1,0 +1,186 @@
+{
+  "slug": "musarubra-us",
+  "canonical_name": "Musarubra US, LLC",
+  "fein": "86-2066250",
+  "lca_filing_count": 25,
+  "lca_worker_positions": 25,
+  "warn_notice_count": 0,
+  "median_wage_usd": 145500.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 7,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 3,
+      "median_wage_usd": 116709.0
+    },
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 114566.0
+    },
+    {
+      "fy": 2024,
+      "filings": 4,
+      "median_wage_usd": 155802.5
+    },
+    {
+      "fy": 2025,
+      "filings": 5,
+      "median_wage_usd": 158704.0
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 186500.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Manager, Information Technology",
+      "count": 1,
+      "median_wage_usd": 115918.0
+    },
+    {
+      "title": "Senior Staff Software Development Engineer",
+      "count": 1,
+      "median_wage_usd": 156000.0
+    },
+    {
+      "title": "Systems Administrator",
+      "count": 1,
+      "median_wage_usd": 104500.0
+    },
+    {
+      "title": "Technical Lead",
+      "count": 1,
+      "median_wage_usd": 180960.0
+    },
+    {
+      "title": "Sr. Security Operations Engineer",
+      "count": 1,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Manager, Software Engineering",
+      "count": 1,
+      "median_wage_usd": 146097.0
+    },
+    {
+      "title": "Big Data Engineer",
+      "count": 1,
+      "median_wage_usd": 138000.0
+    },
+    {
+      "title": "Sr. Software QA Engineer",
+      "count": 1,
+      "median_wage_usd": 114566.0
+    },
+    {
+      "title": "Engineer, SW QA, Principal",
+      "count": 1,
+      "median_wage_usd": 186500.0
+    },
+    {
+      "title": "Staff Software Engineer",
+      "count": 1,
+      "median_wage_usd": 155605.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 6
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 3
+    },
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 1
+    },
+    {
+      "state": "OR",
+      "county": "WASHINGTON",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SAN JOAQUIN",
+      "count": 1
+    },
+    {
+      "state": "OH",
+      "county": "LORAIN",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "county": "MIDDLESEX",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "ORANGE",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "county": "LOUDOUN",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 9
+    },
+    {
+      "state": "CA",
+      "count": 9
+    },
+    {
+      "state": "WA",
+      "count": 2
+    },
+    {
+      "state": "OR",
+      "count": 2
+    },
+    {
+      "state": "VA",
+      "count": 1
+    },
+    {
+      "state": "OH",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 155605.0,
+    "gap_usd": 25445.0
+  }
+}

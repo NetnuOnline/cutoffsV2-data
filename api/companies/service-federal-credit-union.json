@@ -1,0 +1,63 @@
+{
+  "slug": "service-federal-credit-union",
+  "canonical_name": "Service Federal Credit Union",
+  "fein": null,
+  "lca_filing_count": 1,
+  "warn_notice_count": 0,
+  "median_wage_usd": 109200.52,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 109200.52
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "API Integration Engineer",
+      "count": 1,
+      "median_wage_usd": 109200.52
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NH",
+      "county": "PORTSMOUTH CITY",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NH",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 0,
+    "continuing_denials": 0,
+    "total_approvals": 1,
+    "by_fy": [
+      {
+        "fy": 2023,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 1,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 109200.52,
+    "gap_usd": -20959.48
+  }
+}

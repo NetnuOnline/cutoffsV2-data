@@ -1,0 +1,203 @@
+{
+  "slug": "moody-s-analytics",
+  "canonical_name": "Moody's Analytics, Inc.",
+  "fein": "13-3851829",
+  "lca_filing_count": 226,
+  "lca_worker_positions": 225,
+  "warn_notice_count": 0,
+  "median_wage_usd": 140521.5,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 25,
+      "median_wage_usd": 132626.0
+    },
+    {
+      "fy": 2021,
+      "filings": 25,
+      "median_wage_usd": 128000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 24,
+      "median_wage_usd": 143823.0
+    },
+    {
+      "fy": 2023,
+      "filings": 34,
+      "median_wage_usd": 145765.5
+    },
+    {
+      "fy": 2024,
+      "filings": 31,
+      "median_wage_usd": 150091.0
+    },
+    {
+      "fy": 2025,
+      "filings": 37,
+      "median_wage_usd": 160000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 49,
+      "median_wage_usd": 143000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Software Engineer",
+      "count": 16,
+      "median_wage_usd": 143036.0
+    },
+    {
+      "title": "Staff Software Engineer",
+      "count": 11,
+      "median_wage_usd": 177437.0
+    },
+    {
+      "title": "Asst Dir-Software Engineer",
+      "count": 10,
+      "median_wage_usd": 127320.5
+    },
+    {
+      "title": "Assc Dir-Product Manager",
+      "count": 10,
+      "median_wage_usd": 157763.0
+    },
+    {
+      "title": "Asst Dir-QA Engineer",
+      "count": 9,
+      "median_wage_usd": 120250.0
+    },
+    {
+      "title": "Client Service Specialist",
+      "count": 5,
+      "median_wage_usd": 91010.0
+    },
+    {
+      "title": "Dir Mgr-Software Engineering",
+      "count": 5,
+      "median_wage_usd": 223821.0
+    },
+    {
+      "title": "Assistant Director - Research",
+      "count": 4,
+      "median_wage_usd": 128000.0
+    },
+    {
+      "title": "QA Engineer",
+      "count": 4,
+      "median_wage_usd": 96672.0
+    },
+    {
+      "title": "Asst Dir-DevOps Engineer",
+      "count": 4,
+      "median_wage_usd": 133396.5
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 54
+    },
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 41
+    },
+    {
+      "state": "NE",
+      "county": "DOUGLAS",
+      "count": 24
+    },
+    {
+      "state": "PA",
+      "county": "MONTGOMERY",
+      "count": 7
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 6
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 5
+    },
+    {
+      "state": "NC",
+      "county": "MECKLENBURG",
+      "count": 4
+    },
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 3
+    },
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 3
+    },
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 66
+    },
+    {
+      "state": "CA",
+      "count": 60
+    },
+    {
+      "state": "NE",
+      "count": 27
+    },
+    {
+      "state": "TX",
+      "count": 19
+    },
+    {
+      "state": "NC",
+      "count": 12
+    },
+    {
+      "state": "PA",
+      "count": 9
+    },
+    {
+      "state": "IL",
+      "count": 7
+    },
+    {
+      "state": "WA",
+      "count": 5
+    },
+    {
+      "state": "CT",
+      "count": 3
+    },
+    {
+      "state": "AZ",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 151525.0,
+    "gap_usd": 21365.0
+  }
+}

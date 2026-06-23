@@ -1,0 +1,171 @@
+{
+  "slug": "ncr-voyix",
+  "canonical_name": "NCR Voyix Corporation",
+  "fein": "31-0387920",
+  "lca_filing_count": 78,
+  "lca_worker_positions": 78,
+  "warn_notice_count": 0,
+  "median_wage_usd": 114381.5,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 46,
+      "median_wage_usd": 117676.0
+    },
+    {
+      "fy": 2025,
+      "filings": 26,
+      "median_wage_usd": 103707.685
+    },
+    {
+      "fy": 2026,
+      "filings": 6,
+      "median_wage_usd": 143175.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SW Engineer II",
+      "count": 18,
+      "median_wage_usd": 99396.0
+    },
+    {
+      "title": "SW Engineer III",
+      "count": 10,
+      "median_wage_usd": 118766.0
+    },
+    {
+      "title": "SW Engineer IV",
+      "count": 5,
+      "median_wage_usd": 137535.0
+    },
+    {
+      "title": "SW Engineer I",
+      "count": 5,
+      "median_wage_usd": 82971.0
+    },
+    {
+      "title": "Network Manager II",
+      "count": 2,
+      "median_wage_usd": 133341.0
+    },
+    {
+      "title": "Solution Owner III",
+      "count": 2,
+      "median_wage_usd": 122980.0
+    },
+    {
+      "title": "SW Dev Ops Engineer III",
+      "count": 2,
+      "median_wage_usd": 116938.0
+    },
+    {
+      "title": "Staff SW Engineer",
+      "count": 2,
+      "median_wage_usd": 150041.0
+    },
+    {
+      "title": "SW Product Owner II",
+      "count": 2,
+      "median_wage_usd": 102885.0
+    },
+    {
+      "title": "Senior Solution Owner",
+      "count": 2,
+      "median_wage_usd": 133588.5
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 37
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 4
+    },
+    {
+      "state": "TX",
+      "county": "TARRANT",
+      "count": 4
+    },
+    {
+      "state": "NY",
+      "county": "QUEENS",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 2
+    },
+    {
+      "state": "TN",
+      "county": "WILSON",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    },
+    {
+      "state": "TN",
+      "county": "SHELBY",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 57
+    },
+    {
+      "state": "TX",
+      "count": 13
+    },
+    {
+      "state": "TN",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "count": 2
+    },
+    {
+      "state": "NY",
+      "count": 2
+    },
+    {
+      "state": "NE",
+      "count": 1
+    },
+    {
+      "state": "OH",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 111825.0,
+    "gap_usd": -18335.0
+  }
+}

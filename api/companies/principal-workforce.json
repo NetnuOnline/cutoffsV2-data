@@ -1,0 +1,61 @@
+{
+  "slug": "principal-workforce",
+  "canonical_name": "Principal Workforce LLC",
+  "fein": "87-2136899",
+  "lca_filing_count": 2,
+  "lca_worker_positions": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 219582.73,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 141143.45
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 298022.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Managing Director-Portfolio Management (Data Centers)",
+      "count": 1,
+      "median_wage_usd": 298022.0
+    },
+    {
+      "title": "Senior Software Engineer II",
+      "count": 1,
+      "median_wage_usd": 141143.45
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NJ",
+      "county": "MIDDLESEX",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3031",
+    "soc_title": "Financial Managers",
+    "market_median_usd": 156100.0,
+    "employer_median_usd": 298022.0,
+    "gap_usd": 141922.0
+  }
+}

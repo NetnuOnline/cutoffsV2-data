@@ -1,0 +1,107 @@
+{
+  "slug": "agrata-solutions",
+  "canonical_name": "AGRATA SOLUTIONS,LLC.",
+  "fein": "83-3004268",
+  "lca_filing_count": 8,
+  "lca_worker_positions": 8,
+  "warn_notice_count": 0,
+  "median_wage_usd": 70179.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 6,
+      "median_wage_usd": 66955.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 109845.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": null,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SOFTWARE DEVELOPER",
+      "count": 4,
+      "median_wage_usd": 86216.0
+    },
+    {
+      "title": "AUTOMATION TESTER",
+      "count": 2,
+      "median_wage_usd": 63710.5
+    },
+    {
+      "title": "WEB DEVELOPER",
+      "count": 1,
+      "median_wage_usd": 70179.0
+    },
+    {
+      "title": "QA ENGINEER",
+      "count": 1,
+      "median_wage_usd": 60861.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MD",
+      "county": "WASHINGTON",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 1
+    },
+    {
+      "state": "LA",
+      "county": "LAFAYETTE",
+      "count": 1
+    },
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MD",
+      "count": 3
+    },
+    {
+      "state": "FL",
+      "count": 1
+    },
+    {
+      "state": "AZ",
+      "count": 1
+    },
+    {
+      "state": "DE",
+      "count": 1
+    },
+    {
+      "state": "LA",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 86216.0,
+    "gap_usd": -43944.0
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "slug": "hanesbrands",
+  "canonical_name": "Hanesbrands Inc.",
+  "fein": "20-3552316",
+  "lca_filing_count": 7,
+  "lca_worker_positions": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 150000.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 61800.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 160165.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 175048.5
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 127308.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Director, Solution Architecture, Finance and HR Technologies",
+      "count": 2,
+      "median_wage_usd": 191580.0
+    },
+    {
+      "title": "Data Engineer I",
+      "count": 1,
+      "median_wage_usd": 61800.0
+    },
+    {
+      "title": "Lead MDM System Administrator",
+      "count": 1,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "title": "Sr. Developer Applications - SAP Customer",
+      "count": 1,
+      "median_wage_usd": 128750.0
+    },
+    {
+      "title": "Data Scientist III",
+      "count": 1,
+      "median_wage_usd": 127308.0
+    },
+    {
+      "title": "Technical Architect, SAP Platform Architect",
+      "count": 1,
+      "median_wage_usd": 175048.5
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NC",
+      "county": "FORSYTH",
+      "count": 4
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NC",
+      "count": 6
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Computer Systems Engineers/Architects",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 175048.5,
+    "gap_usd": 57048.5
+  }
+}

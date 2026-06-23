@@ -1,0 +1,108 @@
+{
+  "slug": "omada-health",
+  "canonical_name": "OMADA HEALTH INC.",
+  "fein": "45-2355015",
+  "lca_filing_count": 6,
+  "lca_worker_positions": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 194300.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 200000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 160000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 109480.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 212000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 200300.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Staff Data Scientist",
+      "count": 2,
+      "median_wage_usd": 212000.0
+    },
+    {
+      "title": "Director, Marketing Strategy & Operations",
+      "count": 1,
+      "median_wage_usd": 200000.0
+    },
+    {
+      "title": "Senor Applied AI Engineer",
+      "count": 1,
+      "median_wage_usd": 188600.0
+    },
+    {
+      "title": "Data Analyst",
+      "count": 1,
+      "median_wage_usd": 109480.0
+    },
+    {
+      "title": "Technical Program Manager",
+      "count": 1,
+      "median_wage_usd": 160000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 2
+    },
+    {
+      "state": "FL",
+      "county": "HILLSBOROUGH",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 2
+    },
+    {
+      "state": "NC",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "count": 1
+    },
+    {
+      "state": "SC",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 212000.0,
+    "gap_usd": 103980.0
+  }
+}

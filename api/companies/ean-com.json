@@ -1,0 +1,198 @@
+{
+  "slug": "ean-com",
+  "canonical_name": "EAN.com, LP",
+  "fein": null,
+  "lca_filing_count": 13,
+  "warn_notice_count": 0,
+  "median_wage_usd": 113090.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 93558.0
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 157477.0
+    },
+    {
+      "fy": 2022,
+      "filings": 10,
+      "median_wage_usd": 120214.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 74859.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Development Engineer",
+      "count": 3,
+      "median_wage_usd": 110094.0
+    },
+    {
+      "title": "Senior Software Development Engineer",
+      "count": 2,
+      "median_wage_usd": 113386.5
+    },
+    {
+      "title": "User Experience Engineer",
+      "count": 2,
+      "median_wage_usd": 144466.5
+    },
+    {
+      "title": "SOFTWARE DEVELOPMENT ENGINEER",
+      "count": 1,
+      "median_wage_usd": 93558.0
+    },
+    {
+      "title": "Senior Marketing Intelligence Analyst",
+      "count": 1,
+      "median_wage_usd": 113090.0
+    },
+    {
+      "title": "Senior Manager, Data Science",
+      "count": 1,
+      "median_wage_usd": 105602.0
+    },
+    {
+      "title": "Senior Solution Architect",
+      "count": 1,
+      "median_wage_usd": 132683.0
+    },
+    {
+      "title": "Sr Finance Analyst",
+      "count": 1,
+      "median_wage_usd": 83907.0
+    },
+    {
+      "title": "Sr. Software Development Engineer ",
+      "count": 1,
+      "median_wage_usd": 157477.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 5
+    },
+    {
+      "state": "MO",
+      "county": "GREENE",
+      "count": 5
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "WA",
+      "count": 5
+    },
+    {
+      "state": "MO",
+      "count": 5
+    },
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 13,
+    "initial_denials": 0,
+    "continuing_approvals": 41,
+    "continuing_denials": 2,
+    "total_approvals": 54,
+    "by_fy": [
+      {
+        "fy": 2017,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 5,
+        "initial_denials": 0,
+        "continuing_approvals": 11,
+        "continuing_denials": 2,
+        "total_approvals": 16
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 7,
+        "continuing_denials": 0,
+        "total_approvals": 8
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 7,
+        "initial_denials": 0,
+        "continuing_approvals": 11,
+        "continuing_denials": 0,
+        "total_approvals": 18
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 12,
+        "continuing_denials": 0,
+        "total_approvals": 12
+      }
+    ]
+  },
+  "lca_worker_positions": 13,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 130010.5,
+    "gap_usd": -149.5
+  }
+}

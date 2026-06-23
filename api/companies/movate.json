@@ -1,0 +1,104 @@
+{
+  "slug": "movate",
+  "canonical_name": "Movate, Inc.",
+  "fein": "91-2006027",
+  "lca_filing_count": 8,
+  "lca_worker_positions": 8,
+  "warn_notice_count": 0,
+  "median_wage_usd": 89700.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 5,
+      "median_wage_usd": 82056.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 186280.5
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 95000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software QA Analyst",
+      "count": 2,
+      "median_wage_usd": 89530.5
+    },
+    {
+      "title": "Technical Lead",
+      "count": 2,
+      "median_wage_usd": 83228.0
+    },
+    {
+      "title": "Project Manager",
+      "count": 1,
+      "median_wage_usd": 95000.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 1,
+      "median_wage_usd": 82056.0
+    },
+    {
+      "title": "Vice President-Sales",
+      "count": 1,
+      "median_wage_usd": 260000.0
+    },
+    {
+      "title": "Associate Consultant",
+      "count": 1,
+      "median_wage_usd": 101200.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 3
+    },
+    {
+      "state": "CA",
+      "county": "VENTURA",
+      "count": 1
+    },
+    {
+      "state": "UT",
+      "county": "SALT LAKE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 3
+    },
+    {
+      "state": "UT",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 82056.0,
+    "gap_usd": -48104.0
+  }
+}

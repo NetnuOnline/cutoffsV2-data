@@ -1,0 +1,82 @@
+{
+  "slug": "ccsoltech",
+  "canonical_name": "CCSolTech LLC.",
+  "fein": "82-3473694",
+  "lca_filing_count": 9,
+  "lca_worker_positions": 8,
+  "warn_notice_count": 0,
+  "median_wage_usd": 140000.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 145000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 4,
+      "median_wage_usd": 145000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Salesforce Marketing Cloud Developer",
+      "count": 3,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "Salesforce Marketing Cloud Architect",
+      "count": 2,
+      "median_wage_usd": 145000.0
+    },
+    {
+      "title": "Sr. Salesforce Developer",
+      "count": 1,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "MarTech Solution Architect",
+      "count": 1,
+      "median_wage_usd": 180000.0
+    },
+    {
+      "title": "Sr. Director, Growth and Web Engineering",
+      "count": 1,
+      "median_wage_usd": 175000.0
+    },
+    {
+      "title": "Lead Salesforce Marketing Cloud Developer",
+      "count": 1,
+      "median_wage_usd": 145000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 9
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 140000.0,
+    "gap_usd": 9840.0
+  }
+}

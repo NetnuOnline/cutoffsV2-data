@@ -1,0 +1,43 @@
+{
+  "slug": "larson-manufacturing",
+  "canonical_name": "Larson Manufacturing",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "IA",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "09/20/2022",
+      "effective_date": "09/20/2022",
+      "state": "IA",
+      "workers": 197,
+      "city": "Lake Mills"
+    },
+    {
+      "date": "11/08/2011",
+      "effective_date": "01/07/2012",
+      "state": "IA",
+      "workers": 99,
+      "city": "Clear Lake"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "region-2-mason-city-wib",
+      "name": "Region 2 - Mason City WIB",
+      "state": "IA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

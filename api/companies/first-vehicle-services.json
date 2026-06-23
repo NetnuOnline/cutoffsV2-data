@@ -1,0 +1,52 @@
+{
+  "slug": "first-vehicle-services",
+  "canonical_name": "First Vehicle Services",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 1
+    },
+    {
+      "state": "IN",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "09/08/2022",
+      "effective_date": "09/30/2022",
+      "state": "GA",
+      "workers": 4,
+      "city": "Thomasville"
+    },
+    {
+      "date": "07/18/2018",
+      "effective_date": "09/28/2018",
+      "state": "IN",
+      "workers": 25,
+      "city": "Fort Wayne"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "southwest-georgia-wib",
+      "name": "Southwest Georgia WIB",
+      "state": "GA"
+    },
+    {
+      "slug": "economic-growth-region-3",
+      "name": "Economic Growth Region 3",
+      "state": "IN"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

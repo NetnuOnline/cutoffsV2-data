@@ -1,0 +1,76 @@
+{
+  "slug": "sygna",
+  "canonical_name": "Sygna LLC",
+  "fein": "46-3097849",
+  "lca_filing_count": 9,
+  "warn_notice_count": 0,
+  "median_wage_usd": 105227.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 80787.0
+    },
+    {
+      "fy": 2024,
+      "filings": 7,
+      "median_wage_usd": 105227.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 109283.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SAP Treasury Technical Specialist",
+      "count": 3,
+      "median_wage_usd": 98000.0
+    },
+    {
+      "title": "Software Engineer (SAP)",
+      "count": 2,
+      "median_wage_usd": 105227.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 2,
+      "median_wage_usd": 105227.0
+    },
+    {
+      "title": "SAP Architect (FICO)",
+      "count": 1,
+      "median_wage_usd": 80787.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 1,
+      "median_wage_usd": 109283.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 8
+    }
+  ],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 9
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 9,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 105227.0,
+    "gap_usd": -24933.0
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "slug": "onsite-medical-providers-pc",
+  "canonical_name": "Onsite Medical Providers, PC",
+  "fein": null,
+  "lca_filing_count": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 208000.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 3,
+      "median_wage_usd": 208000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 249600.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Neonatologist",
+      "count": 3,
+      "median_wage_usd": 208000.0
+    },
+    {
+      "title": "Physician (Neonatologist)",
+      "count": 1,
+      "median_wage_usd": 249600.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "PA",
+      "county": "LEHIGH",
+      "count": 2
+    },
+    {
+      "state": "IN",
+      "county": "VIGO",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "county": "LANCASTER",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "PA",
+      "count": 3
+    },
+    {
+      "state": "IN",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 2,
+    "initial_denials": 0,
+    "continuing_approvals": 2,
+    "continuing_denials": 0,
+    "total_approvals": 4,
+    "by_fy": [
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": []
+}

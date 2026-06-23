@@ -1,0 +1,203 @@
+{
+  "slug": "red-hat",
+  "canonical_name": "Red Hat, Inc.",
+  "fein": "06-1364380",
+  "lca_filing_count": 186,
+  "lca_worker_positions": 185,
+  "warn_notice_count": 0,
+  "median_wage_usd": 129050.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 28,
+      "median_wage_usd": 109329.5
+    },
+    {
+      "fy": 2021,
+      "filings": 33,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 20,
+      "median_wage_usd": 125750.0
+    },
+    {
+      "fy": 2023,
+      "filings": 24,
+      "median_wage_usd": 123500.0
+    },
+    {
+      "fy": 2024,
+      "filings": 35,
+      "median_wage_usd": 130130.0
+    },
+    {
+      "fy": 2025,
+      "filings": 32,
+      "median_wage_usd": 153356.5
+    },
+    {
+      "fy": 2026,
+      "filings": 13,
+      "median_wage_usd": 157248.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Software Engineer",
+      "count": 31,
+      "median_wage_usd": 135304.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 14,
+      "median_wage_usd": 102762.5
+    },
+    {
+      "title": "Principal Software Engineer",
+      "count": 14,
+      "median_wage_usd": 163709.5
+    },
+    {
+      "title": "Senior Software Quality Engineer",
+      "count": 8,
+      "median_wage_usd": 115169.5
+    },
+    {
+      "title": "Senior Data Engineer",
+      "count": 4,
+      "median_wage_usd": 117504.5
+    },
+    {
+      "title": "Quality Engineer",
+      "count": 4,
+      "median_wage_usd": 80491.0
+    },
+    {
+      "title": "Senior Site Reliability Engineer",
+      "count": 3,
+      "median_wage_usd": 137966.0
+    },
+    {
+      "title": "Senior Data Scientist",
+      "count": 3,
+      "median_wage_usd": 144894.0
+    },
+    {
+      "title": "Principal Product Manager - Technical",
+      "count": 3,
+      "median_wage_usd": 162400.0
+    },
+    {
+      "title": "Site Reliability Engineer",
+      "count": 2,
+      "median_wage_usd": 114644.5
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NC",
+      "county": "WAKE",
+      "count": 47
+    },
+    {
+      "state": "MA",
+      "county": "WESTFORD",
+      "count": 12
+    },
+    {
+      "state": "MA",
+      "county": "BOSTON CITY",
+      "count": 11
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 7
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 5
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 4
+    },
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 4
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 4
+    },
+    {
+      "state": "NJ",
+      "county": "HUDSON",
+      "count": 4
+    },
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NC",
+      "count": 62
+    },
+    {
+      "state": "MA",
+      "count": 40
+    },
+    {
+      "state": "CA",
+      "count": 17
+    },
+    {
+      "state": "TX",
+      "count": 14
+    },
+    {
+      "state": "NJ",
+      "count": 12
+    },
+    {
+      "state": "GA",
+      "count": 6
+    },
+    {
+      "state": "WA",
+      "count": 5
+    },
+    {
+      "state": "NY",
+      "count": 5
+    },
+    {
+      "state": "IL",
+      "count": 4
+    },
+    {
+      "state": "AZ",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 141378.0,
+    "gap_usd": 11218.0
+  }
+}

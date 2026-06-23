@@ -1,0 +1,47 @@
+{
+  "slug": "plastic-omnium",
+  "canonical_name": "Plastic Omnium",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "SC",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "06/28/2019",
+      "effective_date": "06/28/2019",
+      "state": "SC",
+      "workers": 290,
+      "city": "Anderson"
+    },
+    {
+      "date": "12/19/2016",
+      "effective_date": "12/19/2016",
+      "state": "GA",
+      "workers": 83,
+      "city": "Norcross"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "georgia-mountains-wib",
+      "name": "Georgia Mountains WIB",
+      "state": "GA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

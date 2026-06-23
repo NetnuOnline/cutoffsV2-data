@@ -1,0 +1,51 @@
+{
+  "slug": "sees-candies",
+  "canonical_name": "Sees Candies, Inc.",
+  "fein": "94-0852350",
+  "lca_filing_count": 2,
+  "lca_worker_positions": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 150867.07,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 121162.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 180572.13,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Business Intelligence Analyst II",
+      "count": 1,
+      "median_wage_usd": 121162.0
+    },
+    {
+      "title": "Manager of Data Analytics",
+      "count": 1,
+      "median_wage_usd": 180572.13
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3021",
+    "soc_title": "Computer and Information Systems Managers",
+    "market_median_usd": 169510.0,
+    "employer_median_usd": 180572.13,
+    "gap_usd": 11062.13
+  }
+}

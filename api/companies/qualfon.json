@@ -1,0 +1,47 @@
+{
+  "slug": "qualfon",
+  "canonical_name": "Qualfon",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "01/15/2024",
+      "effective_date": "01/15/2024",
+      "state": "NJ",
+      "workers": 44,
+      "city": "Robinsville"
+    },
+    {
+      "date": "01/27/2017",
+      "effective_date": "01/30/2017",
+      "state": "TX",
+      "workers": 58,
+      "city": "Harlingen"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "cameron-county-wda",
+      "name": "Cameron County WDA",
+      "state": "TX"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

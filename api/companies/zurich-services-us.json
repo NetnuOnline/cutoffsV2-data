@@ -1,0 +1,106 @@
+{
+  "slug": "zurich-services-us",
+  "canonical_name": "Zurich Services US LLC",
+  "fein": "35-2546417",
+  "lca_filing_count": 10,
+  "lca_worker_positions": 10,
+  "warn_notice_count": 0,
+  "median_wage_usd": 126690.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 116699.0
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 116700.0
+    },
+    {
+      "fy": 2022,
+      "filings": 4,
+      "median_wage_usd": 126690.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 139800.5
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 107325.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Identity and Access Management Consultant",
+      "count": 4,
+      "median_wage_usd": 121561.5
+    },
+    {
+      "title": "Lead Developer, Digital Identity",
+      "count": 1,
+      "median_wage_usd": 132288.0
+    },
+    {
+      "title": "Cyber Security Analyst",
+      "count": 1,
+      "median_wage_usd": 82363.0
+    },
+    {
+      "title": "Security Transformation Lead",
+      "count": 1,
+      "median_wage_usd": 215280.0
+    },
+    {
+      "title": "Software Test Engineer",
+      "count": 1,
+      "median_wage_usd": 91000.0
+    },
+    {
+      "title": "Program Manager II",
+      "count": 1,
+      "median_wage_usd": 142809.0
+    },
+    {
+      "title": "Program Manager",
+      "count": 1,
+      "median_wage_usd": 126957.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 5
+    },
+    {
+      "state": "MN",
+      "county": "ANOKA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 9
+    },
+    {
+      "state": "MN",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Computer Occupations, All Other",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 131874.5,
+    "gap_usd": 13874.5
+  }
+}

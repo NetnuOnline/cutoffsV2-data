@@ -1,0 +1,85 @@
+{
+  "slug": "icode-technologies",
+  "canonical_name": "iCode Technologies LLC",
+  "fein": "82-4261099",
+  "lca_filing_count": 5,
+  "lca_worker_positions": 7,
+  "warn_notice_count": 0,
+  "median_wage_usd": 97760.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 91021.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 89741.6
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 102450.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Mechanical Engineer",
+      "count": 1,
+      "median_wage_usd": 81723.2
+    },
+    {
+      "title": "System Test Engineer",
+      "count": 1,
+      "median_wage_usd": 100901.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 91021.0
+    },
+    {
+      "title": "PLM System Analyst",
+      "count": 1,
+      "median_wage_usd": 97760.0
+    },
+    {
+      "title": "System Software Engineer HIL",
+      "count": 1,
+      "median_wage_usd": 104000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MI",
+      "county": "OAKLAND",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MI",
+      "count": 3
+    },
+    {
+      "state": "ND",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 97510.5,
+    "gap_usd": -32649.5
+  }
+}

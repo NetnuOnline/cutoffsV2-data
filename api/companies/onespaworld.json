@@ -1,0 +1,54 @@
+{
+  "slug": "onespaworld",
+  "canonical_name": "OneSpaWorld",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 3,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "CT",
+      "count": 2
+    },
+    {
+      "state": "HI",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "04/13/2020",
+      "effective_date": "03/17/2020",
+      "state": "CT",
+      "workers": 51,
+      "city": "Uncasville"
+    },
+    {
+      "date": "03/31/2020",
+      "effective_date": "03/31/2020",
+      "state": "HI",
+      "workers": 0,
+      "city": null
+    },
+    {
+      "date": "01/01/2020",
+      "effective_date": "03/17/2020",
+      "state": "CT",
+      "workers": 51,
+      "city": "Uncasville"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "eastern-wia-ct",
+      "name": "Eastern WIA",
+      "state": "CT"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

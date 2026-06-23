@@ -1,0 +1,198 @@
+{
+  "slug": "the-sherwin-williams-company",
+  "canonical_name": "The Sherwin-Williams Company",
+  "fein": "34-0526850",
+  "lca_filing_count": 154,
+  "lca_worker_positions": 153,
+  "warn_notice_count": 0,
+  "median_wage_usd": 112409.5,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 23,
+      "median_wage_usd": 103355.0
+    },
+    {
+      "fy": 2021,
+      "filings": 17,
+      "median_wage_usd": 103355.0
+    },
+    {
+      "fy": 2022,
+      "filings": 24,
+      "median_wage_usd": 105143.0
+    },
+    {
+      "fy": 2023,
+      "filings": 27,
+      "median_wage_usd": 114239.0
+    },
+    {
+      "fy": 2024,
+      "filings": 28,
+      "median_wage_usd": 114770.5
+    },
+    {
+      "fy": 2025,
+      "filings": 22,
+      "median_wage_usd": 130832.0
+    },
+    {
+      "fy": 2026,
+      "filings": 12,
+      "median_wage_usd": 118391.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Application Integration Developer",
+      "count": 5,
+      "median_wage_usd": 128794.0
+    },
+    {
+      "title": "Senior Data Engineer",
+      "count": 5,
+      "median_wage_usd": 112603.0
+    },
+    {
+      "title": "SENIOR ORACLE APPLICATIONS DEVELOPER",
+      "count": 5,
+      "median_wage_usd": 103355.0
+    },
+    {
+      "title": "Senior IT Developer",
+      "count": 3,
+      "median_wage_usd": 111101.0
+    },
+    {
+      "title": "SENIOR JAVA DEVELOPER",
+      "count": 3,
+      "median_wage_usd": 103355.0
+    },
+    {
+      "title": "Sr. Oracle Applications Developer",
+      "count": 3,
+      "median_wage_usd": 105380.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 3,
+      "median_wage_usd": 127882.0
+    },
+    {
+      "title": "SENIOR ORACLE DEVELOPER",
+      "count": 3,
+      "median_wage_usd": 81037.0
+    },
+    {
+      "title": "Senior Developer",
+      "count": 2,
+      "median_wage_usd": 116687.0
+    },
+    {
+      "title": "SENIOR WEB ENGINEER",
+      "count": 2,
+      "median_wage_usd": 108621.5
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "OH",
+      "county": "CUYAHOGA",
+      "count": 111
+    },
+    {
+      "state": "FL",
+      "county": "MIAMI-DADE",
+      "count": 2
+    },
+    {
+      "state": "OH",
+      "county": "LORAIN",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "county": "TOMPKINS",
+      "count": 1
+    },
+    {
+      "state": "NH",
+      "county": "SALEM",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "county": "GUILFORD",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "county": "LAKE",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "county": "FORSYTH",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "county": "WORCESTER CITY",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "OH",
+      "count": 142
+    },
+    {
+      "state": "NC",
+      "count": 3
+    },
+    {
+      "state": "FL",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "count": 1
+    },
+    {
+      "state": "NH",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "count": 1
+    },
+    {
+      "state": "MD",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 121368.0,
+    "gap_usd": -8792.0
+  }
+}

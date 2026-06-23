@@ -1,0 +1,166 @@
+{
+  "slug": "ginger-io",
+  "canonical_name": "Ginger.io, Inc.",
+  "fein": "27-3337415",
+  "lca_filing_count": 6,
+  "warn_notice_count": 1,
+  "median_wage_usd": 213365.98,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 199755.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 191000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 217569.485
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Data Analyst",
+      "count": 1,
+      "median_wage_usd": 170000.0
+    },
+    {
+      "title": "Cloud Security Engineer",
+      "count": 1,
+      "median_wage_usd": 180000.0
+    },
+    {
+      "title": "Senior Machine Learning Engineer",
+      "count": 1,
+      "median_wage_usd": 214731.97
+    },
+    {
+      "title": "Staff iOS Engineer",
+      "count": 1,
+      "median_wage_usd": 212000.0
+    },
+    {
+      "title": "Director, Security & Compliance",
+      "count": 1,
+      "median_wage_usd": 220407.0
+    },
+    {
+      "title": "Staff Data Engineer ",
+      "count": 1,
+      "median_wage_usd": 219510.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 3
+    },
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 6
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "06/29/2023",
+      "effective_date": "07/03/2023",
+      "state": "CA",
+      "workers": 19
+    }
+  ],
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 1,
+    "continuing_approvals": 9,
+    "continuing_denials": 0,
+    "total_approvals": 10,
+    "by_fy": [
+      {
+        "fy": 2014,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2015,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2016,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2017,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 1,
+        "initial_denials": 1,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 6,
+        "continuing_denials": 0,
+        "total_approvals": 6
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      }
+    ]
+  },
+  "lca_worker_positions": 6,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 217120.98,
+    "gap_usd": 109100.98
+  }
+}

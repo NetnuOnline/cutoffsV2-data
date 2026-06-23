@@ -1,0 +1,116 @@
+{
+  "slug": "first-mile-group",
+  "canonical_name": "First Mile Group, Inc.",
+  "fein": "47-4492596",
+  "lca_filing_count": 11,
+  "warn_notice_count": 0,
+  "median_wage_usd": 190000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 155000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 3,
+      "median_wage_usd": 190000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 3,
+      "median_wage_usd": 176800.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 162500.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 179000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 235000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Software Engineer",
+      "count": 2,
+      "median_wage_usd": 195000.0
+    },
+    {
+      "title": "Senior Product Manager, Core Products",
+      "count": 1,
+      "median_wage_usd": 160000.0
+    },
+    {
+      "title": "Product Marketing Manager",
+      "count": 1,
+      "median_wage_usd": 179000.0
+    },
+    {
+      "title": "Senior Data Scientist II",
+      "count": 1,
+      "median_wage_usd": 190000.0
+    },
+    {
+      "title": "DevOps Engineer",
+      "count": 1,
+      "median_wage_usd": 155000.0
+    },
+    {
+      "title": "Senior Application Security Engineer",
+      "count": 1,
+      "median_wage_usd": 190000.0
+    },
+    {
+      "title": "Senior DevOps Engineer I",
+      "count": 1,
+      "median_wage_usd": 176800.0
+    },
+    {
+      "title": "Engineering Manager",
+      "count": 1,
+      "median_wage_usd": 230000.0
+    },
+    {
+      "title": "Senior Machine Learning Engineer, Client Insights",
+      "count": 1,
+      "median_wage_usd": 235000.0
+    },
+    {
+      "title": "Software Engineer II",
+      "count": 1,
+      "median_wage_usd": 135000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 10
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 11
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 11,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 188400.0,
+    "gap_usd": 58240.0
+  }
+}

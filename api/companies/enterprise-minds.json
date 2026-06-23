@@ -1,0 +1,57 @@
+{
+  "slug": "enterprise-minds",
+  "canonical_name": "ENTERPRISE MINDS, INC",
+  "fein": "82-0932042",
+  "lca_filing_count": 4,
+  "lca_worker_positions": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 161637.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 147368.0
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 161637.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Solution Architect",
+      "count": 3,
+      "median_wage_usd": 161637.0
+    },
+    {
+      "title": "Data Engineer ",
+      "count": 1,
+      "median_wage_usd": 147368.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 4
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 161637.0,
+    "gap_usd": 31477.0
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "slug": "universal-technical-institute",
+  "canonical_name": "Universal Technical Institute",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 1,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "04/24/2020",
+      "effective_date": "04/24/2020",
+      "state": "NJ",
+      "workers": 35,
+      "city": "Bloomfield"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2019-10-21",
+        "formType": "8-K",
+        "accessionNumber": "0001261654-19-000046",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001261654&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2010-09-20",
+        "formType": "8-K",
+        "accessionNumber": "0001299933-10-003437",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001261654&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2007-09-14",
+        "formType": "8-K",
+        "accessionNumber": "0001144204-07-049528",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001261654&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2005-01-14",
+        "formType": "8-K",
+        "accessionNumber": "0000950153-05-000052",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001261654&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 4,
+    "itemCounts": {
+      "5.02": 4
+    },
+    "latestFilingDate": "2019-10-21",
+    "earliestFilingDate": "2005-01-14"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

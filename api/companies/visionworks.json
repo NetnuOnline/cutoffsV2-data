@@ -1,0 +1,892 @@
+{
+  "slug": "visionworks",
+  "canonical_name": "Visionworks",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 111,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "FL",
+      "count": 46
+    },
+    {
+      "state": "MD",
+      "count": 24
+    },
+    {
+      "state": "MI",
+      "count": 10
+    },
+    {
+      "state": "NY",
+      "count": 10
+    },
+    {
+      "state": "VA",
+      "count": 5
+    },
+    {
+      "state": "TX",
+      "count": 4
+    },
+    {
+      "state": "WA",
+      "count": 1
+    },
+    {
+      "state": "TN",
+      "count": 1
+    },
+    {
+      "state": "IN",
+      "count": 1
+    },
+    {
+      "state": "OR",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "07/23/2020",
+      "effective_date": "04/04/2020",
+      "state": "TX",
+      "workers": 3,
+      "city": "Midland"
+    },
+    {
+      "date": "07/23/2020",
+      "effective_date": "04/04/2020",
+      "state": "TX",
+      "workers": 9,
+      "city": "San Antonio"
+    },
+    {
+      "date": "07/16/2020",
+      "effective_date": "04/04/2020",
+      "state": "TX",
+      "workers": 8,
+      "city": "Round Rock"
+    },
+    {
+      "date": "07/09/2020",
+      "effective_date": "04/04/2020",
+      "state": "TX",
+      "workers": 2,
+      "city": "Katy"
+    },
+    {
+      "date": "05/07/2020",
+      "effective_date": "04/04/2020",
+      "state": "WA",
+      "workers": 28,
+      "city": "Spokane, Vancouver, and Renton"
+    },
+    {
+      "date": "05/04/2020",
+      "effective_date": "04/04/2020",
+      "state": "TN",
+      "workers": 252,
+      "city": "Williamson County"
+    },
+    {
+      "date": "04/24/2020",
+      "effective_date": "04/04/2020",
+      "state": "IN",
+      "workers": 125,
+      "city": "Highland, Merrillville, Lafayette, Avon, Carmel, Fishers, Greenwood, Terre Haute, Bloomington, Clarksville, New Albany, Evansville and Indianapolis"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/20/2020",
+      "state": "OR",
+      "workers": 103,
+      "city": "San Antonio, TX"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/04/2020",
+      "state": "MD",
+      "workers": 10,
+      "city": "Bel Air"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/04/2020",
+      "state": "MD",
+      "workers": 12,
+      "city": "11160 Veirs Mill Road P203A Wheaton, MD 20902"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/04/2020",
+      "state": "MD",
+      "workers": 14,
+      "city": "Westminster"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/04/2020",
+      "state": "MD",
+      "workers": 14,
+      "city": "11110 Mall Circle Waldorf, MD 20603"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/04/2020",
+      "state": "MD",
+      "workers": 15,
+      "city": "Towson"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/04/2020",
+      "state": "MD",
+      "workers": 7,
+      "city": "Silver Spring"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/04/2020",
+      "state": "MD",
+      "workers": 11,
+      "city": "Rosedale"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/04/2020",
+      "state": "MD",
+      "workers": 11,
+      "city": "Rockville"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/04/2020",
+      "state": "MD",
+      "workers": 6,
+      "city": "10369 Reisterstown Road Owings Mills, MD 21117"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/04/2020",
+      "state": "MD",
+      "workers": 5,
+      "city": "Laurel"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/04/2020",
+      "state": "MD",
+      "workers": 8,
+      "city": "Lanham"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/04/2020",
+      "state": "MD",
+      "workers": 11,
+      "city": "Hanover"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/04/2020",
+      "state": "MD",
+      "workers": 4,
+      "city": "Gambrills"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/04/2020",
+      "state": "MD",
+      "workers": 5,
+      "city": "Gaithersburg"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/04/2020",
+      "state": "MD",
+      "workers": 9,
+      "city": "Gaithersburg"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/04/2020",
+      "state": "MD",
+      "workers": 5,
+      "city": "Frederick"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/04/2020",
+      "state": "MD",
+      "workers": 12,
+      "city": "Columbia"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/04/2020",
+      "state": "MD",
+      "workers": 3,
+      "city": "New York"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/04/2020",
+      "state": "MD",
+      "workers": 5,
+      "city": "Catonsville"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/04/2020",
+      "state": "MD",
+      "workers": 8,
+      "city": "New Church"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/04/2020",
+      "state": "MD",
+      "workers": 15,
+      "city": "Johnstown"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/04/2020",
+      "state": "MD",
+      "workers": 7,
+      "city": "Dunbar"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/04/2020",
+      "state": "MD",
+      "workers": 13,
+      "city": "Nottingham"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/04/2020",
+      "state": "MD",
+      "workers": 10,
+      "city": "Annapolis"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/04/2020",
+      "state": "KY",
+      "workers": 269,
+      "city": "Out of the Area County"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/04/2020",
+      "state": "FL",
+      "workers": 2,
+      "city": "WESLEY CHAPEL"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/04/2020",
+      "state": "FL",
+      "workers": 6,
+      "city": "NORTH MIAMI BEACH"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/04/2020",
+      "state": "FL",
+      "workers": 5,
+      "city": "SPRING HILL"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/04/2020",
+      "state": "FL",
+      "workers": 9,
+      "city": "PORT ORANGE"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/04/2020",
+      "state": "FL",
+      "workers": 4,
+      "city": "ORLANDO"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/04/2020",
+      "state": "FL",
+      "workers": 4,
+      "city": "WEST PALM BEACH"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/04/2020",
+      "state": "FL",
+      "workers": 6,
+      "city": "JACKSONVILLE"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/04/2020",
+      "state": "FL",
+      "workers": 3,
+      "city": "NAPLES"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/04/2020",
+      "state": "FL",
+      "workers": 2,
+      "city": "POMPANO BEACH"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/04/2020",
+      "state": "FL",
+      "workers": 3,
+      "city": "BRADENTON"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/04/2020",
+      "state": "FL",
+      "workers": 1,
+      "city": "CORAL SPRINGS"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/04/2020",
+      "state": "FL",
+      "workers": 1,
+      "city": "MIAMI"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/04/2020",
+      "state": "FL",
+      "workers": 11,
+      "city": "TAMPA"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/04/2020",
+      "state": "FL",
+      "workers": 5,
+      "city": "PORT CHARLOTTE"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/04/2020",
+      "state": "FL",
+      "workers": 3,
+      "city": "SARASOTA"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/04/2020",
+      "state": "FL",
+      "workers": 3,
+      "city": "KISSIMMEE"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/04/2020",
+      "state": "FL",
+      "workers": 4,
+      "city": "DELAND"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/04/2020",
+      "state": "FL",
+      "workers": 7,
+      "city": "PEMBROKE PINES"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/04/2020",
+      "state": "FL",
+      "workers": 5,
+      "city": "HOMESTEAD"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/04/2020",
+      "state": "FL",
+      "workers": 13,
+      "city": "ORLANDO"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/04/2020",
+      "state": "FL",
+      "workers": 10,
+      "city": "SANFORD"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/04/2020",
+      "state": "FL",
+      "workers": 11,
+      "city": "BRANDON"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/04/2020",
+      "state": "FL",
+      "workers": 7,
+      "city": "HIALEAH"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/04/2020",
+      "state": "FL",
+      "workers": 7,
+      "city": "TAMPA"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/04/2020",
+      "state": "FL",
+      "workers": 8,
+      "city": "NAPLES"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/04/2020",
+      "state": "FL",
+      "workers": 4,
+      "city": "SEMINOLE"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/04/2020",
+      "state": "FL",
+      "workers": 8,
+      "city": "JACKSONVILLE"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/04/2020",
+      "state": "FL",
+      "workers": 2,
+      "city": "FORT MYERS"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/04/2020",
+      "state": "FL",
+      "workers": 1,
+      "city": "TALLAHASSEE"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/04/2020",
+      "state": "FL",
+      "workers": 4,
+      "city": "ORANGE PARK"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/04/2020",
+      "state": "FL",
+      "workers": 2,
+      "city": "JACKSONVILLE"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/04/2020",
+      "state": "FL",
+      "workers": 6,
+      "city": "PORT RICHEY"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/04/2020",
+      "state": "FL",
+      "workers": 5,
+      "city": "ALTAMONTE SPRINGS"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/04/2020",
+      "state": "FL",
+      "workers": 9,
+      "city": "PLANTATION"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/04/2020",
+      "state": "FL",
+      "workers": 10,
+      "city": "TAMPA"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/04/2020",
+      "state": "FL",
+      "workers": 7,
+      "city": "MIAMI"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/04/2020",
+      "state": "FL",
+      "workers": 7,
+      "city": "ORLANDO"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/04/2020",
+      "state": "FL",
+      "workers": 6,
+      "city": "MIAMI"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/04/2020",
+      "state": "FL",
+      "workers": 8,
+      "city": "SAINT PETERSBURG"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/04/2020",
+      "state": "FL",
+      "workers": 12,
+      "city": "MIAMI"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/04/2020",
+      "state": "FL",
+      "workers": 3,
+      "city": "BOYNTON BEACH"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/04/2020",
+      "state": "FL",
+      "workers": 9,
+      "city": "PALM HARBOR"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/04/2020",
+      "state": "FL",
+      "workers": 3,
+      "city": "SAINT PETERSBURG"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/04/2020",
+      "state": "FL",
+      "workers": 4,
+      "city": "TAMPA"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/04/2020",
+      "state": "FL",
+      "workers": 5,
+      "city": "CLEARWATER"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/04/2020",
+      "state": "FL",
+      "workers": 7,
+      "city": "PENSACOLA"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/04/2020",
+      "state": "DC",
+      "workers": 18,
+      "city": "Washington D.C."
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/04/2020",
+      "state": "NV",
+      "workers": 40,
+      "city": "He, LV, Re, Cl, Wa County"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/04/2020",
+      "state": "VA",
+      "workers": 1,
+      "city": "Midlothian, VA"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/04/2020",
+      "state": "VA",
+      "workers": 19,
+      "city": "Hampton, Virginia Beach, Williamsburg & Norfolk, VA"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/02/2020",
+      "state": "OH",
+      "workers": 53,
+      "city": "Various Cities/Various Counties"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "03/21/2020",
+      "state": "VA",
+      "workers": 44,
+      "city": "Vienna, Sterling, Alexandria & Leesburg, VA"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "03/21/2020",
+      "state": "VA",
+      "workers": 99,
+      "city": "Fairfax, Arlington, Bailey's Crossroad, Manassas, Prince William, Reston, Herndon & Springfield, VA"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "03/21/2020",
+      "state": "VA",
+      "workers": 6,
+      "city": "Charlottesville, VA"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/23/2020",
+      "state": "MI",
+      "workers": 3,
+      "city": "Southfield"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/23/2020",
+      "state": "MI",
+      "workers": 4,
+      "city": "Ann Arbor"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/23/2020",
+      "state": "MI",
+      "workers": 3,
+      "city": "Allen Park"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/23/2020",
+      "state": "MI",
+      "workers": 1,
+      "city": "Lake Orion"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/23/2020",
+      "state": "MI",
+      "workers": 3,
+      "city": "Canton"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/23/2020",
+      "state": "MI",
+      "workers": 5,
+      "city": "Novi"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/23/2020",
+      "state": "MI",
+      "workers": 5,
+      "city": "Sterling Heights"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/23/2020",
+      "state": "MI",
+      "workers": 9,
+      "city": "Roseville"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/23/2020",
+      "state": "MI",
+      "workers": 4,
+      "city": "Rochester Hills"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/23/2020",
+      "state": "MI",
+      "workers": 2,
+      "city": "Taylor"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/23/2020",
+      "state": "KS",
+      "workers": 25,
+      "city": "3 - Workforce Investment Area III"
+    },
+    {
+      "date": "04/22/2020",
+      "effective_date": "04/05/2020",
+      "state": "WI",
+      "workers": 97,
+      "city": "Kenosha, Milwaukee, Shorewood, West Allis, Wauwatosa, Greendale, Mequon, West Bend, Brookfield, Waukesha, Oconomowoc, Menomonee Falls, Eau Claire, La Crosse"
+    },
+    {
+      "date": "04/22/2020",
+      "effective_date": "04/04/2020",
+      "state": "NY",
+      "workers": 74,
+      "city": "Syracuse"
+    },
+    {
+      "date": "04/22/2020",
+      "effective_date": "04/04/2020",
+      "state": "MO",
+      "workers": 94,
+      "city": null
+    },
+    {
+      "date": "04/22/2020",
+      "effective_date": "04/04/2020",
+      "state": "NY",
+      "workers": 0,
+      "city": "7 New York City Region locations  , NY,"
+    },
+    {
+      "date": "04/22/2020",
+      "effective_date": "04/04/2020",
+      "state": "NY",
+      "workers": 0,
+      "city": "7 Western Region locations  , NY,"
+    },
+    {
+      "date": "04/22/2020",
+      "effective_date": "04/04/2020",
+      "state": "NY",
+      "workers": 0,
+      "city": "7 Southern Region locations  , NY,"
+    },
+    {
+      "date": "04/22/2020",
+      "effective_date": "04/04/2020",
+      "state": "NY",
+      "workers": 0,
+      "city": "5 Mid-Hudson Region locations  , NY,"
+    },
+    {
+      "date": "04/22/2020",
+      "effective_date": "04/04/2020",
+      "state": "NY",
+      "workers": 0,
+      "city": "20 Long Island Region locations  , NY,"
+    },
+    {
+      "date": "04/22/2020",
+      "effective_date": "04/04/2020",
+      "state": "NY",
+      "workers": 0,
+      "city": "12 Capital Region locations  , NY,"
+    },
+    {
+      "date": "04/22/2020",
+      "effective_date": "04/04/2020",
+      "state": "NY",
+      "workers": 0,
+      "city": "3 North Country Region locations  , NY,"
+    },
+    {
+      "date": "04/22/2020",
+      "effective_date": "04/04/2020",
+      "state": "NY",
+      "workers": 0,
+      "city": "7 Finger Lakes Region locations  , NY,"
+    },
+    {
+      "date": "04/22/2020",
+      "effective_date": "04/04/2020",
+      "state": "NY",
+      "workers": 0,
+      "city": "5 Mohawk Valley Region locations  , NY,"
+    },
+    {
+      "date": "04/04/2020",
+      "effective_date": "04/04/2020",
+      "state": "SD",
+      "workers": 8,
+      "city": "Sioux Falls"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "careersource-escarosa",
+      "name": "CareerSource Escarosa",
+      "state": "FL"
+    },
+    {
+      "slug": "careersource-capital-region",
+      "name": "CareerSource Capital Region",
+      "state": "FL"
+    },
+    {
+      "slug": "careersource-pasco-hernando",
+      "name": "CareerSource Pasco Hernando",
+      "state": "FL"
+    },
+    {
+      "slug": "careersource-suncoast",
+      "name": "CareerSource Suncoast",
+      "state": "FL"
+    },
+    {
+      "slug": "frederick-wia",
+      "name": "Frederick WIA",
+      "state": "MD"
+    },
+    {
+      "slug": "susquehanna-wia",
+      "name": "Susquehanna WIA",
+      "state": "MD"
+    },
+    {
+      "slug": "washtenaw-county-employment-training-and-community-services",
+      "name": "Washtenaw County Employment Training and Community Services",
+      "state": "MI"
+    },
+    {
+      "slug": "sioux-falls-msa-wib",
+      "name": "Sioux Falls MSA WIB",
+      "state": "SD"
+    },
+    {
+      "slug": "permian-basin-wda",
+      "name": "Permian Basin WDA",
+      "state": "TX"
+    },
+    {
+      "slug": "rural-capital-wda",
+      "name": "Rural Capital WDA",
+      "state": "TX"
+    },
+    {
+      "slug": "piedmont-workforce-network-lwia-vi",
+      "name": "Piedmont Workforce Network LWIA VI",
+      "state": "VA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

@@ -1,0 +1,103 @@
+{
+  "slug": "dynamic-campus-solutions",
+  "canonical_name": "Dynamic Campus Solutions, Inc.",
+  "fein": null,
+  "lca_filing_count": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 75000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 63627.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 87504.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Institutional Research Administrator",
+      "count": 1,
+      "median_wage_usd": 75000.0
+    },
+    {
+      "title": "Associate Chief Information Officer",
+      "count": 1,
+      "median_wage_usd": 100008.0
+    },
+    {
+      "title": "Portal Services Manager",
+      "count": 1,
+      "median_wage_usd": 63627.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "AL",
+      "county": "MADISON",
+      "count": 2
+    },
+    {
+      "state": "MI",
+      "county": "BERRIEN",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "AL",
+      "count": 2
+    },
+    {
+      "state": "MI",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 2,
+    "continuing_denials": 0,
+    "total_approvals": 3,
+    "by_fy": [
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      }
+    ]
+  },
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3021",
+    "soc_title": "Computer and Information Systems Managers",
+    "market_median_usd": 169510.0,
+    "employer_median_usd": 63627.0,
+    "gap_usd": -105883.0
+  }
+}

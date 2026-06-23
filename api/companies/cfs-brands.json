@@ -1,0 +1,69 @@
+{
+  "slug": "cfs-brands",
+  "canonical_name": "CFS Brands, LLC",
+  "fein": "31-1075965",
+  "lca_filing_count": 1,
+  "warn_notice_count": 2,
+  "median_wage_usd": 85000.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 85000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Manager, Sourcing",
+      "count": 1,
+      "median_wage_usd": 85000.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "OK",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "OK",
+      "county": "OKLAHOMA",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "02/09/2023",
+      "effective_date": "06/30/2023",
+      "state": "WI",
+      "workers": 32,
+      "city": "Elkhorn"
+    },
+    {
+      "date": "11/12/2019",
+      "effective_date": "01/31/2020",
+      "state": "WI",
+      "workers": 83,
+      "city": "Sparta"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "southeast-wda",
+      "name": "Southeast WDA",
+      "state": "WI"
+    },
+    {
+      "slug": "western-wda",
+      "name": "Western WDA",
+      "state": "WI"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "lca_worker_positions": 1,
+  "top_socs": [],
+  "lca_periods": []
+}

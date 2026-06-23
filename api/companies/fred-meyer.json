@@ -1,0 +1,125 @@
+{
+  "slug": "fred-meyer",
+  "canonical_name": "Fred Meyer",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 11,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "WA",
+      "count": 10
+    },
+    {
+      "state": "OR",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "10/18/2025",
+      "effective_date": "10/18/2025",
+      "state": "WA",
+      "workers": 201,
+      "city": "Seattle"
+    },
+    {
+      "date": "10/18/2025",
+      "effective_date": "10/18/2025",
+      "state": "WA",
+      "workers": 194,
+      "city": "Redmond"
+    },
+    {
+      "date": "10/17/2025",
+      "effective_date": "10/17/2025",
+      "state": "WA",
+      "workers": 189,
+      "city": "Everett"
+    },
+    {
+      "date": "10/17/2025",
+      "effective_date": "10/17/2025",
+      "state": "WA",
+      "workers": 172,
+      "city": "Kent"
+    },
+    {
+      "date": "09/27/2025",
+      "effective_date": "09/27/2025",
+      "state": "WA",
+      "workers": 226,
+      "city": "Tacoma"
+    },
+    {
+      "date": "08/22/2025",
+      "effective_date": "10/18/2025",
+      "state": "WA",
+      "workers": 201,
+      "city": "Seattle"
+    },
+    {
+      "date": "08/22/2025",
+      "effective_date": "10/18/2025",
+      "state": "WA",
+      "workers": 194,
+      "city": "Redmond"
+    },
+    {
+      "date": "08/22/2025",
+      "effective_date": "10/17/2025",
+      "state": "WA",
+      "workers": 189,
+      "city": "Everett"
+    },
+    {
+      "date": "08/22/2025",
+      "effective_date": "10/17/2025",
+      "state": "WA",
+      "workers": 172,
+      "city": "Kent"
+    },
+    {
+      "date": "07/29/2025",
+      "effective_date": "09/27/2025",
+      "state": "WA",
+      "workers": 226,
+      "city": "Tacoma"
+    },
+    {
+      "date": "07/16/2025",
+      "effective_date": "09/20/2025",
+      "state": "OR",
+      "workers": 249,
+      "city": "Portland"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "portland-metro-wia",
+      "name": "Portland Metro WIA",
+      "state": "OR"
+    },
+    {
+      "slug": "snohomish-county-wib",
+      "name": "Snohomish County WIB",
+      "state": "WA"
+    },
+    {
+      "slug": "seattleking-county-wib",
+      "name": "Seattle/King County WIB",
+      "state": "WA"
+    },
+    {
+      "slug": "tacomapierce-county-wib",
+      "name": "Tacoma/Pierce County WIB",
+      "state": "WA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

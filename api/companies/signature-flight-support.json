@@ -1,0 +1,140 @@
+{
+  "slug": "signature-flight-support",
+  "canonical_name": "Signature Flight Support LLC",
+  "fein": "59-3030932",
+  "lca_filing_count": 3,
+  "warn_notice_count": 2,
+  "median_wage_usd": 110000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 66467.04
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 112000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 110000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Digital Marketing Strategy Analyst",
+      "count": 1,
+      "median_wage_usd": 66467.04
+    },
+    {
+      "title": "Analyst, HR Systems & Data - Kronos",
+      "count": 1,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "Human Resources Information Systems Analyst",
+      "count": 1,
+      "median_wage_usd": 112000.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "FL",
+      "count": 3
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "FL",
+      "county": "ORANGE",
+      "count": 2
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "03/04/2024",
+      "effective_date": "03/04/2024",
+      "state": "HI",
+      "workers": 0,
+      "city": null
+    },
+    {
+      "date": "08/18/2020",
+      "effective_date": "08/18/2020",
+      "state": "NJ",
+      "workers": 0,
+      "city": "Atlantic City"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "atlantic-cape-may-wib",
+      "name": "Atlantic-Cape May WIB",
+      "state": "NJ"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 4,
+    "continuing_denials": 3,
+    "total_approvals": 4,
+    "by_fy": [
+      {
+        "fy": 2014,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2015,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 4,
+        "continuing_denials": 2,
+        "total_approvals": 4
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 1,
+        "total_approvals": 0
+      }
+    ]
+  },
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Computer Systems Engineers/Architects",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 111000.0,
+    "gap_usd": -7000.0
+  }
+}

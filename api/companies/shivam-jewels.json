@@ -1,0 +1,56 @@
+{
+  "slug": "shivam-jewels",
+  "canonical_name": "SHIVAM JEWELS INC.",
+  "fein": "92-1561670",
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 112320.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 114400.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 110240.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "FINANCIAL ANALYST",
+      "count": 1,
+      "median_wage_usd": 114400.0
+    },
+    {
+      "title": "DATA ANALYST",
+      "count": 1,
+      "median_wage_usd": 110240.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 110240.0,
+    "gap_usd": 2220.0
+  }
+}

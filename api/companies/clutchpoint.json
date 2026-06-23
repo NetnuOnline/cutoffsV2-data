@@ -1,0 +1,168 @@
+{
+  "slug": "clutchpoint",
+  "canonical_name": "Clutchpoint, LLC",
+  "fein": "20-1601871",
+  "lca_filing_count": 30,
+  "lca_worker_positions": 30,
+  "warn_notice_count": 0,
+  "median_wage_usd": 95500.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 4,
+      "median_wage_usd": 85000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 90000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 5,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 8,
+      "median_wage_usd": 99500.0
+    },
+    {
+      "fy": 2024,
+      "filings": 4,
+      "median_wage_usd": 90500.0
+    },
+    {
+      "fy": 2025,
+      "filings": 6,
+      "median_wage_usd": 103500.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 87188.79999999999,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 23,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "title": "SOFTWARE DEVELOPER",
+      "count": 4,
+      "median_wage_usd": 85000.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 3,
+      "median_wage_usd": 85134.4
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "KY",
+      "county": "FAYETTE",
+      "count": 2
+    },
+    {
+      "state": "PA",
+      "county": "ERIE",
+      "count": 2
+    },
+    {
+      "state": "VA",
+      "county": "FAIRFAX",
+      "count": 2
+    },
+    {
+      "state": "NC",
+      "county": "WAKE",
+      "count": 2
+    },
+    {
+      "state": "PA",
+      "county": "CHESTER",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "county": "BROWARD",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "county": "LEON",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "county": "CLARK",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "county": "LOUDOUN",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "PA",
+      "count": 5
+    },
+    {
+      "state": "NC",
+      "count": 4
+    },
+    {
+      "state": "VA",
+      "count": 4
+    },
+    {
+      "state": "NJ",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "count": 3
+    },
+    {
+      "state": "FL",
+      "count": 3
+    },
+    {
+      "state": "GA",
+      "count": 2
+    },
+    {
+      "state": "KY",
+      "count": 2
+    },
+    {
+      "state": "WA",
+      "count": 2
+    },
+    {
+      "state": "MI",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 98000.0,
+    "gap_usd": -32160.0
+  }
+}

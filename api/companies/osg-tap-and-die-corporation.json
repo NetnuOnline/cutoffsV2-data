@@ -1,0 +1,48 @@
+{
+  "slug": "osg-tap-and-die-corporation",
+  "canonical_name": "Osg Tap And Die Corporation",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 1,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "04/11/2002",
+      "effective_date": "04/11/2002",
+      "state": "GA",
+      "workers": 117,
+      "city": "Brunswick"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": {
+    "filings": [
+      {
+        "filingDate": "2012-03-20",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-12-122766",
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000874501&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2010-11-10",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-10-256201",
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000874501&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 2,
+    "latestFilingDate": "2012-03-20",
+    "earliestFilingDate": "2010-11-10"
+  },
+  "source": "warntracker"
+}

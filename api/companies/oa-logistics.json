@@ -1,0 +1,54 @@
+{
+  "slug": "oa-logistics",
+  "canonical_name": "OA Logistics",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 3,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "09/18/2023",
+      "effective_date": "03/18/2023",
+      "state": "GA",
+      "workers": 345,
+      "city": "550 Northport Pkwy, Port Wentworth, Georgia"
+    },
+    {
+      "date": "01/18/2023",
+      "effective_date": "03/18/2023",
+      "state": "GA",
+      "workers": 345,
+      "city": "550 Northport Pkwy, Port Wentworth, Georgia"
+    },
+    {
+      "date": "01/12/2023",
+      "effective_date": "03/11/2023",
+      "state": "CA",
+      "workers": 90,
+      "city": "Woodland"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "ncc-north-central-counties-consortium-wib",
+      "name": "NCC (North Central Counties Consortium) WIB",
+      "state": "CA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

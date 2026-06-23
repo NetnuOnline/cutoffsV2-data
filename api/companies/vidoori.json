@@ -1,0 +1,128 @@
+{
+  "slug": "vidoori",
+  "canonical_name": "Vidoori, Inc.",
+  "fein": "26-3184467",
+  "lca_filing_count": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 79515.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 93634.05
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 71342.5
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 88816.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "COST ACCOUNTANT/FINANCIAL ANALYST",
+      "count": 2,
+      "median_wage_usd": 79515.0
+    },
+    {
+      "title": "Accountant",
+      "count": 1,
+      "median_wage_usd": 88816.0
+    },
+    {
+      "title": "PROGRAMMER/ANALYST ",
+      "count": 1,
+      "median_wage_usd": 63170.0
+    },
+    {
+      "title": " SYSTEMS INTEGRATION AND TEST ENGINEER",
+      "count": 1,
+      "median_wage_usd": 107753.1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MD",
+      "county": "MONTGOMERY",
+      "count": 4
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MD",
+      "count": 5
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 3,
+    "initial_denials": 0,
+    "continuing_approvals": 2,
+    "continuing_denials": 0,
+    "total_approvals": 5,
+    "by_fy": [
+      {
+        "fy": 2017,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 5,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-2011",
+    "soc_title": "Accountants and Auditors",
+    "market_median_usd": 79000.0,
+    "employer_median_usd": 79515.0,
+    "gap_usd": 515.0
+  }
+}

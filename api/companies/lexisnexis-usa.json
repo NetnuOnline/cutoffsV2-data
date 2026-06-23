@@ -1,0 +1,237 @@
+{
+  "slug": "lexisnexis-usa",
+  "canonical_name": "LexisNexis USA",
+  "fein": null,
+  "lca_filing_count": 101,
+  "warn_notice_count": 0,
+  "median_wage_usd": 126027.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 19,
+      "median_wage_usd": 91291.0
+    },
+    {
+      "fy": 2021,
+      "filings": 30,
+      "median_wage_usd": 124848.13
+    },
+    {
+      "fy": 2022,
+      "filings": 43,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 9,
+      "median_wage_usd": 138000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Software Engineer",
+      "count": 12,
+      "median_wage_usd": 116245.25
+    },
+    {
+      "title": "Software Engineer II",
+      "count": 11,
+      "median_wage_usd": 79594.16
+    },
+    {
+      "title": "Software Engineering Lead",
+      "count": 8,
+      "median_wage_usd": 143013.5
+    },
+    {
+      "title": "Senior Software Engineer ",
+      "count": 7,
+      "median_wage_usd": 137500.0
+    },
+    {
+      "title": "Senior Quality Test Engineer",
+      "count": 5,
+      "median_wage_usd": 112336.18
+    },
+    {
+      "title": "Software Engineer III",
+      "count": 5,
+      "median_wage_usd": 91291.0
+    },
+    {
+      "title": "Software Engineer III ",
+      "count": 4,
+      "median_wage_usd": 101187.5
+    },
+    {
+      "title": "Software Engineering Lead ",
+      "count": 4,
+      "median_wage_usd": 146900.0
+    },
+    {
+      "title": "Consulting/Principal Software Engineer",
+      "count": 4,
+      "median_wage_usd": 138000.0
+    },
+    {
+      "title": "Senior DevOps Cloud Engineer",
+      "count": 4,
+      "median_wage_usd": 132500.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NC",
+      "county": "WAKE",
+      "count": 79
+    },
+    {
+      "state": "OH",
+      "county": "MONTGOMERY",
+      "count": 6
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "SAN MATEO",
+      "count": 2
+    },
+    {
+      "state": "VA",
+      "county": "FAIRFAX",
+      "count": 1
+    },
+    {
+      "state": "IN",
+      "county": "HAMILTON",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "county": "MIDDLESEX",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "county": "OAKLAND",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "county": "MECKLENBURG",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NC",
+      "count": 80
+    },
+    {
+      "state": "OH",
+      "count": 7
+    },
+    {
+      "state": "CA",
+      "count": 4
+    },
+    {
+      "state": "GA",
+      "count": 2
+    },
+    {
+      "state": "MI",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "count": 1
+    },
+    {
+      "state": "AZ",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 72,
+    "initial_denials": 2,
+    "continuing_approvals": 182,
+    "continuing_denials": 1,
+    "total_approvals": 254,
+    "by_fy": [
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 22,
+        "initial_denials": 2,
+        "continuing_approvals": 48,
+        "continuing_denials": 0,
+        "total_approvals": 70
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 25,
+        "initial_denials": 0,
+        "continuing_approvals": 50,
+        "continuing_denials": 1,
+        "total_approvals": 75
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 24,
+        "initial_denials": 0,
+        "continuing_approvals": 48,
+        "continuing_denials": 0,
+        "total_approvals": 72
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 36,
+        "continuing_denials": 0,
+        "total_approvals": 37
+      }
+    ]
+  },
+  "lca_worker_positions": 101,
+  "top_socs": [],
+  "lca_periods": []
+}

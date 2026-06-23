@@ -1,0 +1,203 @@
+{
+  "slug": "APPLE INC",
+  "canonical_name": "Apple Inc.",
+  "fein": "99-1893861",
+  "lca_filing_count": 8287,
+  "lca_worker_positions": 18328,
+  "warn_notice_count": 0,
+  "median_wage_usd": 172784.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 775,
+      "median_wage_usd": 165000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 984,
+      "median_wage_usd": 167000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 1118,
+      "median_wage_usd": 178078.0
+    },
+    {
+      "fy": 2023,
+      "filings": 914,
+      "median_wage_usd": 165380.5
+    },
+    {
+      "fy": 2024,
+      "filings": 1287,
+      "median_wage_usd": 170000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1509,
+      "median_wage_usd": 181848.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1649,
+      "median_wage_usd": 175053.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Development Engineer - Applications",
+      "count": 522,
+      "median_wage_usd": 179800.0
+    },
+    {
+      "title": "Software Development Engineer",
+      "count": 464,
+      "median_wage_usd": 184591.5
+    },
+    {
+      "title": "Software Development Engineering",
+      "count": 332,
+      "median_wage_usd": 189592.0
+    },
+    {
+      "title": "Software Engineering Applications",
+      "count": 327,
+      "median_wage_usd": 189216.0
+    },
+    {
+      "title": "Software Engineering Systems",
+      "count": 243,
+      "median_wage_usd": 181848.0
+    },
+    {
+      "title": "Software Development Engineer - Systems",
+      "count": 220,
+      "median_wage_usd": 172784.0
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "count": 207,
+      "median_wage_usd": 192941.0
+    },
+    {
+      "title": "Software Development Engineer - Test",
+      "count": 185,
+      "median_wage_usd": 175000.0
+    },
+    {
+      "title": "Engineering Project Manager",
+      "count": 169,
+      "median_wage_usd": 170000.0
+    },
+    {
+      "title": "Machine Learning",
+      "count": 159,
+      "median_wage_usd": 189524.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 3965
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 650
+    },
+    {
+      "state": "CA",
+      "county": "SAN DIEGO",
+      "count": 327
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 320
+    },
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 110
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 107
+    },
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 76
+    },
+    {
+      "state": "OR",
+      "county": "WASHINGTON",
+      "count": 29
+    },
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 26
+    },
+    {
+      "state": "CA",
+      "county": "SACRAMENTO",
+      "count": 26
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 6363
+    },
+    {
+      "state": "TX",
+      "count": 1087
+    },
+    {
+      "state": "WA",
+      "count": 453
+    },
+    {
+      "state": "NY",
+      "count": 142
+    },
+    {
+      "state": "OR",
+      "count": 49
+    },
+    {
+      "state": "MA",
+      "count": 46
+    },
+    {
+      "state": "CO",
+      "count": 32
+    },
+    {
+      "state": "NC",
+      "count": 31
+    },
+    {
+      "state": "FL",
+      "count": 18
+    },
+    {
+      "state": "VA",
+      "count": 9
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 182312.0,
+    "gap_usd": 52152.0
+  }
+}

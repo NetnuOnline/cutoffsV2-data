@@ -1,0 +1,82 @@
+{
+  "slug": "dailypay",
+  "canonical_name": "Dailypay, Inc.",
+  "fein": "47-5035714",
+  "lca_filing_count": 5,
+  "lca_worker_positions": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 140000.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 165000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 111966.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 170000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Director of Strategic Initiatives and Business Operations",
+      "count": 1,
+      "median_wage_usd": 170000.0
+    },
+    {
+      "title": "Senior Associate \u2013 Revenue Strategy & Operations",
+      "count": 1,
+      "median_wage_usd": 111966.0
+    },
+    {
+      "title": "Marketing Director",
+      "count": 1,
+      "median_wage_usd": 190000.0
+    },
+    {
+      "title": "Manager, Revenue Strategy & Operations",
+      "count": 1,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "title": "Senior Data Scientist",
+      "count": 1,
+      "median_wage_usd": 140000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 5
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Business Intelligence Analysts",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 111966.0,
+    "gap_usd": 3946.0
+  }
+}

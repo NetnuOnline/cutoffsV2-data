@@ -1,0 +1,92 @@
+{
+  "slug": "fortanix",
+  "canonical_name": "Fortanix. Inc",
+  "fein": "81-3039601",
+  "lca_filing_count": 7,
+  "lca_worker_positions": 7,
+  "warn_notice_count": 0,
+  "median_wage_usd": 150000.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 134250.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 143325.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 207324.25
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 146500.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Product Manager",
+      "count": 1,
+      "median_wage_usd": 189820.0
+    },
+    {
+      "title": "SCRUM MASTER",
+      "count": 1,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "title": "Project Manager",
+      "count": 1,
+      "median_wage_usd": 143000.0
+    },
+    {
+      "title": "Senior Network Engineer",
+      "count": 1,
+      "median_wage_usd": 143325.0
+    },
+    {
+      "title": "SENIOR PRODUCT MANAGER",
+      "count": 1,
+      "median_wage_usd": 153500.0
+    },
+    {
+      "title": "Senior Engineering Manager",
+      "count": 1,
+      "median_wage_usd": 224828.5
+    },
+    {
+      "title": "Scrum Master",
+      "count": 1,
+      "median_wage_usd": 150000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 5
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 7
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Information Technology Project Managers",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 151750.0,
+    "gap_usd": 33750.0
+  }
+}

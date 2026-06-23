@@ -1,0 +1,80 @@
+{
+  "slug": "ghn-technologies",
+  "canonical_name": "GHN Technologies Inc",
+  "fein": "99-1700986",
+  "lca_filing_count": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 96283.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 103594.5
+    },
+    {
+      "fy": 2025,
+      "filings": 4,
+      "median_wage_usd": 90989.5
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 2,
+      "median_wage_usd": 103594.5
+    },
+    {
+      "title": "Project Manager",
+      "count": 2,
+      "median_wage_usd": 83949.0
+    },
+    {
+      "title": "Quality Test Engineer",
+      "count": 1,
+      "median_wage_usd": 91374.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 1,
+      "median_wage_usd": 112923.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "county": "HILLSBOROUGH",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 5
+    },
+    {
+      "state": "FL",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 6,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 105997.0,
+    "gap_usd": -24163.0
+  }
+}

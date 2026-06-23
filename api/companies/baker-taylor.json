@@ -1,0 +1,171 @@
+{
+  "slug": "baker-taylor",
+  "canonical_name": "Baker & Taylor, LLC",
+  "fein": "47-3179974",
+  "lca_filing_count": 5,
+  "warn_notice_count": 10,
+  "median_wage_usd": 115000.08,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 90000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 115000.08
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Project Manager, Software Development",
+      "count": 2,
+      "median_wage_usd": 129000.04000000001
+    },
+    {
+      "title": "Enterprise Applications Development Manager",
+      "count": 1,
+      "median_wage_usd": 115000.08
+    },
+    {
+      "title": "Quality Assurance Engineer ",
+      "count": 1,
+      "median_wage_usd": 90000.0
+    },
+    {
+      "title": "Software Quality Assurance Lead ",
+      "count": 1,
+      "median_wage_usd": 100000.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NC",
+      "count": 4
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NC",
+      "county": "MECKLENBURG",
+      "count": 4
+    },
+    {
+      "state": "GA",
+      "county": "JACKSON",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "01/04/2026",
+      "effective_date": "01/04/2026",
+      "state": "NJ",
+      "workers": 67,
+      "city": "Bridgewater"
+    },
+    {
+      "date": "11/10/2025",
+      "effective_date": "10/06/2025",
+      "state": "GA",
+      "workers": 289,
+      "city": "251 Mt Olive Church Rd, Commerce, Georgia"
+    },
+    {
+      "date": "10/06/2025",
+      "effective_date": "01/23/2026",
+      "state": "NC",
+      "workers": 112,
+      "city": "2810 Coliseum Centre Drive, Charlotte"
+    },
+    {
+      "date": "10/06/2025",
+      "effective_date": "10/06/2025",
+      "state": "IL",
+      "workers": 318,
+      "city": "Momence"
+    },
+    {
+      "date": "07/03/2019",
+      "effective_date": "07/03/2019",
+      "state": "NJ",
+      "workers": 244,
+      "city": "Bridgewater"
+    },
+    {
+      "date": "05/01/2019",
+      "effective_date": "05/01/2019",
+      "state": "NC",
+      "workers": 37,
+      "city": "2550 W Tyvola Rd, Charlotte"
+    },
+    {
+      "date": "05/01/2019",
+      "effective_date": "05/01/2019",
+      "state": "NJ",
+      "workers": 244,
+      "city": "Bridgewater"
+    },
+    {
+      "date": "08/26/2003",
+      "effective_date": "12/01/2003",
+      "state": "IL",
+      "workers": 72,
+      "city": "Niles"
+    },
+    {
+      "date": "11/10/1999",
+      "effective_date": "11/10/1999",
+      "state": "IL",
+      "workers": 0,
+      "city": "Niles"
+    },
+    {
+      "date": "10/11/1999",
+      "effective_date": "03/01/2000",
+      "state": "IL",
+      "workers": 112,
+      "city": "Morton Grove"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "grundy-livingston-kankakee-wib",
+      "name": "Grundy-Livingston-Kankakee WIB",
+      "state": "IL"
+    },
+    {
+      "slug": "greater-raritan-wib",
+      "name": "Greater Raritan WIB",
+      "state": "NJ"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1253",
+    "soc_title": "Software Quality Assurance Analysts and Testers",
+    "market_median_usd": 101800.0,
+    "employer_median_usd": 100000.0,
+    "gap_usd": -1800.0
+  }
+}

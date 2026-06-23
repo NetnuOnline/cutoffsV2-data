@@ -1,0 +1,76 @@
+{
+  "slug": "sg-softech",
+  "canonical_name": "SG Softech LLC",
+  "fein": "82-1224231",
+  "lca_filing_count": 3,
+  "lca_worker_positions": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 112424.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 77958.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 112986.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 112424.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": ".Net Full Stack Developer",
+      "count": 1,
+      "median_wage_usd": 112986.0
+    },
+    {
+      "title": "Data Analyst",
+      "count": 1,
+      "median_wage_usd": 77958.0
+    },
+    {
+      "title": "Java Developer",
+      "count": 1,
+      "median_wage_usd": 112424.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "SC",
+      "county": "YORK",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "county": "MECKLENBURG",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NC",
+      "count": 2
+    },
+    {
+      "state": "SC",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 112705.0,
+    "gap_usd": -17455.0
+  }
+}

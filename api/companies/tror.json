@@ -1,0 +1,194 @@
+{
+  "slug": "tror",
+  "canonical_name": "Tror LLC",
+  "fein": "84-3962311",
+  "lca_filing_count": 26,
+  "lca_worker_positions": 25,
+  "warn_notice_count": 0,
+  "median_wage_usd": 104280.5,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 83907.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 109000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 128908.0
+    },
+    {
+      "fy": 2024,
+      "filings": 6,
+      "median_wage_usd": 105612.0
+    },
+    {
+      "fy": 2025,
+      "filings": 6,
+      "median_wage_usd": 109498.5
+    },
+    {
+      "fy": 2026,
+      "filings": 8,
+      "median_wage_usd": 101617.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Data Engineer",
+      "count": 7,
+      "median_wage_usd": 105997.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 6,
+      "median_wage_usd": 101098.0
+    },
+    {
+      "title": "Sr. Data Engineer",
+      "count": 2,
+      "median_wage_usd": 91863.5
+    },
+    {
+      "title": "Business Intelligence Developer",
+      "count": 1,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "title": "Technical Product Manager",
+      "count": 1,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "Technical Product Owner",
+      "count": 1,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 1,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "Senior Teradata Operations Administrator",
+      "count": 1,
+      "median_wage_usd": 83907.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 1,
+      "median_wage_usd": 112923.0
+    },
+    {
+      "title": "Senior Data Engineer",
+      "count": 1,
+      "median_wage_usd": 98000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TN",
+      "county": "WILLIAMSON",
+      "count": 3
+    },
+    {
+      "state": "FL",
+      "county": "PASCO",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "county": "ALBANY",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "county": "BROWARD",
+      "count": 1
+    },
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 1
+    },
+    {
+      "state": "TN",
+      "county": "MAURY",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 8
+    },
+    {
+      "state": "TN",
+      "count": 7
+    },
+    {
+      "state": "NY",
+      "count": 2
+    },
+    {
+      "state": "FL",
+      "count": 2
+    },
+    {
+      "state": "NC",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    },
+    {
+      "state": "AZ",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 107998.5,
+    "gap_usd": -22161.5
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "slug": "franklin-templeton",
+  "canonical_name": "Franklin Templeton",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 3,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "FL",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "12/02/2021",
+      "effective_date": "01/31/2022",
+      "state": "FL",
+      "workers": 206,
+      "city": "SAINT PETERSBURG"
+    },
+    {
+      "date": "11/29/2021",
+      "effective_date": "01/31/2022",
+      "state": "FL",
+      "workers": 175,
+      "city": "SAINT PETERSBURG"
+    },
+    {
+      "date": "11/24/2021",
+      "effective_date": "01/31/2022",
+      "state": "CA",
+      "workers": 4,
+      "city": "San Mateo"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "careersource-pinellas",
+      "name": "CareerSource Pinellas",
+      "state": "FL"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

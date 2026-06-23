@@ -1,0 +1,203 @@
+{
+  "slug": "ca",
+  "canonical_name": "CA, Inc.",
+  "fein": "13-2857434",
+  "lca_filing_count": 107,
+  "lca_worker_positions": 382,
+  "warn_notice_count": 0,
+  "median_wage_usd": 149781.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 6,
+      "median_wage_usd": 152549.5
+    },
+    {
+      "fy": 2021,
+      "filings": 17,
+      "median_wage_usd": 144200.0
+    },
+    {
+      "fy": 2022,
+      "filings": 34,
+      "median_wage_usd": 153837.0
+    },
+    {
+      "fy": 2023,
+      "filings": 23,
+      "median_wage_usd": 152000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 14,
+      "median_wage_usd": 141121.0
+    },
+    {
+      "fy": 2025,
+      "filings": 10,
+      "median_wage_usd": 143452.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 149080.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "R&D Engineer Software",
+      "count": 54,
+      "median_wage_usd": 141121.0
+    },
+    {
+      "title": "R&D ENGINEER SOFTWARE",
+      "count": 13,
+      "median_wage_usd": 149992.36
+    },
+    {
+      "title": "Client Services Consultant",
+      "count": 5,
+      "median_wage_usd": 154669.0
+    },
+    {
+      "title": "R&D Engineer Software ",
+      "count": 4,
+      "median_wage_usd": 160439.5
+    },
+    {
+      "title": "R&D ENGINEER SW QUALITY",
+      "count": 3,
+      "median_wage_usd": 158510.0
+    },
+    {
+      "title": "Supervisor, R&D Software",
+      "count": 3,
+      "median_wage_usd": 136136.0
+    },
+    {
+      "title": "SAAS Platform & Delivery Engineer",
+      "count": 2,
+      "median_wage_usd": 172196.5
+    },
+    {
+      "title": "SAAS PLATFORM & DELIVERY ENGINEER ",
+      "count": 2,
+      "median_wage_usd": 162500.0
+    },
+    {
+      "title": "Manager, R&D Software",
+      "count": 2,
+      "median_wage_usd": 153047.0
+    },
+    {
+      "title": "SaaS Platform & Delivery Engineer",
+      "count": 2,
+      "median_wage_usd": 168542.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 34
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 13
+    },
+    {
+      "state": "IL",
+      "county": "DUPAGE",
+      "count": 8
+    },
+    {
+      "state": "MA",
+      "county": "BURLINGTON",
+      "count": 7
+    },
+    {
+      "state": "NC",
+      "county": "DURHAM",
+      "count": 7
+    },
+    {
+      "state": "UT",
+      "county": "SALT LAKE",
+      "count": 6
+    },
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 5
+    },
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 4
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 2
+    },
+    {
+      "state": "MD",
+      "county": "HOWARD",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 50
+    },
+    {
+      "state": "TX",
+      "count": 20
+    },
+    {
+      "state": "NC",
+      "count": 10
+    },
+    {
+      "state": "IL",
+      "count": 9
+    },
+    {
+      "state": "MA",
+      "count": 7
+    },
+    {
+      "state": "UT",
+      "count": 6
+    },
+    {
+      "state": "MD",
+      "count": 2
+    },
+    {
+      "state": "PA",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 149781.0,
+    "gap_usd": 19621.0
+  }
+}

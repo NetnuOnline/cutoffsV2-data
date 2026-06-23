@@ -1,0 +1,118 @@
+{
+  "slug": "sia-partners-us",
+  "canonical_name": "Sia Partners US, Inc.",
+  "fein": "74-3243189",
+  "lca_filing_count": 6,
+  "lca_worker_positions": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 97200.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 89835.0
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 97200.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 128100.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 84000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 115000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Consultant - Finance Transformation",
+      "count": 2,
+      "median_wage_usd": 97200.0
+    },
+    {
+      "title": "Management Consultant - Financial Services",
+      "count": 1,
+      "median_wage_usd": 89835.0
+    },
+    {
+      "title": "Senior Data Science Consultant",
+      "count": 1,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "title": "Data Science Consultant",
+      "count": 1,
+      "median_wage_usd": 128100.0
+    },
+    {
+      "title": "Associate Consultant",
+      "count": 1,
+      "median_wage_usd": 84000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "county": "HUDSON",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "CO",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1111",
+    "soc_title": "Management Analysts",
+    "market_median_usd": 99000.0,
+    "employer_median_usd": 89835.0,
+    "gap_usd": -9165.0
+  }
+}

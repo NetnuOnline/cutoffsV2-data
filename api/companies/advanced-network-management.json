@@ -1,0 +1,114 @@
+{
+  "slug": "advanced-network-management",
+  "canonical_name": "Advanced Network Management, Inc.",
+  "fein": "85-0427142",
+  "lca_filing_count": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 150000.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 96000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 139095.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 195000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Consulting Architect",
+      "count": 2,
+      "median_wage_usd": 195000.0
+    },
+    {
+      "title": "AUTOMATION ENGINEER",
+      "count": 1,
+      "median_wage_usd": 96000.0
+    },
+    {
+      "title": "Team Lead",
+      "count": 1,
+      "median_wage_usd": 128190.0
+    },
+    {
+      "title": "RPA Solutions Architect",
+      "count": 1,
+      "median_wage_usd": 150000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 1
+    },
+    {
+      "state": "CO",
+      "county": "DOUGLAS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "CO",
+      "count": 2
+    },
+    {
+      "state": "DC",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 8,
+    "continuing_denials": 0,
+    "total_approvals": 8,
+    "by_fy": [
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 5,
+        "continuing_denials": 0,
+        "total_approvals": 5
+      }
+    ]
+  },
+  "lca_worker_positions": 5,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1244",
+    "soc_title": "Network and Computer Systems Administrators",
+    "market_median_usd": 95000.0,
+    "employer_median_usd": 195000.0,
+    "gap_usd": 100000.0
+  }
+}

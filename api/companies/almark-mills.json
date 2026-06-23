@@ -1,0 +1,43 @@
+{
+  "slug": "almark-mills",
+  "canonical_name": "Almark Mills",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "10/02/1997",
+      "effective_date": "10/02/1997",
+      "state": "GA",
+      "workers": 150,
+      "city": "Dawson"
+    },
+    {
+      "date": "07/31/1996",
+      "effective_date": "07/31/1996",
+      "state": "GA",
+      "workers": 200,
+      "city": "Dawson"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "southwest-georgia-wib",
+      "name": "Southwest Georgia WIB",
+      "state": "GA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

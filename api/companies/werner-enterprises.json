@@ -1,0 +1,148 @@
+{
+  "slug": "werner-enterprises",
+  "canonical_name": "Werner Enterprises, Inc.",
+  "fein": "47-0648386",
+  "lca_filing_count": 14,
+  "lca_worker_positions": 14,
+  "warn_notice_count": 0,
+  "median_wage_usd": 101679.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 4,
+      "median_wage_usd": 91488.5
+    },
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 119069.5
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 96855.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 116992.98
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 94598.5
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 116992.98,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 6,
+      "median_wage_usd": 102315.0
+    },
+    {
+      "title": "Enterprise Architect",
+      "count": 1,
+      "median_wage_usd": 119101.0
+    },
+    {
+      "title": "Java Developer 3",
+      "count": 1,
+      "median_wage_usd": 93038.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 1,
+      "median_wage_usd": 125798.0
+    },
+    {
+      "title": "Associate Application Architect",
+      "count": 1,
+      "median_wage_usd": 112341.0
+    },
+    {
+      "title": " Developer 3",
+      "count": 1,
+      "median_wage_usd": 89939.0
+    },
+    {
+      "title": "Application Architect 2",
+      "count": 1,
+      "median_wage_usd": 102000.0
+    },
+    {
+      "title": "Senior QA Engineer",
+      "count": 1,
+      "median_wage_usd": 85925.0
+    },
+    {
+      "title": "QA Software Engineer",
+      "count": 1,
+      "median_wage_usd": 79706.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NE",
+      "county": "SARPY",
+      "count": 7
+    },
+    {
+      "state": "NC",
+      "county": "WAKE",
+      "count": 2
+    },
+    {
+      "state": "MN",
+      "county": "HENNEPIN",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "county": "FORSYTH",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NE",
+      "count": 9
+    },
+    {
+      "state": "NC",
+      "count": 2
+    },
+    {
+      "state": "MN",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 103272.0,
+    "gap_usd": -26888.0
+  }
+}

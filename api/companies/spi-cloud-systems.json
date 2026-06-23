@@ -1,0 +1,82 @@
+{
+  "slug": "spi-cloud-systems",
+  "canonical_name": "SPI Cloud Systems LLC",
+  "fein": "85-0833254",
+  "lca_filing_count": 5,
+  "lca_worker_positions": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 105000.0,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 126000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Technical Project Manager",
+      "count": 1,
+      "median_wage_usd": 145000.0
+    },
+    {
+      "title": "Software Developer - Java / AWS",
+      "count": 1,
+      "median_wage_usd": 107000.0
+    },
+    {
+      "title": "Cloud Engineer",
+      "count": 1,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "title": "Software Developer - .Net / Azure",
+      "count": 1,
+      "median_wage_usd": 105000.0
+    },
+    {
+      "title": "Data Scientist",
+      "count": 1,
+      "median_wage_usd": 78000.0
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "MI",
+      "count": 1
+    },
+    {
+      "state": "MN",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "UT",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 106000.0,
+    "gap_usd": -24160.0
+  }
+}

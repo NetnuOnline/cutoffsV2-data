@@ -1,0 +1,47 @@
+{
+  "slug": "tl-transportation",
+  "canonical_name": "TL Transportation, LLC",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "MD",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "08/12/2020",
+      "effective_date": "10/15/2020",
+      "state": "MD",
+      "workers": 70,
+      "city": "Rockville"
+    },
+    {
+      "date": "08/03/2020",
+      "effective_date": "11/07/2020",
+      "state": "NY",
+      "workers": 76,
+      "city": "Rochester"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "monroe-county-lwia",
+      "name": "Monroe County LWIA",
+      "state": "NY"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

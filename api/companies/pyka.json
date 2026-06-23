@@ -1,0 +1,92 @@
+{
+  "slug": "pyka",
+  "canonical_name": "Pyka Inc.",
+  "fein": "81-4448026",
+  "lca_filing_count": 7,
+  "lca_worker_positions": 7,
+  "warn_notice_count": 0,
+  "median_wage_usd": 160000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 160000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 150304.0
+    },
+    {
+      "fy": 2025,
+      "filings": 4,
+      "median_wage_usd": 235000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 150426.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "VP, Finance",
+      "count": 2,
+      "median_wage_usd": 240000.0
+    },
+    {
+      "title": "Forward-Deployed Robotics Manager",
+      "count": 1,
+      "median_wage_usd": 160000.0
+    },
+    {
+      "title": "Senior Mechanical Design Engineer",
+      "count": 1,
+      "median_wage_usd": 150304.0
+    },
+    {
+      "title": "Director, Manufacturing Operations",
+      "count": 1,
+      "median_wage_usd": 230000.0
+    },
+    {
+      "title": "Deployed Flight Test Engineer",
+      "count": 1,
+      "median_wage_usd": 113400.0
+    },
+    {
+      "title": "Global Supply Manager",
+      "count": 1,
+      "median_wage_usd": 150426.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 7
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3031",
+    "soc_title": "Financial Managers",
+    "market_median_usd": 156100.0,
+    "employer_median_usd": 240000.0,
+    "gap_usd": 83900.0
+  }
+}

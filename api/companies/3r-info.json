@@ -1,0 +1,219 @@
+{
+  "slug": "3r-info",
+  "canonical_name": "3r info LLC",
+  "fein": "46-4596601",
+  "lca_filing_count": 9,
+  "warn_notice_count": 0,
+  "median_wage_usd": 92000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 63315.0
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 67829.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 93995.0
+    },
+    {
+      "fy": 2024,
+      "filings": 4,
+      "median_wage_usd": 89000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 92726.5
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "System Analyst",
+      "count": 2,
+      "median_wage_usd": 84615.0
+    },
+    {
+      "title": "IT Consultant",
+      "count": 2,
+      "median_wage_usd": 74657.5
+    },
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 92394.0
+    },
+    {
+      "title": "Design Engineer",
+      "count": 1,
+      "median_wage_usd": 67829.0
+    },
+    {
+      "title": "Data Analyst",
+      "count": 1,
+      "median_wage_usd": 92914.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 1,
+      "median_wage_usd": 93995.0
+    },
+    {
+      "title": "Sr. Systems Analyst",
+      "count": 1,
+      "median_wage_usd": 92539.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MI",
+      "county": "WAYNE",
+      "count": 2
+    },
+    {
+      "state": "GA",
+      "county": "PAULDING",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 1
+    },
+    {
+      "state": "OR",
+      "county": "MARION",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "county": "CUMBERLAND",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "county": "GORDON",
+      "count": 1
+    },
+    {
+      "state": "MN",
+      "county": "DAKOTA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 3
+    },
+    {
+      "state": "MI",
+      "count": 2
+    },
+    {
+      "state": "OR",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "MN",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 8,
+    "initial_denials": 0,
+    "continuing_approvals": 11,
+    "continuing_denials": 0,
+    "total_approvals": 19,
+    "by_fy": [
+      {
+        "fy": 2015,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2016,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2017,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 3,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 5
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 6,
+        "continuing_denials": 0,
+        "total_approvals": 8
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 3,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 6
+      }
+    ]
+  },
+  "lca_worker_positions": 9,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1211",
+    "soc_title": "Computer Systems Analysts",
+    "market_median_usd": 103800.0,
+    "employer_median_usd": 92000.0,
+    "gap_usd": -11800.0
+  }
+}

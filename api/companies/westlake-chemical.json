@@ -1,0 +1,199 @@
+{
+  "slug": "westlake-chemical",
+  "canonical_name": "Westlake Chemical Corporation",
+  "fein": null,
+  "lca_filing_count": 7,
+  "warn_notice_count": 1,
+  "median_wage_usd": 132301.88,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 3,
+      "median_wage_usd": 158123.43
+    },
+    {
+      "fy": 2021,
+      "filings": 4,
+      "median_wage_usd": 129514.81
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Analyst Sr. - Technical",
+      "count": 1,
+      "median_wage_usd": 125402.08
+    },
+    {
+      "title": "Administrator Sr.-SAP Basis & IT Infrastructure",
+      "count": 1,
+      "median_wage_usd": 132301.88
+    },
+    {
+      "title": "Director - Customer Operations",
+      "count": 1,
+      "median_wage_usd": 176375.0
+    },
+    {
+      "title": "Supervisor - SAP Systems",
+      "count": 1,
+      "median_wage_usd": 158123.43
+    },
+    {
+      "title": "Supervisor - Network Security",
+      "count": 1,
+      "median_wage_usd": 127504.0
+    },
+    {
+      "title": "Analyst Sr.-Technical, BI/BW",
+      "count": 1,
+      "median_wage_usd": 126727.74
+    },
+    {
+      "title": "Manager - IS Financial Systems",
+      "count": 1,
+      "median_wage_usd": 154003.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 6
+    },
+    {
+      "state": "VA",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 6
+    },
+    {
+      "state": "VA",
+      "county": "SMYTH",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "12/16/2025",
+      "effective_date": "02/01/2026",
+      "state": "MS",
+      "workers": 99,
+      "city": "Aberdeen, Monroe County"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 2,
+    "initial_denials": 0,
+    "continuing_approvals": 17,
+    "continuing_denials": 0,
+    "total_approvals": 19,
+    "by_fy": [
+      {
+        "fy": 2010,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2011,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2013,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2014,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2016,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2017,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 6,
+        "continuing_denials": 0,
+        "total_approvals": 6
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 4,
+        "continuing_denials": 0,
+        "total_approvals": 5
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 7,
+        "continuing_denials": 0,
+        "total_approvals": 8
+      }
+    ]
+  },
+  "lca_worker_positions": 7,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3021",
+    "soc_title": "Computer and Information Systems Managers",
+    "market_median_usd": 169510.0,
+    "employer_median_usd": 158123.43,
+    "gap_usd": -11386.57
+  }
+}

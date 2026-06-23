@@ -1,0 +1,339 @@
+{
+  "slug": "guess",
+  "canonical_name": "GUESS?",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 20,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 7
+    },
+    {
+      "state": "NY",
+      "count": 6
+    },
+    {
+      "state": "KY",
+      "count": 3
+    },
+    {
+      "state": "NV",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "AZ",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "10/08/2025",
+      "effective_date": "12/08/2025",
+      "state": "CA",
+      "workers": 100,
+      "city": "Los Angeles"
+    },
+    {
+      "date": "03/06/2024",
+      "effective_date": "05/06/2024",
+      "state": "KY",
+      "workers": 200,
+      "city": "Jefferson County - Louisville"
+    },
+    {
+      "date": "03/06/2024",
+      "effective_date": "05/06/2024",
+      "state": "KY",
+      "workers": 200,
+      "city": "Jefferson"
+    },
+    {
+      "date": "06/10/2020",
+      "effective_date": "05/27/2020",
+      "state": "CA",
+      "workers": 159,
+      "city": "Los Angeles"
+    },
+    {
+      "date": "04/20/2020",
+      "effective_date": "04/02/2020",
+      "state": "NV",
+      "workers": 61,
+      "city": "Las Vegas, Clark County"
+    },
+    {
+      "date": "04/14/2020",
+      "effective_date": "04/02/2020",
+      "state": "KY",
+      "workers": 230,
+      "city": "Jefferson County - Louisville"
+    },
+    {
+      "date": "04/14/2020",
+      "effective_date": "04/02/2020",
+      "state": "WA",
+      "workers": 30,
+      "city": "Tulalip"
+    },
+    {
+      "date": "04/13/2020",
+      "effective_date": "04/02/2020",
+      "state": "TX",
+      "workers": 30,
+      "city": "Laredo"
+    },
+    {
+      "date": "04/13/2020",
+      "effective_date": "04/13/2020",
+      "state": "AZ",
+      "workers": 41,
+      "city": "7 - Maricopa County, Maricopa Workforce Connections"
+    },
+    {
+      "date": "04/06/2020",
+      "effective_date": "04/02/2020",
+      "state": "NY",
+      "workers": 398,
+      "city": "New York"
+    },
+    {
+      "date": "04/06/2020",
+      "effective_date": "04/02/2020",
+      "state": "NY",
+      "workers": 0,
+      "city": "Victor"
+    },
+    {
+      "date": "04/06/2020",
+      "effective_date": "04/02/2020",
+      "state": "NY",
+      "workers": 0,
+      "city": "Lake George"
+    },
+    {
+      "date": "04/06/2020",
+      "effective_date": "04/02/2020",
+      "state": "NY",
+      "workers": 0,
+      "city": "Riverhead"
+    },
+    {
+      "date": "04/06/2020",
+      "effective_date": "04/02/2020",
+      "state": "NY",
+      "workers": 0,
+      "city": "Niagara Falls"
+    },
+    {
+      "date": "04/06/2020",
+      "effective_date": "04/02/2020",
+      "state": "NY",
+      "workers": 0,
+      "city": "Central Valley"
+    },
+    {
+      "date": "04/03/2020",
+      "effective_date": "04/02/2020",
+      "state": "CA",
+      "workers": 84,
+      "city": "Los Angeles"
+    },
+    {
+      "date": "04/03/2020",
+      "effective_date": "04/02/2020",
+      "state": "CA",
+      "workers": 34,
+      "city": "Los Angeles"
+    },
+    {
+      "date": "04/03/2020",
+      "effective_date": "04/02/2020",
+      "state": "CA",
+      "workers": 61,
+      "city": "Los Angeles"
+    },
+    {
+      "date": "04/03/2020",
+      "effective_date": "04/02/2020",
+      "state": "CA",
+      "workers": 33,
+      "city": "Los Angeles"
+    },
+    {
+      "date": "04/02/2020",
+      "effective_date": "04/02/2020",
+      "state": "CA",
+      "workers": 382,
+      "city": "Los Angeles"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "c-greater-louisville-wib",
+      "name": "C Greater Louisville WIB",
+      "state": "KY"
+    },
+    {
+      "slug": "niagara-county-lwia",
+      "name": "Niagara County LWIA",
+      "state": "NY"
+    },
+    {
+      "slug": "orange-county-lwia",
+      "name": "Orange County LWIA",
+      "state": "NY"
+    },
+    {
+      "slug": "saratogawarrenwashington-lwia",
+      "name": "Saratoga/Warren/Washington LWIA",
+      "state": "NY"
+    },
+    {
+      "slug": "ontariosenecawayneyates-lwia",
+      "name": "Ontario/Seneca/Wayne/Yates LWIA",
+      "state": "NY"
+    },
+    {
+      "slug": "south-texas-wda",
+      "name": "South Texas WDA",
+      "state": "TX"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 3,
+    "continuing_denials": 1,
+    "total_approvals": 3,
+    "by_fy": [
+      {
+        "fy": 2009,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2010,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2011,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2012,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2013,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2014,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2015,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2016,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2017,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 1,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "slug": "silgan-plastics",
+  "canonical_name": "Silgan Plastics",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 5,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "MO",
+      "count": 2
+    },
+    {
+      "state": "IN",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "12/03/2024",
+      "effective_date": "02/07/2025",
+      "state": "MO",
+      "workers": 33,
+      "city": "Hazelwood"
+    },
+    {
+      "date": "09/02/2015",
+      "effective_date": "02/01/2016",
+      "state": "IL",
+      "workers": 151,
+      "city": "Woodstock"
+    },
+    {
+      "date": "08/31/2015",
+      "effective_date": "08/31/2015",
+      "state": "MO",
+      "workers": 34,
+      "city": "Scott City"
+    },
+    {
+      "date": "06/26/2015",
+      "effective_date": "06/29/2015",
+      "state": "IN",
+      "workers": 69,
+      "city": "Ligonier"
+    },
+    {
+      "date": "06/26/2015",
+      "effective_date": "06/29/2015",
+      "state": "IN",
+      "workers": 69,
+      "city": "Ligonier"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "southeast-region-wib",
+      "name": "Southeast Region WIB",
+      "state": "MO"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

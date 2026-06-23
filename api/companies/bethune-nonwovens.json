@@ -1,0 +1,109 @@
+{
+  "slug": "bethune-nonwovens",
+  "canonical_name": "Bethune Nonwovens, Inc.",
+  "fein": "45-3290583",
+  "lca_filing_count": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 108025.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 106050.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 145000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 97968.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Manager, Research & Development",
+      "count": 1,
+      "median_wage_usd": 106050.0
+    },
+    {
+      "title": "Senior Specialist, Production Planning",
+      "count": 1,
+      "median_wage_usd": 97968.0
+    },
+    {
+      "title": "Process Engineer",
+      "count": 1,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "Manager, Innovation & Technology",
+      "count": 1,
+      "median_wage_usd": 145000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "SC",
+      "county": "KERSHAW",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "SC",
+      "count": 4
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 5,
+    "continuing_denials": 0,
+    "total_approvals": 5,
+    "by_fy": [
+      {
+        "fy": 2020,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3021",
+    "soc_title": "Computer and Information Systems Managers",
+    "market_median_usd": 169510.0,
+    "employer_median_usd": 145000.0,
+    "gap_usd": -24510.0
+  }
+}

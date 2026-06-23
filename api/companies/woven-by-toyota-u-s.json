@@ -1,0 +1,129 @@
+{
+  "slug": "woven-by-toyota-u-s",
+  "canonical_name": "Woven by Toyota, U.S., Inc.",
+  "fein": "86-2554188",
+  "lca_filing_count": 42,
+  "lca_worker_positions": 40,
+  "warn_notice_count": 0,
+  "median_wage_usd": 188380.5,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 5,
+      "median_wage_usd": 175000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 11,
+      "median_wage_usd": 184000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 10,
+      "median_wage_usd": 234027.0
+    },
+    {
+      "fy": 2026,
+      "filings": 14,
+      "median_wage_usd": 190000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Software Engineer",
+      "count": 5,
+      "median_wage_usd": 200425.0
+    },
+    {
+      "title": "Software Quality and Compliance Engineer",
+      "count": 4,
+      "median_wage_usd": 155000.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 3,
+      "median_wage_usd": 159495.0
+    },
+    {
+      "title": "Senior Machine Learning Engineer",
+      "count": 2,
+      "median_wage_usd": 235000.0
+    },
+    {
+      "title": "Senior Software Engineer, Vehicle Platforms",
+      "count": 2,
+      "median_wage_usd": 236627.0
+    },
+    {
+      "title": "Senior Project Manager, Quality",
+      "count": 2,
+      "median_wage_usd": 190000.0
+    },
+    {
+      "title": "Software Engineer II",
+      "count": 2,
+      "median_wage_usd": 186370.5
+    },
+    {
+      "title": "Motion Planning Engineer",
+      "count": 2,
+      "median_wage_usd": 177500.0
+    },
+    {
+      "title": "Senior Safety Architect",
+      "count": 2,
+      "median_wage_usd": 180000.0
+    },
+    {
+      "title": "Sr Machine Learning Engineer, Behavior Planning & Prediction",
+      "count": 1,
+      "median_wage_usd": 235000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 12
+    },
+    {
+      "state": "MI",
+      "county": "WASHTENAW",
+      "count": 6
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 24
+    },
+    {
+      "state": "MI",
+      "count": 15
+    },
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "NV",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 197500.0,
+    "gap_usd": 67340.0
+  }
+}

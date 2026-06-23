@@ -1,0 +1,85 @@
+{
+  "slug": "global-gp",
+  "canonical_name": "Global GP LLC",
+  "fein": "14-1924242",
+  "lca_filing_count": 8,
+  "lca_worker_positions": 8,
+  "warn_notice_count": 0,
+  "median_wage_usd": 100878.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 75000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 75000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 170000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 98900.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 131750.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Business Intelligence Analyst",
+      "count": 2,
+      "median_wage_usd": 102928.0
+    },
+    {
+      "title": "Workday Configuration Analyst/Architect",
+      "count": 2,
+      "median_wage_usd": 75000.0
+    },
+    {
+      "title": "Senior Data Architect",
+      "count": 1,
+      "median_wage_usd": 170000.0
+    },
+    {
+      "title": "Data Engineer, Integrations",
+      "count": 1,
+      "median_wage_usd": 98072.0
+    },
+    {
+      "title": "Junior Oracle Analyst",
+      "count": 1,
+      "median_wage_usd": 98900.0
+    },
+    {
+      "title": "Senior Machine Learning Engineer",
+      "count": 1,
+      "median_wage_usd": 160500.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MA",
+      "county": "WALTHAM CITY",
+      "count": 6
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MA",
+      "count": 8
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": []
+}

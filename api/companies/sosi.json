@@ -1,0 +1,43 @@
+{
+  "slug": "sosi",
+  "canonical_name": "SOSi",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "AZ",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "03/13/2025",
+      "effective_date": "03/13/2025",
+      "state": "AZ",
+      "workers": 0,
+      "city": "Reston"
+    },
+    {
+      "date": "03/10/2025",
+      "effective_date": "03/10/2025",
+      "state": "AZ",
+      "workers": 0,
+      "city": "Tucson"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "pima-county-lwib",
+      "name": "Pima County LWIB",
+      "state": "AZ"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

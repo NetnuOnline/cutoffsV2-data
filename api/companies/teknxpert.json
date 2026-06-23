@@ -1,0 +1,169 @@
+{
+  "slug": "teknxpert",
+  "canonical_name": "TeknXpert LLC",
+  "fein": "86-1263224",
+  "lca_filing_count": 10,
+  "warn_notice_count": 0,
+  "median_wage_usd": 96865.7,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 102700.0
+    },
+    {
+      "fy": 2024,
+      "filings": 4,
+      "median_wage_usd": 96699.20000000001
+    },
+    {
+      "fy": 2025,
+      "filings": 4,
+      "median_wage_usd": 89710.4
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "IOS /Mobile Developer",
+      "count": 1,
+      "median_wage_usd": 82056.0
+    },
+    {
+      "title": "Data Engineer",
+      "count": 1,
+      "median_wage_usd": 92622.40000000001
+    },
+    {
+      "title": "Data Engineer(Database Architect IV)",
+      "count": 1,
+      "median_wage_usd": 117104.0
+    },
+    {
+      "title": "JIRA Administrator",
+      "count": 1,
+      "median_wage_usd": 101753.6
+    },
+    {
+      "title": "IT Project Lead",
+      "count": 1,
+      "median_wage_usd": 86798.4
+    },
+    {
+      "title": "Jira Administrator",
+      "count": 1,
+      "median_wage_usd": 121596.8
+    },
+    {
+      "title": "IT Software Engineer III \u2013 JIRA Administrator",
+      "count": 1,
+      "median_wage_usd": 101109.0
+    },
+    {
+      "title": "ETL/Snowflake Developer",
+      "count": 1,
+      "median_wage_usd": 91644.8
+    },
+    {
+      "title": "IT Developer",
+      "count": 1,
+      "median_wage_usd": 80371.2
+    },
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 104291.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SAN DIEGO",
+      "count": 3
+    },
+    {
+      "state": "SC",
+      "county": "LANCASTER",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "county": "PALM BEACH",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 4
+    },
+    {
+      "state": "FL",
+      "count": 2
+    },
+    {
+      "state": "SC",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "count": 1
+    },
+    {
+      "state": "CO",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 59,
+    "initial_denials": 1,
+    "continuing_approvals": 6,
+    "continuing_denials": 0,
+    "total_approvals": 65,
+    "by_fy": [
+      {
+        "fy": 2021,
+        "initial_approvals": 9,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 9
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 48,
+        "initial_denials": 1,
+        "continuing_approvals": 4,
+        "continuing_denials": 0,
+        "total_approvals": 52
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 4
+      }
+    ]
+  },
+  "lca_worker_positions": 10,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 91644.8,
+    "gap_usd": -38515.2
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "slug": "media-bridge",
+  "canonical_name": "Media Bridge, Inc.",
+  "fein": null,
+  "lca_filing_count": 1,
+  "warn_notice_count": 0,
+  "median_wage_usd": 79851.2,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 79851.2
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Data Analyst (Data Scientist)",
+      "count": 1,
+      "median_wage_usd": 79851.2
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MN",
+      "county": "HENNEPIN",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MN",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 1,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 79851.2,
+    "gap_usd": -28168.8
+  }
+}

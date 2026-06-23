@@ -1,0 +1,64 @@
+{
+  "slug": "techevision",
+  "canonical_name": "TECHEVISION LLC",
+  "fein": "93-3069768",
+  "lca_filing_count": 3,
+  "lca_worker_positions": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 92000.0,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 85000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 93500.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SOFTWARE DEVELOPER",
+      "count": 1,
+      "median_wage_usd": 85000.0
+    },
+    {
+      "title": "Senior Quality Analyst",
+      "count": 1,
+      "median_wage_usd": 95000.0
+    },
+    {
+      "title": "PROGRAMMER ANALYST",
+      "count": 1,
+      "median_wage_usd": 92000.0
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "MD",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1253",
+    "soc_title": "Software Quality Assurance Analysts and Testers",
+    "market_median_usd": 101800.0,
+    "employer_median_usd": 95000.0,
+    "gap_usd": -6800.0
+  }
+}

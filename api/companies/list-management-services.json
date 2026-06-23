@@ -1,0 +1,71 @@
+{
+  "slug": "list-management-services",
+  "canonical_name": "List Management Services, Inc.",
+  "fein": "59-3283994",
+  "lca_filing_count": 1,
+  "warn_notice_count": 0,
+  "median_wage_usd": 108200.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 108200.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Development Operations Engineer 2",
+      "count": 1,
+      "median_wage_usd": 108200.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "FL",
+      "county": "BROWARD",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "FL",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 3,
+    "initial_denials": 0,
+    "continuing_approvals": 1,
+    "continuing_denials": 0,
+    "total_approvals": 4,
+    "by_fy": [
+      {
+        "fy": 2020,
+        "initial_approvals": 3,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 1,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 108200.0,
+    "gap_usd": -21960.0
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "united-pet-group",
+  "canonical_name": "United Pet Group",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "05/25/2016",
+      "effective_date": "07/01/2016",
+      "state": "IL",
+      "workers": 48,
+      "city": "Edwardsville"
+    },
+    {
+      "date": "03/01/2011",
+      "effective_date": "05/04/2011",
+      "state": "NY",
+      "workers": 0,
+      "city": "Islandia"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "madison-bond-wib",
+      "name": "Madison-Bond WIB",
+      "state": "IL"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

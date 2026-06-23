@@ -1,0 +1,210 @@
+{
+  "slug": "kellogg",
+  "canonical_name": "Kellogg",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 20,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 4
+    },
+    {
+      "state": "MI",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "count": 2
+    },
+    {
+      "state": "MO",
+      "count": 2
+    },
+    {
+      "state": "NC",
+      "count": 2
+    },
+    {
+      "state": "OH",
+      "count": 1
+    },
+    {
+      "state": "TN",
+      "count": 1
+    },
+    {
+      "state": "IN",
+      "count": 1
+    },
+    {
+      "state": "MD",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "10/18/2021",
+      "effective_date": "12/20/2021",
+      "state": "OH",
+      "workers": 73,
+      "city": "Cincinnati/Hamilton"
+    },
+    {
+      "date": "10/10/2019",
+      "effective_date": "10/10/2019",
+      "state": "GA",
+      "workers": 108,
+      "city": "Atlanta"
+    },
+    {
+      "date": "04/26/2019",
+      "effective_date": "04/26/2019",
+      "state": "GA",
+      "workers": 20,
+      "city": "Atlanta"
+    },
+    {
+      "date": "07/30/2018",
+      "effective_date": "07/30/2018",
+      "state": "MI",
+      "workers": 70,
+      "city": "Battle Creek"
+    },
+    {
+      "date": "03/31/2018",
+      "effective_date": "03/31/2018",
+      "state": "MI",
+      "workers": 14,
+      "city": "Battle Creek, Michigan"
+    },
+    {
+      "date": "07/20/2017",
+      "effective_date": "09/24/2017",
+      "state": "TN",
+      "workers": 117,
+      "city": "Rossville"
+    },
+    {
+      "date": "06/13/2017",
+      "effective_date": "08/13/2017",
+      "state": "IN",
+      "workers": 92,
+      "city": "Terre Haute"
+    },
+    {
+      "date": "05/26/2017",
+      "effective_date": "07/29/2017",
+      "state": "TX",
+      "workers": 201,
+      "city": "Ft. Worth"
+    },
+    {
+      "date": "05/26/2017",
+      "effective_date": "07/26/2017",
+      "state": "TX",
+      "workers": 220,
+      "city": "Houston"
+    },
+    {
+      "date": "05/26/2017",
+      "effective_date": "08/04/2017",
+      "state": "CA",
+      "workers": 230,
+      "city": "Roseville"
+    },
+    {
+      "date": "05/26/2017",
+      "effective_date": "07/29/2017",
+      "state": "MO",
+      "workers": 190,
+      "city": "Earth City"
+    },
+    {
+      "date": "05/26/2017",
+      "effective_date": "07/29/2017",
+      "state": "MD",
+      "workers": 76,
+      "city": "11841 Newgate Blvd, Hagerstown, MD 21740"
+    },
+    {
+      "date": "05/26/2017",
+      "effective_date": "07/29/2017",
+      "state": "CA",
+      "workers": 280,
+      "city": "La Palma"
+    },
+    {
+      "date": "05/26/2017",
+      "effective_date": "07/29/2017",
+      "state": "NC",
+      "workers": 250,
+      "city": "Greensboro"
+    },
+    {
+      "date": "05/26/2017",
+      "effective_date": "07/29/2017",
+      "state": "NC",
+      "workers": 233,
+      "city": "Charlotte"
+    },
+    {
+      "date": "05/08/2017",
+      "effective_date": "07/08/2017",
+      "state": "FL",
+      "workers": 246,
+      "city": "Weston"
+    },
+    {
+      "date": "05/04/2017",
+      "effective_date": "07/08/2017",
+      "state": "MO",
+      "workers": 185,
+      "city": "Kansas City"
+    },
+    {
+      "date": "07/28/2014",
+      "effective_date": "07/28/2014",
+      "state": "GA",
+      "workers": 325,
+      "city": "Columbus"
+    },
+    {
+      "date": "08/27/2009",
+      "effective_date": "11/01/2009",
+      "state": "IL",
+      "workers": 51,
+      "city": "Gardner"
+    },
+    {
+      "date": "07/20/2007",
+      "effective_date": "07/20/2007",
+      "state": "GA",
+      "workers": 121,
+      "city": "Augusta"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "lower-chattahoochee-wib",
+      "name": "Lower Chattahoochee WIB",
+      "state": "GA"
+    },
+    {
+      "slug": "calhoun-intermediate-school-district",
+      "name": "Calhoun Intermediate School District",
+      "state": "MI"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

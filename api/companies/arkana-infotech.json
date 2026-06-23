@@ -1,0 +1,132 @@
+{
+  "slug": "arkana-infotech",
+  "canonical_name": "ARKANA INFOTECH INC",
+  "fein": "87-4174956",
+  "lca_filing_count": 10,
+  "lca_worker_positions": 10,
+  "warn_notice_count": 0,
+  "median_wage_usd": 97011.5,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 5,
+      "median_wage_usd": 90813.0
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 103210.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 100121.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 3,
+      "median_wage_usd": 90646.0
+    },
+    {
+      "title": "Salesforce Developer",
+      "count": 1,
+      "median_wage_usd": 117749.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 115918.0
+    },
+    {
+      "title": "ETL Developer",
+      "count": 1,
+      "median_wage_usd": 103210.0
+    },
+    {
+      "title": "IT Application Analyst",
+      "count": 1,
+      "median_wage_usd": 82493.0
+    },
+    {
+      "title": "Sr Business Analyst",
+      "count": 1,
+      "median_wage_usd": 85550.0
+    },
+    {
+      "title": "Informatica Developer",
+      "count": 1,
+      "median_wage_usd": 128502.0
+    },
+    {
+      "title": "Network Systems Engineer",
+      "count": 1,
+      "median_wage_usd": 117187.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TN",
+      "county": "SHELBY",
+      "count": 2
+    },
+    {
+      "state": "NC",
+      "county": "FORSYTH",
+      "count": 1
+    },
+    {
+      "state": "OH",
+      "county": "WARREN",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "county": "SOMERSET",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TN",
+      "count": 3
+    },
+    {
+      "state": "NJ",
+      "count": 2
+    },
+    {
+      "state": "WA",
+      "count": 2
+    },
+    {
+      "state": "GA",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "count": 1
+    },
+    {
+      "state": "OH",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 103210.0,
+    "gap_usd": -26950.0
+  }
+}

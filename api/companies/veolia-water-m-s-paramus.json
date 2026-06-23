@@ -1,0 +1,98 @@
+{
+  "slug": "veolia-water-m-s-paramus",
+  "canonical_name": "Veolia Water M&S (Paramus), Inc.",
+  "fein": "22-3297197",
+  "lca_filing_count": 7,
+  "warn_notice_count": 0,
+  "median_wage_usd": 150000.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 144896.44
+    },
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 155591.8
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 136868.85
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Oracle Platform & SQL Server DBA",
+      "count": 2,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "title": "CLOUD CENTER OF EXCELLENCE DIRECTOR",
+      "count": 1,
+      "median_wage_usd": 200000.0
+    },
+    {
+      "title": "Senior Systems Engineer",
+      "count": 1,
+      "median_wage_usd": 144896.44
+    },
+    {
+      "title": "New Digital Offerings Manager",
+      "count": 1,
+      "median_wage_usd": 123737.7
+    },
+    {
+      "title": "CLOUD PRODUCT MANAGER",
+      "count": 1,
+      "median_wage_usd": 155591.8
+    },
+    {
+      "title": "Meter Data Analyst",
+      "count": 1,
+      "median_wage_usd": 73000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NJ",
+      "county": "BERGEN",
+      "count": 4
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 7
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 3,
+    "initial_denials": 0,
+    "continuing_approvals": 3,
+    "continuing_denials": 0,
+    "total_approvals": 6,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 3,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 6
+      }
+    ]
+  },
+  "lca_worker_positions": 6,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Computer Systems Engineers/Architects",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 150244.12,
+    "gap_usd": 32244.12
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "slug": "tiktok",
+  "canonical_name": "TikTok Inc.",
+  "fein": "47-3892853",
+  "lca_filing_count": 650,
+  "lca_worker_positions": 875,
+  "warn_notice_count": 0,
+  "median_wage_usd": 195000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 30,
+      "median_wage_usd": 172000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 51,
+      "median_wage_usd": 185000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 84,
+      "median_wage_usd": 218400.0
+    },
+    {
+      "fy": 2023,
+      "filings": 98,
+      "median_wage_usd": 193850.0
+    },
+    {
+      "fy": 2024,
+      "filings": 128,
+      "median_wage_usd": 210000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 170,
+      "median_wage_usd": 184558.0
+    },
+    {
+      "fy": 2026,
+      "filings": 82,
+      "median_wage_usd": 194548.175,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 72,
+      "median_wage_usd": 159305.68
+    },
+    {
+      "title": "Data Scientist",
+      "count": 22,
+      "median_wage_usd": 168813.0
+    },
+    {
+      "title": "Data Engineer",
+      "count": 17,
+      "median_wage_usd": 133240.0
+    },
+    {
+      "title": "Backend Software Engineer",
+      "count": 16,
+      "median_wage_usd": 170940.0
+    },
+    {
+      "title": "Software Development Engineer in Test",
+      "count": 16,
+      "median_wage_usd": 194000.0
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "count": 15,
+      "median_wage_usd": 220000.0
+    },
+    {
+      "title": "Product Manager",
+      "count": 15,
+      "median_wage_usd": 139298.0
+    },
+    {
+      "title": "Data Engineer, E-Commerce",
+      "count": 11,
+      "median_wage_usd": 184204.8
+    },
+    {
+      "title": "Backend Software Engineer, TikTok Privacy",
+      "count": 7,
+      "median_wage_usd": 210000.0
+    },
+    {
+      "title": "Machine Learning Scientist",
+      "count": 6,
+      "median_wage_usd": 223720.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 240
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 102
+    },
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 33
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 16
+    },
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 3
+    },
+    {
+      "state": "DC",
+      "county": "DISTRICT OF COLUMBIA",
+      "count": 3
+    },
+    {
+      "state": "NJ",
+      "county": "MIDDLESEX",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 2
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 453
+    },
+    {
+      "state": "WA",
+      "count": 159
+    },
+    {
+      "state": "NY",
+      "count": 28
+    },
+    {
+      "state": "DC",
+      "count": 4
+    },
+    {
+      "state": "NJ",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 217560.0,
+    "gap_usd": 87400.0
+  }
+}

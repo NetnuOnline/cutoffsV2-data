@@ -1,0 +1,51 @@
+{
+  "slug": "marbella-interests",
+  "canonical_name": "Marbella Interests, LLC",
+  "fein": "46-0939664",
+  "lca_filing_count": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 135000.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 160000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Accounting Manager",
+      "count": 3,
+      "median_wage_usd": 135000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-2011",
+    "soc_title": "Accountants and Auditors",
+    "market_median_usd": 79000.0,
+    "employer_median_usd": 147500.0,
+    "gap_usd": 68500.0
+  }
+}

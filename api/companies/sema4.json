@@ -1,0 +1,43 @@
+{
+  "slug": "sema4",
+  "canonical_name": "Sema4",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "CT",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "11/14/2022",
+      "effective_date": "01/13/2023",
+      "state": "CT",
+      "workers": 448,
+      "city": "Stamford, Branford"
+    },
+    {
+      "date": "08/15/2022",
+      "effective_date": "10/14/2022",
+      "state": "CT",
+      "workers": 239,
+      "city": "Stamford, Branford"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "northwest-wia-ct",
+      "name": "Northwest WIA",
+      "state": "CT"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

@@ -1,0 +1,222 @@
+{
+  "slug": "riu-solutions",
+  "canonical_name": "RIU Solutions, LLC.",
+  "fein": "35-2733518",
+  "lca_filing_count": 18,
+  "warn_notice_count": 0,
+  "median_wage_usd": 123499.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 4,
+      "median_wage_usd": 143934.5
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 122719.5
+    },
+    {
+      "fy": 2023,
+      "filings": 6,
+      "median_wage_usd": 123624.5
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 88972.0
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 112500.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 2,
+      "median_wage_usd": 107397.0
+    },
+    {
+      "title": "GCP Data Engineer",
+      "count": 2,
+      "median_wage_usd": 117750.0
+    },
+    {
+      "title": "Technical Architect",
+      "count": 2,
+      "median_wage_usd": 140665.0
+    },
+    {
+      "title": "Java Developer",
+      "count": 2,
+      "median_wage_usd": 138174.5
+    },
+    {
+      "title": "SDET API Automation",
+      "count": 1,
+      "median_wage_usd": 113443.0
+    },
+    {
+      "title": "Java Full Stack Developer ",
+      "count": 1,
+      "median_wage_usd": 112320.0
+    },
+    {
+      "title": "Technical Lead Engineer ",
+      "count": 1,
+      "median_wage_usd": 133806.0
+    },
+    {
+      "title": "SDET (SDET)",
+      "count": 1,
+      "median_wage_usd": 87443.0
+    },
+    {
+      "title": "Consultant",
+      "count": 1,
+      "median_wage_usd": 141439.0
+    },
+    {
+      "title": "Sr. Data Engineer",
+      "count": 1,
+      "median_wage_usd": 166399.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CO",
+      "county": "ARAPAHOE",
+      "count": 3
+    },
+    {
+      "state": "VA",
+      "county": "FAIRFAX",
+      "count": 3
+    },
+    {
+      "state": "IA",
+      "county": "LINN",
+      "count": 1
+    },
+    {
+      "state": "OH",
+      "county": "FRANKLIN",
+      "count": 1
+    },
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "county": "CHELMSFORD",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "county": "OCEAN",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 1
+    },
+    {
+      "state": "MO",
+      "county": "ST LOUIS",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "county": "BROWARD",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "VA",
+      "count": 3
+    },
+    {
+      "state": "AZ",
+      "count": 3
+    },
+    {
+      "state": "CO",
+      "count": 3
+    },
+    {
+      "state": "NC",
+      "count": 2
+    },
+    {
+      "state": "MO",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "OH",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "count": 1
+    },
+    {
+      "state": "IA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 5,
+    "initial_denials": 0,
+    "continuing_approvals": 15,
+    "continuing_denials": 1,
+    "total_approvals": 20,
+    "by_fy": [
+      {
+        "fy": 2021,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 5,
+        "continuing_denials": 1,
+        "total_approvals": 7
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 3,
+        "initial_denials": 0,
+        "continuing_approvals": 10,
+        "continuing_denials": 0,
+        "total_approvals": 13
+      }
+    ]
+  },
+  "lca_worker_positions": 17,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 112500.0,
+    "gap_usd": -17660.0
+  }
+}

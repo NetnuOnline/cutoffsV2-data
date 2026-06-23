@@ -1,0 +1,202 @@
+{
+  "slug": "american-technology-group",
+  "canonical_name": "AMERICAN TECHNOLOGY GROUP LLC",
+  "fein": "35-2678071",
+  "lca_filing_count": 32,
+  "warn_notice_count": 0,
+  "median_wage_usd": 78655.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 14,
+      "median_wage_usd": 80849.5
+    },
+    {
+      "fy": 2025,
+      "filings": 18,
+      "median_wage_usd": 78655.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "DATA ANALYST",
+      "count": 2,
+      "median_wage_usd": 88358.5
+    },
+    {
+      "title": "SOFTWARE DEVELOPER",
+      "count": 2,
+      "median_wage_usd": 91125.0
+    },
+    {
+      "title": "SR. PRODUCT ANALYST",
+      "count": 2,
+      "median_wage_usd": 69794.5
+    },
+    {
+      "title": "STERLING JAVA DEVELOPER",
+      "count": 2,
+      "median_wage_usd": 77958.5
+    },
+    {
+      "title": "REGULATORY AFFAIRS SPECIALIST III",
+      "count": 1,
+      "median_wage_usd": 43784.0
+    },
+    {
+      "title": "SR DATA ANALYST",
+      "count": 1,
+      "median_wage_usd": 74277.0
+    },
+    {
+      "title": "SOFTWARE ENGINEER",
+      "count": 1,
+      "median_wage_usd": 77251.0
+    },
+    {
+      "title": "BIG DATA SNOWFLAKE DEVELOPER",
+      "count": 1,
+      "median_wage_usd": 77438.0
+    },
+    {
+      "title": "QA ENGINEER",
+      "count": 1,
+      "median_wage_usd": 88109.0
+    },
+    {
+      "title": "JAVA BACKEND DEVELOPER",
+      "count": 1,
+      "median_wage_usd": 85384.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 1
+    },
+    {
+      "state": "OH",
+      "county": "HAMILTON",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "ORANGE",
+      "count": 1
+    },
+    {
+      "state": "IA",
+      "county": "JOHNSON",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 1
+    },
+    {
+      "state": "OH",
+      "county": "GREENE",
+      "count": 1
+    },
+    {
+      "state": "IN",
+      "county": "KOSCIUSKO",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "TARRANT",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 5
+    },
+    {
+      "state": "IL",
+      "count": 4
+    },
+    {
+      "state": "NC",
+      "count": 4
+    },
+    {
+      "state": "TX",
+      "count": 4
+    },
+    {
+      "state": "NJ",
+      "count": 3
+    },
+    {
+      "state": "GA",
+      "count": 2
+    },
+    {
+      "state": "OH",
+      "count": 2
+    },
+    {
+      "state": "RI",
+      "count": 1
+    },
+    {
+      "state": "IN",
+      "count": 1
+    },
+    {
+      "state": "WI",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 6,
+    "initial_denials": 4,
+    "continuing_approvals": 0,
+    "continuing_denials": 0,
+    "total_approvals": 6,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 6,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 6
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 4,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      }
+    ]
+  },
+  "lca_worker_positions": 32,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 85363.0,
+    "gap_usd": -44797.0
+  }
+}

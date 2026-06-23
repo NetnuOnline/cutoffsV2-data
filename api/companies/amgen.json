@@ -1,0 +1,193 @@
+{
+  "slug": "amgen",
+  "canonical_name": "Amgen Inc.",
+  "fein": "95-3540776",
+  "lca_filing_count": 346,
+  "lca_worker_positions": 342,
+  "warn_notice_count": 0,
+  "median_wage_usd": 137072.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 81,
+      "median_wage_usd": 124908.745
+    },
+    {
+      "fy": 2023,
+      "filings": 49,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 105,
+      "median_wage_usd": 141500.0
+    },
+    {
+      "fy": 2025,
+      "filings": 65,
+      "median_wage_usd": 140439.44
+    },
+    {
+      "fy": 2026,
+      "filings": 42,
+      "median_wage_usd": 137558.2,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Specialist Software Engineer",
+      "count": 10,
+      "median_wage_usd": 146171.895
+    },
+    {
+      "title": "Process Development Scientist",
+      "count": 6,
+      "median_wage_usd": 119139.84
+    },
+    {
+      "title": "Senior Engineer",
+      "count": 5,
+      "median_wage_usd": 124500.0
+    },
+    {
+      "title": "Senior Data Engineer",
+      "count": 5,
+      "median_wage_usd": 137072.0
+    },
+    {
+      "title": "Data Management Mgr",
+      "count": 3,
+      "median_wage_usd": 136900.0
+    },
+    {
+      "title": "Commercial Analytics Manager",
+      "count": 3,
+      "median_wage_usd": 127514.0
+    },
+    {
+      "title": "Biostatistical Programming Manager",
+      "count": 3,
+      "median_wage_usd": 153000.0
+    },
+    {
+      "title": "Specialist IS Engineer",
+      "count": 3,
+      "median_wage_usd": 127811.16
+    },
+    {
+      "title": "Scientist 20516.1303",
+      "count": 2,
+      "median_wage_usd": 140301.23
+    },
+    {
+      "title": "Process Development Scientist 20516.3504.2",
+      "count": 2,
+      "median_wage_usd": 122500.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "VENTURA",
+      "count": 85
+    },
+    {
+      "state": "FL",
+      "county": "HILLSBOROUGH",
+      "count": 28
+    },
+    {
+      "state": "MA",
+      "county": "CAMBRIDGE CITY",
+      "count": 17
+    },
+    {
+      "state": "RI",
+      "county": "WEST GREENWICH",
+      "count": 15
+    },
+    {
+      "state": "CA",
+      "county": "SAN MATEO",
+      "count": 9
+    },
+    {
+      "state": "OH",
+      "county": "CUYAHOGA",
+      "count": 6
+    },
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 6
+    },
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 5
+    },
+    {
+      "state": "NY",
+      "county": "ERIE",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 144
+    },
+    {
+      "state": "FL",
+      "count": 44
+    },
+    {
+      "state": "MA",
+      "count": 34
+    },
+    {
+      "state": "RI",
+      "count": 20
+    },
+    {
+      "state": "TX",
+      "count": 17
+    },
+    {
+      "state": "OH",
+      "count": 17
+    },
+    {
+      "state": "NY",
+      "count": 12
+    },
+    {
+      "state": "NJ",
+      "count": 12
+    },
+    {
+      "state": "NC",
+      "count": 10
+    },
+    {
+      "state": "IL",
+      "count": 7
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 138588.87,
+    "gap_usd": 8428.87
+  }
+}

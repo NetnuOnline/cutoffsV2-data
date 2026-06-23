@@ -1,0 +1,154 @@
+{
+  "slug": "mellow-soft",
+  "canonical_name": "Mellow Soft Inc.",
+  "fein": "81-0881621",
+  "lca_filing_count": 17,
+  "lca_worker_positions": 17,
+  "warn_notice_count": 0,
+  "median_wage_usd": 96866.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 95129.0
+    },
+    {
+      "fy": 2023,
+      "filings": 5,
+      "median_wage_usd": 91021.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 155605.0
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 6,
+      "median_wage_usd": 111877.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Data Engineer",
+      "count": 3,
+      "median_wage_usd": 91021.0
+    },
+    {
+      "title": "Full Stack Developer",
+      "count": 3,
+      "median_wage_usd": 114754.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 2,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 1,
+      "median_wage_usd": 84906.0
+    },
+    {
+      "title": "Business Data Analyst",
+      "count": 1,
+      "median_wage_usd": 96000.0
+    },
+    {
+      "title": "Business Analyst",
+      "count": 1,
+      "median_wage_usd": 83533.0
+    },
+    {
+      "title": "Devops Engineer",
+      "count": 1,
+      "median_wage_usd": 94245.0
+    },
+    {
+      "title": "Software developer",
+      "count": 1,
+      "median_wage_usd": 127733.0
+    },
+    {
+      "title": "Software Engineer 1",
+      "count": 1,
+      "median_wage_usd": 155605.0
+    },
+    {
+      "title": "Technical Project Manager",
+      "count": 1,
+      "median_wage_usd": 94952.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MI",
+      "county": "OAKLAND",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "BEXAR",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SAN JOAQUIN",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "KENDALL",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 8
+    },
+    {
+      "state": "CA",
+      "count": 5
+    },
+    {
+      "state": "MI",
+      "count": 3
+    },
+    {
+      "state": "NC",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 101795.5,
+    "gap_usd": -28364.5
+  }
+}

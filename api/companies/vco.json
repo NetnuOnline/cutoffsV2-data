@@ -1,0 +1,95 @@
+{
+  "slug": "vco",
+  "canonical_name": "VCO LLC",
+  "fein": "46-1293369",
+  "lca_filing_count": 6,
+  "lca_worker_positions": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 111365.32,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 128500.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 115730.64
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 132535.2,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Quality Assurance Analysts & Testers",
+      "count": 2,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "title": "Cloud Systems Engineer",
+      "count": 1,
+      "median_wage_usd": 132535.2
+    },
+    {
+      "title": "Project Lead Logistics",
+      "count": 1,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "title": "Sr. Computer Systems Engineers",
+      "count": 1,
+      "median_wage_usd": 107000.0
+    },
+    {
+      "title": "Information Technology Analyst (IT Analyst)",
+      "count": 1,
+      "median_wage_usd": 115730.64
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "OH",
+      "county": "FRANKLIN",
+      "count": 2
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 3
+    },
+    {
+      "state": "OH",
+      "count": 2
+    },
+    {
+      "state": "VA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1253",
+    "soc_title": "Software Quality Assurance Analysts and Testers",
+    "market_median_usd": 101800.0,
+    "employer_median_usd": 115730.64,
+    "gap_usd": 13930.64
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "slug": "strides-pharma",
+  "canonical_name": "Strides Pharma, Inc.",
+  "fein": "46-2953153",
+  "lca_filing_count": 9,
+  "warn_notice_count": 3,
+  "median_wage_usd": 97115.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 105000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 63086.0
+    },
+    {
+      "fy": 2025,
+      "filings": 4,
+      "median_wage_usd": 101057.5
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Chemist II",
+      "count": 2,
+      "median_wage_usd": 63086.0
+    },
+    {
+      "title": "Senior Specialist, Quality LIMS Admin",
+      "count": 2,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "title": "Computer Systems Validation Specialist",
+      "count": 2,
+      "median_wage_usd": 97115.0
+    },
+    {
+      "title": "Senior Analyst, Quality Control Chemist",
+      "count": 1,
+      "median_wage_usd": 105000.0
+    },
+    {
+      "title": "Process Engineer",
+      "count": 1,
+      "median_wage_usd": 80038.0
+    },
+    {
+      "title": "Scientist Formulation and Process Development I \u2013 R & D",
+      "count": 1,
+      "median_wage_usd": 105000.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 8
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "ROCKLAND",
+      "count": 4
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "04/04/2023",
+      "effective_date": "01/27/2023",
+      "state": "NY",
+      "workers": 88,
+      "city": "Spring Valley"
+    },
+    {
+      "date": "10/28/2022",
+      "effective_date": "03/31/2023",
+      "state": "NY",
+      "workers": 88,
+      "city": "Spring Valley"
+    },
+    {
+      "date": "10/28/2022",
+      "effective_date": "01/27/2023",
+      "state": "NY",
+      "workers": 88,
+      "city": "Spring Valley"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "rockland-county-lwia",
+      "name": "Rockland County LWIA",
+      "state": "NY"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 4,
+    "continuing_denials": 1,
+    "total_approvals": 5,
+    "by_fy": [
+      {
+        "fy": 2020,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 4
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 1,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 8,
+  "top_socs": [],
+  "lca_periods": []
+}

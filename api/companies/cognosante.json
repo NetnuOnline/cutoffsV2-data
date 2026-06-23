@@ -1,0 +1,86 @@
+{
+  "slug": "cognosante",
+  "canonical_name": "Cognosante, LLC",
+  "fein": null,
+  "lca_filing_count": 1,
+  "warn_notice_count": 2,
+  "median_wage_usd": 108902.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 108902.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer II",
+      "count": 1,
+      "median_wage_usd": 108902.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "FL",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "FL",
+      "county": "PASCO",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "02/15/2022",
+      "effective_date": "04/18/2022",
+      "state": "TX",
+      "workers": 84,
+      "city": "McAllen"
+    },
+    {
+      "date": "04/24/2015",
+      "effective_date": "05/29/2015",
+      "state": "TN",
+      "workers": 67,
+      "city": "Nashville"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "09-local-workforce-investment-area",
+      "name": "09 Local Workforce Investment Area",
+      "state": "TN"
+    },
+    {
+      "slug": "lower-rio-grande-wda",
+      "name": "Lower Rio Grande WDA",
+      "state": "TX"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 3,
+    "continuing_denials": 0,
+    "total_approvals": 3,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      }
+    ]
+  },
+  "lca_worker_positions": 1,
+  "top_socs": [],
+  "lca_periods": []
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "central-iowa-healthcare",
+  "canonical_name": "Central Iowa Healthcare",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "IA",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "04/18/2017",
+      "effective_date": "05/01/2017",
+      "state": "IA",
+      "workers": 0,
+      "city": "Marshalltown"
+    },
+    {
+      "date": "12/20/2016",
+      "effective_date": "03/01/2017",
+      "state": "IA",
+      "workers": 529,
+      "city": "Marshalltown"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "region-6-marshalltown-wib",
+      "name": "Region 6 - Marshalltown WIB",
+      "state": "IA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

@@ -1,0 +1,130 @@
+{
+  "slug": "j-d-power",
+  "canonical_name": "J.D. Power",
+  "fein": "95-2572471",
+  "lca_filing_count": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 135000.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 85423.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 182000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 182033.8
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 95000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Product Designer - New Product Development",
+      "count": 2,
+      "median_wage_usd": 95000.0
+    },
+    {
+      "title": "Software Engineer 3",
+      "count": 2,
+      "median_wage_usd": 182016.9
+    },
+    {
+      "title": "Data Scientist",
+      "count": 1,
+      "median_wage_usd": 175000.0
+    },
+    {
+      "title": "Data Integration Analyst",
+      "count": 1,
+      "median_wage_usd": 85423.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 2
+    },
+    {
+      "state": "CO",
+      "county": "DENVER",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "VENTURA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 3
+    },
+    {
+      "state": "CO",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 12,
+    "continuing_denials": 0,
+    "total_approvals": 12,
+    "by_fy": [
+      {
+        "fy": 2020,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 6,
+        "continuing_denials": 0,
+        "total_approvals": 6
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 5,
+        "continuing_denials": 0,
+        "total_approvals": 5
+      }
+    ]
+  },
+  "lca_worker_positions": 6,
+  "top_socs": [],
+  "lca_periods": []
+}

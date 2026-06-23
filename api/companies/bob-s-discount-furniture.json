@@ -1,0 +1,101 @@
+{
+  "slug": "bob-s-discount-furniture",
+  "canonical_name": "Bob's Discount Furniture, LLC",
+  "fein": "20-2149352",
+  "lca_filing_count": 11,
+  "lca_worker_positions": 9,
+  "warn_notice_count": 0,
+  "median_wage_usd": 139027.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 100693.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 145652.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 101899.0
+    },
+    {
+      "fy": 2024,
+      "filings": 4,
+      "median_wage_usd": 127500.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 165000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior SAP Developer",
+      "count": 6,
+      "median_wage_usd": 127500.0
+    },
+    {
+      "title": "Senior SAP Developer ",
+      "count": 2,
+      "median_wage_usd": 142013.5
+    },
+    {
+      "title": "SAP SD Manager",
+      "count": 2,
+      "median_wage_usd": 158638.5
+    },
+    {
+      "title": "SAP FICO Business Analyst",
+      "count": 1,
+      "median_wage_usd": 101899.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NC",
+      "county": "MECKLENBURG",
+      "count": 4
+    },
+    {
+      "state": "CT",
+      "county": "HARTFORD CITY",
+      "count": 3
+    },
+    {
+      "state": "CT",
+      "county": "MANCHESTER",
+      "count": 2
+    },
+    {
+      "state": "NC",
+      "county": "BUNCOMBE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CT",
+      "count": 6
+    },
+    {
+      "state": "NC",
+      "count": 5
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 128000.0,
+    "gap_usd": -2160.0
+  }
+}

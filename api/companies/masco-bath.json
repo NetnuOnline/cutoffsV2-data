@@ -1,0 +1,70 @@
+{
+  "slug": "masco-bath",
+  "canonical_name": "MASCO Bath",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 4,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "TN",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    },
+    {
+      "state": "OR",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "07/23/2013",
+      "effective_date": "07/23/2013",
+      "state": "NJ",
+      "workers": 69,
+      "city": "Moorestown"
+    },
+    {
+      "date": "06/03/2013",
+      "effective_date": "07/23/2013",
+      "state": "TN",
+      "workers": 216,
+      "city": "Adamsville"
+    },
+    {
+      "date": "04/10/2012",
+      "effective_date": "06/29/2012",
+      "state": "TN",
+      "workers": 100,
+      "city": "Adamsville"
+    },
+    {
+      "date": "01/31/2012",
+      "effective_date": "03/30/2012",
+      "state": "OR",
+      "workers": 50,
+      "city": "Klamath Falls"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "burlington-wib",
+      "name": "Burlington WIB",
+      "state": "NJ"
+    },
+    {
+      "slug": "central-oregoneast-cascades-wia",
+      "name": "Central Oregon/East Cascades WIA",
+      "state": "OR"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

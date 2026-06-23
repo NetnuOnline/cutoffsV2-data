@@ -1,0 +1,55 @@
+{
+  "slug": "atos",
+  "canonical_name": "Atos",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 4,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 3
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "02/28/2014",
+      "effective_date": "02/28/2014",
+      "state": "GA",
+      "workers": 1,
+      "city": "Cartersville"
+    },
+    {
+      "date": "01/03/2014",
+      "effective_date": "02/28/2014",
+      "state": "TX",
+      "workers": 1,
+      "city": "Irving"
+    },
+    {
+      "date": "06/14/2011",
+      "effective_date": "08/31/2011",
+      "state": "TX",
+      "workers": 75,
+      "city": "Austin"
+    },
+    {
+      "date": "09/27/2006",
+      "effective_date": "12/01/2006",
+      "state": "TX",
+      "workers": 54,
+      "city": "Galveston"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

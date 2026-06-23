@@ -1,0 +1,55 @@
+{
+  "slug": "stanford-financial-group",
+  "canonical_name": "Stanford Financial Group",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 4,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 3
+    },
+    {
+      "state": "NY",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "03/13/2009",
+      "effective_date": "03/13/2009",
+      "state": "NY",
+      "workers": 0,
+      "city": "New York"
+    },
+    {
+      "date": "03/06/2009",
+      "effective_date": "03/06/2009",
+      "state": "TX",
+      "workers": 16,
+      "city": "Austin"
+    },
+    {
+      "date": "03/06/2009",
+      "effective_date": "03/06/2009",
+      "state": "TX",
+      "workers": 28,
+      "city": "Dallas"
+    },
+    {
+      "date": "03/06/2009",
+      "effective_date": "03/06/2009",
+      "state": "TX",
+      "workers": 297,
+      "city": "Houston"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

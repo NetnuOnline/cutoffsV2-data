@@ -1,0 +1,67 @@
+{
+  "slug": "the-staffed-360",
+  "canonical_name": "THE STAFFED 360 LLC.",
+  "fein": "82-5334637",
+  "lca_filing_count": 3,
+  "lca_worker_positions": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 149760.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 149760.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 135200.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 166400.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "MARKETING DATA ANALYST",
+      "count": 1,
+      "median_wage_usd": 149760.0
+    },
+    {
+      "title": "ASSOCIATE PRODUCT MANAGER",
+      "count": 1,
+      "median_wage_usd": 166400.0
+    },
+    {
+      "title": "ASSET SERVICING SUBJECT MATTER EXPERT",
+      "count": 1,
+      "median_wage_usd": 135200.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "QUEENS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1211",
+    "soc_title": "Computer Systems Analysts",
+    "market_median_usd": 103800.0,
+    "employer_median_usd": 150800.0,
+    "gap_usd": 47000.0
+  }
+}

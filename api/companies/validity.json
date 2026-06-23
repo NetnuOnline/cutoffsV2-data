@@ -1,0 +1,56 @@
+{
+  "slug": "validity",
+  "canonical_name": "Validity, Inc.",
+  "fein": "82-4326279",
+  "lca_filing_count": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 120000.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 90900.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 120000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Product Manager",
+      "count": 2,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "Product Manager",
+      "count": 1,
+      "median_wage_usd": 90900.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MA",
+      "county": "BOSTON CITY",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MA",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Computer Occupations, All Other",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 120000.0,
+    "gap_usd": 2000.0
+  }
+}

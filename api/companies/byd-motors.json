@@ -1,0 +1,212 @@
+{
+  "slug": "byd-motors",
+  "canonical_name": "BYD Motors LLC",
+  "fein": "83-1309967",
+  "lca_filing_count": 15,
+  "warn_notice_count": 1,
+  "median_wage_usd": 80000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 97309.5
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 80000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 6,
+      "median_wage_usd": 80000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 4,
+      "median_wage_usd": 83200.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 82763.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Staff Accountant",
+      "count": 2,
+      "median_wage_usd": 75000.0
+    },
+    {
+      "title": "Business System Analyst I",
+      "count": 2,
+      "median_wage_usd": 80000.0
+    },
+    {
+      "title": "HR Specialist",
+      "count": 1,
+      "median_wage_usd": 62400.0
+    },
+    {
+      "title": "Senior Accountant",
+      "count": 1,
+      "median_wage_usd": 80000.0
+    },
+    {
+      "title": "Customer Service Engineering Supervisor ",
+      "count": 1,
+      "median_wage_usd": 93288.0
+    },
+    {
+      "title": "Mechanical Engineer",
+      "count": 1,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "title": "Project Engineer",
+      "count": 1,
+      "median_wage_usd": 94619.0
+    },
+    {
+      "title": "Accountant",
+      "count": 1,
+      "median_wage_usd": 57949.0
+    },
+    {
+      "title": "Product Engineer",
+      "count": 1,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "title": "Director of Project Manager ",
+      "count": 1,
+      "median_wage_usd": 127504.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 15
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 14
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "04/02/2020",
+      "effective_date": "03/20/2020",
+      "state": "CA",
+      "workers": 18,
+      "city": "Los Angeles"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 6,
+    "initial_denials": 1,
+    "continuing_approvals": 21,
+    "continuing_denials": 0,
+    "total_approvals": 27,
+    "by_fy": [
+      {
+        "fy": 2014,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2015,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2016,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2017,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 3,
+        "initial_denials": 0,
+        "continuing_approvals": 5,
+        "continuing_denials": 0,
+        "total_approvals": 8
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 2,
+        "initial_denials": 1,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 5
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 11,
+        "continuing_denials": 0,
+        "total_approvals": 12
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      }
+    ]
+  },
+  "lca_worker_positions": 14,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-2011",
+    "soc_title": "Accountants and Auditors",
+    "market_median_usd": 79000.0,
+    "employer_median_usd": 77500.0,
+    "gap_usd": -1500.0
+  }
+}

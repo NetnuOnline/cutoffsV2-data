@@ -1,0 +1,90 @@
+{
+  "slug": "lexisnexis-vitalchek-network",
+  "canonical_name": "LexisNexis VitalChek Network, Inc.",
+  "fein": "62-1365614",
+  "lca_filing_count": 11,
+  "lca_worker_positions": 9,
+  "warn_notice_count": 0,
+  "median_wage_usd": 111762.8,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 80163.0
+    },
+    {
+      "fy": 2024,
+      "filings": 4,
+      "median_wage_usd": 109838.20000000001
+    },
+    {
+      "fy": 2026,
+      "filings": 4,
+      "median_wage_usd": 116876.275,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Quality Test Engineer II",
+      "count": 6,
+      "median_wage_usd": 111762.8
+    },
+    {
+      "title": "Quality Test Engineer III",
+      "count": 2,
+      "median_wage_usd": 107949.6
+    },
+    {
+      "title": "Senior DBA I",
+      "count": 2,
+      "median_wage_usd": 112970.0
+    },
+    {
+      "title": "Software Engineer III",
+      "count": 1,
+      "median_wage_usd": 80163.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TN",
+      "county": "WILLIAMSON",
+      "count": 4
+    },
+    {
+      "state": "TN",
+      "county": "SUMNER",
+      "count": 2
+    },
+    {
+      "state": "TN",
+      "county": "MAURY",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TN",
+      "count": 8
+    },
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "VA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1253",
+    "soc_title": "Software Quality Assurance Analysts and Testers",
+    "market_median_usd": 101800.0,
+    "employer_median_usd": 111726.8,
+    "gap_usd": 9926.8
+  }
+}

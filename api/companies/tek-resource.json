@@ -1,0 +1,137 @@
+{
+  "slug": "tek-resource",
+  "canonical_name": "Tek Resource Inc",
+  "fein": "81-2962287",
+  "lca_filing_count": 10,
+  "lca_worker_positions": 10,
+  "warn_notice_count": 0,
+  "median_wage_usd": 94800.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 3,
+      "median_wage_usd": 105768.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 94332.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 87125.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 84000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 94800.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Quality Engineer Level 2",
+      "count": 4,
+      "median_wage_usd": 89760.0
+    },
+    {
+      "title": "Business Analyst",
+      "count": 1,
+      "median_wage_usd": 96000.0
+    },
+    {
+      "title": "IVR Test Engineer",
+      "count": 1,
+      "median_wage_usd": 116043.0
+    },
+    {
+      "title": "Application Developer",
+      "count": 1,
+      "median_wage_usd": 98904.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 1,
+      "median_wage_usd": 84000.0
+    },
+    {
+      "title": "Sr. Security Engineer ",
+      "count": 1,
+      "median_wage_usd": 105768.0
+    },
+    {
+      "title": "Sr. Security Engineer",
+      "count": 1,
+      "median_wage_usd": 100000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 2
+    },
+    {
+      "state": "OH",
+      "county": "HAMILTON",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "county": "MIDDLESEX",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "OH",
+      "count": 4
+    },
+    {
+      "state": "GA",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "WI",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1253",
+    "soc_title": "Software Quality Assurance Analysts and Testers",
+    "market_median_usd": 101800.0,
+    "employer_median_usd": 89760.0,
+    "gap_usd": -12040.0
+  }
+}

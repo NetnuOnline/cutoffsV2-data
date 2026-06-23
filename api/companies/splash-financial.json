@@ -1,0 +1,91 @@
+{
+  "slug": "splash-financial",
+  "canonical_name": "Splash Financial, Inc.",
+  "fein": "46-5483037",
+  "lca_filing_count": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 172949.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 114317.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 232500.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Engineering Manager",
+      "count": 2,
+      "median_wage_usd": 232500.0
+    },
+    {
+      "title": "Senior Product Manager",
+      "count": 1,
+      "median_wage_usd": 115898.0
+    },
+    {
+      "title": "Senior DevOps Engineer",
+      "count": 1,
+      "median_wage_usd": 112736.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MI",
+      "county": "OAKLAND",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "county": "MECKLENBURG",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "OH",
+      "count": 2
+    },
+    {
+      "state": "MI",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 1,
+    "continuing_denials": 0,
+    "total_approvals": 1,
+    "by_fy": [
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3021",
+    "soc_title": "Computer and Information Systems Managers",
+    "market_median_usd": 169510.0,
+    "employer_median_usd": 232500.0,
+    "gap_usd": 62990.0
+  }
+}

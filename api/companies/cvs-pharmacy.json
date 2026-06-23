@@ -1,0 +1,203 @@
+{
+  "slug": "cvs-pharmacy",
+  "canonical_name": "CVS Pharmacy, Inc.",
+  "fein": "05-0340626",
+  "lca_filing_count": 621,
+  "lca_worker_positions": 623,
+  "warn_notice_count": 0,
+  "median_wage_usd": 135000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 51,
+      "median_wage_usd": 122100.0
+    },
+    {
+      "fy": 2021,
+      "filings": 84,
+      "median_wage_usd": 121000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 132,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 84,
+      "median_wage_usd": 134521.875
+    },
+    {
+      "fy": 2024,
+      "filings": 90,
+      "median_wage_usd": 133075.08000000002
+    },
+    {
+      "fy": 2025,
+      "filings": 114,
+      "median_wage_usd": 153509.44
+    },
+    {
+      "fy": 2026,
+      "filings": 59,
+      "median_wage_usd": 150821.92,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Sr Software Development Engineer",
+      "count": 70,
+      "median_wage_usd": 143127.935
+    },
+    {
+      "title": "Staff Software Development Engineer",
+      "count": 44,
+      "median_wage_usd": 178576.015
+    },
+    {
+      "title": "Digital Dev Engineer III",
+      "count": 23,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Software Development Engineer",
+      "count": 21,
+      "median_wage_usd": 120525.75
+    },
+    {
+      "title": "Senior Software Development Engineer",
+      "count": 13,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Sr Data Engineer",
+      "count": 10,
+      "median_wage_usd": 134971.0
+    },
+    {
+      "title": "Digital Dev Engineer II",
+      "count": 9,
+      "median_wage_usd": 112750.0
+    },
+    {
+      "title": "Digital Sr Dev Engineer I",
+      "count": 9,
+      "median_wage_usd": 149942.43
+    },
+    {
+      "title": "Sr Data Scientist",
+      "count": 8,
+      "median_wage_usd": 154000.0
+    },
+    {
+      "title": "Digital Sr Dev Engineer II",
+      "count": 8,
+      "median_wage_usd": 181168.5
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "RI",
+      "county": "WOONSOCKET CITY",
+      "count": 86
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 72
+    },
+    {
+      "state": "RI",
+      "county": "CUMBERLAND",
+      "count": 41
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 23
+    },
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 23
+    },
+    {
+      "state": "RI",
+      "county": "PROVIDENCE CITY",
+      "count": 22
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 21
+    },
+    {
+      "state": "IL",
+      "county": "LAKE",
+      "count": 17
+    },
+    {
+      "state": "NJ",
+      "county": "MORRIS",
+      "count": 14
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 10
+    }
+  ],
+  "top_states": [
+    {
+      "state": "RI",
+      "count": 202
+    },
+    {
+      "state": "TX",
+      "count": 149
+    },
+    {
+      "state": "IL",
+      "count": 52
+    },
+    {
+      "state": "AZ",
+      "count": 37
+    },
+    {
+      "state": "NJ",
+      "count": 30
+    },
+    {
+      "state": "MA",
+      "count": 23
+    },
+    {
+      "state": "GA",
+      "count": 23
+    },
+    {
+      "state": "NC",
+      "count": 19
+    },
+    {
+      "state": "VA",
+      "count": 11
+    },
+    {
+      "state": "CA",
+      "count": 11
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 142039.77,
+    "gap_usd": 11879.77
+  }
+}

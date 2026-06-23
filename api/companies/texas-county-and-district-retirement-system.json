@@ -1,0 +1,62 @@
+{
+  "slug": "texas-county-and-district-retirement-system",
+  "canonical_name": "Texas County and District Retirement System",
+  "fein": "74-1587405",
+  "lca_filing_count": 3,
+  "lca_worker_positions": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 130000.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 121699.5
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 176262.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Chief Enterprise Solutions Officer",
+      "count": 1,
+      "median_wage_usd": 222525.0
+    },
+    {
+      "title": "Senior BI Developer",
+      "count": 1,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Senior Pega Developer",
+      "count": 1,
+      "median_wage_usd": 121699.5
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 172112.25,
+    "gap_usd": 41952.25
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "slug": "seven-seas-international",
+  "canonical_name": "Seven Seas International, LLC",
+  "fein": "27-2424070",
+  "lca_filing_count": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 78050.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 80500.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 75525.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 84428.5
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Network Engineer",
+      "count": 2,
+      "median_wage_usd": 80300.0
+    },
+    {
+      "title": "MARINE STRUCTURAL DESIGNER",
+      "count": 1,
+      "median_wage_usd": 99757.0
+    },
+    {
+      "title": "IT Analyst",
+      "count": 1,
+      "median_wage_usd": 69100.0
+    },
+    {
+      "title": "Software Quallity Assurance Tester",
+      "count": 1,
+      "median_wage_usd": 80500.0
+    },
+    {
+      "title": "Mechanical engineer",
+      "count": 1,
+      "median_wage_usd": 75525.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "PA",
+      "county": "PHILADELPHIA",
+      "count": 4
+    }
+  ],
+  "top_states": [
+    {
+      "state": "PA",
+      "count": 6
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 5,
+    "initial_denials": 0,
+    "continuing_approvals": 0,
+    "continuing_denials": 0,
+    "total_approvals": 5,
+    "by_fy": [
+      {
+        "fy": 2021,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 4,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 4
+      }
+    ]
+  },
+  "lca_worker_positions": 6,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Computer Systems Engineers/Architects",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 80300.0,
+    "gap_usd": -37700.0
+  }
+}

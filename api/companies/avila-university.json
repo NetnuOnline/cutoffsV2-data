@@ -1,0 +1,51 @@
+{
+  "slug": "avila-university",
+  "canonical_name": "Avila University",
+  "fein": null,
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 62931.2,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 62931.2
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Adjunct Professor, Computer Science",
+      "count": 1,
+      "median_wage_usd": 53622.4
+    },
+    {
+      "title": "Coordinator of International Partnerships",
+      "count": 1,
+      "median_wage_usd": 72240.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MO",
+      "county": "JACKSON",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MO",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1161",
+    "soc_title": "Market Research Analysts and Marketing Specialists",
+    "market_median_usd": 74680.0,
+    "employer_median_usd": 72240.0,
+    "gap_usd": -2440.0
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "slug": "ssa-group",
+  "canonical_name": "SSA Group LLC",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 7,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 3
+    },
+    {
+      "state": "OH",
+      "count": 2
+    },
+    {
+      "state": "TN",
+      "count": 1
+    },
+    {
+      "state": "WI",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "10/09/2020",
+      "effective_date": "03/29/2020",
+      "state": "TN",
+      "workers": 23,
+      "city": "Davidson County"
+    },
+    {
+      "date": "09/29/2020",
+      "effective_date": "03/29/2020",
+      "state": "OH",
+      "workers": 47,
+      "city": "Columbus/Franklin"
+    },
+    {
+      "date": "09/29/2020",
+      "effective_date": "03/29/2020",
+      "state": "OH",
+      "workers": 31,
+      "city": "Cincinnati/Hamilton"
+    },
+    {
+      "date": "09/28/2020",
+      "effective_date": "03/29/2020",
+      "state": "CA",
+      "workers": 197,
+      "city": "Monterey"
+    },
+    {
+      "date": "03/30/2020",
+      "effective_date": "03/29/2020",
+      "state": "WI",
+      "workers": 319,
+      "city": "Milwaukee"
+    },
+    {
+      "date": "03/23/2020",
+      "effective_date": "03/29/2020",
+      "state": "CA",
+      "workers": 106,
+      "city": "San Francisco"
+    },
+    {
+      "date": "03/23/2020",
+      "effective_date": "03/29/2020",
+      "state": "CA",
+      "workers": 158,
+      "city": "Los Angeles"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "monterey-county-wib",
+      "name": "Monterey County WIB",
+      "state": "CA"
+    },
+    {
+      "slug": "milwaukee-wda",
+      "name": "Milwaukee WDA",
+      "state": "WI"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

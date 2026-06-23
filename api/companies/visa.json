@@ -1,0 +1,87 @@
+{
+  "slug": "visa",
+  "canonical_name": "Visa U.S.A. Inc.",
+  "fein": null,
+  "lca_filing_count": 288,
+  "warn_notice_count": 6,
+  "median_wage_usd": 156086,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 0,
+      "median_wage_usd": null
+    },
+    {
+      "fy": 2026,
+      "filings": 0,
+      "median_wage_usd": null
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Staff SW Engineer",
+      "count": 0,
+      "median_wage_usd": null
+    },
+    {
+      "title": "Director",
+      "count": 0,
+      "median_wage_usd": null
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 6
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "11/21/2024",
+      "effective_date": "01/21/2025",
+      "state": "CA",
+      "workers": 192,
+      "city": "San Mateo"
+    },
+    {
+      "date": "11/21/2024",
+      "effective_date": "01/21/2025",
+      "state": "CA",
+      "workers": 10,
+      "city": "San Francisco"
+    },
+    {
+      "date": "11/01/2024",
+      "effective_date": "01/03/2025",
+      "state": "CA",
+      "workers": 26,
+      "city": "San Mateo"
+    },
+    {
+      "date": "11/01/2024",
+      "effective_date": "01/03/2025",
+      "state": "CA",
+      "workers": 65,
+      "city": "San Francisco"
+    },
+    {
+      "date": "01/12/2017",
+      "effective_date": "03/20/2017",
+      "state": "CA",
+      "workers": 58,
+      "city": "Foster City"
+    },
+    {
+      "date": "11/04/2016",
+      "effective_date": "01/06/2017",
+      "state": "CA",
+      "workers": 213,
+      "city": "Foster City"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

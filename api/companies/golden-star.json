@@ -1,0 +1,47 @@
+{
+  "slug": "golden-star",
+  "canonical_name": "Golden Star",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "NE",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "10/01/2015",
+      "effective_date": "10/01/2015",
+      "state": "NE",
+      "workers": 15,
+      "city": "Ainsworth"
+    },
+    {
+      "date": "02/02/1998",
+      "effective_date": "02/02/1998",
+      "state": "GA",
+      "workers": 125,
+      "city": "Rome"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "sandhills-economic-region",
+      "name": "Sandhills Economic Region",
+      "state": "NE"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

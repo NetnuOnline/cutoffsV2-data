@@ -1,0 +1,52 @@
+{
+  "slug": "pccw-teleservices-us",
+  "canonical_name": "PCCW Teleservices (US), Inc.",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 1
+    },
+    {
+      "state": "IA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "11/16/2012",
+      "effective_date": "01/01/2013",
+      "state": "IL",
+      "workers": 139,
+      "city": "Quincy"
+    },
+    {
+      "date": "01/31/2012",
+      "effective_date": "03/31/2012",
+      "state": "IA",
+      "workers": 80,
+      "city": "Ottumwa"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "wib-of-western-il",
+      "name": "WIB of Western IL",
+      "state": "IL"
+    },
+    {
+      "slug": "region-15-ottumwa-wib",
+      "name": "Region 15 - Ottumwa WIB",
+      "state": "IA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

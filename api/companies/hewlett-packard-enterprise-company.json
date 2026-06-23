@@ -1,0 +1,203 @@
+{
+  "slug": "hewlett-packard-enterprise-company",
+  "canonical_name": "Hewlett Packard Enterprise Company",
+  "fein": "47-3298624",
+  "lca_filing_count": 520,
+  "lca_worker_positions": 519,
+  "warn_notice_count": 0,
+  "median_wage_usd": 154544.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 78,
+      "median_wage_usd": 143534.5
+    },
+    {
+      "fy": 2021,
+      "filings": 73,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 91,
+      "median_wage_usd": 160000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 85,
+      "median_wage_usd": 153320.0
+    },
+    {
+      "fy": 2024,
+      "filings": 83,
+      "median_wage_usd": 163753.0
+    },
+    {
+      "fy": 2025,
+      "filings": 85,
+      "median_wage_usd": 157500.0
+    },
+    {
+      "fy": 2026,
+      "filings": 24,
+      "median_wage_usd": 170542.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Systems/Software Engineer",
+      "count": 50,
+      "median_wage_usd": 143730.18
+    },
+    {
+      "title": "Senior Cloud Developer",
+      "count": 32,
+      "median_wage_usd": 192273.5
+    },
+    {
+      "title": "Software Engineer Quality Assurance",
+      "count": 24,
+      "median_wage_usd": 159754.695
+    },
+    {
+      "title": "Cloud Developer III",
+      "count": 23,
+      "median_wage_usd": 150758.0
+    },
+    {
+      "title": "IT Developer/Engineer",
+      "count": 18,
+      "median_wage_usd": 132924.35
+    },
+    {
+      "title": "Software Designer",
+      "count": 18,
+      "median_wage_usd": 171105.74
+    },
+    {
+      "title": "Senior Systems/Software Engineer",
+      "count": 15,
+      "median_wage_usd": 159389.0
+    },
+    {
+      "title": "Principal Cloud Developer",
+      "count": 13,
+      "median_wage_usd": 201323.0
+    },
+    {
+      "title": "Cloud Developer II",
+      "count": 12,
+      "median_wage_usd": 139443.0
+    },
+    {
+      "title": "IT Business Consultant",
+      "count": 11,
+      "median_wage_usd": 130000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 197
+    },
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 44
+    },
+    {
+      "state": "NC",
+      "county": "DURHAM",
+      "count": 25
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 15
+    },
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 12
+    },
+    {
+      "state": "CA",
+      "county": "PLACER",
+      "count": 12
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 11
+    },
+    {
+      "state": "CO",
+      "county": "LARIMER",
+      "count": 11
+    },
+    {
+      "state": "MA",
+      "county": "ESSEX",
+      "count": 9
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 9
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 276
+    },
+    {
+      "state": "TX",
+      "count": 123
+    },
+    {
+      "state": "NC",
+      "count": 28
+    },
+    {
+      "state": "MA",
+      "count": 22
+    },
+    {
+      "state": "CO",
+      "count": 16
+    },
+    {
+      "state": "NJ",
+      "count": 11
+    },
+    {
+      "state": "WA",
+      "count": 11
+    },
+    {
+      "state": "FL",
+      "count": 5
+    },
+    {
+      "state": "GA",
+      "count": 4
+    },
+    {
+      "state": "IL",
+      "count": 4
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Computer Systems Engineers/Architects",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 158237.0,
+    "gap_usd": 40237.0
+  }
+}

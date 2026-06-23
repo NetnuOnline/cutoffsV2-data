@@ -1,0 +1,156 @@
+{
+  "slug": "itt-corporation",
+  "canonical_name": "ITT Corporation",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 4,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "09/30/2016",
+      "effective_date": "12/01/2016",
+      "state": "CA",
+      "workers": 2,
+      "city": "Valencia"
+    },
+    {
+      "date": "12/02/2015",
+      "effective_date": "02/01/2016",
+      "state": "CA",
+      "workers": 18,
+      "city": "Perris"
+    },
+    {
+      "date": "04/13/2006",
+      "effective_date": "06/01/2006",
+      "state": "IL",
+      "workers": 50,
+      "city": "Chicago"
+    },
+    {
+      "date": "03/30/2000",
+      "effective_date": "03/30/2000",
+      "state": "GA",
+      "workers": 127,
+      "city": "Norcross"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2016-06-24",
+        "formType": "8-K",
+        "accessionNumber": "0000216228-16-000130",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000216228&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2015-05-12",
+        "formType": "8-K",
+        "accessionNumber": "0000216228-15-000027",
+        "items": [
+          "2.05",
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities",
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000216228&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2015-04-01",
+        "formType": "8-K",
+        "accessionNumber": "0000216228-15-000019",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000216228&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2015-02-27",
+        "formType": "8-K",
+        "accessionNumber": "0000216228-15-000011",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000216228&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2014-03-05",
+        "formType": "8-K",
+        "accessionNumber": "0000216228-14-000013",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000216228&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2010-03-08",
+        "formType": "8-K",
+        "accessionNumber": "0001157523-10-001440",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000216228&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2005-12-05",
+        "formType": "8-K",
+        "accessionNumber": "0001275287-05-004884",
+        "items": [
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000216228&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 7,
+    "itemCounts": {
+      "2.05": 4,
+      "5.02": 3,
+      "2.06": 1
+    },
+    "latestFilingDate": "2016-06-24",
+    "earliestFilingDate": "2005-12-05"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

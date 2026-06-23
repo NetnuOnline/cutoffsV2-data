@@ -1,0 +1,36 @@
+{
+  "slug": "windy-city-distributing",
+  "canonical_name": "Windy City Distributing",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 1,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "08/10/2020",
+      "effective_date": "10/01/2020",
+      "state": "IL",
+      "workers": 109,
+      "city": "Aurora"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "river-valley-wib",
+      "name": "River Valley WIB",
+      "state": "IL"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

@@ -1,0 +1,61 @@
+{
+  "slug": "law-offices-of-sabrina-li",
+  "canonical_name": "Law Offices of Sabrina Li",
+  "fein": "82-4104332",
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 53836.8,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 47673.600000000006
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 60000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Paralegal",
+      "count": 1,
+      "median_wage_usd": 60000.0
+    },
+    {
+      "title": "Accountant",
+      "count": 1,
+      "median_wage_usd": 47673.600000000006
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "ORANGE",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-2011",
+    "soc_title": "Accountants",
+    "market_median_usd": 79000.0,
+    "employer_median_usd": 47673.6,
+    "gap_usd": -31326.4
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "slug": "syndicate-services",
+  "canonical_name": "Syndicate-Services LLC",
+  "fein": "27-3787081",
+  "lca_filing_count": 3,
+  "lca_worker_positions": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 97365.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 74922.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 102419.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "PROGRAMMER ANALYST",
+      "count": 1,
+      "median_wage_usd": 102419.0
+    },
+    {
+      "title": "IT PROJECT MANAGER",
+      "count": 1,
+      "median_wage_usd": 97365.0
+    },
+    {
+      "title": "Data Analyst",
+      "count": 1,
+      "median_wage_usd": 74922.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MA",
+      "county": "BOSTON CITY",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MA",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 74922.0,
+    "gap_usd": -33098.0
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "cohnreznick-advisory",
+  "canonical_name": "CohnReznick Advisory LLC",
+  "fein": "33-3709623",
+  "lca_filing_count": 4,
+  "lca_worker_positions": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 111505.5,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 122959.5
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 89811.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Assurance Manager",
+      "count": 2,
+      "median_wage_usd": 129924.0
+    },
+    {
+      "title": "Audit Associate",
+      "count": 1,
+      "median_wage_usd": 61152.0
+    },
+    {
+      "title": "Tax Senior Associate",
+      "count": 1,
+      "median_wage_usd": 104541.0
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 3
+    },
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-2011",
+    "soc_title": "Accountants and Auditors",
+    "market_median_usd": 79000.0,
+    "employer_median_usd": 111505.5,
+    "gap_usd": 32505.5
+  }
+}

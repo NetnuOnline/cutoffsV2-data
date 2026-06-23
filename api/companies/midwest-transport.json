@@ -1,0 +1,155 @@
+{
+  "slug": "midwest-transport",
+  "canonical_name": "Midwest Transport, Inc.",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 12,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "KY",
+      "count": 2
+    },
+    {
+      "state": "MI",
+      "count": 2
+    },
+    {
+      "state": "FL",
+      "count": 2
+    },
+    {
+      "state": "TN",
+      "count": 1
+    },
+    {
+      "state": "OH",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "10/03/2024",
+      "effective_date": "09/09/2024",
+      "state": "TN",
+      "workers": 21,
+      "city": "Shelby County"
+    },
+    {
+      "date": "10/01/2024",
+      "effective_date": "09/09/2024",
+      "state": "OH",
+      "workers": 5,
+      "city": "Unknown City/County"
+    },
+    {
+      "date": "10/01/2024",
+      "effective_date": "09/09/2024",
+      "state": "KY",
+      "workers": 5,
+      "city": "Out of the State County"
+    },
+    {
+      "date": "10/01/2024",
+      "effective_date": "09/09/2024",
+      "state": "KY",
+      "workers": 5,
+      "city": "Out of the State"
+    },
+    {
+      "date": "09/30/2024",
+      "effective_date": "09/09/2024",
+      "state": "MI",
+      "workers": 6,
+      "city": "Robinson, Illinois"
+    },
+    {
+      "date": "09/30/2024",
+      "effective_date": "09/02/2024",
+      "state": "FL",
+      "workers": 111,
+      "city": "TAMPA"
+    },
+    {
+      "date": "09/30/2024",
+      "effective_date": "09/02/2024",
+      "state": "FL",
+      "workers": 111,
+      "city": "JACKSONVILLE"
+    },
+    {
+      "date": "09/30/2024",
+      "effective_date": "09/30/2024",
+      "state": "MI",
+      "workers": 6,
+      "city": "Robinson (Illinois)"
+    },
+    {
+      "date": "09/27/2024",
+      "effective_date": "09/09/2024",
+      "state": "NC",
+      "workers": 16,
+      "city": "111385 N Trimble Road, Robinson IL"
+    },
+    {
+      "date": "09/10/2024",
+      "effective_date": "09/09/2024",
+      "state": "IL",
+      "workers": 75,
+      "city": "Ridgewood"
+    },
+    {
+      "date": "09/09/2024",
+      "effective_date": "09/09/2024",
+      "state": "NY",
+      "workers": 17,
+      "city": null
+    },
+    {
+      "date": "09/09/2024",
+      "effective_date": "09/09/2024",
+      "state": "PA",
+      "workers": 0,
+      "city": "Harmony"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "careersource-northeast-florida",
+      "name": "CareerSource Northeast Florida",
+      "state": "FL"
+    },
+    {
+      "slug": "careersource-tampa-bay",
+      "name": "CareerSource Tampa Bay",
+      "state": "FL"
+    },
+    {
+      "slug": "tri-county-wia",
+      "name": "Tri-County WIA",
+      "state": "PA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

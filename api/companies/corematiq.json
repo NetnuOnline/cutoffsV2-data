@@ -1,0 +1,156 @@
+{
+  "slug": "corematiq",
+  "canonical_name": "COREMATIQ INC",
+  "fein": "47-1485985",
+  "lca_filing_count": 7,
+  "warn_notice_count": 0,
+  "median_wage_usd": 89710.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 4,
+      "median_wage_usd": 85602.5
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 106204.5
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Business Intelligence Analysts",
+      "count": 2,
+      "median_wage_usd": 89877.0
+    },
+    {
+      "title": "Network and Computer Systems Administrators",
+      "count": 2,
+      "median_wage_usd": 77667.0
+    },
+    {
+      "title": "Computer Systems Analysts",
+      "count": 1,
+      "median_wage_usd": 89710.0
+    },
+    {
+      "title": "SOFTWARE DEVELOPER",
+      "count": 1,
+      "median_wage_usd": 122699.0
+    },
+    {
+      "title": "Software Quality Assurance Analysts and Testers",
+      "count": 1,
+      "median_wage_usd": 81328.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 2
+    },
+    {
+      "state": "GA",
+      "county": "CHEROKEE",
+      "count": 2
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 1
+    },
+    {
+      "state": "DC",
+      "county": "DISTRICT OF COLUMBIA",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "count": 3
+    },
+    {
+      "state": "DC",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 13,
+    "initial_denials": 3,
+    "continuing_approvals": 0,
+    "continuing_denials": 0,
+    "total_approvals": 13,
+    "by_fy": [
+      {
+        "fy": 2015,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2016,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2017,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 11,
+        "initial_denials": 3,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 11
+      }
+    ]
+  },
+  "lca_worker_positions": 6,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Business Intelligence Analysts",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 89877.0,
+    "gap_usd": -18143.0
+  }
+}

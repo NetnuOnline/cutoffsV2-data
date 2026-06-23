@@ -1,0 +1,203 @@
+{
+  "slug": "dataquad",
+  "canonical_name": "Dataquad Inc.",
+  "fein": "47-1729855",
+  "lca_filing_count": 128,
+  "lca_worker_positions": 127,
+  "warn_notice_count": 0,
+  "median_wage_usd": 94620.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 16,
+      "median_wage_usd": 87990.0
+    },
+    {
+      "fy": 2021,
+      "filings": 31,
+      "median_wage_usd": 94050.0
+    },
+    {
+      "fy": 2022,
+      "filings": 18,
+      "median_wage_usd": 97769.5
+    },
+    {
+      "fy": 2023,
+      "filings": 11,
+      "median_wage_usd": 94245.0
+    },
+    {
+      "fy": 2024,
+      "filings": 20,
+      "median_wage_usd": 103802.5
+    },
+    {
+      "fy": 2025,
+      "filings": 22,
+      "median_wage_usd": 99475.0
+    },
+    {
+      "fy": 2026,
+      "filings": 9,
+      "median_wage_usd": 94250.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 11,
+      "median_wage_usd": 81990.0
+    },
+    {
+      "title": "Full Stack Developer",
+      "count": 6,
+      "median_wage_usd": 90499.5
+    },
+    {
+      "title": "Salesforce Developer",
+      "count": 6,
+      "median_wage_usd": 107062.5
+    },
+    {
+      "title": "Software Engineer",
+      "count": 6,
+      "median_wage_usd": 97125.0
+    },
+    {
+      "title": "SOFTWARE DEVELOPER",
+      "count": 5,
+      "median_wage_usd": 98990.0
+    },
+    {
+      "title": ".Net Developer",
+      "count": 5,
+      "median_wage_usd": 90022.0
+    },
+    {
+      "title": "DevOps Engineer",
+      "count": 5,
+      "median_wage_usd": 109000.0
+    },
+    {
+      "title": "Data Engineer",
+      "count": 4,
+      "median_wage_usd": 105321.0
+    },
+    {
+      "title": "Java Developer",
+      "count": 4,
+      "median_wage_usd": 95944.5
+    },
+    {
+      "title": "Okta Developer",
+      "count": 3,
+      "median_wage_usd": 103605.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 16
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 8
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 6
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 5
+    },
+    {
+      "state": "TN",
+      "county": "DAVIDSON",
+      "count": 4
+    },
+    {
+      "state": "PA",
+      "county": "ALLEGHENY",
+      "count": 3
+    },
+    {
+      "state": "NY",
+      "county": "NASSAU",
+      "count": 3
+    },
+    {
+      "state": "MI",
+      "county": "KENT",
+      "count": 3
+    },
+    {
+      "state": "MS",
+      "county": "RANKIN",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "county": "BEXAR",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 52
+    },
+    {
+      "state": "OH",
+      "count": 7
+    },
+    {
+      "state": "NJ",
+      "count": 7
+    },
+    {
+      "state": "PA",
+      "count": 6
+    },
+    {
+      "state": "CA",
+      "count": 6
+    },
+    {
+      "state": "IL",
+      "count": 5
+    },
+    {
+      "state": "NY",
+      "count": 5
+    },
+    {
+      "state": "TN",
+      "count": 4
+    },
+    {
+      "state": "RI",
+      "count": 4
+    },
+    {
+      "state": "NC",
+      "count": 4
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 99774.5,
+    "gap_usd": -30385.5
+  }
+}

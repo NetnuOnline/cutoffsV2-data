@@ -1,0 +1,93 @@
+{
+  "slug": "electrolux-consumer-products",
+  "canonical_name": "Electrolux Consumer Products Inc.",
+  "fein": "34-1694736",
+  "lca_filing_count": 7,
+  "warn_notice_count": 2,
+  "median_wage_usd": 135000.0,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 5,
+      "median_wage_usd": 135000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Pricing Manager, Revenue Growth Management",
+      "count": 3,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "title": "Group Maintenance Project Leader, Group Maintenance",
+      "count": 1,
+      "median_wage_usd": 137640.0
+    },
+    {
+      "title": "Lead Data Engineer",
+      "count": 1,
+      "median_wage_usd": 138432.0
+    },
+    {
+      "title": "Sr Field Quality Engineer",
+      "count": 1,
+      "median_wage_usd": 111444.0
+    },
+    {
+      "title": "Manufacturing Project Manager \u201c Food Preservation",
+      "count": 1,
+      "median_wage_usd": 114735.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NC",
+      "count": 4
+    },
+    {
+      "state": "TN",
+      "count": 2
+    },
+    {
+      "state": "SC",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "SC",
+      "county": "ANDERSON",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "05/15/2026",
+      "effective_date": "07/18/2026",
+      "state": "SC",
+      "workers": 1139,
+      "city": "101 Masters Boulevard, Anderson, SC 29622"
+    },
+    {
+      "date": "05/15/2026",
+      "effective_date": "07/18/2026",
+      "state": "SC",
+      "workers": 1255,
+      "city": "101 Masters Boulevard, Anderson, SC 29622"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "lca_worker_positions": 5,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-2021",
+    "soc_title": "Marketing Managers",
+    "market_median_usd": 157620.0,
+    "employer_median_usd": 135000.0,
+    "gap_usd": -22620.0
+  }
+}

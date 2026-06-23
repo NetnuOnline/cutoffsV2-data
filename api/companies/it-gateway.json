@@ -1,0 +1,84 @@
+{
+  "slug": "it-gateway",
+  "canonical_name": "IT Gateway LLC",
+  "fein": "47-0968197",
+  "lca_filing_count": 4,
+  "lca_worker_positions": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 104905.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 62109.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 97386.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 112673.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Observability Architect",
+      "count": 1,
+      "median_wage_usd": 112424.0
+    },
+    {
+      "title": "ETL Developer",
+      "count": 1,
+      "median_wage_usd": 62109.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 1,
+      "median_wage_usd": 112923.0
+    },
+    {
+      "title": "Salesforce Engineer",
+      "count": 1,
+      "median_wage_usd": 97386.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TN",
+      "county": "HAMILTON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MO",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "TN",
+      "count": 1
+    },
+    {
+      "state": "SC",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 104905.0,
+    "gap_usd": -25255.0
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "slug": "brookdale-senior",
+  "canonical_name": "Brookdale Senior",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 4,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 2
+    },
+    {
+      "state": "TN",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "09/19/2025",
+      "effective_date": "02/15/2026",
+      "state": "IL",
+      "workers": 4,
+      "city": "Chicago"
+    },
+    {
+      "date": "09/19/2025",
+      "effective_date": "11/17/2025",
+      "state": "IL",
+      "workers": 113,
+      "city": "Chicago"
+    },
+    {
+      "date": "02/21/2020",
+      "effective_date": "04/06/2020",
+      "state": "TN",
+      "workers": 58,
+      "city": "Williamson County"
+    },
+    {
+      "date": "01/08/2018",
+      "effective_date": "03/09/2018",
+      "state": "FL",
+      "workers": 110,
+      "city": "Margate"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2018-02-23",
+        "formType": "8-K",
+        "accessionNumber": "0001332349-18-000036",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001332349&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2008-02-11",
+        "formType": "8-K",
+        "accessionNumber": "0001332349-08-000006",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001332349&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 2,
+    "itemCounts": {
+      "5.02": 2
+    },
+    "latestFilingDate": "2018-02-23",
+    "earliestFilingDate": "2008-02-11"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

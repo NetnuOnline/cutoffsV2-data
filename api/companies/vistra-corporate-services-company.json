@@ -1,0 +1,117 @@
+{
+  "slug": "vistra-corporate-services-company",
+  "canonical_name": "Vistra Corporate Services Company",
+  "fein": "75-0835281",
+  "lca_filing_count": 23,
+  "lca_worker_positions": 23,
+  "warn_notice_count": 0,
+  "median_wage_usd": 135000.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 4,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 6,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 126402.0
+    },
+    {
+      "fy": 2024,
+      "filings": 4,
+      "median_wage_usd": 133484.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 149737.5
+    },
+    {
+      "fy": 2026,
+      "filings": 4,
+      "median_wage_usd": 142719.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "IT Lead Developer",
+      "count": 2,
+      "median_wage_usd": 138865.0
+    },
+    {
+      "title": "Sr. Principal Developer, Technology Services",
+      "count": 1,
+      "median_wage_usd": 156998.0
+    },
+    {
+      "title": "Senior Principal Developer, Technology Services",
+      "count": 1,
+      "median_wage_usd": 149781.0
+    },
+    {
+      "title": "Principal Cyber Security Architect",
+      "count": 1,
+      "median_wage_usd": 144789.0
+    },
+    {
+      "title": "Manager, Technology Services (127)",
+      "count": 1,
+      "median_wage_usd": 134264.0
+    },
+    {
+      "title": "Sr. Analyst, Power Fundamentals",
+      "count": 1,
+      "median_wage_usd": 117302.0
+    },
+    {
+      "title": "Lead Analyst, Decision Analytics ",
+      "count": 1,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "Principal, System Engineer Network & Voice ",
+      "count": 1,
+      "median_wage_usd": 145000.0
+    },
+    {
+      "title": "Senior SAS Architect and Administrator",
+      "count": 1,
+      "median_wage_usd": 122179.0
+    },
+    {
+      "title": "Lead Analyst, Corporate Applications",
+      "count": 1,
+      "median_wage_usd": 120000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 17
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 23
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 142603.5,
+    "gap_usd": 12443.5
+  }
+}

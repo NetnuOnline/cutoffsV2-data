@@ -1,0 +1,43 @@
+{
+  "slug": "mead-johnson",
+  "canonical_name": "Mead Johnson",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "01/02/2026",
+      "effective_date": "01/02/2026",
+      "state": "NJ",
+      "workers": 18,
+      "city": "Parsippany"
+    },
+    {
+      "date": "01/08/2024",
+      "effective_date": "01/08/2024",
+      "state": "NJ",
+      "workers": 190,
+      "city": "Parsippany"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "morris-sussex-warren-wib",
+      "name": "Morris-Sussex-Warren WIB",
+      "state": "NJ"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

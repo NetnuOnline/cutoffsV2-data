@@ -1,0 +1,163 @@
+{
+  "slug": "interactive-brokers",
+  "canonical_name": "Interactive Brokers LLC",
+  "fein": "26-2292821",
+  "lca_filing_count": 37,
+  "lca_worker_positions": 36,
+  "warn_notice_count": 0,
+  "median_wage_usd": 160000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 5,
+      "median_wage_usd": 59925.0
+    },
+    {
+      "fy": 2021,
+      "filings": 5,
+      "median_wage_usd": 160000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 5,
+      "median_wage_usd": 152000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 4,
+      "median_wage_usd": 157000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 5,
+      "median_wage_usd": 210000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 10,
+      "median_wage_usd": 159500.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 217500.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Sr. Software Engineer",
+      "count": 5,
+      "median_wage_usd": 190000.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 2,
+      "median_wage_usd": 137500.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 2,
+      "median_wage_usd": 190000.0
+    },
+    {
+      "title": "Director-Procurement and Vendor Management",
+      "count": 2,
+      "median_wage_usd": 186500.0
+    },
+    {
+      "title": "Sr. Infrastructure Engineer",
+      "count": 2,
+      "median_wage_usd": 173500.0
+    },
+    {
+      "title": "Compliance Analyst- Model Governance",
+      "count": 2,
+      "median_wage_usd": 85000.0
+    },
+    {
+      "title": "Model Governance Manager- Trade Surveillance",
+      "count": 2,
+      "median_wage_usd": 159000.0
+    },
+    {
+      "title": "Financial Client Service Agent ",
+      "count": 2,
+      "median_wage_usd": 59925.0
+    },
+    {
+      "title": "Jr. Software Developer",
+      "count": 1,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "Cloud Platform Engineer- Data",
+      "count": 1,
+      "median_wage_usd": 200000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CT",
+      "county": "GREENWICH",
+      "count": 10
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 6
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 5
+    },
+    {
+      "state": "WI",
+      "county": "SHEBOYGAN",
+      "count": 2
+    },
+    {
+      "state": "NY",
+      "county": "SUFFOLK",
+      "count": 1
+    },
+    {
+      "state": "CT",
+      "county": "FAIRFIELD",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CT",
+      "count": 15
+    },
+    {
+      "state": "NY",
+      "count": 10
+    },
+    {
+      "state": "IL",
+      "count": 9
+    },
+    {
+      "state": "WI",
+      "count": 2
+    },
+    {
+      "state": "FL",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 187000.0,
+    "gap_usd": 56840.0
+  }
+}

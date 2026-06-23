@@ -1,0 +1,109 @@
+{
+  "slug": "algobrainz",
+  "canonical_name": "ALGOBRAINZ LLC",
+  "fein": "88-0778063",
+  "lca_filing_count": 8,
+  "warn_notice_count": 0,
+  "median_wage_usd": 88348.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 101192.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 105997.0
+    },
+    {
+      "fy": 2025,
+      "filings": 6,
+      "median_wage_usd": 84115.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Computer Systems Engineer",
+      "count": 4,
+      "median_wage_usd": 84115.0
+    },
+    {
+      "title": "SQL DBA",
+      "count": 1,
+      "median_wage_usd": 73070.0
+    },
+    {
+      "title": "SOFTWARE DEVELOPER",
+      "count": 1,
+      "median_wage_usd": 101192.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 1,
+      "median_wage_usd": 105997.0
+    },
+    {
+      "title": "RPA Developer",
+      "count": 1,
+      "median_wage_usd": 92581.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 4
+    },
+    {
+      "state": "NY",
+      "count": 2
+    },
+    {
+      "state": "IA",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 12,
+    "initial_denials": 0,
+    "continuing_approvals": 1,
+    "continuing_denials": 0,
+    "total_approvals": 13,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 11,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 12
+      }
+    ]
+  },
+  "lca_worker_positions": 8,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Computer Systems Engineers/Architects",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 84115.0,
+    "gap_usd": -33885.0
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "slug": "roche-diabetes-care",
+  "canonical_name": "Roche Diabetes Care, Inc.",
+  "fein": "47-1534558",
+  "lca_filing_count": 2,
+  "lca_worker_positions": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 113630.5,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 113901.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 113360.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Process Development Engineer",
+      "count": 1,
+      "median_wage_usd": 113360.0
+    },
+    {
+      "title": "System Testing Engineer",
+      "count": 1,
+      "median_wage_usd": 113901.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IN",
+      "county": "MARION",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IN",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 113901.0,
+    "gap_usd": -16259.0
+  }
+}

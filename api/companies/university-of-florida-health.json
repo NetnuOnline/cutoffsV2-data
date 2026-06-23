@@ -1,0 +1,51 @@
+{
+  "slug": "university-of-florida-health",
+  "canonical_name": "University of Florida Health Corporation",
+  "fein": "59-2699965",
+  "lca_filing_count": 4,
+  "lca_worker_positions": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 125788.0,
+  "by_fy": [
+    {
+      "fy": 2026,
+      "filings": 4,
+      "median_wage_usd": 125788.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "ERP App Analyst III",
+      "count": 2,
+      "median_wage_usd": 142823.2
+    },
+    {
+      "title": "IT Systems Engineer I",
+      "count": 1,
+      "median_wage_usd": 77542.4
+    },
+    {
+      "title": "ERP App Analyst II",
+      "count": 1,
+      "median_wage_usd": 110240.0
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "FL",
+      "count": 4
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 142823.2,
+    "gap_usd": 12663.2
+  }
+}

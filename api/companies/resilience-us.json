@@ -1,0 +1,127 @@
+{
+  "slug": "resilience-us",
+  "canonical_name": "Resilience US, Inc.",
+  "fein": null,
+  "lca_filing_count": 2,
+  "warn_notice_count": 4,
+  "median_wage_usd": 125000.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 115000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Scientist 1, Analytical Development, Gene Therapy",
+      "count": 1,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "title": "Senior Scientist, Cell Therapy R&D",
+      "count": 1,
+      "median_wage_usd": 135000.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SAN DIEGO",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "county": "WALTHAM CITY",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "06/09/2025",
+      "effective_date": "06/20/2025",
+      "state": "FL",
+      "workers": 76,
+      "city": "ALACHUA"
+    },
+    {
+      "date": "01/06/2025",
+      "effective_date": "12/15/2025",
+      "state": "NC",
+      "workers": 120,
+      "city": "1733 TW Alexander Dr, Durham"
+    },
+    {
+      "date": "02/18/2023",
+      "effective_date": "04/15/2023",
+      "state": "MA",
+      "workers": 213,
+      "city": "Allston"
+    },
+    {
+      "date": "02/18/2023",
+      "effective_date": "02/18/2023",
+      "state": "MA",
+      "workers": 0,
+      "city": "Allston"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "careersource-north-central-florida",
+      "name": "CareerSource North Central Florida",
+      "state": "FL"
+    },
+    {
+      "slug": "metro-north-wia",
+      "name": "Metro North WIA",
+      "state": "MA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 3,
+    "initial_denials": 0,
+    "continuing_approvals": 6,
+    "continuing_denials": 0,
+    "total_approvals": 9,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 4,
+        "continuing_denials": 0,
+        "total_approvals": 6
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      }
+    ]
+  },
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": []
+}

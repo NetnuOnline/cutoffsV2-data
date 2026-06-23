@@ -1,0 +1,61 @@
+{
+  "slug": "elmers-restaurants",
+  "canonical_name": "Elmer's Restaurants",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 4,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "WA",
+      "count": 2
+    },
+    {
+      "state": "OR",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "11/18/2020",
+      "effective_date": "11/18/2020",
+      "state": "WA",
+      "workers": 94,
+      "city": "Vancouver, Tacoma"
+    },
+    {
+      "date": "11/13/2020",
+      "effective_date": "11/13/2020",
+      "state": "OR",
+      "workers": 280,
+      "city": "Portland"
+    },
+    {
+      "date": "03/18/2020",
+      "effective_date": "03/17/2020",
+      "state": "WA",
+      "workers": 83,
+      "city": "Vancouver, Tacoma, Poulsbo"
+    },
+    {
+      "date": "03/16/2020",
+      "effective_date": "03/17/2020",
+      "state": "OR",
+      "workers": 296,
+      "city": "Portland"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "southwest-washington-wib",
+      "name": "Southwest Washington WIB",
+      "state": "WA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

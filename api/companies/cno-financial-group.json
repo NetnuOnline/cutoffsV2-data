@@ -1,0 +1,67 @@
+{
+  "slug": "cno-financial-group",
+  "canonical_name": "CNO Financial Group, Inc.",
+  "fein": "35-1965822",
+  "lca_filing_count": 4,
+  "warn_notice_count": 1,
+  "median_wage_usd": 145191.38,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 4,
+      "median_wage_usd": 145191.375
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Sr. Data Engineer",
+      "count": 2,
+      "median_wage_usd": 141135.75
+    },
+    {
+      "title": "Lead Developer",
+      "count": 2,
+      "median_wage_usd": 149247.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "IN",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "11/18/2025",
+      "effective_date": "01/30/2026",
+      "state": "FL",
+      "workers": 247,
+      "city": "ORLANDO"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "careersource-central-florida",
+      "name": "CareerSource Central Florida",
+      "state": "FL"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 149247.0,
+    "gap_usd": 19087.0
+  }
+}

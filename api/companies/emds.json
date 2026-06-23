@@ -1,0 +1,91 @@
+{
+  "slug": "emds",
+  "canonical_name": "eMDs, Inc.",
+  "fein": "74-2802887",
+  "lca_filing_count": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 92478.01,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 99756.03
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 85200.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 105420.48
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer I",
+      "count": 2,
+      "median_wage_usd": 85200.0
+    },
+    {
+      "title": "Test Engineer II",
+      "count": 2,
+      "median_wage_usd": 102588.255
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 4
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 2,
+    "continuing_denials": 0,
+    "total_approvals": 3,
+    "by_fy": [
+      {
+        "fy": 2020,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Computer Systems Engineers/Architects",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 85200.0,
+    "gap_usd": -32800.0
+  }
+}

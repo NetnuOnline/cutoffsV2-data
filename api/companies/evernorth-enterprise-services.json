@@ -1,0 +1,215 @@
+{
+  "slug": "evernorth-enterprise-services",
+  "canonical_name": "Evernorth Enterprise Services, Inc.",
+  "fein": null,
+  "lca_filing_count": 215,
+  "warn_notice_count": 0,
+  "median_wage_usd": 127500.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 38,
+      "median_wage_usd": 124973.75
+    },
+    {
+      "fy": 2022,
+      "filings": 154,
+      "median_wage_usd": 127376.0
+    },
+    {
+      "fy": 2023,
+      "filings": 10,
+      "median_wage_usd": 127500.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineering Senior Advisor",
+      "count": 58,
+      "median_wage_usd": 130250.0
+    },
+    {
+      "title": "Software Engineering Advisor",
+      "count": 32,
+      "median_wage_usd": 115616.0
+    },
+    {
+      "title": "Application Development Senior Advisor",
+      "count": 19,
+      "median_wage_usd": 131962.5
+    },
+    {
+      "title": "Application Development Advisor",
+      "count": 18,
+      "median_wage_usd": 114440.0
+    },
+    {
+      "title": "Infrastructure Engineering Senior Advisor",
+      "count": 10,
+      "median_wage_usd": 132427.0
+    },
+    {
+      "title": "Architecture Senior Advisor",
+      "count": 5,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "title": "Information Protection Advisor",
+      "count": 4,
+      "median_wage_usd": 113172.5
+    },
+    {
+      "title": "Database Administration Senior Advisor",
+      "count": 4,
+      "median_wage_usd": 128000.0
+    },
+    {
+      "title": "Software Engineering Senior Manager",
+      "count": 4,
+      "median_wage_usd": 149836.5
+    },
+    {
+      "title": "Application Development Advisor ",
+      "count": 3,
+      "median_wage_usd": 117070.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NJ",
+      "county": "MORRIS",
+      "count": 35
+    },
+    {
+      "state": "CT",
+      "county": "BLOOMFIELD",
+      "count": 23
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 14
+    },
+    {
+      "state": "TN",
+      "county": "DAVIDSON",
+      "count": 13
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 10
+    },
+    {
+      "state": "NC",
+      "county": "WAKE",
+      "count": 9
+    },
+    {
+      "state": "MO",
+      "county": "ST LOUIS",
+      "count": 8
+    },
+    {
+      "state": "CT",
+      "county": "HARTFORD CITY",
+      "count": 6
+    },
+    {
+      "state": "CO",
+      "county": "DENVER",
+      "count": 5
+    },
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 4
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 44
+    },
+    {
+      "state": "CT",
+      "count": 36
+    },
+    {
+      "state": "TX",
+      "count": 33
+    },
+    {
+      "state": "TN",
+      "count": 23
+    },
+    {
+      "state": "MO",
+      "count": 12
+    },
+    {
+      "state": "NC",
+      "count": 11
+    },
+    {
+      "state": "FL",
+      "count": 8
+    },
+    {
+      "state": "PA",
+      "count": 6
+    },
+    {
+      "state": "IL",
+      "count": 6
+    },
+    {
+      "state": "CO",
+      "count": 5
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 22,
+    "initial_denials": 1,
+    "continuing_approvals": 691,
+    "continuing_denials": 2,
+    "total_approvals": 713,
+    "by_fy": [
+      {
+        "fy": 2021,
+        "initial_approvals": 5,
+        "initial_denials": 1,
+        "continuing_approvals": 146,
+        "continuing_denials": 1,
+        "total_approvals": 151
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 14,
+        "initial_denials": 0,
+        "continuing_approvals": 266,
+        "continuing_denials": 0,
+        "total_approvals": 280
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 3,
+        "initial_denials": 0,
+        "continuing_approvals": 279,
+        "continuing_denials": 1,
+        "total_approvals": 282
+      }
+    ]
+  },
+  "lca_worker_positions": 202,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 129000.0,
+    "gap_usd": -1160.0
+  }
+}

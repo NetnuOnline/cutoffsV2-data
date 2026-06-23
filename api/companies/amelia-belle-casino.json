@@ -1,0 +1,111 @@
+{
+  "slug": "amelia-belle-casino",
+  "canonical_name": "Amelia Belle Casino",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 1,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "LA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "05/22/2020",
+      "effective_date": "07/01/2020",
+      "state": "LA",
+      "workers": 170,
+      "city": "Amelia"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "fourth-planning-district-consortium-wia",
+      "name": "Fourth Planning District Consortium WIA",
+      "state": "LA"
+    }
+  ],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2009-10-27",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-09-214394",
+        "items": [
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000906553&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2008-04-29",
+        "formType": "8-K",
+        "accessionNumber": "0000906553-08-000003",
+        "items": [
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000906553&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2007-12-11",
+        "formType": "8-K/A",
+        "accessionNumber": "0000906553-07-000018",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000906553&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2006-08-07",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-06-163961",
+        "items": [
+          "2.06",
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Material Impairments",
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000906553&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2006-01-09",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-06-003484",
+        "items": [
+          "2.05",
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities",
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000906553&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 5,
+    "itemCounts": {
+      "2.06": 4,
+      "5.02": 2,
+      "2.05": 1
+    },
+    "latestFilingDate": "2009-10-27",
+    "earliestFilingDate": "2006-01-09"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

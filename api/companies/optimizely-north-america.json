@@ -1,0 +1,94 @@
+{
+  "slug": "optimizely-north-america",
+  "canonical_name": "Optimizely North America Inc.",
+  "fein": "02-0497493",
+  "lca_filing_count": 6,
+  "lca_worker_positions": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 155670.5,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 151890.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 154725.5
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 165829.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 225000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Software Engineer",
+      "count": 4,
+      "median_wage_usd": 155670.5
+    },
+    {
+      "title": "Senior Visual Brand Design Specialist",
+      "count": 1,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "title": "Senior AI Innovation & Growth Director",
+      "count": 1,
+      "median_wage_usd": 225000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "PA",
+      "county": "MONTGOMERY",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "PA",
+      "count": 2
+    },
+    {
+      "state": "NY",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 159451.0,
+    "gap_usd": 29291.0
+  }
+}

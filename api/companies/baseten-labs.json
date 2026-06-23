@@ -1,0 +1,96 @@
+{
+  "slug": "baseten-labs",
+  "canonical_name": "Baseten Labs, Inc.",
+  "fein": "37-1950658",
+  "lca_filing_count": 16,
+  "lca_worker_positions": 20,
+  "warn_notice_count": 0,
+  "median_wage_usd": 181272.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 5,
+      "median_wage_usd": 181272.0
+    },
+    {
+      "fy": 2025,
+      "filings": 4,
+      "median_wage_usd": 230000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 7,
+      "median_wage_usd": 161637.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Forward Deployed Machine Learning Engineer",
+      "count": 4,
+      "median_wage_usd": 181116.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 4,
+      "median_wage_usd": 186287.0
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "count": 3,
+      "median_wage_usd": 230000.0
+    },
+    {
+      "title": "Researcher",
+      "count": 2,
+      "median_wage_usd": 133952.0
+    },
+    {
+      "title": "Data Scientist",
+      "count": 1,
+      "median_wage_usd": 133952.0
+    },
+    {
+      "title": "Forward Deployed Engineer",
+      "count": 1,
+      "median_wage_usd": 161637.0
+    },
+    {
+      "title": "Software Engineer, Model Performance",
+      "count": 1,
+      "median_wage_usd": 275000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 4
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 14
+    },
+    {
+      "state": "NY",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 185000.0,
+    "gap_usd": 54840.0
+  }
+}

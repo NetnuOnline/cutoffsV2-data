@@ -1,0 +1,65 @@
+{
+  "slug": "ean-services",
+  "canonical_name": "EAN Services, LLC",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 4,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "MO",
+      "count": 2
+    },
+    {
+      "state": "FL",
+      "count": 1
+    },
+    {
+      "state": "OK",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "04/28/2020",
+      "effective_date": "03/30/2020",
+      "state": "FL",
+      "workers": 111,
+      "city": "GAINESVILLE"
+    },
+    {
+      "date": "04/27/2020",
+      "effective_date": "04/30/2020",
+      "state": "MO",
+      "workers": 59,
+      "city": null
+    },
+    {
+      "date": "04/27/2020",
+      "effective_date": "04/27/2020",
+      "state": "OK",
+      "workers": 108,
+      "city": null
+    },
+    {
+      "date": "04/27/2020",
+      "effective_date": "04/30/2020",
+      "state": "MO",
+      "workers": 820,
+      "city": "St. Louis"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "careersource-north-central-florida",
+      "name": "CareerSource North Central Florida",
+      "state": "FL"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

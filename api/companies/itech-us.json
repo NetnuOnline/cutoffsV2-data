@@ -1,0 +1,203 @@
+{
+  "slug": "itech-us",
+  "canonical_name": "iTech US, Inc.",
+  "fein": "54-2053754",
+  "lca_filing_count": 137,
+  "lca_worker_positions": 130,
+  "warn_notice_count": 0,
+  "median_wage_usd": 100000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 39,
+      "median_wage_usd": 99000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 17,
+      "median_wage_usd": 96866.0
+    },
+    {
+      "fy": 2022,
+      "filings": 14,
+      "median_wage_usd": 106500.0
+    },
+    {
+      "fy": 2023,
+      "filings": 18,
+      "median_wage_usd": 111000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 17,
+      "median_wage_usd": 113000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 13,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 12,
+      "median_wage_usd": 94290.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 54,
+      "median_wage_usd": 109641.5
+    },
+    {
+      "title": "Software Developer",
+      "count": 22,
+      "median_wage_usd": 100949.5
+    },
+    {
+      "title": "Systems Administrator",
+      "count": 7,
+      "median_wage_usd": 80350.0
+    },
+    {
+      "title": "Software Architect",
+      "count": 7,
+      "median_wage_usd": 109300.0
+    },
+    {
+      "title": "Programmer Analyst",
+      "count": 6,
+      "median_wage_usd": 84000.0
+    },
+    {
+      "title": "Database Administrator",
+      "count": 4,
+      "median_wage_usd": 90681.5
+    },
+    {
+      "title": "Computer Programmer",
+      "count": 3,
+      "median_wage_usd": 98301.0
+    },
+    {
+      "title": "Project Manager",
+      "count": 3,
+      "median_wage_usd": 94203.0
+    },
+    {
+      "title": "Lead Business Analyst",
+      "count": 2,
+      "median_wage_usd": 95433.0
+    },
+    {
+      "title": "Business Development Specialist",
+      "count": 2,
+      "median_wage_usd": 92897.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 11
+    },
+    {
+      "state": "NC",
+      "county": "MECKLENBURG",
+      "count": 6
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 5
+    },
+    {
+      "state": "AL",
+      "county": "MONTGOMERY",
+      "count": 5
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 5
+    },
+    {
+      "state": "TN",
+      "county": "SHELBY",
+      "count": 3
+    },
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 3
+    },
+    {
+      "state": "IL",
+      "county": "MCLEAN",
+      "count": 3
+    },
+    {
+      "state": "NJ",
+      "county": "MIDDLESEX",
+      "count": 3
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 28
+    },
+    {
+      "state": "NJ",
+      "count": 12
+    },
+    {
+      "state": "NC",
+      "count": 12
+    },
+    {
+      "state": "IL",
+      "count": 11
+    },
+    {
+      "state": "PA",
+      "count": 9
+    },
+    {
+      "state": "CA",
+      "count": 9
+    },
+    {
+      "state": "OH",
+      "count": 6
+    },
+    {
+      "state": "GA",
+      "count": 5
+    },
+    {
+      "state": "TN",
+      "count": 5
+    },
+    {
+      "state": "AL",
+      "count": 5
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 111000.0,
+    "gap_usd": -19160.0
+  }
+}

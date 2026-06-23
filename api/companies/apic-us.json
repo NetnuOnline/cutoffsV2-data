@@ -1,0 +1,67 @@
+{
+  "slug": "apic-us",
+  "canonical_name": "APIC US INC.",
+  "fein": "33-1347573",
+  "lca_filing_count": 4,
+  "lca_worker_positions": 8,
+  "warn_notice_count": 0,
+  "median_wage_usd": 106277.5,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 66893.0
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 106662.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "BD Expert",
+      "count": 1,
+      "median_wage_usd": 106662.0
+    },
+    {
+      "title": "Project Manager",
+      "count": 1,
+      "median_wage_usd": 163405.0
+    },
+    {
+      "title": "Senior Business Development Specialist",
+      "count": 1,
+      "median_wage_usd": 66893.0
+    },
+    {
+      "title": "Expert, Integrated MKT",
+      "count": 1,
+      "median_wage_usd": 105893.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 4
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1161",
+    "soc_title": "Market Research Analysts and Marketing Specialists",
+    "market_median_usd": 74680.0,
+    "employer_median_usd": 105893.0,
+    "gap_usd": 31213.0
+  }
+}

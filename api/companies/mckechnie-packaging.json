@@ -1,0 +1,76 @@
+{
+  "slug": "mckechnie-packaging",
+  "canonical_name": "MCKECHNIE PACKAGING",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 1,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "01/10/1992",
+      "effective_date": "03/01/1992",
+      "state": "IL",
+      "workers": 67,
+      "city": "PO BOX 1489  CHAMPAIGN, IL 61824-1489"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2018-04-25",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-18-131673",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000927653&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2016-03-18",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-16-509495",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000927653&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2016-02-01",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-16-445218",
+        "items": [
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000927653&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 3,
+    "itemCounts": {
+      "2.05": 2,
+      "2.06": 1
+    },
+    "latestFilingDate": "2018-04-25",
+    "earliestFilingDate": "2016-02-01"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

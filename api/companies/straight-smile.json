@@ -1,0 +1,47 @@
+{
+  "slug": "straight-smile",
+  "canonical_name": "Straight Smile",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "UT",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "01/06/2025",
+      "effective_date": "01/06/2025",
+      "state": "UT",
+      "workers": 166,
+      "city": "Lehi"
+    },
+    {
+      "date": "11/07/2024",
+      "effective_date": "01/06/2025",
+      "state": "CA",
+      "workers": 72,
+      "city": "Santa Monica"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "mountainland-wib",
+      "name": "Mountainland WIB",
+      "state": "UT"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

@@ -1,0 +1,154 @@
+{
+  "slug": "etekserve",
+  "canonical_name": "Etekserve Inc",
+  "fein": "87-4357290",
+  "lca_filing_count": 18,
+  "lca_worker_positions": 18,
+  "warn_notice_count": 0,
+  "median_wage_usd": 103001.5,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 62566.0
+    },
+    {
+      "fy": 2024,
+      "filings": 5,
+      "median_wage_usd": 86923.0
+    },
+    {
+      "fy": 2025,
+      "filings": 5,
+      "median_wage_usd": 109283.0
+    },
+    {
+      "fy": 2026,
+      "filings": 7,
+      "median_wage_usd": 103917.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "BUSINESS SYSTEM ANALYST",
+      "count": 2,
+      "median_wage_usd": 83241.5
+    },
+    {
+      "title": "Senior Network Security Engineer",
+      "count": 2,
+      "median_wage_usd": 120286.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 2,
+      "median_wage_usd": 97708.0
+    },
+    {
+      "title": "ADA TEST LEAD",
+      "count": 1,
+      "median_wage_usd": 102086.0
+    },
+    {
+      "title": "CYPRESS AUTOMATION ENGINEER",
+      "count": 1,
+      "median_wage_usd": 86923.0
+    },
+    {
+      "title": "Devops Engineer (Software Developer)",
+      "count": 1,
+      "median_wage_usd": 83096.0
+    },
+    {
+      "title": "Angular Developer",
+      "count": 1,
+      "median_wage_usd": 109283.0
+    },
+    {
+      "title": "Devops Engineer ( Software Developer )",
+      "count": 1,
+      "median_wage_usd": 105976.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 1,
+      "median_wage_usd": 101421.0
+    },
+    {
+      "title": "Java Full Stack Developer",
+      "count": 1,
+      "median_wage_usd": 88088.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "DE",
+      "county": "NEW CASTLE",
+      "count": 2
+    },
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "TARRANT",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "county": "SNOHOMISH",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "DE",
+      "count": 5
+    },
+    {
+      "state": "NJ",
+      "count": 3
+    },
+    {
+      "state": "NY",
+      "count": 3
+    },
+    {
+      "state": "AZ",
+      "count": 2
+    },
+    {
+      "state": "VA",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 101421.0,
+    "gap_usd": -28739.0
+  }
+}

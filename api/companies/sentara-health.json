@@ -1,0 +1,133 @@
+{
+  "slug": "sentara-health",
+  "canonical_name": "Sentara Health",
+  "fein": "52-1271901",
+  "lca_filing_count": 22,
+  "lca_worker_positions": 22,
+  "warn_notice_count": 0,
+  "median_wage_usd": 113722.4,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 126192.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 107952.0
+    },
+    {
+      "fy": 2025,
+      "filings": 11,
+      "median_wage_usd": 109200.0
+    },
+    {
+      "fy": 2026,
+      "filings": 9,
+      "median_wage_usd": 123926.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Healthcare Data Analyst",
+      "count": 4,
+      "median_wage_usd": 91036.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 4,
+      "median_wage_usd": 135796.8
+    },
+    {
+      "title": "Physical Therapist",
+      "count": 3,
+      "median_wage_usd": 110385.6
+    },
+    {
+      "title": "Medical Laboratory Scientist I",
+      "count": 3,
+      "median_wage_usd": 56160.0
+    },
+    {
+      "title": "Specialty Software Engineer",
+      "count": 2,
+      "median_wage_usd": 119463.0
+    },
+    {
+      "title": "IT Program Director",
+      "count": 1,
+      "median_wage_usd": 205000.0
+    },
+    {
+      "title": "Manager, Information Technology",
+      "count": 1,
+      "median_wage_usd": 152235.19999999998
+    },
+    {
+      "title": "Senior Healthcare Data Analyst",
+      "count": 1,
+      "median_wage_usd": 109200.0
+    },
+    {
+      "title": "Senior Salesforce Developer",
+      "count": 1,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Project Manager, Clinical & Financial Performance",
+      "count": 1,
+      "median_wage_usd": 112444.8
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "VA",
+      "county": "VIRGINIA BEACH CITY",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "county": "PRINCE WILLIAM",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "county": "ALBEMARLE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "VA",
+      "count": 10
+    },
+    {
+      "state": "TX",
+      "count": 9
+    },
+    {
+      "state": "OH",
+      "count": 1
+    },
+    {
+      "state": "IN",
+      "count": 1
+    },
+    {
+      "state": "MD",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Clinical Data Managers",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 91036.0,
+    "gap_usd": -16984.0
+  }
+}

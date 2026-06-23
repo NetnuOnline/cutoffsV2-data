@@ -1,0 +1,67 @@
+{
+  "slug": "infinite-solutions",
+  "canonical_name": "Infinite Solutions Inc.",
+  "fein": "94-3278859",
+  "lca_filing_count": 7,
+  "lca_worker_positions": 7,
+  "warn_notice_count": 0,
+  "median_wage_usd": 94827.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 105000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 123153.5
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 94827.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 94827.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 4,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "Computer Programmer",
+      "count": 3,
+      "median_wage_usd": 94827.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SACRAMENTO",
+      "count": 4
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 7
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 110000.0,
+    "gap_usd": -20160.0
+  }
+}

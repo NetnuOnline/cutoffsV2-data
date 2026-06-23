@@ -1,0 +1,85 @@
+{
+  "slug": "icf-international",
+  "canonical_name": "ICF International",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 5,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "LA",
+      "count": 5
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "03/30/2009",
+      "effective_date": "05/29/2009",
+      "state": "LA",
+      "workers": 22,
+      "city": "Baton Rouge"
+    },
+    {
+      "date": "03/02/2009",
+      "effective_date": "05/01/2009",
+      "state": "LA",
+      "workers": 202,
+      "city": "Baton Rouge"
+    },
+    {
+      "date": "01/26/2009",
+      "effective_date": "03/27/2009",
+      "state": "LA",
+      "workers": 135,
+      "city": "Baton Rouge"
+    },
+    {
+      "date": "07/15/2008",
+      "effective_date": "09/13/2008",
+      "state": "LA",
+      "workers": 94,
+      "city": "Baton Rouge"
+    },
+    {
+      "date": "04/01/2008",
+      "effective_date": "05/31/2008",
+      "state": "LA",
+      "workers": 200,
+      "city": "Baton Rouge"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "east-baton-rouge-parish-wia",
+      "name": "East Baton Rouge Parish WIA",
+      "state": "LA"
+    }
+  ],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2025-06-05",
+        "formType": "8-K/A",
+        "accessionNumber": "0001437749-25-019548",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001362004&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 1,
+    "itemCounts": {
+      "5.02": 1
+    },
+    "latestFilingDate": "2025-06-05",
+    "earliestFilingDate": "2025-06-05"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

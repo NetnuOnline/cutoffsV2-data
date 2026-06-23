@@ -1,0 +1,75 @@
+{
+  "slug": "databrew",
+  "canonical_name": "DataBrew LLC",
+  "fein": "88-4171021",
+  "lca_filing_count": 5,
+  "lca_worker_positions": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 109283.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 112985.6
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 109283.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 109283.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SAP Consultant",
+      "count": 2,
+      "median_wage_usd": 104915.0
+    },
+    {
+      "title": "SAP TM Functional Consultant",
+      "count": 2,
+      "median_wage_usd": 109283.0
+    },
+    {
+      "title": "Salesforce Developer",
+      "count": 1,
+      "median_wage_usd": 112985.6
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NC",
+      "county": "MECKLENBURG",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 3
+    },
+    {
+      "state": "OH",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 109283.0,
+    "gap_usd": -20877.0
+  }
+}

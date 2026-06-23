@@ -1,0 +1,57 @@
+{
+  "slug": "embark-veterinary",
+  "canonical_name": "Embark Veterinary Inc.",
+  "fein": "47-4663829",
+  "lca_filing_count": 2,
+  "lca_worker_positions": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 163213.44,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 157353.12
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 169073.76,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Associate Director, Product Marketing",
+      "count": 1,
+      "median_wage_usd": 169073.76
+    },
+    {
+      "title": "Sr. Brand Manager, Pet Owners",
+      "count": 1,
+      "median_wage_usd": 157353.12
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MA",
+      "county": "BOSTON CITY",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MA",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-2021",
+    "soc_title": "Marketing Managers",
+    "market_median_usd": 157620.0,
+    "employer_median_usd": 163213.44,
+    "gap_usd": 5593.44
+  }
+}

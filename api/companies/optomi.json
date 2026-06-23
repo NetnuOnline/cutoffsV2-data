@@ -1,0 +1,183 @@
+{
+  "slug": "optomi",
+  "canonical_name": "Optomi, LLC",
+  "fein": "30-0747677",
+  "lca_filing_count": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 148720.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 123760.0
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 156000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 164320.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 128960.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Lead QA Engineer",
+      "count": 1,
+      "median_wage_usd": 156000.0
+    },
+    {
+      "title": "Sr. DevOps Engineer",
+      "count": 1,
+      "median_wage_usd": 128960.0
+    },
+    {
+      "title": "Connected Vehicle Performance Engineer",
+      "count": 1,
+      "median_wage_usd": 106080.0
+    },
+    {
+      "title": "Software Engineer In Test",
+      "count": 1,
+      "median_wage_usd": 141440.0
+    },
+    {
+      "title": "Senior Backend Developer",
+      "count": 1,
+      "median_wage_usd": 172640.0
+    },
+    {
+      "title": "Senior Project Manager",
+      "count": 1,
+      "median_wage_usd": 156000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "county": "MECKLENBURG",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "county": "WAYNE",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "county": "KENT",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "county": "MONTGOMERY",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MI",
+      "count": 2
+    },
+    {
+      "state": "NC",
+      "count": 2
+    },
+    {
+      "state": "PA",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 4,
+    "initial_denials": 0,
+    "continuing_approvals": 15,
+    "continuing_denials": 0,
+    "total_approvals": 19,
+    "by_fy": [
+      {
+        "fy": 2015,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 6,
+        "continuing_denials": 0,
+        "total_approvals": 6
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 5,
+        "continuing_denials": 0,
+        "total_approvals": 7
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 4,
+        "continuing_denials": 0,
+        "total_approvals": 5
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 6,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 150800.0,
+    "gap_usd": 20640.0
+  }
+}

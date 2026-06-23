@@ -1,0 +1,96 @@
+{
+  "slug": "careoregon",
+  "canonical_name": "CareOregon, Inc.",
+  "fein": "93-0933975",
+  "lca_filing_count": 8,
+  "lca_worker_positions": 8,
+  "warn_notice_count": 0,
+  "median_wage_usd": 134924.98,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 129875.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 126074.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 141361.58000000002
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 135827.58500000002
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 152067.55,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Project Manager III",
+      "count": 3,
+      "median_wage_usd": 128500.0
+    },
+    {
+      "title": "IS Database Developer III",
+      "count": 2,
+      "median_wage_usd": 141658.775
+    },
+    {
+      "title": "IS Automation Engineer",
+      "count": 1,
+      "median_wage_usd": 138599.96
+    },
+    {
+      "title": "IS Business Intelligence Analyst III",
+      "count": 1,
+      "median_wage_usd": 126074.0
+    },
+    {
+      "title": "IS Data Engineer",
+      "count": 1,
+      "median_wage_usd": 144123.2
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "OR",
+      "county": "MULTNOMAH",
+      "count": 4
+    },
+    {
+      "state": "OR",
+      "county": "WASHINGTON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "OR",
+      "count": 6
+    },
+    {
+      "state": "AZ",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 144123.2,
+    "gap_usd": 13963.2
+  }
+}

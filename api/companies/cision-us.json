@@ -1,0 +1,156 @@
+{
+  "slug": "cision-us",
+  "canonical_name": "Cision US Inc.",
+  "fein": "36-4011543",
+  "lca_filing_count": 10,
+  "lca_worker_positions": 10,
+  "warn_notice_count": 0,
+  "median_wage_usd": 158750.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 138665.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 105000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 4,
+      "median_wage_usd": 150975.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 217127.44
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 174705.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Director, Assistant Corporate Controller",
+      "count": 2,
+      "median_wage_usd": 213459.72
+    },
+    {
+      "title": "Senior Data Scientist",
+      "count": 2,
+      "median_wage_usd": 160000.0
+    },
+    {
+      "title": "Director, Marketing Intelligence",
+      "count": 1,
+      "median_wage_usd": 144450.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 1,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "title": "Senior Manager, Engineering",
+      "count": 1,
+      "median_wage_usd": 117330.0
+    },
+    {
+      "title": "Sr. Manager, Engineering",
+      "count": 1,
+      "median_wage_usd": 189411.0
+    },
+    {
+      "title": "Program Manager",
+      "count": 1,
+      "median_wage_usd": 157500.0
+    },
+    {
+      "title": "Product Designer",
+      "count": 1,
+      "median_wage_usd": 105000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "county": "DUPAGE",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 1
+    },
+    {
+      "state": "OR",
+      "county": "MARION",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "county": "FAIRFAX",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "county": "PASCO",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 3
+    },
+    {
+      "state": "VA",
+      "count": 2
+    },
+    {
+      "state": "OR",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 160000.0,
+    "gap_usd": 51980.0
+  }
+}

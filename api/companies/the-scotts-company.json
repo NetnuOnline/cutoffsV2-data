@@ -1,0 +1,148 @@
+{
+  "slug": "the-scotts-company",
+  "canonical_name": "The Scotts Company LLC",
+  "fein": "31-1414921",
+  "lca_filing_count": 13,
+  "lca_worker_positions": 13,
+  "warn_notice_count": 0,
+  "median_wage_usd": 128918.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 112000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 120037.0
+    },
+    {
+      "fy": 2023,
+      "filings": 4,
+      "median_wage_usd": 129708.5
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 135900.0
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 125091.0
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 129306.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "MANAGER, DATA ENGINEERING/MACHINE LEARNING OPERATIONS",
+      "count": 1,
+      "median_wage_usd": 135900.0
+    },
+    {
+      "title": "AI Engineer",
+      "count": 1,
+      "median_wage_usd": 113070.0
+    },
+    {
+      "title": "TECH MANAGER, DATA ENGINEER",
+      "count": 1,
+      "median_wage_usd": 120037.0
+    },
+    {
+      "title": "Senior Manager, Procurement and Logistics Systems",
+      "count": 1,
+      "median_wage_usd": 175325.0
+    },
+    {
+      "title": "Technical Manager, Purchasing and Logistics",
+      "count": 1,
+      "median_wage_usd": 112000.0
+    },
+    {
+      "title": "MANAGER, PROCUREMENT AND LOGISTICS SYSTEMS",
+      "count": 1,
+      "median_wage_usd": 128918.0
+    },
+    {
+      "title": "TECHNICAL MANAGER, BUSINESS INTELLIGENCE",
+      "count": 1,
+      "median_wage_usd": 118400.0
+    },
+    {
+      "title": "Senior Analyst, Application Development",
+      "count": 1,
+      "median_wage_usd": 129306.0
+    },
+    {
+      "title": "Director, Data Science & ML/AI",
+      "count": 1,
+      "median_wage_usd": 192379.0
+    },
+    {
+      "title": "SENIOR ANALYST, SAP FICO",
+      "count": 1,
+      "median_wage_usd": 120973.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "OH",
+      "county": "UNION",
+      "count": 4
+    },
+    {
+      "state": "GA",
+      "county": "FORSYTH",
+      "count": 1
+    },
+    {
+      "state": "TN",
+      "county": "WILLIAMSON",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "county": "BROWARD",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "OH",
+      "count": 9
+    },
+    {
+      "state": "GA",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "TN",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Information Technology Project Managers",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 128918.0,
+    "gap_usd": 10918.0
+  }
+}

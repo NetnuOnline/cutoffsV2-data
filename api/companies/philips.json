@@ -1,0 +1,97 @@
+{
+  "slug": "philips",
+  "canonical_name": "Philips",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 8,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "CT",
+      "count": 4
+    },
+    {
+      "state": "IL",
+      "count": 2
+    },
+    {
+      "state": "OR",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "01/27/2020",
+      "effective_date": "03/27/2020",
+      "state": "OR",
+      "workers": 60,
+      "city": "Eugene"
+    },
+    {
+      "date": "01/01/2020",
+      "effective_date": "12/31/2020",
+      "state": "CT",
+      "workers": 11,
+      "city": "Wallingford"
+    },
+    {
+      "date": "01/01/2020",
+      "effective_date": "12/18/2020",
+      "state": "CT",
+      "workers": 32,
+      "city": "Wallingford"
+    },
+    {
+      "date": "01/01/2020",
+      "effective_date": "04/30/2020",
+      "state": "CT",
+      "workers": 17,
+      "city": "Wallingford"
+    },
+    {
+      "date": "01/01/2020",
+      "effective_date": "03/31/2020",
+      "state": "CT",
+      "workers": 32,
+      "city": "Wallingford"
+    },
+    {
+      "date": "06/21/2017",
+      "effective_date": "12/01/2017",
+      "state": "IL",
+      "workers": 201,
+      "city": "Aurora"
+    },
+    {
+      "date": "12/30/2013",
+      "effective_date": "05/01/2014",
+      "state": "IL",
+      "workers": 102,
+      "city": "Roselle"
+    },
+    {
+      "date": "12/12/2003",
+      "effective_date": "12/12/2003",
+      "state": "GA",
+      "workers": 86,
+      "city": "Atlanta"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "lane-wia",
+      "name": "Lane WIA",
+      "state": "OR"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

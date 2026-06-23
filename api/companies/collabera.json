@@ -1,0 +1,203 @@
+{
+  "slug": "collabera",
+  "canonical_name": "Collabera, Inc.",
+  "fein": "86-1432226",
+  "lca_filing_count": 220,
+  "lca_worker_positions": 216,
+  "warn_notice_count": 0,
+  "median_wage_usd": 140000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 39,
+      "median_wage_usd": 135200.0
+    },
+    {
+      "fy": 2021,
+      "filings": 44,
+      "median_wage_usd": 133640.0
+    },
+    {
+      "fy": 2022,
+      "filings": 38,
+      "median_wage_usd": 145600.0
+    },
+    {
+      "fy": 2023,
+      "filings": 31,
+      "median_wage_usd": 145600.0
+    },
+    {
+      "fy": 2024,
+      "filings": 24,
+      "median_wage_usd": 143520.0
+    },
+    {
+      "fy": 2025,
+      "filings": 29,
+      "median_wage_usd": 156000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 11,
+      "median_wage_usd": 135200.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 28,
+      "median_wage_usd": 140400.0
+    },
+    {
+      "title": "Application Programmer V",
+      "count": 22,
+      "median_wage_usd": 135200.0
+    },
+    {
+      "title": "Application Programmer",
+      "count": 12,
+      "median_wage_usd": 137280.0
+    },
+    {
+      "title": "Application Architect V",
+      "count": 10,
+      "median_wage_usd": 150800.0
+    },
+    {
+      "title": "Java Developer",
+      "count": 9,
+      "median_wage_usd": 137000.0
+    },
+    {
+      "title": "Application Architect",
+      "count": 8,
+      "median_wage_usd": 156000.0
+    },
+    {
+      "title": "Data Engineer",
+      "count": 7,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 6,
+      "median_wage_usd": 141440.0
+    },
+    {
+      "title": "DevOps Engineer",
+      "count": 4,
+      "median_wage_usd": 135200.0
+    },
+    {
+      "title": "Application Developer",
+      "count": 3,
+      "median_wage_usd": 128960.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NC",
+      "county": "MECKLENBURG",
+      "count": 56
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 21
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 15
+    },
+    {
+      "state": "VA",
+      "county": "FAIRFAX",
+      "count": 8
+    },
+    {
+      "state": "NJ",
+      "county": "HUDSON",
+      "count": 8
+    },
+    {
+      "state": "VA",
+      "county": "HENRICO",
+      "count": 7
+    },
+    {
+      "state": "NJ",
+      "county": "SOMERSET",
+      "count": 6
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 6
+    },
+    {
+      "state": "DE",
+      "county": "NEW CASTLE",
+      "count": 5
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 4
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NC",
+      "count": 70
+    },
+    {
+      "state": "TX",
+      "count": 48
+    },
+    {
+      "state": "NJ",
+      "count": 28
+    },
+    {
+      "state": "VA",
+      "count": 15
+    },
+    {
+      "state": "CA",
+      "count": 9
+    },
+    {
+      "state": "DE",
+      "count": 7
+    },
+    {
+      "state": "NY",
+      "count": 6
+    },
+    {
+      "state": "WA",
+      "count": 5
+    },
+    {
+      "state": "CT",
+      "count": 5
+    },
+    {
+      "state": "AZ",
+      "count": 5
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 145600.0,
+    "gap_usd": 15440.0
+  }
+}

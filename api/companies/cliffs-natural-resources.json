@@ -1,0 +1,119 @@
+{
+  "slug": "cliffs-natural-resources",
+  "canonical_name": "Cliffs Natural Resources",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 1,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "MI",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "04/14/2016",
+      "effective_date": "04/14/2016",
+      "state": "MI",
+      "workers": 318,
+      "city": "Palmer"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "six-county-employment-alliance",
+      "name": "Six County Employment Alliance",
+      "state": "MI"
+    }
+  ],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2018-04-06",
+        "formType": "8-K",
+        "accessionNumber": "0000764065-18-000083",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000764065&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2014-10-17",
+        "formType": "8-K",
+        "accessionNumber": "0000764065-14-000191",
+        "items": [
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000764065&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2013-01-24",
+        "formType": "8-K",
+        "accessionNumber": "0001299933-13-000145",
+        "items": [
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000764065&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2013-01-18",
+        "formType": "8-K/A",
+        "accessionNumber": "0001299933-13-000116",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000764065&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2013-01-03",
+        "formType": "8-K",
+        "accessionNumber": "0001299933-13-000022",
+        "items": [
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000764065&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2005-05-11",
+        "formType": "8-K",
+        "accessionNumber": "0001299933-05-002329",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000764065&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 6,
+    "itemCounts": {
+      "2.05": 1,
+      "2.06": 3,
+      "5.02": 2
+    },
+    "latestFilingDate": "2018-04-06",
+    "earliestFilingDate": "2005-05-11"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

@@ -1,0 +1,131 @@
+{
+  "slug": "masimo",
+  "canonical_name": "Masimo Corporation",
+  "fein": "33-0368882",
+  "lca_filing_count": 41,
+  "lca_worker_positions": 41,
+  "warn_notice_count": 0,
+  "median_wage_usd": 119000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 4,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 7,
+      "median_wage_usd": 119000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 7,
+      "median_wage_usd": 119000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 9,
+      "median_wage_usd": 108430.0
+    },
+    {
+      "fy": 2024,
+      "filings": 5,
+      "median_wage_usd": 124717.0
+    },
+    {
+      "fy": 2025,
+      "filings": 6,
+      "median_wage_usd": 126692.5
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 138029.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Engineer, Software",
+      "count": 2,
+      "median_wage_usd": 119000.0
+    },
+    {
+      "title": "SENIOR ENGINEER, SOFTWARE SOLUTIONS",
+      "count": 2,
+      "median_wage_usd": 147410.0
+    },
+    {
+      "title": "Engineer II, Algorithm",
+      "count": 2,
+      "median_wage_usd": 108586.5
+    },
+    {
+      "title": "Sr Engineer, Mechanical",
+      "count": 1,
+      "median_wage_usd": 123385.0
+    },
+    {
+      "title": "Manager, Automation & Controls Engineering",
+      "count": 1,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "title": "Sr Engineer, Technology Board Software",
+      "count": 1,
+      "median_wage_usd": 142513.0
+    },
+    {
+      "title": "Senior Regulatory Affairs Specialist",
+      "count": 1,
+      "median_wage_usd": 86000.0
+    },
+    {
+      "title": "MANAGER, QUALITY COMPLIANCE",
+      "count": 1,
+      "median_wage_usd": 138029.0
+    },
+    {
+      "title": "ENGINEER, AI/MACHINE LEARNING",
+      "count": 1,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "SR ENGINEER, ANDROID SOFTWARE",
+      "count": 1,
+      "median_wage_usd": 142420.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "ORANGE",
+      "count": 33
+    },
+    {
+      "state": "FL",
+      "county": "BAY",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 40
+    },
+    {
+      "state": "FL",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 147410.0,
+    "gap_usd": 17250.0
+  }
+}

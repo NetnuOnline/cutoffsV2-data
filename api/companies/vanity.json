@@ -1,0 +1,122 @@
+{
+  "slug": "vanity",
+  "canonical_name": "Vanity",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 10,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "NE",
+      "count": 8
+    },
+    {
+      "state": "KS",
+      "count": 1
+    },
+    {
+      "state": "ND",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "03/27/2017",
+      "effective_date": "03/27/2017",
+      "state": "NE",
+      "workers": 7,
+      "city": "Scottsbluff"
+    },
+    {
+      "date": "03/27/2017",
+      "effective_date": "03/27/2017",
+      "state": "NE",
+      "workers": 5,
+      "city": "Omaha"
+    },
+    {
+      "date": "03/27/2017",
+      "effective_date": "03/27/2017",
+      "state": "NE",
+      "workers": 8,
+      "city": "Omaha"
+    },
+    {
+      "date": "03/27/2017",
+      "effective_date": "03/27/2017",
+      "state": "NE",
+      "workers": 12,
+      "city": "North Platte"
+    },
+    {
+      "date": "03/27/2017",
+      "effective_date": "03/27/2017",
+      "state": "NE",
+      "workers": 5,
+      "city": "Norfolk"
+    },
+    {
+      "date": "03/27/2017",
+      "effective_date": "03/27/2017",
+      "state": "NE",
+      "workers": 7,
+      "city": "Lincoln"
+    },
+    {
+      "date": "03/27/2017",
+      "effective_date": "03/27/2017",
+      "state": "NE",
+      "workers": 7,
+      "city": "Kearney"
+    },
+    {
+      "date": "03/27/2017",
+      "effective_date": "03/27/2017",
+      "state": "NE",
+      "workers": 7,
+      "city": "Grand Island"
+    },
+    {
+      "date": "03/10/2017",
+      "effective_date": "03/10/2017",
+      "state": "KS",
+      "workers": 7,
+      "city": "1 - Workforce Investment Area I"
+    },
+    {
+      "date": "02/28/2017",
+      "effective_date": "04/28/2017",
+      "state": "ND",
+      "workers": 104,
+      "city": "Multiple sites"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "grand-island-msa",
+      "name": "Grand Island MSA",
+      "state": "NE"
+    },
+    {
+      "slug": "central-economic-region",
+      "name": "Central Economic Region",
+      "state": "NE"
+    },
+    {
+      "slug": "mid-plains-economic-region",
+      "name": "Mid Plains Economic Region",
+      "state": "NE"
+    },
+    {
+      "slug": "panhandle-economic-region",
+      "name": "Panhandle Economic Region",
+      "state": "NE"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

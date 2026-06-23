@@ -1,0 +1,219 @@
+{
+  "slug": "sunray-systems",
+  "canonical_name": "Sunray Systems Inc",
+  "fein": "38-3870929",
+  "lca_filing_count": 12,
+  "warn_notice_count": 0,
+  "median_wage_usd": 100516.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 87073.5
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 97594.0
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 105456.0
+    },
+    {
+      "fy": 2023,
+      "filings": 6,
+      "median_wage_usd": 100516.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 123177.5
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 5,
+      "median_wage_usd": 122699.0
+    },
+    {
+      "title": "Security Analyst",
+      "count": 2,
+      "median_wage_usd": 101228.0
+    },
+    {
+      "title": "Data Engineer",
+      "count": 1,
+      "median_wage_usd": 102274.0
+    },
+    {
+      "title": "Test Automation Engineer",
+      "count": 1,
+      "median_wage_usd": 94058.0
+    },
+    {
+      "title": "Sr. QA Analyst",
+      "count": 1,
+      "median_wage_usd": 97594.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 77147.0
+    },
+    {
+      "title": "Java Full Stack Developer",
+      "count": 1,
+      "median_wage_usd": 101192.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "VA",
+      "county": "FAIRFAX",
+      "count": 6
+    },
+    {
+      "state": "WA",
+      "county": "SNOHOMISH",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 1
+    },
+    {
+      "state": "MN",
+      "county": "HENNEPIN",
+      "count": 1
+    },
+    {
+      "state": "WI",
+      "county": "OUTAGAMIE",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "VA",
+      "count": 6
+    },
+    {
+      "state": "WA",
+      "count": 2
+    },
+    {
+      "state": "WI",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "count": 1
+    },
+    {
+      "state": "MN",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 8,
+    "initial_denials": 4,
+    "continuing_approvals": 11,
+    "continuing_denials": 1,
+    "total_approvals": 19,
+    "by_fy": [
+      {
+        "fy": 2016,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2017,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 4,
+        "initial_denials": 2,
+        "continuing_approvals": 2,
+        "continuing_denials": 1,
+        "total_approvals": 6
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 2,
+        "initial_denials": 2,
+        "continuing_approvals": 6,
+        "continuing_denials": 0,
+        "total_approvals": 8
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      }
+    ]
+  },
+  "lca_worker_positions": 12,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 111945.5,
+    "gap_usd": -18214.5
+  }
+}

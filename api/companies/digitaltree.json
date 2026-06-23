@@ -1,0 +1,147 @@
+{
+  "slug": "digitaltree",
+  "canonical_name": "DigitalTree LLC",
+  "fein": "84-4767557",
+  "lca_filing_count": 23,
+  "lca_worker_positions": 23,
+  "warn_notice_count": 0,
+  "median_wage_usd": 79500.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 18,
+      "median_wage_usd": 79500.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 80300.0
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 70000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 92585.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Computer Systems Analyst",
+      "count": 3,
+      "median_wage_usd": 79500.0
+    },
+    {
+      "title": "Computer Systems Analysts",
+      "count": 3,
+      "median_wage_usd": 82400.0
+    },
+    {
+      "title": "Computer Programmer",
+      "count": 2,
+      "median_wage_usd": 79880.0
+    },
+    {
+      "title": "Cloud Database Engineer",
+      "count": 2,
+      "median_wage_usd": 70000.0
+    },
+    {
+      "title": "Software Quality Assurance Analyst",
+      "count": 2,
+      "median_wage_usd": 70000.0
+    },
+    {
+      "title": "COMPUTER SYSTEMS ANALYST",
+      "count": 1,
+      "median_wage_usd": 79500.0
+    },
+    {
+      "title": "Software Developers",
+      "count": 1,
+      "median_wage_usd": 90820.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 1,
+      "median_wage_usd": 91050.0
+    },
+    {
+      "title": "Systems Analyst",
+      "count": 1,
+      "median_wage_usd": 79500.0
+    },
+    {
+      "title": "Business  Analyst",
+      "count": 1,
+      "median_wage_usd": 79500.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "PA",
+      "county": "LEHIGH",
+      "count": 14
+    },
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 2
+    },
+    {
+      "state": "OH",
+      "county": "HAMILTON",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "county": "OAKLAND",
+      "count": 1
+    },
+    {
+      "state": "MN",
+      "county": "GOODHUE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "PA",
+      "count": 17
+    },
+    {
+      "state": "AZ",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "count": 1
+    },
+    {
+      "state": "OH",
+      "count": 1
+    },
+    {
+      "state": "MN",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1211",
+    "soc_title": "Computer Systems Analysts",
+    "market_median_usd": 103800.0,
+    "employer_median_usd": 79500.0,
+    "gap_usd": -24300.0
+  }
+}

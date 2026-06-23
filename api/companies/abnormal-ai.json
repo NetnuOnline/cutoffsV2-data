@@ -1,0 +1,103 @@
+{
+  "slug": "abnormal-ai",
+  "canonical_name": "Abnormal AI, Inc.",
+  "fein": "82-4875983",
+  "lca_filing_count": 9,
+  "lca_worker_positions": 9,
+  "warn_notice_count": 0,
+  "median_wage_usd": 208000.0,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 5,
+      "median_wage_usd": 217234.78
+    },
+    {
+      "fy": 2026,
+      "filings": 4,
+      "median_wage_usd": 201830.97999999998,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Staff Software Engineer",
+      "count": 2,
+      "median_wage_usd": 226000.0
+    },
+    {
+      "title": "Software Engineer II",
+      "count": 1,
+      "median_wage_usd": 180909.09
+    },
+    {
+      "title": "Senior Software Engineer - Data Platform",
+      "count": 1,
+      "median_wage_usd": 217234.78
+    },
+    {
+      "title": "Senior Product Marketing Manager",
+      "count": 1,
+      "median_wage_usd": 208000.0
+    },
+    {
+      "title": "Data Analyst 2",
+      "count": 1,
+      "median_wage_usd": 145000.0
+    },
+    {
+      "title": "Senior Machine Learning Engineer",
+      "count": 1,
+      "median_wage_usd": 234260.0
+    },
+    {
+      "title": "Senior Product Manager",
+      "count": 1,
+      "median_wage_usd": 196661.96
+    },
+    {
+      "title": "Senior Software Engineer - Platform & Infrastructure",
+      "count": 1,
+      "median_wage_usd": 207000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NV",
+      "count": 4
+    },
+    {
+      "state": "NJ",
+      "count": 2
+    },
+    {
+      "state": "MA",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "AR",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 221617.39,
+    "gap_usd": 91457.39
+  }
+}

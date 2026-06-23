@@ -1,0 +1,64 @@
+{
+  "slug": "the-computing-technology-industry-association",
+  "canonical_name": "The Computing Technology Industry Association, Inc",
+  "fein": null,
+  "lca_filing_count": 1,
+  "warn_notice_count": 1,
+  "median_wage_usd": 110594.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 110594.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Manager, Business Intelligence/Data Analyst",
+      "count": 1,
+      "median_wage_usd": 110594.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IL",
+      "county": "KANE",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "01/14/2025",
+      "effective_date": "01/09/2025",
+      "state": "IL",
+      "workers": 47,
+      "city": "Downers Grove"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "dupage-county-wib",
+      "name": "DuPage County WIB",
+      "state": "IL"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "lca_worker_positions": 1,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 110594.0,
+    "gap_usd": 2574.0
+  }
+}

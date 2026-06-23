@@ -1,0 +1,75 @@
+{
+  "slug": "endpoint-clinical-l-p",
+  "canonical_name": "Endpoint Clinical L.P.",
+  "fein": "27-1797837",
+  "lca_filing_count": 5,
+  "lca_worker_positions": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 113444.0,
+  "by_fy": [
+    {
+      "fy": 2026,
+      "filings": 5,
+      "median_wage_usd": 113444.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 2,
+      "median_wage_usd": 100322.0
+    },
+    {
+      "title": "Test Engineer",
+      "count": 1,
+      "median_wage_usd": 80000.0
+    },
+    {
+      "title": "Senior Software Developer, Product",
+      "count": 1,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "Front End Developer -- Sr.",
+      "count": 1,
+      "median_wage_usd": 150000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MA",
+      "county": "BOSTON CITY",
+      "count": 2
+    },
+    {
+      "state": "MA",
+      "county": "WAKEFIELD",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MA",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 116722.0,
+    "gap_usd": -13438.0
+  }
+}

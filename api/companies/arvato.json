@@ -1,0 +1,58 @@
+{
+  "slug": "arvato",
+  "canonical_name": "Arvato USA LLC",
+  "fein": null,
+  "lca_filing_count": 11,
+  "warn_notice_count": 1,
+  "median_wage_usd": 104981,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 0,
+      "median_wage_usd": null
+    },
+    {
+      "fy": 2026,
+      "filings": 0,
+      "median_wage_usd": null
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Information Technology (IT) Manager",
+      "count": 0,
+      "median_wage_usd": null
+    },
+    {
+      "title": "SAP Senior Presales Consultant",
+      "count": 0,
+      "median_wage_usd": null
+    }
+  ],
+  "top_states": [
+    {
+      "state": "WA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "07/12/2018",
+      "effective_date": "09/28/2018",
+      "state": "WA",
+      "workers": 168,
+      "city": "Yakima"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "central-washington-wib",
+      "name": "Central Washington WIB",
+      "state": "WA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

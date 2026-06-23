@@ -1,0 +1,180 @@
+{
+  "slug": "true-value",
+  "canonical_name": "True Value LLC",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 15,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 4
+    },
+    {
+      "state": "MO",
+      "count": 2
+    },
+    {
+      "state": "OH",
+      "count": 2
+    },
+    {
+      "state": "MN",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "AZ",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "OR",
+      "count": 1
+    },
+    {
+      "state": "CO",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "04/02/2025",
+      "effective_date": "04/02/2025",
+      "state": "MN",
+      "workers": 41,
+      "city": "Mankato"
+    },
+    {
+      "date": "02/10/2025",
+      "effective_date": "04/08/2025",
+      "state": "MO",
+      "workers": 50,
+      "city": "Kansas City"
+    },
+    {
+      "date": "02/07/2025",
+      "effective_date": "04/08/2025",
+      "state": "OH",
+      "workers": 82,
+      "city": "Westlake/Cuyahoga"
+    },
+    {
+      "date": "12/14/2024",
+      "effective_date": "12/14/2024",
+      "state": "PA",
+      "workers": 269,
+      "city": "Wilkes Barre"
+    },
+    {
+      "date": "10/23/2024",
+      "effective_date": "12/14/2024",
+      "state": "TX",
+      "workers": 107,
+      "city": "Corsicana"
+    },
+    {
+      "date": "10/21/2024",
+      "effective_date": "12/14/2024",
+      "state": "OH",
+      "workers": 89,
+      "city": "Westlake/Cuyahoga"
+    },
+    {
+      "date": "10/21/2024",
+      "effective_date": "10/21/2024",
+      "state": "AZ",
+      "workers": 0,
+      "city": "Kingman"
+    },
+    {
+      "date": "10/21/2024",
+      "effective_date": "12/14/2024",
+      "state": "MO",
+      "workers": 69,
+      "city": "Kansas City"
+    },
+    {
+      "date": "10/16/2024",
+      "effective_date": "12/14/2024",
+      "state": "IL",
+      "workers": 148,
+      "city": "Cary"
+    },
+    {
+      "date": "10/16/2024",
+      "effective_date": "12/14/2024",
+      "state": "IL",
+      "workers": 243,
+      "city": "Harvard"
+    },
+    {
+      "date": "10/16/2024",
+      "effective_date": "12/14/2024",
+      "state": "IL",
+      "workers": 482,
+      "city": "Chicago"
+    },
+    {
+      "date": "10/15/2024",
+      "effective_date": "12/14/2024",
+      "state": "CA",
+      "workers": 56,
+      "city": "Woodland"
+    },
+    {
+      "date": "10/15/2024",
+      "effective_date": "12/14/2024",
+      "state": "OR",
+      "workers": 98,
+      "city": "Springfield"
+    },
+    {
+      "date": "08/08/2024",
+      "effective_date": "09/06/2024",
+      "state": "CO",
+      "workers": 49,
+      "city": "Denver"
+    },
+    {
+      "date": "02/14/1995",
+      "effective_date": "02/14/1995",
+      "state": "IL",
+      "workers": 0,
+      "city": "Harvard"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "denver-wib",
+      "name": "Denver WIB",
+      "state": "CO"
+    },
+    {
+      "slug": "northeast-ohio",
+      "name": "Northeast Ohio",
+      "state": "OH"
+    },
+    {
+      "slug": "luzerne-schuylkill-counties-wia",
+      "name": "Luzerne-Schuylkill Counties WIA",
+      "state": "PA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

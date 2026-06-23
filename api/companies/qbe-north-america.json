@@ -1,0 +1,79 @@
+{
+  "slug": "qbe-north-america",
+  "canonical_name": "QBE North America",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 6,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "NE",
+      "count": 4
+    },
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "09/05/2014",
+      "effective_date": "11/07/2014",
+      "state": "CA",
+      "workers": 68,
+      "city": "Irvine"
+    },
+    {
+      "date": "07/02/2014",
+      "effective_date": "11/07/2014",
+      "state": "NC",
+      "workers": 107,
+      "city": "Morrisville"
+    },
+    {
+      "date": "05/10/2013",
+      "effective_date": "05/10/2013",
+      "state": "NE",
+      "workers": 70,
+      "city": "Lincoln"
+    },
+    {
+      "date": "04/16/2013",
+      "effective_date": "04/16/2013",
+      "state": "NE",
+      "workers": 44,
+      "city": "Lincoln"
+    },
+    {
+      "date": "04/15/2013",
+      "effective_date": "04/15/2013",
+      "state": "NE",
+      "workers": 113,
+      "city": "Lincoln"
+    },
+    {
+      "date": "06/19/2012",
+      "effective_date": "06/19/2012",
+      "state": "NE",
+      "workers": 7,
+      "city": "Lincoln"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "lincoln-msa",
+      "name": "Lincoln MSA",
+      "state": "NE"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

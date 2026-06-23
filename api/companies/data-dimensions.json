@@ -1,0 +1,63 @@
+{
+  "slug": "data-dimensions",
+  "canonical_name": "Data Dimensions",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 3,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "IA",
+      "count": 1
+    },
+    {
+      "state": "WI",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "04/27/2020",
+      "effective_date": "04/30/2020",
+      "state": "IA",
+      "workers": 136,
+      "city": "Clinton"
+    },
+    {
+      "date": "03/30/2020",
+      "effective_date": "05/29/2020",
+      "state": "WI",
+      "workers": 260,
+      "city": "Janesville"
+    },
+    {
+      "date": "08/07/1989",
+      "effective_date": "09/01/1989",
+      "state": "IL",
+      "workers": 15,
+      "city": "PO BOX 1465       MIDLAND ROAD  JANESVILLE, WI 53547"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "region-9-davenport-wib",
+      "name": "Region 9 - Davenport WIB",
+      "state": "IA"
+    },
+    {
+      "slug": "southwest-wda",
+      "name": "Southwest WDA",
+      "state": "WI"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

@@ -1,0 +1,195 @@
+{
+  "slug": "deluxe",
+  "canonical_name": "Deluxe Corporation",
+  "fein": "41-0216800",
+  "lca_filing_count": 20,
+  "lca_worker_positions": 20,
+  "warn_notice_count": 0,
+  "median_wage_usd": 121854.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 99091.5
+    },
+    {
+      "fy": 2021,
+      "filings": 3,
+      "median_wage_usd": 118726.0
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 5,
+      "median_wage_usd": 112023.0
+    },
+    {
+      "fy": 2024,
+      "filings": 4,
+      "median_wage_usd": 127250.0
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 142230.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 110840.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer - Senior",
+      "count": 3,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "title": "Senior Data Engineer",
+      "count": 1,
+      "median_wage_usd": 123600.0
+    },
+    {
+      "title": "Workday Engineer 5",
+      "count": 1,
+      "median_wage_usd": 131500.0
+    },
+    {
+      "title": "Data Scientist",
+      "count": 1,
+      "median_wage_usd": 90000.0
+    },
+    {
+      "title": "Enterprise Architect",
+      "count": 1,
+      "median_wage_usd": 122028.0
+    },
+    {
+      "title": "Senior Data Scientist",
+      "count": 1,
+      "median_wage_usd": 151000.0
+    },
+    {
+      "title": "Integration Engineer",
+      "count": 1,
+      "median_wage_usd": 127504.0
+    },
+    {
+      "title": "Data and Platform Solution Architect 6",
+      "count": 1,
+      "median_wage_usd": 142547.39
+    },
+    {
+      "title": "Application Integration Engineer II",
+      "count": 1,
+      "median_wage_usd": 112023.0
+    },
+    {
+      "title": "Middleware Integration Engineer",
+      "count": 1,
+      "median_wage_usd": 118726.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MN",
+      "county": "RAMSEY",
+      "count": 2
+    },
+    {
+      "state": "MN",
+      "county": "HENNEPIN",
+      "count": 2
+    },
+    {
+      "state": "FL",
+      "county": "PALM BEACH",
+      "count": 2
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 2
+    },
+    {
+      "state": "NC",
+      "county": "IREDELL",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "county": "FAIRFAX CITY",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "county": "DEKALB",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 1
+    },
+    {
+      "state": "OH",
+      "county": "DELAWARE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MN",
+      "count": 6
+    },
+    {
+      "state": "GA",
+      "count": 5
+    },
+    {
+      "state": "FL",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "OH",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 123000.0,
+    "gap_usd": -7160.0
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "americold",
+  "canonical_name": "AmeriCold",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 1,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "KS",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "01/21/1999",
+      "effective_date": "01/21/1999",
+      "state": "KS",
+      "workers": 130,
+      "city": "3 - Workforce Investment Area III"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2025-06-02",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-25-133337",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001455863&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2018-09-11",
+        "formType": "8-K/A",
+        "accessionNumber": "0001193125-18-270880",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001455863&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 2,
+    "itemCounts": {
+      "5.02": 2
+    },
+    "latestFilingDate": "2025-06-02",
+    "earliestFilingDate": "2018-09-11"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

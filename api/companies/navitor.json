@@ -1,0 +1,52 @@
+{
+  "slug": "navitor",
+  "canonical_name": "Navitor, Inc",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "OH",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "05/15/2025",
+      "effective_date": "07/18/2025",
+      "state": "OH",
+      "workers": 83,
+      "city": "Coldwater/Mercer"
+    },
+    {
+      "date": "10/17/2014",
+      "effective_date": "10/17/2014",
+      "state": "GA",
+      "workers": 60,
+      "city": "Alto"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "georgia-mountains-wib",
+      "name": "Georgia Mountains WIB",
+      "state": "GA"
+    },
+    {
+      "slug": "west-ohio",
+      "name": "West Ohio",
+      "state": "OH"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

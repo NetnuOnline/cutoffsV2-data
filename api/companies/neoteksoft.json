@@ -1,0 +1,45 @@
+{
+  "slug": "neoteksoft",
+  "canonical_name": "Neoteksoft Inc.",
+  "fein": "99-4123808",
+  "lca_filing_count": 4,
+  "lca_worker_positions": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 100089.5,
+  "by_fy": [
+    {
+      "fy": 2026,
+      "filings": 4,
+      "median_wage_usd": 100089.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 4,
+      "median_wage_usd": 100089.5
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "GA",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 100089.5,
+    "gap_usd": -30070.5
+  }
+}

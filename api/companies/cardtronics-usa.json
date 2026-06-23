@@ -1,0 +1,121 @@
+{
+  "slug": "cardtronics-usa",
+  "canonical_name": "Cardtronics USA, Inc.",
+  "fein": "76-0419117",
+  "lca_filing_count": 20,
+  "lca_worker_positions": 20,
+  "warn_notice_count": 0,
+  "median_wage_usd": 114449.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 132500.0
+    },
+    {
+      "fy": 2024,
+      "filings": 4,
+      "median_wage_usd": 104400.0
+    },
+    {
+      "fy": 2025,
+      "filings": 9,
+      "median_wage_usd": 110400.0
+    },
+    {
+      "fy": 2026,
+      "filings": 5,
+      "median_wage_usd": 128326.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Solution Owner III",
+      "count": 3,
+      "median_wage_usd": 110400.0
+    },
+    {
+      "title": "DevOps Manager II",
+      "count": 2,
+      "median_wage_usd": 141838.0
+    },
+    {
+      "title": "PS Engineer III",
+      "count": 2,
+      "median_wage_usd": 123412.0
+    },
+    {
+      "title": "Data Scientist II",
+      "count": 2,
+      "median_wage_usd": 92000.0
+    },
+    {
+      "title": "Software Engineer II",
+      "count": 1,
+      "median_wage_usd": 109283.0
+    },
+    {
+      "title": "Financial Systems Analyst",
+      "count": 1,
+      "median_wage_usd": 105000.0
+    },
+    {
+      "title": "Director of Business Analytics and Strategy ",
+      "count": 1,
+      "median_wage_usd": 160000.0
+    },
+    {
+      "title": "Scrum Master III",
+      "count": 1,
+      "median_wage_usd": 106400.0
+    },
+    {
+      "title": "Data Engineering Manager",
+      "count": 1,
+      "median_wage_usd": 130562.0
+    },
+    {
+      "title": "Sr. Solution Owner",
+      "count": 1,
+      "median_wage_usd": 129147.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 4
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 17
+    },
+    {
+      "state": "TX",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Information Technology Project Managers",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 130634.5,
+    "gap_usd": 12634.5
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "slug": "markel-group",
+  "canonical_name": "Markel Group",
+  "fein": "54-1127130",
+  "lca_filing_count": 2,
+  "lca_worker_positions": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 159606.86,
+  "by_fy": [
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 159606.865,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Principal Software Engineer",
+      "count": 1,
+      "median_wage_usd": 180807.48
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 1,
+      "median_wage_usd": 138406.25
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "VA",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 159606.86,
+    "gap_usd": 29446.86
+  }
+}

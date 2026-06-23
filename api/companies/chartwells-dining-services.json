@@ -1,0 +1,75 @@
+{
+  "slug": "chartwells-dining-services",
+  "canonical_name": "Chartwells Dining Services",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 6,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 4
+    },
+    {
+      "state": "IL",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "03/14/2018",
+      "effective_date": "07/01/2018",
+      "state": "NY",
+      "workers": 51,
+      "city": "New York City"
+    },
+    {
+      "date": "03/29/2017",
+      "effective_date": "06/10/2017",
+      "state": "NY",
+      "workers": 105,
+      "city": "Elmira"
+    },
+    {
+      "date": "03/14/2016",
+      "effective_date": "04/22/2016",
+      "state": "NY",
+      "workers": 90,
+      "city": "Rochester"
+    },
+    {
+      "date": "05/22/2013",
+      "effective_date": "07/01/2013",
+      "state": "IL",
+      "workers": 113,
+      "city": "Waukegan"
+    },
+    {
+      "date": "04/23/2013",
+      "effective_date": "04/25/2013",
+      "state": "NY",
+      "workers": 0,
+      "city": "Albany"
+    },
+    {
+      "date": "02/25/2013",
+      "effective_date": "05/01/2013",
+      "state": "IL",
+      "workers": 72,
+      "city": "Carbondale"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "southern-il-wib",
+      "name": "Southern IL WIB",
+      "state": "IL"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

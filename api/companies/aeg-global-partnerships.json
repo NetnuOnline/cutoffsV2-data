@@ -1,0 +1,84 @@
+{
+  "slug": "aeg-global-partnerships",
+  "canonical_name": "AEG GLOBAL PARTNERSHIPS, LLC",
+  "fein": null,
+  "lca_filing_count": 2,
+  "warn_notice_count": 4,
+  "median_wage_usd": 75845.9,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 75836.8
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 75855.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "MANAGER, PARTNERSHIP ACTIVATION",
+      "count": 2,
+      "median_wage_usd": 75845.9
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 2
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 2
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "06/08/2020",
+      "effective_date": "06/30/2020",
+      "state": "NY",
+      "workers": 1,
+      "city": "New York"
+    },
+    {
+      "date": "06/08/2020",
+      "effective_date": "06/30/2020",
+      "state": "CA",
+      "workers": 3,
+      "city": "Carson"
+    },
+    {
+      "date": "06/08/2020",
+      "effective_date": "06/30/2020",
+      "state": "CA",
+      "workers": 1,
+      "city": "Los Angeles"
+    },
+    {
+      "date": "05/08/2020",
+      "effective_date": "06/30/2020",
+      "state": "CA",
+      "workers": 9,
+      "city": "Los Angeles"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1161",
+    "soc_title": "Market Research Analysts and Marketing Specialists",
+    "market_median_usd": 74680.0,
+    "employer_median_usd": 75845.9,
+    "gap_usd": 1165.9
+  }
+}

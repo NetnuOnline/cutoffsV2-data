@@ -1,0 +1,47 @@
+{
+  "slug": "smead-manufacturing-company",
+  "canonical_name": "Smead Manufacturing Company",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "04/21/2015",
+      "effective_date": "04/21/2015",
+      "state": "GA",
+      "workers": 150,
+      "city": "Locust Grove"
+    },
+    {
+      "date": "08/25/2010",
+      "effective_date": "01/01/2011",
+      "state": "TX",
+      "workers": 138,
+      "city": "McGregor"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "heart-of-texas-wda",
+      "name": "Heart of Texas WDA",
+      "state": "TX"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

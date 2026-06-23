@@ -1,0 +1,77 @@
+{
+  "slug": "aegon-global-services",
+  "canonical_name": "Aegon Global Services, LLC",
+  "fein": "81-4266921",
+  "lca_filing_count": 5,
+  "lca_worker_positions": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 129605.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 109201.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 162300.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 120121.5
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 133494.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Sr. Internet Analyst",
+      "count": 2,
+      "median_wage_usd": 109919.5
+    },
+    {
+      "title": "Senior Network Internet Analyst",
+      "count": 1,
+      "median_wage_usd": 129605.0
+    },
+    {
+      "title": "Top Technical Specialist, Programming Analysis",
+      "count": 1,
+      "median_wage_usd": 133494.0
+    },
+    {
+      "title": "Principal, CIAM Security Engineer",
+      "count": 1,
+      "median_wage_usd": 162300.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IA",
+      "county": "LINN",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IA",
+      "count": 5
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1244",
+    "soc_title": "Network and Computer Systems Administrators",
+    "market_median_usd": 95000.0,
+    "employer_median_usd": 119403.0,
+    "gap_usd": 24403.0
+  }
+}

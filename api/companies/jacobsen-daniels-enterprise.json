@@ -1,0 +1,96 @@
+{
+  "slug": "jacobsen-daniels-enterprise",
+  "canonical_name": "Jacobsen Daniel's Enterprise",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 6,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "WA",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "count": 1
+    },
+    {
+      "state": "MO",
+      "count": 1
+    },
+    {
+      "state": "MD",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "06/18/2020",
+      "effective_date": "06/12/2020",
+      "state": "WA",
+      "workers": 1,
+      "city": "Tacoma"
+    },
+    {
+      "date": "06/15/2020",
+      "effective_date": "06/12/2020",
+      "state": "CA",
+      "workers": 4,
+      "city": "Los Angeles"
+    },
+    {
+      "date": "06/15/2020",
+      "effective_date": "06/15/2020",
+      "state": "MI",
+      "workers": 6,
+      "city": "Ypsilanti"
+    },
+    {
+      "date": "06/15/2020",
+      "effective_date": "06/12/2020",
+      "state": "MO",
+      "workers": 1,
+      "city": "St. Louis"
+    },
+    {
+      "date": "06/15/2020",
+      "effective_date": "06/12/2020",
+      "state": "MD",
+      "workers": 15,
+      "city": "Baltimore"
+    },
+    {
+      "date": "04/09/2020",
+      "effective_date": "03/18/2020",
+      "state": "NC",
+      "workers": 24,
+      "city": "2400 John Brantly Blvd., Morrisville"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "washtenaw-county-employment-training-and-community-services",
+      "name": "Washtenaw County Employment Training and Community Services",
+      "state": "MI"
+    },
+    {
+      "slug": "tacomapierce-county-wib",
+      "name": "Tacoma/Pierce County WIB",
+      "state": "WA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

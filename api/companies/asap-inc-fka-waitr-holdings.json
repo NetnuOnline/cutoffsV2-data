@@ -1,0 +1,69 @@
+{
+  "slug": "asap-inc-fka-waitr-holdings",
+  "canonical_name": "ASAP Inc fka Waitr Holdings Inc",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 4,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "HI",
+      "count": 1
+    },
+    {
+      "state": "AL",
+      "count": 1
+    },
+    {
+      "state": "LA",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "02/10/2020",
+      "effective_date": "02/10/2020",
+      "state": "HI",
+      "workers": 0,
+      "city": null
+    },
+    {
+      "date": "02/06/2020",
+      "effective_date": "04/06/2020",
+      "state": "AL",
+      "workers": 491,
+      "city": "State-Wide"
+    },
+    {
+      "date": "02/06/2020",
+      "effective_date": "04/06/2020",
+      "state": "LA",
+      "workers": 2300,
+      "city": "Statewide"
+    },
+    {
+      "date": "02/03/2020",
+      "effective_date": "04/06/2020",
+      "state": "TX",
+      "workers": 219,
+      "city": "Beaumont"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "south-east-texas-wda",
+      "name": "South East Texas WDA",
+      "state": "TX"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

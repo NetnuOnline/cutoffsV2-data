@@ -1,0 +1,41 @@
+{
+  "slug": "hatch-stamping-company",
+  "canonical_name": "Hatch Stamping Company LLC",
+  "fein": "38-1781598",
+  "lca_filing_count": 2,
+  "lca_worker_positions": 1,
+  "warn_notice_count": 0,
+  "median_wage_usd": 89545.0,
+  "by_fy": [
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 89545.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Production Data Analyst",
+      "count": 2,
+      "median_wage_usd": 89545.0
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "TN",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 89545.0,
+    "gap_usd": -18475.0
+  }
+}

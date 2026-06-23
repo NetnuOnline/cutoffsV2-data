@@ -1,0 +1,136 @@
+{
+  "slug": "accelered",
+  "canonical_name": "AccelerEd, LLC",
+  "fein": "82-1765282",
+  "lca_filing_count": 3,
+  "warn_notice_count": 2,
+  "median_wage_usd": 157414.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 157061.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 160000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 157414.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Application Developer",
+      "count": 1,
+      "median_wage_usd": 157061.0
+    },
+    {
+      "title": "Principal Architect",
+      "count": 1,
+      "median_wage_usd": 157414.0
+    },
+    {
+      "title": "Senior Software Architect",
+      "count": 1,
+      "median_wage_usd": 160000.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MD",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MD",
+      "county": "PRINCE GEORGE'S",
+      "count": 2
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "10/14/2025",
+      "effective_date": "12/31/2025",
+      "state": "MD",
+      "workers": 108,
+      "city": "Bethesda"
+    },
+    {
+      "date": "08/04/2025",
+      "effective_date": "10/15/2025",
+      "state": "MD",
+      "workers": 57,
+      "city": "Bethesda"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "montgomery-wia",
+      "name": "Montgomery WIA",
+      "state": "MD"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 4,
+    "continuing_denials": 0,
+    "total_approvals": 4,
+    "by_fy": [
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Computer Systems Engineers/Architects",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 160000.0,
+    "gap_usd": 42000.0
+  }
+}

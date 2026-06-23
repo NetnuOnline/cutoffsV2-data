@@ -1,0 +1,68 @@
+{
+  "slug": "cleardox",
+  "canonical_name": "CLEARDOX LLC",
+  "fein": "46-3055280",
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 142500.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 142500.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "ANGULAR DEVELOPER",
+      "count": 1,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "AVP, SENIOR DEVELOPER",
+      "count": 1,
+      "median_wage_usd": 175000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CT",
+      "county": "FAIRFIELD",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CT",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 1,
+    "continuing_denials": 0,
+    "total_approvals": 1,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 142500.0,
+    "gap_usd": 12340.0
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "slug": "calerie-health-holding",
+  "canonical_name": "Calerie Health Holding LLC",
+  "fein": "85-0643278",
+  "lca_filing_count": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 85000.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 85000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 84812.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Business Intelligence Analyst",
+      "count": 1,
+      "median_wage_usd": 73174.0
+    },
+    {
+      "title": "Product Scientist",
+      "count": 1,
+      "median_wage_usd": 85000.0
+    },
+    {
+      "title": "Accountant",
+      "count": 1,
+      "median_wage_usd": 96450.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "ORANGE",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Business Intelligence Analysts",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 73174.0,
+    "gap_usd": -34846.0
+  }
+}

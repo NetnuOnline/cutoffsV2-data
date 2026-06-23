@@ -1,0 +1,198 @@
+{
+  "slug": "hyatt",
+  "canonical_name": "Hyatt Corporation",
+  "fein": "94-1649123",
+  "lca_filing_count": 62,
+  "lca_worker_positions": 60,
+  "warn_notice_count": 0,
+  "median_wage_usd": 131831.17,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 7,
+      "median_wage_usd": 115378.0
+    },
+    {
+      "fy": 2021,
+      "filings": 10,
+      "median_wage_usd": 124088.4
+    },
+    {
+      "fy": 2022,
+      "filings": 9,
+      "median_wage_usd": 116000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 4,
+      "median_wage_usd": 128800.0
+    },
+    {
+      "fy": 2024,
+      "filings": 8,
+      "median_wage_usd": 145000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 13,
+      "median_wage_usd": 148958.0
+    },
+    {
+      "fy": 2026,
+      "filings": 9,
+      "median_wage_usd": 148720.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Sr. Product Engineer",
+      "count": 3,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "title": "Manager, Revenue Management Analytics",
+      "count": 2,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "Lead Data Engineer",
+      "count": 2,
+      "median_wage_usd": 130546.9
+    },
+    {
+      "title": "Manager Marketing & Partnership Finance",
+      "count": 2,
+      "median_wage_usd": 126000.0
+    },
+    {
+      "title": "Senior Business Intelligence Developer",
+      "count": 2,
+      "median_wage_usd": 123486.0
+    },
+    {
+      "title": "Senior Data Product Manager",
+      "count": 2,
+      "median_wage_usd": 160000.0
+    },
+    {
+      "title": "Machine Learning Data Engineer",
+      "count": 2,
+      "median_wage_usd": 148526.0
+    },
+    {
+      "title": "Product Engineer - Front End",
+      "count": 2,
+      "median_wage_usd": 94508.0
+    },
+    {
+      "title": "Senior Quality Assurance Analyst",
+      "count": 2,
+      "median_wage_usd": 115378.0
+    },
+    {
+      "title": "PMS Systems Technician",
+      "count": 2,
+      "median_wage_usd": 81327.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 37
+    },
+    {
+      "state": "OH",
+      "county": "DELAWARE",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "county": "CHATHAM",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SAN DIEGO",
+      "count": 1
+    },
+    {
+      "state": "SC",
+      "county": "LANCASTER",
+      "count": 1
+    },
+    {
+      "state": "OH",
+      "county": "FRANKLIN",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 1
+    },
+    {
+      "state": "CT",
+      "county": "SHELTON CITY",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 43
+    },
+    {
+      "state": "TX",
+      "count": 4
+    },
+    {
+      "state": "OH",
+      "count": 3
+    },
+    {
+      "state": "CA",
+      "count": 3
+    },
+    {
+      "state": "VA",
+      "count": 1
+    },
+    {
+      "state": "DC",
+      "count": 1
+    },
+    {
+      "state": "AZ",
+      "count": 1
+    },
+    {
+      "state": "WI",
+      "count": 1
+    },
+    {
+      "state": "CT",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 135000.0,
+    "gap_usd": 4840.0
+  }
+}

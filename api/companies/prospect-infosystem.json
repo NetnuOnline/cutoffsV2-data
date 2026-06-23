@@ -1,0 +1,136 @@
+{
+  "slug": "prospect-infosystem",
+  "canonical_name": "PROSPECT INFOSYSTEM, INC.",
+  "fein": "20-4971179",
+  "lca_filing_count": 10,
+  "lca_worker_positions": 11,
+  "warn_notice_count": 0,
+  "median_wage_usd": 110000.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 5,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 102294.0
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 97000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 2,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": ".NET Developer",
+      "count": 2,
+      "median_wage_usd": 96500.0
+    },
+    {
+      "title": "Geospatial Solutions Developer",
+      "count": 1,
+      "median_wage_usd": 128000.0
+    },
+    {
+      "title": "Data Analyst",
+      "count": 1,
+      "median_wage_usd": 102294.0
+    },
+    {
+      "title": "Database Administrator",
+      "count": 1,
+      "median_wage_usd": 102000.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "Software Development Engineer",
+      "count": 1,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "Data Warehouse Tech Lead",
+      "count": 1,
+      "median_wage_usd": 130000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MN",
+      "county": "ANOKA",
+      "count": 3
+    },
+    {
+      "state": "IL",
+      "county": "SANGAMON",
+      "count": 1
+    },
+    {
+      "state": "MO",
+      "county": "ST CHARLES",
+      "count": 1
+    },
+    {
+      "state": "SC",
+      "county": "RICHLAND",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MN",
+      "count": 3
+    },
+    {
+      "state": "KY",
+      "count": 2
+    },
+    {
+      "state": "MO",
+      "count": 1
+    },
+    {
+      "state": "WI",
+      "count": 1
+    },
+    {
+      "state": "SC",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 110000.0,
+    "gap_usd": -20160.0
+  }
+}

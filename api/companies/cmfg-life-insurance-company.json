@@ -1,0 +1,203 @@
+{
+  "slug": "cmfg-life-insurance-company",
+  "canonical_name": "CMFG Life Insurance Company",
+  "fein": "39-0230590",
+  "lca_filing_count": 30,
+  "lca_worker_positions": 30,
+  "warn_notice_count": 0,
+  "median_wage_usd": 105497.26,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 99080.5
+    },
+    {
+      "fy": 2021,
+      "filings": 6,
+      "median_wage_usd": 90000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 8,
+      "median_wage_usd": 114730.0
+    },
+    {
+      "fy": 2023,
+      "filings": 5,
+      "median_wage_usd": 100035.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 113051.905
+    },
+    {
+      "fy": 2025,
+      "filings": 5,
+      "median_wage_usd": 98398.13
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 126511.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Business System Consultant, ITS",
+      "count": 3,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "Senior Business System Consultant, ITS",
+      "count": 2,
+      "median_wage_usd": 123501.75
+    },
+    {
+      "title": "Data Scientist II",
+      "count": 2,
+      "median_wage_usd": 119460.0
+    },
+    {
+      "title": "Innovation Automation Test Engineer",
+      "count": 2,
+      "median_wage_usd": 123478.5
+    },
+    {
+      "title": "Senior Analyst, Analytics",
+      "count": 1,
+      "median_wage_usd": 124000.0
+    },
+    {
+      "title": "Business System Developer, ITS",
+      "count": 1,
+      "median_wage_usd": 86816.73
+    },
+    {
+      "title": "Data Analyst IV",
+      "count": 1,
+      "median_wage_usd": 100035.0
+    },
+    {
+      "title": "Application Analyst III",
+      "count": 1,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "Analyst IV, Actuary",
+      "count": 1,
+      "median_wage_usd": 123600.0
+    },
+    {
+      "title": "Analyst III, Actuary",
+      "count": 1,
+      "median_wage_usd": 94441.36
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "WI",
+      "county": "DANE",
+      "count": 9
+    },
+    {
+      "state": "MI",
+      "county": "KENT",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "TARRANT",
+      "count": 1
+    },
+    {
+      "state": "MO",
+      "county": "JACKSON",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "county": "CUMBERLAND",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "county": "MECKLENBURG",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "county": "ERIE",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "county": "DUPAGE",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "county": "GWINNETT",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "WI",
+      "count": 11
+    },
+    {
+      "state": "TX",
+      "count": 3
+    },
+    {
+      "state": "IL",
+      "count": 3
+    },
+    {
+      "state": "GA",
+      "count": 2
+    },
+    {
+      "state": "PA",
+      "count": 2
+    },
+    {
+      "state": "NC",
+      "count": 2
+    },
+    {
+      "state": "MI",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    },
+    {
+      "state": "MO",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 110000.0,
+    "gap_usd": -20160.0
+  }
+}

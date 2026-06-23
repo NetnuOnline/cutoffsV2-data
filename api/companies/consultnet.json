@@ -1,0 +1,141 @@
+{
+  "slug": "consultnet",
+  "canonical_name": "Consultnet, LLC",
+  "fein": "87-0562976",
+  "lca_filing_count": 9,
+  "lca_worker_positions": 9,
+  "warn_notice_count": 0,
+  "median_wage_usd": 108160.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 120993.5
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 102689.59999999999
+    },
+    {
+      "fy": 2024,
+      "filings": 4,
+      "median_wage_usd": 136323.2
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 102356.8,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SDET Developer",
+      "count": 2,
+      "median_wage_usd": 102356.8
+    },
+    {
+      "title": "Senior Software Developer",
+      "count": 2,
+      "median_wage_usd": 136323.2
+    },
+    {
+      "title": "Jr. SDET",
+      "count": 1,
+      "median_wage_usd": 102689.59999999999
+    },
+    {
+      "title": "Senior Java Developer (Software Developer, Applications)",
+      "count": 1,
+      "median_wage_usd": 106475.0
+    },
+    {
+      "title": "Salesforce Developer",
+      "count": 1,
+      "median_wage_usd": 166400.0
+    },
+    {
+      "title": "Senior II DAS Database Administrator (Database Admin)",
+      "count": 1,
+      "median_wage_usd": 135512.0
+    },
+    {
+      "title": "Quality Assurance Engineer",
+      "count": 1,
+      "median_wage_usd": 108160.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "UT",
+      "county": "SALT LAKE",
+      "count": 2
+    },
+    {
+      "state": "PA",
+      "county": "MONTGOMERY",
+      "count": 1
+    },
+    {
+      "state": "MD",
+      "county": "MONTGOMERY",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "county": "MIDDLEBOROUGH",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "UT",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "count": 2
+    },
+    {
+      "state": "PA",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "count": 1
+    },
+    {
+      "state": "MD",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 136323.2,
+    "gap_usd": 6163.2
+  }
+}

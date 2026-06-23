@@ -1,0 +1,418 @@
+{
+  "slug": "kimberly-clark",
+  "canonical_name": "Kimberly-Clark Corporation",
+  "fein": null,
+  "lca_filing_count": 5,
+  "warn_notice_count": 13,
+  "median_wage_usd": 79706.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 95077.0
+    },
+    {
+      "fy": 2021,
+      "filings": 3,
+      "median_wage_usd": 67900.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 109300.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Lead Process Engineer",
+      "count": 2,
+      "median_wage_usd": 73803.0
+    },
+    {
+      "title": "Lead Data Scientist",
+      "count": 1,
+      "median_wage_usd": 109300.0
+    },
+    {
+      "title": "Scientist - Virtual R&D ",
+      "count": 1,
+      "median_wage_usd": 66019.0
+    },
+    {
+      "title": "Lead Engineer - Digital & IoT",
+      "count": 1,
+      "median_wage_usd": 95077.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 3
+    },
+    {
+      "state": "MS",
+      "count": 1
+    },
+    {
+      "state": "AL",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 3
+    },
+    {
+      "state": "AL",
+      "county": "MONTGOMERY",
+      "count": 1
+    },
+    {
+      "state": "MS",
+      "county": "ALCORN",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "03/13/2006",
+      "effective_date": "05/23/2006",
+      "state": "TX",
+      "workers": 16,
+      "city": "N. Richland Hills"
+    },
+    {
+      "date": "01/31/2006",
+      "effective_date": "03/31/2006",
+      "state": "TX",
+      "workers": 20,
+      "city": "N. Richland Hills"
+    },
+    {
+      "date": "01/05/2006",
+      "effective_date": "03/01/2006",
+      "state": "TX",
+      "workers": 6,
+      "city": "N. Richland Hills"
+    },
+    {
+      "date": "11/29/2005",
+      "effective_date": "01/31/2006",
+      "state": "TX",
+      "workers": 8,
+      "city": "N. Richland Hills"
+    },
+    {
+      "date": "11/01/2005",
+      "effective_date": "01/03/2006",
+      "state": "TX",
+      "workers": 7,
+      "city": "N. Richland Hills"
+    },
+    {
+      "date": "09/30/2005",
+      "effective_date": "12/02/2005",
+      "state": "TX",
+      "workers": 8,
+      "city": "N. Richland Hills"
+    },
+    {
+      "date": "08/30/2005",
+      "effective_date": "11/01/2005",
+      "state": "TX",
+      "workers": 12,
+      "city": "N. Richland Hills"
+    },
+    {
+      "date": "08/09/2005",
+      "effective_date": "10/11/2005",
+      "state": "TX",
+      "workers": 8,
+      "city": "N. Richland Hills"
+    },
+    {
+      "date": "08/01/2005",
+      "effective_date": "10/01/2005",
+      "state": "TX",
+      "workers": 9,
+      "city": "N. Richland Hills"
+    },
+    {
+      "date": "07/05/2005",
+      "effective_date": "09/06/2005",
+      "state": "TX",
+      "workers": 16,
+      "city": "N. Richland Hills"
+    },
+    {
+      "date": "05/04/2005",
+      "effective_date": "07/15/2005",
+      "state": "TX",
+      "workers": 30,
+      "city": "N. Richland Hills"
+    },
+    {
+      "date": "03/11/2005",
+      "effective_date": "04/15/2005",
+      "state": "TX",
+      "workers": 25,
+      "city": "N. Richland Hills"
+    },
+    {
+      "date": "04/07/1999",
+      "effective_date": "07/17/1999",
+      "state": "AL",
+      "workers": 500,
+      "city": "Mobile"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "southwest-alabama-works",
+      "name": "Southwest Alabama Works",
+      "state": "AL"
+    }
+  ],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2024-03-27",
+        "formType": "8-K",
+        "accessionNumber": "0000055785-24-000045",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000055785&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2014-10-21",
+        "formType": "8-K",
+        "accessionNumber": "0000055785-14-000086",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000055785&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2012-10-24",
+        "formType": "8-K",
+        "accessionNumber": "0000055785-12-000085",
+        "items": [
+          "2.05",
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities",
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000055785&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2011-01-25",
+        "formType": "8-K",
+        "accessionNumber": "0000055785-11-000005",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000055785&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2007-08-08",
+        "formType": "8-K",
+        "accessionNumber": "0000055785-07-000149",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000055785&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2006-09-20",
+        "formType": "8-K",
+        "accessionNumber": "0000055785-06-000196",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000055785&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2006-03-16",
+        "formType": "8-K",
+        "accessionNumber": "0000055785-06-000072",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000055785&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2006-01-24",
+        "formType": "8-K",
+        "accessionNumber": "0000055785-06-000040",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000055785&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2005-07-22",
+        "formType": "8-K",
+        "accessionNumber": "0000055785-05-000141",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000055785&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 9,
+    "itemCounts": {
+      "2.05": 8,
+      "2.06": 1,
+      "5.02": 1
+    },
+    "latestFilingDate": "2024-03-27",
+    "earliestFilingDate": "2005-07-22"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 2,
+    "initial_denials": 0,
+    "continuing_approvals": 12,
+    "continuing_denials": 0,
+    "total_approvals": 14,
+    "by_fy": [
+      {
+        "fy": 2009,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2010,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2011,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2012,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2013,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2014,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2015,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2016,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2017,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 6,
+        "continuing_denials": 0,
+        "total_approvals": 6
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 6,
+        "continuing_denials": 0,
+        "total_approvals": 8
+      }
+    ]
+  },
+  "lca_worker_positions": 5,
+  "top_socs": [],
+  "lca_periods": []
+}

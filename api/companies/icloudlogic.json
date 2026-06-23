@@ -1,0 +1,84 @@
+{
+  "slug": "icloudlogic",
+  "canonical_name": "iCloudLogic LLC",
+  "fein": "83-2944335",
+  "lca_filing_count": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 170000.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 170000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 170000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Technical Program Manager",
+      "count": 1,
+      "median_wage_usd": 170000.0
+    },
+    {
+      "title": "Oracle Solution Architect",
+      "count": 1,
+      "median_wage_usd": 175000.0
+    },
+    {
+      "title": "Enterprise Business Systems Lead",
+      "count": 1,
+      "median_wage_usd": 170000.0
+    },
+    {
+      "title": "IT System Analyst",
+      "count": 1,
+      "median_wage_usd": 120000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 1
+    },
+    {
+      "state": "NH",
+      "county": "GRAFTON",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "county": "LOUDOUN",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "NH",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3021",
+    "soc_title": "Computer and Information Systems Managers",
+    "market_median_usd": 169510.0,
+    "employer_median_usd": 170000.0,
+    "gap_usd": 490.0
+  }
+}

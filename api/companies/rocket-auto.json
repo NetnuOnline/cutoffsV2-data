@@ -1,0 +1,126 @@
+{
+  "slug": "rocket-auto",
+  "canonical_name": "Rocket Auto LLC",
+  "fein": null,
+  "lca_filing_count": 7,
+  "warn_notice_count": 0,
+  "median_wage_usd": 80500.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 82500.0
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 80500.0
+    },
+    {
+      "fy": 2022,
+      "filings": 3,
+      "median_wage_usd": 101500.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Business Intelligence Engineer",
+      "count": 2,
+      "median_wage_usd": 80500.0
+    },
+    {
+      "title": "Staff Data Engineer",
+      "count": 1,
+      "median_wage_usd": 170500.0
+    },
+    {
+      "title": "Salesforce Engineer",
+      "count": 1,
+      "median_wage_usd": 85000.0
+    },
+    {
+      "title": "Senior Data Engineer",
+      "count": 1,
+      "median_wage_usd": 101500.0
+    },
+    {
+      "title": "Quality Engineer",
+      "count": 1,
+      "median_wage_usd": 80500.0
+    },
+    {
+      "title": "Data Engineer",
+      "count": 1,
+      "median_wage_usd": 80000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MI",
+      "county": "WAYNE",
+      "count": 3
+    },
+    {
+      "state": "WA",
+      "county": "SNOHOMISH",
+      "count": 2
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "county": "OAKLAND",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MI",
+      "count": 4
+    },
+    {
+      "state": "WA",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 7,
+    "continuing_denials": 0,
+    "total_approvals": 8,
+    "by_fy": [
+      {
+        "fy": 2020,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 4
+      }
+    ]
+  },
+  "lca_worker_positions": 6,
+  "top_socs": [],
+  "lca_periods": []
+}

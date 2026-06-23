@@ -1,0 +1,178 @@
+{
+  "slug": "tekaccel",
+  "canonical_name": "Tekaccel, Inc.",
+  "fein": "86-3193490",
+  "lca_filing_count": 59,
+  "lca_worker_positions": 55,
+  "warn_notice_count": 0,
+  "median_wage_usd": 110000.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 3,
+      "median_wage_usd": 83886.0
+    },
+    {
+      "fy": 2023,
+      "filings": 7,
+      "median_wage_usd": 101192.0
+    },
+    {
+      "fy": 2024,
+      "filings": 8,
+      "median_wage_usd": 107998.5
+    },
+    {
+      "fy": 2025,
+      "filings": 21,
+      "median_wage_usd": 112923.0
+    },
+    {
+      "fy": 2026,
+      "filings": 16,
+      "median_wage_usd": 112923.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 8,
+      "median_wage_usd": 99746.5
+    },
+    {
+      "title": "Database Administrator",
+      "count": 4,
+      "median_wage_usd": 90615.0
+    },
+    {
+      "title": "QA Engineer",
+      "count": 3,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "Sr. Engineer - Controls",
+      "count": 3,
+      "median_wage_usd": 95930.0
+    },
+    {
+      "title": "Java Full Stack Developer",
+      "count": 3,
+      "median_wage_usd": 112923.0
+    },
+    {
+      "title": "Sr. Data Engineer",
+      "count": 3,
+      "median_wage_usd": 112923.0
+    },
+    {
+      "title": "Cloud Engineer",
+      "count": 2,
+      "median_wage_usd": 104000.0
+    },
+    {
+      "title": "Sr. Software Engineer",
+      "count": 2,
+      "median_wage_usd": 103594.5
+    },
+    {
+      "title": "Software Developer",
+      "count": 2,
+      "median_wage_usd": 116461.5
+    },
+    {
+      "title": "Product Manager",
+      "count": 2,
+      "median_wage_usd": 140000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 8
+    },
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 1
+    },
+    {
+      "state": "NV",
+      "county": "CLARK",
+      "count": 1
+    },
+    {
+      "state": "WI",
+      "county": "DANE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 33
+    },
+    {
+      "state": "AZ",
+      "count": 6
+    },
+    {
+      "state": "CA",
+      "count": 5
+    },
+    {
+      "state": "MI",
+      "count": 4
+    },
+    {
+      "state": "MN",
+      "count": 2
+    },
+    {
+      "state": "NV",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "count": 1
+    },
+    {
+      "state": "OH",
+      "count": 1
+    },
+    {
+      "state": "CT",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 112923.0,
+    "gap_usd": -17237.0
+  }
+}

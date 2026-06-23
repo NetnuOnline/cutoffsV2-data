@@ -1,0 +1,161 @@
+{
+  "slug": "bmo-bank-n-a",
+  "canonical_name": "BMO Bank N.A.",
+  "fein": "36-2085229",
+  "lca_filing_count": 32,
+  "lca_worker_positions": 32,
+  "warn_notice_count": 0,
+  "median_wage_usd": 129140.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 5,
+      "median_wage_usd": 131498.0
+    },
+    {
+      "fy": 2024,
+      "filings": 11,
+      "median_wage_usd": 120619.0
+    },
+    {
+      "fy": 2025,
+      "filings": 9,
+      "median_wage_usd": 141773.0
+    },
+    {
+      "fy": 2026,
+      "filings": 7,
+      "median_wage_usd": 126746.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Specialist III-IC Development",
+      "count": 3,
+      "median_wage_usd": 126963.0
+    },
+    {
+      "title": "Specialist III-IC Database Administration",
+      "count": 2,
+      "median_wage_usd": 120619.0
+    },
+    {
+      "title": "Specialist III-IC Infrastructure Engineering",
+      "count": 2,
+      "median_wage_usd": 108705.0
+    },
+    {
+      "title": "Specialist II-IC Infrastructure Engineering",
+      "count": 2,
+      "median_wage_usd": 115310.5
+    },
+    {
+      "title": "Senior Specialist-IC Finance Strategic Initiatives",
+      "count": 2,
+      "median_wage_usd": 131498.0
+    },
+    {
+      "title": "Specialist III-IC Data Engineering",
+      "count": 2,
+      "median_wage_usd": 137171.0
+    },
+    {
+      "title": "Credit Risk Reporting Analyst",
+      "count": 1,
+      "median_wage_usd": 101587.0
+    },
+    {
+      "title": "Specialist III-IC Data Analytics and Visualization",
+      "count": 1,
+      "median_wage_usd": 106676.0
+    },
+    {
+      "title": "Specialist III-IC IT Consulting",
+      "count": 1,
+      "median_wage_usd": 129302.0
+    },
+    {
+      "title": "Specialist II-IC Quantitative Risk Management",
+      "count": 1,
+      "median_wage_usd": 101192.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 7
+    },
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 5
+    },
+    {
+      "state": "CA",
+      "county": "CONTRA COSTA",
+      "count": 4
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 1
+    },
+    {
+      "state": "NE",
+      "county": "DOUGLAS",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SAN JOAQUIN",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 10
+    },
+    {
+      "state": "CA",
+      "count": 10
+    },
+    {
+      "state": "AZ",
+      "count": 5
+    },
+    {
+      "state": "NE",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "KS",
+      "count": 1
+    },
+    {
+      "state": "CO",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 137171.0,
+    "gap_usd": 7011.0
+  }
+}

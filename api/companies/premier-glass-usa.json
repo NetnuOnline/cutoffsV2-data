@@ -1,0 +1,69 @@
+{
+  "slug": "premier-glass-usa",
+  "canonical_name": "Premier Glass USA LLC",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 1
+    },
+    {
+      "state": "MO",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "08/23/2023",
+      "effective_date": "09/29/2023",
+      "state": "NJ",
+      "workers": 48,
+      "city": "Williamstown"
+    },
+    {
+      "date": "01/28/2022",
+      "effective_date": "03/31/2022",
+      "state": "MO",
+      "workers": 243,
+      "city": "Park Hills"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "southeast-region-wib",
+      "name": "Southeast Region WIB",
+      "state": "MO"
+    },
+    {
+      "slug": "gloucester-wib",
+      "name": "Gloucester WIB",
+      "state": "NJ"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 13,
+    "continuing_denials": 0,
+    "total_approvals": 13,
+    "by_fy": [
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 13,
+        "continuing_denials": 0,
+        "total_approvals": 13
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "slug": "merrill-lynch",
+  "canonical_name": "MERRILL LYNCH",
+  "fein": "13-5674085",
+  "lca_filing_count": 114,
+  "lca_worker_positions": 114,
+  "warn_notice_count": 0,
+  "median_wage_usd": 141720.5,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 18,
+      "median_wage_usd": 130899.5
+    },
+    {
+      "fy": 2021,
+      "filings": 23,
+      "median_wage_usd": 132600.0
+    },
+    {
+      "fy": 2022,
+      "filings": 20,
+      "median_wage_usd": 136947.0
+    },
+    {
+      "fy": 2023,
+      "filings": 9,
+      "median_wage_usd": 131253.0
+    },
+    {
+      "fy": 2024,
+      "filings": 16,
+      "median_wage_usd": 142100.0
+    },
+    {
+      "fy": 2025,
+      "filings": 15,
+      "median_wage_usd": 154669.0
+    },
+    {
+      "fy": 2026,
+      "filings": 13,
+      "median_wage_usd": 158000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Vice President; Feature Lead - Technology",
+      "count": 11,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "title": "Vice President; Software Engineer III",
+      "count": 7,
+      "median_wage_usd": 141500.0
+    },
+    {
+      "title": "Vice President; Technology Services Lead",
+      "count": 7,
+      "median_wage_usd": 149094.0
+    },
+    {
+      "title": "Vice President; Production Services Specialist II",
+      "count": 4,
+      "median_wage_usd": 142920.5
+    },
+    {
+      "title": "Vice President / Feature Lead - Technology",
+      "count": 4,
+      "median_wage_usd": 136125.0
+    },
+    {
+      "title": "Vice President; Architect",
+      "count": 4,
+      "median_wage_usd": 152679.0
+    },
+    {
+      "title": "Senior Vice President; Senior Technology Manager",
+      "count": 3,
+      "median_wage_usd": 173000.0
+    },
+    {
+      "title": "Vice President; Senior Technology Manager",
+      "count": 3,
+      "median_wage_usd": 170000.0
+    },
+    {
+      "title": "Vice President; Senior Engineer",
+      "count": 3,
+      "median_wage_usd": 154669.0
+    },
+    {
+      "title": "Vice President; Technology Manager",
+      "count": 3,
+      "median_wage_usd": 155522.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NJ",
+      "county": "MERCER",
+      "count": 44
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 19
+    },
+    {
+      "state": "NJ",
+      "county": "HUDSON",
+      "count": 8
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 6
+    },
+    {
+      "state": "FL",
+      "county": "MIAMI-DADE",
+      "count": 3
+    },
+    {
+      "state": "FL",
+      "county": "DUVAL",
+      "count": 2
+    },
+    {
+      "state": "NC",
+      "county": "MECKLENBURG",
+      "count": 2
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "county": "WALTHAM CITY",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 64
+    },
+    {
+      "state": "NY",
+      "count": 26
+    },
+    {
+      "state": "NC",
+      "count": 8
+    },
+    {
+      "state": "TX",
+      "count": 7
+    },
+    {
+      "state": "FL",
+      "count": 6
+    },
+    {
+      "state": "GA",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "count": 1
+    },
+    {
+      "state": "AZ",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 152700.0,
+    "gap_usd": 22540.0
+  }
+}

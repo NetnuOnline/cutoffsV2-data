@@ -1,0 +1,70 @@
+{
+  "slug": "duravant",
+  "canonical_name": "DURAVANT LLC",
+  "fein": null,
+  "lca_filing_count": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 76793.8,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 76481.6
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 78239.4
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "BUSINESS DEVELOPMENT MANAGER ",
+      "count": 2,
+      "median_wage_usd": 77927.2
+    },
+    {
+      "title": "BUSINESS DEVELOPMENT MANAGER",
+      "count": 1,
+      "median_wage_usd": 76481.6
+    },
+    {
+      "title": "FIELD SERVICE MANAGER",
+      "count": 1,
+      "median_wage_usd": 77106.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IL",
+      "county": "DUPAGE",
+      "count": 3
+    },
+    {
+      "state": "CA",
+      "county": "YOLO",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 3
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-2021",
+    "soc_title": "Marketing Managers",
+    "market_median_usd": 157620.0,
+    "employer_median_usd": 76481.6,
+    "gap_usd": -81138.4
+  }
+}

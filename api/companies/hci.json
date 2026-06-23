@@ -1,0 +1,101 @@
+{
+  "slug": "hci",
+  "canonical_name": "HCI",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 3,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 3
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "08/08/2022",
+      "effective_date": "08/08/2022",
+      "state": "CA",
+      "workers": 31,
+      "city": "Riverside"
+    },
+    {
+      "date": "08/08/2022",
+      "effective_date": "08/08/2022",
+      "state": "CA",
+      "workers": 111,
+      "city": "Riverside"
+    },
+    {
+      "date": "08/08/2022",
+      "effective_date": "08/08/2022",
+      "state": "CA",
+      "workers": 109,
+      "city": "11080 Cherry Avenue  Fontana CA 92337"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2021-03-04",
+        "formType": "8-K",
+        "accessionNumber": "0001564590-21-011006",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001400810&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2017-05-16",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-17-172379",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001400810&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2012-03-14",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-12-115028",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001400810&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2011-06-30",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-11-179136",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001400810&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 4,
+    "itemCounts": {
+      "5.02": 4
+    },
+    "latestFilingDate": "2021-03-04",
+    "earliestFilingDate": "2011-06-30"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

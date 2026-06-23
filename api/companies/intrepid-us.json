@@ -1,0 +1,46 @@
+{
+  "slug": "intrepid-us",
+  "canonical_name": "Intrepid US Inc.",
+  "fein": "35-2311904",
+  "lca_filing_count": 2,
+  "lca_worker_positions": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 148353.5,
+  "by_fy": [
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 148353.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Vice President Marketing",
+      "count": 1,
+      "median_wage_usd": 156707.0
+    },
+    {
+      "title": "Vice President Finance",
+      "count": 1,
+      "median_wage_usd": 140000.0
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "WA",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3031",
+    "soc_title": "Treasurers and Controllers",
+    "market_median_usd": 156100.0,
+    "employer_median_usd": 140000.0,
+    "gap_usd": -16100.0
+  }
+}

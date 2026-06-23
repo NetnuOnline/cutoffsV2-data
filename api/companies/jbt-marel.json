@@ -1,0 +1,75 @@
+{
+  "slug": "jbt-marel",
+  "canonical_name": "JBT Marel Corporation",
+  "fein": "91-1650317",
+  "lca_filing_count": 4,
+  "warn_notice_count": 1,
+  "median_wage_usd": 102492.0,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 4,
+      "median_wage_usd": 102492.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Engineering Manager",
+      "count": 2,
+      "median_wage_usd": 112070.0
+    },
+    {
+      "title": "Customer Care System Upgrade Engineer Lead",
+      "count": 1,
+      "median_wage_usd": 91849.0
+    },
+    {
+      "title": "Spare Parts and Service Manager",
+      "count": 1,
+      "median_wage_usd": 92914.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "OH",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "MADERA",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "08/27/2025",
+      "effective_date": "02/27/2026",
+      "state": "OH",
+      "workers": 50,
+      "city": "Columbus/Franklin"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "central-ohio",
+      "name": "Central Ohio",
+      "state": "OH"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": []
+}

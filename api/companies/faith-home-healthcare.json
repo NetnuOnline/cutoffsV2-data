@@ -1,0 +1,76 @@
+{
+  "slug": "faith-home-healthcare",
+  "canonical_name": "Faith Home Healthcare LLC",
+  "fein": "81-5193807",
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 78395.2,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 73590.40000000001
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 83200.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Management Analyst",
+      "count": 2,
+      "median_wage_usd": 78395.20000000001
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NJ",
+      "county": "ESSEX",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 2,
+    "initial_denials": 0,
+    "continuing_approvals": 0,
+    "continuing_denials": 0,
+    "total_approvals": 2,
+    "by_fy": [
+      {
+        "fy": 2021,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1111",
+    "soc_title": "Management Analysts",
+    "market_median_usd": 99000.0,
+    "employer_median_usd": 78395.2,
+    "gap_usd": -20604.8
+  }
+}

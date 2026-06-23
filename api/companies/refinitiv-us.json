@@ -1,0 +1,181 @@
+{
+  "slug": "refinitiv-us",
+  "canonical_name": "Refinitiv US LLC",
+  "fein": "20-4530702",
+  "lca_filing_count": 52,
+  "lca_worker_positions": 52,
+  "warn_notice_count": 0,
+  "median_wage_usd": 120600.75,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 13,
+      "median_wage_usd": 107008.0
+    },
+    {
+      "fy": 2021,
+      "filings": 6,
+      "median_wage_usd": 96500.0
+    },
+    {
+      "fy": 2022,
+      "filings": 7,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 6,
+      "median_wage_usd": 118070.5
+    },
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 90000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 10,
+      "median_wage_usd": 148950.0
+    },
+    {
+      "fy": 2026,
+      "filings": 7,
+      "median_wage_usd": 125000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Lead Software Engineer",
+      "count": 5,
+      "median_wage_usd": 127257.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 5,
+      "median_wage_usd": 107008.0
+    },
+    {
+      "title": "Development Manager",
+      "count": 3,
+      "median_wage_usd": 157590.0
+    },
+    {
+      "title": "Infrastructure Service Manager",
+      "count": 2,
+      "median_wage_usd": 108000.0
+    },
+    {
+      "title": "Lead Performance Engineer",
+      "count": 1,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "title": "Senior Reliability Engineer",
+      "count": 1,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "CONTENT SERVICE MANAGER",
+      "count": 1,
+      "median_wage_usd": 101672.18
+    },
+    {
+      "title": "Tech Lead",
+      "count": 1,
+      "median_wage_usd": 150920.03
+    },
+    {
+      "title": "Evaluator, Securitized Products",
+      "count": 1,
+      "median_wage_usd": 83000.0
+    },
+    {
+      "title": "Senior Project Manager",
+      "count": 1,
+      "median_wage_usd": 122000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 19
+    },
+    {
+      "state": "MO",
+      "county": "ST LOUIS",
+      "count": 14
+    },
+    {
+      "state": "NY",
+      "county": "ERIE",
+      "count": 1
+    },
+    {
+      "state": "SC",
+      "county": "YORK",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 1
+    },
+    {
+      "state": "MO",
+      "county": "ST CHARLES",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    },
+    {
+      "state": "WI",
+      "county": "WAUKESHA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MO",
+      "count": 24
+    },
+    {
+      "state": "NY",
+      "count": 22
+    },
+    {
+      "state": "IL",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "WI",
+      "count": 1
+    },
+    {
+      "state": "SC",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 131865.0,
+    "gap_usd": 1705.0
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "slug": "acme-brick",
+  "canonical_name": "Acme Brick",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 4,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 3
+    },
+    {
+      "state": "KS",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "10/29/2018",
+      "effective_date": "02/22/2019",
+      "state": "TX",
+      "workers": 31,
+      "city": "Round Rock"
+    },
+    {
+      "date": "10/29/2018",
+      "effective_date": "01/05/2019",
+      "state": "TX",
+      "workers": 31,
+      "city": "Cedar Park"
+    },
+    {
+      "date": "10/29/2018",
+      "effective_date": "01/05/2019",
+      "state": "TX",
+      "workers": 42,
+      "city": "Carrollton"
+    },
+    {
+      "date": "09/16/2008",
+      "effective_date": "09/16/2008",
+      "state": "KS",
+      "workers": 30,
+      "city": "1 - Workforce Investment Area I"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

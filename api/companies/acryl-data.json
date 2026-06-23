@@ -1,0 +1,56 @@
+{
+  "slug": "acryl-data",
+  "canonical_name": "Acryl Data Inc.",
+  "fein": "85-3892106",
+  "lca_filing_count": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 257500.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 195000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 290000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 3,
+      "median_wage_usd": 225000.0
+    },
+    {
+      "title": "Staff Engineer",
+      "count": 1,
+      "median_wage_usd": 300000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 4
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 290000.0,
+    "gap_usd": 159840.0
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "slug": "illume-life",
+  "canonical_name": "illume Life, LLC",
+  "fein": null,
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 37003.5,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 36754.0
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 37253.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Marketing Specialist",
+      "count": 2,
+      "median_wage_usd": 37003.5
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "UT",
+      "county": "SALT LAKE",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "UT",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1161",
+    "soc_title": "Market Research Analysts and Marketing Specialists",
+    "market_median_usd": 74680.0,
+    "employer_median_usd": 37003.5,
+    "gap_usd": -37676.5
+  }
+}

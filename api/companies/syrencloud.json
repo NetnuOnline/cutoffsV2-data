@@ -1,0 +1,115 @@
+{
+  "slug": "syrencloud",
+  "canonical_name": "SyrenCloud Inc.",
+  "fein": "86-1718448",
+  "lca_filing_count": 10,
+  "lca_worker_positions": 10,
+  "warn_notice_count": 0,
+  "median_wage_usd": 122500.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 3,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 78478.0
+    },
+    {
+      "fy": 2024,
+      "filings": 4,
+      "median_wage_usd": 133124.5
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 154440.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Engineering Manager",
+      "count": 2,
+      "median_wage_usd": 156750.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 2,
+      "median_wage_usd": 122500.0
+    },
+    {
+      "title": "UI Developer",
+      "count": 1,
+      "median_wage_usd": 127338.0
+    },
+    {
+      "title": "Data Analyst",
+      "count": 1,
+      "median_wage_usd": 108306.0
+    },
+    {
+      "title": "Systems Engineer",
+      "count": 1,
+      "median_wage_usd": 78478.0
+    },
+    {
+      "title": "Technical Project Manager",
+      "count": 1,
+      "median_wage_usd": 78478.0
+    },
+    {
+      "title": "Delivery Manager",
+      "count": 1,
+      "median_wage_usd": 154440.0
+    },
+    {
+      "title": "Data Scientist",
+      "count": 1,
+      "median_wage_usd": 117749.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NJ",
+      "county": "SOMERSET",
+      "count": 5
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 5
+    },
+    {
+      "state": "WA",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3021",
+    "soc_title": "Computer and Information Systems Managers",
+    "market_median_usd": 169510.0,
+    "employer_median_usd": 154440.0,
+    "gap_usd": -15070.0
+  }
+}

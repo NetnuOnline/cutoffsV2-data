@@ -1,0 +1,177 @@
+{
+  "slug": "general-mills",
+  "canonical_name": "General Mills, Inc.",
+  "fein": "41-0274440",
+  "lca_filing_count": 38,
+  "lca_worker_positions": 36,
+  "warn_notice_count": 0,
+  "median_wage_usd": 115828.5,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 6,
+      "median_wage_usd": 104818.0
+    },
+    {
+      "fy": 2021,
+      "filings": 5,
+      "median_wage_usd": 109054.0
+    },
+    {
+      "fy": 2022,
+      "filings": 6,
+      "median_wage_usd": 110833.5
+    },
+    {
+      "fy": 2023,
+      "filings": 5,
+      "median_wage_usd": 140358.0
+    },
+    {
+      "fy": 2024,
+      "filings": 7,
+      "median_wage_usd": 128750.0
+    },
+    {
+      "fy": 2025,
+      "filings": 4,
+      "median_wage_usd": 109749.0
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 119642.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Sr. Data Engineer",
+      "count": 4,
+      "median_wage_usd": 107850.0
+    },
+    {
+      "title": "Sr. Data Scientist",
+      "count": 3,
+      "median_wage_usd": 119704.0
+    },
+    {
+      "title": "Big Data Architect",
+      "count": 2,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "title": "Principal Data Architect",
+      "count": 1,
+      "median_wage_usd": 144000.0
+    },
+    {
+      "title": "Big Data Developer",
+      "count": 1,
+      "median_wage_usd": 120328.0
+    },
+    {
+      "title": "Sr CMRA Data Scientist, MSA",
+      "count": 1,
+      "median_wage_usd": 119642.0
+    },
+    {
+      "title": "Sr. Infrastructure Engineer",
+      "count": 1,
+      "median_wage_usd": 125798.0
+    },
+    {
+      "title": "R&D Scientist II",
+      "count": 1,
+      "median_wage_usd": 87797.0
+    },
+    {
+      "title": "Sr. Developer, Enterprise Data Warehouse",
+      "count": 1,
+      "median_wage_usd": 102100.0
+    },
+    {
+      "title": "D&T Analyst \u2013 DnA, Supply Chain",
+      "count": 1,
+      "median_wage_usd": 78894.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MN",
+      "county": "HENNEPIN",
+      "count": 21
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 1
+    },
+    {
+      "state": "CT",
+      "county": "FAIRFIELD",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "county": "COLLIER",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MN",
+      "count": 25
+    },
+    {
+      "state": "TX",
+      "count": 8
+    },
+    {
+      "state": "CT",
+      "count": 2
+    },
+    {
+      "state": "GA",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 108900.0,
+    "gap_usd": 880.0
+  }
+}

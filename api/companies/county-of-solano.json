@@ -1,0 +1,66 @@
+{
+  "slug": "county-of-solano",
+  "canonical_name": "County of Solano",
+  "fein": "94-6000538",
+  "lca_filing_count": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 134934.72,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 135594.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 131184.72
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "IT Analyst IV (Data Engineer)",
+      "count": 1,
+      "median_wage_usd": 124788.0
+    },
+    {
+      "title": "Information Technology Analyst IV (Project Manager)",
+      "count": 1,
+      "median_wage_usd": 132288.0
+    },
+    {
+      "title": "Information Technology Analyst (Principal)",
+      "count": 1,
+      "median_wage_usd": 138900.0
+    },
+    {
+      "title": "IT Analyst Principal",
+      "count": 1,
+      "median_wage_usd": 137581.44
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SOLANO",
+      "count": 4
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 4
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1211",
+    "soc_title": "Computer Systems Analysts",
+    "market_median_usd": 103800.0,
+    "employer_median_usd": 134934.72,
+    "gap_usd": 31134.72
+  }
+}

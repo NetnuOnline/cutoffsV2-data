@@ -1,0 +1,106 @@
+{
+  "slug": "oklahoma-blood-institute",
+  "canonical_name": "Oklahoma Blood Institute",
+  "fein": "73-1008735",
+  "lca_filing_count": 11,
+  "lca_worker_positions": 11,
+  "warn_notice_count": 0,
+  "median_wage_usd": 81200.08,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 66237.92
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 43534.4
+    },
+    {
+      "fy": 2025,
+      "filings": 6,
+      "median_wage_usd": 82936.715
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 79353.39000000001,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 2,
+      "median_wage_usd": 86048.04000000001
+    },
+    {
+      "title": "Development Manager",
+      "count": 2,
+      "median_wage_usd": 86817.475
+    },
+    {
+      "title": "Software Engineer II",
+      "count": 1,
+      "median_wage_usd": 84674.46
+    },
+    {
+      "title": "Reference Laboratory Technician 1",
+      "count": 1,
+      "median_wage_usd": 74032.32
+    },
+    {
+      "title": "Laboratory Technician",
+      "count": 1,
+      "median_wage_usd": 43534.4
+    },
+    {
+      "title": "Specialist, Recruitment Production",
+      "count": 1,
+      "median_wage_usd": 56680.0
+    },
+    {
+      "title": "Scientist, Research & Development",
+      "count": 1,
+      "median_wage_usd": 72000.24
+    },
+    {
+      "title": "Software Engineer ",
+      "count": 1,
+      "median_wage_usd": 83429.84
+    },
+    {
+      "title": "Laboratory Technologist I",
+      "count": 1,
+      "median_wage_usd": 49046.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "OK",
+      "county": "OKLAHOMA",
+      "count": 4
+    }
+  ],
+  "top_states": [
+    {
+      "state": "OK",
+      "count": 10
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 88961.6,
+    "gap_usd": -41198.4
+  }
+}

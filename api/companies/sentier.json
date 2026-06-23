@@ -1,0 +1,150 @@
+{
+  "slug": "sentier",
+  "canonical_name": "Sentier LLC",
+  "fein": "27-2243855",
+  "lca_filing_count": 8,
+  "warn_notice_count": 0,
+  "median_wage_usd": 86800.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 78000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 99500.0
+    },
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 84000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 97300.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 113000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 5,
+      "median_wage_usd": 88600.0
+    },
+    {
+      "title": "Data Engineer",
+      "count": 1,
+      "median_wage_usd": 113000.0
+    },
+    {
+      "title": "Computer Programmer",
+      "count": 1,
+      "median_wage_usd": 78000.0
+    },
+    {
+      "title": "Software Quality Assurance Analyst",
+      "count": 1,
+      "median_wage_usd": 75000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NV",
+      "county": "CLARK",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "county": "SOMERSET",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SAN JOAQUIN",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "county": "DEKALB",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 3
+    },
+    {
+      "state": "NV",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 9,
+    "initial_denials": 0,
+    "continuing_approvals": 3,
+    "continuing_denials": 0,
+    "total_approvals": 12,
+    "by_fy": [
+      {
+        "fy": 2021,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 5,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 7
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      }
+    ]
+  },
+  "lca_worker_positions": 8,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 94050.0,
+    "gap_usd": -36110.0
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "slug": "the-bank-of-new-york-mellon",
+  "canonical_name": "The Bank of New York Mellon",
+  "fein": "13-5160382",
+  "lca_filing_count": 261,
+  "lca_worker_positions": 259,
+  "warn_notice_count": 0,
+  "median_wage_usd": 150000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 55,
+      "median_wage_usd": 150200.0
+    },
+    {
+      "fy": 2021,
+      "filings": 49,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 26,
+      "median_wage_usd": 142500.0
+    },
+    {
+      "fy": 2023,
+      "filings": 48,
+      "median_wage_usd": 151762.5
+    },
+    {
+      "fy": 2024,
+      "filings": 30,
+      "median_wage_usd": 146372.82
+    },
+    {
+      "fy": 2025,
+      "filings": 23,
+      "median_wage_usd": 165000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 28,
+      "median_wage_usd": 173032.78999999998,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Vice President, Full-Stack Engineer",
+      "count": 13,
+      "median_wage_usd": 180147.0
+    },
+    {
+      "title": "Senior Specialist Developer",
+      "count": 11,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Principal Developer",
+      "count": 11,
+      "median_wage_usd": 176135.0
+    },
+    {
+      "title": "Senior Vice President, Back-End Engineer",
+      "count": 7,
+      "median_wage_usd": 173060.0
+    },
+    {
+      "title": "Principal, Full-Stack Developer",
+      "count": 7,
+      "median_wage_usd": 175000.0
+    },
+    {
+      "title": "Graduate Developer",
+      "count": 6,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "title": "Vice President, Full-Stack Engineer I",
+      "count": 6,
+      "median_wage_usd": 142745.64
+    },
+    {
+      "title": "Vice President, Model Risk Management II",
+      "count": 5,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "title": "Specialist, Full-Stack Developer",
+      "count": 5,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "title": "Vice President, Full-Stack Engineer II",
+      "count": 5,
+      "median_wage_usd": 155000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 93
+    },
+    {
+      "state": "PA",
+      "county": "ALLEGHENY",
+      "count": 56
+    },
+    {
+      "state": "NJ",
+      "county": "HUDSON",
+      "count": 29
+    },
+    {
+      "state": "FL",
+      "county": "SEMINOLE",
+      "count": 12
+    },
+    {
+      "state": "FL",
+      "county": "ORANGE",
+      "count": 6
+    },
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 4
+    },
+    {
+      "state": "NJ",
+      "county": "PASSAIC",
+      "count": 3
+    },
+    {
+      "state": "CA",
+      "county": "SAN MATEO",
+      "count": 2
+    },
+    {
+      "state": "VA",
+      "county": "LOUDOUN",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "county": "BOSTON CITY",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 118
+    },
+    {
+      "state": "PA",
+      "count": 71
+    },
+    {
+      "state": "NJ",
+      "count": 35
+    },
+    {
+      "state": "FL",
+      "count": 25
+    },
+    {
+      "state": "CA",
+      "count": 8
+    },
+    {
+      "state": "VA",
+      "count": 1
+    },
+    {
+      "state": "TN",
+      "count": 1
+    },
+    {
+      "state": "DC",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 165000.0,
+    "gap_usd": 34840.0
+  }
+}

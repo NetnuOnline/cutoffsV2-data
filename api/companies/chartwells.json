@@ -1,0 +1,74 @@
+{
+  "slug": "chartwells",
+  "canonical_name": "Chartwells",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 4,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "PA",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "count": 1
+    },
+    {
+      "state": "CT",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "06/06/2025",
+      "effective_date": "06/06/2025",
+      "state": "PA",
+      "workers": 6,
+      "city": "York"
+    },
+    {
+      "date": "09/02/2020",
+      "effective_date": "10/01/2020",
+      "state": "IL",
+      "workers": 51,
+      "city": "Chicago"
+    },
+    {
+      "date": "01/01/2020",
+      "effective_date": "06/30/2020",
+      "state": "CT",
+      "workers": 95,
+      "city": "New Haven"
+    },
+    {
+      "date": "04/29/2016",
+      "effective_date": "04/29/2016",
+      "state": "GA",
+      "workers": 225,
+      "city": "Valdosta"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "south-georgia-wib",
+      "name": "South Georgia WIB",
+      "state": "GA"
+    },
+    {
+      "slug": "south-central-wia-pa",
+      "name": "South Central WIA",
+      "state": "PA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

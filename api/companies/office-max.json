@@ -1,0 +1,101 @@
+{
+  "slug": "office-max",
+  "canonical_name": "Office Max",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 8,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 3
+    },
+    {
+      "state": "ME",
+      "count": 2
+    },
+    {
+      "state": "KS",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "04/22/2023",
+      "effective_date": "04/22/2023",
+      "state": "KS",
+      "workers": 0,
+      "city": "Salina"
+    },
+    {
+      "date": "02/21/2020",
+      "effective_date": "02/21/2020",
+      "state": "ME",
+      "workers": 20,
+      "city": "3 - Central Western Local Area 3"
+    },
+    {
+      "date": "04/02/2019",
+      "effective_date": "04/02/2019",
+      "state": "ME",
+      "workers": 33,
+      "city": "4 - Coastal Counties Local Area 4"
+    },
+    {
+      "date": "04/14/2015",
+      "effective_date": "06/12/2015",
+      "state": "TX",
+      "workers": 72,
+      "city": "Garland"
+    },
+    {
+      "date": "01/29/2015",
+      "effective_date": "03/30/2015",
+      "state": "TX",
+      "workers": 58,
+      "city": "Garland"
+    },
+    {
+      "date": "09/22/2014",
+      "effective_date": "11/21/2014",
+      "state": "CA",
+      "workers": 74,
+      "city": "Menlo Park"
+    },
+    {
+      "date": "08/23/2005",
+      "effective_date": "08/23/2005",
+      "state": "GA",
+      "workers": 61,
+      "city": "Suwanee"
+    },
+    {
+      "date": "03/15/2004",
+      "effective_date": "05/14/2004",
+      "state": "TX",
+      "workers": 293,
+      "city": "Ft. Worth"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "local-area-i-western-wib",
+      "name": "Local Area I - Western WIB",
+      "state": "KS"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

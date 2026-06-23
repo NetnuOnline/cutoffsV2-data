@@ -1,0 +1,82 @@
+{
+  "slug": "lucile-salter-packard-childrens-hospital-at-stanford",
+  "canonical_name": "Lucile Salter Packard Childrens Hospital at Stanford",
+  "fein": "77-0003859",
+  "lca_filing_count": 8,
+  "lca_worker_positions": 7,
+  "warn_notice_count": 0,
+  "median_wage_usd": 149692.8,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 5,
+      "median_wage_usd": 149385.6
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 171400.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Quality Improvement Advisor",
+      "count": 2,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "title": "Network Engineer",
+      "count": 1,
+      "median_wage_usd": 165400.0
+    },
+    {
+      "title": "Programmer/Analyst IV",
+      "count": 1,
+      "median_wage_usd": 218000.0
+    },
+    {
+      "title": "Sr. Virtualization Storage Engineer",
+      "count": 1,
+      "median_wage_usd": 149385.6
+    },
+    {
+      "title": "EBS Application Architect",
+      "count": 1,
+      "median_wage_usd": 130582.0
+    },
+    {
+      "title": "SCAN Social Work Program Manager",
+      "count": 1,
+      "median_wage_usd": 108014.4
+    },
+    {
+      "title": "Sr Business Systems Specialist",
+      "count": 1,
+      "median_wage_usd": 124800.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 8
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1244",
+    "soc_title": "Network and Computer Systems Administrators",
+    "market_median_usd": 95000.0,
+    "employer_median_usd": 171400.0,
+    "gap_usd": 76400.0
+  }
+}

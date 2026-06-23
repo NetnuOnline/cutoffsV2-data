@@ -1,0 +1,43 @@
+{
+  "slug": "truck-manufacturing-plant",
+  "canonical_name": "TRUCK MANUFACTURING PLANT",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "OR",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "01/29/2001",
+      "effective_date": "03/30/2001",
+      "state": "OR",
+      "workers": 1085,
+      "city": "PORTLAND"
+    },
+    {
+      "date": "08/14/2000",
+      "effective_date": "10/20/2000",
+      "state": "OR",
+      "workers": 770,
+      "city": "PORTLAND"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "portland-metro-wia",
+      "name": "Portland Metro WIA",
+      "state": "OR"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

@@ -1,0 +1,51 @@
+{
+  "slug": "albany-med-health-system",
+  "canonical_name": "ALBANY MED HEALTH SYSTEM",
+  "fein": "14-1641730",
+  "lca_filing_count": 2,
+  "lca_worker_positions": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 86650.99,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 86650.99
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 86650.99,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SERVICE LINE & ANALYTICS ADMINISTRATOR",
+      "count": 1,
+      "median_wage_usd": 86650.99
+    },
+    {
+      "title": "Healthcare Data Scientist - Level II",
+      "count": 1,
+      "median_wage_usd": 86650.99
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Business Intelligence Analysts",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 86650.99,
+    "gap_usd": -21369.01
+  }
+}

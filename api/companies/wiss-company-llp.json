@@ -1,0 +1,76 @@
+{
+  "slug": "wiss-company-llp",
+  "canonical_name": "Wiss & Company, LLP",
+  "fein": "22-1732349",
+  "lca_filing_count": 6,
+  "lca_worker_positions": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 95050.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 3,
+      "median_wage_usd": 76100.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 112000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 141500.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Assurance Associate",
+      "count": 3,
+      "median_wage_usd": 76100.0
+    },
+    {
+      "title": "Manager, Tax",
+      "count": 2,
+      "median_wage_usd": 112000.0
+    },
+    {
+      "title": "Microsoft Lead Developer, Manager",
+      "count": 1,
+      "median_wage_usd": 141500.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NJ",
+      "county": "MORRIS",
+      "count": 2
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 5
+    },
+    {
+      "state": "NY",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-2011",
+    "soc_title": "Accountants and Auditors",
+    "market_median_usd": 79000.0,
+    "employer_median_usd": 95050.0,
+    "gap_usd": 16050.0
+  }
+}

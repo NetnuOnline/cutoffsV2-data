@@ -1,0 +1,75 @@
+{
+  "slug": "nine-energy-service",
+  "canonical_name": "Nine Energy Service",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 1,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "OH",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "05/14/2020",
+      "effective_date": "03/12/2020",
+      "state": "OH",
+      "workers": 60,
+      "city": "Marietta/Washington"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "southeast-ohio",
+      "name": "Southeast Ohio",
+      "state": "OH"
+    }
+  ],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2018-02-01",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-18-029308",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001532286&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 1,
+    "itemCounts": {
+      "5.02": 1
+    },
+    "latestFilingDate": "2018-02-01",
+    "earliestFilingDate": "2018-02-01"
+  },
+  "bankruptcy_data": {
+    "filings": [
+      {
+        "filingDate": "2026-03-10",
+        "formType": "8-K",
+        "accessionNumber": "0001213900-26-025721",
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001532286&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2026-02-02",
+        "formType": "8-K",
+        "accessionNumber": "0001213900-26-010501",
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001532286&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 2,
+    "latestFilingDate": "2026-03-10",
+    "earliestFilingDate": "2026-02-02"
+  },
+  "source": "warntracker"
+}

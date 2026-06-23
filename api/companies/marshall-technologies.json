@@ -1,0 +1,118 @@
+{
+  "slug": "marshall-technologies",
+  "canonical_name": "Marshall Technologies Inc.",
+  "fein": "87-3828518",
+  "lca_filing_count": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 66528.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 64000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 62379.5
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 69077.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Programmer Analyst",
+      "count": 2,
+      "median_wage_usd": 69066.5
+    },
+    {
+      "title": "Computer Systems Analyst",
+      "count": 2,
+      "median_wage_usd": 62379.5
+    },
+    {
+      "title": "Computer Systems Analysts",
+      "count": 1,
+      "median_wage_usd": 64000.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 85446.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TN",
+      "county": "SHELBY",
+      "count": 1
+    },
+    {
+      "state": "TN",
+      "county": "FAYETTE",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "county": "DUVAL",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TN",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "DE",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 5,
+    "initial_denials": 1,
+    "continuing_approvals": 0,
+    "continuing_denials": 0,
+    "total_approvals": 5,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 4,
+        "initial_denials": 1,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 4
+      }
+    ]
+  },
+  "lca_worker_positions": 8,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1211",
+    "soc_title": "Computer Systems Analysts",
+    "market_median_usd": 103800.0,
+    "employer_median_usd": 64000.0,
+    "gap_usd": -39800.0
+  }
+}

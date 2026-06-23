@@ -1,0 +1,290 @@
+{
+  "slug": "argo-ai",
+  "canonical_name": "Argo AI, LLC",
+  "fein": null,
+  "lca_filing_count": 80,
+  "warn_notice_count": 8,
+  "median_wage_usd": 148500.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 17,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 27,
+      "median_wage_usd": 148500.0
+    },
+    {
+      "fy": 2022,
+      "filings": 33,
+      "median_wage_usd": 148500.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 174150.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer II",
+      "count": 20,
+      "median_wage_usd": 148500.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 9,
+      "median_wage_usd": 162000.0
+    },
+    {
+      "title": "Software Engineer I",
+      "count": 9,
+      "median_wage_usd": 112500.0
+    },
+    {
+      "title": "Senior Systems Engineer",
+      "count": 8,
+      "median_wage_usd": 162000.0
+    },
+    {
+      "title": "Staff Software Engineer",
+      "count": 6,
+      "median_wage_usd": 216000.0
+    },
+    {
+      "title": "Senior Hardware Engineer",
+      "count": 4,
+      "median_wage_usd": 168075.0
+    },
+    {
+      "title": "Systems Engineer II",
+      "count": 3,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "title": "Technical Program Manager II",
+      "count": 3,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "title": "Hardware Engineer II",
+      "count": 3,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "title": "Senior Technical Program Manager",
+      "count": 2,
+      "median_wage_usd": 168075.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 42
+    },
+    {
+      "state": "PA",
+      "count": 17
+    },
+    {
+      "state": "MI",
+      "count": 10
+    },
+    {
+      "state": "NJ",
+      "count": 5
+    },
+    {
+      "state": "WA",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 41
+    },
+    {
+      "state": "PA",
+      "county": "ALLEGHENY",
+      "count": 17
+    },
+    {
+      "state": "MI",
+      "county": "WAYNE",
+      "count": 10
+    },
+    {
+      "state": "NJ",
+      "county": "MIDDLESEX",
+      "count": 5
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "SAN MATEO",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "county": "DUPAGE",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "12/15/2022",
+      "effective_date": "11/01/2022",
+      "state": "CA",
+      "workers": 257,
+      "city": "Palo Alto"
+    },
+    {
+      "date": "12/14/2022",
+      "effective_date": "11/01/2022",
+      "state": "NJ",
+      "workers": 64,
+      "city": "Cranbury"
+    },
+    {
+      "date": "11/09/2022",
+      "effective_date": "11/01/2022",
+      "state": "FL",
+      "workers": 79,
+      "city": "MIAMI"
+    },
+    {
+      "date": "10/27/2022",
+      "effective_date": "11/01/2022",
+      "state": "TX",
+      "workers": 68,
+      "city": "Austin"
+    },
+    {
+      "date": "10/27/2022",
+      "effective_date": "11/01/2022",
+      "state": "TX",
+      "workers": 10,
+      "city": "Austin"
+    },
+    {
+      "date": "10/27/2022",
+      "effective_date": "10/27/2022",
+      "state": "MI",
+      "workers": 173,
+      "city": "Allen Park"
+    },
+    {
+      "date": "10/27/2022",
+      "effective_date": "10/27/2022",
+      "state": "MI",
+      "workers": 173,
+      "city": "Allen Park"
+    },
+    {
+      "date": "10/27/2022",
+      "effective_date": "10/27/2022",
+      "state": "MI",
+      "workers": 173,
+      "city": "Allen Park, Michigan"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "mercer-wib",
+      "name": "Mercer WIB",
+      "state": "NJ"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 52,
+    "initial_denials": 0,
+    "continuing_approvals": 174,
+    "continuing_denials": 0,
+    "total_approvals": 226,
+    "by_fy": [
+      {
+        "fy": 2017,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 14,
+        "initial_denials": 0,
+        "continuing_approvals": 39,
+        "continuing_denials": 0,
+        "total_approvals": 53
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 15,
+        "initial_denials": 0,
+        "continuing_approvals": 52,
+        "continuing_denials": 0,
+        "total_approvals": 67
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 23,
+        "initial_denials": 0,
+        "continuing_approvals": 79,
+        "continuing_denials": 0,
+        "total_approvals": 102
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 4,
+        "continuing_denials": 0,
+        "total_approvals": 4
+      }
+    ]
+  },
+  "lca_worker_positions": 78,
+  "top_socs": [],
+  "lca_periods": []
+}

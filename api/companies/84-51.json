@@ -1,0 +1,203 @@
+{
+  "slug": "84-51",
+  "canonical_name": "84.51 LLC",
+  "fein": "83-0352871",
+  "lca_filing_count": 36,
+  "lca_worker_positions": 36,
+  "warn_notice_count": 0,
+  "median_wage_usd": 146293.52,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 3,
+      "median_wage_usd": 131328.13
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 131770.19
+    },
+    {
+      "fy": 2022,
+      "filings": 11,
+      "median_wage_usd": 141450.0
+    },
+    {
+      "fy": 2023,
+      "filings": 6,
+      "median_wage_usd": 146000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 4,
+      "median_wage_usd": 151554.015
+    },
+    {
+      "fy": 2025,
+      "filings": 8,
+      "median_wage_usd": 148234.865
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 161275.35,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Data Scientist",
+      "count": 13,
+      "median_wage_usd": 146752.1
+    },
+    {
+      "title": "Lead Data Engineer",
+      "count": 6,
+      "median_wage_usd": 158147.37
+    },
+    {
+      "title": "Lead Software Engineer",
+      "count": 4,
+      "median_wage_usd": 158804.015
+    },
+    {
+      "title": "Lead Data Scientist",
+      "count": 3,
+      "median_wage_usd": 141450.0
+    },
+    {
+      "title": "Senior Data Engineer",
+      "count": 2,
+      "median_wage_usd": 124949.01999999999
+    },
+    {
+      "title": "Director, Data Science",
+      "count": 1,
+      "median_wage_usd": 182828.59
+    },
+    {
+      "title": "Research Scientist",
+      "count": 1,
+      "median_wage_usd": 149652.56
+    },
+    {
+      "title": "Lead AI/ML Engineer",
+      "count": 1,
+      "median_wage_usd": 200000.0
+    },
+    {
+      "title": "Lead DevOps Engineer",
+      "count": 1,
+      "median_wage_usd": 139258.57
+    },
+    {
+      "title": "Director of Software Engineering",
+      "count": 1,
+      "median_wage_usd": 260000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "OH",
+      "county": "HAMILTON",
+      "count": 12
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 5
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 2
+    },
+    {
+      "state": "FL",
+      "county": "DUVAL",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "county": "SNOHOMISH",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "county": "FAIRFAX",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 1
+    },
+    {
+      "state": "CO",
+      "county": "DOUGLAS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "OH",
+      "count": 14
+    },
+    {
+      "state": "IL",
+      "count": 9
+    },
+    {
+      "state": "NY",
+      "count": 3
+    },
+    {
+      "state": "CA",
+      "count": 3
+    },
+    {
+      "state": "WA",
+      "count": 2
+    },
+    {
+      "state": "AR",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "count": 1
+    },
+    {
+      "state": "CO",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 146752.1,
+    "gap_usd": 38732.1
+  }
+}

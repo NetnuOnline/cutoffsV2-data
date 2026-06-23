@@ -1,0 +1,91 @@
+{
+  "slug": "camptra-technologies",
+  "canonical_name": "Camptra Technologies LLC",
+  "fein": "81-3986768",
+  "lca_filing_count": 6,
+  "lca_worker_positions": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 145000.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 161500.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 168000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 140000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Managing Consultant",
+      "count": 2,
+      "median_wage_usd": 132500.0
+    },
+    {
+      "title": "HCM Technical Architect \u2013 Oracle cloud Applications",
+      "count": 1,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "title": "Director",
+      "count": 1,
+      "median_wage_usd": 185000.0
+    },
+    {
+      "title": "Oracle EPM Cloud Functional Senior Manager",
+      "count": 1,
+      "median_wage_usd": 138000.0
+    },
+    {
+      "title": "Senior Manager \u2013 Oracle Cloud Applications",
+      "count": 1,
+      "median_wage_usd": 186000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 4
+    },
+    {
+      "state": "GA",
+      "county": "WALTON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 5
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3021",
+    "soc_title": "Computer and Information Systems Managers",
+    "market_median_usd": 169510.0,
+    "employer_median_usd": 150000.0,
+    "gap_usd": -19510.0
+  }
+}

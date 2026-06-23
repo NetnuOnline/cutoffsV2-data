@@ -1,0 +1,87 @@
+{
+  "slug": "omaha-public-power-district",
+  "canonical_name": "Omaha Public Power District",
+  "fein": "47-6000369",
+  "lca_filing_count": 8,
+  "lca_worker_positions": 8,
+  "warn_notice_count": 0,
+  "median_wage_usd": 121980.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 121956.0
+    },
+    {
+      "fy": 2022,
+      "filings": 3,
+      "median_wage_usd": 120890.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 145841.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 129960.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Lead Business Intelligence (BI) Developer",
+      "count": 2,
+      "median_wage_usd": 121956.0
+    },
+    {
+      "title": "Solution Architect",
+      "count": 2,
+      "median_wage_usd": 139492.0
+    },
+    {
+      "title": "Release Engineer",
+      "count": 1,
+      "median_wage_usd": 122004.0
+    },
+    {
+      "title": "Business Intelligence (BI) Developer",
+      "count": 1,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "Senior Cloud Engineer",
+      "count": 1,
+      "median_wage_usd": 137917.0
+    },
+    {
+      "title": "Senior Software Systems Engineer",
+      "count": 1,
+      "median_wage_usd": 120890.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NE",
+      "county": "DOUGLAS",
+      "count": 5
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NE",
+      "count": 8
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 122004.0,
+    "gap_usd": -8156.0
+  }
+}

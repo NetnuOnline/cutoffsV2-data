@@ -1,0 +1,95 @@
+{
+  "slug": "coram-cvs-specialty-infusion-services",
+  "canonical_name": "Coram, CVS Specialty Infusion Services",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 7,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 4
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "08/14/2022",
+      "effective_date": "09/18/2022",
+      "state": "NJ",
+      "workers": 58,
+      "city": "Totowa"
+    },
+    {
+      "date": "06/07/2022",
+      "effective_date": "09/18/2022",
+      "state": "NY",
+      "workers": 138,
+      "city": "Maspeth"
+    },
+    {
+      "date": "06/06/2022",
+      "effective_date": "07/17/2022",
+      "state": "FL",
+      "workers": 71,
+      "city": "MIRAMAR"
+    },
+    {
+      "date": "06/01/2022",
+      "effective_date": "09/18/2022",
+      "state": "NY",
+      "workers": 138,
+      "city": "Maspeth"
+    },
+    {
+      "date": "06/01/2022",
+      "effective_date": "09/18/2022",
+      "state": "NY",
+      "workers": 70,
+      "city": "Albany"
+    },
+    {
+      "date": "06/01/2022",
+      "effective_date": "09/18/2022",
+      "state": "NY",
+      "workers": 70,
+      "city": null
+    },
+    {
+      "date": "06/01/2022",
+      "effective_date": "07/31/2022",
+      "state": "CA",
+      "workers": 63,
+      "city": "Los Angeles"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "passaic-wib",
+      "name": "Passaic WIB",
+      "state": "NJ"
+    },
+    {
+      "slug": "albanyrensselaerschenectady-lwia",
+      "name": "Albany/Rensselaer/Schenectady LWIA",
+      "state": "NY"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

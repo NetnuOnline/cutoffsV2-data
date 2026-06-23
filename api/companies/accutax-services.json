@@ -1,0 +1,52 @@
+{
+  "slug": "accutax-services",
+  "canonical_name": "Accutax Services Inc.",
+  "fein": "45-3561386",
+  "lca_filing_count": 2,
+  "lca_worker_positions": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 66778.5,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 68640.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 64917.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Staff Accountant",
+      "count": 2,
+      "median_wage_usd": 66778.5
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-2011",
+    "soc_title": "Accountants and Auditors",
+    "market_median_usd": 79000.0,
+    "employer_median_usd": 66778.5,
+    "gap_usd": -12221.5
+  }
+}

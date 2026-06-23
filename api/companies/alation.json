@@ -1,0 +1,145 @@
+{
+  "slug": "alation",
+  "canonical_name": "Alation, Inc.",
+  "fein": "46-1989601",
+  "lca_filing_count": 31,
+  "lca_worker_positions": 31,
+  "warn_notice_count": 0,
+  "median_wage_usd": 156000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 3,
+      "median_wage_usd": 145246.0
+    },
+    {
+      "fy": 2021,
+      "filings": 9,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 3,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 180000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 9,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 196245.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 217115.75,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Sr. Software Engineer ",
+      "count": 5,
+      "median_wage_usd": 165000.0
+    },
+    {
+      "title": "Software Engineer ",
+      "count": 4,
+      "median_wage_usd": 130465.5
+    },
+    {
+      "title": "Software Engineer III",
+      "count": 4,
+      "median_wage_usd": 164465.5
+    },
+    {
+      "title": "Manager, Product Design",
+      "count": 3,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "title": "Senior Software Engineer ",
+      "count": 3,
+      "median_wage_usd": 200000.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "title": "Staff Customer Engagement Manager",
+      "count": 1,
+      "median_wage_usd": 158000.0
+    },
+    {
+      "title": "Senior PS Consultant ",
+      "count": 1,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "title": "Sr. Manager, Technical Support ",
+      "count": 1,
+      "median_wage_usd": 166754.0
+    },
+    {
+      "title": "Staff Software Engineer",
+      "count": 1,
+      "median_wage_usd": 250981.5
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SAN MATEO",
+      "count": 24
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "county": "SOMERVILLE CITY",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 29
+    },
+    {
+      "state": "MA",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 181000.0,
+    "gap_usd": 50840.0
+  }
+}

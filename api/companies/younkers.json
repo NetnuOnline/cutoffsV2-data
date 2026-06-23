@@ -1,0 +1,229 @@
+{
+  "slug": "younkers",
+  "canonical_name": "Younkers",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 20,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "IA",
+      "count": 9
+    },
+    {
+      "state": "NE",
+      "count": 5
+    },
+    {
+      "state": "WI",
+      "count": 3
+    },
+    {
+      "state": "SD",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "08/31/2018",
+      "effective_date": "08/31/2018",
+      "state": "NE",
+      "workers": 190,
+      "city": "Omaha"
+    },
+    {
+      "date": "08/31/2018",
+      "effective_date": "08/31/2018",
+      "state": "NE",
+      "workers": 80,
+      "city": "Grand Island"
+    },
+    {
+      "date": "08/31/2018",
+      "effective_date": "08/31/2018",
+      "state": "NE",
+      "workers": 141,
+      "city": "Omaha"
+    },
+    {
+      "date": "08/31/2018",
+      "effective_date": "08/31/2018",
+      "state": "NE",
+      "workers": 90,
+      "city": "Lincoln"
+    },
+    {
+      "date": "06/05/2018",
+      "effective_date": "06/05/2018",
+      "state": "SD",
+      "workers": 158,
+      "city": "Sioux Falls"
+    },
+    {
+      "date": "04/09/2018",
+      "effective_date": "04/09/2018",
+      "state": "MI",
+      "workers": 70,
+      "city": "Grandville"
+    },
+    {
+      "date": "04/06/2018",
+      "effective_date": "06/05/2018",
+      "state": "WI",
+      "workers": 2255,
+      "city": "Brookfield, Eau Claire, Glendale, Greendale, Janesville, Madison, Marshfield, Milwaukee, Racine, Wauwatosa"
+    },
+    {
+      "date": "04/05/2018",
+      "effective_date": "06/05/2018",
+      "state": "IA",
+      "workers": 95,
+      "city": "Cedar Rapids"
+    },
+    {
+      "date": "04/05/2018",
+      "effective_date": "06/05/2018",
+      "state": "IA",
+      "workers": 164,
+      "city": "West Des Moines"
+    },
+    {
+      "date": "04/05/2018",
+      "effective_date": "06/05/2018",
+      "state": "IA",
+      "workers": 64,
+      "city": "Mason City"
+    },
+    {
+      "date": "04/05/2018",
+      "effective_date": "06/05/2018",
+      "state": "IA",
+      "workers": 110,
+      "city": "Coralville"
+    },
+    {
+      "date": "04/05/2018",
+      "effective_date": "06/05/2018",
+      "state": "IA",
+      "workers": 108,
+      "city": "West Des Moines"
+    },
+    {
+      "date": "04/05/2018",
+      "effective_date": "06/05/2018",
+      "state": "IA",
+      "workers": 90,
+      "city": "Dubuque"
+    },
+    {
+      "date": "04/05/2018",
+      "effective_date": "06/05/2018",
+      "state": "IA",
+      "workers": 84,
+      "city": "Sioux City"
+    },
+    {
+      "date": "04/05/2018",
+      "effective_date": "06/05/2018",
+      "state": "IA",
+      "workers": 84,
+      "city": "Des Moines"
+    },
+    {
+      "date": "04/05/2018",
+      "effective_date": "04/05/2018",
+      "state": "NE",
+      "workers": 356,
+      "city": "Omaha"
+    },
+    {
+      "date": "01/31/2018",
+      "effective_date": "04/01/2018",
+      "state": "WI",
+      "workers": 63,
+      "city": "Wausau"
+    },
+    {
+      "date": "01/31/2018",
+      "effective_date": "04/01/2018",
+      "state": "WI",
+      "workers": 75,
+      "city": "Appleton"
+    },
+    {
+      "date": "01/31/2018",
+      "effective_date": "03/02/2018",
+      "state": "IA",
+      "workers": 62,
+      "city": "Cedar Rapids"
+    },
+    {
+      "date": "01/08/1996",
+      "effective_date": "04/01/1996",
+      "state": "IL",
+      "workers": 170,
+      "city": "Rockford"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "region-2-mason-city-wib",
+      "name": "Region 2 - Mason City WIB",
+      "state": "IA"
+    },
+    {
+      "slug": "region-10-cedar-rapids-wib",
+      "name": "Region 10 - Cedar Rapids WIB",
+      "state": "IA"
+    },
+    {
+      "slug": "region-11-des-moines-wib",
+      "name": "Region 11 - Des Moines WIB",
+      "state": "IA"
+    },
+    {
+      "slug": "region-12-sioux-city-wib",
+      "name": "Region 12 - Sioux City WIB",
+      "state": "IA"
+    },
+    {
+      "slug": "omaha-consortium",
+      "name": "Omaha Consortium",
+      "state": "NE"
+    },
+    {
+      "slug": "lincoln-msa",
+      "name": "Lincoln MSA",
+      "state": "NE"
+    },
+    {
+      "slug": "grand-island-msa",
+      "name": "Grand Island MSA",
+      "state": "NE"
+    },
+    {
+      "slug": "sioux-falls-msa-wib",
+      "name": "Sioux Falls MSA WIB",
+      "state": "SD"
+    },
+    {
+      "slug": "north-central-wda-wi",
+      "name": "North Central WDA",
+      "state": "WI"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

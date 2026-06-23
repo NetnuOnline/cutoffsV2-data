@@ -1,0 +1,46 @@
+{
+  "slug": "jensen-usa",
+  "canonical_name": "JENSEN USA, Inc.",
+  "fein": "56-1226715",
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 130000.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 130000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Engineer",
+      "count": 2,
+      "median_wage_usd": 130000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "FL",
+      "county": "BAY",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "FL",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 130000.0,
+    "gap_usd": -160.0
+  }
+}

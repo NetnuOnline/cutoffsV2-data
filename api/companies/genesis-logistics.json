@@ -1,0 +1,54 @@
+{
+  "slug": "genesis-logistics",
+  "canonical_name": "Genesis Logistics",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 3,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "VA",
+      "count": 2
+    },
+    {
+      "state": "MD",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "12/12/2022",
+      "effective_date": "03/19/2023",
+      "state": "MD",
+      "workers": 50,
+      "city": "Baltimore"
+    },
+    {
+      "date": "10/18/2022",
+      "effective_date": "08/12/2023",
+      "state": "VA",
+      "workers": 35,
+      "city": "Richmond, VA"
+    },
+    {
+      "date": "10/18/2022",
+      "effective_date": "01/15/2022",
+      "state": "VA",
+      "workers": 86,
+      "city": "Franconia, VA"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "capital-region-workforce-partnership-lwia-ix",
+      "name": "Capital Region Workforce Partnership LWIA IX",
+      "state": "VA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

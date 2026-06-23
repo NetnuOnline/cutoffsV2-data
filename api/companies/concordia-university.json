@@ -1,0 +1,150 @@
+{
+  "slug": "concordia-university",
+  "canonical_name": "Concordia University, Inc.",
+  "fein": "39-0833608",
+  "lca_filing_count": 4,
+  "warn_notice_count": 8,
+  "median_wage_usd": 58780.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 3,
+      "median_wage_usd": 59560.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 58000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Assistant Professor of Mathematics",
+      "count": 1,
+      "median_wage_usd": 53500.0
+    },
+    {
+      "title": "Assistant Professor of Business, Chair, Quantitative Busines",
+      "count": 1,
+      "median_wage_usd": 80000.0
+    },
+    {
+      "title": "Assistant Professor of Theology",
+      "count": 1,
+      "median_wage_usd": 58000.0
+    },
+    {
+      "title": "Assistant Professor of Computer Science",
+      "count": 1,
+      "median_wage_usd": 59560.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "WI",
+      "count": 3
+    },
+    {
+      "state": "MI",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "WI",
+      "county": "OZAUKEE",
+      "count": 2
+    },
+    {
+      "state": "WI",
+      "county": "MILWAUKEE",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "county": "WASHTENAW",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "03/31/2025",
+      "effective_date": "05/31/2025",
+      "state": "WI",
+      "workers": 5,
+      "city": "Mequon"
+    },
+    {
+      "date": "03/31/2025",
+      "effective_date": "05/31/2025",
+      "state": "MI",
+      "workers": 41,
+      "city": "Ann Arbor, Michigan"
+    },
+    {
+      "date": "03/31/2025",
+      "effective_date": "03/31/2025",
+      "state": "MI",
+      "workers": 41,
+      "city": "Ann Arbor"
+    },
+    {
+      "date": "04/01/2024",
+      "effective_date": "05/31/2024",
+      "state": "WI",
+      "workers": 24,
+      "city": "Mequon"
+    },
+    {
+      "date": "04/01/2024",
+      "effective_date": "05/31/2024",
+      "state": "MI",
+      "workers": 6,
+      "city": "Ann Arbor, Michigan"
+    },
+    {
+      "date": "04/01/2024",
+      "effective_date": "04/01/2024",
+      "state": "MI",
+      "workers": 6,
+      "city": "Ann Arbor"
+    },
+    {
+      "date": "02/12/2020",
+      "effective_date": "04/25/2020",
+      "state": "OR",
+      "workers": 1012,
+      "city": "Portland"
+    },
+    {
+      "date": "02/12/2020",
+      "effective_date": "04/25/2020",
+      "state": "ID",
+      "workers": 93,
+      "city": "Boise"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "washtenaw-county-employment-training-and-community-services",
+      "name": "Washtenaw County Employment Training and Community Services",
+      "state": "MI"
+    },
+    {
+      "slug": "portland-metro-wia",
+      "name": "Portland Metro WIA",
+      "state": "OR"
+    },
+    {
+      "slug": "washington-ozaukee-waukesha-wda",
+      "name": "Washington-Ozaukee-Waukesha WDA",
+      "state": "WI"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": []
+}

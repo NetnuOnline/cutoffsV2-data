@@ -1,0 +1,123 @@
+{
+  "slug": "enervenue",
+  "canonical_name": "EnerVenue, Inc.",
+  "fein": "85-0697770",
+  "lca_filing_count": 5,
+  "warn_notice_count": 1,
+  "median_wage_usd": 104374.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 129641.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 117946.5
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 104374.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Battery Scientist",
+      "count": 1,
+      "median_wage_usd": 84282.0
+    },
+    {
+      "title": "Battery Test Engineer",
+      "count": 1,
+      "median_wage_usd": 104374.0
+    },
+    {
+      "title": "Senior Mechanical Engineer",
+      "count": 1,
+      "median_wage_usd": 175000.0
+    },
+    {
+      "title": "Staff Manufacturing Automation Engineer",
+      "count": 1,
+      "median_wage_usd": 102731.0
+    },
+    {
+      "title": "System Test Engineer",
+      "count": 1,
+      "median_wage_usd": 133162.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 4
+    },
+    {
+      "state": "MI",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 3
+    },
+    {
+      "state": "MI",
+      "county": "OAKLAND",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "09/04/2024",
+      "effective_date": "11/08/2024",
+      "state": "CA",
+      "workers": 65,
+      "city": "Fremont"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 6,
+    "continuing_denials": 0,
+    "total_approvals": 6,
+    "by_fy": [
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      }
+    ]
+  },
+  "lca_worker_positions": 5,
+  "top_socs": [],
+  "lca_periods": []
+}

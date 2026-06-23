@@ -1,0 +1,68 @@
+{
+  "slug": "adm",
+  "canonical_name": "ADM",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 3,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "KS",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "09/24/2021",
+      "effective_date": "09/24/2021",
+      "state": "KS",
+      "workers": 0,
+      "city": "Salina"
+    },
+    {
+      "date": "07/31/2009",
+      "effective_date": "07/31/2009",
+      "state": "NJ",
+      "workers": 54,
+      "city": "GLASSBORO"
+    },
+    {
+      "date": "01/18/2005",
+      "effective_date": "03/01/2005",
+      "state": "IL",
+      "workers": 53,
+      "city": "Granite City"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "career-link",
+      "name": "Career Link",
+      "state": "IL"
+    },
+    {
+      "slug": "local-area-i-western-wib",
+      "name": "Local Area I - Western WIB",
+      "state": "KS"
+    },
+    {
+      "slug": "gloucester-wib",
+      "name": "Gloucester WIB",
+      "state": "NJ"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

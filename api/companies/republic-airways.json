@@ -1,0 +1,62 @@
+{
+  "slug": "republic-airways",
+  "canonical_name": "Republic Airways Inc.",
+  "fein": "06-1562737",
+  "lca_filing_count": 3,
+  "lca_worker_positions": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 120000.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 117500.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 125000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Systems Integration Developer",
+      "count": 1,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "title": "IT Data Integration Developer, Senior",
+      "count": 1,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "title": "Data Integration Engineer (AWS)",
+      "count": 1,
+      "median_wage_usd": 120000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IN",
+      "county": "MARION",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IN",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 120000.0,
+    "gap_usd": -10160.0
+  }
+}

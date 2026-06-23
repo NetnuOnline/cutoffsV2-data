@@ -1,0 +1,88 @@
+{
+  "slug": "first-merchants-bank",
+  "canonical_name": "First Merchants Bank",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 1,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "IN",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "10/03/2013",
+      "effective_date": "12/06/2013",
+      "state": "IN",
+      "workers": 84,
+      "city": "Lake County"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2024-05-10",
+        "formType": "8-K",
+        "accessionNumber": "0000712534-24-000178",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000712534&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2020-12-17",
+        "formType": "8-K",
+        "accessionNumber": "0000712534-20-000321",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000712534&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2006-06-21",
+        "formType": "8-K",
+        "accessionNumber": "0000712534-06-000085",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000712534&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2006-04-28",
+        "formType": "8-K",
+        "accessionNumber": "0000712534-06-000076",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000712534&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 4,
+    "itemCounts": {
+      "5.02": 3,
+      "2.05": 1
+    },
+    "latestFilingDate": "2024-05-10",
+    "earliestFilingDate": "2006-04-28"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

@@ -1,0 +1,89 @@
+{
+  "slug": "nelson-nygaard-consulting-associates",
+  "canonical_name": "Nelson\\Nygaard Consulting Associates, Inc.",
+  "fein": "58-2592493",
+  "lca_filing_count": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 66165.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 61131.200000000004
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 66165.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 82763.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Transportation Planner",
+      "count": 2,
+      "median_wage_usd": 61131.200000000004
+    },
+    {
+      "title": "Associate Data Scientist",
+      "count": 1,
+      "median_wage_usd": 82763.0
+    },
+    {
+      "title": "Associate Transportation Planner",
+      "count": 1,
+      "median_wage_usd": 66165.0
+    },
+    {
+      "title": "Junior Transportation Planner",
+      "count": 1,
+      "median_wage_usd": 66165.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 2
+    },
+    {
+      "state": "FL",
+      "county": "SEMINOLE",
+      "count": 2
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "WA",
+      "count": 2
+    },
+    {
+      "state": "FL",
+      "count": 2
+    },
+    {
+      "state": "NY",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 82763.0,
+    "gap_usd": -25257.0
+  }
+}

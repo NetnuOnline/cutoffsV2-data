@@ -1,0 +1,43 @@
+{
+  "slug": "everest-insurance",
+  "canonical_name": "Everest Insurance",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "12/22/2025",
+      "effective_date": "06/30/2026",
+      "state": "IL",
+      "workers": 1,
+      "city": "Chicago"
+    },
+    {
+      "date": "12/22/2025",
+      "effective_date": "03/31/2026",
+      "state": "IL",
+      "workers": 37,
+      "city": "Chicago"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "chicago-cook-wib",
+      "name": "Chicago-Cook WIB",
+      "state": "IL"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

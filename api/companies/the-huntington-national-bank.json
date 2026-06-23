@@ -1,0 +1,203 @@
+{
+  "slug": "the-huntington-national-bank",
+  "canonical_name": "The Huntington National Bank",
+  "fein": "31-0966785",
+  "lca_filing_count": 152,
+  "lca_worker_positions": 144,
+  "warn_notice_count": 0,
+  "median_wage_usd": 119500.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 5,
+      "median_wage_usd": 97594.0
+    },
+    {
+      "fy": 2021,
+      "filings": 15,
+      "median_wage_usd": 117208.0
+    },
+    {
+      "fy": 2022,
+      "filings": 32,
+      "median_wage_usd": 114437.5
+    },
+    {
+      "fy": 2023,
+      "filings": 29,
+      "median_wage_usd": 117109.0
+    },
+    {
+      "fy": 2024,
+      "filings": 26,
+      "median_wage_usd": 118500.0
+    },
+    {
+      "fy": 2025,
+      "filings": 25,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 12,
+      "median_wage_usd": 125500.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "IS Technical Specialist",
+      "count": 57,
+      "median_wage_usd": 117109.0
+    },
+    {
+      "title": "Programmer/Analyst Senior",
+      "count": 10,
+      "median_wage_usd": 105500.0
+    },
+    {
+      "title": "Application Architect Senior",
+      "count": 5,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "IS Application Manager Senior",
+      "count": 4,
+      "median_wage_usd": 132518.5
+    },
+    {
+      "title": "QA Testing Analyst - Senior",
+      "count": 3,
+      "median_wage_usd": 113875.0
+    },
+    {
+      "title": "Automation Developer Analyst Senior",
+      "count": 3,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "Business Systems Analyst Senior",
+      "count": 3,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "title": "QA Testing Analyst Lead",
+      "count": 3,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "title": "Automation Developer Analyst Lead",
+      "count": 2,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "title": "Automation Developer Analyst",
+      "count": 2,
+      "median_wage_usd": 105405.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "OH",
+      "county": "FRANKLIN",
+      "count": 78
+    },
+    {
+      "state": "MN",
+      "county": "HENNEPIN",
+      "count": 16
+    },
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 3
+    },
+    {
+      "state": "FL",
+      "county": "DUVAL",
+      "count": 3
+    },
+    {
+      "state": "OH",
+      "county": "SUMMIT",
+      "count": 2
+    },
+    {
+      "state": "PA",
+      "county": "ERIE",
+      "count": 1
+    },
+    {
+      "state": "TN",
+      "county": "WILLIAMSON",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "FORT BEND",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "ORANGE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "OH",
+      "count": 110
+    },
+    {
+      "state": "MN",
+      "count": 18
+    },
+    {
+      "state": "TX",
+      "count": 9
+    },
+    {
+      "state": "FL",
+      "count": 3
+    },
+    {
+      "state": "PA",
+      "count": 3
+    },
+    {
+      "state": "VA",
+      "count": 1
+    },
+    {
+      "state": "TN",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "count": 1
+    },
+    {
+      "state": "MO",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 118054.5,
+    "gap_usd": -12105.5
+  }
+}

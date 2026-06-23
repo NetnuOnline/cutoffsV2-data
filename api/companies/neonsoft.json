@@ -1,0 +1,86 @@
+{
+  "slug": "neonsoft",
+  "canonical_name": "NEONSOFT INC",
+  "fein": "30-1283598",
+  "lca_filing_count": 8,
+  "lca_worker_positions": 8,
+  "warn_notice_count": 0,
+  "median_wage_usd": 108400.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 91655.0
+    },
+    {
+      "fy": 2025,
+      "filings": 5,
+      "median_wage_usd": 110200.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 113069.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "QA AUTOMATION ENGINEER",
+      "count": 3,
+      "median_wage_usd": 110200.0
+    },
+    {
+      "title": "SENIOR SOFTWARE DEVELOPER",
+      "count": 2,
+      "median_wage_usd": 116199.0
+    },
+    {
+      "title": "SOFTWARE DEVELOPER",
+      "count": 1,
+      "median_wage_usd": 101192.0
+    },
+    {
+      "title": "POWER BI CONSULTANT",
+      "count": 1,
+      "median_wage_usd": 113069.0
+    },
+    {
+      "title": "DATA ENGINEER",
+      "count": 1,
+      "median_wage_usd": 82118.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MN",
+      "county": "HENNEPIN",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 5
+    },
+    {
+      "state": "MN",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 106600.0,
+    "gap_usd": -23560.0
+  }
+}

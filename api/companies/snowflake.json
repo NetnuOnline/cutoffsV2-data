@@ -1,0 +1,203 @@
+{
+  "slug": "snowflake",
+  "canonical_name": "Snowflake Inc.",
+  "fein": "46-0636374",
+  "lca_filing_count": 489,
+  "lca_worker_positions": 1462,
+  "warn_notice_count": 0,
+  "median_wage_usd": 180710.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 45,
+      "median_wage_usd": 120931.0
+    },
+    {
+      "fy": 2021,
+      "filings": 28,
+      "median_wage_usd": 177500.0
+    },
+    {
+      "fy": 2022,
+      "filings": 62,
+      "median_wage_usd": 197500.0
+    },
+    {
+      "fy": 2023,
+      "filings": 20,
+      "median_wage_usd": 173500.0
+    },
+    {
+      "fy": 2024,
+      "filings": 138,
+      "median_wage_usd": 188000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 110,
+      "median_wage_usd": 180710.0
+    },
+    {
+      "fy": 2026,
+      "filings": 81,
+      "median_wage_usd": 187741.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 90,
+      "median_wage_usd": 173066.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 78,
+      "median_wage_usd": 203684.0
+    },
+    {
+      "title": "SENIOR SOFTWARE ENGINEER",
+      "count": 26,
+      "median_wage_usd": 223500.0
+    },
+    {
+      "title": "SOFTWARE ENGINEER",
+      "count": 15,
+      "median_wage_usd": 190000.0
+    },
+    {
+      "title": "Solutions Architect",
+      "count": 14,
+      "median_wage_usd": 146161.5
+    },
+    {
+      "title": "Senior Cloud Support Engineer",
+      "count": 10,
+      "median_wage_usd": 120432.0
+    },
+    {
+      "title": "Senior Solution Engineer",
+      "count": 10,
+      "median_wage_usd": 167627.0
+    },
+    {
+      "title": "Senior Product Manager",
+      "count": 9,
+      "median_wage_usd": 214000.0
+    },
+    {
+      "title": "Senior Software Security Engineer",
+      "count": 7,
+      "median_wage_usd": 145850.0
+    },
+    {
+      "title": "Senior Solutions Architect",
+      "count": 7,
+      "median_wage_usd": 161470.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SAN MATEO",
+      "count": 136
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 81
+    },
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 29
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 8
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 7
+    },
+    {
+      "state": "NJ",
+      "county": "HUDSON",
+      "count": 6
+    },
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 4
+    },
+    {
+      "state": "GA",
+      "county": "FORSYTH",
+      "count": 4
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 4
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 273
+    },
+    {
+      "state": "WA",
+      "count": 140
+    },
+    {
+      "state": "TX",
+      "count": 25
+    },
+    {
+      "state": "GA",
+      "count": 16
+    },
+    {
+      "state": "NJ",
+      "count": 8
+    },
+    {
+      "state": "NY",
+      "count": 4
+    },
+    {
+      "state": "PA",
+      "count": 4
+    },
+    {
+      "state": "MA",
+      "count": 4
+    },
+    {
+      "state": "MI",
+      "count": 4
+    },
+    {
+      "state": "NC",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 200000.0,
+    "gap_usd": 69840.0
+  }
+}

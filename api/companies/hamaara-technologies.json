@@ -1,0 +1,90 @@
+{
+  "slug": "hamaara-technologies",
+  "canonical_name": "HAMAARA TECHNOLOGIES LLC",
+  "fein": "88-0687139",
+  "lca_filing_count": 5,
+  "lca_worker_positions": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 155605.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 121597.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 155605.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 137280.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 161637.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SAP Ariba Technical CIG",
+      "count": 1,
+      "median_wage_usd": 161637.0
+    },
+    {
+      "title": "IT CONSULTANT",
+      "count": 1,
+      "median_wage_usd": 121597.0
+    },
+    {
+      "title": "Application Developer",
+      "count": 1,
+      "median_wage_usd": 112923.0
+    },
+    {
+      "title": "SOLUTIONS ARCHITECT",
+      "count": 1,
+      "median_wage_usd": 155605.0
+    },
+    {
+      "title": "Lead Software Engineer",
+      "count": 1,
+      "median_wage_usd": 161637.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 3
+    },
+    {
+      "state": "NE",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 158621.0,
+    "gap_usd": 28461.0
+  }
+}

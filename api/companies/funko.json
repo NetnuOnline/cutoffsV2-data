@@ -1,0 +1,160 @@
+{
+  "slug": "funko",
+  "canonical_name": "Funko, LLC",
+  "fein": null,
+  "lca_filing_count": 5,
+  "warn_notice_count": 1,
+  "median_wage_usd": 155106.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 155106.0
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 140920.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 148013.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Oracle Integration Engineer (OIC)",
+      "count": 2,
+      "median_wage_usd": 140920.0
+    },
+    {
+      "title": "ERP Architect",
+      "count": 2,
+      "median_wage_usd": 155106.0
+    },
+    {
+      "title": "Senior Technical Product Manager (ERP)",
+      "count": 1,
+      "median_wage_usd": 155106.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "WA",
+      "count": 5
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 3
+    },
+    {
+      "state": "WA",
+      "county": "SNOHOMISH",
+      "count": 2
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "04/07/2022",
+      "effective_date": "06/09/2022",
+      "state": "WA",
+      "workers": 258,
+      "city": "Everett, Puyallup"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "snohomish-county-wib",
+      "name": "Snohomish County WIB",
+      "state": "WA"
+    }
+  ],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2022-01-07",
+        "formType": "8-K/A",
+        "accessionNumber": "0001193125-22-004463",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001704711&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 1,
+    "itemCounts": {
+      "5.02": 1
+    },
+    "latestFilingDate": "2022-01-07",
+    "earliestFilingDate": "2022-01-07"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 5,
+    "continuing_denials": 0,
+    "total_approvals": 6,
+    "by_fy": [
+      {
+        "fy": 2010,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 5,
+  "top_socs": [],
+  "lca_periods": []
+}

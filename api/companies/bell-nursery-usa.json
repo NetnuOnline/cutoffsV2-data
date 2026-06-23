@@ -1,0 +1,48 @@
+{
+  "slug": "bell-nursery-usa",
+  "canonical_name": "Bell Nursery USA, LLC",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "MD",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "10/01/2025",
+      "effective_date": "11/28/2025",
+      "state": "MD",
+      "workers": 21,
+      "city": "Marydel"
+    },
+    {
+      "date": "09/25/2025",
+      "effective_date": "09/26/2025",
+      "state": "MD",
+      "workers": 42,
+      "city": "Elkridge"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "mid-maryland-wia",
+      "name": "MID-Maryland WIA",
+      "state": "MD"
+    },
+    {
+      "slug": "upper-shore-wia",
+      "name": "Upper Shore WIA",
+      "state": "MD"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

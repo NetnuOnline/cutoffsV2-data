@@ -1,0 +1,80 @@
+{
+  "slug": "montgomery-wards",
+  "canonical_name": "Montgomery Wards",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 7,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "OK",
+      "count": 5
+    },
+    {
+      "state": "OR",
+      "count": 1
+    },
+    {
+      "state": "KS",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "01/20/2001",
+      "effective_date": "01/20/2001",
+      "state": "OK",
+      "workers": 154,
+      "city": "05 - CentralRegion"
+    },
+    {
+      "date": "01/19/2001",
+      "effective_date": "01/19/2001",
+      "state": "OK",
+      "workers": 129,
+      "city": "05 - CentralRegion"
+    },
+    {
+      "date": "01/18/2001",
+      "effective_date": "01/18/2001",
+      "state": "OK",
+      "workers": 108,
+      "city": "06 - SouthCentralRegion"
+    },
+    {
+      "date": "01/17/2001",
+      "effective_date": "03/13/2001",
+      "state": "OR",
+      "workers": 902,
+      "city": null
+    },
+    {
+      "date": "01/17/2001",
+      "effective_date": "01/17/2001",
+      "state": "OK",
+      "workers": 173,
+      "city": "05 - CentralRegion"
+    },
+    {
+      "date": "01/16/2001",
+      "effective_date": "01/16/2001",
+      "state": "OK",
+      "workers": 89,
+      "city": "08 - SouthernRegion"
+    },
+    {
+      "date": "01/12/2001",
+      "effective_date": "01/12/2001",
+      "state": "KS",
+      "workers": 122,
+      "city": "2 - Workforce Investment Area II"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

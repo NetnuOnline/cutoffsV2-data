@@ -1,0 +1,118 @@
+{
+  "slug": "ikon-software-services",
+  "canonical_name": "IKON Software Services",
+  "fein": "38-3628992",
+  "lca_filing_count": 12,
+  "lca_worker_positions": 12,
+  "warn_notice_count": 0,
+  "median_wage_usd": 109281.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 88000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 124000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 109262.0
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 113000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 4,
+      "median_wage_usd": 119601.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 6,
+      "median_wage_usd": 111423.5
+    },
+    {
+      "title": "Oracle EPM Technofunctional Lead",
+      "count": 2,
+      "median_wage_usd": 107203.0
+    },
+    {
+      "title": "Oracle EPM Consultant/Analyst",
+      "count": 2,
+      "median_wage_usd": 120601.5
+    },
+    {
+      "title": "Sr. Programmer Analyst",
+      "count": 1,
+      "median_wage_usd": 88000.0
+    },
+    {
+      "title": "Hexagon Configuration Consultant",
+      "count": 1,
+      "median_wage_usd": 113000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NC",
+      "county": "WAKE",
+      "count": 2
+    },
+    {
+      "state": "OH",
+      "county": "FRANKLIN",
+      "count": 1
+    },
+    {
+      "state": "UT",
+      "county": "SALT LAKE",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NC",
+      "count": 5
+    },
+    {
+      "state": "CA",
+      "count": 4
+    },
+    {
+      "state": "UT",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "count": 1
+    },
+    {
+      "state": "OH",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 109300.0,
+    "gap_usd": -20860.0
+  }
+}

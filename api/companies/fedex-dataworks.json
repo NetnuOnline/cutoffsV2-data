@@ -1,0 +1,193 @@
+{
+  "slug": "fedex-dataworks",
+  "canonical_name": "FedEx Dataworks, Inc.",
+  "fein": "87-1450120",
+  "lca_filing_count": 104,
+  "lca_worker_positions": 104,
+  "warn_notice_count": 0,
+  "median_wage_usd": 119533.5,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 25,
+      "median_wage_usd": 110197.44
+    },
+    {
+      "fy": 2023,
+      "filings": 15,
+      "median_wage_usd": 124160.0
+    },
+    {
+      "fy": 2024,
+      "filings": 44,
+      "median_wage_usd": 119520.0
+    },
+    {
+      "fy": 2025,
+      "filings": 12,
+      "median_wage_usd": 135760.0
+    },
+    {
+      "fy": 2026,
+      "filings": 8,
+      "median_wage_usd": 143357.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Data Scientist III",
+      "count": 12,
+      "median_wage_usd": 116149.0
+    },
+    {
+      "title": "Data Scientist Lead",
+      "count": 11,
+      "median_wage_usd": 136662.0
+    },
+    {
+      "title": "Software Engineer III",
+      "count": 7,
+      "median_wage_usd": 123656.0
+    },
+    {
+      "title": "Software Engineer Lead",
+      "count": 7,
+      "median_wage_usd": 116106.0
+    },
+    {
+      "title": "Data Engineer III",
+      "count": 7,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "Data Engineer Lead",
+      "count": 6,
+      "median_wage_usd": 135237.5
+    },
+    {
+      "title": "Platform Engineer Lead",
+      "count": 6,
+      "median_wage_usd": 134931.0
+    },
+    {
+      "title": "Data Scientist II",
+      "count": 6,
+      "median_wage_usd": 112230.0
+    },
+    {
+      "title": "Product Manager Lead",
+      "count": 4,
+      "median_wage_usd": 144428.5
+    },
+    {
+      "title": "Product Designer Lead",
+      "count": 2,
+      "median_wage_usd": 115000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TN",
+      "county": "SHELBY",
+      "count": 25
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 8
+    },
+    {
+      "state": "WI",
+      "county": "WAUKESHA",
+      "count": 6
+    },
+    {
+      "state": "AR",
+      "county": "BOONE",
+      "count": 5
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 4
+    },
+    {
+      "state": "NC",
+      "county": "WAKE",
+      "count": 4
+    },
+    {
+      "state": "OH",
+      "county": "HAMILTON",
+      "count": 3
+    },
+    {
+      "state": "PA",
+      "county": "ALLEGHENY",
+      "count": 3
+    },
+    {
+      "state": "VA",
+      "county": "FAIRFAX",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "county": "HUDSON",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TN",
+      "count": 27
+    },
+    {
+      "state": "TX",
+      "count": 17
+    },
+    {
+      "state": "IL",
+      "count": 7
+    },
+    {
+      "state": "AR",
+      "count": 7
+    },
+    {
+      "state": "FL",
+      "count": 6
+    },
+    {
+      "state": "WA",
+      "count": 6
+    },
+    {
+      "state": "WI",
+      "count": 6
+    },
+    {
+      "state": "NJ",
+      "count": 4
+    },
+    {
+      "state": "NC",
+      "count": 4
+    },
+    {
+      "state": "PA",
+      "count": 4
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 119814.5,
+    "gap_usd": 11794.5
+  }
+}

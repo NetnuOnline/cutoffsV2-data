@@ -1,0 +1,135 @@
+{
+  "slug": "altudo",
+  "canonical_name": "Altudo LLC",
+  "fein": "90-0356565",
+  "lca_filing_count": 10,
+  "warn_notice_count": 0,
+  "median_wage_usd": 145304.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 122500.0
+    },
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 154000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 140608.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Technical Lead",
+      "count": 2,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "Solutions Architect",
+      "count": 2,
+      "median_wage_usd": 154000.0
+    },
+    {
+      "title": "Senior Program Manager",
+      "count": 1,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "title": "Senior Director of Technology",
+      "count": 1,
+      "median_wage_usd": 187200.0
+    },
+    {
+      "title": "Associate Lead- Sitecore",
+      "count": 1,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "title": "Program Director",
+      "count": 1,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "title": "Lead- Sitecore",
+      "count": 1,
+      "median_wage_usd": 140608.0
+    },
+    {
+      "title": "Senior Vice President- Sales",
+      "count": 1,
+      "median_wage_usd": 190000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 5
+    },
+    {
+      "state": "PA",
+      "county": "PHILADELPHIA",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 5
+    },
+    {
+      "state": "PA",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 3,
+    "initial_denials": 0,
+    "continuing_approvals": 1,
+    "continuing_denials": 0,
+    "total_approvals": 4,
+    "by_fy": [
+      {
+        "fy": 2021,
+        "initial_approvals": 3,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 4
+      }
+    ]
+  },
+  "lca_worker_positions": 10,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 140608.0,
+    "gap_usd": 10448.0
+  }
+}

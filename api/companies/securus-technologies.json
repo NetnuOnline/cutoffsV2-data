@@ -1,0 +1,62 @@
+{
+  "slug": "securus-technologies",
+  "canonical_name": "Securus Technologies LLC",
+  "fein": "75-2722144",
+  "lca_filing_count": 3,
+  "lca_worker_positions": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 120328.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 104951.985
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 156998.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer Lead",
+      "count": 1,
+      "median_wage_usd": 120328.0
+    },
+    {
+      "title": "Principal Engineer",
+      "count": 1,
+      "median_wage_usd": 156998.0
+    },
+    {
+      "title": "Corporate Tax Accountant",
+      "count": 1,
+      "median_wage_usd": 89575.97
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 138663.0,
+    "gap_usd": 8503.0
+  }
+}

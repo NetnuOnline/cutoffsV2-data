@@ -1,0 +1,79 @@
+{
+  "slug": "princeton-it-america",
+  "canonical_name": "PRINCETON IT AMERICA, INC.",
+  "fein": "85-3274308",
+  "lca_filing_count": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 85675.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 81816.5
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 106000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "COMPUTER SYSTEM VALIDATION ENGINEER",
+      "count": 1,
+      "median_wage_usd": 85675.0
+    },
+    {
+      "title": "DEVELOPER",
+      "count": 1,
+      "median_wage_usd": 106000.0
+    },
+    {
+      "title": ".NET DEVELOPER",
+      "count": 1,
+      "median_wage_usd": 77958.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "county": "CUMBERLAND",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "county": "INGHAM",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "AZ",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 91979.0,
+    "gap_usd": -38181.0
+  }
+}

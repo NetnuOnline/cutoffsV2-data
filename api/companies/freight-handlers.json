@@ -1,0 +1,70 @@
+{
+  "slug": "freight-handlers",
+  "canonical_name": "Freight Handlers, LLC",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 4,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "CT",
+      "count": 2
+    },
+    {
+      "state": "AZ",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "08/20/2025",
+      "effective_date": "08/20/2025",
+      "state": "AZ",
+      "workers": 0,
+      "city": "Phoenix"
+    },
+    {
+      "date": "01/31/2024",
+      "effective_date": "03/31/2024",
+      "state": "CT",
+      "workers": 383,
+      "city": "Manchester"
+    },
+    {
+      "date": "01/01/2024",
+      "effective_date": "03/31/2024",
+      "state": "CT",
+      "workers": 383,
+      "city": "Manchester"
+    },
+    {
+      "date": "02/10/2015",
+      "effective_date": "04/18/2015",
+      "state": "VA",
+      "workers": 65,
+      "city": "Disputanta, VA"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "city-of-phoenix-lwib",
+      "name": "City of Phoenix LWIB",
+      "state": "AZ"
+    },
+    {
+      "slug": "north-central-wia-ct",
+      "name": "North Central WIA",
+      "state": "CT"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

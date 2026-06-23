@@ -1,0 +1,229 @@
+{
+  "slug": "transnational-software-services",
+  "canonical_name": "TRANSNATIONAL SOFTWARE SERVICES INC",
+  "fein": "45-0642521",
+  "lca_filing_count": 17,
+  "warn_notice_count": 0,
+  "median_wage_usd": 85738.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 74194.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 86361.5
+    },
+    {
+      "fy": 2023,
+      "filings": 4,
+      "median_wage_usd": 92258.5
+    },
+    {
+      "fy": 2024,
+      "filings": 6,
+      "median_wage_usd": 95867.5
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 97386.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Data Engineer",
+      "count": 2,
+      "median_wage_usd": 90740.0
+    },
+    {
+      "title": "SDET / Automation Test Engineer",
+      "count": 2,
+      "median_wage_usd": 78988.0
+    },
+    {
+      "title": "Sr Java Big Data Engineer",
+      "count": 2,
+      "median_wage_usd": 74194.0
+    },
+    {
+      "title": "Java Developer",
+      "count": 2,
+      "median_wage_usd": 98124.0
+    },
+    {
+      "title": "Cyber Security Analyst",
+      "count": 1,
+      "median_wage_usd": 112195.0
+    },
+    {
+      "title": "Data Integration Developer",
+      "count": 1,
+      "median_wage_usd": 101192.0
+    },
+    {
+      "title": "Backend Engineer",
+      "count": 1,
+      "median_wage_usd": 132579.0
+    },
+    {
+      "title": "Sr Data Engineer",
+      "count": 1,
+      "median_wage_usd": 78978.0
+    },
+    {
+      "title": "Application Developer",
+      "count": 1,
+      "median_wage_usd": 105997.0
+    },
+    {
+      "title": "Sr. Java Developer",
+      "count": 1,
+      "median_wage_usd": 98904.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "FL",
+      "county": "ORANGE",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 3
+    },
+    {
+      "state": "MI",
+      "county": "INGHAM",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 1
+    },
+    {
+      "state": "CT",
+      "county": "NEW HAVEN CITY",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "county": "MECKLENBURG",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SAN JOAQUIN",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 5
+    },
+    {
+      "state": "FL",
+      "count": 3
+    },
+    {
+      "state": "MI",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "count": 2
+    },
+    {
+      "state": "GA",
+      "count": 1
+    },
+    {
+      "state": "CT",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "count": 1
+    },
+    {
+      "state": "MO",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 21,
+    "initial_denials": 1,
+    "continuing_approvals": 10,
+    "continuing_denials": 0,
+    "total_approvals": 31,
+    "by_fy": [
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 12,
+        "initial_denials": 1,
+        "continuing_approvals": 4,
+        "continuing_denials": 0,
+        "total_approvals": 16
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 9,
+        "initial_denials": 0,
+        "continuing_approvals": 5,
+        "continuing_denials": 0,
+        "total_approvals": 14
+      }
+    ]
+  },
+  "lca_worker_positions": 17,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 97386.0,
+    "gap_usd": -32774.0
+  }
+}

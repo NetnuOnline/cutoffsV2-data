@@ -1,0 +1,109 @@
+{
+  "slug": "neurasol",
+  "canonical_name": "NEURASOL, INC.",
+  "fein": "87-3369439",
+  "lca_filing_count": 9,
+  "lca_worker_positions": 9,
+  "warn_notice_count": 0,
+  "median_wage_usd": 104400.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 101700.0
+    },
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 108826.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 90600.0
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 109845.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SOFTWARE DEVELOPER",
+      "count": 4,
+      "median_wage_usd": 96150.0
+    },
+    {
+      "title": "SALESFORCE BUSINESS ANALYST",
+      "count": 1,
+      "median_wage_usd": 104400.0
+    },
+    {
+      "title": "APPLICATION DEVELOPER",
+      "count": 1,
+      "median_wage_usd": 122699.0
+    },
+    {
+      "title": "PYTHON DEVELOPER",
+      "count": 1,
+      "median_wage_usd": 109845.0
+    },
+    {
+      "title": "PRODUCT OWNER",
+      "count": 1,
+      "median_wage_usd": 144000.0
+    },
+    {
+      "title": "REACT DEVELOPER",
+      "count": 1,
+      "median_wage_usd": 99000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "VA",
+      "county": "FAIRFAX",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 1
+    },
+    {
+      "state": "OR",
+      "county": "WASHINGTON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 5
+    },
+    {
+      "state": "VA",
+      "count": 2
+    },
+    {
+      "state": "PA",
+      "count": 1
+    },
+    {
+      "state": "OR",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 101700.0,
+    "gap_usd": -28460.0
+  }
+}

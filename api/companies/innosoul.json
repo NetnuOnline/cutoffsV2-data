@@ -1,0 +1,109 @@
+{
+  "slug": "innosoul",
+  "canonical_name": "innoSoul Inc",
+  "fein": "20-0098882",
+  "lca_filing_count": 11,
+  "lca_worker_positions": 10,
+  "warn_notice_count": 0,
+  "median_wage_usd": 96000.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 5,
+      "median_wage_usd": 90397.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 106215.5
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 103605.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "WTX / WPS Developer",
+      "count": 4,
+      "median_wage_usd": 97947.5
+    },
+    {
+      "title": "Sharepoint Developer",
+      "count": 2,
+      "median_wage_usd": 90397.0
+    },
+    {
+      "title": "Technical Architect",
+      "count": 2,
+      "median_wage_usd": 95139.5
+    },
+    {
+      "title": "Software Developer",
+      "count": 1,
+      "median_wage_usd": 114754.0
+    },
+    {
+      "title": "Curam Developer",
+      "count": 1,
+      "median_wage_usd": 121222.0
+    },
+    {
+      "title": "Computer Programmer",
+      "count": 1,
+      "median_wage_usd": 96000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MN",
+      "county": "RAMSEY",
+      "count": 3
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "county": "ALBANY",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MN",
+      "count": 4
+    },
+    {
+      "state": "IL",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "count": 3
+    },
+    {
+      "state": "NY",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 106215.5,
+    "gap_usd": -23944.5
+  }
+}

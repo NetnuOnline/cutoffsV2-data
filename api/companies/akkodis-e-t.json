@@ -1,0 +1,74 @@
+{
+  "slug": "akkodis-e-t",
+  "canonical_name": "Akkodis E&T, LLC",
+  "fein": null,
+  "lca_filing_count": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 119600.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 4,
+      "median_wage_usd": 119600.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SOFTWARE ENGINEER",
+      "count": 2,
+      "median_wage_usd": 119600.0
+    },
+    {
+      "title": "Engineering Project Specialist",
+      "count": 1,
+      "median_wage_usd": 72800.0
+    },
+    {
+      "title": "ITAS ADMINISTRATOR",
+      "count": 1,
+      "median_wage_usd": 135200.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 2
+    },
+    {
+      "state": "MI",
+      "county": "WAYNE",
+      "count": 1
+    },
+    {
+      "state": "IN",
+      "county": "KOSCIUSKO",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "MI",
+      "count": 1
+    },
+    {
+      "state": "IN",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 119600.0,
+    "gap_usd": -10560.0
+  }
+}

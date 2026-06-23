@@ -1,0 +1,94 @@
+{
+  "slug": "cds-global",
+  "canonical_name": "CDS Global, Inc.",
+  "fein": "13-3127783",
+  "lca_filing_count": 6,
+  "lca_worker_positions": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 133421.7,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 85571.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 153525.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 113318.4
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 154564.8,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Data Engineer",
+      "count": 3,
+      "median_wage_usd": 153525.0
+    },
+    {
+      "title": "Automation Engineer",
+      "count": 2,
+      "median_wage_usd": 85571.0
+    },
+    {
+      "title": "Senior Systems Consultant",
+      "count": 1,
+      "median_wage_usd": 113318.4
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IA",
+      "county": "POLK",
+      "count": 3
+    },
+    {
+      "state": "NJ",
+      "county": "MIDDLESEX",
+      "count": 1
+    },
+    {
+      "state": "OH",
+      "county": "FRANKLIN",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IA",
+      "count": 3
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    },
+    {
+      "state": "OH",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 153525.0,
+    "gap_usd": 45505.0
+  }
+}

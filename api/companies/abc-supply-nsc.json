@@ -1,0 +1,102 @@
+{
+  "slug": "abc-supply-nsc",
+  "canonical_name": "ABC Supply NSC, LLC",
+  "fein": "33-1514687",
+  "lca_filing_count": 10,
+  "lca_worker_positions": 9,
+  "warn_notice_count": 0,
+  "median_wage_usd": 129000.0,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 4,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 5,
+      "median_wage_usd": 128000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "IT Product Owner",
+      "count": 2,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "IT Quality Assurance Lead",
+      "count": 2,
+      "median_wage_usd": 128000.0
+    },
+    {
+      "title": "IT Senior Data Engineer",
+      "count": 2,
+      "median_wage_usd": 139000.0
+    },
+    {
+      "title": "IT Senior Database Engineer",
+      "count": 1,
+      "median_wage_usd": 133000.0
+    },
+    {
+      "title": "Data Warehouse Engineer",
+      "count": 1,
+      "median_wage_usd": 118000.0
+    },
+    {
+      "title": "Manufacturing Engineer",
+      "count": 1,
+      "median_wage_usd": 84000.0
+    },
+    {
+      "title": "Quality Assurance Lead",
+      "count": 1,
+      "median_wage_usd": 123000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 3
+    },
+    {
+      "state": "VA",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "count": 2
+    },
+    {
+      "state": "NC",
+      "count": 1
+    },
+    {
+      "state": "WI",
+      "count": 1
+    },
+    {
+      "state": "KS",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1253",
+    "soc_title": "Software Quality Assurance Analysts and Testers",
+    "market_median_usd": 101800.0,
+    "employer_median_usd": 128000.0,
+    "gap_usd": 26200.0
+  }
+}

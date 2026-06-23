@@ -1,0 +1,88 @@
+{
+  "slug": "astra-space",
+  "canonical_name": "Astra Space",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 6,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "CO",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "count": 2
+    },
+    {
+      "state": "FL",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "08/07/2023",
+      "effective_date": "08/04/2023",
+      "state": "CO",
+      "workers": 61,
+      "city": "Unknown"
+    },
+    {
+      "date": "11/10/2022",
+      "effective_date": "11/09/2022",
+      "state": "FL",
+      "workers": 1,
+      "city": "ROCKLEDGE"
+    },
+    {
+      "date": "11/09/2022",
+      "effective_date": "11/09/2022",
+      "state": "WA",
+      "workers": 1,
+      "city": "Olympia"
+    },
+    {
+      "date": "11/09/2022",
+      "effective_date": "11/09/2022",
+      "state": "CA",
+      "workers": 1,
+      "city": "Mountain View"
+    },
+    {
+      "date": "11/09/2022",
+      "effective_date": "11/09/2022",
+      "state": "CA",
+      "workers": 63,
+      "city": "Alameda"
+    },
+    {
+      "date": "11/09/2022",
+      "effective_date": "11/09/2022",
+      "state": "CO",
+      "workers": 1,
+      "city": "Pikes Peak/Teller"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "careersource-brevard",
+      "name": "CareerSource Brevard",
+      "state": "FL"
+    },
+    {
+      "slug": "pacific-mountain-wib",
+      "name": "Pacific Mountain WIB",
+      "state": "WA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

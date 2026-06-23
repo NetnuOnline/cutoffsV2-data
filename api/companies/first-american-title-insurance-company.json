@@ -1,0 +1,157 @@
+{
+  "slug": "first-american-title-insurance-company",
+  "canonical_name": "First American Title Insurance Company",
+  "fein": "95-2566122",
+  "lca_filing_count": 28,
+  "lca_worker_positions": 28,
+  "warn_notice_count": 0,
+  "median_wage_usd": 132592.5,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 4,
+      "median_wage_usd": 122600.5
+    },
+    {
+      "fy": 2021,
+      "filings": 6,
+      "median_wage_usd": 126549.5
+    },
+    {
+      "fy": 2022,
+      "filings": 4,
+      "median_wage_usd": 139623.0
+    },
+    {
+      "fy": 2023,
+      "filings": 5,
+      "median_wage_usd": 129854.0
+    },
+    {
+      "fy": 2025,
+      "filings": 6,
+      "median_wage_usd": 150320.0
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 155684.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SENIOR DATA ENGINEER",
+      "count": 3,
+      "median_wage_usd": 140917.0
+    },
+    {
+      "title": "TECHNICAL PRODUCT MANAGER",
+      "count": 2,
+      "median_wage_usd": 69617.5
+    },
+    {
+      "title": "IT APPLICATIONS MANAGER",
+      "count": 2,
+      "median_wage_usd": 120172.0
+    },
+    {
+      "title": "SENIOR SOFTWARE ENGINEER",
+      "count": 2,
+      "median_wage_usd": 118054.0
+    },
+    {
+      "title": "SENIOR ANALYTICS ENGINEER",
+      "count": 2,
+      "median_wage_usd": 130083.0
+    },
+    {
+      "title": "SENIOR BUSINESS INTELLIGENCE ENGINEER",
+      "count": 1,
+      "median_wage_usd": 128867.0
+    },
+    {
+      "title": "FINANCIAL APPLICATIONS ARCHITECT",
+      "count": 1,
+      "median_wage_usd": 99632.0
+    },
+    {
+      "title": "LEAD ENTERPRISE IAM DEVELOPER",
+      "count": 1,
+      "median_wage_usd": 142667.0
+    },
+    {
+      "title": "SENIOR BUSINESS INTELLIGENCE ENGINEER ",
+      "count": 1,
+      "median_wage_usd": 115395.0
+    },
+    {
+      "title": "SENIOR IT APPLICATIONS MANAGER",
+      "count": 1,
+      "median_wage_usd": 172192.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "ORANGE",
+      "count": 16
+    },
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 2
+    },
+    {
+      "state": "NC",
+      "county": "GUILFORD",
+      "count": 2
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SAN DIEGO",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 19
+    },
+    {
+      "state": "NJ",
+      "count": 3
+    },
+    {
+      "state": "NC",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "FL",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 139663.0,
+    "gap_usd": 9503.0
+  }
+}

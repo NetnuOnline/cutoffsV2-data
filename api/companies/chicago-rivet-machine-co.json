@@ -1,0 +1,64 @@
+{
+  "slug": "chicago-rivet-machine-co",
+  "canonical_name": "Chicago RIvet & Machine Co",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "IA",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "06/28/2024",
+      "effective_date": "10/31/2024",
+      "state": "IA",
+      "workers": 19,
+      "city": "Albia"
+    },
+    {
+      "date": "06/28/2024",
+      "effective_date": "10/31/2024",
+      "state": "IA",
+      "workers": 19,
+      "city": "Albia"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "region-15-ottumwa-wib",
+      "name": "Region 15 - Ottumwa WIB",
+      "state": "IA"
+    }
+  ],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2006-06-01",
+        "formType": "8-K",
+        "accessionNumber": "0001341004-06-001598",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000019871&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 1,
+    "itemCounts": {
+      "2.05": 1
+    },
+    "latestFilingDate": "2006-06-01",
+    "earliestFilingDate": "2006-06-01"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

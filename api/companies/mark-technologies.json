@@ -1,0 +1,95 @@
+{
+  "slug": "mark-technologies",
+  "canonical_name": "Mark Technologies Inc",
+  "fein": "85-3287634",
+  "lca_filing_count": 4,
+  "lca_worker_positions": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 82673.5,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 61547.0
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 96000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 69347.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 105747.20000000001,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "TECHNICAL BUSINESS ANALYST",
+      "count": 1,
+      "median_wage_usd": 69347.0
+    },
+    {
+      "title": "Data Scientist",
+      "count": 1,
+      "median_wage_usd": 105747.20000000001
+    },
+    {
+      "title": "Senior Quality Assurance Engineer ",
+      "count": 1,
+      "median_wage_usd": 61547.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 1,
+      "median_wage_usd": 96000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "county": "BROWARD",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "county": "LEON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "FL",
+      "count": 2
+    },
+    {
+      "state": "NC",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1211",
+    "soc_title": "Computer Systems Analysts",
+    "market_median_usd": 103800.0,
+    "employer_median_usd": 69347.0,
+    "gap_usd": -34453.0
+  }
+}

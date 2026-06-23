@@ -1,0 +1,70 @@
+{
+  "slug": "unit-rig-terex",
+  "canonical_name": "Unit Rig/Terex",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "OK",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "06/01/2002",
+      "effective_date": "06/01/2002",
+      "state": "OK",
+      "workers": 37,
+      "city": null
+    },
+    {
+      "date": "05/28/2002",
+      "effective_date": "05/28/2002",
+      "state": "OK",
+      "workers": 31,
+      "city": null
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2023-10-17",
+        "formType": "8-K",
+        "accessionNumber": "0000097216-23-000193",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000097216&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2013-05-14",
+        "formType": "8-K",
+        "accessionNumber": "0000097216-13-000148",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000097216&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 2,
+    "itemCounts": {
+      "5.02": 2
+    },
+    "latestFilingDate": "2023-10-17",
+    "earliestFilingDate": "2013-05-14"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

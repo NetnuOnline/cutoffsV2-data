@@ -1,0 +1,71 @@
+{
+  "slug": "bptek",
+  "canonical_name": "BPTEK LLC",
+  "fein": "47-2833647",
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 124737.6,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 124737.59999999999
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Oracle Techno Functional Consultant",
+      "count": 2,
+      "median_wage_usd": 124737.59999999999
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MD",
+      "county": "BALTIMORE CITY",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MD",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 3,
+    "initial_denials": 0,
+    "continuing_approvals": 0,
+    "continuing_denials": 0,
+    "total_approvals": 3,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 124737.6,
+    "gap_usd": -5422.4
+  }
+}

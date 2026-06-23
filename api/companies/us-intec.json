@@ -1,0 +1,47 @@
+{
+  "slug": "us-intec",
+  "canonical_name": "US INTEC",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "OR",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "09/15/2000",
+      "effective_date": "11/13/2000",
+      "state": "OR",
+      "workers": 25,
+      "city": "CORVALLIS"
+    },
+    {
+      "date": "09/13/2000",
+      "effective_date": "11/13/2000",
+      "state": "TX",
+      "workers": 122,
+      "city": "Port Arthur"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "northwest-oregon-wia",
+      "name": "Northwest Oregon WIA",
+      "state": "OR"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

@@ -1,0 +1,87 @@
+{
+  "slug": "cloudian",
+  "canonical_name": "Cloudian, Inc.",
+  "fein": "90-0823821",
+  "lca_filing_count": 7,
+  "lca_worker_positions": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 126422.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 4,
+      "median_wage_usd": 126422.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 166258.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Technical Support Engineer",
+      "count": 2,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "title": "Senior QA Engineer",
+      "count": 2,
+      "median_wage_usd": 126422.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 1,
+      "median_wage_usd": 167300.0
+    },
+    {
+      "title": "Principal Technical Support Engineer",
+      "count": 1,
+      "median_wage_usd": 166258.0
+    },
+    {
+      "title": "QA Engineer",
+      "count": 1,
+      "median_wage_usd": 116000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SAN MATEO",
+      "count": 3
+    },
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 7
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1253",
+    "soc_title": "Software Quality Assurance Analysts and Testers",
+    "market_median_usd": 101800.0,
+    "employer_median_usd": 126422.0,
+    "gap_usd": 24622.0
+  }
+}

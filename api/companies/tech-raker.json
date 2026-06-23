@@ -1,0 +1,80 @@
+{
+  "slug": "tech-raker",
+  "canonical_name": "Tech Raker, Inc.",
+  "fein": "47-2268464",
+  "lca_filing_count": 7,
+  "warn_notice_count": 0,
+  "median_wage_usd": 111363.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 7,
+      "median_wage_usd": 111363.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Quality Assurance Analyst",
+      "count": 2,
+      "median_wage_usd": 94203.0
+    },
+    {
+      "title": "QA Analyst",
+      "count": 2,
+      "median_wage_usd": 111363.0
+    },
+    {
+      "title": "ML Data Engineer",
+      "count": 2,
+      "median_wage_usd": 146307.0
+    },
+    {
+      "title": "Senior Systems Engineer",
+      "count": 1,
+      "median_wage_usd": 114920.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NC",
+      "county": "WAKE",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "PLACER",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 5
+    },
+    {
+      "state": "NC",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 7,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1253",
+    "soc_title": "Software Quality Assurance Analysts and Testers",
+    "market_median_usd": 101800.0,
+    "employer_median_usd": 102783.0,
+    "gap_usd": 983.0
+  }
+}

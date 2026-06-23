@@ -1,0 +1,72 @@
+{
+  "slug": "barnard-college",
+  "canonical_name": "Barnard College",
+  "fein": "13-1628149",
+  "lca_filing_count": 5,
+  "lca_worker_positions": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 69492.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 62000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 102128.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 99985.6
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 69302.695,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Postdoctoral Fellow",
+      "count": 3,
+      "median_wage_usd": 69113.39
+    },
+    {
+      "title": "Adjunct Assistant Professor - Biological Sciences",
+      "count": 1,
+      "median_wage_usd": 102128.0
+    },
+    {
+      "title": "Visiting Professor of History",
+      "count": 1,
+      "median_wage_usd": 99985.6
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 5
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 69113.39,
+    "gap_usd": -38906.61
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "slug": "it-advanz",
+  "canonical_name": "IT ADVANZ LLC",
+  "fein": "87-2113857",
+  "lca_filing_count": 25,
+  "lca_worker_positions": 25,
+  "warn_notice_count": 0,
+  "median_wage_usd": 101200.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 7,
+      "median_wage_usd": 99000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 101200.0
+    },
+    {
+      "fy": 2025,
+      "filings": 6,
+      "median_wage_usd": 109000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 11,
+      "median_wage_usd": 92581.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SALESFORCE DEVELOPER",
+      "count": 4,
+      "median_wage_usd": 99000.0
+    },
+    {
+      "title": "AI Engineer",
+      "count": 2,
+      "median_wage_usd": 112961.5
+    },
+    {
+      "title": "Data Warehouse Engineer",
+      "count": 2,
+      "median_wage_usd": 114500.0
+    },
+    {
+      "title": "Functional Consultant",
+      "count": 2,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "title": "Architect",
+      "count": 2,
+      "median_wage_usd": 71600.0
+    },
+    {
+      "title": "UI DEVELOPER",
+      "count": 2,
+      "median_wage_usd": 109500.0
+    },
+    {
+      "title": "Quality Analyst",
+      "count": 2,
+      "median_wage_usd": 89500.0
+    },
+    {
+      "title": "UI DEVELOPER ",
+      "count": 1,
+      "median_wage_usd": 109500.0
+    },
+    {
+      "title": "Advisory Specialist Senior",
+      "count": 1,
+      "median_wage_usd": 85000.0
+    },
+    {
+      "title": "AI Systems Engineer",
+      "count": 1,
+      "median_wage_usd": 92581.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 4
+    },
+    {
+      "state": "NJ",
+      "county": "MIDDLESEX",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "county": "HUDSON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 16
+    },
+    {
+      "state": "NJ",
+      "count": 3
+    },
+    {
+      "state": "FL",
+      "count": 2
+    },
+    {
+      "state": "AR",
+      "count": 2
+    },
+    {
+      "state": "VA",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 109500.0,
+    "gap_usd": -20660.0
+  }
+}

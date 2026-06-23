@@ -1,0 +1,141 @@
+{
+  "slug": "misfits-market",
+  "canonical_name": "Misfits Market, Inc.",
+  "fein": "83-1777017",
+  "lca_filing_count": 4,
+  "warn_notice_count": 3,
+  "median_wage_usd": 110000.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 76856.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 155000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 110000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Financial Analyst",
+      "count": 2,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "Sr. Director, Human Resources",
+      "count": 1,
+      "median_wage_usd": 200000.0
+    },
+    {
+      "title": "Quality Assurance Analyst",
+      "count": 1,
+      "median_wage_usd": 76856.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "WA",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "TARRANT",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "county": "WESTCHESTER",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "02/16/2023",
+      "effective_date": "04/08/2023",
+      "state": "NJ",
+      "workers": 446,
+      "city": "Delanco"
+    },
+    {
+      "date": "02/16/2023",
+      "effective_date": "02/16/2023",
+      "state": "UT",
+      "workers": 82,
+      "city": "West Jordan"
+    },
+    {
+      "date": "02/07/2023",
+      "effective_date": "04/08/2023",
+      "state": "TX",
+      "workers": 121,
+      "city": "Fort Worth"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "wasatch-front-south-wib",
+      "name": "Wasatch Front South WIB",
+      "state": "UT"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 4,
+    "continuing_denials": 0,
+    "total_approvals": 4,
+    "by_fy": [
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-2011",
+    "soc_title": "Accountants and Auditors",
+    "market_median_usd": 79000.0,
+    "employer_median_usd": 110000.0,
+    "gap_usd": 31000.0
+  }
+}

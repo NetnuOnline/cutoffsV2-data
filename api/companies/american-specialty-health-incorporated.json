@@ -1,0 +1,203 @@
+{
+  "slug": "american-specialty-health-incorporated",
+  "canonical_name": "American Specialty Health Incorporated",
+  "fein": "33-0883241",
+  "lca_filing_count": 35,
+  "lca_worker_positions": 34,
+  "warn_notice_count": 0,
+  "median_wage_usd": 111895.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 111342.0
+    },
+    {
+      "fy": 2021,
+      "filings": 4,
+      "median_wage_usd": 79477.0
+    },
+    {
+      "fy": 2022,
+      "filings": 5,
+      "median_wage_usd": 81000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 6,
+      "median_wage_usd": 109092.5
+    },
+    {
+      "fy": 2024,
+      "filings": 10,
+      "median_wage_usd": 118635.0
+    },
+    {
+      "fy": 2025,
+      "filings": 6,
+      "median_wage_usd": 120948.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 148932.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 5,
+      "median_wage_usd": 113300.0
+    },
+    {
+      "title": "Software Engineer in Test I",
+      "count": 3,
+      "median_wage_usd": 87214.4
+    },
+    {
+      "title": "Front-End Engineer",
+      "count": 3,
+      "median_wage_usd": 103006.0
+    },
+    {
+      "title": "Senior Data Engineer",
+      "count": 2,
+      "median_wage_usd": 142586.0
+    },
+    {
+      "title": "Product Owner II",
+      "count": 2,
+      "median_wage_usd": 65666.0
+    },
+    {
+      "title": "Database Engineer",
+      "count": 2,
+      "median_wage_usd": 107667.5
+    },
+    {
+      "title": "Sr. Software Engineer II",
+      "count": 1,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "title": "Senior Cloud Security Engineer I",
+      "count": 1,
+      "median_wage_usd": 180000.0
+    },
+    {
+      "title": "Sr. Software Engineer I",
+      "count": 1,
+      "median_wage_usd": 120224.0
+    },
+    {
+      "title": "EDI Software Engineer I",
+      "count": 1,
+      "median_wage_usd": 71000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SAN DIEGO",
+      "count": 8
+    },
+    {
+      "state": "IN",
+      "county": "HAMILTON",
+      "count": 5
+    },
+    {
+      "state": "MI",
+      "county": "OAKLAND",
+      "count": 3
+    },
+    {
+      "state": "IN",
+      "county": "JOHNSON",
+      "count": 2
+    },
+    {
+      "state": "SD",
+      "county": "MINNEHAHA",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "county": "BROWARD",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "BEXAR",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    },
+    {
+      "state": "TN",
+      "county": "SHELBY",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 11
+    },
+    {
+      "state": "IN",
+      "count": 7
+    },
+    {
+      "state": "TX",
+      "count": 6
+    },
+    {
+      "state": "MI",
+      "count": 3
+    },
+    {
+      "state": "NC",
+      "count": 2
+    },
+    {
+      "state": "FL",
+      "count": 2
+    },
+    {
+      "state": "SD",
+      "count": 1
+    },
+    {
+      "state": "TN",
+      "count": 1
+    },
+    {
+      "state": "MD",
+      "count": 1
+    },
+    {
+      "state": "IA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 119554.0,
+    "gap_usd": -10606.0
+  }
+}

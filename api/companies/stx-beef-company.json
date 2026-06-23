@@ -1,0 +1,51 @@
+{
+  "slug": "stx-beef-company",
+  "canonical_name": "STX Beef Company LLC",
+  "fein": null,
+  "lca_filing_count": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 65000.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 3,
+      "median_wage_usd": 65000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Operations, Finance, and Procurement Analyst",
+      "count": 2,
+      "median_wage_usd": 65000.0
+    },
+    {
+      "title": "INDUSTRIAL OPERATIONS MANAGER",
+      "count": 1,
+      "median_wage_usd": 70500.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "NUECES",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-2011",
+    "soc_title": "Accountants",
+    "market_median_usd": 79000.0,
+    "employer_median_usd": 65000.0,
+    "gap_usd": -14000.0
+  }
+}

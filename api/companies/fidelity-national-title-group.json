@@ -1,0 +1,111 @@
+{
+  "slug": "fidelity-national-title-group",
+  "canonical_name": "Fidelity National Title Group",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 1,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "01/05/2009",
+      "effective_date": "03/01/2009",
+      "state": "IL",
+      "workers": 58,
+      "city": "Chicago"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2014-01-15",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-14-012055",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001331875&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2009-03-09",
+        "formType": "8-K",
+        "accessionNumber": "0000950144-09-001997",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001331875&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2008-04-07",
+        "formType": "8-K",
+        "accessionNumber": "0000892569-08-000534",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001331875&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2006-12-26",
+        "formType": "8-K",
+        "accessionNumber": "0000892569-06-001527",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001331875&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2006-07-06",
+        "formType": "8-K",
+        "accessionNumber": "0000892569-06-000845",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001331875&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2005-10-31",
+        "formType": "8-K",
+        "accessionNumber": "0000892569-05-000942",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001331875&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 6,
+    "itemCounts": {
+      "5.02": 6
+    },
+    "latestFilingDate": "2014-01-15",
+    "earliestFilingDate": "2005-10-31"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

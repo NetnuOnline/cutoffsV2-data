@@ -1,0 +1,167 @@
+{
+  "slug": "grail",
+  "canonical_name": "GRAIL, LLC",
+  "fein": "86-3673636",
+  "lca_filing_count": 26,
+  "lca_worker_positions": 25,
+  "warn_notice_count": 0,
+  "median_wage_usd": 164611.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 3,
+      "median_wage_usd": 160000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 10,
+      "median_wage_usd": 165000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 7,
+      "median_wage_usd": 170000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 156078.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 177500.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Software Engineer",
+      "count": 2,
+      "median_wage_usd": 177111.0
+    },
+    {
+      "title": "Senior SalesForce Engineer",
+      "count": 2,
+      "median_wage_usd": 160000.0
+    },
+    {
+      "title": "Staff Software Engineer",
+      "count": 2,
+      "median_wage_usd": 214147.0
+    },
+    {
+      "title": "Senior Quality Engineer",
+      "count": 2,
+      "median_wage_usd": 143012.4
+    },
+    {
+      "title": "Senior Statistical Analyst",
+      "count": 2,
+      "median_wage_usd": 156078.0
+    },
+    {
+      "title": "Senior Staff Process Engineer",
+      "count": 1,
+      "median_wage_usd": 170000.0
+    },
+    {
+      "title": "Senior Associate Scientist",
+      "count": 1,
+      "median_wage_usd": 107855.0
+    },
+    {
+      "title": "Senior Biostatistician",
+      "count": 1,
+      "median_wage_usd": 160000.0
+    },
+    {
+      "title": "Senior NetSuite Engineer",
+      "count": 1,
+      "median_wage_usd": 190000.0
+    },
+    {
+      "title": "Staff NetSuite Administrator",
+      "count": 1,
+      "median_wage_usd": 175950.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SAN MATEO",
+      "count": 14
+    },
+    {
+      "state": "CA",
+      "county": "SAN DIEGO",
+      "count": 3
+    },
+    {
+      "state": "NC",
+      "county": "DURHAM",
+      "count": 2
+    },
+    {
+      "state": "MD",
+      "county": "BALTIMORE",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "county": "WAKE",
+      "count": 1
+    },
+    {
+      "state": "TN",
+      "county": "WILSON",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    },
+    {
+      "state": "NH",
+      "county": "HILLSBOROUGH",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 19
+    },
+    {
+      "state": "NC",
+      "count": 3
+    },
+    {
+      "state": "TN",
+      "count": 1
+    },
+    {
+      "state": "MD",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "NH",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 187500.0,
+    "gap_usd": 57340.0
+  }
+}

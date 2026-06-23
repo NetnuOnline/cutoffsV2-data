@@ -1,0 +1,51 @@
+{
+  "slug": "ekcel-systems",
+  "canonical_name": "Ekcel Systems Inc",
+  "fein": "83-1151630",
+  "lca_filing_count": 2,
+  "lca_worker_positions": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 111789.5,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 112923.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 110656.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Sr. Full Stack Developer",
+      "count": 1,
+      "median_wage_usd": 112923.0
+    },
+    {
+      "title": "Area Director",
+      "count": 1,
+      "median_wage_usd": 110656.0
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 112923.0,
+    "gap_usd": -17237.0
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "slug": "lvt-labs",
+  "canonical_name": "LVT Labs, LLC",
+  "fein": "27-1572399",
+  "lca_filing_count": 8,
+  "lca_worker_positions": 8,
+  "warn_notice_count": 0,
+  "median_wage_usd": 101962.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 80371.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 117770.0
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 101962.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Sr. B2B Data Integration Engineer/Architect",
+      "count": 3,
+      "median_wage_usd": 101962.0
+    },
+    {
+      "title": "EDI Data Integration Systems Engineer",
+      "count": 3,
+      "median_wage_usd": 80371.0
+    },
+    {
+      "title": "Senior Technical Consultant",
+      "count": 1,
+      "median_wage_usd": 122866.0
+    },
+    {
+      "title": "Human Resource Information Systems Analyst (HRIS)",
+      "count": 1,
+      "median_wage_usd": 112674.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 6
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 6
+    },
+    {
+      "state": "CO",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Computer Systems Engineers/Architects",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 101962.0,
+    "gap_usd": -16038.0
+  }
+}

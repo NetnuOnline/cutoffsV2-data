@@ -1,0 +1,70 @@
+{
+  "slug": "sree-infoteck",
+  "canonical_name": "SREE INFOTECK LLC",
+  "fein": "86-2929630",
+  "lca_filing_count": 4,
+  "lca_worker_positions": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 99538.5,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 92602.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 106475.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Scrum Master/IT Project Lead",
+      "count": 3,
+      "median_wage_usd": 92602.0
+    },
+    {
+      "title": "Backend Software Engineer",
+      "count": 1,
+      "median_wage_usd": 106475.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NC",
+      "county": "WAKE",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "county": "KANE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NC",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "count": 1
+    },
+    {
+      "state": "CT",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Information Technology Project Managers",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 92602.0,
+    "gap_usd": -25398.0
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "slug": "urs-federal-services",
+  "canonical_name": "URS Federal Services",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 8,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 3
+    },
+    {
+      "state": "VA",
+      "count": 2
+    },
+    {
+      "state": "WA",
+      "count": 2
+    },
+    {
+      "state": "IN",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "12/26/2017",
+      "effective_date": "02/28/2018",
+      "state": "VA",
+      "workers": 78,
+      "city": "Norfolk, VA"
+    },
+    {
+      "date": "06/16/2014",
+      "effective_date": "07/08/2014",
+      "state": "IN",
+      "workers": 59,
+      "city": "Odon"
+    },
+    {
+      "date": "01/02/2013",
+      "effective_date": "02/07/2013",
+      "state": "VA",
+      "workers": 24,
+      "city": "Falls Church, VA"
+    },
+    {
+      "date": "10/31/2012",
+      "effective_date": "10/31/2012",
+      "state": "WA",
+      "workers": 236,
+      "city": "Oak Harbor"
+    },
+    {
+      "date": "09/25/2012",
+      "effective_date": "10/31/2012",
+      "state": "WA",
+      "workers": 236,
+      "city": "Oak Harbor"
+    },
+    {
+      "date": "08/19/2010",
+      "effective_date": "09/23/2010",
+      "state": "TX",
+      "workers": 111,
+      "city": "Fort Hood"
+    },
+    {
+      "date": "05/17/2010",
+      "effective_date": "06/01/2010",
+      "state": "TX",
+      "workers": 85,
+      "city": "Fort Hood"
+    },
+    {
+      "date": "04/05/2010",
+      "effective_date": "06/29/2010",
+      "state": "TX",
+      "workers": 116,
+      "city": "New Boston"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "economic-growth-region-8",
+      "name": "Economic Growth Region 8",
+      "state": "IN"
+    },
+    {
+      "slug": "northwest-washington-wib",
+      "name": "Northwest Washington WIB",
+      "state": "WA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

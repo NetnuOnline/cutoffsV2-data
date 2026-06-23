@@ -1,0 +1,58 @@
+{
+  "slug": "acme-bus-corp",
+  "canonical_name": "Acme Bus Corp.",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 5,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 5
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "04/28/2020",
+      "effective_date": "03/31/2020",
+      "state": "NY",
+      "workers": 65,
+      "city": "Yorktown"
+    },
+    {
+      "date": "04/28/2020",
+      "effective_date": "03/31/2020",
+      "state": "NY",
+      "workers": 0,
+      "city": "Yorktown Heights"
+    },
+    {
+      "date": "03/30/2018",
+      "effective_date": "06/30/2018",
+      "state": "NY",
+      "workers": 134,
+      "city": "Coram"
+    },
+    {
+      "date": "03/22/2013",
+      "effective_date": "06/30/2013",
+      "state": "NY",
+      "workers": 0,
+      "city": "Medford"
+    },
+    {
+      "date": "03/18/2013",
+      "effective_date": "08/16/2013",
+      "state": "NY",
+      "workers": 0,
+      "city": "Middletown"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

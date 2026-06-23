@@ -1,0 +1,43 @@
+{
+  "slug": "silver-star-auto-group",
+  "canonical_name": "Silver Star Auto Group",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "04/27/2020",
+      "effective_date": "06/01/2020",
+      "state": "CA",
+      "workers": 228,
+      "city": "Thousand Oaks"
+    },
+    {
+      "date": "04/27/2020",
+      "effective_date": "04/27/2020",
+      "state": "CA",
+      "workers": 228,
+      "city": "Thousand Oaks"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "ventura-county-wib",
+      "name": "Ventura County WIB",
+      "state": "CA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

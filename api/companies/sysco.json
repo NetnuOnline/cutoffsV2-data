@@ -1,0 +1,111 @@
+{
+  "slug": "sysco",
+  "canonical_name": "Sysco Corporation",
+  "fein": "74-1648137",
+  "lca_filing_count": 11,
+  "lca_worker_positions": 11,
+  "warn_notice_count": 0,
+  "median_wage_usd": 140000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 139446.23
+    },
+    {
+      "fy": 2022,
+      "filings": 3,
+      "median_wage_usd": 134118.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 143953.94
+    },
+    {
+      "fy": 2025,
+      "filings": 4,
+      "median_wage_usd": 146541.875
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 160102.4,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Tech Delivery Lead",
+      "count": 3,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "title": "Product Owner",
+      "count": 1,
+      "median_wage_usd": 131907.88
+    },
+    {
+      "title": "Senior Tech Delivery Lead",
+      "count": 1,
+      "median_wage_usd": 153083.75
+    },
+    {
+      "title": "VP Treasurer",
+      "count": 1,
+      "median_wage_usd": 340480.0
+    },
+    {
+      "title": "Sr. Software Engineer",
+      "count": 1,
+      "median_wage_usd": 109970.0
+    },
+    {
+      "title": "Senior Director, Personalization - Corporate",
+      "count": 1,
+      "median_wage_usd": 196602.0
+    },
+    {
+      "title": "Director, Sysco Technology ",
+      "count": 1,
+      "median_wage_usd": 156000.0
+    },
+    {
+      "title": "Director, Integrated Planning COE",
+      "count": 1,
+      "median_wage_usd": 134118.0
+    },
+    {
+      "title": "Senior Analyst, Sales Performance Management",
+      "count": 1,
+      "median_wage_usd": 93974.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 6
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 10
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Information Technology Project Managers",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 146541.88,
+    "gap_usd": 28541.88
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "slug": "amynta-agency",
+  "canonical_name": "Amynta Agency Inc.",
+  "fein": "82-3697493",
+  "lca_filing_count": 6,
+  "lca_worker_positions": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 121846.5,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 113363.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 134589.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 134767.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Release Engineer",
+      "count": 1,
+      "median_wage_usd": 107625.0
+    },
+    {
+      "title": "Manager, Data Management",
+      "count": 1,
+      "median_wage_usd": 119101.0
+    },
+    {
+      "title": "Software Development Manager",
+      "count": 1,
+      "median_wage_usd": 144942.0
+    },
+    {
+      "title": "Software Developer III / Sr. DevOps Engineer",
+      "count": 1,
+      "median_wage_usd": 124592.0
+    },
+    {
+      "title": "Technical Project Manager",
+      "count": 1,
+      "median_wage_usd": 134589.0
+    },
+    {
+      "title": "Production Technical support and Release manager  ",
+      "count": 1,
+      "median_wage_usd": 110000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TN",
+      "county": "WILLIAMSON",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SAN JOAQUIN",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "TARRANT",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 4
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "TN",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 129590.5,
+    "gap_usd": -569.5
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "slug": "golden-entertainment",
+  "canonical_name": "Golden Entertainment",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "NV",
+      "count": 1
+    },
+    {
+      "state": "MT",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "04/15/2020",
+      "effective_date": "03/16/2020",
+      "state": "NV",
+      "workers": 170,
+      "city": "Las Vegas, Clark County"
+    },
+    {
+      "date": "04/03/2020",
+      "effective_date": "04/03/2020",
+      "state": "MT",
+      "workers": 50,
+      "city": "Missoula"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "balance-of-state-wib",
+      "name": "Balance of State WIB",
+      "state": "MT"
+    }
+  ],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2015-03-31",
+        "formType": "8-K",
+        "accessionNumber": "0001437749-15-006453",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001071255&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2010-10-18",
+        "formType": "8-K",
+        "accessionNumber": "0000950123-10-093624",
+        "items": [
+          "2.05",
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities",
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001071255&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2009-06-30",
+        "formType": "8-K",
+        "accessionNumber": "0000950123-09-019169",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001071255&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2008-11-17",
+        "formType": "8-K/A",
+        "accessionNumber": "0000950137-08-013769",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001071255&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2008-10-07",
+        "formType": "8-K",
+        "accessionNumber": "0000950137-08-012490",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001071255&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2007-10-26",
+        "formType": "8-K",
+        "accessionNumber": "0000950137-07-016060",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001071255&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2007-03-02",
+        "formType": "8-K",
+        "accessionNumber": "0000950137-07-003214",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001071255&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2006-04-21",
+        "formType": "8-K",
+        "accessionNumber": "0000950134-06-007648",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001071255&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 8,
+    "itemCounts": {
+      "2.05": 4,
+      "5.02": 5
+    },
+    "latestFilingDate": "2015-03-31",
+    "earliestFilingDate": "2006-04-21"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 0,
+    "continuing_denials": 0,
+    "total_approvals": 1,
+    "by_fy": [
+      {
+        "fy": 2021,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  }
+}

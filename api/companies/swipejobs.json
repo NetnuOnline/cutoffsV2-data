@@ -1,0 +1,65 @@
+{
+  "slug": "swipejobs",
+  "canonical_name": "swipejobs, Inc.",
+  "fein": null,
+  "lca_filing_count": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 122179.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 122179.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 171000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Finance/Corporate Development Manager",
+      "count": 2,
+      "median_wage_usd": 122179.0
+    },
+    {
+      "title": "Executive Director",
+      "count": 1,
+      "median_wage_usd": 171000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "TARRANT",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3031",
+    "soc_title": "Financial Managers",
+    "market_median_usd": 156100.0,
+    "employer_median_usd": 122179.0,
+    "gap_usd": -33921.0
+  }
+}

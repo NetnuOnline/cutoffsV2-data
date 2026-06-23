@@ -1,0 +1,145 @@
+{
+  "slug": "ford-motor-credit-company",
+  "canonical_name": "Ford Motor Credit Company LLC",
+  "fein": "38-1612444",
+  "lca_filing_count": 45,
+  "lca_worker_positions": 45,
+  "warn_notice_count": 0,
+  "median_wage_usd": 125528.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 85675.0
+    },
+    {
+      "fy": 2021,
+      "filings": 7,
+      "median_wage_usd": 112736.0
+    },
+    {
+      "fy": 2022,
+      "filings": 6,
+      "median_wage_usd": 111332.0
+    },
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 109980.0
+    },
+    {
+      "fy": 2024,
+      "filings": 17,
+      "median_wage_usd": 142041.6
+    },
+    {
+      "fy": 2025,
+      "filings": 6,
+      "median_wage_usd": 131205.0
+    },
+    {
+      "fy": 2026,
+      "filings": 5,
+      "median_wage_usd": 120349.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 10,
+      "median_wage_usd": 132350.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 6,
+      "median_wage_usd": 141205.0
+    },
+    {
+      "title": "Senior Cloud Native Software Engineer",
+      "count": 4,
+      "median_wage_usd": 116542.5
+    },
+    {
+      "title": "Data Engineer",
+      "count": 3,
+      "median_wage_usd": 131130.0
+    },
+    {
+      "title": "Analytics Scientist",
+      "count": 3,
+      "median_wage_usd": 109680.0
+    },
+    {
+      "title": "SENIOR SOFTWARE ENGINEER",
+      "count": 2,
+      "median_wage_usd": 111358.0
+    },
+    {
+      "title": "Ford Credit ETL Software Engineer",
+      "count": 2,
+      "median_wage_usd": 133750.8
+    },
+    {
+      "title": "SOFTWARE ENGINEER",
+      "count": 2,
+      "median_wage_usd": 124564.0
+    },
+    {
+      "title": "Software Engineer ",
+      "count": 1,
+      "median_wage_usd": 112736.0
+    },
+    {
+      "title": "Senior Solutions Architect",
+      "count": 1,
+      "median_wage_usd": 142225.56
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MI",
+      "county": "WAYNE",
+      "count": 25
+    },
+    {
+      "state": "MI",
+      "county": "OAKLAND",
+      "count": 7
+    },
+    {
+      "state": "OK",
+      "county": "TULSA",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MI",
+      "count": 40
+    },
+    {
+      "state": "TX",
+      "count": 4
+    },
+    {
+      "state": "OK",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 132350.0,
+    "gap_usd": 2190.0
+  }
+}

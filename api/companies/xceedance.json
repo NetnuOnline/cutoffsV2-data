@@ -1,0 +1,120 @@
+{
+  "slug": "xceedance",
+  "canonical_name": "Xceedance, Inc.",
+  "fein": "47-2037577",
+  "lca_filing_count": 11,
+  "lca_worker_positions": 11,
+  "warn_notice_count": 0,
+  "median_wage_usd": 123200.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 3,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 104936.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 88982.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 134848.0
+    },
+    {
+      "fy": 2026,
+      "filings": 4,
+      "median_wage_usd": 134848.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Business Analyst III",
+      "count": 2,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "Tech Lead",
+      "count": 2,
+      "median_wage_usd": 132000.0
+    },
+    {
+      "title": "Associate Director",
+      "count": 2,
+      "median_wage_usd": 137696.0
+    },
+    {
+      "title": "Technical Lead",
+      "count": 1,
+      "median_wage_usd": 104936.0
+    },
+    {
+      "title": "Director",
+      "count": 1,
+      "median_wage_usd": 166100.0
+    },
+    {
+      "title": "BA Lead",
+      "count": 1,
+      "median_wage_usd": 103000.0
+    },
+    {
+      "title": "BA Manager",
+      "count": 1,
+      "median_wage_usd": 123200.0
+    },
+    {
+      "title": "Lead Business Analyst",
+      "count": 1,
+      "median_wage_usd": 88982.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MA",
+      "county": "WORCESTER CITY",
+      "count": 3
+    },
+    {
+      "state": "IA",
+      "county": "SCOTT",
+      "count": 1
+    },
+    {
+      "state": "NE",
+      "county": "DOUGLAS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MA",
+      "count": 9
+    },
+    {
+      "state": "NE",
+      "count": 1
+    },
+    {
+      "state": "IA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1211",
+    "soc_title": "Computer Systems Analysts",
+    "market_median_usd": 103800.0,
+    "employer_median_usd": 120000.0,
+    "gap_usd": 16200.0
+  }
+}

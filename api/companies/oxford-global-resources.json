@@ -1,0 +1,76 @@
+{
+  "slug": "oxford-global-resources",
+  "canonical_name": "Oxford Global Resources, LLC",
+  "fein": "04-2838827",
+  "lca_filing_count": 4,
+  "lca_worker_positions": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 145476.37,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 139818.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 145476.37
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 171600.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Sr. PeopleSoft Applications Developer",
+      "count": 2,
+      "median_wage_usd": 139818.0
+    },
+    {
+      "title": "Sr. PeopleSoft Developer, Project Lead",
+      "count": 1,
+      "median_wage_usd": 171600.0
+    },
+    {
+      "title": "SENIOR PEOPLESOFT DEVELOPER",
+      "count": 1,
+      "median_wage_usd": 151134.74
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 2
+    },
+    {
+      "state": "MA",
+      "county": "ESSEX",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MA",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 161367.37,
+    "gap_usd": 31207.37
+  }
+}

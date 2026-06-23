@@ -1,0 +1,95 @@
+{
+  "slug": "nicholas-company",
+  "canonical_name": "Nicholas & Company, Inc.",
+  "fein": "87-0235565",
+  "lca_filing_count": 7,
+  "lca_worker_positions": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 155000.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 4,
+      "median_wage_usd": 147500.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 102496.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 194991.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Enterprise Architect",
+      "count": 2,
+      "median_wage_usd": 155000.0
+    },
+    {
+      "title": "Enterprise Applications Director",
+      "count": 2,
+      "median_wage_usd": 191967.5
+    },
+    {
+      "title": "Full Stack Architect",
+      "count": 1,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "title": "Full Stack  Architect",
+      "count": 1,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "title": "Integration Engineer",
+      "count": 1,
+      "median_wage_usd": 102496.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "UT",
+      "county": "SALT LAKE",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "ORANGE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "UT",
+      "count": 5
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3021",
+    "soc_title": "Computer and Information Systems Managers",
+    "market_median_usd": 169510.0,
+    "employer_median_usd": 155000.0,
+    "gap_usd": -14510.0
+  }
+}

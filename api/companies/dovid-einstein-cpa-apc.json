@@ -1,0 +1,56 @@
+{
+  "slug": "dovid-einstein-cpa-apc",
+  "canonical_name": "Dovid Einstein CPA APC",
+  "fein": "85-4367835",
+  "lca_filing_count": 2,
+  "lca_worker_positions": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 161500.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 153000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 170000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Tax Accountant",
+      "count": 2,
+      "median_wage_usd": 161500.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "FL",
+      "county": "SEMINOLE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-2011",
+    "soc_title": "Accountants and Auditors",
+    "market_median_usd": 79000.0,
+    "employer_median_usd": 161500.0,
+    "gap_usd": 82500.0
+  }
+}

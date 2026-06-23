@@ -1,0 +1,46 @@
+{
+  "slug": "rayao-global",
+  "canonical_name": "RAYAO GLOBAL LLC",
+  "fein": null,
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 70000.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 70000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "COMPUTER SYSTEMS ENGINEER",
+      "count": 2,
+      "median_wage_usd": 70000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NH",
+      "county": "HILLSBOROUGH",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NH",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1211",
+    "soc_title": "Computer Systems Analysts",
+    "market_median_usd": 103800.0,
+    "employer_median_usd": 70000.0,
+    "gap_usd": -33800.0
+  }
+}

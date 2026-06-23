@@ -1,0 +1,74 @@
+{
+  "slug": "parrk-analytics",
+  "canonical_name": "PARRK ANALYTICS LLC",
+  "fein": "88-4311619",
+  "lca_filing_count": 5,
+  "lca_worker_positions": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 101421.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 105997.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 101805.5
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 77604.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 3,
+      "median_wage_usd": 102190.0
+    },
+    {
+      "title": "Software Quality Assurance Analysts and Testers",
+      "count": 2,
+      "median_wage_usd": 77604.5
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "TARRANT",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 2
+    },
+    {
+      "state": "MI",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 101805.5,
+    "gap_usd": -28354.5
+  }
+}

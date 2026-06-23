@@ -1,0 +1,131 @@
+{
+  "slug": "benchling",
+  "canonical_name": "Benchling, Inc.",
+  "fein": "45-5365648",
+  "lca_filing_count": 25,
+  "lca_worker_positions": 21,
+  "warn_notice_count": 0,
+  "median_wage_usd": 190000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 225000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 5,
+      "median_wage_usd": 190000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 4,
+      "median_wage_usd": 210000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 4,
+      "median_wage_usd": 190000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 160000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 4,
+      "median_wage_usd": 190000.0
+    },
+    {
+      "title": "Enterprise Architect, Business Systems",
+      "count": 3,
+      "median_wage_usd": 225000.0
+    },
+    {
+      "title": "Product Designer",
+      "count": 2,
+      "median_wage_usd": 190000.0
+    },
+    {
+      "title": "Salesforce Engineer",
+      "count": 2,
+      "median_wage_usd": 200000.0
+    },
+    {
+      "title": "Scientific Solutions Consultant",
+      "count": 2,
+      "median_wage_usd": 127500.0
+    },
+    {
+      "title": "Detection and Response Engineer",
+      "count": 1,
+      "median_wage_usd": 165000.0
+    },
+    {
+      "title": "Vice President of Field Operations",
+      "count": 1,
+      "median_wage_usd": 350000.0
+    },
+    {
+      "title": "CUSTOMER SUCCESS MANAGER",
+      "count": 1,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "title": "Integrations Engineer - People Technology",
+      "count": 1,
+      "median_wage_usd": 160000.0
+    },
+    {
+      "title": "Head of Data Platform",
+      "count": 1,
+      "median_wage_usd": 290000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 16
+    },
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 24
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 210000.0,
+    "gap_usd": 79840.0
+  }
+}

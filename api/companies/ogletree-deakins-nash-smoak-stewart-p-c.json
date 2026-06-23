@@ -1,0 +1,99 @@
+{
+  "slug": "ogletree-deakins-nash-smoak-stewart-p-c",
+  "canonical_name": "Ogletree, Deakins, Nash, Smoak & Stewart, P.C.",
+  "fein": "57-1044820",
+  "lca_filing_count": 8,
+  "warn_notice_count": 0,
+  "median_wage_usd": 103147.5,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 99195.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 94140.18
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 112738.5
+    },
+    {
+      "fy": 2025,
+      "filings": 4,
+      "median_wage_usd": 101608.5
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Data Analyst",
+      "count": 3,
+      "median_wage_usd": 96117.0
+    },
+    {
+      "title": "Senior Data Anaylst",
+      "count": 2,
+      "median_wage_usd": 115450.0
+    },
+    {
+      "title": "IT Database Analyst 2",
+      "count": 1,
+      "median_wage_usd": 94140.18
+    },
+    {
+      "title": "Software Developer 2",
+      "count": 1,
+      "median_wage_usd": 112477.0
+    },
+    {
+      "title": "Sr. Software Developer",
+      "count": 1,
+      "median_wage_usd": 99195.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "SC",
+      "county": "GREENVILLE",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 3
+    },
+    {
+      "state": "SC",
+      "count": 3
+    },
+    {
+      "state": "WA",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 8,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 96117.0,
+    "gap_usd": -11903.0
+  }
+}

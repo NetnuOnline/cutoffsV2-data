@@ -1,0 +1,79 @@
+{
+  "slug": "srd-infotek",
+  "canonical_name": "SRD INFOTEK INC",
+  "fein": "87-1835352",
+  "lca_filing_count": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 131996.8,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 5,
+      "median_wage_usd": 131996.8
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Devops Engineer",
+      "count": 2,
+      "median_wage_usd": 149364.80000000002
+    },
+    {
+      "title": "Software Developer",
+      "count": 2,
+      "median_wage_usd": 117603.19999999998
+    },
+    {
+      "title": "SDET Software Development And Test",
+      "count": 1,
+      "median_wage_usd": 114400.0
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 3
+    },
+    {
+      "state": "CA",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 7,
+    "initial_denials": 0,
+    "continuing_approvals": 0,
+    "continuing_denials": 0,
+    "total_approvals": 7,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 5,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 5
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      }
+    ]
+  },
+  "lca_worker_positions": 5,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 131996.8,
+    "gap_usd": 1836.8
+  }
+}

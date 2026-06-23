@@ -1,0 +1,70 @@
+{
+  "slug": "ethicon-us",
+  "canonical_name": "Ethicon US, LLC",
+  "fein": "76-0604800",
+  "lca_filing_count": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 174000.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 148600.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 174000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 197200.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Regional Sales Manager",
+      "count": 2,
+      "median_wage_usd": 161300.0
+    },
+    {
+      "title": "Senior Marketing Manager",
+      "count": 1,
+      "median_wage_usd": 197200.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NJ",
+      "county": "SOMERSET",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 2
+    },
+    {
+      "state": "NY",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-2021",
+    "soc_title": "Marketing Managers",
+    "market_median_usd": 157620.0,
+    "employer_median_usd": 174000.0,
+    "gap_usd": 16380.0
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "slug": "crescent-bank-trust",
+  "canonical_name": "Crescent Bank & Trust",
+  "fein": null,
+  "lca_filing_count": 1,
+  "warn_notice_count": 2,
+  "median_wage_usd": 72420.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 72420.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Financial Analyst",
+      "count": 1,
+      "median_wage_usd": 72420.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "LA",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "LA",
+      "county": "JEFFERSON",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "11/05/2019",
+      "effective_date": "02/14/2020",
+      "state": "VA",
+      "workers": 187,
+      "city": "Cheseapeake, VA"
+    },
+    {
+      "date": "01/04/2018",
+      "effective_date": "03/16/2018",
+      "state": "LA",
+      "workers": 94,
+      "city": "Baton Rouge"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "east-baton-rouge-parish-wia",
+      "name": "East Baton Rouge Parish WIA",
+      "state": "LA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "lca_worker_positions": 1,
+  "top_socs": [],
+  "lca_periods": []
+}

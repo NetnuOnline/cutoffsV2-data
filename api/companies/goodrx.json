@@ -1,0 +1,172 @@
+{
+  "slug": "goodrx",
+  "canonical_name": "GoodRx, Inc.",
+  "fein": "45-3653763",
+  "lca_filing_count": 21,
+  "lca_worker_positions": 20,
+  "warn_notice_count": 0,
+  "median_wage_usd": 178602.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 4,
+      "median_wage_usd": 140504.0
+    },
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 142303.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 111508.5
+    },
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 210000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 6,
+      "median_wage_usd": 186328.5
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 237250.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Lead Software Engineer",
+      "count": 2,
+      "median_wage_usd": 231424.5
+    },
+    {
+      "title": "SOFTWARE ENGINEER III",
+      "count": 2,
+      "median_wage_usd": 178602.0
+    },
+    {
+      "title": "SR. SOFTWARE ENGINEER I",
+      "count": 1,
+      "median_wage_usd": 194055.0
+    },
+    {
+      "title": "Manager, Software Engineering",
+      "count": 1,
+      "median_wage_usd": 237250.0
+    },
+    {
+      "title": "Senior Software Engineer II",
+      "count": 1,
+      "median_wage_usd": 124987.0
+    },
+    {
+      "title": "Lead Product Manager",
+      "count": 1,
+      "median_wage_usd": 205000.0
+    },
+    {
+      "title": "Sr. Software Engineer II",
+      "count": 1,
+      "median_wage_usd": 236651.0
+    },
+    {
+      "title": "LEAD SOFTWARE ENGINEER",
+      "count": 1,
+      "median_wage_usd": 220000.0
+    },
+    {
+      "title": "Senior Director, Analytics (Core Performance)",
+      "count": 1,
+      "median_wage_usd": 137779.0
+    },
+    {
+      "title": "Director of Engineering",
+      "count": 1,
+      "median_wage_usd": 171122.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 6
+    },
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 4
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 2
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 2
+    },
+    {
+      "state": "FL",
+      "county": "MANATEE",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 1
+    },
+    {
+      "state": "WI",
+      "county": "DANE",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 13
+    },
+    {
+      "state": "WA",
+      "count": 3
+    },
+    {
+      "state": "IL",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "count": 1
+    },
+    {
+      "state": "WI",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 199301.0,
+    "gap_usd": 69141.0
+  }
+}

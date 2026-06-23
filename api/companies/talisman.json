@@ -1,0 +1,45 @@
+{
+  "slug": "talisman",
+  "canonical_name": "Talisman LLC",
+  "fein": "47-5444488",
+  "lca_filing_count": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 100000.0,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 100000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "PRINCIPAL SOFTWARE ENGINEER",
+      "count": 2,
+      "median_wage_usd": 96904.0
+    },
+    {
+      "title": "System Engineer",
+      "count": 1,
+      "median_wage_usd": 100000.0
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "OK",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Computer Systems Engineers/Architects",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 96904.0,
+    "gap_usd": -21096.0
+  }
+}

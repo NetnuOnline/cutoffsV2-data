@@ -1,0 +1,123 @@
+{
+  "slug": "technoid9",
+  "canonical_name": "Technoid9 LLC",
+  "fein": "86-3930146",
+  "lca_filing_count": 7,
+  "warn_notice_count": 0,
+  "median_wage_usd": 100068.8,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 81765.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 100630.4
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 108077.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 4,
+      "median_wage_usd": 100630.4
+    },
+    {
+      "title": "Sr Software Developer",
+      "count": 1,
+      "median_wage_usd": 87194.0
+    },
+    {
+      "title": "Integration Developer",
+      "count": 1,
+      "median_wage_usd": 108077.0
+    },
+    {
+      "title": "Systems Engineer",
+      "count": 1,
+      "median_wage_usd": 69451.2
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MI",
+      "county": "KENT",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "county": "MONTGOMERY",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    },
+    {
+      "state": "OH",
+      "county": "CUYAHOGA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 2
+    },
+    {
+      "state": "OH",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "WI",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 1,
+    "continuing_denials": 0,
+    "total_approvals": 1,
+    "by_fy": [
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 7,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 100630.4,
+    "gap_usd": -29529.6
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "slug": "hartford-healthcare",
+  "canonical_name": "Hartford HealthCare Corporation",
+  "fein": "22-2672834",
+  "lca_filing_count": 13,
+  "lca_worker_positions": 13,
+  "warn_notice_count": 0,
+  "median_wage_usd": 106282.5,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 4,
+      "median_wage_usd": 100335.725
+    },
+    {
+      "fy": 2022,
+      "filings": 4,
+      "median_wage_usd": 104862.25
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 120779.75
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 106475.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": null,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Sr. PeopleSoft Enterprise Resource Planning Security Analyst",
+      "count": 2,
+      "median_wage_usd": 98940.0
+    },
+    {
+      "title": "Information Technology Architect",
+      "count": 2,
+      "median_wage_usd": 106475.0
+    },
+    {
+      "title": "Team Lead Applications",
+      "count": 1,
+      "median_wage_usd": 135469.5
+    },
+    {
+      "title": "PeopleSoft Developer/IS Finance",
+      "count": 1,
+      "median_wage_usd": 127400.0
+    },
+    {
+      "title": "Business Intelligence Developer ",
+      "count": 1,
+      "median_wage_usd": 82680.0
+    },
+    {
+      "title": "ITS Team Lead Applications",
+      "count": 1,
+      "median_wage_usd": 117500.0
+    },
+    {
+      "title": "ITS Application Analyst III \u2013 OBIA Senior Developer ",
+      "count": 1,
+      "median_wage_usd": 114724.5
+    },
+    {
+      "title": "ITS Application Analyst II ",
+      "count": 1,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "title": "Project Manager II",
+      "count": 1,
+      "median_wage_usd": null
+    },
+    {
+      "title": "Systems Analyst II \u00f1 OBIA Developer ",
+      "count": 1,
+      "median_wage_usd": 100671.45
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CT",
+      "county": "NEWINGTON",
+      "count": 5
+    },
+    {
+      "state": "CT",
+      "county": "FARMINGTON",
+      "count": 4
+    },
+    {
+      "state": "CT",
+      "county": "HARTFORD CITY",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CT",
+      "count": 13
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 114724.5,
+    "gap_usd": -15435.5
+  }
+}

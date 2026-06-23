@@ -1,0 +1,85 @@
+{
+  "slug": "us-xpress",
+  "canonical_name": "U.S. Xpress, Inc",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "IN",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "12/21/2023",
+      "effective_date": "02/02/2024",
+      "state": "IN",
+      "workers": 13,
+      "city": "Marion"
+    },
+    {
+      "date": "01/18/2019",
+      "effective_date": "03/18/2019",
+      "state": "TX",
+      "workers": 20,
+      "city": "Laredo"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "economic-growth-region-3",
+      "name": "Economic Growth Region 3",
+      "state": "IN"
+    },
+    {
+      "slug": "south-texas-wda",
+      "name": "South Texas WDA",
+      "state": "TX"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 8,
+    "continuing_denials": 0,
+    "total_approvals": 8,
+    "by_fy": [
+      {
+        "fy": 2016,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 6,
+        "continuing_denials": 0,
+        "total_approvals": 6
+      }
+    ]
+  }
+}

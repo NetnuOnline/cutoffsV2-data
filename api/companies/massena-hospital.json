@@ -1,0 +1,91 @@
+{
+  "slug": "massena-hospital",
+  "canonical_name": "Massena Hospital, Inc.",
+  "fein": "84-3134268",
+  "lca_filing_count": 7,
+  "warn_notice_count": 0,
+  "median_wage_usd": 208000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 68931.2
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 208000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 216840.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 406593.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Medical Technologist",
+      "count": 2,
+      "median_wage_usd": 68931.2
+    },
+    {
+      "title": "Physician, Primary Care Internist",
+      "count": 2,
+      "median_wage_usd": 239200.0
+    },
+    {
+      "title": "Physician, Nephrologist",
+      "count": 1,
+      "median_wage_usd": 406593.0
+    },
+    {
+      "title": "Physician, Family Medicine",
+      "count": 1,
+      "median_wage_usd": 194480.0
+    },
+    {
+      "title": "Physician Nephrologist",
+      "count": 1,
+      "median_wage_usd": 208000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "ST LAWRENCE",
+      "count": 6
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 7
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 1,
+    "continuing_denials": 0,
+    "total_approvals": 1,
+    "by_fy": [
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 6,
+  "top_socs": [],
+  "lca_periods": []
+}

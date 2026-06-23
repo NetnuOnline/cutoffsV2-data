@@ -1,0 +1,177 @@
+{
+  "slug": "cytomx-therapeutics",
+  "canonical_name": "CytomX Therapeutics, Inc.",
+  "fein": "27-3521219",
+  "lca_filing_count": 5,
+  "warn_notice_count": 2,
+  "median_wage_usd": 125000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 134813.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 151455.5
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Scientist I, Cancer Immunology",
+      "count": 1,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "Senior Research Associate",
+      "count": 1,
+      "median_wage_usd": 109741.0
+    },
+    {
+      "title": "Associate Director, Clinical Operations",
+      "count": 1,
+      "median_wage_usd": 193170.0
+    },
+    {
+      "title": "Senior Clinical Data Manager",
+      "count": 1,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "title": "Manager, Regulatory Affairs Operations",
+      "count": 1,
+      "median_wage_usd": 144626.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 5
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SAN MATEO",
+      "count": 5
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "01/06/2025",
+      "effective_date": "01/17/2025",
+      "state": "CA",
+      "workers": 46,
+      "city": "South San Francisco"
+    },
+    {
+      "date": "07/13/2022",
+      "effective_date": "07/13/2022",
+      "state": "CA",
+      "workers": 66,
+      "city": "South San Francisco"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2025-01-06",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-25-002165",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001501989&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2022-07-13",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-22-192874",
+        "items": [
+          "2.05",
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities",
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001501989&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2019-06-21",
+        "formType": "8-K/A",
+        "accessionNumber": "0001193125-19-178811",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001501989&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 3,
+    "itemCounts": {
+      "2.05": 2,
+      "5.02": 2
+    },
+    "latestFilingDate": "2025-01-06",
+    "earliestFilingDate": "2019-06-21"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 2,
+    "initial_denials": 0,
+    "continuing_approvals": 8,
+    "continuing_denials": 0,
+    "total_approvals": 10,
+    "by_fy": [
+      {
+        "fy": 2011,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 5,
+        "continuing_denials": 0,
+        "total_approvals": 6
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 4
+      }
+    ]
+  },
+  "lca_worker_positions": 5,
+  "top_socs": [],
+  "lca_periods": []
+}

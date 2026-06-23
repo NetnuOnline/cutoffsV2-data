@@ -1,0 +1,117 @@
+{
+  "slug": "gn-audio-usa",
+  "canonical_name": "GN Audio USA, Inc.",
+  "fein": "02-0519678",
+  "lca_filing_count": 13,
+  "warn_notice_count": 0,
+  "median_wage_usd": 146000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 6,
+      "median_wage_usd": 134500.0
+    },
+    {
+      "fy": 2023,
+      "filings": 6,
+      "median_wage_usd": 170000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 144585.28
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Sr. FPGA Design Engineer",
+      "count": 3,
+      "median_wage_usd": 170000.0
+    },
+    {
+      "title": "Global Product Manager",
+      "count": 3,
+      "median_wage_usd": 123000.0
+    },
+    {
+      "title": "Senior Firmware Design Engineer",
+      "count": 2,
+      "median_wage_usd": 146000.0
+    },
+    {
+      "title": "Senior Software Engineer ",
+      "count": 1,
+      "median_wage_usd": 185000.0
+    },
+    {
+      "title": "Regional Supply Planner",
+      "count": 1,
+      "median_wage_usd": 74000.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 1,
+      "median_wage_usd": 146000.0
+    },
+    {
+      "title": "Marketing Director",
+      "count": 1,
+      "median_wage_usd": 123000.0
+    },
+    {
+      "title": "AI Engineer II",
+      "count": 1,
+      "median_wage_usd": 144585.28
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 12
+    },
+    {
+      "state": "NC",
+      "county": "WAKE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 12
+    },
+    {
+      "state": "NC",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 3,
+    "continuing_denials": 0,
+    "total_approvals": 3,
+    "by_fy": [
+      {
+        "fy": 2020,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      }
+    ]
+  },
+  "lca_worker_positions": 13,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-2021",
+    "soc_title": "Marketing Managers",
+    "market_median_usd": 157620.0,
+    "employer_median_usd": 123000.0,
+    "gap_usd": -34620.0
+  }
+}

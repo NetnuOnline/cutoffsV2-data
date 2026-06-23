@@ -1,0 +1,535 @@
+{
+  "slug": "general-electric",
+  "canonical_name": "GENERAL ELECTRIC COMPANY",
+  "fein": null,
+  "lca_filing_count": 3,
+  "warn_notice_count": 50,
+  "median_wage_usd": 146000,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 0,
+      "median_wage_usd": null
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "LEAD ENGINEER - ROBOTICS & AUTONOMY",
+      "count": 0,
+      "median_wage_usd": null
+    }
+  ],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 10
+    },
+    {
+      "state": "TX",
+      "count": 6
+    },
+    {
+      "state": "IL",
+      "count": 6
+    },
+    {
+      "state": "NY",
+      "count": 4
+    },
+    {
+      "state": "CA",
+      "count": 4
+    },
+    {
+      "state": "KS",
+      "count": 3
+    },
+    {
+      "state": "ME",
+      "count": 2
+    },
+    {
+      "state": "OH",
+      "count": 2
+    },
+    {
+      "state": "LA",
+      "count": 2
+    },
+    {
+      "state": "MD",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "10/02/2024",
+      "effective_date": "12/31/2024",
+      "state": "NY",
+      "workers": 72,
+      "city": "1 River Road\nSchenectady, NY 12345"
+    },
+    {
+      "date": "04/28/2021",
+      "effective_date": "04/28/2021",
+      "state": "ME",
+      "workers": 70,
+      "city": "Bangor"
+    },
+    {
+      "date": "04/08/2021",
+      "effective_date": "04/08/2021",
+      "state": "KS",
+      "workers": 0,
+      "city": "Arkansas City"
+    },
+    {
+      "date": "03/31/2021",
+      "effective_date": "05/30/2021",
+      "state": "CA",
+      "workers": 93,
+      "city": "San Ramon"
+    },
+    {
+      "date": "11/10/2020",
+      "effective_date": "11/10/2020",
+      "state": "ME",
+      "workers": 70,
+      "city": "1 - Northeastern Workforce Board"
+    },
+    {
+      "date": "07/28/2020",
+      "effective_date": "09/30/2020",
+      "state": "WA",
+      "workers": 66,
+      "city": "Seattle"
+    },
+    {
+      "date": "06/30/2020",
+      "effective_date": "08/31/2020",
+      "state": "WI",
+      "workers": 123,
+      "city": "Wauwatosa"
+    },
+    {
+      "date": "06/29/2020",
+      "effective_date": "06/29/2020",
+      "state": "DE",
+      "workers": 194,
+      "city": null
+    },
+    {
+      "date": "06/23/2020",
+      "effective_date": "04/17/2020",
+      "state": "OH",
+      "workers": 529,
+      "city": "Cincinnati/Hamilton"
+    },
+    {
+      "date": "06/01/2020",
+      "effective_date": "06/12/2020",
+      "state": "TX",
+      "workers": 257,
+      "city": "McAllen"
+    },
+    {
+      "date": "05/30/2020",
+      "effective_date": "05/30/2020",
+      "state": "KS",
+      "workers": 130,
+      "city": "Arkansas City"
+    },
+    {
+      "date": "04/29/2020",
+      "effective_date": "06/29/2020",
+      "state": "LA",
+      "workers": 31,
+      "city": "201 St. Charles Avenue New Orleans, LA 70170"
+    },
+    {
+      "date": "04/29/2020",
+      "effective_date": "06/29/2020",
+      "state": "LA",
+      "workers": 71,
+      "city": "201 St. Charles Avenue New Orleans, LA 70170"
+    },
+    {
+      "date": "04/06/2020",
+      "effective_date": "04/06/2020",
+      "state": "KS",
+      "workers": 420,
+      "city": "Arkansas City"
+    },
+    {
+      "date": "04/09/2019",
+      "effective_date": "06/09/2019",
+      "state": "CA",
+      "workers": 172,
+      "city": "San Ramon"
+    },
+    {
+      "date": "11/27/2018",
+      "effective_date": "12/31/2018",
+      "state": "MD",
+      "workers": 76,
+      "city": "Laurel"
+    },
+    {
+      "date": "03/21/2018",
+      "effective_date": "05/22/2018",
+      "state": "CA",
+      "workers": 120,
+      "city": "San Ramon"
+    },
+    {
+      "date": "11/07/2017",
+      "effective_date": "01/06/2018",
+      "state": "CA",
+      "workers": 158,
+      "city": "San Ramon"
+    },
+    {
+      "date": "10/16/2017",
+      "effective_date": "01/16/2018",
+      "state": "NY",
+      "workers": 89,
+      "city": "Rochester"
+    },
+    {
+      "date": "04/27/2017",
+      "effective_date": "06/23/2017",
+      "state": "KY",
+      "workers": 127,
+      "city": "Fayette"
+    },
+    {
+      "date": "04/11/2017",
+      "effective_date": "05/29/2017",
+      "state": "OH",
+      "workers": 148,
+      "city": "Circleville/Pickaway"
+    },
+    {
+      "date": "04/03/2017",
+      "effective_date": "05/26/2017",
+      "state": "KY",
+      "workers": 63,
+      "city": "Pulaski"
+    },
+    {
+      "date": "01/27/2017",
+      "effective_date": "03/31/2017",
+      "state": "NY",
+      "workers": 75,
+      "city": "Albany"
+    },
+    {
+      "date": "12/02/2016",
+      "effective_date": "03/03/2017",
+      "state": "NY",
+      "workers": 8,
+      "city": "Newburgh"
+    },
+    {
+      "date": "05/16/2016",
+      "effective_date": "07/08/2016",
+      "state": "CT",
+      "workers": 100,
+      "city": "Fairfield"
+    },
+    {
+      "date": "01/23/2015",
+      "effective_date": "01/23/2015",
+      "state": "GA",
+      "workers": 250,
+      "city": "Duluth"
+    },
+    {
+      "date": "01/01/2015",
+      "effective_date": "01/01/2015",
+      "state": "NJ",
+      "workers": 218,
+      "city": "Piscataway"
+    },
+    {
+      "date": "11/20/2012",
+      "effective_date": "11/20/2012",
+      "state": "VT",
+      "workers": 14,
+      "city": "00 - Vermont Workforce Investment Area"
+    },
+    {
+      "date": "01/26/2011",
+      "effective_date": "04/01/2011",
+      "state": "MD",
+      "workers": 44,
+      "city": "20501 Seneca Medows Pkwy, Germantown, MD"
+    },
+    {
+      "date": "06/19/2009",
+      "effective_date": "07/17/2009",
+      "state": "TX",
+      "workers": 93,
+      "city": "Bedford"
+    },
+    {
+      "date": "06/16/2009",
+      "effective_date": "09/17/2009",
+      "state": "TX",
+      "workers": 56,
+      "city": "Bedford"
+    },
+    {
+      "date": "06/16/2009",
+      "effective_date": "03/18/2009",
+      "state": "TX",
+      "workers": 34,
+      "city": "Bedford"
+    },
+    {
+      "date": "11/30/2008",
+      "effective_date": "11/30/2008",
+      "state": "NJ",
+      "workers": 40,
+      "city": "SOMERSET"
+    },
+    {
+      "date": "06/11/2008",
+      "effective_date": "08/01/2008",
+      "state": "IL",
+      "workers": 101,
+      "city": "Cicero"
+    },
+    {
+      "date": "09/08/2005",
+      "effective_date": "11/08/2005",
+      "state": "TX",
+      "workers": 20,
+      "city": "Frisco"
+    },
+    {
+      "date": "02/24/2005",
+      "effective_date": "05/01/2004",
+      "state": "IL",
+      "workers": 156,
+      "city": "Schaumburg"
+    },
+    {
+      "date": "01/25/2005",
+      "effective_date": "04/01/2005",
+      "state": "TX",
+      "workers": 202,
+      "city": "Dallas"
+    },
+    {
+      "date": "08/12/2002",
+      "effective_date": "08/12/2002",
+      "state": "GA",
+      "workers": 25,
+      "city": "Atlanta"
+    },
+    {
+      "date": "04/01/2002",
+      "effective_date": "04/01/2002",
+      "state": "IL",
+      "workers": 278,
+      "city": "Chicago"
+    },
+    {
+      "date": "04/21/2000",
+      "effective_date": "04/21/2000",
+      "state": "GA",
+      "workers": 109,
+      "city": "Atlanta"
+    },
+    {
+      "date": "04/21/2000",
+      "effective_date": "04/21/2000",
+      "state": "GA",
+      "workers": 49,
+      "city": "Norcross"
+    },
+    {
+      "date": "03/30/2000",
+      "effective_date": "03/30/2000",
+      "state": "GA",
+      "workers": 129,
+      "city": "Rome"
+    },
+    {
+      "date": "03/29/2000",
+      "effective_date": "03/29/2000",
+      "state": "GA",
+      "workers": 60,
+      "city": "Atlanta"
+    },
+    {
+      "date": "03/20/2000",
+      "effective_date": "03/20/2000",
+      "state": "GA",
+      "workers": 60,
+      "city": "Rome"
+    },
+    {
+      "date": "10/01/1999",
+      "effective_date": "12/01/1999",
+      "state": "IL",
+      "workers": 96,
+      "city": "Mattoon"
+    },
+    {
+      "date": "02/02/1998",
+      "effective_date": "02/02/1998",
+      "state": "GA",
+      "workers": 161,
+      "city": "Rome"
+    },
+    {
+      "date": "07/21/1995",
+      "effective_date": "07/21/1995",
+      "state": "GA",
+      "workers": 220,
+      "city": "Rome"
+    },
+    {
+      "date": "06/30/1995",
+      "effective_date": "06/30/1995",
+      "state": "GA",
+      "workers": 200,
+      "city": "Rome"
+    },
+    {
+      "date": "09/01/1987",
+      "effective_date": "03/01/1990",
+      "state": "IL",
+      "workers": 550,
+      "city": "1540 SOUTH 54TH AVENUE  CICERO, IL 60650-1899"
+    },
+    {
+      "date": "09/01/1987",
+      "effective_date": "02/01/1990",
+      "state": "IL",
+      "workers": 550,
+      "city": "1540 SOUTH 54TH AVENUE  CICERO, IL 60650-1899"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "contra-costa-county-wib",
+      "name": "Contra Costa County WIB",
+      "state": "CA"
+    },
+    {
+      "slug": "northwest-georgia-wib",
+      "name": "Northwest Georgia WIB",
+      "state": "GA"
+    },
+    {
+      "slug": "local-area-iv-south-central-wib",
+      "name": "Local Area IV - South Central WIB",
+      "state": "KS"
+    },
+    {
+      "slug": "tri-county-investment-board-wia",
+      "name": "Tri County Investment Board WIA",
+      "state": "ME"
+    },
+    {
+      "slug": "southwest-ohio",
+      "name": "Southwest Ohio",
+      "state": "OH"
+    },
+    {
+      "slug": "lower-rio-grande-wda",
+      "name": "Lower Rio Grande WDA",
+      "state": "TX"
+    }
+  ],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2015-11-30",
+        "formType": "8-K",
+        "accessionNumber": "0000040545-15-000126",
+        "items": [
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000040545&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2015-07-06",
+        "formType": "8-K",
+        "accessionNumber": "0000040545-15-000076",
+        "items": [
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000040545&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2015-04-10",
+        "formType": "8-K",
+        "accessionNumber": "0000040545-15-000036",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000040545&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2007-09-21",
+        "formType": "8-K",
+        "accessionNumber": "0000040545-07-000044",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000040545&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2005-11-25",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-05-232239",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000040545&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2005-08-02",
+        "formType": "8-K",
+        "accessionNumber": "0000040545-05-000046",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000040545&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 6,
+    "itemCounts": {
+      "2.06": 2,
+      "2.05": 3,
+      "5.02": 1
+    },
+    "latestFilingDate": "2015-11-30",
+    "earliestFilingDate": "2005-08-02"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

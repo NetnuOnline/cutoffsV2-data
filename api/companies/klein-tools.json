@@ -1,0 +1,65 @@
+{
+  "slug": "klein-tools",
+  "canonical_name": "Klein Tools, Inc.",
+  "fein": null,
+  "lca_filing_count": 1,
+  "warn_notice_count": 2,
+  "median_wage_usd": 190000.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 190000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Director of Business Intelligence",
+      "count": 1,
+      "median_wage_usd": 190000.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "TARRANT",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "06/01/2020",
+      "effective_date": "08/01/2020",
+      "state": "IA",
+      "workers": 52,
+      "city": "Cedar Rapids"
+    },
+    {
+      "date": "05/27/2015",
+      "effective_date": "07/01/2015",
+      "state": "IL",
+      "workers": 31,
+      "city": "Lincolnshire"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "lca_worker_positions": 1,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3021",
+    "soc_title": "Computer and Information Systems Managers",
+    "market_median_usd": 169510.0,
+    "employer_median_usd": 190000.0,
+    "gap_usd": 20490.0
+  }
+}

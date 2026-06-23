@@ -1,0 +1,203 @@
+{
+  "slug": "singular-analysts",
+  "canonical_name": "Singular Analysts Inc",
+  "fein": "46-1614086",
+  "lca_filing_count": 46,
+  "lca_worker_positions": 46,
+  "warn_notice_count": 0,
+  "median_wage_usd": 90709.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 7,
+      "median_wage_usd": 95000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 7,
+      "median_wage_usd": 76898.0
+    },
+    {
+      "fy": 2022,
+      "filings": 4,
+      "median_wage_usd": 87568.0
+    },
+    {
+      "fy": 2023,
+      "filings": 8,
+      "median_wage_usd": 101192.0
+    },
+    {
+      "fy": 2024,
+      "filings": 10,
+      "median_wage_usd": 84094.0
+    },
+    {
+      "fy": 2025,
+      "filings": 5,
+      "median_wage_usd": 112923.0
+    },
+    {
+      "fy": 2026,
+      "filings": 5,
+      "median_wage_usd": 90896.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 35,
+      "median_wage_usd": 90896.0
+    },
+    {
+      "title": "SOFTWARE ENGINEER",
+      "count": 2,
+      "median_wage_usd": 95000.0
+    },
+    {
+      "title": "Data Scientist",
+      "count": 2,
+      "median_wage_usd": 96189.5
+    },
+    {
+      "title": "Database Architect",
+      "count": 1,
+      "median_wage_usd": 103210.0
+    },
+    {
+      "title": "Software Quality Assurance Analyst",
+      "count": 1,
+      "median_wage_usd": 82347.0
+    },
+    {
+      "title": "Supply chain Manager",
+      "count": 1,
+      "median_wage_usd": 68973.0
+    },
+    {
+      "title": "Java Developer",
+      "count": 1,
+      "median_wage_usd": 84094.0
+    },
+    {
+      "title": "Software Test Engineer",
+      "count": 1,
+      "median_wage_usd": 84094.0
+    },
+    {
+      "title": "Python Developer Software Engineer",
+      "count": 1,
+      "median_wage_usd": 85384.0
+    },
+    {
+      "title": "Clinical Data Manager",
+      "count": 1,
+      "median_wage_usd": 73944.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 15
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 5
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 3
+    },
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "county": "COBB",
+      "count": 1
+    },
+    {
+      "state": "CO",
+      "county": "JEFFERSON",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "county": "KENT",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "county": "ALLEGHENY",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 29
+    },
+    {
+      "state": "GA",
+      "count": 5
+    },
+    {
+      "state": "VA",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "count": 2
+    },
+    {
+      "state": "AZ",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "count": 2
+    },
+    {
+      "state": "MI",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "count": 1
+    },
+    {
+      "state": "CO",
+      "count": 1
+    },
+    {
+      "state": "MD",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 90896.0,
+    "gap_usd": -39264.0
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "slug": "uber",
+  "canonical_name": "Uber Technologies, Inc.",
+  "fein": null,
+  "lca_filing_count": 274,
+  "warn_notice_count": 6,
+  "median_wage_usd": 196550,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 0,
+      "median_wage_usd": null
+    },
+    {
+      "fy": 2026,
+      "filings": 0,
+      "median_wage_usd": null
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 0,
+      "median_wage_usd": null
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 2
+    },
+    {
+      "state": "NY",
+      "count": 2
+    },
+    {
+      "state": "AZ",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "05/18/2020",
+      "effective_date": "06/05/2020",
+      "state": "CA",
+      "workers": 167,
+      "city": "Palo Alto"
+    },
+    {
+      "date": "05/07/2020",
+      "effective_date": "06/08/2020",
+      "state": "NY",
+      "workers": 37,
+      "city": "Brooklyn"
+    },
+    {
+      "date": "05/07/2020",
+      "effective_date": "06/05/2020",
+      "state": "NY",
+      "workers": 26,
+      "city": "Long Island City"
+    },
+    {
+      "date": "05/07/2020",
+      "effective_date": "05/07/2020",
+      "state": "AZ",
+      "workers": 283,
+      "city": "Phoenix"
+    },
+    {
+      "date": "09/10/2019",
+      "effective_date": "10/10/2019",
+      "state": "CA",
+      "workers": 62,
+      "city": "Palo Alto"
+    },
+    {
+      "date": "05/29/2018",
+      "effective_date": "05/29/2018",
+      "state": "AZ",
+      "workers": 296,
+      "city": "Tempe"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2020-05-18",
+        "formType": "8-K",
+        "accessionNumber": "0001552781-20-000362",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001543151&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 1,
+    "itemCounts": {
+      "2.05": 1
+    },
+    "latestFilingDate": "2020-05-18",
+    "earliestFilingDate": "2020-05-18"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

@@ -1,0 +1,52 @@
+{
+  "slug": "pcc-airfoils",
+  "canonical_name": "PCC Airfoils, LLC",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "OH",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "05/20/2020",
+      "effective_date": "05/22/2020",
+      "state": "OH",
+      "workers": 122,
+      "city": "Crooksville/Perry"
+    },
+    {
+      "date": "03/30/2000",
+      "effective_date": "03/30/2000",
+      "state": "GA",
+      "workers": 60,
+      "city": "Douglas"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "southeast-georgia-wib",
+      "name": "Southeast Georgia WIB",
+      "state": "GA"
+    },
+    {
+      "slug": "southeast-ohio",
+      "name": "Southeast Ohio",
+      "state": "OH"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

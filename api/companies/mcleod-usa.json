@@ -1,0 +1,55 @@
+{
+  "slug": "mcleod-usa",
+  "canonical_name": "MCLEOD USA",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 4,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "03/28/2002",
+      "effective_date": "07/01/2002",
+      "state": "IL",
+      "workers": 30,
+      "city": "Mattoon"
+    },
+    {
+      "date": "03/28/2002",
+      "effective_date": "06/01/2002",
+      "state": "IL",
+      "workers": 54,
+      "city": "Mattoon"
+    },
+    {
+      "date": "03/28/2002",
+      "effective_date": "05/01/2002",
+      "state": "IL",
+      "workers": 53,
+      "city": "Mattoon"
+    },
+    {
+      "date": "09/26/2001",
+      "effective_date": "11/19/2001",
+      "state": "TX",
+      "workers": 63,
+      "city": "Carrollton"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

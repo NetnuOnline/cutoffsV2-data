@@ -1,0 +1,131 @@
+{
+  "slug": "exeter-finance",
+  "canonical_name": "Exeter Finance LLC",
+  "fein": "11-3779713",
+  "lca_filing_count": 13,
+  "lca_worker_positions": 13,
+  "warn_notice_count": 0,
+  "median_wage_usd": 137500.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 94007.11499999999
+    },
+    {
+      "fy": 2022,
+      "filings": 3,
+      "median_wage_usd": 138355.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 173867.19
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 162806.08,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Director IT Quality Assurance",
+      "count": 1,
+      "median_wage_usd": 173867.19
+    },
+    {
+      "title": "VP Quality Assurance and RPA",
+      "count": 1,
+      "median_wage_usd": 204960.58
+    },
+    {
+      "title": "Data Architect III",
+      "count": 1,
+      "median_wage_usd": 138355.0
+    },
+    {
+      "title": "Data Engineer III",
+      "count": 1,
+      "median_wage_usd": 137500.0
+    },
+    {
+      "title": "SR Workday HRIS Integration Analyst",
+      "count": 1,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "title": "Business Strategy Analyst III",
+      "count": 1,
+      "median_wage_usd": 92925.25
+    },
+    {
+      "title": "Data Scientist",
+      "count": 1,
+      "median_wage_usd": 90000.0
+    },
+    {
+      "title": "Quality Assurance Analyst III (QA Automation Engin",
+      "count": 1,
+      "median_wage_usd": 95000.0
+    },
+    {
+      "title": "Security Engineer (SE) III",
+      "count": 1,
+      "median_wage_usd": 162806.08
+    },
+    {
+      "title": "Quality Assurance Manager",
+      "count": 1,
+      "median_wage_usd": 149954.19
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 7
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "county": "UNION",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 12
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3021",
+    "soc_title": "Computer and Information Systems Managers",
+    "market_median_usd": 169510.0,
+    "employer_median_usd": 161910.69,
+    "gap_usd": -7599.31
+  }
+}

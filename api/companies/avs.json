@@ -1,0 +1,69 @@
+{
+  "slug": "avs",
+  "canonical_name": "AVS LLC",
+  "fein": "85-0819021",
+  "lca_filing_count": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 69000.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 3,
+      "median_wage_usd": 69000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 92206.5
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Information Technology Engineer",
+      "count": 3,
+      "median_wage_usd": 69000.0
+    },
+    {
+      "title": "SENIOR CLOUD ARCHITECT",
+      "count": 1,
+      "median_wage_usd": 85218.0
+    },
+    {
+      "title": "CLOUD ENGINEER",
+      "count": 1,
+      "median_wage_usd": 99195.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MA",
+      "county": "AYER",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MA",
+      "count": 3
+    },
+    {
+      "state": "GA",
+      "count": 1
+    },
+    {
+      "state": "AL",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 5,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1244",
+    "soc_title": "Network and Computer Systems Administrators",
+    "market_median_usd": 95000.0,
+    "employer_median_usd": 69000.0,
+    "gap_usd": -26000.0
+  }
+}

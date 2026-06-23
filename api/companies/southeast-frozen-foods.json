@@ -1,0 +1,47 @@
+{
+  "slug": "southeast-frozen-foods",
+  "canonical_name": "Southeast Frozen Foods",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "VA",
+      "count": 1
+    },
+    {
+      "state": "SC",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "03/25/2021",
+      "effective_date": "03/24/2021",
+      "state": "VA",
+      "workers": 68,
+      "city": "Sandston, VA"
+    },
+    {
+      "date": "03/24/2021",
+      "effective_date": "03/24/2021",
+      "state": "SC",
+      "workers": 73,
+      "city": "Gaston"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "midlands-wib",
+      "name": "Midlands WIB",
+      "state": "SC"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

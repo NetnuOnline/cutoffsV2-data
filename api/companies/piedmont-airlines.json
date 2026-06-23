@@ -1,0 +1,114 @@
+{
+  "slug": "piedmont-airlines",
+  "canonical_name": "Piedmont Airlines, Inc.",
+  "fein": null,
+  "lca_filing_count": 8,
+  "warn_notice_count": 5,
+  "median_wage_usd": 112528.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 5,
+      "median_wage_usd": 117894.4
+    },
+    {
+      "fy": 2022,
+      "filings": 3,
+      "median_wage_usd": 107161.6
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "FIRST OFFICER",
+      "count": 3,
+      "median_wage_usd": 117894.4
+    },
+    {
+      "title": "Pilot",
+      "count": 2,
+      "median_wage_usd": 107161.6
+    },
+    {
+      "title": "PILOT",
+      "count": 2,
+      "median_wage_usd": 106631.20000000001
+    },
+    {
+      "title": "Captain",
+      "count": 1,
+      "median_wage_usd": 177008.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "PA",
+      "count": 6
+    },
+    {
+      "state": "MD",
+      "count": 2
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "PA",
+      "county": "PHILADELPHIA",
+      "count": 6
+    },
+    {
+      "state": "MD",
+      "county": "WICOMICO",
+      "count": 2
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "09/22/2025",
+      "effective_date": "11/18/2025",
+      "state": "MA",
+      "workers": 61,
+      "city": "Boston, MA"
+    },
+    {
+      "date": "09/22/2025",
+      "effective_date": "09/22/2025",
+      "state": "MA",
+      "workers": 61,
+      "city": "Boston, MA"
+    },
+    {
+      "date": "01/04/2023",
+      "effective_date": "02/28/2023",
+      "state": "CA",
+      "workers": 43,
+      "city": "Long Beach"
+    },
+    {
+      "date": "08/03/2020",
+      "effective_date": "10/05/2020",
+      "state": "CA",
+      "workers": 77,
+      "city": "Santa Ana"
+    },
+    {
+      "date": "12/27/2011",
+      "effective_date": "03/25/2012",
+      "state": "NY",
+      "workers": 0,
+      "city": "LaGuardia International Airport  Flushing, NY,"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "metro-north-wia",
+      "name": "Metro North WIA",
+      "state": "MA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "lca_worker_positions": 28,
+  "top_socs": [],
+  "lca_periods": []
+}

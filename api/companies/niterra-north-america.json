@@ -1,0 +1,67 @@
+{
+  "slug": "niterra-north-america",
+  "canonical_name": "Niterra North America, Inc.",
+  "fein": "55-0733204",
+  "lca_filing_count": 2,
+  "warn_notice_count": 1,
+  "median_wage_usd": 151317.91,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 129305.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 173330.82
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Manager",
+      "count": 1,
+      "median_wage_usd": 173330.82
+    },
+    {
+      "title": "Lead SAP Analyst - FICO",
+      "count": 1,
+      "median_wage_usd": 129305.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MI",
+      "count": 2
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MI",
+      "county": "OAKLAND",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "11/19/2024",
+      "effective_date": "01/17/2025",
+      "state": "IL",
+      "workers": 35,
+      "city": "Wood Dale"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "dupage-county-wib",
+      "name": "DuPage County WIB",
+      "state": "IL"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": []
+}

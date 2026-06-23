@@ -1,0 +1,65 @@
+{
+  "slug": "exterran",
+  "canonical_name": "Exterran",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 4,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "OK",
+      "count": 2
+    },
+    {
+      "state": "OH",
+      "count": 1
+    },
+    {
+      "state": "LA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "12/18/2015",
+      "effective_date": "01/14/2016",
+      "state": "OH",
+      "workers": 68,
+      "city": "Youngstown/Mahoning"
+    },
+    {
+      "date": "06/19/2015",
+      "effective_date": "08/28/2015",
+      "state": "LA",
+      "workers": 48,
+      "city": "Broussard"
+    },
+    {
+      "date": "01/08/2014",
+      "effective_date": "01/08/2014",
+      "state": "OK",
+      "workers": 22,
+      "city": "08 - SouthernRegion"
+    },
+    {
+      "date": "03/03/2009",
+      "effective_date": "03/03/2009",
+      "state": "OK",
+      "workers": 193,
+      "city": null
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "fourth-planning-district-consortium-wia",
+      "name": "Fourth Planning District Consortium WIA",
+      "state": "LA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

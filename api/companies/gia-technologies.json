@@ -1,0 +1,69 @@
+{
+  "slug": "gia-technologies",
+  "canonical_name": "GIA TECHNOLOGIES INC",
+  "fein": "87-4525368",
+  "lca_filing_count": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 84094.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 91354.0
+    },
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 84094.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 5,
+      "median_wage_usd": 84094.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 3
+    },
+    {
+      "state": "UT",
+      "county": "SALT LAKE",
+      "count": 1
+    },
+    {
+      "state": "TN",
+      "county": "DAVIDSON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 3
+    },
+    {
+      "state": "UT",
+      "count": 1
+    },
+    {
+      "state": "TN",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 5,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 84094.0,
+    "gap_usd": -46066.0
+  }
+}

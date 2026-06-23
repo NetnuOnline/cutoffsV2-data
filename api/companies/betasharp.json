@@ -1,0 +1,112 @@
+{
+  "slug": "betasharp",
+  "canonical_name": "Betasharp Inc",
+  "fein": "81-4970638",
+  "lca_filing_count": 8,
+  "lca_worker_positions": 8,
+  "warn_notice_count": 0,
+  "median_wage_usd": 105341.6,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 85842.0
+    },
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 102939.0
+    },
+    {
+      "fy": 2026,
+      "filings": 4,
+      "median_wage_usd": 113235.20000000001,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 3,
+      "median_wage_usd": 107411.2
+    },
+    {
+      "title": "Sr. JAVA Developer",
+      "count": 2,
+      "median_wage_usd": 113235.20000000001
+    },
+    {
+      "title": "Sr. ETL Developer",
+      "count": 1,
+      "median_wage_usd": 85842.0
+    },
+    {
+      "title": "Full Stack Developer",
+      "count": 1,
+      "median_wage_usd": 103272.0
+    },
+    {
+      "title": "Data Engineer",
+      "count": 1,
+      "median_wage_usd": 97968.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MA",
+      "county": "BOSTON CITY",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "county": "WAKE",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "county": "RICHMOND CITY",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NC",
+      "count": 2
+    },
+    {
+      "state": "VA",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 110167.2,
+    "gap_usd": -19992.8
+  }
+}

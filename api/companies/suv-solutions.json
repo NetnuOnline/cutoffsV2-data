@@ -1,0 +1,138 @@
+{
+  "slug": "suv-solutions",
+  "canonical_name": "SUV Solutions Inc",
+  "fein": "85-1633158",
+  "lca_filing_count": 15,
+  "lca_worker_positions": 14,
+  "warn_notice_count": 0,
+  "median_wage_usd": 102000.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 4,
+      "median_wage_usd": 102000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 4,
+      "median_wage_usd": 91500.0
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 107600.0
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 92000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Full Stack Developer",
+      "count": 3,
+      "median_wage_usd": 102000.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 2,
+      "median_wage_usd": 106000.0
+    },
+    {
+      "title": "Sr. Devops Engineer",
+      "count": 2,
+      "median_wage_usd": 102000.0
+    },
+    {
+      "title": "Data Engineer",
+      "count": 1,
+      "median_wage_usd": 107600.0
+    },
+    {
+      "title": "Java Developer",
+      "count": 1,
+      "median_wage_usd": 85000.0
+    },
+    {
+      "title": "DevOps Engineer",
+      "count": 1,
+      "median_wage_usd": 98000.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 1,
+      "median_wage_usd": 102000.0
+    },
+    {
+      "title": "Sr QA Engineer",
+      "count": 1,
+      "median_wage_usd": 92000.0
+    },
+    {
+      "title": "ReactJS Developer",
+      "count": 1,
+      "median_wage_usd": 91500.0
+    },
+    {
+      "title": "QA Automation",
+      "count": 1,
+      "median_wage_usd": 92000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 4
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "county": "MONTGOMERY",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "county": "FAIRFAX",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 11
+    },
+    {
+      "state": "VA",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 102000.0,
+    "gap_usd": -28160.0
+  }
+}

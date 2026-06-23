@@ -1,0 +1,117 @@
+{
+  "slug": "fedex-logistics",
+  "canonical_name": "FedEx Logistics, Inc.",
+  "fein": "16-0807223",
+  "lca_filing_count": 8,
+  "warn_notice_count": 0,
+  "median_wage_usd": 95535.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 68640.0
+    },
+    {
+      "fy": 2024,
+      "filings": 5,
+      "median_wage_usd": 95390.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 116106.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer III",
+      "count": 4,
+      "median_wage_usd": 105893.0
+    },
+    {
+      "title": "Workforce Analytics Specialist ",
+      "count": 1,
+      "median_wage_usd": 68640.0
+    },
+    {
+      "title": "Senior Pricing Analyst",
+      "count": 1,
+      "median_wage_usd": 92976.0
+    },
+    {
+      "title": "Software Quality Engineer III",
+      "count": 1,
+      "median_wage_usd": 95390.0
+    },
+    {
+      "title": "Senior Pricing Analyst, Ocean Products",
+      "count": 1,
+      "median_wage_usd": 74806.6
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TN",
+      "county": "SHELBY",
+      "count": 6
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TN",
+      "count": 8
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 6,
+    "continuing_denials": 0,
+    "total_approvals": 7,
+    "by_fy": [
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      }
+    ]
+  },
+  "lca_worker_positions": 8,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 105893.0,
+    "gap_usd": -24267.0
+  }
+}

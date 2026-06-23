@@ -1,0 +1,63 @@
+{
+  "slug": "fastenal",
+  "canonical_name": "Fastenal Company",
+  "fein": null,
+  "lca_filing_count": 4,
+  "warn_notice_count": 1,
+  "median_wage_usd": 85105,
+  "by_fy": [
+    {
+      "fy": 2026,
+      "filings": 0,
+      "median_wage_usd": null
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "DATA INTEGRATION ENGINEER",
+      "count": 0,
+      "median_wage_usd": null
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NV",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "07/11/2025",
+      "effective_date": "07/31/2025",
+      "state": "NV",
+      "workers": 2,
+      "city": "Winnemucca, Humbolt County"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2023-07-12",
+        "formType": "8-K/A",
+        "accessionNumber": "0000815556-23-000037",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000815556&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 1,
+    "itemCounts": {
+      "5.02": 1
+    },
+    "latestFilingDate": "2023-07-12",
+    "earliestFilingDate": "2023-07-12"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

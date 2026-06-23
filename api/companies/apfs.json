@@ -1,0 +1,100 @@
+{
+  "slug": "apfs",
+  "canonical_name": "APFS, LLC",
+  "fein": "20-4714798",
+  "lca_filing_count": 6,
+  "lca_worker_positions": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 120400.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 124800.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 101560.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 93000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 139776.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "ASSOCIATE BUSINESS DEVELOPMENT MANAGER II",
+      "count": 2,
+      "median_wage_usd": 70000.0
+    },
+    {
+      "title": "Financial Analyst (Consultant)",
+      "count": 1,
+      "median_wage_usd": 139776.0
+    },
+    {
+      "title": "Consultant (Financial Analyst)",
+      "count": 1,
+      "median_wage_usd": 124800.0
+    },
+    {
+      "title": "Financial Analyst",
+      "count": 1,
+      "median_wage_usd": 133120.0
+    },
+    {
+      "title": "CONSULTANT - ORACLE CLOUD SOFTWARE DEVELOPER",
+      "count": 1,
+      "median_wage_usd": 116000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 2
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 3
+    },
+    {
+      "state": "NY",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1161",
+    "soc_title": "Market Research Analysts and Marketing Specialists",
+    "market_median_usd": 74680.0,
+    "employer_median_usd": 70000.0,
+    "gap_usd": -4680.0
+  }
+}

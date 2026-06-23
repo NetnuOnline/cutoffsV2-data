@@ -1,0 +1,89 @@
+{
+  "slug": "its-national",
+  "canonical_name": "ITS National LLC",
+  "fein": "36-4802175",
+  "lca_filing_count": 9,
+  "warn_notice_count": 0,
+  "median_wage_usd": 130000.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 4,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 85000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Director \u2013 Dev Ops",
+      "count": 3,
+      "median_wage_usd": 215000.0
+    },
+    {
+      "title": "Senior QA Engineer",
+      "count": 3,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Senior Product Manager",
+      "count": 1,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "BI Specialist",
+      "count": 1,
+      "median_wage_usd": 85000.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 1,
+      "median_wage_usd": 110573.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MO",
+      "county": "ST CHARLES",
+      "count": 4
+    },
+    {
+      "state": "CA",
+      "county": "CONTRA COSTA",
+      "count": 2
+    },
+    {
+      "state": "NV",
+      "county": "WASHOE",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MO",
+      "count": 4
+    },
+    {
+      "state": "NV",
+      "count": 3
+    },
+    {
+      "state": "CA",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 5,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3021",
+    "soc_title": "Computer and Information Systems Managers",
+    "market_median_usd": 169510.0,
+    "employer_median_usd": 215000.0,
+    "gap_usd": 45490.0
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "slug": "homeowners-of-america-holding",
+  "canonical_name": "Homeowners of America Holding Corporation",
+  "fein": null,
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 79961.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 79961.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "BUSINESS REPORTING ANALYST",
+      "count": 1,
+      "median_wage_usd": 85000.0
+    },
+    {
+      "title": "Product Analyst",
+      "count": 1,
+      "median_wage_usd": 74922.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Business Intelligence Analysts",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 79961.0,
+    "gap_usd": -28059.0
+  }
+}

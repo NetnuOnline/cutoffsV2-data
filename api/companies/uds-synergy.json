@@ -1,0 +1,57 @@
+{
+  "slug": "uds-synergy",
+  "canonical_name": "UDS Synergy Inc.",
+  "fein": "46-1812459",
+  "lca_filing_count": 2,
+  "lca_worker_positions": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 77373.6,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 75000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 79747.20000000001,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Research Scientist & Technical Consultant",
+      "count": 1,
+      "median_wage_usd": 79747.20000000001
+    },
+    {
+      "title": "Engineer & Consultant",
+      "count": 1,
+      "median_wage_usd": 75000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "BRAZORIA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1111",
+    "soc_title": "Management Analysts",
+    "market_median_usd": 99000.0,
+    "employer_median_usd": 75000.0,
+    "gap_usd": -24000.0
+  }
+}

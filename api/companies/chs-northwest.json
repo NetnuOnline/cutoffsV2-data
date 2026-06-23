@@ -1,0 +1,50 @@
+{
+  "slug": "chs-northwest",
+  "canonical_name": "CHS Northwest",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 3,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "WA",
+      "count": 3
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "03/05/2026",
+      "effective_date": "05/05/2026",
+      "state": "WA",
+      "workers": 57,
+      "city": "Whatcom, County"
+    },
+    {
+      "date": "02/19/2026",
+      "effective_date": "04/19/2026",
+      "state": "WA",
+      "workers": 38,
+      "city": "Various locations in Washington"
+    },
+    {
+      "date": "01/28/2026",
+      "effective_date": "04/01/2026",
+      "state": "WA",
+      "workers": 11,
+      "city": "Lynden"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "northwest-washington-wib",
+      "name": "Northwest Washington WIB",
+      "state": "WA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

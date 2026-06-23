@@ -1,0 +1,96 @@
+{
+  "slug": "pioneer-credit-recovery",
+  "canonical_name": "Pioneer Credit Recovery",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 9,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 8
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "03/31/2026",
+      "effective_date": "03/31/2026",
+      "state": "NJ",
+      "workers": 180,
+      "city": "Burlington"
+    },
+    {
+      "date": "02/02/2023",
+      "effective_date": "02/02/2023",
+      "state": "NY",
+      "workers": 337,
+      "city": null
+    },
+    {
+      "date": "11/07/2022",
+      "effective_date": "11/07/2022",
+      "state": "NY",
+      "workers": 335,
+      "city": null
+    },
+    {
+      "date": "10/04/2022",
+      "effective_date": "10/04/2022",
+      "state": "NY",
+      "workers": 0,
+      "city": null
+    },
+    {
+      "date": "09/29/2022",
+      "effective_date": "12/30/2022",
+      "state": "NY",
+      "workers": 0,
+      "city": "Arcade"
+    },
+    {
+      "date": "09/29/2022",
+      "effective_date": "12/30/2022",
+      "state": "NY",
+      "workers": 233,
+      "city": "Arcade"
+    },
+    {
+      "date": "09/29/2022",
+      "effective_date": "12/30/2022",
+      "state": "NY",
+      "workers": 102,
+      "city": "Horseheads"
+    },
+    {
+      "date": "09/29/2022",
+      "effective_date": "09/29/2022",
+      "state": "NY",
+      "workers": 337,
+      "city": null
+    },
+    {
+      "date": "09/29/2022",
+      "effective_date": "09/29/2022",
+      "state": "NY",
+      "workers": 332,
+      "city": null
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "burlington-wib",
+      "name": "Burlington WIB",
+      "state": "NJ"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

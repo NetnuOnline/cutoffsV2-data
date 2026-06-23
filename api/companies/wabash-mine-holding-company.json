@@ -1,0 +1,43 @@
+{
+  "slug": "wabash-mine-holding-company",
+  "canonical_name": "Wabash Mine Holding Company",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "04/05/2007",
+      "effective_date": "07/01/2007",
+      "state": "IL",
+      "workers": 37,
+      "city": "Mount Carmel"
+    },
+    {
+      "date": "04/05/2007",
+      "effective_date": "04/01/2007",
+      "state": "IL",
+      "workers": 232,
+      "city": "Mount Carmel"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "southern-14-wib",
+      "name": "Southern 14 WIB",
+      "state": "IL"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

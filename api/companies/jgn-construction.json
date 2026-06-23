@@ -1,0 +1,63 @@
+{
+  "slug": "jgn-construction",
+  "canonical_name": "JGN Construction Corporation",
+  "fein": "11-2605001",
+  "lca_filing_count": 1,
+  "warn_notice_count": 0,
+  "median_wage_usd": 81099.2,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 81099.2
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Computer Systems Analyst",
+      "count": 1,
+      "median_wage_usd": 81099.2
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "QUEENS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 0,
+    "continuing_denials": 0,
+    "total_approvals": 1,
+    "by_fy": [
+      {
+        "fy": 2021,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 1,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1211",
+    "soc_title": "Computer Systems Analysts",
+    "market_median_usd": 103800.0,
+    "employer_median_usd": 81099.2,
+    "gap_usd": -22700.8
+  }
+}

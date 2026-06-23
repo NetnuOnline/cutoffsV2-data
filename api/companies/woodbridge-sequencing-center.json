@@ -1,0 +1,58 @@
+{
+  "slug": "woodbridge-sequencing-center",
+  "canonical_name": "Woodbridge Sequencing Center",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "MO",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "02/09/2016",
+      "effective_date": "04/22/2016",
+      "state": "MO",
+      "workers": 107,
+      "city": "Kansas City"
+    },
+    {
+      "date": "07/31/2015",
+      "effective_date": "10/31/2015",
+      "state": "MO",
+      "workers": 200,
+      "city": "Kansas City"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2025-12-22",
+        "formType": "8-K",
+        "accessionNumber": "0001753926-25-001926",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001647088&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 1,
+    "itemCounts": {
+      "2.05": 1
+    },
+    "latestFilingDate": "2025-12-22",
+    "earliestFilingDate": "2025-12-22"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

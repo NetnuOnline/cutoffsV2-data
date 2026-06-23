@@ -1,0 +1,105 @@
+{
+  "slug": "csg-international",
+  "canonical_name": "CSG International",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 3,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "FL",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "NE",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "03/25/2025",
+      "effective_date": "05/30/2025",
+      "state": "FL",
+      "workers": 99,
+      "city": "CRAWFORDVILLE"
+    },
+    {
+      "date": "03/23/2021",
+      "effective_date": "06/30/2021",
+      "state": "TX",
+      "workers": 57,
+      "city": "Austin"
+    },
+    {
+      "date": "12/05/2013",
+      "effective_date": "12/05/2013",
+      "state": "NE",
+      "workers": 36,
+      "city": "Omaha"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2021-11-29",
+        "formType": "8-K",
+        "accessionNumber": "0001564590-21-058666",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001005757&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2005-12-15",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-05-243531",
+        "items": [
+          "2.05",
+          "2.06",
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities",
+          "Material Impairments",
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001005757&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2005-11-09",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-05-221600",
+        "items": [
+          "2.05",
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities",
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001005757&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 3,
+    "itemCounts": {
+      "5.02": 2,
+      "2.05": 2,
+      "2.06": 2
+    },
+    "latestFilingDate": "2021-11-29",
+    "earliestFilingDate": "2005-11-09"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

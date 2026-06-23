@@ -1,0 +1,118 @@
+{
+  "slug": "tek-associates",
+  "canonical_name": "Tek Associates, LLC",
+  "fein": "46-1769867",
+  "lca_filing_count": 10,
+  "lca_worker_positions": 10,
+  "warn_notice_count": 0,
+  "median_wage_usd": 85779.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 87557.5
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 85571.0
+    },
+    {
+      "fy": 2024,
+      "filings": 4,
+      "median_wage_usd": 90740.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 85675.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 90000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 6,
+      "median_wage_usd": 88805.5
+    },
+    {
+      "title": "Computer Programmer",
+      "count": 2,
+      "median_wage_usd": 85779.0
+    },
+    {
+      "title": "Business Analyst",
+      "count": 1,
+      "median_wage_usd": 90000.0
+    },
+    {
+      "title": "SAP Consultant",
+      "count": 1,
+      "median_wage_usd": 85571.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MI",
+      "county": "WASHTENAW",
+      "count": 2
+    },
+    {
+      "state": "OH",
+      "county": "FRANKLIN",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "county": "WOBURN CITY",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "county": "BURLINGTON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "OH",
+      "count": 4
+    },
+    {
+      "state": "MI",
+      "count": 2
+    },
+    {
+      "state": "MA",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 95701.0,
+    "gap_usd": -34459.0
+  }
+}

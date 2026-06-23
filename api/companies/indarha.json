@@ -1,0 +1,46 @@
+{
+  "slug": "indarha",
+  "canonical_name": "Indarha Inc",
+  "fein": "86-1348494",
+  "lca_filing_count": 1,
+  "warn_notice_count": 0,
+  "median_wage_usd": 78000.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 78000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Computer Systems Engineer",
+      "count": 1,
+      "median_wage_usd": 78000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "FL",
+      "county": "PALM BEACH",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "FL",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 1,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Computer Systems Engineers/Architects",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 78000.0,
+    "gap_usd": -40000.0
+  }
+}

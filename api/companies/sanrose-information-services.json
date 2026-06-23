@@ -1,0 +1,77 @@
+{
+  "slug": "sanrose-information-services",
+  "canonical_name": "Sanrose Information Services, Inc.",
+  "fein": "20-2887462",
+  "lca_filing_count": 5,
+  "lca_worker_positions": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 110000.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 98000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 117500.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "APPLICATIONS DEVELOPMENT ANALYST",
+      "count": 1,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "Security Analyst",
+      "count": 1,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "title": "SalesForce System Administrator",
+      "count": 1,
+      "median_wage_usd": 98000.0
+    },
+    {
+      "title": "Applications Development Analyst",
+      "count": 1,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "ERP Programmer Analyst",
+      "count": 1,
+      "median_wage_usd": 110000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "FL",
+      "county": "LEON",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "FL",
+      "count": 5
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1211",
+    "soc_title": "Computer Systems Analysts",
+    "market_median_usd": 103800.0,
+    "employer_median_usd": 104000.0,
+    "gap_usd": 200.0
+  }
+}

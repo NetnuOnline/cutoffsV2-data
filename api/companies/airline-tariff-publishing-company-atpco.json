@@ -1,0 +1,148 @@
+{
+  "slug": "airline-tariff-publishing-company-atpco",
+  "canonical_name": "Airline Tariff Publishing Company (ATPCO)",
+  "fein": "52-1015810",
+  "lca_filing_count": 32,
+  "lca_worker_positions": 29,
+  "warn_notice_count": 0,
+  "median_wage_usd": 143093.5,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 106740.0
+    },
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 112664.0
+    },
+    {
+      "fy": 2022,
+      "filings": 6,
+      "median_wage_usd": 144370.635
+    },
+    {
+      "fy": 2023,
+      "filings": 5,
+      "median_wage_usd": 140046.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 134346.375
+    },
+    {
+      "fy": 2025,
+      "filings": 5,
+      "median_wage_usd": 154592.0
+    },
+    {
+      "fy": 2026,
+      "filings": 8,
+      "median_wage_usd": 143000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Principal Software Engineer",
+      "count": 13,
+      "median_wage_usd": 143600.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 6,
+      "median_wage_usd": 130320.875
+    },
+    {
+      "title": "Senior Principal Software Engineer",
+      "count": 2,
+      "median_wage_usd": 160481.5
+    },
+    {
+      "title": "Principal Software Engineer ",
+      "count": 2,
+      "median_wage_usd": 148555.0
+    },
+    {
+      "title": "Production Support Systems Analyst IV",
+      "count": 2,
+      "median_wage_usd": 144670.11
+    },
+    {
+      "title": "Systems Engineer II",
+      "count": 2,
+      "median_wage_usd": 113459.0
+    },
+    {
+      "title": "Technical Project Manager",
+      "count": 1,
+      "median_wage_usd": 143187.0
+    },
+    {
+      "title": "Senior Manager, Corporate Communications",
+      "count": 1,
+      "median_wage_usd": 194164.0
+    },
+    {
+      "title": "Middleware Engineer",
+      "count": 1,
+      "median_wage_usd": 112664.0
+    },
+    {
+      "title": "Manager, Industry Solutions",
+      "count": 1,
+      "median_wage_usd": 146910.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "VA",
+      "county": "LOUDOUN",
+      "count": 16
+    },
+    {
+      "state": "VA",
+      "county": "PRINCE WILLIAM",
+      "count": 2
+    },
+    {
+      "state": "DE",
+      "county": "NEW CASTLE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "VA",
+      "count": 26
+    },
+    {
+      "state": "CA",
+      "count": 3
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    },
+    {
+      "state": "DE",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 143000.0,
+    "gap_usd": 12840.0
+  }
+}

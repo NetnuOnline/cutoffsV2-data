@@ -1,0 +1,51 @@
+{
+  "slug": "taiwan-business-bank-new-york-branch",
+  "canonical_name": "Taiwan Business Bank, LTD., New York Branch",
+  "fein": null,
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 65208.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 62400.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 68016.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Accountant ",
+      "count": 2,
+      "median_wage_usd": 65208.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-2011",
+    "soc_title": "Accountants and Auditors",
+    "market_median_usd": 79000.0,
+    "employer_median_usd": 68016.0,
+    "gap_usd": -10984.0
+  }
+}

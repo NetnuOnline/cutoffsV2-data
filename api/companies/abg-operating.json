@@ -1,0 +1,76 @@
+{
+  "slug": "abg-operating",
+  "canonical_name": "ABG Operating, LLC",
+  "fein": null,
+  "lca_filing_count": 2,
+  "warn_notice_count": 1,
+  "median_wage_usd": 96035.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 47070.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 145000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Assistant Engineer \u00f1 Continuous Improvement ",
+      "count": 1,
+      "median_wage_usd": 47070.0
+    },
+    {
+      "title": "Lab Engineering Manager",
+      "count": 1,
+      "median_wage_usd": 145000.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IN",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IL",
+      "county": "MARION",
+      "count": 1
+    },
+    {
+      "state": "IN",
+      "county": "VANDERBURGH",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "05/24/2024",
+      "effective_date": "05/24/2024",
+      "state": "MI",
+      "workers": 101,
+      "city": "Three Rivers"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "kalamazoo-st-joseph-michigan-works",
+      "name": "Kalamazoo-St. Joseph Michigan Works!",
+      "state": "MI"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": []
+}

@@ -1,0 +1,114 @@
+{
+  "slug": "foundry-digital",
+  "canonical_name": "Foundry Digital LLC",
+  "fein": "32-0619311",
+  "lca_filing_count": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 162791.5,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 182875.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 162791.5
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Data Engineer III",
+      "count": 1,
+      "median_wage_usd": 145000.0
+    },
+    {
+      "title": "Data Engineer I",
+      "count": 1,
+      "median_wage_usd": 95000.0
+    },
+    {
+      "title": "Director of Strategy",
+      "count": 1,
+      "median_wage_usd": 185750.0
+    },
+    {
+      "title": "DATA ENGINEER",
+      "count": 1,
+      "median_wage_usd": 162791.5
+    },
+    {
+      "title": "Engineer Manager",
+      "count": 1,
+      "median_wage_usd": 180000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "MONROE",
+      "count": 3
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 3
+    },
+    {
+      "state": "IL",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 4,
+    "initial_denials": 0,
+    "continuing_approvals": 1,
+    "continuing_denials": 0,
+    "total_approvals": 5,
+    "by_fy": [
+      {
+        "fy": 2021,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 3,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 4
+      }
+    ]
+  },
+  "lca_worker_positions": 5,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Computer Occupations, All Other",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 120000.0,
+    "gap_usd": 2000.0
+  }
+}

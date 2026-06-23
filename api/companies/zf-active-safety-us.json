@@ -1,0 +1,132 @@
+{
+  "slug": "zf-active-safety-us",
+  "canonical_name": "ZF Active Safety US Inc.",
+  "fein": "13-3369789",
+  "lca_filing_count": 66,
+  "lca_worker_positions": 61,
+  "warn_notice_count": 0,
+  "median_wage_usd": 112425.5,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 3,
+      "median_wage_usd": 93067.0
+    },
+    {
+      "fy": 2021,
+      "filings": 12,
+      "median_wage_usd": 94381.625
+    },
+    {
+      "fy": 2022,
+      "filings": 5,
+      "median_wage_usd": 116241.0
+    },
+    {
+      "fy": 2023,
+      "filings": 9,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 7,
+      "median_wage_usd": 138687.0
+    },
+    {
+      "fy": 2025,
+      "filings": 15,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 10,
+      "median_wage_usd": 129816.48999999999,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Principal Software Engineer",
+      "count": 3,
+      "median_wage_usd": 143327.0
+    },
+    {
+      "title": "Software Design Engineer III",
+      "count": 3,
+      "median_wage_usd": 127990.0
+    },
+    {
+      "title": "Software Lead Engineer",
+      "count": 3,
+      "median_wage_usd": 133984.0
+    },
+    {
+      "title": "Senior Software Test Engineer",
+      "count": 3,
+      "median_wage_usd": 126574.19
+    },
+    {
+      "title": "Software Technical Lead (CSPR/PM)",
+      "count": 2,
+      "median_wage_usd": 146543.5
+    },
+    {
+      "title": "Sr. Systems Administrator-Gen",
+      "count": 2,
+      "median_wage_usd": 88823.0
+    },
+    {
+      "title": "Sr. Buyer- Commodity",
+      "count": 2,
+      "median_wage_usd": 86000.0
+    },
+    {
+      "title": "Sr Engineer - Software",
+      "count": 2,
+      "median_wage_usd": 123996.0
+    },
+    {
+      "title": "Engineer II- Systems",
+      "count": 2,
+      "median_wage_usd": 93067.0
+    },
+    {
+      "title": "ADAS Vehicle Safety Engineer",
+      "count": 2,
+      "median_wage_usd": 112000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MI",
+      "county": "WAYNE",
+      "count": 32
+    },
+    {
+      "state": "MI",
+      "county": "OAKLAND",
+      "count": 8
+    },
+    {
+      "state": "MI",
+      "county": "LIVINGSTON",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MI",
+      "count": 66
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 136508.0,
+    "gap_usd": 6348.0
+  }
+}

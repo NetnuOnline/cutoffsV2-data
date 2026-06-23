@@ -1,0 +1,66 @@
+{
+  "slug": "intellivision",
+  "canonical_name": "INTELLIVISION INC",
+  "fein": null,
+  "lca_filing_count": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 88982.4,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 5,
+      "median_wage_usd": 88982.40000000001
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SOFTWARE ENGINEER",
+      "count": 1,
+      "median_wage_usd": 88982.40000000001
+    },
+    {
+      "title": "SALESFORCE ADMINISTRATOR",
+      "count": 1,
+      "median_wage_usd": 71011.2
+    },
+    {
+      "title": "DATA ENGINEER",
+      "count": 1,
+      "median_wage_usd": 89398.4
+    },
+    {
+      "title": "FULL STACK JAVA DEVELOPER",
+      "count": 1,
+      "median_wage_usd": 88982.40000000001
+    },
+    {
+      "title": "SOFTWARE DEVELOPER",
+      "count": 1,
+      "median_wage_usd": 88982.40000000001
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "KY",
+      "county": "JEFFERSON",
+      "count": 5
+    }
+  ],
+  "top_states": [
+    {
+      "state": "KY",
+      "count": 5
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 5,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 88982.4,
+    "gap_usd": -41177.6
+  }
+}

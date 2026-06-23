@@ -1,0 +1,199 @@
+{
+  "slug": "sas-institute",
+  "canonical_name": "SAS Institute, Inc.",
+  "fein": "56-1133017",
+  "lca_filing_count": 66,
+  "lca_worker_positions": 66,
+  "warn_notice_count": 0,
+  "median_wage_usd": 112028.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 27,
+      "median_wage_usd": 108659.0
+    },
+    {
+      "fy": 2021,
+      "filings": 10,
+      "median_wage_usd": 111165.5
+    },
+    {
+      "fy": 2022,
+      "filings": 9,
+      "median_wage_usd": 131851.0
+    },
+    {
+      "fy": 2023,
+      "filings": 9,
+      "median_wage_usd": 129522.0
+    },
+    {
+      "fy": 2024,
+      "filings": 5,
+      "median_wage_usd": 109262.0
+    },
+    {
+      "fy": 2025,
+      "filings": 5,
+      "median_wage_usd": 161637.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 157248.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 9,
+      "median_wage_usd": 109262.0
+    },
+    {
+      "title": "Senior Software Developer",
+      "count": 4,
+      "median_wage_usd": 128742.5
+    },
+    {
+      "title": "Analytical Consultant",
+      "count": 4,
+      "median_wage_usd": 100370.5
+    },
+    {
+      "title": "Solution Consultant",
+      "count": 3,
+      "median_wage_usd": 93912.0
+    },
+    {
+      "title": "Principal Solution Consultant",
+      "count": 2,
+      "median_wage_usd": 133515.0
+    },
+    {
+      "title": "Senior Solutions Advisor",
+      "count": 2,
+      "median_wage_usd": 129937.5
+    },
+    {
+      "title": "Principal Technical Consultant",
+      "count": 2,
+      "median_wage_usd": 129781.5
+    },
+    {
+      "title": "Principal Analytical Consultant",
+      "count": 2,
+      "median_wage_usd": 111092.5
+    },
+    {
+      "title": "Manager - Consulting",
+      "count": 2,
+      "median_wage_usd": 111550.0
+    },
+    {
+      "title": "Analytics Software Tester",
+      "count": 2,
+      "median_wage_usd": 111852.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NC",
+      "county": "WAKE",
+      "count": 49
+    },
+    {
+      "state": "SC",
+      "county": "RICHLAND",
+      "count": 4
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 2
+    },
+    {
+      "state": "VA",
+      "county": "ALBEMARLE",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 1
+    },
+    {
+      "state": "CT",
+      "county": "HARTFORD CITY",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "county": "ORANGE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NC",
+      "count": 51
+    },
+    {
+      "state": "SC",
+      "count": 4
+    },
+    {
+      "state": "VA",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "count": 2
+    },
+    {
+      "state": "CT",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 141003.0,
+    "gap_usd": 10843.0
+  }
+}

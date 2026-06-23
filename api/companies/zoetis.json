@@ -1,0 +1,203 @@
+{
+  "slug": "zoetis",
+  "canonical_name": "Zoetis, Inc.",
+  "fein": "46-0696167",
+  "lca_filing_count": 85,
+  "lca_worker_positions": 85,
+  "warn_notice_count": 0,
+  "median_wage_usd": 128517.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 12,
+      "median_wage_usd": 123500.0
+    },
+    {
+      "fy": 2021,
+      "filings": 9,
+      "median_wage_usd": 119340.0
+    },
+    {
+      "fy": 2022,
+      "filings": 22,
+      "median_wage_usd": 127294.5
+    },
+    {
+      "fy": 2023,
+      "filings": 15,
+      "median_wage_usd": 128960.0
+    },
+    {
+      "fy": 2024,
+      "filings": 11,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 10,
+      "median_wage_usd": 153857.5
+    },
+    {
+      "fy": 2026,
+      "filings": 6,
+      "median_wage_usd": 126593.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SAP Commerce Software Engineer",
+      "count": 4,
+      "median_wage_usd": 129410.0
+    },
+    {
+      "title": "Cloud Dev Ops/Automation Engineer",
+      "count": 3,
+      "median_wage_usd": 140046.0
+    },
+    {
+      "title": "RPA Junior Solution Developer",
+      "count": 2,
+      "median_wage_usd": 96605.0
+    },
+    {
+      "title": "Senior Scientist",
+      "count": 2,
+      "median_wage_usd": 93712.5
+    },
+    {
+      "title": "Data Engineer",
+      "count": 2,
+      "median_wage_usd": 109949.0
+    },
+    {
+      "title": "Senior Manager, Global Planning (SAP SCM/APO)",
+      "count": 2,
+      "median_wage_usd": 152500.0
+    },
+    {
+      "title": "SAP ERP Developer (ABAP)",
+      "count": 2,
+      "median_wage_usd": 124572.6
+    },
+    {
+      "title": "Data Product Engineering Lead",
+      "count": 2,
+      "median_wage_usd": 148102.0
+    },
+    {
+      "title": "IT Engineer, Commercial Genetics Java Applications",
+      "count": 2,
+      "median_wage_usd": 105000.0
+    },
+    {
+      "title": "NGSE Data Scientist",
+      "count": 1,
+      "median_wage_usd": 135000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NJ",
+      "county": "MORRIS",
+      "count": 38
+    },
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 6
+    },
+    {
+      "state": "MI",
+      "county": "KALAMAZOO",
+      "count": 5
+    },
+    {
+      "state": "NE",
+      "county": "LANCASTER",
+      "count": 3
+    },
+    {
+      "state": "NC",
+      "county": "DURHAM",
+      "count": 3
+    },
+    {
+      "state": "PA",
+      "county": "CHESTER",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 3
+    },
+    {
+      "state": "SC",
+      "county": "HORRY",
+      "count": 1
+    },
+    {
+      "state": "KY",
+      "county": "JEFFERSON",
+      "count": 1
+    },
+    {
+      "state": "MN",
+      "county": "RAMSEY",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 45
+    },
+    {
+      "state": "CA",
+      "count": 8
+    },
+    {
+      "state": "MI",
+      "count": 8
+    },
+    {
+      "state": "NC",
+      "count": 6
+    },
+    {
+      "state": "NE",
+      "count": 4
+    },
+    {
+      "state": "TX",
+      "count": 4
+    },
+    {
+      "state": "PA",
+      "count": 3
+    },
+    {
+      "state": "GA",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "count": 1
+    },
+    {
+      "state": "SC",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 129410.0,
+    "gap_usd": -750.0
+  }
+}

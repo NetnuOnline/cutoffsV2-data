@@ -1,0 +1,159 @@
+{
+  "slug": "union-pacific",
+  "canonical_name": "Union Pacific",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 10,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "NE",
+      "count": 6
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "MO",
+      "count": 1
+    },
+    {
+      "state": "OR",
+      "count": 1
+    },
+    {
+      "state": "CO",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "04/15/2021",
+      "effective_date": "06/14/2021",
+      "state": "TX",
+      "workers": 57,
+      "city": "Palestine"
+    },
+    {
+      "date": "10/17/2019",
+      "effective_date": "12/17/2019",
+      "state": "MO",
+      "workers": 89,
+      "city": "Kansas City"
+    },
+    {
+      "date": "08/20/2019",
+      "effective_date": "08/20/2019",
+      "state": "NE",
+      "workers": 55,
+      "city": "North Platte"
+    },
+    {
+      "date": "06/21/2019",
+      "effective_date": "06/21/2019",
+      "state": "NE",
+      "workers": 78,
+      "city": "North Platte"
+    },
+    {
+      "date": "05/21/2019",
+      "effective_date": "05/21/2019",
+      "state": "OR",
+      "workers": 195,
+      "city": "Portland"
+    },
+    {
+      "date": "01/30/2019",
+      "effective_date": "01/30/2019",
+      "state": "NE",
+      "workers": 68,
+      "city": "Morrill"
+    },
+    {
+      "date": "10/11/2018",
+      "effective_date": "10/11/2018",
+      "state": "NE",
+      "workers": 68,
+      "city": "Morrill"
+    },
+    {
+      "date": "11/16/2015",
+      "effective_date": "11/16/2015",
+      "state": "CO",
+      "workers": 300,
+      "city": "Denver"
+    },
+    {
+      "date": "09/16/2015",
+      "effective_date": "09/16/2015",
+      "state": "NE",
+      "workers": 100,
+      "city": "Omaha"
+    },
+    {
+      "date": "08/12/2015",
+      "effective_date": "08/12/2015",
+      "state": "NE",
+      "workers": 100,
+      "city": "Omaha"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "mid-plains-economic-region",
+      "name": "Mid Plains Economic Region",
+      "state": "NE"
+    },
+    {
+      "slug": "panhandle-economic-region",
+      "name": "Panhandle Economic Region",
+      "state": "NE"
+    },
+    {
+      "slug": "east-texas-wda",
+      "name": "East Texas WDA",
+      "state": "TX"
+    }
+  ],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2017-08-16",
+        "formType": "8-K",
+        "accessionNumber": "0000100885-17-000187",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000100885&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2006-05-09",
+        "formType": "8-K/A",
+        "accessionNumber": "0001193125-06-105192",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000100885&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 2,
+    "itemCounts": {
+      "2.05": 1,
+      "5.02": 1
+    },
+    "latestFilingDate": "2017-08-16",
+    "earliestFilingDate": "2006-05-09"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

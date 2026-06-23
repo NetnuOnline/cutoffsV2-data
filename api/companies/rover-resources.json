@@ -1,0 +1,132 @@
+{
+  "slug": "rover-resources",
+  "canonical_name": "ROVER RESOURCES, INC",
+  "fein": "20-1200573",
+  "lca_filing_count": 8,
+  "lca_worker_positions": 8,
+  "warn_notice_count": 0,
+  "median_wage_usd": 99500.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 104500.0
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 96000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 82000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 137259.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 109000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SOFTWARE DEVELOPER",
+      "count": 3,
+      "median_wage_usd": 103000.0
+    },
+    {
+      "title": "ORACLE SYSTEMS SOLUTIONS ARCHITECT/ENGINEER",
+      "count": 1,
+      "median_wage_usd": 109000.0
+    },
+    {
+      "title": "PROJECT MANAGER",
+      "count": 1,
+      "median_wage_usd": 96000.0
+    },
+    {
+      "title": "COMPUTER (APPLICATIONS/SOLUTIONS) DEVELOPER",
+      "count": 1,
+      "median_wage_usd": 106000.0
+    },
+    {
+      "title": "TECHNICAL PROGRAM MANAGER",
+      "count": 1,
+      "median_wage_usd": 79000.0
+    },
+    {
+      "title": "SOFTWARE (DEVOPS) ENGINEER",
+      "count": 1,
+      "median_wage_usd": 82000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 3
+    },
+    {
+      "state": "OH",
+      "county": "FRANKLIN",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "county": "HENRICO",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "ORANGE",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "county": "SNOHOMISH",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 3
+    },
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    },
+    {
+      "state": "OH",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 82000.0,
+    "gap_usd": -48160.0
+  }
+}

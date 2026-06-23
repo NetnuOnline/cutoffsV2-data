@@ -1,0 +1,37 @@
+{
+  "slug": "valid-usa",
+  "canonical_name": "VALID USA",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "03/31/2017",
+      "effective_date": "03/31/2017",
+      "state": "NJ",
+      "workers": 76,
+      "city": "So. Plainfield"
+    },
+    {
+      "date": "07/08/2016",
+      "effective_date": "07/08/2016",
+      "state": "NJ",
+      "workers": 144,
+      "city": "So. Plainfield"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

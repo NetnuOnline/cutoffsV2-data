@@ -1,0 +1,171 @@
+{
+  "slug": "teradata-us",
+  "canonical_name": "Teradata US, Inc.",
+  "fein": "75-3236480",
+  "lca_filing_count": 13,
+  "warn_notice_count": 0,
+  "median_wage_usd": 153964.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 7,
+      "median_wage_usd": 152017.0
+    },
+    {
+      "fy": 2024,
+      "filings": 6,
+      "median_wage_usd": 168549.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Staff DevOps Engineer - KBGFJG03881-16",
+      "count": 1,
+      "median_wage_usd": 133093.8
+    },
+    {
+      "title": "Staff Software Engineer - KBGFJG179160-3",
+      "count": 1,
+      "median_wage_usd": 156811.0
+    },
+    {
+      "title": "Software Engineer - KBGFJG118422-1",
+      "count": 1,
+      "median_wage_usd": 152017.0
+    },
+    {
+      "title": "Data Science Engineer - KBGFJG115061-1",
+      "count": 1,
+      "median_wage_usd": 151825.0
+    },
+    {
+      "title": "Software Engineer - KBGFJG118367-1",
+      "count": 1,
+      "median_wage_usd": 142667.0
+    },
+    {
+      "title": "Staff Software Engineer - KBGFJG115012-6",
+      "count": 1,
+      "median_wage_usd": 174224.0
+    },
+    {
+      "title": "Sr. Staff Cloud Engineer - KBGFJG127682-4",
+      "count": 1,
+      "median_wage_usd": 162874.0
+    },
+    {
+      "title": "Staff Product Manager - KBGFJG127789-3",
+      "count": 1,
+      "median_wage_usd": 200000.0
+    },
+    {
+      "title": "SOFTWARE ENGINEER - KBGFJG118422-1",
+      "count": 1,
+      "median_wage_usd": 152017.0
+    },
+    {
+      "title": "Sr Staff Software Engineer - KBGFJG118384-1",
+      "count": 1,
+      "median_wage_usd": 143309.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 4
+    },
+    {
+      "state": "CA",
+      "county": "SAN DIEGO",
+      "count": 3
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "county": "HUDSON",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "county": "MIDDLESEX",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "RIVERSIDE",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 11
+    },
+    {
+      "state": "NJ",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 6,
+    "initial_denials": 1,
+    "continuing_approvals": 62,
+    "continuing_denials": 1,
+    "total_approvals": 68,
+    "by_fy": [
+      {
+        "fy": 2020,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 8,
+        "continuing_denials": 0,
+        "total_approvals": 8
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 25,
+        "continuing_denials": 0,
+        "total_approvals": 27
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 4,
+        "initial_denials": 1,
+        "continuing_approvals": 24,
+        "continuing_denials": 1,
+        "total_approvals": 28
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 5,
+        "continuing_denials": 0,
+        "total_approvals": 5
+      }
+    ]
+  },
+  "lca_worker_positions": 13,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 165517.5,
+    "gap_usd": 35357.5
+  }
+}

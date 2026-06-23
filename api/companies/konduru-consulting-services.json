@@ -1,0 +1,181 @@
+{
+  "slug": "konduru-consulting-services",
+  "canonical_name": "Konduru Consulting Services LLC",
+  "fein": "87-4615828",
+  "lca_filing_count": 13,
+  "warn_notice_count": 0,
+  "median_wage_usd": 100000.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 9,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 4,
+      "median_wage_usd": 103250.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 2,
+      "median_wage_usd": 103000.0
+    },
+    {
+      "title": "ETL Developer",
+      "count": 2,
+      "median_wage_usd": 98466.5
+    },
+    {
+      "title": "Oracle Apps Consultant",
+      "count": 1,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "title": "Solution Architect",
+      "count": 1,
+      "median_wage_usd": 78478.0
+    },
+    {
+      "title": "Ab Initio ETL Developer",
+      "count": 1,
+      "median_wage_usd": 93683.0
+    },
+    {
+      "title": "Ab-Initio Developer",
+      "count": 1,
+      "median_wage_usd": 103250.0
+    },
+    {
+      "title": "Integration Developer",
+      "count": 1,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "title": "Systems Services And SUPPORT Consultant",
+      "count": 1,
+      "median_wage_usd": 101200.0
+    },
+    {
+      "title": "Senior Data Engineer",
+      "count": 1,
+      "median_wage_usd": 81682.0
+    },
+    {
+      "title": "Oracle EBS Consultant",
+      "count": 1,
+      "median_wage_usd": 82950.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "county": "SOMERSET",
+      "count": 2
+    },
+    {
+      "state": "OH",
+      "county": "CUYAHOGA",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "county": "SEMINOLE",
+      "count": 1
+    },
+    {
+      "state": "CT",
+      "county": "HARTFORD CITY",
+      "count": 1
+    },
+    {
+      "state": "IN",
+      "county": "BARTHOLOMEW",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "county": "MORRIS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 5
+    },
+    {
+      "state": "NJ",
+      "count": 3
+    },
+    {
+      "state": "OH",
+      "count": 2
+    },
+    {
+      "state": "CT",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "count": 1
+    },
+    {
+      "state": "IN",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 9,
+    "initial_denials": 0,
+    "continuing_approvals": 1,
+    "continuing_denials": 1,
+    "total_approvals": 10,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 7,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 1,
+        "total_approvals": 8
+      }
+    ]
+  },
+  "lca_worker_positions": 13,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 100000.0,
+    "gap_usd": -30160.0
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "slug": "triple-p-services",
+  "canonical_name": "Triple P Services, LLC",
+  "fein": "93-1449279",
+  "lca_filing_count": 7,
+  "lca_worker_positions": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 225000.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 225000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 380000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 187500.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 125000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Cross-Functional Senior Associate",
+      "count": 3,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "title": "Director, Delivery Excellence",
+      "count": 2,
+      "median_wage_usd": 225000.0
+    },
+    {
+      "title": "Vice President",
+      "count": 1,
+      "median_wage_usd": 380000.0
+    },
+    {
+      "title": "Director, Investment Banking",
+      "count": 1,
+      "median_wage_usd": 250000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 4
+    },
+    {
+      "state": "CA",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1111",
+    "soc_title": "Management Analysts",
+    "market_median_usd": 99000.0,
+    "employer_median_usd": 225000.0,
+    "gap_usd": 126000.0
+  }
+}

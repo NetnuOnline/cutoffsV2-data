@@ -1,0 +1,75 @@
+{
+  "slug": "hitps",
+  "canonical_name": "HITPS LLC",
+  "fein": null,
+  "lca_filing_count": 9,
+  "warn_notice_count": 0,
+  "median_wage_usd": 150000.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 7,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 157781.5
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Full Stack Engineer",
+      "count": 6,
+      "median_wage_usd": 143781.5
+    },
+    {
+      "title": "Front End Engineer",
+      "count": 2,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "title": "Software Engineer- Data",
+      "count": 1,
+      "median_wage_usd": 158500.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 7
+    },
+    {
+      "state": "MA",
+      "county": "BOSTON CITY",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "county": "NORTHBOROUGH",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 7
+    },
+    {
+      "state": "MA",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 9,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 150000.0,
+    "gap_usd": 19840.0
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "slug": "crocket-martin",
+  "canonical_name": "Crocket Martin Corp",
+  "fein": null,
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 80194.5,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 82888.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 77501.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Marketing Manager",
+      "count": 2,
+      "median_wage_usd": 80194.5
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "MONTGOMERY",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-2021",
+    "soc_title": "Marketing Managers",
+    "market_median_usd": 157620.0,
+    "employer_median_usd": 80194.5,
+    "gap_usd": -77425.5
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "slug": "myonsite-healthcare",
+  "canonical_name": "myOnsite Healthcare, LLC",
+  "fein": null,
+  "lca_filing_count": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 86507.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 86507.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 120000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Finance Director ",
+      "count": 2,
+      "median_wage_usd": 86507.0
+    },
+    {
+      "title": "Finance Director",
+      "count": 1,
+      "median_wage_usd": 120000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "FL",
+      "county": "SARASOTA",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "FL",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3031",
+    "soc_title": "Treasurers and Controllers",
+    "market_median_usd": 156100.0,
+    "employer_median_usd": 86507.0,
+    "gap_usd": -69593.0
+  }
+}

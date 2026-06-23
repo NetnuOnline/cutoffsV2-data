@@ -1,0 +1,56 @@
+{
+  "slug": "transfair-usa",
+  "canonical_name": "TRANSFAIR USA",
+  "fein": null,
+  "lca_filing_count": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 65936.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 64105.5
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 75795.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Standards Manager, Seafood ",
+      "count": 2,
+      "median_wage_usd": 64105.5
+    },
+    {
+      "title": "Senior Producer Services Manager ",
+      "count": 1,
+      "median_wage_usd": 75795.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1161",
+    "soc_title": "Market Research Analysts and Marketing Specialists",
+    "market_median_usd": 74680.0,
+    "employer_median_usd": 75795.0,
+    "gap_usd": 1115.0
+  }
+}

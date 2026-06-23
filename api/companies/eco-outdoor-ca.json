@@ -1,0 +1,87 @@
+{
+  "slug": "eco-outdoor-ca",
+  "canonical_name": "Eco Outdoor CA Inc.",
+  "fein": "33-1228984",
+  "lca_filing_count": 7,
+  "lca_worker_positions": 7,
+  "warn_notice_count": 0,
+  "median_wage_usd": 120000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 100500.0
+    },
+    {
+      "fy": 2022,
+      "filings": 3,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 172800.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "FINANCE AND OPERATIONS MANAGER",
+      "count": 2,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "BUSINESS DEVELOPMENT MANAGER",
+      "count": 2,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "CONSTRUCTION MANAGER",
+      "count": 1,
+      "median_wage_usd": 172800.0
+    },
+    {
+      "title": "FINANCIAL AND OPERATIONS ACCOUNTANT",
+      "count": 1,
+      "median_wage_usd": 80000.0
+    },
+    {
+      "title": "Business Developer",
+      "count": 1,
+      "median_wage_usd": 81000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 5
+    },
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 7
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1161",
+    "soc_title": "Market Research Analysts and Marketing Specialists",
+    "market_median_usd": 74680.0,
+    "employer_median_usd": 120000.0,
+    "gap_usd": 45320.0
+  }
+}

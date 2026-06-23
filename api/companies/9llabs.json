@@ -1,0 +1,62 @@
+{
+  "slug": "9llabs",
+  "canonical_name": "9LLabs LLC",
+  "fein": "86-3473249",
+  "lca_filing_count": 5,
+  "lca_worker_positions": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 128502.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 128502.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 124966.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 3,
+      "median_wage_usd": 128502.0
+    },
+    {
+      "title": "Data Modeler",
+      "count": 1,
+      "median_wage_usd": 100693.0
+    },
+    {
+      "title": "Data Engineering & DevOps",
+      "count": 1,
+      "median_wage_usd": 149240.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "WA",
+      "count": 5
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 128502.0,
+    "gap_usd": -1658.0
+  }
+}

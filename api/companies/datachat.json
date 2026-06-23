@@ -1,0 +1,109 @@
+{
+  "slug": "datachat",
+  "canonical_name": "DataChat Inc.",
+  "fein": "82-1437973",
+  "lca_filing_count": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 112500.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 102000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 115000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer 2",
+      "count": 2,
+      "median_wage_usd": 102500.0
+    },
+    {
+      "title": "Software Enginer",
+      "count": 1,
+      "median_wage_usd": 94000.0
+    },
+    {
+      "title": "Chief Technology Officer",
+      "count": 1,
+      "median_wage_usd": 200000.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "Senior ML Engineer 2",
+      "count": 1,
+      "median_wage_usd": 120000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "WI",
+      "county": "DANE",
+      "count": 6
+    }
+  ],
+  "top_states": [
+    {
+      "state": "WI",
+      "count": 6
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 10,
+    "initial_denials": 0,
+    "continuing_approvals": 4,
+    "continuing_denials": 0,
+    "total_approvals": 14,
+    "by_fy": [
+      {
+        "fy": 2021,
+        "initial_approvals": 5,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 7
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 5,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 6
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 6,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 115000.0,
+    "gap_usd": -15160.0
+  }
+}

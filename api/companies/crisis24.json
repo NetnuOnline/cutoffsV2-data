@@ -1,0 +1,69 @@
+{
+  "slug": "crisis24",
+  "canonical_name": "Crisis24, Inc.",
+  "fein": "52-2251242",
+  "lca_filing_count": 4,
+  "lca_worker_positions": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 123253.5,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 124800.0
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 121707.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer, Tier III Technical Support Engineering",
+      "count": 1,
+      "median_wage_usd": 121707.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 1,
+      "median_wage_usd": 170975.0
+    },
+    {
+      "title": "Data Engineer",
+      "count": 1,
+      "median_wage_usd": 124800.0
+    },
+    {
+      "title": "Software Quality Assurance Engineer",
+      "count": 1,
+      "median_wage_usd": 87567.0
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 2
+    },
+    {
+      "state": "MI",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 146341.0,
+    "gap_usd": 16181.0
+  }
+}

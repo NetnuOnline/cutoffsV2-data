@@ -1,0 +1,54 @@
+{
+  "slug": "conduit-global",
+  "canonical_name": "Conduit Global",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 3,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "TN",
+      "count": 2
+    },
+    {
+      "state": "NC",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "04/26/2021",
+      "effective_date": "06/25/2021",
+      "state": "NC",
+      "workers": 173,
+      "city": "5420 Millstream Road, Mc Leansville"
+    },
+    {
+      "date": "03/04/2019",
+      "effective_date": "04/30/2019",
+      "state": "TN",
+      "workers": 112,
+      "city": "Shelby County"
+    },
+    {
+      "date": "05/06/2015",
+      "effective_date": "05/06/2015",
+      "state": "TN",
+      "workers": 592,
+      "city": "Cordova"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "13-local-workforce-investment-area",
+      "name": "13 Local Workforce Investment Area",
+      "state": "TN"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

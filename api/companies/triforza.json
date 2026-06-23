@@ -1,0 +1,61 @@
+{
+  "slug": "triforza",
+  "canonical_name": "TriForza Corp.",
+  "fein": "99-1471639",
+  "lca_filing_count": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 189319.79,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 189319.79
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Product Manager-Artificial Intelligence",
+      "count": 2,
+      "median_wage_usd": 189319.79
+    },
+    {
+      "title": "Senior Manager-Javalin",
+      "count": 1,
+      "median_wage_usd": 189319.79
+    },
+    {
+      "title": "Data Quality Assurance Engineer",
+      "count": 1,
+      "median_wage_usd": 110000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "WA",
+      "count": 4
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1253",
+    "soc_title": "Software Quality Assurance Analysts and Testers",
+    "market_median_usd": 101800.0,
+    "employer_median_usd": 110000.0,
+    "gap_usd": 8200.0
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "slug": "broadcast-music",
+  "canonical_name": "Broadcast Music, Inc.",
+  "fein": "13-0524209",
+  "lca_filing_count": 3,
+  "warn_notice_count": 1,
+  "median_wage_usd": 97571.87,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 97571.87
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Sr. Mainframe Programmer Analyst",
+      "count": 3,
+      "median_wage_usd": 97571.87
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TN",
+      "count": 3
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TN",
+      "county": "WILSON",
+      "count": 2
+    },
+    {
+      "state": "TN",
+      "county": "WILLIAMSON",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "06/30/2009",
+      "effective_date": "09/30/2009",
+      "state": "NY",
+      "workers": 0,
+      "city": "320 W. 57th Street  New York, NY,"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 3,
+    "continuing_denials": 0,
+    "total_approvals": 3,
+    "by_fy": [
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      }
+    ]
+  },
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Computer Systems Engineers/Architects",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 97571.87,
+    "gap_usd": -20428.13
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "slug": "american-fuji-seal",
+  "canonical_name": "American Fuji Seal Inc.",
+  "fein": "02-0404266",
+  "lca_filing_count": 3,
+  "lca_worker_positions": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 93279.63,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 102588.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 93279.63,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior AX Architect",
+      "count": 1,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "title": "Ink Development Specialist",
+      "count": 1,
+      "median_wage_usd": 93279.63
+    },
+    {
+      "title": "Product Development Engineer \u2013 Inks & Coatings",
+      "count": 1,
+      "median_wage_usd": 90176.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "OH",
+      "county": "FRANKLIN",
+      "count": 1
+    },
+    {
+      "state": "KY",
+      "county": "NELSON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "KY",
+      "count": 2
+    },
+    {
+      "state": "OH",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 115000.0,
+    "gap_usd": -15160.0
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "slug": "1stdibs-com",
+  "canonical_name": "1stdibs.com, Inc.",
+  "fein": "94-3389618",
+  "lca_filing_count": 3,
+  "lca_worker_positions": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 150000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 139900.0
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 162000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior iOS Developer",
+      "count": 1,
+      "median_wage_usd": 139900.0
+    },
+    {
+      "title": "Senior Manager, Display & Paid Social",
+      "count": 1,
+      "median_wage_usd": 162000.0
+    },
+    {
+      "title": "Senior Manager, Paid Media",
+      "count": 1,
+      "median_wage_usd": 150000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1161",
+    "soc_title": "Search Marketing Strategists",
+    "market_median_usd": 74680.0,
+    "employer_median_usd": 156000.0,
+    "gap_usd": 81320.0
+  }
+}

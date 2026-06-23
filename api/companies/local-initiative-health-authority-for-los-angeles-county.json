@@ -1,0 +1,140 @@
+{
+  "slug": "local-initiative-health-authority-for-los-angeles-county",
+  "canonical_name": "LOCAL INITIATIVE HEALTH AUTHORITY FOR LOS ANGELES COUNTY",
+  "fein": "95-4518790",
+  "lca_filing_count": 43,
+  "lca_worker_positions": 41,
+  "warn_notice_count": 0,
+  "median_wage_usd": 149713.6,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 3,
+      "median_wage_usd": 142000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 6,
+      "median_wage_usd": 123464.84
+    },
+    {
+      "fy": 2022,
+      "filings": 9,
+      "median_wage_usd": 133640.0
+    },
+    {
+      "fy": 2023,
+      "filings": 5,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 10,
+      "median_wage_usd": 166950.94
+    },
+    {
+      "fy": 2026,
+      "filings": 8,
+      "median_wage_usd": 169677.82,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Lead SQL Reports Developer",
+      "count": 5,
+      "median_wage_usd": 138040.76
+    },
+    {
+      "title": "Technical Analyst III",
+      "count": 3,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "title": "Lead ETL/Business Intelligence Administrator",
+      "count": 2,
+      "median_wage_usd": 149213.61
+    },
+    {
+      "title": "Enterprise Architect Integration Engineer II",
+      "count": 2,
+      "median_wage_usd": 170445.86
+    },
+    {
+      "title": "Enterprise Portfolio Management Office Solutions Analyst III",
+      "count": 2,
+      "median_wage_usd": 137651.52000000002
+    },
+    {
+      "title": "Lead Business Intelligence Developer",
+      "count": 2,
+      "median_wage_usd": 131389.18
+    },
+    {
+      "title": ".NET Developer III",
+      "count": 1,
+      "median_wage_usd": 133640.0
+    },
+    {
+      "title": "ETL/Business Intelligence Administrator III",
+      "count": 1,
+      "median_wage_usd": 132452.84
+    },
+    {
+      "title": "Lead ETL Data Integration Developer",
+      "count": 1,
+      "median_wage_usd": 168909.78
+    },
+    {
+      "title": "Lead Weblogic Administrator",
+      "count": 1,
+      "median_wage_usd": 155000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 20
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "RIVERSIDE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 41
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 162676.15,
+    "gap_usd": 32516.15
+  }
+}

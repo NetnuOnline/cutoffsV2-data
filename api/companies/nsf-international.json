@@ -1,0 +1,130 @@
+{
+  "slug": "nsf-international",
+  "canonical_name": "NSF International",
+  "fein": "38-1428955",
+  "lca_filing_count": 17,
+  "lca_worker_positions": 16,
+  "warn_notice_count": 0,
+  "median_wage_usd": 124638.64,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 3,
+      "median_wage_usd": 69492.54
+    },
+    {
+      "fy": 2021,
+      "filings": 4,
+      "median_wage_usd": 106105.43
+    },
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 132400.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 123776.27
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 129375.0
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 188839.1,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Developer, Oracle Applications",
+      "count": 2,
+      "median_wage_usd": 151375.62
+    },
+    {
+      "title": "Director Management Systems Certification",
+      "count": 2,
+      "median_wage_usd": 191722.05
+    },
+    {
+      "title": "Senior IT Manager",
+      "count": 2,
+      "median_wage_usd": 121499.275
+    },
+    {
+      "title": "Senior Food Safety Auditor",
+      "count": 2,
+      "median_wage_usd": 69492.54
+    },
+    {
+      "title": "Technical Lead, Applications",
+      "count": 1,
+      "median_wage_usd": 111425.36
+    },
+    {
+      "title": "Senior Manager HRIS",
+      "count": 1,
+      "median_wage_usd": 183750.0
+    },
+    {
+      "title": "Product Lead, Applications",
+      "count": 1,
+      "median_wage_usd": 100785.5
+    },
+    {
+      "title": "Senior Developer",
+      "count": 1,
+      "median_wage_usd": 124638.64
+    },
+    {
+      "title": "Technical Architect",
+      "count": 1,
+      "median_wage_usd": 123776.27
+    },
+    {
+      "title": "Release Manager ",
+      "count": 1,
+      "median_wage_usd": 128800.5
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MI",
+      "county": "WASHTENAW",
+      "count": 9
+    },
+    {
+      "state": "NC",
+      "county": "WAKE",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MI",
+      "count": 13
+    },
+    {
+      "state": "NC",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 132400.0,
+    "gap_usd": 2240.0
+  }
+}

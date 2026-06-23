@@ -1,0 +1,114 @@
+{
+  "slug": "conduent",
+  "canonical_name": "Conduent",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 8,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "count": 1
+    },
+    {
+      "state": "CO",
+      "count": 1
+    },
+    {
+      "state": "KY",
+      "count": 1
+    },
+    {
+      "state": "NM",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "10/26/2018",
+      "effective_date": "12/31/2018",
+      "state": "TX",
+      "workers": 213,
+      "city": "Houston"
+    },
+    {
+      "date": "06/01/2018",
+      "effective_date": "07/31/2018",
+      "state": "WA",
+      "workers": 304,
+      "city": "Federal Way"
+    },
+    {
+      "date": "03/19/2018",
+      "effective_date": "05/17/2018",
+      "state": "FL",
+      "workers": 194,
+      "city": "Tallahassee"
+    },
+    {
+      "date": "06/30/2017",
+      "effective_date": "09/28/2017",
+      "state": "NY",
+      "workers": 59,
+      "city": "Rochester"
+    },
+    {
+      "date": "06/30/2017",
+      "effective_date": "09/28/2017",
+      "state": "NY",
+      "workers": 129,
+      "city": "Webster"
+    },
+    {
+      "date": "05/19/2017",
+      "effective_date": "05/19/2017",
+      "state": "CO",
+      "workers": 244,
+      "city": "Arapahoe Douglas"
+    },
+    {
+      "date": "02/13/2017",
+      "effective_date": "04/12/2017",
+      "state": "KY",
+      "workers": 62,
+      "city": "Knox"
+    },
+    {
+      "date": "02/10/2017",
+      "effective_date": "04/11/2017",
+      "state": "NM",
+      "workers": 80,
+      "city": "Alamogordo"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "careersource-capital-region",
+      "name": "CareerSource Capital Region",
+      "state": "FL"
+    },
+    {
+      "slug": "eastern-area-wib",
+      "name": "Eastern Area WIB",
+      "state": "NM"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

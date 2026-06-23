@@ -1,0 +1,99 @@
+{
+  "slug": "state-auto-property-casualty-insurance-companies",
+  "canonical_name": "State Auto Property & Casualty Insurance Companies",
+  "fein": null,
+  "lca_filing_count": 7,
+  "warn_notice_count": 0,
+  "median_wage_usd": 114577.2,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 7,
+      "median_wage_usd": 114577.2
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Data & Analytics Manager",
+      "count": 1,
+      "median_wage_usd": 148199.63
+    },
+    {
+      "title": "Business Analyst Senior",
+      "count": 1,
+      "median_wage_usd": 114577.2
+    },
+    {
+      "title": "Engineering Lead",
+      "count": 1,
+      "median_wage_usd": 125445.0
+    },
+    {
+      "title": "IT Manager",
+      "count": 1,
+      "median_wage_usd": 136500.07
+    },
+    {
+      "title": "Enterprise Data Architect",
+      "count": 1,
+      "median_wage_usd": 112757.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 98904.0
+    },
+    {
+      "title": "Software Developer Senior",
+      "count": 1,
+      "median_wage_usd": 104749.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "OH",
+      "county": "FRANKLIN",
+      "count": 4
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    },
+    {
+      "state": "OH",
+      "county": "DELAWARE",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "county": "DUPAGE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "OH",
+      "count": 5
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 7,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 131388.42,
+    "gap_usd": 23368.42
+  }
+}

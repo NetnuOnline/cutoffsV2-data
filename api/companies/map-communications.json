@@ -1,0 +1,67 @@
+{
+  "slug": "map-communications",
+  "canonical_name": "MAP COMMUNICATIONS INC.",
+  "fein": "22-3064901",
+  "lca_filing_count": 4,
+  "lca_worker_positions": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 140000.06,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 140000.06
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 86400.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 239400.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Application Developer",
+      "count": 2,
+      "median_wage_usd": 140000.06
+    },
+    {
+      "title": "CRM & Software Developer",
+      "count": 1,
+      "median_wage_usd": 86400.0
+    },
+    {
+      "title": "Chairman of the Board",
+      "count": 1,
+      "median_wage_usd": 239400.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "VA",
+      "county": "CHESAPEAKE CITY",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "VA",
+      "count": 4
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 140000.0,
+    "gap_usd": 9840.0
+  }
+}

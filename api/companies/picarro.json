@@ -1,0 +1,121 @@
+{
+  "slug": "picarro",
+  "canonical_name": "Picarro, Inc.",
+  "fein": "77-0494406",
+  "lca_filing_count": 12,
+  "lca_worker_positions": 12,
+  "warn_notice_count": 0,
+  "median_wage_usd": 150659.52,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 190000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 4,
+      "median_wage_usd": 139159.52000000002
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 142716.0
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 137675.06
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 166502.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Sr. QA Automation Engineer",
+      "count": 2,
+      "median_wage_usd": 142841.0
+    },
+    {
+      "title": "Manufacturing Process Engineer",
+      "count": 1,
+      "median_wage_usd": 137675.06
+    },
+    {
+      "title": "Systems Development Engineer (Integration)",
+      "count": 1,
+      "median_wage_usd": 122000.0
+    },
+    {
+      "title": "SR. SOFTWARE ENGINEER, QA AUTOMATION",
+      "count": 1,
+      "median_wage_usd": 149319.04
+    },
+    {
+      "title": "Applications Engineer II",
+      "count": 1,
+      "median_wage_usd": 113000.0
+    },
+    {
+      "title": "Sr. Product Application Scientist",
+      "count": 1,
+      "median_wage_usd": 180754.0
+    },
+    {
+      "title": "Software Engineering Team Lead",
+      "count": 1,
+      "median_wage_usd": 167475.16
+    },
+    {
+      "title": "Applications Engineer",
+      "count": 1,
+      "median_wage_usd": 152000.0
+    },
+    {
+      "title": "Sr. DevOps Engineer",
+      "count": 1,
+      "median_wage_usd": 190000.0
+    },
+    {
+      "title": "Product Manager, Semiconductor",
+      "count": 1,
+      "median_wage_usd": 129000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 6
+    },
+    {
+      "state": "WA",
+      "county": "SNOHOMISH",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 10
+    },
+    {
+      "state": "WA",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1253",
+    "soc_title": "Software Quality Assurance Analysts and Testers",
+    "market_median_usd": 101800.0,
+    "employer_median_usd": 142841.0,
+    "gap_usd": 41041.0
+  }
+}

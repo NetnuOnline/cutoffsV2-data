@@ -1,0 +1,91 @@
+{
+  "slug": "datamanusa",
+  "canonical_name": "DatamanUSA, LLC",
+  "fein": "84-1552228",
+  "lca_filing_count": 6,
+  "lca_worker_positions": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 103300.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 139360.0
+    },
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 76650.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 113000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 131040.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Business Analyst",
+      "count": 2,
+      "median_wage_usd": 112320.0
+    },
+    {
+      "title": "Web Developer",
+      "count": 1,
+      "median_wage_usd": 62000.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 1,
+      "median_wage_usd": 113000.0
+    },
+    {
+      "title": "IT Project Manager",
+      "count": 1,
+      "median_wage_usd": 76650.0
+    },
+    {
+      "title": "Business Analyst 2",
+      "count": 1,
+      "median_wage_usd": 139360.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 2
+    },
+    {
+      "state": "CO",
+      "county": "ARAPAHOE",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 4
+    },
+    {
+      "state": "CO",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1211",
+    "soc_title": "Computer Systems Analysts",
+    "market_median_usd": 103800.0,
+    "employer_median_usd": 131040.0,
+    "gap_usd": 27240.0
+  }
+}

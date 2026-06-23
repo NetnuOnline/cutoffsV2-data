@@ -1,0 +1,133 @@
+{
+  "slug": "cyber-system-technologies",
+  "canonical_name": "Cyber System Technologies LLC",
+  "fein": "92-3080221",
+  "lca_filing_count": 9,
+  "warn_notice_count": 0,
+  "median_wage_usd": 78000.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 4,
+      "median_wage_usd": 78000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 103730.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 72946.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 66872.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Systems Engineer",
+      "count": 2,
+      "median_wage_usd": 72436.0
+    },
+    {
+      "title": "Big data developer",
+      "count": 2,
+      "median_wage_usd": 78000.0
+    },
+    {
+      "title": "Application Developer",
+      "count": 2,
+      "median_wage_usd": 72946.0
+    },
+    {
+      "title": "SAP ARCHITECT",
+      "count": 2,
+      "median_wage_usd": 103730.0
+    },
+    {
+      "title": "System Analyst",
+      "count": 1,
+      "median_wage_usd": 78000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 4
+    },
+    {
+      "state": "MI",
+      "county": "BERRIEN",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "county": "BERGEN",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 5
+    },
+    {
+      "state": "MI",
+      "count": 2
+    },
+    {
+      "state": "IN",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 10,
+    "initial_denials": 0,
+    "continuing_approvals": 1,
+    "continuing_denials": 0,
+    "total_approvals": 11,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 4,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 4
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 6,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 7
+      }
+    ]
+  },
+  "lca_worker_positions": 9,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Computer Systems Engineers/Architects",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 72946.0,
+    "gap_usd": -45054.0
+  }
+}

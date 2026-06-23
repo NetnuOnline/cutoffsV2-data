@@ -1,0 +1,44 @@
+{
+  "slug": "rscr-california",
+  "canonical_name": "RSCR California, Inc.",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 3,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 3
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "10/15/2019",
+      "effective_date": "12/16/2019",
+      "state": "CA",
+      "workers": 77,
+      "city": "Garden Grove"
+    },
+    {
+      "date": "05/30/2019",
+      "effective_date": "08/31/2019",
+      "state": "CA",
+      "workers": 89,
+      "city": "Garden Grove"
+    },
+    {
+      "date": "03/27/2019",
+      "effective_date": "05/31/2019",
+      "state": "CA",
+      "workers": 102,
+      "city": "Garden Grove"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

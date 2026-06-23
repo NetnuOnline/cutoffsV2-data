@@ -1,0 +1,123 @@
+{
+  "slug": "vse-corporation",
+  "canonical_name": "VSE Corporation",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 11,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 7
+    },
+    {
+      "state": "FL",
+      "count": 2
+    },
+    {
+      "state": "VA",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "06/06/2023",
+      "effective_date": "07/31/2023",
+      "state": "FL",
+      "workers": 112,
+      "city": "JACKSONVILLE"
+    },
+    {
+      "date": "01/31/2023",
+      "effective_date": "01/31/2023",
+      "state": "FL",
+      "workers": 122,
+      "city": "JACKSONVILLE"
+    },
+    {
+      "date": "10/04/2022",
+      "effective_date": "11/30/2022",
+      "state": "VA",
+      "workers": 180,
+      "city": "Norfolk, VA"
+    },
+    {
+      "date": "03/09/2022",
+      "effective_date": "03/09/2022",
+      "state": "GA",
+      "workers": 471,
+      "city": "Fort Benning"
+    },
+    {
+      "date": "06/23/2016",
+      "effective_date": "07/22/2016",
+      "state": "CA",
+      "workers": 9,
+      "city": "Barstow"
+    },
+    {
+      "date": "01/27/2016",
+      "effective_date": "03/29/2016",
+      "state": "CA",
+      "workers": 1,
+      "city": "Van Nuys"
+    },
+    {
+      "date": "01/27/2016",
+      "effective_date": "03/29/2016",
+      "state": "CA",
+      "workers": 1,
+      "city": "Riverside"
+    },
+    {
+      "date": "01/27/2016",
+      "effective_date": "03/29/2016",
+      "state": "CA",
+      "workers": 2,
+      "city": "Mountain View"
+    },
+    {
+      "date": "01/27/2016",
+      "effective_date": "03/29/2016",
+      "state": "CA",
+      "workers": 1,
+      "city": "Los Alamitos"
+    },
+    {
+      "date": "01/27/2016",
+      "effective_date": "03/29/2016",
+      "state": "CA",
+      "workers": 70,
+      "city": "Jolon"
+    },
+    {
+      "date": "01/27/2016",
+      "effective_date": "03/29/2016",
+      "state": "CA",
+      "workers": 40,
+      "city": "Barstow"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "lower-chattahoochee-wib",
+      "name": "Lower Chattahoochee WIB",
+      "state": "GA"
+    },
+    {
+      "slug": "hampton-roads-lwia-xvi",
+      "name": "Hampton Roads LWIA XVI",
+      "state": "VA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

@@ -1,0 +1,187 @@
+{
+  "slug": "eshares",
+  "canonical_name": "eShares, Inc.",
+  "fein": "45-5639657",
+  "lca_filing_count": 65,
+  "lca_worker_positions": 65,
+  "warn_notice_count": 0,
+  "median_wage_usd": 180500.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 3,
+      "median_wage_usd": 195000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 18,
+      "median_wage_usd": 181500.0
+    },
+    {
+      "fy": 2022,
+      "filings": 5,
+      "median_wage_usd": 200000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 8,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 15,
+      "median_wage_usd": 165000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 7,
+      "median_wage_usd": 175000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 9,
+      "median_wage_usd": 245000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Software Engineer II",
+      "count": 8,
+      "median_wage_usd": 200000.0
+    },
+    {
+      "title": "Senior Software Engineer I",
+      "count": 6,
+      "median_wage_usd": 180500.0
+    },
+    {
+      "title": "Machine Learning Engineer II",
+      "count": 5,
+      "median_wage_usd": 175000.0
+    },
+    {
+      "title": "Senior Data Scientist I",
+      "count": 4,
+      "median_wage_usd": 160050.0
+    },
+    {
+      "title": "Engineering Manager",
+      "count": 4,
+      "median_wage_usd": 228000.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 3,
+      "median_wage_usd": 215600.0
+    },
+    {
+      "title": "Senior Product Designer",
+      "count": 3,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "title": "Staff Engineer",
+      "count": 3,
+      "median_wage_usd": 270000.0
+    },
+    {
+      "title": "Product Design Lead",
+      "count": 3,
+      "median_wage_usd": 170000.0
+    },
+    {
+      "title": "Data Scientist II",
+      "count": 2,
+      "median_wage_usd": 137500.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 18
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 11
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 10
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 5
+    },
+    {
+      "state": "IL",
+      "county": "DUPAGE",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 2
+    },
+    {
+      "state": "NC",
+      "county": "WAKE",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SAN JOAQUIN",
+      "count": 1
+    },
+    {
+      "state": "UT",
+      "county": "SALT LAKE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 38
+    },
+    {
+      "state": "NY",
+      "count": 12
+    },
+    {
+      "state": "WA",
+      "count": 8
+    },
+    {
+      "state": "IL",
+      "count": 4
+    },
+    {
+      "state": "NC",
+      "count": 2
+    },
+    {
+      "state": "UT",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 190000.0,
+    "gap_usd": 59840.0
+  }
+}

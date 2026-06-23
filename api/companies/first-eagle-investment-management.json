@@ -1,0 +1,82 @@
+{
+  "slug": "first-eagle-investment-management",
+  "canonical_name": "First Eagle Investment Management, LLC",
+  "fein": "57-1156902",
+  "lca_filing_count": 5,
+  "lca_worker_positions": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 155000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 70000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 155000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 160500.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 85000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Private Credit and Real Estate Fund Analyst",
+      "count": 1,
+      "median_wage_usd": 85000.0
+    },
+    {
+      "title": "Research Analyst",
+      "count": 1,
+      "median_wage_usd": 160000.0
+    },
+    {
+      "title": "Systems Developer",
+      "count": 1,
+      "median_wage_usd": 155000.0
+    },
+    {
+      "title": "Business Intelligence Analyst",
+      "count": 1,
+      "median_wage_usd": 70000.0
+    },
+    {
+      "title": "Assistant Vice President, Senior Systems Developer",
+      "count": 1,
+      "median_wage_usd": 161000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 5
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 158000.0,
+    "gap_usd": 27840.0
+  }
+}

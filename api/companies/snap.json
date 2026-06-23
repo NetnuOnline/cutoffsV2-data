@@ -1,0 +1,203 @@
+{
+  "slug": "snap",
+  "canonical_name": "SNAP Inc",
+  "fein": "45-5452795",
+  "lca_filing_count": 497,
+  "lca_worker_positions": 484,
+  "warn_notice_count": 0,
+  "median_wage_usd": 155418.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 54,
+      "median_wage_usd": 127379.0
+    },
+    {
+      "fy": 2021,
+      "filings": 96,
+      "median_wage_usd": 136718.5
+    },
+    {
+      "fy": 2022,
+      "filings": 51,
+      "median_wage_usd": 157477.0
+    },
+    {
+      "fy": 2023,
+      "filings": 76,
+      "median_wage_usd": 155418.0
+    },
+    {
+      "fy": 2024,
+      "filings": 72,
+      "median_wage_usd": 163862.0
+    },
+    {
+      "fy": 2025,
+      "filings": 69,
+      "median_wage_usd": 180710.0
+    },
+    {
+      "fy": 2026,
+      "filings": 66,
+      "median_wage_usd": 179993.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer (4)",
+      "count": 127,
+      "median_wage_usd": 157477.0
+    },
+    {
+      "title": "Software Engineer (5)",
+      "count": 44,
+      "median_wage_usd": 186836.0
+    },
+    {
+      "title": "Machine Learning Engineer (4)",
+      "count": 37,
+      "median_wage_usd": 172022.0
+    },
+    {
+      "title": "Software Engineer (3) ",
+      "count": 21,
+      "median_wage_usd": 121160.0
+    },
+    {
+      "title": "Machine Learning Engineer (5)",
+      "count": 18,
+      "median_wage_usd": 202346.0
+    },
+    {
+      "title": "Software Engineer (3)",
+      "count": 16,
+      "median_wage_usd": 127338.0
+    },
+    {
+      "title": "Software Engineer (4) ",
+      "count": 15,
+      "median_wage_usd": 142667.0
+    },
+    {
+      "title": "Data Scientist (4)",
+      "count": 12,
+      "median_wage_usd": 130270.0
+    },
+    {
+      "title": "Quality Engineer (4)",
+      "count": 8,
+      "median_wage_usd": 142438.0
+    },
+    {
+      "title": "Product Manager (4)",
+      "count": 8,
+      "median_wage_usd": 126818.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 111
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 97
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 89
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 33
+    },
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 27
+    },
+    {
+      "state": "CO",
+      "county": "BOULDER",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 2
+    },
+    {
+      "state": "DC",
+      "county": "DISTRICT OF COLUMBIA",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 2
+    },
+    {
+      "state": "UT",
+      "county": "UTAH",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 304
+    },
+    {
+      "state": "WA",
+      "count": 132
+    },
+    {
+      "state": "NY",
+      "count": 47
+    },
+    {
+      "state": "TX",
+      "count": 4
+    },
+    {
+      "state": "CO",
+      "count": 3
+    },
+    {
+      "state": "MA",
+      "count": 2
+    },
+    {
+      "state": "DC",
+      "count": 2
+    },
+    {
+      "state": "NV",
+      "count": 1
+    },
+    {
+      "state": "UT",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 172931.0,
+    "gap_usd": 42771.0
+  }
+}

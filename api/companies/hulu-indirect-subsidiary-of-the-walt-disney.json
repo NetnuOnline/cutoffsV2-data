@@ -1,0 +1,90 @@
+{
+  "slug": "hulu-indirect-subsidiary-of-the-walt-disney",
+  "canonical_name": "Hulu, LLC (indirect subsidiary of The Walt Disney",
+  "fein": null,
+  "lca_filing_count": 14,
+  "warn_notice_count": 0,
+  "median_wage_usd": 163794.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 12,
+      "median_wage_usd": 163794.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 157525.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 5,
+      "median_wage_usd": 141550.0
+    },
+    {
+      "title": "Senior Software Developer",
+      "count": 3,
+      "median_wage_usd": 175000.0
+    },
+    {
+      "title": "Senior Content Strategy Analyst",
+      "count": 2,
+      "median_wage_usd": 105000.0
+    },
+    {
+      "title": "Manager, Application Security",
+      "count": 1,
+      "median_wage_usd": 173500.0
+    },
+    {
+      "title": "Data Scientist",
+      "count": 1,
+      "median_wage_usd": 158000.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 185000.0
+    },
+    {
+      "title": "Product & Engineering Manager",
+      "count": 1,
+      "median_wage_usd": 165000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 12
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 12
+    },
+    {
+      "state": "WA",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 14,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 155525.0,
+    "gap_usd": 25365.0
+  }
+}

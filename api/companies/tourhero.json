@@ -1,0 +1,57 @@
+{
+  "slug": "tourhero",
+  "canonical_name": "TourHero, Inc.",
+  "fein": "87-0873496",
+  "lca_filing_count": 6,
+  "lca_worker_positions": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 90002.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 50000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 90002.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 79456.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Growth Associate",
+      "count": 6,
+      "median_wage_usd": 90002.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "QUEENS",
+      "count": 4
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 6
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Computer Systems Engineers/Architects",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 90002.0,
+    "gap_usd": -27998.0
+  }
+}

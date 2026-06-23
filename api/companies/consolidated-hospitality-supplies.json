@@ -1,0 +1,88 @@
+{
+  "slug": "consolidated-hospitality-supplies",
+  "canonical_name": "Consolidated Hospitality Supplies LLC",
+  "fein": "87-1512658",
+  "lca_filing_count": 1,
+  "warn_notice_count": 2,
+  "median_wage_usd": 193419.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 193419.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Director of Information Technology",
+      "count": 1,
+      "median_wage_usd": 193419.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IL",
+      "county": "LAKE",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "11/05/2025",
+      "effective_date": "01/04/2026",
+      "state": "CA",
+      "workers": 22,
+      "city": "Kings Park"
+    },
+    {
+      "date": "11/05/2025",
+      "effective_date": "01/04/2026",
+      "state": "IL",
+      "workers": 45,
+      "city": "Vernon Hills"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "lake-county-wib",
+      "name": "Lake County WIB",
+      "state": "IL"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 3,
+    "continuing_denials": 0,
+    "total_approvals": 3,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      }
+    ]
+  },
+  "lca_worker_positions": 1,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3021",
+    "soc_title": "Computer and Information Systems Managers",
+    "market_median_usd": 169510.0,
+    "employer_median_usd": 193419.0,
+    "gap_usd": 23909.0
+  }
+}

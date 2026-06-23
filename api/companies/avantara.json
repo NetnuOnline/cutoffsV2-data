@@ -1,0 +1,43 @@
+{
+  "slug": "avantara",
+  "canonical_name": "Avantara",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "SD",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "08/08/2022",
+      "effective_date": "08/08/2022",
+      "state": "SD",
+      "workers": 47,
+      "city": "Armour"
+    },
+    {
+      "date": "03/31/2022",
+      "effective_date": "03/31/2022",
+      "state": "SD",
+      "workers": 51,
+      "city": "Ipswich"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "central-area-wib-sd",
+      "name": "Central Area WIB",
+      "state": "SD"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

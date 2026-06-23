@@ -1,0 +1,58 @@
+{
+  "slug": "monsanto",
+  "canonical_name": "Monsanto",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 3,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "HI",
+      "count": 1
+    },
+    {
+      "state": "CT",
+      "count": 1
+    },
+    {
+      "state": "WI",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "09/10/2025",
+      "effective_date": "09/10/2025",
+      "state": "HI",
+      "workers": 0,
+      "city": null
+    },
+    {
+      "date": "08/29/2016",
+      "effective_date": "10/29/2016",
+      "state": "CT",
+      "workers": 39,
+      "city": "Mystic"
+    },
+    {
+      "date": "05/12/2016",
+      "effective_date": "07/12/2016",
+      "state": "WI",
+      "workers": 30,
+      "city": "Middleton"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "eastern-wia-ct",
+      "name": "Eastern WIA",
+      "state": "CT"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

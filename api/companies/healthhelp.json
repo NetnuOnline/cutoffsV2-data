@@ -1,0 +1,183 @@
+{
+  "slug": "healthhelp",
+  "canonical_name": "HealthHelp, LLC",
+  "fein": null,
+  "lca_filing_count": 1,
+  "warn_notice_count": 8,
+  "median_wage_usd": 93226.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 93226.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Business Analyst",
+      "count": 1,
+      "median_wage_usd": 93226.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "05/16/2024",
+      "effective_date": "06/28/2024",
+      "state": "OH",
+      "workers": 22,
+      "city": "Akron/Summit"
+    },
+    {
+      "date": "09/18/2023",
+      "effective_date": "03/24/2023",
+      "state": "GA",
+      "workers": 53,
+      "city": "16945 Northchase Dr suite 1300, Houston, Texas"
+    },
+    {
+      "date": "01/24/2023",
+      "effective_date": "03/24/2023",
+      "state": "MO",
+      "workers": 1,
+      "city": "Independence"
+    },
+    {
+      "date": "01/24/2023",
+      "effective_date": "03/24/2023",
+      "state": "GA",
+      "workers": 53,
+      "city": "16945 Northchase Dr suite 1300, Houston, Texas"
+    },
+    {
+      "date": "01/23/2023",
+      "effective_date": "03/24/2023",
+      "state": "NM",
+      "workers": 1,
+      "city": "Hobbs"
+    },
+    {
+      "date": "01/23/2023",
+      "effective_date": "03/24/2023",
+      "state": "WV",
+      "workers": 52,
+      "city": "Chester"
+    },
+    {
+      "date": "01/23/2023",
+      "effective_date": "01/23/2023",
+      "state": "KS",
+      "workers": 52,
+      "city": "Houston"
+    },
+    {
+      "date": "01/23/2023",
+      "effective_date": "01/23/2023",
+      "state": "KS",
+      "workers": 0,
+      "city": "Houston"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "kansas-city-vicinity-region-wib",
+      "name": "Kansas City Vicinity Region WIB",
+      "state": "MO"
+    },
+    {
+      "slug": "eastern-area-wib",
+      "name": "Eastern Area WIB",
+      "state": "NM"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 4,
+    "continuing_denials": 0,
+    "total_approvals": 4,
+    "by_fy": [
+      {
+        "fy": 2015,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2017,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 1,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1211",
+    "soc_title": "Computer Systems Analysts",
+    "market_median_usd": 103800.0,
+    "employer_median_usd": 93226.0,
+    "gap_usd": -10574.0
+  }
+}

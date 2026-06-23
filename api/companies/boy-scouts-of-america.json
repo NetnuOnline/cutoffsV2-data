@@ -1,0 +1,83 @@
+{
+  "slug": "boy-scouts-of-america",
+  "canonical_name": "Boy Scouts of America",
+  "fein": "22-1576300",
+  "lca_filing_count": 3,
+  "warn_notice_count": 1,
+  "median_wage_usd": 130000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 113360.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 132000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 130000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Database Developer",
+      "count": 1,
+      "median_wage_usd": 113360.0
+    },
+    {
+      "title": "Database Architect",
+      "count": 1,
+      "median_wage_usd": 132000.0
+    },
+    {
+      "title": "Senior Full-Stack Architect",
+      "count": 1,
+      "median_wage_usd": 130000.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 3
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "12/31/2009",
+      "effective_date": "12/31/2009",
+      "state": "NJ",
+      "workers": 21,
+      "city": "JAMESBURG"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Computer Systems Engineers/Architects",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 130000.0,
+    "gap_usd": 12000.0
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "gibraltar",
+  "canonical_name": "Gibraltar US",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 1,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "01/21/2021",
+      "effective_date": "03/22/2021",
+      "state": "TX",
+      "workers": 96,
+      "city": "San Benito"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "cameron-county-wda",
+      "name": "Cameron County WDA",
+      "state": "TX"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

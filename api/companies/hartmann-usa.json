@@ -1,0 +1,43 @@
+{
+  "slug": "hartmann-usa",
+  "canonical_name": "Hartmann USA, Inc",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "IN",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "02/23/2015",
+      "effective_date": "04/30/2015",
+      "state": "IN",
+      "workers": 49,
+      "city": "Bloomington"
+    },
+    {
+      "date": "05/15/2013",
+      "effective_date": "06/15/2014",
+      "state": "IN",
+      "workers": 72,
+      "city": "Bloomington"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "economic-growth-region-8",
+      "name": "Economic Growth Region 8",
+      "state": "IN"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

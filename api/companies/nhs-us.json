@@ -1,0 +1,82 @@
+{
+  "slug": "nhs-us",
+  "canonical_name": "NHS US, LLC",
+  "fein": null,
+  "lca_filing_count": 3,
+  "warn_notice_count": 1,
+  "median_wage_usd": 147250.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 147250.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Product Manager, Microsoft Applications",
+      "count": 1,
+      "median_wage_usd": 156612.0
+    },
+    {
+      "title": "Expert Architect Cloud Computing",
+      "count": 1,
+      "median_wage_usd": 147250.0
+    },
+    {
+      "title": "Sr Manager Procurement Category Management",
+      "count": 1,
+      "median_wage_usd": 125680.51
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 2
+    },
+    {
+      "state": "NY",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NJ",
+      "county": "MONMOUTH",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "county": "SOMERSET",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "county": "SUFFOLK",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "03/25/2026",
+      "effective_date": "07/03/2026",
+      "state": "NY",
+      "workers": 31,
+      "city": "Holbrook"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 151931.0,
+    "gap_usd": 21771.0
+  }
+}

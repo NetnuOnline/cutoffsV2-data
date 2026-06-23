@@ -1,0 +1,97 @@
+{
+  "slug": "blue-sprig-pediatrics",
+  "canonical_name": "Blue Sprig Pediatrics, Inc.",
+  "fein": "82-2465485",
+  "lca_filing_count": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 91123.5,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 70000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 92248.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 146500.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Business Intelligence Analyst ",
+      "count": 3,
+      "median_wage_usd": 92248.0
+    },
+    {
+      "title": "BCBA Clinical Supervisor ",
+      "count": 1,
+      "median_wage_usd": 70000.0
+    },
+    {
+      "title": "Director of Decision Sciences ",
+      "count": 1,
+      "median_wage_usd": 146500.0
+    },
+    {
+      "title": "Registered Behavior Technician ",
+      "count": 1,
+      "median_wage_usd": 64230.4
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 3
+    },
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 4
+    },
+    {
+      "state": "AZ",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 1,
+    "continuing_denials": 0,
+    "total_approvals": 1,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 6,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Business Intelligence Analysts",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 92248.0,
+    "gap_usd": -15772.0
+  }
+}

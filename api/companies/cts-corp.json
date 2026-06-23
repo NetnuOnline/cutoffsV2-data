@@ -1,0 +1,82 @@
+{
+  "slug": "cts-corp",
+  "canonical_name": "CTS Corp.",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 1,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "IN",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "07/24/2018",
+      "effective_date": "12/31/2018",
+      "state": "IN",
+      "workers": 103,
+      "city": "Elkhart"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "economic-growth-region-2",
+      "name": "Economic Growth Region 2",
+      "state": "IN"
+    }
+  ],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2018-05-24",
+        "formType": "8-K/A",
+        "accessionNumber": "0000026058-18-000058",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000026058&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2016-06-06",
+        "formType": "8-K",
+        "accessionNumber": "0000026058-16-000082",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000026058&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2013-06-14",
+        "formType": "8-K",
+        "accessionNumber": "0000026058-13-000012",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000026058&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 3,
+    "itemCounts": {
+      "5.02": 1,
+      "2.05": 2
+    },
+    "latestFilingDate": "2018-05-24",
+    "earliestFilingDate": "2013-06-14"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

@@ -1,0 +1,100 @@
+{
+  "slug": "commerce-com-us",
+  "canonical_name": "Commerce.com US, Inc.",
+  "fein": "26-4307177",
+  "lca_filing_count": 10,
+  "lca_worker_positions": 10,
+  "warn_notice_count": 0,
+  "median_wage_usd": 181053.5,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 8,
+      "median_wage_usd": 175562.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 197266.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer II",
+      "count": 2,
+      "median_wage_usd": 163550.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 2,
+      "median_wage_usd": 187574.0
+    },
+    {
+      "title": "Senior Technical Project Manager",
+      "count": 1,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "Lead Data Engineer",
+      "count": 1,
+      "median_wage_usd": 174533.0
+    },
+    {
+      "title": "Senior Business Strategy Analyst",
+      "count": 1,
+      "median_wage_usd": 81536.0
+    },
+    {
+      "title": "Senior Manager, PMO",
+      "count": 1,
+      "median_wage_usd": 220000.0
+    },
+    {
+      "title": "Lead Software Engineer",
+      "count": 1,
+      "median_wage_usd": 198992.0
+    },
+    {
+      "title": "VP, Infrastructure Engineering",
+      "count": 1,
+      "median_wage_usd": 362250.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 5
+    },
+    {
+      "state": "CA",
+      "count": 4
+    },
+    {
+      "state": "WA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 187574.0,
+    "gap_usd": 57414.0
+  }
+}

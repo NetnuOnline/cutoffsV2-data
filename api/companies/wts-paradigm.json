@@ -1,0 +1,91 @@
+{
+  "slug": "wts-paradigm",
+  "canonical_name": "WTS Paradigm, LLC.",
+  "fein": "20-1623787",
+  "lca_filing_count": 5,
+  "lca_worker_positions": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 92081.08,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 70542.94
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 101073.83
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 75061.22
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 340000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Systems Consultant - Application",
+      "count": 1,
+      "median_wage_usd": 92081.08
+    },
+    {
+      "title": "Vice President of Product Management",
+      "count": 1,
+      "median_wage_usd": 340000.0
+    },
+    {
+      "title": "Associate Software Developer",
+      "count": 1,
+      "median_wage_usd": 75061.22
+    },
+    {
+      "title": "Software Developer",
+      "count": 1,
+      "median_wage_usd": 70542.94
+    },
+    {
+      "title": "Senior Software Developer",
+      "count": 1,
+      "median_wage_usd": 110066.58
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "WI",
+      "county": "DANE",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "WI",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Computer Systems Engineers/Architects",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 101073.83,
+    "gap_usd": -16926.17
+  }
+}

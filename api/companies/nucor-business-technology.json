@@ -1,0 +1,90 @@
+{
+  "slug": "nucor-business-technology",
+  "canonical_name": "Nucor Business Technology, Inc.",
+  "fein": "87-3571519",
+  "lca_filing_count": 6,
+  "lca_worker_positions": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 125135.88,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 140296.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 135271.76
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 105747.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Oracle Database Administrator",
+      "count": 2,
+      "median_wage_usd": 140296.0
+    },
+    {
+      "title": "Data Quality Engineer",
+      "count": 2,
+      "median_wage_usd": 105747.0
+    },
+    {
+      "title": "Senior Database Administrator",
+      "count": 1,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "title": "Development Team Lead",
+      "count": 1,
+      "median_wage_usd": 135271.76
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 3
+    },
+    {
+      "state": "NC",
+      "count": 2
+    },
+    {
+      "state": "OH",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 105747.0,
+    "gap_usd": -2273.0
+  }
+}

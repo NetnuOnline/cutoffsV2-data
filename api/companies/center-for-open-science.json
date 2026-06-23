@@ -1,0 +1,66 @@
+{
+  "slug": "center-for-open-science",
+  "canonical_name": "Center for Open Science",
+  "fein": "46-1496217",
+  "lca_filing_count": 4,
+  "lca_worker_positions": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 111339.94,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 113839.69
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 108840.19,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Engineer",
+      "count": 2,
+      "median_wage_usd": 115831.88500000001
+    },
+    {
+      "title": "Cloud Engineer",
+      "count": 1,
+      "median_wage_usd": 92700.0
+    },
+    {
+      "title": "Software Engineer II",
+      "count": 1,
+      "median_wage_usd": 108840.19
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "VA",
+      "county": "ALBEMARLE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "VA",
+      "count": 3
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 113839.69,
+    "gap_usd": -16320.31
+  }
+}

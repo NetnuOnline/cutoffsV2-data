@@ -1,0 +1,51 @@
+{
+  "slug": "gt-titan",
+  "canonical_name": "GT Titan Inc",
+  "fein": "93-4630268",
+  "lca_filing_count": 5,
+  "lca_worker_positions": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 168000.0,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 168000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 175500.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Sr. Vice President  Comm. Execution & Portfolio Operations",
+      "count": 4,
+      "median_wage_usd": 168000.0
+    },
+    {
+      "title": "SVP-Commercial Execution & Portfolio Operations",
+      "count": 1,
+      "median_wage_usd": 183000.0
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 5
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3031",
+    "soc_title": "Financial Managers",
+    "market_median_usd": 156100.0,
+    "employer_median_usd": 168000.0,
+    "gap_usd": 11900.0
+  }
+}

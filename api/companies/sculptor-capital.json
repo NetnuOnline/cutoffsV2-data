@@ -1,0 +1,119 @@
+{
+  "slug": "sculptor-capital",
+  "canonical_name": "Sculptor Capital LP",
+  "fein": "13-3980578",
+  "lca_filing_count": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 166000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 133500.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 160000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 175000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 190000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Structured Credit Analyst",
+      "count": 1,
+      "median_wage_usd": 175000.0
+    },
+    {
+      "title": "Senior Data Developer",
+      "count": 1,
+      "median_wage_usd": 180000.0
+    },
+    {
+      "title": "Business Systems Analyst",
+      "count": 1,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": " Senior Developer",
+      "count": 1,
+      "median_wage_usd": 157000.0
+    },
+    {
+      "title": "Risk Analyst - Developer",
+      "count": 1,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 1,
+      "median_wage_usd": 190000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 5
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 6
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 2,
+    "initial_denials": 0,
+    "continuing_approvals": 9,
+    "continuing_denials": 2,
+    "total_approvals": 11,
+    "by_fy": [
+      {
+        "fy": 2020,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 4
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 2,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 5,
+        "continuing_denials": 0,
+        "total_approvals": 6
+      }
+    ]
+  },
+  "lca_worker_positions": 6,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 185000.0,
+    "gap_usd": 54840.0
+  }
+}

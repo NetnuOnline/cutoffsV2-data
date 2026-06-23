@@ -1,0 +1,65 @@
+{
+  "slug": "rescare-workforce-services",
+  "canonical_name": "ResCare Workforce Services",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 4,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 2
+    },
+    {
+      "state": "WI",
+      "count": 1
+    },
+    {
+      "state": "TN",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "07/29/2019",
+      "effective_date": "09/30/2019",
+      "state": "WI",
+      "workers": 99,
+      "city": "Milwaukee"
+    },
+    {
+      "date": "12/21/2016",
+      "effective_date": "03/31/2017",
+      "state": "NY",
+      "workers": 12,
+      "city": "Woodside"
+    },
+    {
+      "date": "12/21/2016",
+      "effective_date": "03/31/2017",
+      "state": "NY",
+      "workers": 28,
+      "city": "Brooklyn"
+    },
+    {
+      "date": "10/17/2014",
+      "effective_date": "12/31/2014",
+      "state": "TN",
+      "workers": 137,
+      "city": "Memphis"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "13-local-workforce-investment-area",
+      "name": "13 Local Workforce Investment Area",
+      "state": "TN"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

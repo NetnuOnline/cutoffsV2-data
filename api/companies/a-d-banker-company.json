@@ -1,0 +1,41 @@
+{
+  "slug": "a-d-banker-company",
+  "canonical_name": "A.D. Banker & Company, LLC",
+  "fein": "48-1032959",
+  "lca_filing_count": 4,
+  "lca_worker_positions": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 95265.25,
+  "by_fy": [
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 95265.45,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer ",
+      "count": 4,
+      "median_wage_usd": 95265.25
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "KS",
+      "count": 4
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 95265.45,
+    "gap_usd": -34894.55
+  }
+}

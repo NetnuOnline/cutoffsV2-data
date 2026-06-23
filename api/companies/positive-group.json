@@ -1,0 +1,203 @@
+{
+  "slug": "positive-group",
+  "canonical_name": "Positive Group LLC",
+  "fein": "27-2716470",
+  "lca_filing_count": 66,
+  "lca_worker_positions": 63,
+  "warn_notice_count": 0,
+  "median_wage_usd": 87672.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 19,
+      "median_wage_usd": 85842.0
+    },
+    {
+      "fy": 2021,
+      "filings": 10,
+      "median_wage_usd": 87485.0
+    },
+    {
+      "fy": 2022,
+      "filings": 10,
+      "median_wage_usd": 98956.0
+    },
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 121597.0
+    },
+    {
+      "fy": 2024,
+      "filings": 8,
+      "median_wage_usd": 104302.5
+    },
+    {
+      "fy": 2025,
+      "filings": 10,
+      "median_wage_usd": 103334.0
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 121491.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SOFTWARE DEVELOPER",
+      "count": 33,
+      "median_wage_usd": 87485.0
+    },
+    {
+      "title": "SOFTWARE ENGINEER",
+      "count": 8,
+      "median_wage_usd": 94588.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 6,
+      "median_wage_usd": 113359.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 6,
+      "median_wage_usd": 86000.0
+    },
+    {
+      "title": "Senior Network Engineer",
+      "count": 2,
+      "median_wage_usd": 104416.0
+    },
+    {
+      "title": "DATABASE ADMINISTRATOR",
+      "count": 1,
+      "median_wage_usd": 81390.0
+    },
+    {
+      "title": "Computer Systems Analyst",
+      "count": 1,
+      "median_wage_usd": 121597.0
+    },
+    {
+      "title": "SOFTWARE ENGINEER (DATA WAREHOUSE DEVELOPER)",
+      "count": 1,
+      "median_wage_usd": 85842.0
+    },
+    {
+      "title": "SENIOR NETWORK ENGINEER",
+      "count": 1,
+      "median_wage_usd": 93309.0
+    },
+    {
+      "title": "SOFTWARE PROJECT MANAGER",
+      "count": 1,
+      "median_wage_usd": 83470.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 29
+    },
+    {
+      "state": "NC",
+      "county": "MECKLENBURG",
+      "count": 3
+    },
+    {
+      "state": "MA",
+      "county": "BOSTON CITY",
+      "count": 2
+    },
+    {
+      "state": "IN",
+      "county": "MARION",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "SAN DIEGO",
+      "count": 2
+    },
+    {
+      "state": "KS",
+      "county": "SHAWNEE",
+      "count": 2
+    },
+    {
+      "state": "MD",
+      "county": "BALTIMORE",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "county": "GWINNETT",
+      "count": 1
+    },
+    {
+      "state": "TN",
+      "county": "DAVIDSON",
+      "count": 1
+    },
+    {
+      "state": "CT",
+      "county": "FAIRFIELD",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 32
+    },
+    {
+      "state": "TX",
+      "count": 5
+    },
+    {
+      "state": "NC",
+      "count": 4
+    },
+    {
+      "state": "CA",
+      "count": 4
+    },
+    {
+      "state": "TN",
+      "count": 3
+    },
+    {
+      "state": "MD",
+      "count": 3
+    },
+    {
+      "state": "MN",
+      "count": 2
+    },
+    {
+      "state": "MA",
+      "count": 2
+    },
+    {
+      "state": "FL",
+      "count": 2
+    },
+    {
+      "state": "KS",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 103334.0,
+    "gap_usd": -26826.0
+  }
+}

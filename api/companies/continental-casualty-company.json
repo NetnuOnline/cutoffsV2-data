@@ -1,0 +1,181 @@
+{
+  "slug": "continental-casualty-company",
+  "canonical_name": "Continental Casualty Company",
+  "fein": "36-2114545",
+  "lca_filing_count": 41,
+  "lca_worker_positions": 50,
+  "warn_notice_count": 0,
+  "median_wage_usd": 148000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 8,
+      "median_wage_usd": 130387.5
+    },
+    {
+      "fy": 2022,
+      "filings": 7,
+      "median_wage_usd": 145000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 6,
+      "median_wage_usd": 145293.0
+    },
+    {
+      "fy": 2024,
+      "filings": 7,
+      "median_wage_usd": 149000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 8,
+      "median_wage_usd": 159579.0
+    },
+    {
+      "fy": 2026,
+      "filings": 4,
+      "median_wage_usd": 163442.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Data Engineer",
+      "count": 6,
+      "median_wage_usd": 150825.0
+    },
+    {
+      "title": "Principal Software Engineer",
+      "count": 2,
+      "median_wage_usd": 166008.5
+    },
+    {
+      "title": "Actuarial Consultant ",
+      "count": 2,
+      "median_wage_usd": 119548.5
+    },
+    {
+      "title": "Architecture Senior Specialist",
+      "count": 2,
+      "median_wage_usd": 145937.5
+    },
+    {
+      "title": "Principal Data Engineer",
+      "count": 2,
+      "median_wage_usd": 173400.0
+    },
+    {
+      "title": "System Architect Director",
+      "count": 2,
+      "median_wage_usd": 187880.0
+    },
+    {
+      "title": "Sr. Data Engineer",
+      "count": 2,
+      "median_wage_usd": 151320.0
+    },
+    {
+      "title": "Data Engineer",
+      "count": 2,
+      "median_wage_usd": 110220.0
+    },
+    {
+      "title": "Application Engineer Senior Specialist",
+      "count": 2,
+      "median_wage_usd": 120900.0
+    },
+    {
+      "title": "IT Business Analysis Specialist",
+      "count": 1,
+      "median_wage_usd": 120120.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 21
+    },
+    {
+      "state": "SD",
+      "county": "MINNEHAHA",
+      "count": 2
+    },
+    {
+      "state": "CT",
+      "county": "MILFORD CITY",
+      "count": 1
+    },
+    {
+      "state": "OH",
+      "county": "DELAWARE",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "county": "GWINNETT",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 30
+    },
+    {
+      "state": "TX",
+      "count": 4
+    },
+    {
+      "state": "SD",
+      "count": 2
+    },
+    {
+      "state": "GA",
+      "count": 2
+    },
+    {
+      "state": "NY",
+      "count": 1
+    },
+    {
+      "state": "CT",
+      "count": 1
+    },
+    {
+      "state": "OH",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 152506.0,
+    "gap_usd": 22346.0
+  }
+}

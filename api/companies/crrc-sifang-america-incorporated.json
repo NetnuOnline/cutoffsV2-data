@@ -1,0 +1,111 @@
+{
+  "slug": "crrc-sifang-america-incorporated",
+  "canonical_name": "CRRC Sifang America Incorporated",
+  "fein": "33-1218972",
+  "lca_filing_count": 8,
+  "warn_notice_count": 0,
+  "median_wage_usd": 95739.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 101999.0
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 77999.0
+    },
+    {
+      "fy": 2023,
+      "filings": 5,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 70000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Lead IT Engineer",
+      "count": 3,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "title": "Quality Engineer",
+      "count": 1,
+      "median_wage_usd": 77999.0
+    },
+    {
+      "title": "Finance Manager",
+      "count": 1,
+      "median_wage_usd": 91478.0
+    },
+    {
+      "title": "Lead Electrical Engineer",
+      "count": 1,
+      "median_wage_usd": 101999.0
+    },
+    {
+      "title": "Assistant Mechanical Engineer",
+      "count": 1,
+      "median_wage_usd": 65458.0
+    },
+    {
+      "title": "Process Engineer I",
+      "count": 1,
+      "median_wage_usd": 70000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 8
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 8
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 1,
+    "continuing_denials": 0,
+    "total_approvals": 2,
+    "by_fy": [
+      {
+        "fy": 2017,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      }
+    ]
+  },
+  "lca_worker_positions": 8,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Information Security Engineers",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 100000.0,
+    "gap_usd": -18000.0
+  }
+}

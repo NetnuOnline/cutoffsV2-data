@@ -1,0 +1,43 @@
+{
+  "slug": "ymca-of-san-diego",
+  "canonical_name": "YMCA of San Diego",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "04/22/2025",
+      "effective_date": "06/23/2025",
+      "state": "CA",
+      "workers": 27,
+      "city": "San Diego"
+    },
+    {
+      "date": "11/13/2020",
+      "effective_date": "01/12/2021",
+      "state": "CA",
+      "workers": 2047,
+      "city": "San Diego"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "san-diego-county-wib",
+      "name": "San Diego County WIB",
+      "state": "CA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

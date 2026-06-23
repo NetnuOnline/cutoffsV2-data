@@ -1,0 +1,72 @@
+{
+  "slug": "peblla",
+  "canonical_name": "Peblla, Inc.",
+  "fein": "85-3184551",
+  "lca_filing_count": 4,
+  "lca_worker_positions": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 73122.5,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 57824.1
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 81120.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 95784.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Data Analyst ",
+      "count": 1,
+      "median_wage_usd": 65125.0
+    },
+    {
+      "title": "Computer Network & Systems Administrator",
+      "count": 1,
+      "median_wage_usd": 81120.0
+    },
+    {
+      "title": "information technology project manager ",
+      "count": 1,
+      "median_wage_usd": 95784.0
+    },
+    {
+      "title": "Marketing Research Analyst/Marketing Specialist ",
+      "count": 1,
+      "median_wage_usd": 50523.2
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MD",
+      "county": "MONTGOMERY",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MD",
+      "count": 4
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1244",
+    "soc_title": "Network and Computer Systems Administrators",
+    "market_median_usd": 95000.0,
+    "employer_median_usd": 81120.0,
+    "gap_usd": -13880.0
+  }
+}

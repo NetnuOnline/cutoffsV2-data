@@ -1,0 +1,123 @@
+{
+  "slug": "yuvi-systems",
+  "canonical_name": "YUVI SYSTEMS INC.",
+  "fein": "83-1768838",
+  "lca_filing_count": 16,
+  "lca_worker_positions": 16,
+  "warn_notice_count": 0,
+  "median_wage_usd": 106038.4,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 102690.0
+    },
+    {
+      "fy": 2024,
+      "filings": 5,
+      "median_wage_usd": 105996.8
+    },
+    {
+      "fy": 2025,
+      "filings": 7,
+      "median_wage_usd": 114400.0
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 116480.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SOFTWARE DEVELOPER",
+      "count": 6,
+      "median_wage_usd": 110240.0
+    },
+    {
+      "title": "Data Analyst",
+      "count": 3,
+      "median_wage_usd": 92580.8
+    },
+    {
+      "title": "no SQL ADMIN",
+      "count": 2,
+      "median_wage_usd": 108118.4
+    },
+    {
+      "title": "SOFTWARE DEVELOPERS",
+      "count": 2,
+      "median_wage_usd": 115440.0
+    },
+    {
+      "title": "MONGO DBA",
+      "count": 1,
+      "median_wage_usd": 89440.0
+    },
+    {
+      "title": "EMBEDDED ENGINEER/ARCHITECT",
+      "count": 1,
+      "median_wage_usd": 95680.0
+    },
+    {
+      "title": "SOFTWARE QA ENGINEER",
+      "count": 1,
+      "median_wage_usd": 88982.40000000001
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 3
+    },
+    {
+      "state": "IL",
+      "county": "KANE",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 1
+    },
+    {
+      "state": "KY",
+      "county": "JEFFERSON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 12
+    },
+    {
+      "state": "MD",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "count": 1
+    },
+    {
+      "state": "KY",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 108160.0,
+    "gap_usd": -22000.0
+  }
+}

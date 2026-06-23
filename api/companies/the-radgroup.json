@@ -1,0 +1,65 @@
+{
+  "slug": "the-radgroup",
+  "canonical_name": "The RADGroup",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 4,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "FL",
+      "count": 2
+    },
+    {
+      "state": "SC",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "04/16/2019",
+      "effective_date": "04/16/2019",
+      "state": "SC",
+      "workers": 126,
+      "city": "Gaffney"
+    },
+    {
+      "date": "02/25/2019",
+      "effective_date": "04/22/2019",
+      "state": "FL",
+      "workers": 2,
+      "city": "DANIA"
+    },
+    {
+      "date": "02/25/2019",
+      "effective_date": "04/22/2019",
+      "state": "FL",
+      "workers": 2,
+      "city": "HOLLYWOOD"
+    },
+    {
+      "date": "02/19/2019",
+      "effective_date": "02/19/2019",
+      "state": "MI",
+      "workers": 9,
+      "city": "Troy"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "upstate-wib",
+      "name": "Upstate WIB",
+      "state": "SC"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

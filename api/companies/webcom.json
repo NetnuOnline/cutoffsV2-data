@@ -1,0 +1,65 @@
+{
+  "slug": "webcom",
+  "canonical_name": "Web.com",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 4,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 2
+    },
+    {
+      "state": "WA",
+      "count": 1
+    },
+    {
+      "state": "AZ",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "03/29/2019",
+      "effective_date": "06/01/2019",
+      "state": "WA",
+      "workers": 64,
+      "city": "Spokane"
+    },
+    {
+      "date": "03/29/2019",
+      "effective_date": "06/01/2019",
+      "state": "NY",
+      "workers": 9,
+      "city": "New York"
+    },
+    {
+      "date": "02/01/2019",
+      "effective_date": "04/01/2019",
+      "state": "NY",
+      "workers": 39,
+      "city": "New York"
+    },
+    {
+      "date": "02/01/2019",
+      "effective_date": "02/01/2019",
+      "state": "AZ",
+      "workers": 11,
+      "city": "Scottsdale"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "spokane-wib",
+      "name": "Spokane WIB",
+      "state": "WA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

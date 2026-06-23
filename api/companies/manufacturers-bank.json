@@ -1,0 +1,184 @@
+{
+  "slug": "manufacturers-bank",
+  "canonical_name": "Manufacturers Bank",
+  "fein": null,
+  "lca_filing_count": 10,
+  "warn_notice_count": 0,
+  "median_wage_usd": 162500.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 187500.0
+    },
+    {
+      "fy": 2022,
+      "filings": 5,
+      "median_wage_usd": 155000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 170000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer - Data",
+      "count": 1,
+      "median_wage_usd": 145000.0
+    },
+    {
+      "title": "Scrum Master Project Manager",
+      "count": 1,
+      "median_wage_usd": 155000.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 1,
+      "median_wage_usd": 145000.0
+    },
+    {
+      "title": "Engineering Manager - Decision Engine",
+      "count": 1,
+      "median_wage_usd": 175000.0
+    },
+    {
+      "title": "Software Engineer ",
+      "count": 1,
+      "median_wage_usd": 114000.0
+    },
+    {
+      "title": "Sr. Software Engineer - Data",
+      "count": 1,
+      "median_wage_usd": 170000.0
+    },
+    {
+      "title": "Engineering Director - Core Banking",
+      "count": 1,
+      "median_wage_usd": 180000.0
+    },
+    {
+      "title": "Credit Risk Manager, Digital Bank ",
+      "count": 1,
+      "median_wage_usd": 230000.0
+    },
+    {
+      "title": "Engineering Manager - Production Support",
+      "count": 1,
+      "median_wage_usd": 180000.0
+    },
+    {
+      "title": "QA Manager",
+      "count": 1,
+      "median_wage_usd": 145000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 4
+    },
+    {
+      "state": "PA",
+      "county": "PHILADELPHIA",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "county": "WAKE",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "county": "CABARRUS",
+      "count": 1
+    },
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 4
+    },
+    {
+      "state": "NC",
+      "count": 2
+    },
+    {
+      "state": "AZ",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 21,
+    "continuing_denials": 0,
+    "total_approvals": 22,
+    "by_fy": [
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 10,
+        "continuing_denials": 0,
+        "total_approvals": 10
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 10,
+        "continuing_denials": 0,
+        "total_approvals": 11
+      }
+    ]
+  },
+  "lca_worker_positions": 10,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 170000.0,
+    "gap_usd": 39840.0
+  }
+}

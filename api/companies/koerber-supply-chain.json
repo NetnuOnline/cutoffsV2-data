@@ -1,0 +1,85 @@
+{
+  "slug": "koerber-supply-chain",
+  "canonical_name": "Koerber Supply Chain, LLC",
+  "fein": "35-2741794",
+  "lca_filing_count": 8,
+  "warn_notice_count": 0,
+  "median_wage_usd": 127500.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 6,
+      "median_wage_usd": 127500.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 130393.15
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software and Simulation Solutions Engineer",
+      "count": 2,
+      "median_wage_usd": 122000.0
+    },
+    {
+      "title": "Controls Team Lead",
+      "count": 2,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Software Engineer II",
+      "count": 1,
+      "median_wage_usd": 135786.3
+    },
+    {
+      "title": "Senior Controls Engineer",
+      "count": 1,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "title": "VP, Project Engineering",
+      "count": 1,
+      "median_wage_usd": 175000.0
+    },
+    {
+      "title": "Firmware Controls Engineer",
+      "count": 1,
+      "median_wage_usd": 125000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 4
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 5
+    },
+    {
+      "state": "GA",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 8,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Computer Systems Engineers/Architects",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 123500.0,
+    "gap_usd": 5500.0
+  }
+}

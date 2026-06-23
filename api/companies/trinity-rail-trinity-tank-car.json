@@ -1,0 +1,77 @@
+{
+  "slug": "trinity-rail-trinity-tank-car",
+  "canonical_name": "Trinity Rail-Trinity Tank Car",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "03/15/2016",
+      "effective_date": "05/15/2016",
+      "state": "TX",
+      "workers": 228,
+      "city": "Longview"
+    },
+    {
+      "date": "03/14/2016",
+      "effective_date": "05/15/2016",
+      "state": "TX",
+      "workers": 381,
+      "city": "Longview"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "east-texas-wda",
+      "name": "East Texas WDA",
+      "state": "TX"
+    }
+  ],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2019-11-18",
+        "formType": "8-K",
+        "accessionNumber": "0000099780-19-000134",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000099780&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2008-05-09",
+        "formType": "8-K",
+        "accessionNumber": "0001299933-08-002466",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000099780&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 2,
+    "itemCounts": {
+      "2.05": 1,
+      "5.02": 1
+    },
+    "latestFilingDate": "2019-11-18",
+    "earliestFilingDate": "2008-05-09"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

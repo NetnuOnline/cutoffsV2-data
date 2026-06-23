@@ -1,0 +1,66 @@
+{
+  "slug": "studs",
+  "canonical_name": "Studs, Inc.",
+  "fein": "36-4941997",
+  "lca_filing_count": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 153000.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 175000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 153000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "VP, Accounting - Controller",
+      "count": 1,
+      "median_wage_usd": 230000.0
+    },
+    {
+      "title": "Market Research Analysts and Marketing Specialists",
+      "count": 1,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "Market Research Analyst and Marketing Specialist",
+      "count": 1,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "title": "Marketing Specialist",
+      "count": 1,
+      "median_wage_usd": 156000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 4
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1161",
+    "soc_title": "Market Research Analysts and Marketing Specialists",
+    "market_median_usd": 74680.0,
+    "employer_median_usd": 150000.0,
+    "gap_usd": 75320.0
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "slug": "newton-x",
+  "canonical_name": "Newton X, Inc.",
+  "fein": "81-2776140",
+  "lca_filing_count": 3,
+  "lca_worker_positions": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 119038.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 117042.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 119038.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 150301.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Account Executive, Market Research",
+      "count": 1,
+      "median_wage_usd": 119038.0
+    },
+    {
+      "title": "Product Manager",
+      "count": 1,
+      "median_wage_usd": 150301.0
+    },
+    {
+      "title": "Client Delivery Director",
+      "count": 1,
+      "median_wage_usd": 117042.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1161",
+    "soc_title": "Market Research Analysts and Marketing Specialists",
+    "market_median_usd": 74680.0,
+    "employer_median_usd": 118040.0,
+    "gap_usd": 43360.0
+  }
+}

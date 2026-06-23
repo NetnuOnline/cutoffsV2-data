@@ -1,0 +1,91 @@
+{
+  "slug": "ravacons",
+  "canonical_name": "Ravacons LLC",
+  "fein": "82-1751199",
+  "lca_filing_count": 9,
+  "lca_worker_positions": 8,
+  "warn_notice_count": 0,
+  "median_wage_usd": 110000.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 3,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 122122.5
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 124592.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 125000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 3,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "Software Test Engineer",
+      "count": 2,
+      "median_wage_usd": 98000.0
+    },
+    {
+      "title": "Sr Software Engineer",
+      "count": 2,
+      "median_wage_usd": 128122.5
+    },
+    {
+      "title": "Sr. Software Engineer",
+      "count": 1,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 124592.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SACRAMENTO",
+      "count": 7
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 8
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 124592.0,
+    "gap_usd": -5568.0
+  }
+}

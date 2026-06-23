@@ -1,0 +1,165 @@
+{
+  "slug": "equi-tek",
+  "canonical_name": "EQUI-TEK LLC.",
+  "fein": "27-1176858",
+  "lca_filing_count": 22,
+  "lca_worker_positions": 21,
+  "warn_notice_count": 0,
+  "median_wage_usd": 99100.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 94100.0
+    },
+    {
+      "fy": 2022,
+      "filings": 8,
+      "median_wage_usd": 89750.0
+    },
+    {
+      "fy": 2023,
+      "filings": 6,
+      "median_wage_usd": 103000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 105300.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 94650.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 99650.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SOFTWARE DEVELOPER",
+      "count": 15,
+      "median_wage_usd": 103000.0
+    },
+    {
+      "title": "Computer Programmer",
+      "count": 2,
+      "median_wage_usd": 83000.0
+    },
+    {
+      "title": "Software Quality Assurance Analyst",
+      "count": 2,
+      "median_wage_usd": 99150.0
+    },
+    {
+      "title": "COMPUTER SOFTWARE ENGINEER",
+      "count": 1,
+      "median_wage_usd": 94500.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 1,
+      "median_wage_usd": 99100.0
+    },
+    {
+      "title": "Business Analyst",
+      "count": 1,
+      "median_wage_usd": 85000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 8
+    },
+    {
+      "state": "IL",
+      "county": "SANGAMON",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "county": "PEORIA",
+      "count": 2
+    },
+    {
+      "state": "GA",
+      "county": "COBB",
+      "count": 1
+    },
+    {
+      "state": "RI",
+      "county": "NORTH KINGSTOWN",
+      "count": 1
+    },
+    {
+      "state": "OR",
+      "county": "MARION",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 1
+    },
+    {
+      "state": "TN",
+      "county": "WILLIAMSON",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "county": "MONTGOMERY",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 11
+    },
+    {
+      "state": "IL",
+      "count": 4
+    },
+    {
+      "state": "PA",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "TN",
+      "count": 1
+    },
+    {
+      "state": "RI",
+      "count": 1
+    },
+    {
+      "state": "OR",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 100000.0,
+    "gap_usd": -30160.0
+  }
+}

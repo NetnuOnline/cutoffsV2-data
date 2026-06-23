@@ -1,0 +1,157 @@
+{
+  "slug": "signify-north-america",
+  "canonical_name": "Signify North America Corporation",
+  "fein": "04-3391805",
+  "lca_filing_count": 20,
+  "lca_worker_positions": 20,
+  "warn_notice_count": 0,
+  "median_wage_usd": 138500.41,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 146523.0
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 140454.0
+    },
+    {
+      "fy": 2022,
+      "filings": 10,
+      "median_wage_usd": 135000.41
+    },
+    {
+      "fy": 2023,
+      "filings": 4,
+      "median_wage_usd": 145429.5
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 115900.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 156627.99,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Supply Chain Manager",
+      "count": 1,
+      "median_wage_usd": 115900.0
+    },
+    {
+      "title": "Product Architect",
+      "count": 1,
+      "median_wage_usd": 113090.0
+    },
+    {
+      "title": "Applied Machine Learning Engineer ",
+      "count": 1,
+      "median_wage_usd": 97968.0
+    },
+    {
+      "title": "Channel Marketing Manager",
+      "count": 1,
+      "median_wage_usd": 156627.99
+    },
+    {
+      "title": "Software Development Engineer",
+      "count": 1,
+      "median_wage_usd": 116700.0
+    },
+    {
+      "title": "R&D Design Engineer",
+      "count": 1,
+      "median_wage_usd": 108950.0
+    },
+    {
+      "title": "Principal Development Engineer ",
+      "count": 1,
+      "median_wage_usd": 165675.0
+    },
+    {
+      "title": "ADVANCED QUALITY ENGINEER",
+      "count": 1,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "title": "Product Marketing Manager",
+      "count": 1,
+      "median_wage_usd": 117911.8
+    },
+    {
+      "title": "Machine Learning Engineering Leader",
+      "count": 1,
+      "median_wage_usd": 170000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MA",
+      "county": "BURLINGTON",
+      "count": 7
+    },
+    {
+      "state": "NJ",
+      "county": "SOMERSET",
+      "count": 3
+    },
+    {
+      "state": "GA",
+      "county": "FAYETTE",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 2
+    },
+    {
+      "state": "TN",
+      "county": "SHELBY",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MA",
+      "count": 8
+    },
+    {
+      "state": "NJ",
+      "count": 4
+    },
+    {
+      "state": "TN",
+      "count": 3
+    },
+    {
+      "state": "IL",
+      "count": 2
+    },
+    {
+      "state": "GA",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 130000.0,
+    "gap_usd": -160.0
+  }
+}

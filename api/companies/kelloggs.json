@@ -1,0 +1,80 @@
+{
+  "slug": "kelloggs",
+  "canonical_name": "Kelloggs",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 5,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    },
+    {
+      "state": "OH",
+      "count": 1
+    },
+    {
+      "state": "UT",
+      "count": 1
+    },
+    {
+      "state": "AZ",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "07/29/2017",
+      "effective_date": "07/29/2017",
+      "state": "NJ",
+      "workers": 316,
+      "city": "Cranbury"
+    },
+    {
+      "date": "07/29/2017",
+      "effective_date": "07/29/2017",
+      "state": "GA",
+      "workers": 181,
+      "city": "Union City"
+    },
+    {
+      "date": "05/26/2017",
+      "effective_date": "07/29/2017",
+      "state": "OH",
+      "workers": 248,
+      "city": "Sharonville/Hamilton"
+    },
+    {
+      "date": "05/26/2017",
+      "effective_date": "05/26/2017",
+      "state": "UT",
+      "workers": 247,
+      "city": "SLC"
+    },
+    {
+      "date": "05/26/2017",
+      "effective_date": "05/26/2017",
+      "state": "AZ",
+      "workers": 180,
+      "city": "Phoenix"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "mercer-wib",
+      "name": "Mercer WIB",
+      "state": "NJ"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

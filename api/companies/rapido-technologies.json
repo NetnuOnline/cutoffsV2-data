@@ -1,0 +1,96 @@
+{
+  "slug": "rapido-technologies",
+  "canonical_name": "Rapido Technologies LLC",
+  "fein": "87-2240926",
+  "lca_filing_count": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 94723.2,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 4,
+      "median_wage_usd": 102055.20000000001
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 83700.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Full Stack Developer ",
+      "count": 1,
+      "median_wage_usd": 83700.0
+    },
+    {
+      "title": "Data Engineer",
+      "count": 1,
+      "median_wage_usd": 94723.2
+    },
+    {
+      "title": "UI DEVELOPER \u00bf ",
+      "count": 1,
+      "median_wage_usd": 88379.0
+    },
+    {
+      "title": "Technical Consultant ",
+      "count": 1,
+      "median_wage_usd": 109678.4
+    },
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 109387.20000000001
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CT",
+      "county": "FAIRFIELD",
+      "count": 5
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CT",
+      "count": 5
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 3,
+    "initial_denials": 0,
+    "continuing_approvals": 2,
+    "continuing_denials": 1,
+    "total_approvals": 5,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 3,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 1,
+        "total_approvals": 2
+      }
+    ]
+  },
+  "lca_worker_positions": 5,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 88379.0,
+    "gap_usd": -41781.0
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "slug": "moveworks",
+  "canonical_name": "Moveworks, Inc.",
+  "fein": "81-3024050",
+  "lca_filing_count": 38,
+  "lca_worker_positions": 38,
+  "warn_notice_count": 0,
+  "median_wage_usd": 210000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 10,
+      "median_wage_usd": 192500.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 176125.0
+    },
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 170000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 13,
+      "median_wage_usd": 226158.0
+    },
+    {
+      "fy": 2025,
+      "filings": 7,
+      "median_wage_usd": 230456.81
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 200000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Software Engineer",
+      "count": 7,
+      "median_wage_usd": 226158.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 4,
+      "median_wage_usd": 187500.0
+    },
+    {
+      "title": "Senior Software Engineer II",
+      "count": 3,
+      "median_wage_usd": 230456.81
+    },
+    {
+      "title": "Senior Manager, Customer Support",
+      "count": 2,
+      "median_wage_usd": 199500.0
+    },
+    {
+      "title": "Software Engineer ",
+      "count": 2,
+      "median_wage_usd": 210000.0
+    },
+    {
+      "title": "Customer Success Support Lead",
+      "count": 2,
+      "median_wage_usd": 175000.0
+    },
+    {
+      "title": "Senior Legal Assistant",
+      "count": 2,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "title": "Staff Engineer",
+      "count": 2,
+      "median_wage_usd": 295000.0
+    },
+    {
+      "title": "Product Manager",
+      "count": 2,
+      "median_wage_usd": 209375.0
+    },
+    {
+      "title": "Machine Learning Engineer ",
+      "count": 1,
+      "median_wage_usd": 180000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 23
+    },
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 2
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "ORANGE",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "county": "BERGEN",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 33
+    },
+    {
+      "state": "NJ",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "WA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 226158.0,
+    "gap_usd": 95998.0
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "slug": "fitch-group-services",
+  "canonical_name": "Fitch Group Services, Inc.",
+  "fein": "87-4248285",
+  "lca_filing_count": 19,
+  "lca_worker_positions": 19,
+  "warn_notice_count": 0,
+  "median_wage_usd": 150000.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 5,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 121375.0
+    },
+    {
+      "fy": 2025,
+      "filings": 5,
+      "median_wage_usd": 175000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 7,
+      "median_wage_usd": 153317.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Associate Director",
+      "count": 2,
+      "median_wage_usd": 165000.0
+    },
+    {
+      "title": "Lead Scrum Master",
+      "count": 1,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "title": "Program Manager,  Associate Director",
+      "count": 1,
+      "median_wage_usd": 154400.0
+    },
+    {
+      "title": "Engineering & Quality- Software Engineer, Senior",
+      "count": 1,
+      "median_wage_usd": 135900.0
+    },
+    {
+      "title": "Associate Director, Scrum Master",
+      "count": 1,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "title": "Senior Developer",
+      "count": 1,
+      "median_wage_usd": 117750.0
+    },
+    {
+      "title": "Engineering Manager, Director",
+      "count": 1,
+      "median_wage_usd": 216550.0
+    },
+    {
+      "title": "Program Manager",
+      "count": 1,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "title": "Senior QA Engineer",
+      "count": 1,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "Engineering & Quality-Software Engineer, Associate Director",
+      "count": 1,
+      "median_wage_usd": 188350.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 5
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 4
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 10
+    },
+    {
+      "state": "IL",
+      "count": 8
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 143075.0,
+    "gap_usd": 12915.0
+  }
+}

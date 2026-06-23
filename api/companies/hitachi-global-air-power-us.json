@@ -1,0 +1,91 @@
+{
+  "slug": "hitachi-global-air-power-us",
+  "canonical_name": "Hitachi Global Air Power US, LLC",
+  "fein": "35-1112760",
+  "lca_filing_count": 7,
+  "lca_worker_positions": 7,
+  "warn_notice_count": 0,
+  "median_wage_usd": 129375.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 85865.58
+    },
+    {
+      "fy": 2025,
+      "filings": 4,
+      "median_wage_usd": 129375.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 145000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Data Scientist, Finance",
+      "count": 1,
+      "median_wage_usd": 115069.31
+    },
+    {
+      "title": "Product Support Engineer",
+      "count": 1,
+      "median_wage_usd": 85865.58
+    },
+    {
+      "title": "SAP Systems Integration Lead",
+      "count": 1,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Senior SAP ERP Analyst",
+      "count": 1,
+      "median_wage_usd": 160680.0
+    },
+    {
+      "title": "Director, Product Lifecycle Management",
+      "count": 1,
+      "median_wage_usd": null
+    },
+    {
+      "title": "Global Commodity Manager",
+      "count": 1,
+      "median_wage_usd": 145000.0
+    },
+    {
+      "title": "Product Cost Excellence, Lead",
+      "count": 1,
+      "median_wage_usd": 128750.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IN",
+      "county": "LA PORTE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IN",
+      "count": 6
+    },
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3021",
+    "soc_title": "Computer and Information Systems Managers",
+    "market_median_usd": 169510.0,
+    "employer_median_usd": 129375.0,
+    "gap_usd": -40135.0
+  }
+}

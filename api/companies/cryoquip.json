@@ -1,0 +1,81 @@
+{
+  "slug": "cryoquip",
+  "canonical_name": "Cryoquip, LLC",
+  "fein": "46-3038763",
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 147250.07,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 174500.14
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Product Marketing Manager",
+      "count": 1,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "Director, Business Development",
+      "count": 1,
+      "median_wage_usd": 174500.14
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "RIVERSIDE",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 0,
+    "continuing_denials": 0,
+    "total_approvals": 1,
+    "by_fy": [
+      {
+        "fy": 2016,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-2021",
+    "soc_title": "Marketing Managers",
+    "market_median_usd": 157620.0,
+    "employer_median_usd": 147250.07,
+    "gap_usd": -10369.93
+  }
+}

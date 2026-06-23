@@ -1,0 +1,51 @@
+{
+  "slug": "shuttlerock",
+  "canonical_name": "Shuttlerock, LLC",
+  "fein": null,
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 102549.5,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 102549.5
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Creative Lead",
+      "count": 1,
+      "median_wage_usd": 108150.0
+    },
+    {
+      "title": "Performance Marketing Manager",
+      "count": 1,
+      "median_wage_usd": 96949.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1161",
+    "soc_title": "Market Research Analysts and Marketing Specialists",
+    "market_median_usd": 74680.0,
+    "employer_median_usd": 96949.0,
+    "gap_usd": 22269.0
+  }
+}

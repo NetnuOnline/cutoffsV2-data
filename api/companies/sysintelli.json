@@ -1,0 +1,203 @@
+{
+  "slug": "sysintelli",
+  "canonical_name": "Sysintelli Inc.",
+  "fein": "20-2345291",
+  "lca_filing_count": 94,
+  "lca_worker_positions": 94,
+  "warn_notice_count": 0,
+  "median_wage_usd": 107750.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 13,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 11,
+      "median_wage_usd": 99000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 7,
+      "median_wage_usd": 129500.0
+    },
+    {
+      "fy": 2023,
+      "filings": 12,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 23,
+      "median_wage_usd": 113000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 18,
+      "median_wage_usd": 106000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 10,
+      "median_wage_usd": 113000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "DATA ENGINEER",
+      "count": 11,
+      "median_wage_usd": 112500.0
+    },
+    {
+      "title": "SOFTWARE DEVELOPER",
+      "count": 11,
+      "median_wage_usd": 106000.0
+    },
+    {
+      "title": "BUSINESS SYSTEMS ANALYST",
+      "count": 4,
+      "median_wage_usd": 99750.0
+    },
+    {
+      "title": "SYSTEMS ANALYST",
+      "count": 4,
+      "median_wage_usd": 111500.0
+    },
+    {
+      "title": "BUSINESS ANALYST",
+      "count": 4,
+      "median_wage_usd": 110250.0
+    },
+    {
+      "title": "INFORMATION SECURITY ENGINEER",
+      "count": 3,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "APPIAN DEVELOPER",
+      "count": 3,
+      "median_wage_usd": 123000.0
+    },
+    {
+      "title": "IOS DEVELOPER",
+      "count": 3,
+      "median_wage_usd": 99000.0
+    },
+    {
+      "title": "SAP Implementation Consultant",
+      "count": 2,
+      "median_wage_usd": 117500.0
+    },
+    {
+      "title": "QA ANALYST",
+      "count": 2,
+      "median_wage_usd": 98000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SAN DIEGO",
+      "count": 16
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 5
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 4
+    },
+    {
+      "state": "NY",
+      "county": "DUTCHESS",
+      "count": 4
+    },
+    {
+      "state": "PA",
+      "county": "MONTGOMERY",
+      "count": 3
+    },
+    {
+      "state": "CA",
+      "county": "SAN MATEO",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 3
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 3
+    },
+    {
+      "state": "MD",
+      "county": "FREDERICK",
+      "count": 2
+    },
+    {
+      "state": "RI",
+      "county": "PROVIDENCE CITY",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 29
+    },
+    {
+      "state": "TX",
+      "count": 23
+    },
+    {
+      "state": "PA",
+      "count": 6
+    },
+    {
+      "state": "MA",
+      "count": 4
+    },
+    {
+      "state": "NY",
+      "count": 4
+    },
+    {
+      "state": "NC",
+      "count": 4
+    },
+    {
+      "state": "FL",
+      "count": 3
+    },
+    {
+      "state": "IL",
+      "count": 3
+    },
+    {
+      "state": "AZ",
+      "count": 2
+    },
+    {
+      "state": "ID",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 113000.0,
+    "gap_usd": -17160.0
+  }
+}

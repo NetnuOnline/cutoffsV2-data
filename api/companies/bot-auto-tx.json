@@ -1,0 +1,106 @@
+{
+  "slug": "bot-auto-tx",
+  "canonical_name": "BOT AUTO TX INC",
+  "fein": "93-2903786",
+  "lca_filing_count": 13,
+  "lca_worker_positions": 13,
+  "warn_notice_count": 0,
+  "median_wage_usd": 200000.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 12,
+      "median_wage_usd": 200000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 200000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Software Engineer",
+      "count": 3,
+      "median_wage_usd": 200000.0
+    },
+    {
+      "title": "Senior Project Engineer",
+      "count": 1,
+      "median_wage_usd": 200000.0
+    },
+    {
+      "title": "Senior Engineer - Localization and Mapping",
+      "count": 1,
+      "median_wage_usd": 200000.0
+    },
+    {
+      "title": "Intelligent Systems Engineer",
+      "count": 1,
+      "median_wage_usd": 180000.0
+    },
+    {
+      "title": "Procurement Engineer",
+      "count": 1,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "Associate Director - Senior Research Scientist",
+      "count": 1,
+      "median_wage_usd": 220000.0
+    },
+    {
+      "title": "SENIOR MECHANICAL ENGINEER",
+      "count": 1,
+      "median_wage_usd": 169944.0
+    },
+    {
+      "title": "SENIOR SOFTWARE ENGINEER",
+      "count": 1,
+      "median_wage_usd": 200000.0
+    },
+    {
+      "title": "Senior Computer Systems Engineer",
+      "count": 1,
+      "median_wage_usd": 200000.0
+    },
+    {
+      "title": "Tech Lead-Computer and Information Research Scientist",
+      "count": 1,
+      "median_wage_usd": 201200.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "WALLER",
+      "count": 10
+    },
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 12
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 200000.0,
+    "gap_usd": 69840.0
+  }
+}

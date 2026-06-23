@@ -1,0 +1,313 @@
+{
+  "slug": "glassdoor",
+  "canonical_name": "Glassdoor, Inc.",
+  "fein": "26-0338445",
+  "lca_filing_count": 23,
+  "warn_notice_count": 4,
+  "median_wage_usd": 132500.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 3,
+      "median_wage_usd": 180981.86
+    },
+    {
+      "fy": 2021,
+      "filings": 7,
+      "median_wage_usd": 128000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 5,
+      "median_wage_usd": 128000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 4,
+      "median_wage_usd": 117647.0
+    },
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 132500.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Machine Learning Engineer (20639.116)",
+      "count": 2,
+      "median_wage_usd": 136000.0
+    },
+    {
+      "title": "Lead Product Manager, Fishbowl Machine Learning (20639.147)",
+      "count": 1,
+      "median_wage_usd": 128000.0
+    },
+    {
+      "title": "Manager, Data Science",
+      "count": 1,
+      "median_wage_usd": 184433.0
+    },
+    {
+      "title": "Lead Product Manager  20639.29",
+      "count": 1,
+      "median_wage_usd": 195939.89
+    },
+    {
+      "title": "Senior Java Engineer (20639.125)",
+      "count": 1,
+      "median_wage_usd": 128000.0
+    },
+    {
+      "title": "Senior Data Engineer",
+      "count": 1,
+      "median_wage_usd": 104400.0
+    },
+    {
+      "title": "Lead Software Engineer in Test  20639.28",
+      "count": 1,
+      "median_wage_usd": 180981.86
+    },
+    {
+      "title": "Sr. DevOps Engineer (Sr SW Engineer)",
+      "count": 1,
+      "median_wage_usd": 123968.0
+    },
+    {
+      "title": "Data Scientist, Consumer Decision Science (20639.126)",
+      "count": 1,
+      "median_wage_usd": 115880.0
+    },
+    {
+      "title": "Senior Data Scientist (20639.154)",
+      "count": 1,
+      "median_wage_usd": 136100.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 15
+    },
+    {
+      "state": "TX",
+      "count": 6
+    },
+    {
+      "state": "IL",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 6
+    },
+    {
+      "state": "CA",
+      "county": "MARIN",
+      "count": 3
+    },
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "county": "ERIE",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "BEXAR",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SAN MATEO",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "03/22/2023",
+      "effective_date": "03/31/2023",
+      "state": "CA",
+      "workers": 130,
+      "city": "San Francisco"
+    },
+    {
+      "date": "03/22/2023",
+      "effective_date": "03/31/2023",
+      "state": "IL",
+      "workers": 26,
+      "city": "Chicago"
+    },
+    {
+      "date": "05/07/2020",
+      "effective_date": "05/07/2020",
+      "state": "CA",
+      "workers": 81,
+      "city": "Mill Valley"
+    },
+    {
+      "date": "05/07/2020",
+      "effective_date": "05/01/2020",
+      "state": "IL",
+      "workers": 194,
+      "city": "Chicago"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "marin-county-wib",
+      "name": "Marin County WIB",
+      "state": "CA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 13,
+    "initial_denials": 0,
+    "continuing_approvals": 98,
+    "continuing_denials": 2,
+    "total_approvals": 111,
+    "by_fy": [
+      {
+        "fy": 2011,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2012,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2013,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2014,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2015,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2016,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2017,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 7,
+        "initial_denials": 0,
+        "continuing_approvals": 27,
+        "continuing_denials": 1,
+        "total_approvals": 34
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 26,
+        "continuing_denials": 0,
+        "total_approvals": 27
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 5,
+        "initial_denials": 0,
+        "continuing_approvals": 36,
+        "continuing_denials": 1,
+        "total_approvals": 41
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 9,
+        "continuing_denials": 0,
+        "total_approvals": 9
+      }
+    ]
+  },
+  "lca_worker_positions": 22,
+  "top_socs": [],
+  "lca_periods": []
+}

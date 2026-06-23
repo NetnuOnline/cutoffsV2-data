@@ -1,0 +1,81 @@
+{
+  "slug": "linxbot",
+  "canonical_name": "Linxbot Inc.",
+  "fein": "88-0850398",
+  "lca_filing_count": 5,
+  "lca_worker_positions": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 60000.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 60000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 60000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 75004.8,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Data Analyst",
+      "count": 1,
+      "median_wage_usd": 75296.0
+    },
+    {
+      "title": "Editor",
+      "count": 1,
+      "median_wage_usd": 60000.0
+    },
+    {
+      "title": "Human Resources Specialist",
+      "count": 1,
+      "median_wage_usd": 60000.0
+    },
+    {
+      "title": "Market Intelligence Analyst",
+      "count": 1,
+      "median_wage_usd": 75004.8
+    },
+    {
+      "title": "Law Clerk",
+      "count": 1,
+      "median_wage_usd": 54000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 3
+    },
+    {
+      "state": "CA",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 75296.0,
+    "gap_usd": -32724.0
+  }
+}

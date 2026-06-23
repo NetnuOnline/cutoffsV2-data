@@ -1,0 +1,112 @@
+{
+  "slug": "nrg-entergy",
+  "canonical_name": "NRG Entergy, Inc.",
+  "fein": "41-1724239",
+  "lca_filing_count": 11,
+  "warn_notice_count": 0,
+  "median_wage_usd": 135000.0,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 10,
+      "median_wage_usd": 131834.5
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Software Engineer",
+      "count": 2,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "title": "Sr Software Engineer",
+      "count": 1,
+      "median_wage_usd": 128669.0
+    },
+    {
+      "title": "Business Intelligence Analyst",
+      "count": 1,
+      "median_wage_usd": 99029.0
+    },
+    {
+      "title": "Staff Software Engineer",
+      "count": 1,
+      "median_wage_usd": 178131.0
+    },
+    {
+      "title": "AI Engineer II",
+      "count": 1,
+      "median_wage_usd": 105976.0
+    },
+    {
+      "title": "IT Manager",
+      "count": 1,
+      "median_wage_usd": 186866.29
+    },
+    {
+      "title": "Senior Data Warehouse Analyst",
+      "count": 1,
+      "median_wage_usd": 155000.0
+    },
+    {
+      "title": "Corporate Paralegal",
+      "count": 1,
+      "median_wage_usd": 87235.0
+    },
+    {
+      "title": "Application Support Analyst",
+      "count": 1,
+      "median_wage_usd": 117998.0
+    },
+    {
+      "title": "Digital Application Developer",
+      "count": 1,
+      "median_wage_usd": 149947.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 2
+    },
+    {
+      "state": "MN",
+      "county": "CARVER",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 5
+    },
+    {
+      "state": "UT",
+      "count": 3
+    },
+    {
+      "state": "MA",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    },
+    {
+      "state": "MN",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 10,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 135000.0,
+    "gap_usd": 4840.0
+  }
+}

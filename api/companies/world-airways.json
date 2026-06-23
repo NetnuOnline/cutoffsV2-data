@@ -1,0 +1,43 @@
+{
+  "slug": "world-airways",
+  "canonical_name": "World Airways",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "04/04/2014",
+      "effective_date": "04/04/2014",
+      "state": "GA",
+      "workers": 897,
+      "city": "Peachtree City"
+    },
+    {
+      "date": "11/23/2013",
+      "effective_date": "11/23/2013",
+      "state": "GA",
+      "workers": 176,
+      "city": "Peachtree City"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "atlanta-regional-wib",
+      "name": "Atlanta Regional WIB",
+      "state": "GA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

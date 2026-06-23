@@ -1,0 +1,60 @@
+{
+  "slug": "procdna",
+  "canonical_name": "ProcDNA Inc.",
+  "fein": "84-3419336",
+  "lca_filing_count": 3,
+  "lca_worker_positions": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 210397.0,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 210397.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 194061.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Director",
+      "count": 1,
+      "median_wage_usd": 210397.0
+    },
+    {
+      "title": "Director - Analytics",
+      "count": 1,
+      "median_wage_usd": 228123.0
+    },
+    {
+      "title": "Engagement Lead",
+      "count": 1,
+      "median_wage_usd": 160000.0
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 2
+    },
+    {
+      "state": "MA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Information Technology Project Managers",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 185198.5,
+    "gap_usd": 67198.5
+  }
+}

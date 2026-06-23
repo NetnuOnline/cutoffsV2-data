@@ -1,0 +1,50 @@
+{
+  "slug": "orion-steel-group",
+  "canonical_name": "Orion Steel Group LLC",
+  "fein": "39-2538762",
+  "lca_filing_count": 2,
+  "lca_worker_positions": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 119978.01,
+  "by_fy": [
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 119978.015,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Business Intelligence Developer",
+      "count": 1,
+      "median_wage_usd": 110869.2
+    },
+    {
+      "title": "Process Automation Engineer",
+      "count": 1,
+      "median_wage_usd": 129086.83
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 1
+    },
+    {
+      "state": "CO",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 110869.2,
+    "gap_usd": -19290.8
+  }
+}

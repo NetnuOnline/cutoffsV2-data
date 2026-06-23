@@ -1,0 +1,209 @@
+{
+  "slug": "taco-bell",
+  "canonical_name": "Taco Bell Corp.",
+  "fein": "95-2213656",
+  "lca_filing_count": 12,
+  "warn_notice_count": 2,
+  "median_wage_usd": 132800.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 139000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 173000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 6,
+      "median_wage_usd": 135458.5
+    },
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 126600.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Sr. Software Engineer",
+      "count": 2,
+      "median_wage_usd": 135458.5
+    },
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 121222.0
+    },
+    {
+      "title": "Director, Operations - Ops Technology Optimization",
+      "count": 1,
+      "median_wage_usd": 220000.0
+    },
+    {
+      "title": "Associate Applications Engineer, Microsoft Dynamics",
+      "count": 1,
+      "median_wage_usd": 126000.0
+    },
+    {
+      "title": "Senior Mobile Developer",
+      "count": 1,
+      "median_wage_usd": 126600.0
+    },
+    {
+      "title": "Director, Quality Engineering",
+      "count": 1,
+      "median_wage_usd": 185203.0
+    },
+    {
+      "title": "Associate Manager, Marketing Analysis",
+      "count": 1,
+      "median_wage_usd": 104832.0
+    },
+    {
+      "title": "Director, Restaurant Evolution",
+      "count": 1,
+      "median_wage_usd": 174700.0
+    },
+    {
+      "title": "Software Engineer III",
+      "count": 1,
+      "median_wage_usd": 121222.0
+    },
+    {
+      "title": "Manager, Quality Assurance",
+      "count": 1,
+      "median_wage_usd": 139000.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 12
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "ORANGE",
+      "count": 11
+    },
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "01/17/2019",
+      "effective_date": "01/17/2019",
+      "state": "ME",
+      "workers": 5,
+      "city": "3 - Central Western Local Area 3"
+    },
+    {
+      "date": "02/25/2018",
+      "effective_date": "02/25/2018",
+      "state": "NE",
+      "workers": 18,
+      "city": "North Platte"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "mid-plains-economic-region",
+      "name": "Mid Plains Economic Region",
+      "state": "NE"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 18,
+    "continuing_denials": 0,
+    "total_approvals": 19,
+    "by_fy": [
+      {
+        "fy": 2016,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2017,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 4
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 9,
+        "continuing_denials": 0,
+        "total_approvals": 9
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 4,
+        "continuing_denials": 0,
+        "total_approvals": 4
+      }
+    ]
+  },
+  "lca_worker_positions": 12,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 123507.0,
+    "gap_usd": -6653.0
+  }
+}

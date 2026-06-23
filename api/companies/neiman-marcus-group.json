@@ -1,0 +1,122 @@
+{
+  "slug": "neiman-marcus-group",
+  "canonical_name": "Neiman Marcus Group LLC",
+  "fein": "95-4119509",
+  "lca_filing_count": 30,
+  "lca_worker_positions": 26,
+  "warn_notice_count": 0,
+  "median_wage_usd": 140054.5,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 4,
+      "median_wage_usd": 142176.0
+    },
+    {
+      "fy": 2022,
+      "filings": 8,
+      "median_wage_usd": 142750.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 142865.0
+    },
+    {
+      "fy": 2024,
+      "filings": 6,
+      "median_wage_usd": 140109.0
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 156998.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 129022.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Staff Engineer, Loyalty",
+      "count": 3,
+      "median_wage_usd": 144352.0
+    },
+    {
+      "title": "Product Designer, Connect",
+      "count": 2,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "title": "Product Designer",
+      "count": 2,
+      "median_wage_usd": 100409.0
+    },
+    {
+      "title": "Staff Engineer, BGO & BG App",
+      "count": 2,
+      "median_wage_usd": 151775.0
+    },
+    {
+      "title": "Sr. Engineer, Digital Content & Discovery",
+      "count": 2,
+      "median_wage_usd": 145000.0
+    },
+    {
+      "title": "ETL Architect",
+      "count": 1,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "title": "Sr. Engineer, Integration Competency Center ",
+      "count": 1,
+      "median_wage_usd": 140500.0
+    },
+    {
+      "title": "Senior Manager, Quality Assurance ",
+      "count": 1,
+      "median_wage_usd": 113194.0
+    },
+    {
+      "title": "Staff Engineer, Analytics Enablement",
+      "count": 1,
+      "median_wage_usd": 140109.0
+    },
+    {
+      "title": "Sr. Engineer, Integration Competency Center",
+      "count": 1,
+      "median_wage_usd": 134971.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 26
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 30
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 149781.0,
+    "gap_usd": 19621.0
+  }
+}

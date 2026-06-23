@@ -1,0 +1,106 @@
+{
+  "slug": "camping-world",
+  "canonical_name": "Camping World",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "MN",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "07/08/2024",
+      "effective_date": "07/08/2024",
+      "state": "MN",
+      "workers": 20,
+      "city": "Lincolnshire"
+    },
+    {
+      "date": "10/20/2023",
+      "effective_date": "10/20/2023",
+      "state": "MN",
+      "workers": 30,
+      "city": "Hermantown"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "southern-il-wib",
+      "name": "Southern IL WIB",
+      "state": "IL"
+    }
+  ],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2023-03-06",
+        "formType": "8-K",
+        "accessionNumber": "0001104659-23-028821",
+        "items": [
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001669779&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2023-01-17",
+        "formType": "8-K/A",
+        "accessionNumber": "0001104659-23-003913",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001669779&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2019-11-07",
+        "formType": "8-K/A",
+        "accessionNumber": "0001558370-19-010437",
+        "items": [
+          "2.05",
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities",
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001669779&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2019-09-06",
+        "formType": "8-K",
+        "accessionNumber": "0001558370-19-008525",
+        "items": [
+          "2.05",
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities",
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001669779&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 4,
+    "itemCounts": {
+      "2.06": 3,
+      "5.02": 1,
+      "2.05": 2
+    },
+    "latestFilingDate": "2023-03-06",
+    "earliestFilingDate": "2019-09-06"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

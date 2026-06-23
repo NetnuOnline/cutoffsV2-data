@@ -1,0 +1,154 @@
+{
+  "slug": "medical-mutual-of-ohio",
+  "canonical_name": "Medical Mutual of Ohio",
+  "fein": "34-0648820",
+  "lca_filing_count": 33,
+  "lca_worker_positions": 33,
+  "warn_notice_count": 0,
+  "median_wage_usd": 97000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 3,
+      "median_wage_usd": 71750.0
+    },
+    {
+      "fy": 2021,
+      "filings": 9,
+      "median_wage_usd": 90000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 4,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 6,
+      "median_wage_usd": 97500.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 129174.21
+    },
+    {
+      "fy": 2025,
+      "filings": 7,
+      "median_wage_usd": 103175.1
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 124411.51999999999,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer III",
+      "count": 7,
+      "median_wage_usd": 106000.0
+    },
+    {
+      "title": "Senior Medical Economics Analyst",
+      "count": 3,
+      "median_wage_usd": 92000.0
+    },
+    {
+      "title": "Senior Risk Adjustment Programs (RAPs) Analyst",
+      "count": 3,
+      "median_wage_usd": 90000.0
+    },
+    {
+      "title": "Data Engineer II",
+      "count": 2,
+      "median_wage_usd": 86149.2
+    },
+    {
+      "title": "Software Developer IV",
+      "count": 2,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "title": "Sr. HEDIS Quality Improvement Analyst",
+      "count": 2,
+      "median_wage_usd": 88000.0
+    },
+    {
+      "title": "Data Base Analyst IV",
+      "count": 2,
+      "median_wage_usd": 120967.2
+    },
+    {
+      "title": "Software Developer II ",
+      "count": 1,
+      "median_wage_usd": 73431.25
+    },
+    {
+      "title": "Lead Business Intelligence and Reporting Analyst",
+      "count": 1,
+      "median_wage_usd": 133757.42
+    },
+    {
+      "title": "Software Developer II",
+      "count": 1,
+      "median_wage_usd": 84200.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "OH",
+      "county": "CUYAHOGA",
+      "count": 18
+    },
+    {
+      "state": "MI",
+      "county": "BERRIEN",
+      "count": 2
+    },
+    {
+      "state": "OH",
+      "county": "FRANKLIN",
+      "count": 2
+    },
+    {
+      "state": "OR",
+      "county": "WASHINGTON",
+      "count": 1
+    },
+    {
+      "state": "OH",
+      "county": "MEDINA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "OH",
+      "count": 27
+    },
+    {
+      "state": "TX",
+      "count": 3
+    },
+    {
+      "state": "MI",
+      "count": 2
+    },
+    {
+      "state": "OR",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 115000.0,
+    "gap_usd": -15160.0
+  }
+}

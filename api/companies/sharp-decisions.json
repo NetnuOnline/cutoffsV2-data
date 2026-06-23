@@ -1,0 +1,152 @@
+{
+  "slug": "sharp-decisions",
+  "canonical_name": "Sharp Decisions, Inc.",
+  "fein": "11-3032786",
+  "lca_filing_count": 18,
+  "lca_worker_positions": 17,
+  "warn_notice_count": 0,
+  "median_wage_usd": 130000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 112944.0
+    },
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 112783.6
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 127094.5
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 126942.0
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 141440.0
+    },
+    {
+      "fy": 2026,
+      "filings": 7,
+      "median_wage_usd": 143520.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Application Developer",
+      "count": 2,
+      "median_wage_usd": 119221.0
+    },
+    {
+      "title": "Senior Data Architect",
+      "count": 2,
+      "median_wage_usd": 147160.0
+    },
+    {
+      "title": "CI/CD DevOps Support Consultant",
+      "count": 2,
+      "median_wage_usd": 158080.0
+    },
+    {
+      "title": "Scrum Master",
+      "count": 2,
+      "median_wage_usd": 127094.5
+    },
+    {
+      "title": "Software Data Engineer",
+      "count": 2,
+      "median_wage_usd": 156000.0
+    },
+    {
+      "title": "QA Specialist",
+      "count": 1,
+      "median_wage_usd": 101088.0
+    },
+    {
+      "title": "Fullstack Developer",
+      "count": 1,
+      "median_wage_usd": 143520.0
+    },
+    {
+      "title": "Cloud Database Administrator",
+      "count": 1,
+      "median_wage_usd": 143520.0
+    },
+    {
+      "title": "Mobile App Tech Developer",
+      "count": 1,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 1,
+      "median_wage_usd": 130000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "DC",
+      "county": "DISTRICT OF COLUMBIA",
+      "count": 2
+    },
+    {
+      "state": "VA",
+      "county": "FAIRFAX",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "county": "ESSEX",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 7
+    },
+    {
+      "state": "NC",
+      "count": 3
+    },
+    {
+      "state": "NY",
+      "count": 3
+    },
+    {
+      "state": "VA",
+      "count": 2
+    },
+    {
+      "state": "DC",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 139360.0,
+    "gap_usd": 9200.0
+  }
+}

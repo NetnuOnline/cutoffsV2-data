@@ -1,0 +1,97 @@
+{
+  "slug": "solstice-solutions",
+  "canonical_name": "Solstice Solutions Inc",
+  "fein": "82-2242587",
+  "lca_filing_count": 8,
+  "warn_notice_count": 0,
+  "median_wage_usd": 75000.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 5,
+      "median_wage_usd": 75000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 64000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Data Analyst",
+      "count": 3,
+      "median_wage_usd": 75000.0
+    },
+    {
+      "title": "Data Scientists",
+      "count": 1,
+      "median_wage_usd": 75000.0
+    },
+    {
+      "title": "Data Scientist",
+      "count": 1,
+      "median_wage_usd": 73778.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 1,
+      "median_wage_usd": 86216.0
+    },
+    {
+      "title": "Healthcare Data Analyst",
+      "count": 1,
+      "median_wage_usd": 64000.0
+    },
+    {
+      "title": "Data scientist",
+      "count": 1,
+      "median_wage_usd": 75000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TN",
+      "county": "SHELBY",
+      "count": 4
+    },
+    {
+      "state": "LA",
+      "county": "LAFAYETTE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TN",
+      "count": 4
+    },
+    {
+      "state": "IN",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "LA",
+      "count": 1
+    },
+    {
+      "state": "AL",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 8,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 75000.0,
+    "gap_usd": -33020.0
+  }
+}

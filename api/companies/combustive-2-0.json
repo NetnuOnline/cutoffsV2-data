@@ -1,0 +1,56 @@
+{
+  "slug": "combustive-2-0",
+  "canonical_name": "Combustive 2.0 LLC",
+  "fein": "84-2673496",
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 61360.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 56160.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 66560.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Web Administrator ",
+      "count": 1,
+      "median_wage_usd": 56160.0
+    },
+    {
+      "title": "WEB ADMINISTRATOR",
+      "count": 1,
+      "median_wage_usd": 66560.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "KINGS",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Web Administrators",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 61360.0,
+    "gap_usd": -56640.0
+  }
+}

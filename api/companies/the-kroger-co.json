@@ -1,0 +1,130 @@
+{
+  "slug": "the-kroger-co",
+  "canonical_name": "The Kroger Co.",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 10,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "FL",
+      "count": 5
+    },
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "TN",
+      "count": 1
+    },
+    {
+      "state": "MD",
+      "count": 1
+    },
+    {
+      "state": "WI",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "12/03/2025",
+      "effective_date": "02/01/2026",
+      "state": "TN",
+      "workers": 132,
+      "city": "Davidson County"
+    },
+    {
+      "date": "11/24/2025",
+      "effective_date": "02/01/2026",
+      "state": "MD",
+      "workers": 83,
+      "city": "Frederick"
+    },
+    {
+      "date": "11/18/2025",
+      "effective_date": "02/01/2026",
+      "state": "FL",
+      "workers": 935,
+      "city": "GROVELAND"
+    },
+    {
+      "date": "11/18/2025",
+      "effective_date": "02/01/2026",
+      "state": "FL",
+      "workers": 234,
+      "city": "TAMPA"
+    },
+    {
+      "date": "11/18/2025",
+      "effective_date": "02/01/2026",
+      "state": "FL",
+      "workers": 53,
+      "city": "ROCKLEDGE"
+    },
+    {
+      "date": "11/18/2025",
+      "effective_date": "02/01/2026",
+      "state": "WI",
+      "workers": 211,
+      "city": "Pleasant Prairie"
+    },
+    {
+      "date": "11/18/2025",
+      "effective_date": "02/01/2026",
+      "state": "FL",
+      "workers": 181,
+      "city": "JACKSONVILLE"
+    },
+    {
+      "date": "03/27/2024",
+      "effective_date": "03/25/2024",
+      "state": "TX",
+      "workers": 73,
+      "city": "San Antonio"
+    },
+    {
+      "date": "03/26/2024",
+      "effective_date": "05/25/2024",
+      "state": "FL",
+      "workers": 109,
+      "city": "OPA LOCKA"
+    },
+    {
+      "date": "03/26/2024",
+      "effective_date": "05/25/2024",
+      "state": "TX",
+      "workers": 52,
+      "city": "Austin"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "careersource-central-florida",
+      "name": "CareerSource Central Florida",
+      "state": "FL"
+    },
+    {
+      "slug": "careersource-brevard",
+      "name": "CareerSource Brevard",
+      "state": "FL"
+    },
+    {
+      "slug": "careersource-tampa-bay",
+      "name": "CareerSource Tampa Bay",
+      "state": "FL"
+    },
+    {
+      "slug": "frederick-wia",
+      "name": "Frederick WIA",
+      "state": "MD"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

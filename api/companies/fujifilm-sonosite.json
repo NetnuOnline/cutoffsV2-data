@@ -1,0 +1,96 @@
+{
+  "slug": "fujifilm-sonosite",
+  "canonical_name": "FUJIFILM Sonosite, Inc.",
+  "fein": "91-1405022",
+  "lca_filing_count": 9,
+  "lca_worker_positions": 8,
+  "warn_notice_count": 0,
+  "median_wage_usd": 121135.98,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 95000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 5,
+      "median_wage_usd": 127536.9
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 93662.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 3,
+      "median_wage_usd": 127536.9
+    },
+    {
+      "title": "Quality Engineer II",
+      "count": 2,
+      "median_wage_usd": 95000.0
+    },
+    {
+      "title": "Clinical Specialist ",
+      "count": 1,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "title": "Regulatory Affairs Associate",
+      "count": 1,
+      "median_wage_usd": 63856.0
+    },
+    {
+      "title": "Software Engineer III",
+      "count": 1,
+      "median_wage_usd": 123468.0
+    },
+    {
+      "title": "Tools Administrator ",
+      "count": 1,
+      "median_wage_usd": 115000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "WA",
+      "county": "SNOHOMISH",
+      "count": 6
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "WA",
+      "count": 8
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 125502.45,
+    "gap_usd": -4657.55
+  }
+}

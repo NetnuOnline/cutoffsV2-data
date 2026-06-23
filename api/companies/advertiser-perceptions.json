@@ -1,0 +1,63 @@
+{
+  "slug": "advertiser-perceptions",
+  "canonical_name": "Advertiser Perceptions",
+  "fein": "30-0067210",
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 111987.2,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 112008.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Sr. Research Manager",
+      "count": 2,
+      "median_wage_usd": 111987.2
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 1,
+    "continuing_denials": 0,
+    "total_approvals": 1,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 1,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Business Intelligence Analysts",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 112008.0,
+    "gap_usd": 3988.0
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "slug": "sma-solar-technology-america",
+  "canonical_name": "SMA Solar Technology America, LLC",
+  "fein": "68-0462706",
+  "lca_filing_count": 2,
+  "warn_notice_count": 1,
+  "median_wage_usd": 181938.55,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 181938.545
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Director of Finance",
+      "count": 1,
+      "median_wage_usd": 206371.95
+    },
+    {
+      "title": "Strategic Sales Manager",
+      "count": 1,
+      "median_wage_usd": 157505.14
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "CO",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "PLACER",
+      "count": 1
+    },
+    {
+      "state": "CO",
+      "county": "EL PASO",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "04/25/2018",
+      "effective_date": "06/30/2018",
+      "state": "CA",
+      "workers": 51,
+      "city": "Rocklin"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 1,
+    "continuing_approvals": 0,
+    "continuing_denials": 0,
+    "total_approvals": 1,
+    "by_fy": [
+      {
+        "fy": 2020,
+        "initial_approvals": 0,
+        "initial_denials": 1,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3031",
+    "soc_title": "Financial Managers",
+    "market_median_usd": 156100.0,
+    "employer_median_usd": 206371.95,
+    "gap_usd": 50271.95
+  }
+}

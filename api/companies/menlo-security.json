@@ -1,0 +1,101 @@
+{
+  "slug": "menlo-security",
+  "canonical_name": "Menlo Security, Inc.",
+  "fein": "46-1881715",
+  "lca_filing_count": 9,
+  "lca_worker_positions": 9,
+  "warn_notice_count": 0,
+  "median_wage_usd": 145000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 145725.0
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 145000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 6,
+      "median_wage_usd": 147500.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 132000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Quality Engineer",
+      "count": 2,
+      "median_wage_usd": 145000.0
+    },
+    {
+      "title": "Manager, Threat Research Infrastructure",
+      "count": 2,
+      "median_wage_usd": 184662.0
+    },
+    {
+      "title": "Senior Customer Success Manager",
+      "count": 1,
+      "median_wage_usd": 132000.0
+    },
+    {
+      "title": "Data Scientist",
+      "count": 1,
+      "median_wage_usd": 136500.0
+    },
+    {
+      "title": "Security Operations Engineer",
+      "count": 1,
+      "median_wage_usd": 145725.0
+    },
+    {
+      "title": "Marketing Operations Analyst",
+      "count": 1,
+      "median_wage_usd": 85000.0
+    },
+    {
+      "title": "Lead Analyst - GTM Strategy",
+      "count": 1,
+      "median_wage_usd": 150000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 7
+    },
+    {
+      "state": "CA",
+      "county": "ORANGE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 8
+    },
+    {
+      "state": "CT",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 184662.0,
+    "gap_usd": 54502.0
+  }
+}

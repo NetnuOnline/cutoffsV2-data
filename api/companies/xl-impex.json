@@ -1,0 +1,137 @@
+{
+  "slug": "xl-impex",
+  "canonical_name": "XL Impex Inc.",
+  "fein": "26-2791647",
+  "lca_filing_count": 10,
+  "warn_notice_count": 0,
+  "median_wage_usd": 95513.6,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 110344.0
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 4,
+      "median_wage_usd": 94931.3
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 100349.6
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 95000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Business Analyst",
+      "count": 4,
+      "median_wage_usd": 95513.6
+    },
+    {
+      "title": "Full Stack Java Developer",
+      "count": 1,
+      "median_wage_usd": 93600.0
+    },
+    {
+      "title": "TECHNICAL ARCHITECT",
+      "count": 1,
+      "median_wage_usd": 110344.0
+    },
+    {
+      "title": "SCRUM MASTER",
+      "count": 1,
+      "median_wage_usd": 95000.0
+    },
+    {
+      "title": "AZURE CLOUD ENGINEER",
+      "count": 1,
+      "median_wage_usd": 94349.0
+    },
+    {
+      "title": "Change & Environment Manager in IT",
+      "count": 1,
+      "median_wage_usd": 107099.2
+    },
+    {
+      "title": "IT PROJECT MANAGER",
+      "count": 1,
+      "median_wage_usd": 150000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NJ",
+      "county": "HUDSON",
+      "count": 4
+    },
+    {
+      "state": "MA",
+      "county": "NORTH READING",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "county": "MIDDLESEX",
+      "count": 1
+    },
+    {
+      "state": "KY",
+      "county": "JEFFERSON",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "county": "BURLINGTON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 6
+    },
+    {
+      "state": "NC",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "KY",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 9,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1211",
+    "soc_title": "Computer Systems Analysts",
+    "market_median_usd": 103800.0,
+    "employer_median_usd": 95513.6,
+    "gap_usd": -8286.4
+  }
+}

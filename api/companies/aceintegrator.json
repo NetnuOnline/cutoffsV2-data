@@ -1,0 +1,160 @@
+{
+  "slug": "aceintegrator",
+  "canonical_name": "Aceintegrator Inc",
+  "fein": "88-0786327",
+  "lca_filing_count": 22,
+  "lca_worker_positions": 22,
+  "warn_notice_count": 0,
+  "median_wage_usd": 102877.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 109283.0
+    },
+    {
+      "fy": 2023,
+      "filings": 4,
+      "median_wage_usd": 78500.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 97157.0
+    },
+    {
+      "fy": 2025,
+      "filings": 4,
+      "median_wage_usd": 98750.0
+    },
+    {
+      "fy": 2026,
+      "filings": 12,
+      "median_wage_usd": 103210.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SOFTWARE  DEVELOPER",
+      "count": 9,
+      "median_wage_usd": 103210.0
+    },
+    {
+      "title": "PROGRAMMER ANALYST",
+      "count": 3,
+      "median_wage_usd": 102877.0
+    },
+    {
+      "title": "BUSINESS SYSTEMS ANALYST",
+      "count": 3,
+      "median_wage_usd": 71000.0
+    },
+    {
+      "title": "SOFTWARE DEVELOPER",
+      "count": 3,
+      "median_wage_usd": 95500.0
+    },
+    {
+      "title": "Machine learning Engineer",
+      "count": 1,
+      "median_wage_usd": 102000.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 1,
+      "median_wage_usd": 109283.0
+    },
+    {
+      "title": "Computer Programmers",
+      "count": 1,
+      "median_wage_usd": 130853.0
+    },
+    {
+      "title": "COMPUTER PROGRAMMERS",
+      "count": 1,
+      "median_wage_usd": 102877.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "TARRANT",
+      "count": 1
+    },
+    {
+      "state": "IN",
+      "county": "MARION",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "county": "SOMERSET",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "county": "FAIRFAX",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "county": "MECKLENBURG",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 7
+    },
+    {
+      "state": "NC",
+      "count": 4
+    },
+    {
+      "state": "NJ",
+      "count": 3
+    },
+    {
+      "state": "TN",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "VA",
+      "count": 2
+    },
+    {
+      "state": "IN",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 102000.0,
+    "gap_usd": -28160.0
+  }
+}

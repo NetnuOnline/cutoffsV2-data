@@ -1,0 +1,149 @@
+{
+  "slug": "3m-company",
+  "canonical_name": "3M Company",
+  "fein": "41-0417775",
+  "lca_filing_count": 28,
+  "lca_worker_positions": 28,
+  "warn_notice_count": 0,
+  "median_wage_usd": 140671.58,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 4,
+      "median_wage_usd": 134219.72
+    },
+    {
+      "fy": 2021,
+      "filings": 5,
+      "median_wage_usd": 113730.9
+    },
+    {
+      "fy": 2022,
+      "filings": 4,
+      "median_wage_usd": 140525.07
+    },
+    {
+      "fy": 2023,
+      "filings": 5,
+      "median_wage_usd": 140671.59
+    },
+    {
+      "fy": 2024,
+      "filings": 5,
+      "median_wage_usd": 159318.66
+    },
+    {
+      "fy": 2025,
+      "filings": 4,
+      "median_wage_usd": 134400.945
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 183326.73,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Research Scientist",
+      "count": 2,
+      "median_wage_usd": 127201.23999999999
+    },
+    {
+      "title": "Research Specialist",
+      "count": 2,
+      "median_wage_usd": 143209.93
+    },
+    {
+      "title": "Product Development Engineer",
+      "count": 2,
+      "median_wage_usd": 107074.01999999999
+    },
+    {
+      "title": "Senior Research Engineer",
+      "count": 2,
+      "median_wage_usd": 113190.385
+    },
+    {
+      "title": "Data Scientist",
+      "count": 2,
+      "median_wage_usd": 134491.86000000002
+    },
+    {
+      "title": "Vice President of Data and Analytics",
+      "count": 1,
+      "median_wage_usd": 313677.0
+    },
+    {
+      "title": "Advanced Research Engineer Specialist",
+      "count": 1,
+      "median_wage_usd": 159318.66
+    },
+    {
+      "title": "Advanced Quality Assurance Engineer",
+      "count": 1,
+      "median_wage_usd": 88596.04
+    },
+    {
+      "title": "Data Solutions Architect",
+      "count": 1,
+      "median_wage_usd": 149762.2
+    },
+    {
+      "title": "Senior Product Development Engineer",
+      "count": 1,
+      "median_wage_usd": 126395.53
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MN",
+      "county": "RAMSEY",
+      "count": 16
+    },
+    {
+      "state": "TX",
+      "county": "BEXAR",
+      "count": 8
+    },
+    {
+      "state": "PA",
+      "county": "ALLEGHENY",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "county": "UNION",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MN",
+      "count": 17
+    },
+    {
+      "state": "TX",
+      "count": 9
+    },
+    {
+      "state": "NC",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 154633.98,
+    "gap_usd": 24473.98
+  }
+}

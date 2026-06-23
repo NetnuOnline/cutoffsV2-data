@@ -1,0 +1,103 @@
+{
+  "slug": "rc9-technologies",
+  "canonical_name": "RC9 TECHNOLOGIES INC",
+  "fein": "87-2602072",
+  "lca_filing_count": 8,
+  "warn_notice_count": 0,
+  "median_wage_usd": 102180.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 122970.0
+    },
+    {
+      "fy": 2025,
+      "filings": 5,
+      "median_wage_usd": 87672.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 6,
+      "median_wage_usd": 117978.0
+    },
+    {
+      "title": "Java Full Stack Developer",
+      "count": 1,
+      "median_wage_usd": 79019.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 1,
+      "median_wage_usd": 83450.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MA",
+      "county": "NORFOLK",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 3
+    },
+    {
+      "state": "AR",
+      "count": 2
+    },
+    {
+      "state": "MA",
+      "count": 2
+    },
+    {
+      "state": "NH",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 2,
+    "initial_denials": 0,
+    "continuing_approvals": 0,
+    "continuing_denials": 0,
+    "total_approvals": 2,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 8,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 122970.0,
+    "gap_usd": -7190.0
+  }
+}

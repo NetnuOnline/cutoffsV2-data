@@ -1,0 +1,139 @@
+{
+  "slug": "putnam-associates",
+  "canonical_name": "Putnam Associates, LLC",
+  "fein": "46-3321955",
+  "lca_filing_count": 11,
+  "lca_worker_positions": 11,
+  "warn_notice_count": 0,
+  "median_wage_usd": 105000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 127500.0
+    },
+    {
+      "fy": 2022,
+      "filings": 4,
+      "median_wage_usd": 95000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 116500.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 145000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 105000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Junior Data Scientist",
+      "count": 3,
+      "median_wage_usd": 95000.0
+    },
+    {
+      "title": "Associate Consultant II",
+      "count": 1,
+      "median_wage_usd": 88000.0
+    },
+    {
+      "title": "Manager",
+      "count": 1,
+      "median_wage_usd": 180000.0
+    },
+    {
+      "title": "Consultant",
+      "count": 1,
+      "median_wage_usd": 140500.0
+    },
+    {
+      "title": "Senior Consultant",
+      "count": 1,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "title": "Data Scientist II",
+      "count": 1,
+      "median_wage_usd": 145000.0
+    },
+    {
+      "title": "Senior Associate Consultant",
+      "count": 1,
+      "median_wage_usd": 105000.0
+    },
+    {
+      "title": "Life Science Consultant",
+      "count": 1,
+      "median_wage_usd": 145000.0
+    },
+    {
+      "title": "Associate Consultant I",
+      "count": 1,
+      "median_wage_usd": 75000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MA",
+      "county": "BOSTON CITY",
+      "count": 4
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 3
+    },
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 3
+    },
+    {
+      "state": "NJ",
+      "county": "BERGEN",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MA",
+      "count": 4
+    },
+    {
+      "state": "CA",
+      "count": 3
+    },
+    {
+      "state": "IL",
+      "count": 3
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1111",
+    "soc_title": "Management Analysts",
+    "market_median_usd": 99000.0,
+    "employer_median_usd": 105000.0,
+    "gap_usd": 6000.0
+  }
+}

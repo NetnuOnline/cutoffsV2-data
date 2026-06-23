@@ -1,0 +1,57 @@
+{
+  "slug": "rapp-worldwide",
+  "canonical_name": "RAPP WORLDWIDE INC.",
+  "fein": "11-2679168",
+  "lca_filing_count": 3,
+  "lca_worker_positions": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 160000.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 160000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 167000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "DIRECTOR, PROJECT MANAGEMENT",
+      "count": 2,
+      "median_wage_usd": 160000.0
+    },
+    {
+      "title": "SENIOR DIRECTOR, PROJECT MANAGEMENT",
+      "count": 1,
+      "median_wage_usd": 167000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1161",
+    "soc_title": "Market Research Analysts and Marketing Specialists",
+    "market_median_usd": 74680.0,
+    "employer_median_usd": 160000.0,
+    "gap_usd": 85320.0
+  }
+}

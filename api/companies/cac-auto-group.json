@@ -1,0 +1,90 @@
+{
+  "slug": "cac-auto-group",
+  "canonical_name": "Cac Auto Group LLC",
+  "fein": "82-1264547",
+  "lca_filing_count": 6,
+  "lca_worker_positions": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 48578.6,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 47299.2
+    },
+    {
+      "fy": 2023,
+      "filings": 4,
+      "median_wage_usd": 56399.5
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 45000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Market Analyst",
+      "count": 2,
+      "median_wage_usd": 43316.0
+    },
+    {
+      "title": "Systems Developer",
+      "count": 1,
+      "median_wage_usd": 62941.0
+    },
+    {
+      "title": "Engineer",
+      "count": 1,
+      "median_wage_usd": 74797.0
+    },
+    {
+      "title": "HR Coordinator",
+      "count": 1,
+      "median_wage_usd": 47299.2
+    },
+    {
+      "title": "Marketing Specialist",
+      "count": 1,
+      "median_wage_usd": 45000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IN",
+      "county": "TIPPECANOE",
+      "count": 4
+    },
+    {
+      "state": "MA",
+      "county": "SOUTHBOROUGH",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IN",
+      "count": 4
+    },
+    {
+      "state": "KY",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1161",
+    "soc_title": "Market Research Analysts and Marketing Specialists",
+    "market_median_usd": 74680.0,
+    "employer_median_usd": 45000.0,
+    "gap_usd": -29680.0
+  }
+}

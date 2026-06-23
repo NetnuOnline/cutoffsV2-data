@@ -1,0 +1,136 @@
+{
+  "slug": "bergstrom",
+  "canonical_name": "Bergstrom Inc.",
+  "fein": null,
+  "lca_filing_count": 1,
+  "warn_notice_count": 3,
+  "median_wage_usd": 82534.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 82534.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Principal Engineer",
+      "count": 1,
+      "median_wage_usd": 82534.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IL",
+      "county": "WINNEBAGO",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "08/05/2022",
+      "effective_date": "12/31/2022",
+      "state": "IL",
+      "workers": 56,
+      "city": "Joliet"
+    },
+    {
+      "date": "07/25/2016",
+      "effective_date": "09/01/2016",
+      "state": "IL",
+      "workers": 50,
+      "city": "Joliet"
+    },
+    {
+      "date": "02/11/2015",
+      "effective_date": "05/01/2015",
+      "state": "IL",
+      "workers": 80,
+      "city": "Joliet"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "wib-of-will-county",
+      "name": "WIB of Will County",
+      "state": "IL"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 1,
+    "continuing_denials": 0,
+    "total_approvals": 2,
+    "by_fy": [
+      {
+        "fy": 2014,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2015,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2016,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2017,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 1,
+  "top_socs": [],
+  "lca_periods": []
+}

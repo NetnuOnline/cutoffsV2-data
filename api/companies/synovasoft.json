@@ -1,0 +1,136 @@
+{
+  "slug": "synovasoft",
+  "canonical_name": "Synovasoft Inc",
+  "fein": "82-5391306",
+  "lca_filing_count": 23,
+  "lca_worker_positions": 23,
+  "warn_notice_count": 0,
+  "median_wage_usd": 99000.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 9,
+      "median_wage_usd": 83595.0
+    },
+    {
+      "fy": 2025,
+      "filings": 8,
+      "median_wage_usd": 99000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 6,
+      "median_wage_usd": 103500.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 8,
+      "median_wage_usd": 83595.0
+    },
+    {
+      "title": "JAVA DEVELOPER",
+      "count": 2,
+      "median_wage_usd": 103000.0
+    },
+    {
+      "title": "SOFTWARE DEVELOPER",
+      "count": 2,
+      "median_wage_usd": 111500.0
+    },
+    {
+      "title": "DATA ENGINEER",
+      "count": 2,
+      "median_wage_usd": 104500.0
+    },
+    {
+      "title": "CLOUD ENGINEER",
+      "count": 2,
+      "median_wage_usd": 75000.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 85467.0
+    },
+    {
+      "title": "APPLICATION PROGRAMMER ANALYST",
+      "count": 1,
+      "median_wage_usd": 99000.0
+    },
+    {
+      "title": "AZURE DATABRICKS DEVELOPER",
+      "count": 1,
+      "median_wage_usd": 95000.0
+    },
+    {
+      "title": "IT ENGINEER V",
+      "count": 1,
+      "median_wage_usd": 92000.0
+    },
+    {
+      "title": "PROJECT MANAGER",
+      "count": 1,
+      "median_wage_usd": 108000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NJ",
+      "county": "MERCER",
+      "count": 9
+    },
+    {
+      "state": "NJ",
+      "county": "MIDDLESEX",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 15
+    },
+    {
+      "state": "AZ",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "count": 1
+    },
+    {
+      "state": "DC",
+      "count": 1
+    },
+    {
+      "state": "OH",
+      "count": 1
+    },
+    {
+      "state": "KY",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 98500.0,
+    "gap_usd": -31660.0
+  }
+}

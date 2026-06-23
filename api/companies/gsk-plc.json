@@ -1,0 +1,52 @@
+{
+  "slug": "gsk-plc",
+  "canonical_name": "GSK plc.",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "09/29/2025",
+      "effective_date": "09/29/2025",
+      "state": "CA",
+      "workers": 8,
+      "city": "San Francisco"
+    },
+    {
+      "date": "07/16/2025",
+      "effective_date": "10/04/2025",
+      "state": "MA",
+      "workers": 150,
+      "city": "Cambridge, MA"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "san-francisco-citycounty-wib",
+      "name": "San Francisco City/County WIB",
+      "state": "CA"
+    },
+    {
+      "slug": "north-central-wia-ma",
+      "name": "North Central WIA",
+      "state": "MA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

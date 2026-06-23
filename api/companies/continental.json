@@ -1,0 +1,61 @@
+{
+  "slug": "continental",
+  "canonical_name": "Continental",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 4,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "MI",
+      "count": 3
+    },
+    {
+      "state": "VA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "06/15/2020",
+      "effective_date": "06/15/2020",
+      "state": "MI",
+      "workers": 72,
+      "city": "Van Buren"
+    },
+    {
+      "date": "06/15/2020",
+      "effective_date": "06/15/2020",
+      "state": "MI",
+      "workers": 72,
+      "city": "Troy"
+    },
+    {
+      "date": "03/17/2020",
+      "effective_date": "03/17/2020",
+      "state": "MI",
+      "workers": 144,
+      "city": "Troy, Michigan and Van Buren, Michigan"
+    },
+    {
+      "date": "12/09/2019",
+      "effective_date": "02/07/2020",
+      "state": "VA",
+      "workers": 6,
+      "city": "Newport news, VA"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "greater-peninsula-lwia-xiv",
+      "name": "Greater Peninsula LWIA XIV",
+      "state": "VA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

@@ -1,0 +1,99 @@
+{
+  "slug": "lakarya",
+  "canonical_name": "Lakarya LLC",
+  "fein": "46-2844213",
+  "lca_filing_count": 7,
+  "lca_worker_positions": 7,
+  "warn_notice_count": 0,
+  "median_wage_usd": 103979.2,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 71999.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 134999.0
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 104083.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 93163.1,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SQA Automation Engineer",
+      "count": 2,
+      "median_wage_usd": 77173.0
+    },
+    {
+      "title": "Computer System Analyst",
+      "count": 2,
+      "median_wage_usd": 104083.0
+    },
+    {
+      "title": "Junior Project Manager",
+      "count": 1,
+      "median_wage_usd": 86798.0
+    },
+    {
+      "title": "Software Architect",
+      "count": 1,
+      "median_wage_usd": 134999.0
+    },
+    {
+      "title": "Sr WMS Programmer Analyst",
+      "count": 1,
+      "median_wage_usd": 103979.2
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "VA",
+      "county": "FAIRFAX",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "county": "CLARK",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "VA",
+      "count": 4
+    },
+    {
+      "state": "WA",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1244",
+    "soc_title": "Network and Computer Systems Administrators",
+    "market_median_usd": 95000.0,
+    "employer_median_usd": 104083.0,
+    "gap_usd": 9083.0
+  }
+}

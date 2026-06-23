@@ -1,0 +1,145 @@
+{
+  "slug": "ykunt",
+  "canonical_name": "Ykunt Inc",
+  "fein": "83-2257332",
+  "lca_filing_count": 20,
+  "lca_worker_positions": 20,
+  "warn_notice_count": 0,
+  "median_wage_usd": 95768.5,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 87194.0
+    },
+    {
+      "fy": 2021,
+      "filings": 3,
+      "median_wage_usd": 94037.0
+    },
+    {
+      "fy": 2025,
+      "filings": 10,
+      "median_wage_usd": 94250.0
+    },
+    {
+      "fy": 2026,
+      "filings": 6,
+      "median_wage_usd": 113000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 5,
+      "median_wage_usd": 94037.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 5,
+      "median_wage_usd": 91000.0
+    },
+    {
+      "title": "Software Developer [Principal Software Engineer]",
+      "count": 2,
+      "median_wage_usd": 108000.0
+    },
+    {
+      "title": "DevOps Consultant",
+      "count": 2,
+      "median_wage_usd": 112961.5
+    },
+    {
+      "title": "Service Now ITSM Lead",
+      "count": 1,
+      "median_wage_usd": 106000.0
+    },
+    {
+      "title": "Full Stack Software Engineer",
+      "count": 1,
+      "median_wage_usd": 87194.0
+    },
+    {
+      "title": "Business Analyst",
+      "count": 1,
+      "median_wage_usd": 81500.0
+    },
+    {
+      "title": "Cloud IAM Engineer",
+      "count": 1,
+      "median_wage_usd": 113000.0
+    },
+    {
+      "title": "QA Engineer/ Tester",
+      "count": 1,
+      "median_wage_usd": 85100.0
+    },
+    {
+      "title": " Test Engineer / SDET    ",
+      "count": 1,
+      "median_wage_usd": 75670.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "FL",
+      "county": "DUVAL",
+      "count": 2
+    },
+    {
+      "state": "OH",
+      "county": "HAMILTON",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 10
+    },
+    {
+      "state": "OH",
+      "count": 2
+    },
+    {
+      "state": "NC",
+      "count": 2
+    },
+    {
+      "state": "FL",
+      "count": 2
+    },
+    {
+      "state": "GA",
+      "count": 1
+    },
+    {
+      "state": "MO",
+      "count": 1
+    },
+    {
+      "state": "TN",
+      "count": 1
+    },
+    {
+      "state": "KY",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 100500.0,
+    "gap_usd": -29660.0
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "slug": "argus-software",
+  "canonical_name": "Argus Software, Inc.",
+  "fein": "75-2963817",
+  "lca_filing_count": 4,
+  "lca_worker_positions": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 117959.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 126420.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 115918.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 115918.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Sr. Development Operations Engineer",
+      "count": 2,
+      "median_wage_usd": 126420.0
+    },
+    {
+      "title": "Junior Data Engineer",
+      "count": 2,
+      "median_wage_usd": 115918.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "NY",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 115918.0,
+    "gap_usd": -14242.0
+  }
+}

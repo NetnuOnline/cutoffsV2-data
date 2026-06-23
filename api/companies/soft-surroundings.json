@@ -1,0 +1,48 @@
+{
+  "slug": "soft-surroundings",
+  "canonical_name": "Soft Surroundings",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "MO",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "09/25/2023",
+      "effective_date": "11/18/2023",
+      "state": "MO",
+      "workers": 181,
+      "city": "St. Louis (city)"
+    },
+    {
+      "date": "07/24/2023",
+      "effective_date": "09/01/2023",
+      "state": "MO",
+      "workers": 80,
+      "city": "Mexico"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "st-louis-county-region-wib",
+      "name": "St. Louis County Region WIB",
+      "state": "MO"
+    },
+    {
+      "slug": "59-central-region-wib",
+      "name": "5/9 Central Region WIB",
+      "state": "MO"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

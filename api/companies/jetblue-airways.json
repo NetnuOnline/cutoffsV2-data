@@ -1,0 +1,130 @@
+{
+  "slug": "jetblue-airways",
+  "canonical_name": "JetBlue Airways Corporation",
+  "fein": "87-0617894",
+  "lca_filing_count": 38,
+  "lca_worker_positions": 37,
+  "warn_notice_count": 0,
+  "median_wage_usd": 133273.5,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 108994.5
+    },
+    {
+      "fy": 2022,
+      "filings": 11,
+      "median_wage_usd": 124030.0
+    },
+    {
+      "fy": 2023,
+      "filings": 4,
+      "median_wage_usd": 129837.0
+    },
+    {
+      "fy": 2024,
+      "filings": 6,
+      "median_wage_usd": 123257.0
+    },
+    {
+      "fy": 2025,
+      "filings": 8,
+      "median_wage_usd": 152000.5
+    },
+    {
+      "fy": 2026,
+      "filings": 6,
+      "median_wage_usd": 152432.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 5,
+      "median_wage_usd": 123614.0
+    },
+    {
+      "title": "Lead Full Stack Engineer",
+      "count": 2,
+      "median_wage_usd": 145000.0
+    },
+    {
+      "title": "Senior Engineer Full Stack",
+      "count": 2,
+      "median_wage_usd": 115392.0
+    },
+    {
+      "title": "Engineer Machine Learning Operations",
+      "count": 2,
+      "median_wage_usd": 159001.0
+    },
+    {
+      "title": "Engineer IT Platform",
+      "count": 2,
+      "median_wage_usd": 125204.0
+    },
+    {
+      "title": "Senior Analyst IT Corporate Products",
+      "count": 2,
+      "median_wage_usd": 130892.0
+    },
+    {
+      "title": "Developer IT Corporate Products",
+      "count": 2,
+      "median_wage_usd": 126498.5
+    },
+    {
+      "title": "Lead Engineer DevOps",
+      "count": 1,
+      "median_wage_usd": 145000.0
+    },
+    {
+      "title": "Manager IT Software Engineering Loyalty",
+      "count": 1,
+      "median_wage_usd": 165213.0
+    },
+    {
+      "title": "Manager IT Platform Engineering Linux",
+      "count": 1,
+      "median_wage_usd": 131900.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "QUEENS",
+      "count": 22
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 36
+    },
+    {
+      "state": "UT",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 139659.5,
+    "gap_usd": 9499.5
+  }
+}

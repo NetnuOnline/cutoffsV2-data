@@ -1,0 +1,36 @@
+{
+  "slug": "bki",
+  "canonical_name": "BKI",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 1,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "SC",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "12/28/2019",
+      "effective_date": "12/28/2019",
+      "state": "SC",
+      "workers": 80,
+      "city": "Simpsonville"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "greenville-wib",
+      "name": "Greenville WIB",
+      "state": "SC"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

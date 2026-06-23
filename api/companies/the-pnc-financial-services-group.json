@@ -1,0 +1,203 @@
+{
+  "slug": "the-pnc-financial-services-group",
+  "canonical_name": "The PNC Financial Services Group, Inc.",
+  "fein": "25-1435979",
+  "lca_filing_count": 200,
+  "lca_worker_positions": 199,
+  "warn_notice_count": 0,
+  "median_wage_usd": 123800.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 18,
+      "median_wage_usd": 104725.0
+    },
+    {
+      "fy": 2021,
+      "filings": 24,
+      "median_wage_usd": 95000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 37,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 23,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 39,
+      "median_wage_usd": 122448.0
+    },
+    {
+      "fy": 2025,
+      "filings": 31,
+      "median_wage_usd": 130431.0
+    },
+    {
+      "fy": 2026,
+      "filings": 27,
+      "median_wage_usd": 140754.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer Lead",
+      "count": 17,
+      "median_wage_usd": 131206.0
+    },
+    {
+      "title": "Software Developer Lead",
+      "count": 16,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "title": "Software Engineer Senior",
+      "count": 11,
+      "median_wage_usd": 120600.0
+    },
+    {
+      "title": "Software Engineer Principal",
+      "count": 10,
+      "median_wage_usd": 127140.5
+    },
+    {
+      "title": "Technology Engineer Senior",
+      "count": 8,
+      "median_wage_usd": 155000.0
+    },
+    {
+      "title": "Software Architect Senior",
+      "count": 8,
+      "median_wage_usd": 157650.0
+    },
+    {
+      "title": "Software Developer Senior",
+      "count": 7,
+      "median_wage_usd": 99750.0
+    },
+    {
+      "title": "Software Developer Principal",
+      "count": 7,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Data Engineer Senior",
+      "count": 6,
+      "median_wage_usd": 116655.0
+    },
+    {
+      "title": "Software Architect",
+      "count": 6,
+      "median_wage_usd": 114250.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "PA",
+      "county": "ALLEGHENY",
+      "count": 51
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 16
+    },
+    {
+      "state": "OH",
+      "county": "CUYAHOGA",
+      "count": 12
+    },
+    {
+      "state": "DE",
+      "county": "NEW CASTLE",
+      "count": 11
+    },
+    {
+      "state": "AL",
+      "county": "JEFFERSON",
+      "count": 7
+    },
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 6
+    },
+    {
+      "state": "NC",
+      "county": "WAKE",
+      "count": 5
+    },
+    {
+      "state": "VA",
+      "county": "FAIRFAX",
+      "count": 3
+    },
+    {
+      "state": "GA",
+      "county": "FORSYTH",
+      "count": 3
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "PA",
+      "count": 73
+    },
+    {
+      "state": "TX",
+      "count": 34
+    },
+    {
+      "state": "OH",
+      "count": 28
+    },
+    {
+      "state": "DE",
+      "count": 11
+    },
+    {
+      "state": "AL",
+      "count": 11
+    },
+    {
+      "state": "NC",
+      "count": 8
+    },
+    {
+      "state": "GA",
+      "count": 6
+    },
+    {
+      "state": "VA",
+      "count": 6
+    },
+    {
+      "state": "KS",
+      "count": 5
+    },
+    {
+      "state": "FL",
+      "count": 4
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 131300.0,
+    "gap_usd": 1140.0
+  }
+}

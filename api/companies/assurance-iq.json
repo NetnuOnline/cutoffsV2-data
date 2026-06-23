@@ -1,0 +1,170 @@
+{
+  "slug": "assurance-iq",
+  "canonical_name": "Assurance IQ, LLC",
+  "fein": "81-1285645",
+  "lca_filing_count": 11,
+  "warn_notice_count": 1,
+  "median_wage_usd": 155000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 180000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 4,
+      "median_wage_usd": 137500.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 177500.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 185000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 165000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Data Scientist",
+      "count": 3,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "title": "Software Engineer - Agent Tools",
+      "count": 1,
+      "median_wage_usd": 165000.0
+    },
+    {
+      "title": "Senior Software Engineering - Marketplace",
+      "count": 1,
+      "median_wage_usd": 200000.0
+    },
+    {
+      "title": "Senior Technical Product Manager",
+      "count": 1,
+      "median_wage_usd": 180000.0
+    },
+    {
+      "title": "VP of Engineering (Data, Machine Learning and Analytics)",
+      "count": 1,
+      "median_wage_usd": 230000.0
+    },
+    {
+      "title": "Senior Financial Analyst - Resource Optimization",
+      "count": 1,
+      "median_wage_usd": 118643.0
+    },
+    {
+      "title": "Data Engineer",
+      "count": 1,
+      "median_wage_usd": 155000.0
+    },
+    {
+      "title": "Principal Data Scientist",
+      "count": 1,
+      "median_wage_usd": 180000.0
+    },
+    {
+      "title": "Software Engineer ",
+      "count": 1,
+      "median_wage_usd": 120000.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "WA",
+      "count": 9
+    },
+    {
+      "state": "NY",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 9
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "county": "WAKE",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "05/01/2024",
+      "effective_date": "07/03/2024",
+      "state": "WA",
+      "workers": 112,
+      "city": "Seattle"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 5,
+    "initial_denials": 0,
+    "continuing_approvals": 8,
+    "continuing_denials": 1,
+    "total_approvals": 13,
+    "by_fy": [
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 4,
+        "continuing_denials": 0,
+        "total_approvals": 4
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 4,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 1,
+        "total_approvals": 6
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      }
+    ]
+  },
+  "lca_worker_positions": 11,
+  "top_socs": [],
+  "lca_periods": []
+}

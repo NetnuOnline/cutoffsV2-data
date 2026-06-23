@@ -1,0 +1,52 @@
+{
+  "slug": "hillshire-brands",
+  "canonical_name": "HILLSHIRE BRANDS",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "AL",
+      "count": 1
+    },
+    {
+      "state": "IA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "04/08/2014",
+      "effective_date": "06/06/2014",
+      "state": "AL",
+      "workers": 1100,
+      "city": "Florence"
+    },
+    {
+      "date": "04/02/2014",
+      "effective_date": "03/26/2014",
+      "state": "IA",
+      "workers": 542,
+      "city": "Storm Lake"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "north-alabama-works",
+      "name": "North Alabama Works",
+      "state": "AL"
+    },
+    {
+      "slug": "region-3-4-spencer-wib",
+      "name": "Region 3 & 4 - Spencer WIB",
+      "state": "IA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

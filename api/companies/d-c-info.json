@@ -1,0 +1,61 @@
+{
+  "slug": "d-c-info",
+  "canonical_name": "D&C INFO LLC",
+  "fein": "88-1135983",
+  "lca_filing_count": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 109262.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 109262.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Software Engineer",
+      "count": 1,
+      "median_wage_usd": 109262.0
+    },
+    {
+      "title": "Sr. SAP Consultant",
+      "count": 1,
+      "median_wage_usd": 112986.0
+    },
+    {
+      "title": "Sr. Clinical Data Manager",
+      "count": 1,
+      "median_wage_usd": 107016.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NC",
+      "county": "MECKLENBURG",
+      "count": 2
+    },
+    {
+      "state": "NC",
+      "county": "WAKE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NC",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 111124.0,
+    "gap_usd": -19036.0
+  }
+}

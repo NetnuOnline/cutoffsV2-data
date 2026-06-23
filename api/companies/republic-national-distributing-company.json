@@ -1,0 +1,95 @@
+{
+  "slug": "republic-national-distributing-company",
+  "canonical_name": "Republic National Distributing Company",
+  "fein": "20-5770986",
+  "lca_filing_count": 5,
+  "lca_worker_positions": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 135408.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 144000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 70000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 156000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 134654.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer- Associate (Full Stack)",
+      "count": 1,
+      "median_wage_usd": 70000.0
+    },
+    {
+      "title": "User Experience Engineer - Lead",
+      "count": 1,
+      "median_wage_usd": 135408.0
+    },
+    {
+      "title": "Software Engineer - Lead",
+      "count": 1,
+      "median_wage_usd": 133900.0
+    },
+    {
+      "title": "Application Architect",
+      "count": 1,
+      "median_wage_usd": 156000.0
+    },
+    {
+      "title": "Manager, Platform Engineering",
+      "count": 1,
+      "median_wage_usd": 144000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "GA",
+      "county": "COBB",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "GA",
+      "count": 2
+    },
+    {
+      "state": "NC",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 135408.0,
+    "gap_usd": 5248.0
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "slug": "new-avon",
+  "canonical_name": "New Avon LLC",
+  "fein": null,
+  "lca_filing_count": 1,
+  "warn_notice_count": 3,
+  "median_wage_usd": 65000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 65000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Assistant Brand Manager",
+      "count": 1,
+      "median_wage_usd": 65000.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "09/28/2018",
+      "effective_date": "12/31/2018",
+      "state": "NY",
+      "workers": 51,
+      "city": "Rye"
+    },
+    {
+      "date": "07/13/2018",
+      "effective_date": "10/05/2018",
+      "state": "CA",
+      "workers": 77,
+      "city": "Pasadena"
+    },
+    {
+      "date": "12/05/2017",
+      "effective_date": "02/05/2018",
+      "state": "OH",
+      "workers": 55,
+      "city": "Springdale/Hamilton"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 3,
+    "continuing_denials": 0,
+    "total_approvals": 3,
+    "by_fy": [
+      {
+        "fy": 2016,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2017,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      }
+    ]
+  },
+  "lca_worker_positions": 1,
+  "top_socs": [],
+  "lca_periods": []
+}

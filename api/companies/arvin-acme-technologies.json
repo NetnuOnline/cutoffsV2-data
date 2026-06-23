@@ -1,0 +1,125 @@
+{
+  "slug": "arvin-acme-technologies",
+  "canonical_name": "Arvin Acme Technologies Inc",
+  "fein": "84-3041991",
+  "lca_filing_count": 13,
+  "lca_worker_positions": 13,
+  "warn_notice_count": 0,
+  "median_wage_usd": 85000.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 9,
+      "median_wage_usd": 82000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 82202.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 101909.5
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 121285.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SOFTWARE DEVELOPMENT ENGINEER IN TEST",
+      "count": 3,
+      "median_wage_usd": 82000.0
+    },
+    {
+      "title": "DATA SCIENTIST ",
+      "count": 2,
+      "median_wage_usd": 87500.0
+    },
+    {
+      "title": "Salesforce Developer",
+      "count": 1,
+      "median_wage_usd": 112923.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 1,
+      "median_wage_usd": 90896.0
+    },
+    {
+      "title": "SENIOR SOFTWARE DEVELOPER - IOS DEVELOPER",
+      "count": 1,
+      "median_wage_usd": 82000.0
+    },
+    {
+      "title": "JAVA DEVELOPER",
+      "count": 1,
+      "median_wage_usd": 82000.0
+    },
+    {
+      "title": "SOFTWARE ENGINEER SAP SECURITY",
+      "count": 1,
+      "median_wage_usd": 95000.0
+    },
+    {
+      "title": "QA Analyst",
+      "count": 1,
+      "median_wage_usd": 82202.0
+    },
+    {
+      "title": "Verification Engineer",
+      "count": 1,
+      "median_wage_usd": 121285.0
+    },
+    {
+      "title": "NETWORK ENGINEER",
+      "count": 1,
+      "median_wage_usd": 92000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MA",
+      "county": "TYNGSBOROUGH",
+      "count": 8
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MA",
+      "count": 9
+    },
+    {
+      "state": "TX",
+      "count": 3
+    },
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Computer Occupations, All Other",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 82000.0,
+    "gap_usd": -36000.0
+  }
+}

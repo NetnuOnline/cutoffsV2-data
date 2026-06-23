@@ -1,0 +1,68 @@
+{
+  "slug": "yasu-enterprises",
+  "canonical_name": "Yasu Enterprises, LLC",
+  "fein": "47-4861098",
+  "lca_filing_count": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 51168.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 51168.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 55265.6
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Group Accountant",
+      "count": 3,
+      "median_wage_usd": 51168.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "GA",
+      "county": "COBB",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 0,
+    "continuing_denials": 0,
+    "total_approvals": 1,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-2011",
+    "soc_title": "Accountants and Auditors",
+    "market_median_usd": 79000.0,
+    "employer_median_usd": 55265.6,
+    "gap_usd": -23734.4
+  }
+}

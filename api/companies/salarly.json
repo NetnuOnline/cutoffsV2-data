@@ -1,0 +1,40 @@
+{
+  "slug": "salarly",
+  "canonical_name": "Salarly LLC",
+  "fein": "99-0914585",
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 220000.0,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 220000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Head of IT & Product",
+      "count": 2,
+      "median_wage_usd": 220000.0
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "FL",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 1,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3021",
+    "soc_title": "Computer and Information Systems Managers",
+    "market_median_usd": 169510.0,
+    "employer_median_usd": 220000.0,
+    "gap_usd": 50490.0
+  }
+}

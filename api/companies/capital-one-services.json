@@ -1,0 +1,203 @@
+{
+  "slug": "capital-one-services",
+  "canonical_name": "Capital One Services, LLC",
+  "fein": "54-1780389",
+  "lca_filing_count": 1120,
+  "lca_worker_positions": 1118,
+  "warn_notice_count": 0,
+  "median_wage_usd": 113402.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 154,
+      "median_wage_usd": 89898.0
+    },
+    {
+      "fy": 2021,
+      "filings": 185,
+      "median_wage_usd": 95784.0
+    },
+    {
+      "fy": 2022,
+      "filings": 213,
+      "median_wage_usd": 100797.0
+    },
+    {
+      "fy": 2023,
+      "filings": 112,
+      "median_wage_usd": 114972.0
+    },
+    {
+      "fy": 2024,
+      "filings": 157,
+      "median_wage_usd": 150550.0
+    },
+    {
+      "fy": 2025,
+      "filings": 153,
+      "median_wage_usd": 193400.0
+    },
+    {
+      "fy": 2026,
+      "filings": 144,
+      "median_wage_usd": 172900.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Manager, Software Engineering",
+      "count": 149,
+      "median_wage_usd": 158080.0
+    },
+    {
+      "title": "Lead Software Engineer",
+      "count": 127,
+      "median_wage_usd": 110240.0
+    },
+    {
+      "title": "Senior Data Analyst",
+      "count": 82,
+      "median_wage_usd": 95779.0
+    },
+    {
+      "title": "Senior Lead Software Engineer",
+      "count": 80,
+      "median_wage_usd": 162100.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 63,
+      "median_wage_usd": 98904.0
+    },
+    {
+      "title": "Principal Data Analyst",
+      "count": 44,
+      "median_wage_usd": 102274.0
+    },
+    {
+      "title": "Master Software Engineer",
+      "count": 42,
+      "median_wage_usd": 92820.0
+    },
+    {
+      "title": "Manager, Software Engineering",
+      "count": 38,
+      "median_wage_usd": 123947.0
+    },
+    {
+      "title": "Principal Associate, Data Science",
+      "count": 35,
+      "median_wage_usd": 96346.0
+    },
+    {
+      "title": "Business Manager",
+      "count": 32,
+      "median_wage_usd": 113485.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "VA",
+      "county": "FAIRFAX",
+      "count": 279
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 134
+    },
+    {
+      "state": "VA",
+      "county": "HENRICO",
+      "count": 127
+    },
+    {
+      "state": "VA",
+      "county": "GOOCHLAND",
+      "count": 112
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 57
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 43
+    },
+    {
+      "state": "DE",
+      "county": "NEW CASTLE",
+      "count": 42
+    },
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 27
+    },
+    {
+      "state": "VA",
+      "county": "FAIRFAX CITY",
+      "count": 3
+    },
+    {
+      "state": "MA",
+      "county": "CAMBRIDGE CITY",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "VA",
+      "count": 674
+    },
+    {
+      "state": "TX",
+      "count": 199
+    },
+    {
+      "state": "NY",
+      "count": 85
+    },
+    {
+      "state": "IL",
+      "count": 64
+    },
+    {
+      "state": "DE",
+      "count": 51
+    },
+    {
+      "state": "CA",
+      "count": 38
+    },
+    {
+      "state": "MA",
+      "count": 5
+    },
+    {
+      "state": "GA",
+      "count": 2
+    },
+    {
+      "state": "PA",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 150550.0,
+    "gap_usd": 20390.0
+  }
+}

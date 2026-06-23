@@ -1,0 +1,67 @@
+{
+  "slug": "soal-technologies",
+  "canonical_name": "SOAL TECHNOLOGIES, LLC",
+  "fein": "27-1058277",
+  "lca_filing_count": 4,
+  "lca_worker_positions": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 107400.8,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 92164.8
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 108825.6
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 105976.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Dynamics CRM Developer",
+      "count": 2,
+      "median_wage_usd": 107400.8
+    },
+    {
+      "title": "Sr Software Test Analyst ",
+      "count": 1,
+      "median_wage_usd": 92164.8
+    },
+    {
+      "title": "Microsoft Dynamics CRM Developer",
+      "count": 1,
+      "median_wage_usd": 108825.6
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 4
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 108825.6,
+    "gap_usd": -21334.4
+  }
+}

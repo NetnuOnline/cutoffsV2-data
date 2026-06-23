@@ -1,0 +1,203 @@
+{
+  "slug": "emonics",
+  "canonical_name": "Emonics LLC",
+  "fein": "81-4127079",
+  "lca_filing_count": 150,
+  "lca_worker_positions": 140,
+  "warn_notice_count": 0,
+  "median_wage_usd": 84739.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 9,
+      "median_wage_usd": 79248.0
+    },
+    {
+      "fy": 2021,
+      "filings": 25,
+      "median_wage_usd": 78811.0
+    },
+    {
+      "fy": 2022,
+      "filings": 33,
+      "median_wage_usd": 85197.0
+    },
+    {
+      "fy": 2023,
+      "filings": 11,
+      "median_wage_usd": 64272.0
+    },
+    {
+      "fy": 2024,
+      "filings": 25,
+      "median_wage_usd": 71510.0
+    },
+    {
+      "fy": 2025,
+      "filings": 23,
+      "median_wage_usd": 97594.0
+    },
+    {
+      "fy": 2026,
+      "filings": 14,
+      "median_wage_usd": 103979.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Java Developer",
+      "count": 9,
+      "median_wage_usd": 76190.0
+    },
+    {
+      "title": "Android Developer",
+      "count": 7,
+      "median_wage_usd": 97594.0
+    },
+    {
+      "title": "SSIS Developer",
+      "count": 7,
+      "median_wage_usd": 94682.0
+    },
+    {
+      "title": "Java Full Stack Developer",
+      "count": 6,
+      "median_wage_usd": 81193.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 6,
+      "median_wage_usd": 79531.5
+    },
+    {
+      "title": "Software Developer",
+      "count": 5,
+      "median_wage_usd": 79248.0
+    },
+    {
+      "title": "UI Developer",
+      "count": 5,
+      "median_wage_usd": 79914.0
+    },
+    {
+      "title": "Python Developer",
+      "count": 4,
+      "median_wage_usd": 88389.5
+    },
+    {
+      "title": "Full Stack Java Developer",
+      "count": 3,
+      "median_wage_usd": 82451.0
+    },
+    {
+      "title": "Full Stack Developer",
+      "count": 3,
+      "median_wage_usd": 77189.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 10
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 7
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 6
+    },
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 4
+    },
+    {
+      "state": "MD",
+      "county": "BALTIMORE",
+      "count": 4
+    },
+    {
+      "state": "MN",
+      "county": "HENNEPIN",
+      "count": 4
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 4
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 4
+    },
+    {
+      "state": "IL",
+      "county": "LAKE",
+      "count": 4
+    },
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 35
+    },
+    {
+      "state": "TX",
+      "count": 17
+    },
+    {
+      "state": "NJ",
+      "count": 13
+    },
+    {
+      "state": "IL",
+      "count": 11
+    },
+    {
+      "state": "NY",
+      "count": 8
+    },
+    {
+      "state": "MD",
+      "count": 7
+    },
+    {
+      "state": "IA",
+      "count": 7
+    },
+    {
+      "state": "FL",
+      "count": 6
+    },
+    {
+      "state": "PA",
+      "count": 6
+    },
+    {
+      "state": "MI",
+      "count": 5
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Computer Systems Engineers/Architects",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 83252.0,
+    "gap_usd": -34748.0
+  }
+}

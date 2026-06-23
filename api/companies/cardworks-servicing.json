@@ -1,0 +1,60 @@
+{
+  "slug": "cardworks-servicing",
+  "canonical_name": "Cardworks Servicing, LLC",
+  "fein": "11-3496340",
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 141250.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 190000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 92500.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Assistant Vice President Cloud Contact Center Platform Lead",
+      "count": 1,
+      "median_wage_usd": 190000.0
+    },
+    {
+      "title": "Security Engineer II",
+      "count": 1,
+      "median_wage_usd": 92500.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "NASSAU",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "UT",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Information Security Engineers",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 92500.0,
+    "gap_usd": -25500.0
+  }
+}

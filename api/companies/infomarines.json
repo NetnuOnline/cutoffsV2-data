@@ -1,0 +1,156 @@
+{
+  "slug": "infomarines",
+  "canonical_name": "InfoMarines Inc",
+  "fein": "81-0793739",
+  "lca_filing_count": 15,
+  "lca_worker_positions": 15,
+  "warn_notice_count": 0,
+  "median_wage_usd": 114026.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 99548.5
+    },
+    {
+      "fy": 2023,
+      "filings": 4,
+      "median_wage_usd": 114026.0
+    },
+    {
+      "fy": 2024,
+      "filings": 5,
+      "median_wage_usd": 89814.4
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 62005.0
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 140837.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 5,
+      "median_wage_usd": 114026.0
+    },
+    {
+      "title": "SAP FICO Functional",
+      "count": 2,
+      "median_wage_usd": 118289.5
+    },
+    {
+      "title": "Technical Project Manager",
+      "count": 2,
+      "median_wage_usd": 140837.0
+    },
+    {
+      "title": "Salesforce Business Analyst/Scrum Master",
+      "count": 1,
+      "median_wage_usd": 83532.79999999999
+    },
+    {
+      "title": "Software Developer ",
+      "count": 1,
+      "median_wage_usd": 114026.0
+    },
+    {
+      "title": "Software Development Engineer in Test ",
+      "count": 1,
+      "median_wage_usd": 94058.0
+    },
+    {
+      "title": "Senior ETL Developer",
+      "count": 1,
+      "median_wage_usd": 118102.0
+    },
+    {
+      "title": "Software Development Engineer in Test",
+      "count": 1,
+      "median_wage_usd": 81910.0
+    },
+    {
+      "title": "Web Analytics Engineer ",
+      "count": 1,
+      "median_wage_usd": 80995.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "VA",
+      "county": "FAIRFAX",
+      "count": 5
+    },
+    {
+      "state": "VA",
+      "county": "LOUDOUN",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "county": "MIDDLESEX",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "county": "PALM BEACH",
+      "count": 1
+    },
+    {
+      "state": "NV",
+      "county": "CLARK",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "county": "MECKLENBURG",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "VA",
+      "count": 9
+    },
+    {
+      "state": "NC",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    },
+    {
+      "state": "AZ",
+      "count": 1
+    },
+    {
+      "state": "NV",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 114026.0,
+    "gap_usd": -16134.0
+  }
+}

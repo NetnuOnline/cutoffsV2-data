@@ -1,0 +1,167 @@
+{
+  "slug": "dollar-tree",
+  "canonical_name": "Dollar Tree",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 9,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "ME",
+      "count": 4
+    },
+    {
+      "state": "OK",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "count": 1
+    },
+    {
+      "state": "UT",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "05/24/2024",
+      "effective_date": "05/24/2024",
+      "state": "OK",
+      "workers": 0,
+      "city": "Southern"
+    },
+    {
+      "date": "04/19/2023",
+      "effective_date": "06/23/2023",
+      "state": "VA",
+      "workers": 90,
+      "city": "Chesapeake, VA"
+    },
+    {
+      "date": "04/03/2023",
+      "effective_date": "04/03/2023",
+      "state": "ME",
+      "workers": 0,
+      "city": "Wiscasset"
+    },
+    {
+      "date": "02/23/2022",
+      "effective_date": "02/23/2022",
+      "state": "ME",
+      "workers": 0,
+      "city": "Millinocket"
+    },
+    {
+      "date": "11/10/2021",
+      "effective_date": "11/10/2021",
+      "state": "ME",
+      "workers": 8,
+      "city": "Madawaska"
+    },
+    {
+      "date": "04/23/2021",
+      "effective_date": "04/23/2021",
+      "state": "ME",
+      "workers": 11,
+      "city": "Machias"
+    },
+    {
+      "date": "09/18/2018",
+      "effective_date": "11/19/2018",
+      "state": "NC",
+      "workers": 200,
+      "city": "10401 Monroe Road, Matthews"
+    },
+    {
+      "date": "01/25/2010",
+      "effective_date": "01/25/2010",
+      "state": "UT",
+      "workers": 98,
+      "city": "Salt Lake City"
+    },
+    {
+      "date": "01/16/1996",
+      "effective_date": "01/16/1996",
+      "state": "IL",
+      "workers": 0,
+      "city": "Woodridge"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "aroostookwashington-wia",
+      "name": "Aroostook/Washington WIA",
+      "state": "ME"
+    },
+    {
+      "slug": "tri-county-investment-board-wia",
+      "name": "Tri County Investment Board WIA",
+      "state": "ME"
+    },
+    {
+      "slug": "hampton-roads-lwia-xvi",
+      "name": "Hampton Roads LWIA XVI",
+      "state": "VA"
+    }
+  ],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2019-12-13",
+        "formType": "8-K",
+        "accessionNumber": "0000935703-19-000057",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000935703&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2016-06-20",
+        "formType": "8-K/A",
+        "accessionNumber": "0000935703-16-000147",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000935703&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2008-03-03",
+        "formType": "8-K",
+        "accessionNumber": "0000935703-08-000012",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000935703&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 3,
+    "itemCounts": {
+      "5.02": 3
+    },
+    "latestFilingDate": "2019-12-13",
+    "earliestFilingDate": "2008-03-03"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

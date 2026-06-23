@@ -1,0 +1,192 @@
+{
+  "slug": "auction-com",
+  "canonical_name": "Auction.com, LLC",
+  "fein": "26-3654828",
+  "lca_filing_count": 9,
+  "warn_notice_count": 0,
+  "median_wage_usd": 144612.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 4,
+      "median_wage_usd": 132496.0
+    },
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 144612.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 168000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Lead Software Test Engineer",
+      "count": 2,
+      "median_wage_usd": 149996.0
+    },
+    {
+      "title": "Test Engineer",
+      "count": 1,
+      "median_wage_usd": 144612.0
+    },
+    {
+      "title": "People Technology Analyst",
+      "count": 1,
+      "median_wage_usd": 144612.0
+    },
+    {
+      "title": "Database Engineer",
+      "count": 1,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Director Business Analytics",
+      "count": 1,
+      "median_wage_usd": 168000.0
+    },
+    {
+      "title": "Advanced Analytics Manager",
+      "count": 1,
+      "median_wage_usd": 127500.0
+    },
+    {
+      "title": "Lead Software Engineer",
+      "count": 1,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "title": "Senior Site Reliability Engineer",
+      "count": 1,
+      "median_wage_usd": 180000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "ORANGE",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "SAN DIEGO",
+      "count": 2
+    },
+    {
+      "state": "SC",
+      "county": "YORK",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 6
+    },
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "SC",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 3,
+    "initial_denials": 0,
+    "continuing_approvals": 18,
+    "continuing_denials": 1,
+    "total_approvals": 21,
+    "by_fy": [
+      {
+        "fy": 2013,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2014,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2015,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2016,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 4
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 4,
+        "continuing_denials": 0,
+        "total_approvals": 4
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 9,
+        "continuing_denials": 0,
+        "total_approvals": 10
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 1,
+        "total_approvals": 3
+      }
+    ]
+  },
+  "lca_worker_positions": 9,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1253",
+    "soc_title": "Software Quality Assurance Analysts and Testers",
+    "market_median_usd": 101800.0,
+    "employer_median_usd": 144612.0,
+    "gap_usd": 42812.0
+  }
+}

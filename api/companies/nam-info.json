@@ -1,0 +1,203 @@
+{
+  "slug": "nam-info",
+  "canonical_name": "NAM INFO, INC.",
+  "fein": "22-3775658",
+  "lca_filing_count": 52,
+  "lca_worker_positions": 51,
+  "warn_notice_count": 0,
+  "median_wage_usd": 111000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 6,
+      "median_wage_usd": 75000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 4,
+      "median_wage_usd": 101500.0
+    },
+    {
+      "fy": 2022,
+      "filings": 13,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 10,
+      "median_wage_usd": 126750.0
+    },
+    {
+      "fy": 2024,
+      "filings": 7,
+      "median_wage_usd": 124000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 8,
+      "median_wage_usd": 121500.0
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 125000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SOFTWARE DEVELOPER",
+      "count": 18,
+      "median_wage_usd": 124500.0
+    },
+    {
+      "title": "SYSTEMS CONSULTANT",
+      "count": 5,
+      "median_wage_usd": 79331.0
+    },
+    {
+      "title": "SOFTWARE DEVELOPER (SAP)",
+      "count": 4,
+      "median_wage_usd": 133650.0
+    },
+    {
+      "title": "ORACLE DATABASE ADMINISTRATOR",
+      "count": 3,
+      "median_wage_usd": 78000.0
+    },
+    {
+      "title": "SOFTWARE ENGINEER",
+      "count": 3,
+      "median_wage_usd": 85000.0
+    },
+    {
+      "title": "QUALITY ASSURANCE TESTER",
+      "count": 2,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "title": "COMPUTER SYSTEMS ANALYST",
+      "count": 2,
+      "median_wage_usd": 118000.0
+    },
+    {
+      "title": "IT CONSULTANT",
+      "count": 2,
+      "median_wage_usd": 123000.0
+    },
+    {
+      "title": "IT PROJECT MANAGER",
+      "count": 2,
+      "median_wage_usd": 89000.0
+    },
+    {
+      "title": "SYSTEM CONSULTANT",
+      "count": 1,
+      "median_wage_usd": 68000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "FL",
+      "county": "DUVAL",
+      "count": 4
+    },
+    {
+      "state": "FL",
+      "county": "MIAMI-DADE",
+      "count": 4
+    },
+    {
+      "state": "NJ",
+      "county": "MIDDLESEX",
+      "count": 4
+    },
+    {
+      "state": "CO",
+      "county": "ARAPAHOE",
+      "count": 3
+    },
+    {
+      "state": "OH",
+      "county": "WARREN",
+      "count": 3
+    },
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 3
+    },
+    {
+      "state": "NC",
+      "county": "WAKE",
+      "count": 2
+    },
+    {
+      "state": "NY",
+      "county": "QUEENS",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 9
+    },
+    {
+      "state": "FL",
+      "count": 8
+    },
+    {
+      "state": "CA",
+      "count": 5
+    },
+    {
+      "state": "NJ",
+      "count": 5
+    },
+    {
+      "state": "NC",
+      "count": 5
+    },
+    {
+      "state": "CO",
+      "count": 4
+    },
+    {
+      "state": "NY",
+      "count": 3
+    },
+    {
+      "state": "OH",
+      "count": 3
+    },
+    {
+      "state": "MI",
+      "count": 2
+    },
+    {
+      "state": "GA",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 125000.0,
+    "gap_usd": -5160.0
+  }
+}

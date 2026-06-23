@@ -1,0 +1,149 @@
+{
+  "slug": "athene-annuity-and-life-company",
+  "canonical_name": "Athene Annuity and Life Company",
+  "fein": "42-0175020",
+  "lca_filing_count": 54,
+  "lca_worker_positions": 54,
+  "warn_notice_count": 0,
+  "median_wage_usd": 130000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 3,
+      "median_wage_usd": 86008.0
+    },
+    {
+      "fy": 2021,
+      "filings": 13,
+      "median_wage_usd": 122000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 7,
+      "median_wage_usd": 113651.0
+    },
+    {
+      "fy": 2023,
+      "filings": 7,
+      "median_wage_usd": 113651.0
+    },
+    {
+      "fy": 2024,
+      "filings": 11,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 6,
+      "median_wage_usd": 147500.0
+    },
+    {
+      "fy": 2026,
+      "filings": 7,
+      "median_wage_usd": 155000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Developer",
+      "count": 6,
+      "median_wage_usd": 142667.0
+    },
+    {
+      "title": "Sr. Software Developer",
+      "count": 4,
+      "median_wage_usd": 134568.0
+    },
+    {
+      "title": "Senior Software Developer",
+      "count": 4,
+      "median_wage_usd": 115224.0
+    },
+    {
+      "title": "QA Analyst III",
+      "count": 3,
+      "median_wage_usd": 77563.0
+    },
+    {
+      "title": "Sr. Investment Analyst",
+      "count": 2,
+      "median_wage_usd": 96500.0
+    },
+    {
+      "title": "Investment Sr. Analyst",
+      "count": 2,
+      "median_wage_usd": 160500.0
+    },
+    {
+      "title": "Software Developer Lead",
+      "count": 2,
+      "median_wage_usd": 150135.0
+    },
+    {
+      "title": "Software Developer III",
+      "count": 2,
+      "median_wage_usd": 116083.0
+    },
+    {
+      "title": "Investment Analyst Lead",
+      "count": 1,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "AVP, Corporate Development",
+      "count": 1,
+      "median_wage_usd": 225000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IA",
+      "county": "DALLAS",
+      "count": 28
+    },
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 10
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IA",
+      "count": 36
+    },
+    {
+      "state": "CA",
+      "count": 12
+    },
+    {
+      "state": "NY",
+      "count": 5
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 140135.0,
+    "gap_usd": 9975.0
+  }
+}

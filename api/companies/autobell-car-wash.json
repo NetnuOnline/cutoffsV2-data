@@ -1,0 +1,48 @@
+{
+  "slug": "autobell-car-wash",
+  "canonical_name": "Autobell Car Wash",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "10/29/2022",
+      "effective_date": "10/12/2022",
+      "state": "GA",
+      "workers": 28,
+      "city": "Alpharetta"
+    },
+    {
+      "date": "10/29/2022",
+      "effective_date": "10/08/2022",
+      "state": "GA",
+      "workers": 17,
+      "city": "Lilburn"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "city-of-atlanta-wib",
+      "name": "City of Atlanta WIB",
+      "state": "GA"
+    },
+    {
+      "slug": "atlanta-regional-wib",
+      "name": "Atlanta Regional WIB",
+      "state": "GA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

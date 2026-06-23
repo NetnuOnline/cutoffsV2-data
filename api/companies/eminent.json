@@ -1,0 +1,107 @@
+{
+  "slug": "eminent",
+  "canonical_name": "Eminent, Inc.",
+  "fein": "46-1634194",
+  "lca_filing_count": 13,
+  "lca_worker_positions": 12,
+  "warn_notice_count": 0,
+  "median_wage_usd": 100000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 142000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 82000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 4,
+      "median_wage_usd": 102500.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 208847.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 206000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 93000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 86400.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Business Intelligence Analyst",
+      "count": 5,
+      "median_wage_usd": 82000.0
+    },
+    {
+      "title": "Junior Data Scientist",
+      "count": 2,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "title": "Data Scientist",
+      "count": 2,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "Director of Software Engineering",
+      "count": 1,
+      "median_wage_usd": 208847.0
+    },
+    {
+      "title": "HRIS Analyst",
+      "count": 1,
+      "median_wage_usd": 86000.0
+    },
+    {
+      "title": "Buying Director, Beauty",
+      "count": 1,
+      "median_wage_usd": 206000.0
+    },
+    {
+      "title": "Manager of Software Engineering, Finance",
+      "count": 1,
+      "median_wage_usd": 142000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 9
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 13
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1161",
+    "soc_title": "Market Research Analysts and Marketing Specialists",
+    "market_median_usd": 74680.0,
+    "employer_median_usd": 82000.0,
+    "gap_usd": 7320.0
+  }
+}

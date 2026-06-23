@@ -1,0 +1,124 @@
+{
+  "slug": "rad-ai",
+  "canonical_name": "Rad AI, Inc.",
+  "fein": "82-4455846",
+  "lca_filing_count": 11,
+  "lca_worker_positions": 10,
+  "warn_notice_count": 0,
+  "median_wage_usd": 190000.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 121732.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 220000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 7,
+      "median_wage_usd": 190000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 190000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Security Engineer, Application & Cloud",
+      "count": 2,
+      "median_wage_usd": 185000.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 1,
+      "median_wage_usd": 215000.0
+    },
+    {
+      "title": "Senior Software Engineer, Audio",
+      "count": 1,
+      "median_wage_usd": 220000.0
+    },
+    {
+      "title": "Senior Software Engineer, Full Stack - Core Services",
+      "count": 1,
+      "median_wage_usd": 170000.0
+    },
+    {
+      "title": "Senior Data Engineer",
+      "count": 1,
+      "median_wage_usd": 215000.0
+    },
+    {
+      "title": "Senior Infrastructure Engineer",
+      "count": 1,
+      "median_wage_usd": 190000.0
+    },
+    {
+      "title": "Data Engineer",
+      "count": 1,
+      "median_wage_usd": 220000.0
+    },
+    {
+      "title": "Machine Learning Researcher",
+      "count": 1,
+      "median_wage_usd": 185000.0
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "count": 1,
+      "median_wage_usd": 121732.0
+    },
+    {
+      "title": "Senior Machine Learning Research Scientist",
+      "count": 1,
+      "median_wage_usd": 190000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "county": "MECKLENBURG",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 7
+    },
+    {
+      "state": "NC",
+      "count": 2
+    },
+    {
+      "state": "VA",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 202500.0,
+    "gap_usd": 72340.0
+  }
+}

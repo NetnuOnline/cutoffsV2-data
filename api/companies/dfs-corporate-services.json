@@ -1,0 +1,203 @@
+{
+  "slug": "dfs-corporate-services",
+  "canonical_name": "DFS Corporate Services LLC",
+  "fein": "27-3572632",
+  "lca_filing_count": 783,
+  "lca_worker_positions": 777,
+  "warn_notice_count": 0,
+  "median_wage_usd": 109000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 94,
+      "median_wage_usd": 105000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 138,
+      "median_wage_usd": 126000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 140,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 170,
+      "median_wage_usd": 103000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 86,
+      "median_wage_usd": 107913.0
+    },
+    {
+      "fy": 2025,
+      "filings": 72,
+      "median_wage_usd": 114716.0
+    },
+    {
+      "fy": 2026,
+      "filings": 77,
+      "median_wage_usd": 108012.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Application Engineer",
+      "count": 168,
+      "median_wage_usd": 105454.0
+    },
+    {
+      "title": "Principal Application Engineer",
+      "count": 72,
+      "median_wage_usd": 148949.0
+    },
+    {
+      "title": "Lead Software Developer",
+      "count": 42,
+      "median_wage_usd": 126000.0
+    },
+    {
+      "title": "Lead Software Engineer - Full Stack",
+      "count": 34,
+      "median_wage_usd": 125500.0
+    },
+    {
+      "title": "Data Engineer",
+      "count": 28,
+      "median_wage_usd": 103000.0
+    },
+    {
+      "title": "Manager Software Engineering",
+      "count": 22,
+      "median_wage_usd": 125500.0
+    },
+    {
+      "title": "Senior Associate Application Engineer",
+      "count": 21,
+      "median_wage_usd": 83864.0
+    },
+    {
+      "title": "Lead Data Engineer",
+      "count": 15,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "title": "Principal Application Architect",
+      "count": 14,
+      "median_wage_usd": 121000.0
+    },
+    {
+      "title": "Infrastructure Engineer",
+      "count": 13,
+      "median_wage_usd": 79000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IL",
+      "county": "LAKE",
+      "count": 500
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 54
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 7
+    },
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 7
+    },
+    {
+      "state": "MI",
+      "county": "OAKLAND",
+      "count": 4
+    },
+    {
+      "state": "NC",
+      "county": "MECKLENBURG",
+      "count": 4
+    },
+    {
+      "state": "GA",
+      "county": "FORSYTH",
+      "count": 4
+    },
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 3
+    },
+    {
+      "state": "VA",
+      "county": "FAIRFAX",
+      "count": 3
+    },
+    {
+      "state": "OH",
+      "county": "DELAWARE",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 699
+    },
+    {
+      "state": "TX",
+      "count": 25
+    },
+    {
+      "state": "NC",
+      "count": 10
+    },
+    {
+      "state": "VA",
+      "count": 6
+    },
+    {
+      "state": "GA",
+      "count": 6
+    },
+    {
+      "state": "OH",
+      "count": 5
+    },
+    {
+      "state": "MI",
+      "count": 4
+    },
+    {
+      "state": "PA",
+      "count": 3
+    },
+    {
+      "state": "WI",
+      "count": 3
+    },
+    {
+      "state": "FL",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 108012.0,
+    "gap_usd": -22148.0
+  }
+}

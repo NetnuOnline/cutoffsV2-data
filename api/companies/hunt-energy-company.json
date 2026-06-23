@@ -1,0 +1,45 @@
+{
+  "slug": "hunt-energy-company",
+  "canonical_name": "Hunt Energy Company",
+  "fein": "88-3549627",
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 120769.3,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 120769.29999999999
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Quality Assurance Engineer",
+      "count": 1,
+      "median_wage_usd": 101538.48
+    },
+    {
+      "title": "Sr. Data Engineer",
+      "count": 1,
+      "median_wage_usd": 140000.12
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1253",
+    "soc_title": "Software Quality Assurance Analysts and Testers",
+    "market_median_usd": 101800.0,
+    "employer_median_usd": 101538.48,
+    "gap_usd": -261.52
+  }
+}

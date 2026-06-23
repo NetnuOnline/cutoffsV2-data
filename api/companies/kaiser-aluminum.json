@@ -1,0 +1,93 @@
+{
+  "slug": "kaiser-aluminum",
+  "canonical_name": "Kaiser Aluminum",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "VA",
+      "count": 1
+    },
+    {
+      "state": "OK",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "04/08/2020",
+      "effective_date": "04/03/2020",
+      "state": "VA",
+      "workers": 78,
+      "city": "Richmond, VA"
+    },
+    {
+      "date": "12/18/2008",
+      "effective_date": "12/18/2008",
+      "state": "OK",
+      "workers": 49,
+      "city": null
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2009-01-15",
+        "formType": "8-K",
+        "accessionNumber": "0001299933-09-000211",
+        "items": [
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000811596&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2007-04-04",
+        "formType": "8-K",
+        "accessionNumber": "0000950129-07-001847",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000811596&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 2,
+    "itemCounts": {
+      "2.06": 1,
+      "5.02": 1
+    },
+    "latestFilingDate": "2009-01-15",
+    "earliestFilingDate": "2007-04-04"
+  },
+  "bankruptcy_data": {
+    "filings": [
+      {
+        "filingDate": "2006-02-07",
+        "formType": "8-K",
+        "accessionNumber": "0000950129-06-001078",
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000811596&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2005-12-23",
+        "formType": "8-K",
+        "accessionNumber": "0000950129-05-012200",
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000811596&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 2,
+    "latestFilingDate": "2006-02-07",
+    "earliestFilingDate": "2005-12-23"
+  },
+  "source": "warntracker"
+}

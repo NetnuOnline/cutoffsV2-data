@@ -1,0 +1,139 @@
+{
+  "slug": "pmg-global",
+  "canonical_name": "PMG GLOBAL CORPORATION",
+  "fein": "14-1886154",
+  "lca_filing_count": 30,
+  "lca_worker_positions": 30,
+  "warn_notice_count": 0,
+  "median_wage_usd": 145600.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 8,
+      "median_wage_usd": 124800.0
+    },
+    {
+      "fy": 2021,
+      "filings": 4,
+      "median_wage_usd": 124800.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 163280.0
+    },
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 156000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 5,
+      "median_wage_usd": 145600.0
+    },
+    {
+      "fy": 2026,
+      "filings": 8,
+      "median_wage_usd": 168480.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer/ Developer in Test",
+      "count": 5,
+      "median_wage_usd": 135200.0
+    },
+    {
+      "title": "Software Developer/Engineer",
+      "count": 5,
+      "median_wage_usd": 156000.0
+    },
+    {
+      "title": "Senior Software Engineer (Full Stack )",
+      "count": 2,
+      "median_wage_usd": 158080.0
+    },
+    {
+      "title": " Software Developer/Engineer",
+      "count": 2,
+      "median_wage_usd": 124800.0
+    },
+    {
+      "title": "Software Engineer (full Stack)",
+      "count": 2,
+      "median_wage_usd": 176800.0
+    },
+    {
+      "title": "Scrum Master",
+      "count": 2,
+      "median_wage_usd": 135200.0
+    },
+    {
+      "title": "Software Developer/Mobile Developer",
+      "count": 1,
+      "median_wage_usd": 135200.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 97760.0
+    },
+    {
+      "title": "Software Engineer(mainframe)/Developer ",
+      "count": 1,
+      "median_wage_usd": 110240.0
+    },
+    {
+      "title": " Senior Software Developer/Engineer",
+      "count": 1,
+      "median_wage_usd": 135200.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NC",
+      "county": "DURHAM",
+      "count": 12
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 4
+    },
+    {
+      "state": "NH",
+      "county": "HILLSBOROUGH",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NC",
+      "count": 17
+    },
+    {
+      "state": "TX",
+      "count": 11
+    },
+    {
+      "state": "NH",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 158080.0,
+    "gap_usd": 27920.0
+  }
+}

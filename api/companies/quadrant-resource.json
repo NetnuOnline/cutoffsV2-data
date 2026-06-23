@@ -1,0 +1,237 @@
+{
+  "slug": "quadrant-resource",
+  "canonical_name": "Quadrant Resource LLC",
+  "fein": null,
+  "lca_filing_count": 100,
+  "warn_notice_count": 0,
+  "median_wage_usd": 101358.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 22,
+      "median_wage_usd": 91042.0
+    },
+    {
+      "fy": 2021,
+      "filings": 4,
+      "median_wage_usd": 96554.0
+    },
+    {
+      "fy": 2022,
+      "filings": 30,
+      "median_wage_usd": 119350.0
+    },
+    {
+      "fy": 2023,
+      "filings": 44,
+      "median_wage_usd": 89107.5
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Computer Systems Analyst",
+      "count": 64,
+      "median_wage_usd": 91042.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 29,
+      "median_wage_usd": 119350.0
+    },
+    {
+      "title": "Software Engineer      ",
+      "count": 3,
+      "median_wage_usd": 114026.0
+    },
+    {
+      "title": "Software Engineer ",
+      "count": 1,
+      "median_wage_usd": 128502.0
+    },
+    {
+      "title": "Medical Device Software Verification & Validation Engineer",
+      "count": 1,
+      "median_wage_usd": 104874.0
+    },
+    {
+      "title": "Product Manager",
+      "count": 1,
+      "median_wage_usd": 86653.0
+    },
+    {
+      "title": "Computer Systems Analyst ",
+      "count": 1,
+      "median_wage_usd": 133245.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 81
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 3
+    },
+    {
+      "state": "CA",
+      "county": "SAN MATEO",
+      "count": 3
+    },
+    {
+      "state": "VA",
+      "county": "FAIRFAX",
+      "count": 2
+    },
+    {
+      "state": "PA",
+      "county": "ALLEGHENY",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 1
+    },
+    {
+      "state": "OR",
+      "county": "WASHINGTON",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "county": "LAKE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "WA",
+      "count": 81
+    },
+    {
+      "state": "CA",
+      "count": 7
+    },
+    {
+      "state": "TX",
+      "count": 5
+    },
+    {
+      "state": "PA",
+      "count": 2
+    },
+    {
+      "state": "VA",
+      "count": 2
+    },
+    {
+      "state": "NC",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "count": 1
+    },
+    {
+      "state": "OR",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 91,
+    "initial_denials": 6,
+    "continuing_approvals": 195,
+    "continuing_denials": 4,
+    "total_approvals": 286,
+    "by_fy": [
+      {
+        "fy": 2016,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2017,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 10,
+        "initial_denials": 0,
+        "continuing_approvals": 49,
+        "continuing_denials": 2,
+        "total_approvals": 59
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 31,
+        "initial_denials": 4,
+        "continuing_approvals": 81,
+        "continuing_denials": 1,
+        "total_approvals": 112
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 20,
+        "initial_denials": 0,
+        "continuing_approvals": 47,
+        "continuing_denials": 1,
+        "total_approvals": 67
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 30,
+        "initial_denials": 2,
+        "continuing_approvals": 18,
+        "continuing_denials": 0,
+        "total_approvals": 48
+      }
+    ]
+  },
+  "lca_worker_positions": 100,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1211",
+    "soc_title": "Computer Systems Analysts",
+    "market_median_usd": 103800.0,
+    "employer_median_usd": 91562.0,
+    "gap_usd": -12238.0
+  }
+}

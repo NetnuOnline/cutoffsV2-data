@@ -1,0 +1,155 @@
+{
+  "slug": "mohawk-industries",
+  "canonical_name": "Mohawk Industries, Inc.",
+  "fein": "52-1604305",
+  "lca_filing_count": 79,
+  "lca_worker_positions": 77,
+  "warn_notice_count": 0,
+  "median_wage_usd": 130000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 6,
+      "median_wage_usd": 110872.5
+    },
+    {
+      "fy": 2021,
+      "filings": 17,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 21,
+      "median_wage_usd": 130447.92
+    },
+    {
+      "fy": 2023,
+      "filings": 13,
+      "median_wage_usd": 137500.0
+    },
+    {
+      "fy": 2024,
+      "filings": 6,
+      "median_wage_usd": 134733.0
+    },
+    {
+      "fy": 2025,
+      "filings": 10,
+      "median_wage_usd": 138778.5
+    },
+    {
+      "fy": 2026,
+      "filings": 4,
+      "median_wage_usd": 152547.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Business Intelligence Specialist",
+      "count": 3,
+      "median_wage_usd": 144000.0
+    },
+    {
+      "title": "SAP Developer - ABAP",
+      "count": 3,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "title": "Systems Development Lead",
+      "count": 3,
+      "median_wage_usd": 112749.84
+    },
+    {
+      "title": "Senior Functional Analyst \u2013 C4C ",
+      "count": 2,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "Senior Functional Analyst - CRM",
+      "count": 2,
+      "median_wage_usd": 123978.0
+    },
+    {
+      "title": "Senior Systems Specialist - Hyperion",
+      "count": 2,
+      "median_wage_usd": 159377.5
+    },
+    {
+      "title": "Infrastructure Engineer",
+      "count": 2,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "SAP Functional Lead Analyst",
+      "count": 2,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "title": "Sr People Systems Analyst",
+      "count": 2,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Sr. BI Specialist",
+      "count": 2,
+      "median_wage_usd": 126000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "GA",
+      "county": "GORDON",
+      "count": 35
+    },
+    {
+      "state": "GA",
+      "county": "COBB",
+      "count": 19
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 7
+    },
+    {
+      "state": "GA",
+      "county": "WHITFIELD",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "county": "RICHMOND",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "county": "CHEROKEE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 71
+    },
+    {
+      "state": "TX",
+      "count": 7
+    },
+    {
+      "state": "NC",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 137500.0,
+    "gap_usd": 7340.0
+  }
+}

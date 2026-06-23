@@ -1,0 +1,57 @@
+{
+  "slug": "frys-electronics",
+  "canonical_name": "Fry's Electronics",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 4,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 4
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "02/24/2021",
+      "effective_date": "03/31/2021",
+      "state": "CA",
+      "workers": 72,
+      "city": "San Jose"
+    },
+    {
+      "date": "02/24/2021",
+      "effective_date": "02/24/2021",
+      "state": "CA",
+      "workers": 76,
+      "city": "San Jose"
+    },
+    {
+      "date": "04/24/2020",
+      "effective_date": "04/18/2020",
+      "state": "CA",
+      "workers": 15,
+      "city": "Hanford"
+    },
+    {
+      "date": "04/13/2020",
+      "effective_date": "04/10/2020",
+      "state": "CA",
+      "workers": 57,
+      "city": "San Jose"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "kings-county-wib",
+      "name": "Kings County WIB",
+      "state": "CA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

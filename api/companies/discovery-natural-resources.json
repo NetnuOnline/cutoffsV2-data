@@ -1,0 +1,54 @@
+{
+  "slug": "discovery-natural-resources",
+  "canonical_name": "Discovery Natural Resources",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 3,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "CO",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "04/16/2020",
+      "effective_date": "04/16/2020",
+      "state": "TX",
+      "workers": 4,
+      "city": "Ozona"
+    },
+    {
+      "date": "04/16/2020",
+      "effective_date": "04/16/2020",
+      "state": "TX",
+      "workers": 36,
+      "city": "Barnhart"
+    },
+    {
+      "date": "04/08/2020",
+      "effective_date": "04/08/2020",
+      "state": "CO",
+      "workers": 28,
+      "city": "Denver"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "concho-valley-wda",
+      "name": "Concho Valley WDA",
+      "state": "TX"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

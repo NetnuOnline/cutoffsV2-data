@@ -1,0 +1,75 @@
+{
+  "slug": "the-barbarian-group",
+  "canonical_name": "The Barbarian Group, LLC",
+  "fein": "04-3584003",
+  "lca_filing_count": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 140000.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 4,
+      "median_wage_usd": 136000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 240000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "The Barbarian Group, LLC",
+      "count": 1,
+      "median_wage_usd": 132000.0
+    },
+    {
+      "title": "Front End Development Lead",
+      "count": 1,
+      "median_wage_usd": 132000.0
+    },
+    {
+      "title": "Staff Software Developer",
+      "count": 1,
+      "median_wage_usd": 165000.0
+    },
+    {
+      "title": "Business Director",
+      "count": 1,
+      "median_wage_usd": 240000.0
+    },
+    {
+      "title": "Delivery Lead",
+      "count": 1,
+      "median_wage_usd": 140000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 4
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 4
+    },
+    {
+      "state": "WA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 5,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 132000.0,
+    "gap_usd": 1840.0
+  }
+}

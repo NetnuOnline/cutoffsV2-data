@@ -1,0 +1,113 @@
+{
+  "slug": "topstars",
+  "canonical_name": "Topstars, Inc.",
+  "fein": "87-2720889",
+  "lca_filing_count": 13,
+  "warn_notice_count": 0,
+  "median_wage_usd": 105997.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 93100.9
+    },
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 105227.0
+    },
+    {
+      "fy": 2025,
+      "filings": 7,
+      "median_wage_usd": 109500.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Data Engineer",
+      "count": 2,
+      "median_wage_usd": 94000.0
+    },
+    {
+      "title": "Software Developer (AWS/DevOps)",
+      "count": 2,
+      "median_wage_usd": 109500.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 2,
+      "median_wage_usd": 107363.5
+    },
+    {
+      "title": "Software Developer (.Net)",
+      "count": 2,
+      "median_wage_usd": 105997.0
+    },
+    {
+      "title": "Java Developer",
+      "count": 1,
+      "median_wage_usd": 83325.0
+    },
+    {
+      "title": "Software Developer (JAVA)",
+      "count": 1,
+      "median_wage_usd": 109500.0
+    },
+    {
+      "title": "Business Analyst",
+      "count": 1,
+      "median_wage_usd": 102876.8
+    },
+    {
+      "title": "Cloud Database Administrator",
+      "count": 1,
+      "median_wage_usd": 91062.0
+    },
+    {
+      "title": "Python Developer",
+      "count": 1,
+      "median_wage_usd": 109500.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "GA",
+      "county": "GWINNETT",
+      "count": 6
+    }
+  ],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 13
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 0,
+    "continuing_denials": 0,
+    "total_approvals": 1,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 12,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 109500.0,
+    "gap_usd": -20660.0
+  }
+}

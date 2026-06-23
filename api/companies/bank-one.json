@@ -1,0 +1,44 @@
+{
+  "slug": "bank-one",
+  "canonical_name": "BANK ONE",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 3,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 3
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "01/28/2003",
+      "effective_date": "03/01/2003",
+      "state": "IL",
+      "workers": 500,
+      "city": "300 S RIVERSIDE & 525 W MONROE  CHICAGO, IL 60670"
+    },
+    {
+      "date": "05/01/2000",
+      "effective_date": "05/01/2000",
+      "state": "IL",
+      "workers": 0,
+      "city": "Villa Park"
+    },
+    {
+      "date": "05/05/1995",
+      "effective_date": "06/01/1995",
+      "state": "IL",
+      "workers": 120,
+      "city": "Springfield"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

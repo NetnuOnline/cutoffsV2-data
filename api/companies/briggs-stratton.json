@@ -1,0 +1,92 @@
+{
+  "slug": "briggs-stratton",
+  "canonical_name": "Briggs & Stratton, LLC",
+  "fein": "85-2711260",
+  "lca_filing_count": 11,
+  "lca_worker_positions": 11,
+  "warn_notice_count": 0,
+  "median_wage_usd": 115856.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 3,
+      "median_wage_usd": 115856.0
+    },
+    {
+      "fy": 2022,
+      "filings": 3,
+      "median_wage_usd": 114837.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 131268.5
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 118976.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Technical Analyst Senior - SAP",
+      "count": 3,
+      "median_wage_usd": 115856.0
+    },
+    {
+      "title": "Business Analyst - SAP",
+      "count": 2,
+      "median_wage_usd": 79881.0
+    },
+    {
+      "title": "Business Analyst Senior - SAP",
+      "count": 2,
+      "median_wage_usd": 114837.0
+    },
+    {
+      "title": "Platform and Delivery Manager Integrated",
+      "count": 1,
+      "median_wage_usd": 174075.0
+    },
+    {
+      "title": "Technical Analyst Senior",
+      "count": 1,
+      "median_wage_usd": 131373.0
+    },
+    {
+      "title": "Mechanical Engineer II",
+      "count": 1,
+      "median_wage_usd": 85717.0
+    },
+    {
+      "title": "Business Analyst Senior \u201c SAP Source to Pay",
+      "count": 1,
+      "median_wage_usd": 118976.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "WI",
+      "county": "MILWAUKEE",
+      "count": 8
+    }
+  ],
+  "top_states": [
+    {
+      "state": "WI",
+      "count": 11
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1211",
+    "soc_title": "Computer Systems Analysts",
+    "market_median_usd": 103800.0,
+    "employer_median_usd": 114837.0,
+    "gap_usd": 11037.0
+  }
+}

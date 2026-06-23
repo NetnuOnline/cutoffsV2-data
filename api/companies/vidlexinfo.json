@@ -1,0 +1,233 @@
+{
+  "slug": "vidlexinfo",
+  "canonical_name": "Vidlexinfo, LLC",
+  "fein": "84-4858959",
+  "lca_filing_count": 28,
+  "warn_notice_count": 0,
+  "median_wage_usd": 101660.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 91520.0
+    },
+    {
+      "fy": 2022,
+      "filings": 7,
+      "median_wage_usd": 101108.8
+    },
+    {
+      "fy": 2023,
+      "filings": 4,
+      "median_wage_usd": 106080.0
+    },
+    {
+      "fy": 2024,
+      "filings": 7,
+      "median_wage_usd": 104520.0
+    },
+    {
+      "fy": 2025,
+      "filings": 9,
+      "median_wage_usd": 99694.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 6,
+      "median_wage_usd": 101108.8
+    },
+    {
+      "title": "Software Engineer",
+      "count": 5,
+      "median_wage_usd": 99694.0
+    },
+    {
+      "title": "Validation Engineer",
+      "count": 3,
+      "median_wage_usd": 97115.0
+    },
+    {
+      "title": "Principal Software Engineer",
+      "count": 2,
+      "median_wage_usd": 110406.0
+    },
+    {
+      "title": "Salesforce Application Development Lead",
+      "count": 2,
+      "median_wage_usd": 106080.0
+    },
+    {
+      "title": "DevOps Engineer",
+      "count": 1,
+      "median_wage_usd": 109283.2
+    },
+    {
+      "title": "Commissioning Qualification and Validation Engineer",
+      "count": 1,
+      "median_wage_usd": 92000.0
+    },
+    {
+      "title": "Business Analyst ",
+      "count": 1,
+      "median_wage_usd": 87360.0
+    },
+    {
+      "title": "AEM Developer",
+      "count": 1,
+      "median_wage_usd": 105206.0
+    },
+    {
+      "title": "Java Programmer",
+      "count": 1,
+      "median_wage_usd": 106662.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NC",
+      "county": "MECKLENBURG",
+      "count": 8
+    },
+    {
+      "state": "MN",
+      "county": "HENNEPIN",
+      "count": 3
+    },
+    {
+      "state": "MO",
+      "county": "PLATTE",
+      "count": 2
+    },
+    {
+      "state": "RI",
+      "county": "LINCOLN",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "county": "HUDSON",
+      "count": 1
+    },
+    {
+      "state": "WI",
+      "county": "DANE",
+      "count": 1
+    },
+    {
+      "state": "KS",
+      "county": "JOHNSON",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "county": "SOMERSET",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "county": "RENSSELAER",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NC",
+      "count": 8
+    },
+    {
+      "state": "TX",
+      "count": 4
+    },
+    {
+      "state": "MN",
+      "count": 3
+    },
+    {
+      "state": "NJ",
+      "count": 3
+    },
+    {
+      "state": "NY",
+      "count": 2
+    },
+    {
+      "state": "MO",
+      "count": 2
+    },
+    {
+      "state": "RI",
+      "count": 2
+    },
+    {
+      "state": "OH",
+      "count": 1
+    },
+    {
+      "state": "KS",
+      "count": 1
+    },
+    {
+      "state": "WI",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 50,
+    "initial_denials": 1,
+    "continuing_approvals": 27,
+    "continuing_denials": 0,
+    "total_approvals": 77,
+    "by_fy": [
+      {
+        "fy": 2020,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 21,
+        "initial_denials": 0,
+        "continuing_approvals": 7,
+        "continuing_denials": 0,
+        "total_approvals": 28
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 23,
+        "initial_denials": 1,
+        "continuing_approvals": 13,
+        "continuing_denials": 0,
+        "total_approvals": 36
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 5,
+        "initial_denials": 0,
+        "continuing_approvals": 7,
+        "continuing_denials": 0,
+        "total_approvals": 12
+      }
+    ]
+  },
+  "lca_worker_positions": 28,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 104520.0,
+    "gap_usd": -25640.0
+  }
+}

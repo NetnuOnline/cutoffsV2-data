@@ -1,0 +1,195 @@
+{
+  "slug": "southern-new-hampshire-university",
+  "canonical_name": "Southern New Hampshire University",
+  "fein": "02-0274509",
+  "lca_filing_count": 7,
+  "warn_notice_count": 1,
+  "median_wage_usd": 120000.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 3,
+      "median_wage_usd": 122548.14
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 95992.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 132500.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 90854.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Assistant Professor of Business Analytics",
+      "count": 1,
+      "median_wage_usd": 90854.0
+    },
+    {
+      "title": "Director of Predictive Modeling and Forecasting",
+      "count": 1,
+      "median_wage_usd": 142084.8
+    },
+    {
+      "title": "Python Developer",
+      "count": 1,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "title": "Senior MuleSoft Developer",
+      "count": 1,
+      "median_wage_usd": 122548.14
+    },
+    {
+      "title": "PhD Program Director",
+      "count": 1,
+      "median_wage_usd": 95992.0
+    },
+    {
+      "title": "Software Development Manager",
+      "count": 1,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "Associate Vice President, Product Management",
+      "count": 1,
+      "median_wage_usd": 165000.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NH",
+      "count": 4
+    },
+    {
+      "state": "IN",
+      "count": 1
+    },
+    {
+      "state": "IA",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NH",
+      "county": "MANCHESTER CITY",
+      "count": 3
+    },
+    {
+      "state": "IN",
+      "county": "HAMILTON",
+      "count": 1
+    },
+    {
+      "state": "IA",
+      "county": "LINN",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "10/17/2018",
+      "effective_date": "10/17/2018",
+      "state": "ME",
+      "workers": 8,
+      "city": "4 - Coastal Counties Local Area 4"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 8,
+    "initial_denials": 0,
+    "continuing_approvals": 10,
+    "continuing_denials": 0,
+    "total_approvals": 18,
+    "by_fy": [
+      {
+        "fy": 2009,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2017,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 6,
+        "continuing_denials": 0,
+        "total_approvals": 6
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 6,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 7
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      }
+    ]
+  },
+  "lca_worker_positions": 7,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3021",
+    "soc_title": "Computer and Information Systems Managers",
+    "market_median_usd": 169510.0,
+    "employer_median_usd": 120000.0,
+    "gap_usd": -49510.0
+  }
+}

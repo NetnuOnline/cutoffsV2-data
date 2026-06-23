@@ -1,0 +1,99 @@
+{
+  "slug": "tiaa-bank",
+  "canonical_name": "TIAA Bank",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 7,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "FL",
+      "count": 7
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "07/06/2021",
+      "effective_date": "09/01/2021",
+      "state": "FL",
+      "workers": 21,
+      "city": "JACKSONVILLE"
+    },
+    {
+      "date": "06/01/2021",
+      "effective_date": "07/16/2021",
+      "state": "FL",
+      "workers": 48,
+      "city": "JACKSONVILLE"
+    },
+    {
+      "date": "04/27/2021",
+      "effective_date": "09/07/2021",
+      "state": "FL",
+      "workers": 90,
+      "city": "JACKSONVILLE"
+    },
+    {
+      "date": "01/04/2021",
+      "effective_date": "03/01/2021",
+      "state": "FL",
+      "workers": 59,
+      "city": "JACKSONVILLE"
+    },
+    {
+      "date": "02/21/2019",
+      "effective_date": "03/01/2019",
+      "state": "FL",
+      "workers": 139,
+      "city": "JACKSONVILLE"
+    },
+    {
+      "date": "02/21/2019",
+      "effective_date": "03/01/2019",
+      "state": "FL",
+      "workers": 22,
+      "city": "JACKSONVILLE"
+    },
+    {
+      "date": "02/21/2019",
+      "effective_date": "03/01/2019",
+      "state": "FL",
+      "workers": 10,
+      "city": "JACKSONVILLE"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "careersource-northeast-florida",
+      "name": "CareerSource Northeast Florida",
+      "state": "FL"
+    }
+  ],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2026-05-01",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-26-201455",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000092230&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 1,
+    "itemCounts": {
+      "5.02": 1
+    },
+    "latestFilingDate": "2026-05-01",
+    "earliestFilingDate": "2026-05-01"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

@@ -1,0 +1,101 @@
+{
+  "slug": "appic-solutions",
+  "canonical_name": "APPIC SOLUTIONS LLC",
+  "fein": "82-2208417",
+  "lca_filing_count": 5,
+  "lca_worker_positions": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 100000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 132000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 95400.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 96117.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SOFTWARE ENGINEER",
+      "count": 1,
+      "median_wage_usd": 132000.0
+    },
+    {
+      "title": "BUSINESS INTELLIGENCE ANALYST",
+      "count": 1,
+      "median_wage_usd": 95400.0
+    },
+    {
+      "title": "DATABASE ADMINISTRATOR",
+      "count": 1,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "title": "QUALITY ASSURANCE ANALYST",
+      "count": 1,
+      "median_wage_usd": 96117.0
+    },
+    {
+      "title": "SOFTWARE DEVELOPER",
+      "count": 1,
+      "median_wage_usd": 100000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CO",
+      "county": "ARAPAHOE",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 1
+    },
+    {
+      "state": "CO",
+      "county": "DOUGLAS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CO",
+      "count": 4
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1253",
+    "soc_title": "Software Quality Assurance Analysts and Testers",
+    "market_median_usd": 101800.0,
+    "employer_median_usd": 96117.0,
+    "gap_usd": -5683.0
+  }
+}

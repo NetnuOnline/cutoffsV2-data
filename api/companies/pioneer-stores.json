@@ -1,0 +1,51 @@
+{
+  "slug": "pioneer-stores",
+  "canonical_name": "Pioneer Stores, Inc.",
+  "fein": null,
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 90781.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 90781.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Information Systems Analyst ",
+      "count": 1,
+      "median_wage_usd": 90000.0
+    },
+    {
+      "title": "Information Systems Analyst",
+      "count": 1,
+      "median_wage_usd": 91562.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1211",
+    "soc_title": "Computer Systems Analysts",
+    "market_median_usd": 103800.0,
+    "employer_median_usd": 90781.0,
+    "gap_usd": -13019.0
+  }
+}

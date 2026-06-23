@@ -1,0 +1,52 @@
+{
+  "slug": "nielsen-bainbridge",
+  "canonical_name": "Nielsen & Bainbridge, LLC",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "AL",
+      "count": 1
+    },
+    {
+      "state": "SC",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "05/11/2023",
+      "effective_date": "05/19/2023",
+      "state": "AL",
+      "workers": 157,
+      "city": "Selma"
+    },
+    {
+      "date": "05/08/2023",
+      "effective_date": "05/19/2023",
+      "state": "SC",
+      "workers": 108,
+      "city": "Goose Creek"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "central-alabama-works",
+      "name": "Central Alabama Works",
+      "state": "AL"
+    },
+    {
+      "slug": "trident-wib",
+      "name": "Trident WIB",
+      "state": "SC"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

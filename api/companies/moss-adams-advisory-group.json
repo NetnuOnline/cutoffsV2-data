@@ -1,0 +1,93 @@
+{
+  "slug": "moss-adams-advisory-group",
+  "canonical_name": "Moss Adams Advisory Group LP",
+  "fein": "91-0189318",
+  "lca_filing_count": 8,
+  "lca_worker_positions": 8,
+  "warn_notice_count": 0,
+  "median_wage_usd": 114639.5,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 4,
+      "median_wage_usd": 124363.5
+    },
+    {
+      "fy": 2026,
+      "filings": 4,
+      "median_wage_usd": 114639.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Assurance Senior",
+      "count": 3,
+      "median_wage_usd": 107349.0
+    },
+    {
+      "title": "Mergers and Acquistions Tax Senior",
+      "count": 1,
+      "median_wage_usd": 146058.0
+    },
+    {
+      "title": "Business Risk Consulting Manager",
+      "count": 1,
+      "median_wage_usd": 141378.0
+    },
+    {
+      "title": "Transfer Pricing Senior Manager",
+      "count": 1,
+      "median_wage_usd": 120869.0
+    },
+    {
+      "title": "Business Risk Consulting Senior Manager",
+      "count": 1,
+      "median_wage_usd": 108410.0
+    },
+    {
+      "title": "BRS Internal Audit Manager",
+      "count": 1,
+      "median_wage_usd": 141378.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SACRAMENTO",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 3
+    },
+    {
+      "state": "IL",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "count": 1
+    },
+    {
+      "state": "CO",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-2011",
+    "soc_title": "Accountants and Auditors",
+    "market_median_usd": 79000.0,
+    "employer_median_usd": 114639.5,
+    "gap_usd": 35639.5
+  }
+}

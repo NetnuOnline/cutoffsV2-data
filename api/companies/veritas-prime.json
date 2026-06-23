@@ -1,0 +1,95 @@
+{
+  "slug": "veritas-prime",
+  "canonical_name": "Veritas Prime LLC",
+  "fein": "46-3896127",
+  "lca_filing_count": 8,
+  "lca_worker_positions": 44,
+  "warn_notice_count": 0,
+  "median_wage_usd": 103938.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 128315.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 74464.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 121118.0
+    },
+    {
+      "fy": 2026,
+      "filings": 5,
+      "median_wage_usd": 103938.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 4,
+      "median_wage_usd": 94838.0
+    },
+    {
+      "title": "Prime Client Support Manager",
+      "count": 1,
+      "median_wage_usd": 121118.0
+    },
+    {
+      "title": "Senior Solution Engineer",
+      "count": 1,
+      "median_wage_usd": 115336.0
+    },
+    {
+      "title": "Prime Sr. Lead ",
+      "count": 1,
+      "median_wage_usd": 128315.0
+    },
+    {
+      "title": "Prime Technology Associate Analyst",
+      "count": 1,
+      "median_wage_usd": 74464.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "ME",
+      "county": "CUMBERLAND TOWN",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "county": "ORANGE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "ME",
+      "count": 5
+    },
+    {
+      "state": "FL",
+      "count": 2
+    },
+    {
+      "state": "KS",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 103938.0,
+    "gap_usd": -26222.0
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "slug": "dana-limited",
+  "canonical_name": "Dana Limited",
+  "fein": "26-1318190",
+  "lca_filing_count": 18,
+  "lca_worker_positions": 18,
+  "warn_notice_count": 0,
+  "median_wage_usd": 112572.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 105488.5
+    },
+    {
+      "fy": 2021,
+      "filings": 5,
+      "median_wage_usd": 112572.0
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 116500.0
+    },
+    {
+      "fy": 2023,
+      "filings": 6,
+      "median_wage_usd": 107249.5
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 106090.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 154977.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 193149.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Sales & Distribution ERP Leader",
+      "count": 2,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "title": "Software Quality Assurance Engineer",
+      "count": 1,
+      "median_wage_usd": 100942.0
+    },
+    {
+      "title": "Lead Developer - Enterprise Data Services",
+      "count": 1,
+      "median_wage_usd": 122803.0
+    },
+    {
+      "title": "Motor Control Engineer",
+      "count": 1,
+      "median_wage_usd": 97888.73
+    },
+    {
+      "title": "IT Manager, SAP COE Operations",
+      "count": 1,
+      "median_wage_usd": 112572.0
+    },
+    {
+      "title": "IT Manager, Oracle Finance",
+      "count": 1,
+      "median_wage_usd": 137488.0
+    },
+    {
+      "title": "Senior International Tax Analyst",
+      "count": 1,
+      "median_wage_usd": 74018.0
+    },
+    {
+      "title": "Sr. Business Analyst - Finance",
+      "count": 1,
+      "median_wage_usd": 116500.0
+    },
+    {
+      "title": "Senior IT Manager, SAP Platform",
+      "count": 1,
+      "median_wage_usd": 154977.0
+    },
+    {
+      "title": "Senior Manager, ePropulsion Control Systems",
+      "count": 1,
+      "median_wage_usd": 193149.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MI",
+      "county": "OAKLAND",
+      "count": 11
+    },
+    {
+      "state": "OH",
+      "county": "LUCAS",
+      "count": 4
+    },
+    {
+      "state": "OH",
+      "county": "WOOD",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MI",
+      "count": 13
+    },
+    {
+      "state": "OH",
+      "count": 5
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3021",
+    "soc_title": "Computer and Information Systems Managers",
+    "market_median_usd": 169510.0,
+    "employer_median_usd": 146232.5,
+    "gap_usd": -23277.5
+  }
+}

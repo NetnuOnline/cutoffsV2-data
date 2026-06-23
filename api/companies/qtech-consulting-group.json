@@ -1,0 +1,132 @@
+{
+  "slug": "qtech-consulting-group",
+  "canonical_name": "Qtech Consulting Group, Inc.",
+  "fein": "34-2036934",
+  "lca_filing_count": 8,
+  "lca_worker_positions": 8,
+  "warn_notice_count": 0,
+  "median_wage_usd": 98956.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 83533.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 111508.5
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 98914.5
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 117114.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SAP FICO Functional Specialist",
+      "count": 1,
+      "median_wage_usd": 99258.0
+    },
+    {
+      "title": "Quality Engineer Level 2",
+      "count": 1,
+      "median_wage_usd": 98654.0
+    },
+    {
+      "title": "Sr Java Developer/Sr Software Engineer",
+      "count": 1,
+      "median_wage_usd": 134971.0
+    },
+    {
+      "title": "SAP Test Lead",
+      "count": 1,
+      "median_wage_usd": 78000.0
+    },
+    {
+      "title": "Java Developer",
+      "count": 1,
+      "median_wage_usd": 124363.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 88712.0
+    },
+    {
+      "title": "SAP SD/OTC Consultant",
+      "count": 1,
+      "median_wage_usd": 119829.0
+    },
+    {
+      "title": "Quality Engineer ",
+      "count": 1,
+      "median_wage_usd": 78354.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "OH",
+      "county": "HAMILTON",
+      "count": 2
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 2
+    },
+    {
+      "state": "MN",
+      "county": "HENNEPIN",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "county": "FAIRFAX",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "OH",
+      "count": 2
+    },
+    {
+      "state": "GA",
+      "count": 2
+    },
+    {
+      "state": "VA",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "MN",
+      "count": 1
+    },
+    {
+      "state": "MO",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 117114.5,
+    "gap_usd": -13045.5
+  }
+}

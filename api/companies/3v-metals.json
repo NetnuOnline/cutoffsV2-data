@@ -1,0 +1,57 @@
+{
+  "slug": "3v-metals",
+  "canonical_name": "3V Metals, Inc",
+  "fein": "27-1329716",
+  "lca_filing_count": 2,
+  "lca_worker_positions": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 66903.2,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 65000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 68806.4,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Manufacturing Quality Controls Engineer",
+      "count": 1,
+      "median_wage_usd": 68806.4
+    },
+    {
+      "title": "Product Manager",
+      "count": 1,
+      "median_wage_usd": 65000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "FL",
+      "county": "DUVAL",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "FL",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1161",
+    "soc_title": "Market Research Analysts and Marketing Specialists",
+    "market_median_usd": 74680.0,
+    "employer_median_usd": 65000.0,
+    "gap_usd": -9680.0
+  }
+}

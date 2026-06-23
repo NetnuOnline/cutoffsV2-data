@@ -1,0 +1,73 @@
+{
+  "slug": "topche-company",
+  "canonical_name": "Topche & Company, LLC",
+  "fein": "46-0558140",
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 80486.5,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 66000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 94973.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Semi-Senior Accountant",
+      "count": 1,
+      "median_wage_usd": 66000.0
+    },
+    {
+      "title": "Senior Accountant",
+      "count": 1,
+      "median_wage_usd": 94973.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NJ",
+      "county": "UNION",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 0,
+    "continuing_denials": 0,
+    "total_approvals": 1,
+    "by_fy": [
+      {
+        "fy": 2021,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-2011",
+    "soc_title": "Accountants and Auditors",
+    "market_median_usd": 79000.0,
+    "employer_median_usd": 94973.0,
+    "gap_usd": 15973.0
+  }
+}

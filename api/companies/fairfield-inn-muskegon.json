@@ -1,0 +1,83 @@
+{
+  "slug": "fairfield-inn-muskegon",
+  "canonical_name": "Fairfield Inn Muskegon",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 6,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "04/08/2020",
+      "effective_date": "03/10/2020",
+      "state": "NY",
+      "workers": 40,
+      "city": "New York"
+    },
+    {
+      "date": "04/02/2020",
+      "effective_date": "03/25/2020",
+      "state": "TX",
+      "workers": 56,
+      "city": "Dallas"
+    },
+    {
+      "date": "03/31/2020",
+      "effective_date": "03/31/2020",
+      "state": "MI",
+      "workers": 13,
+      "city": "Muskegon"
+    },
+    {
+      "date": "03/30/2020",
+      "effective_date": "03/23/2020",
+      "state": "NY",
+      "workers": 0,
+      "city": "New York"
+    },
+    {
+      "date": "03/30/2020",
+      "effective_date": "03/31/2020",
+      "state": "CA",
+      "workers": 68,
+      "city": "El Segundo"
+    },
+    {
+      "date": "03/25/2020",
+      "effective_date": "03/14/2020",
+      "state": "NY",
+      "workers": 27,
+      "city": "New York"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "muskegon-oceana-consortium",
+      "name": "Muskegon-Oceana Consortium",
+      "state": "MI"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

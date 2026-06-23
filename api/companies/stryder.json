@@ -1,0 +1,131 @@
+{
+  "slug": "stryder",
+  "canonical_name": "Stryder Corporation",
+  "fein": "46-5156283",
+  "lca_filing_count": 14,
+  "lca_worker_positions": 14,
+  "warn_notice_count": 0,
+  "median_wage_usd": 215000.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 195000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 217500.0
+    },
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 210000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 235000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 4,
+      "median_wage_usd": 205000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 220000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Staff Software Engineer",
+      "count": 2,
+      "median_wage_usd": 217500.0
+    },
+    {
+      "title": "Site Reliability Engineer",
+      "count": 1,
+      "median_wage_usd": 165000.0
+    },
+    {
+      "title": "Senior Product Manager, Handshake AI",
+      "count": 1,
+      "median_wage_usd": 275000.0
+    },
+    {
+      "title": "Principal Product Manager",
+      "count": 1,
+      "median_wage_usd": 245000.0
+    },
+    {
+      "title": "Growth Marketer, Handshake AI",
+      "count": 1,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "title": "Senior Mid-Market Account Executive",
+      "count": 1,
+      "median_wage_usd": 105000.0
+    },
+    {
+      "title": "Director, Employer Engineering",
+      "count": 1,
+      "median_wage_usd": 270000.0
+    },
+    {
+      "title": "AI Research Engineer",
+      "count": 1,
+      "median_wage_usd": 270000.0
+    },
+    {
+      "title": "Strategic Projects Lead",
+      "count": 1,
+      "median_wage_usd": 170000.0
+    },
+    {
+      "title": "Product Manager",
+      "count": 1,
+      "median_wage_usd": 170000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 7
+    },
+    {
+      "state": "CA",
+      "county": "MARIN",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 12
+    },
+    {
+      "state": "NY",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 220000.0,
+    "gap_usd": 89840.0
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "slug": "thierry-s",
+  "canonical_name": "Thierry's Inc",
+  "fein": null,
+  "lca_filing_count": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 72000.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 72000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Catering and Event Design ",
+      "count": 2,
+      "median_wage_usd": 72000.0
+    },
+    {
+      "title": "Catering and Event Design",
+      "count": 1,
+      "median_wage_usd": 65000.0
+    },
+    {
+      "title": "Senior Catering and Event Design",
+      "count": 1,
+      "median_wage_usd": 72000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "FL",
+      "county": "MIAMI-DADE  (OLD DEF)",
+      "count": 3
+    },
+    {
+      "state": "FL",
+      "county": "MIAMI-DADE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "FL",
+      "count": 4
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 1,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-2021",
+    "soc_title": "Marketing Managers",
+    "market_median_usd": 157620.0,
+    "employer_median_usd": 72000.0,
+    "gap_usd": -85620.0
+  }
+}

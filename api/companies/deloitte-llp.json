@@ -1,0 +1,122 @@
+{
+  "slug": "deloitte-llp",
+  "canonical_name": "Deloitte LLP",
+  "fein": "13-5133500",
+  "lca_filing_count": 13,
+  "lca_worker_positions": 27,
+  "warn_notice_count": 0,
+  "median_wage_usd": 126256.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 49536.5
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 76357.0
+    },
+    {
+      "fy": 2025,
+      "filings": 5,
+      "median_wage_usd": 184391.0
+    },
+    {
+      "fy": 2026,
+      "filings": 4,
+      "median_wage_usd": 116964.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Manager, Strategic Services",
+      "count": 4,
+      "median_wage_usd": 107224.0
+    },
+    {
+      "title": "Senior Consultant, Strategic Services",
+      "count": 3,
+      "median_wage_usd": 96928.0
+    },
+    {
+      "title": "Associate Compliance Analyst",
+      "count": 2,
+      "median_wage_usd": 49536.5
+    },
+    {
+      "title": "Senior Manager, Strategic Services",
+      "count": 2,
+      "median_wage_usd": 201095.5
+    },
+    {
+      "title": "Manager",
+      "count": 1,
+      "median_wage_usd": 126256.0
+    },
+    {
+      "title": " Senior Consultant, Strategic Services",
+      "count": 1,
+      "median_wage_usd": 137000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "FL",
+      "county": "MIAMI-DADE",
+      "count": 2
+    },
+    {
+      "state": "PA",
+      "county": "PHILADELPHIA",
+      "count": 1
+    },
+    {
+      "state": "CT",
+      "county": "NEW HAVEN CITY",
+      "count": 1
+    },
+    {
+      "state": "CT",
+      "county": "FAIRFIELD",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 4
+    },
+    {
+      "state": "FL",
+      "count": 4
+    },
+    {
+      "state": "CT",
+      "count": 2
+    },
+    {
+      "state": "PA",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "count": 1
+    },
+    {
+      "state": "OR",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Business Intelligence Analysts",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 116964.0,
+    "gap_usd": 8944.0
+  }
+}

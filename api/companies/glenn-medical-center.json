@@ -1,0 +1,36 @@
+{
+  "slug": "glenn-medical-center",
+  "canonical_name": "Glenn Medical Center",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 1,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "08/22/2025",
+      "effective_date": "10/21/2025",
+      "state": "CA",
+      "workers": 225,
+      "city": "Willows"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "ncc-north-central-counties-consortium-wib",
+      "name": "NCC (North Central Counties Consortium) WIB",
+      "state": "CA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

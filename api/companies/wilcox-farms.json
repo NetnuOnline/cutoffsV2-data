@@ -1,0 +1,43 @@
+{
+  "slug": "wilcox-farms",
+  "canonical_name": "Wilcox Farms",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "WA",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "04/03/2008",
+      "effective_date": "04/30/2008",
+      "state": "WA",
+      "workers": 47,
+      "city": "Cheney"
+    },
+    {
+      "date": "02/04/2008",
+      "effective_date": "03/31/2008",
+      "state": "WA",
+      "workers": 130,
+      "city": "Roy"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "spokane-wib",
+      "name": "Spokane WIB",
+      "state": "WA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

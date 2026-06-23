@@ -1,0 +1,46 @@
+{
+  "slug": "credit-wholesale",
+  "canonical_name": "Credit Wholesale Co, Inc.",
+  "fein": "20-8843875",
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 66950.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 66950.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Full Stack Developer",
+      "count": 2,
+      "median_wage_usd": 66950.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "TARRANT",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 1,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Computer Systems Engineers/Architects",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 66950.0,
+    "gap_usd": -51050.0
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "slug": "ibex",
+  "canonical_name": "IBEX",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 3,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "VT",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "12/22/2020",
+      "effective_date": "02/16/2021",
+      "state": "TX",
+      "workers": 248,
+      "city": "New Braunfels"
+    },
+    {
+      "date": "11/03/2017",
+      "effective_date": "11/03/2017",
+      "state": "VT",
+      "workers": 12,
+      "city": "00 - Vermont Workforce Investment Area"
+    },
+    {
+      "date": "08/14/2016",
+      "effective_date": "10/12/2016",
+      "state": "VA",
+      "workers": 215,
+      "city": "Hampton, VA"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

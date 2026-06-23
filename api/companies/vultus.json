@@ -1,0 +1,75 @@
+{
+  "slug": "vultus",
+  "canonical_name": "Vultus, Inc.",
+  "fein": "47-0968914",
+  "lca_filing_count": 4,
+  "lca_worker_positions": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 64996.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 60000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 89076.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Systems Engineer",
+      "count": 1,
+      "median_wage_usd": 60000.0
+    },
+    {
+      "title": "LiDAR Data Analyst",
+      "count": 1,
+      "median_wage_usd": 69992.0
+    },
+    {
+      "title": "Sr. Technical Project Manager",
+      "count": 1,
+      "median_wage_usd": 108160.0
+    },
+    {
+      "title": "Data Product Owner",
+      "count": 1,
+      "median_wage_usd": 60000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NJ",
+      "county": "MIDDLESEX",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "count": 1
+    },
+    {
+      "state": "LA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Information Technology Project Managers",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 84080.0,
+    "gap_usd": -33920.0
+  }
+}

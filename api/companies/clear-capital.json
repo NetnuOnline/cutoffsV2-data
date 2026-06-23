@@ -1,0 +1,47 @@
+{
+  "slug": "clear-capital",
+  "canonical_name": "Clear Capital",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "NV",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "10/13/2022",
+      "effective_date": "10/12/2022",
+      "state": "NV",
+      "workers": 300,
+      "city": "Reno, Washoe County"
+    },
+    {
+      "date": "10/11/2022",
+      "effective_date": "12/16/2022",
+      "state": "CA",
+      "workers": 108,
+      "city": "Roseville"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "golden-sierra-consortium-wib",
+      "name": "Golden Sierra Consortium WIB",
+      "state": "CA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

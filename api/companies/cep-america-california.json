@@ -1,0 +1,71 @@
+{
+  "slug": "cep-america-california",
+  "canonical_name": "CEP America-California",
+  "fein": "94-2494000",
+  "lca_filing_count": 4,
+  "warn_notice_count": 1,
+  "median_wage_usd": 277732.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 244462.4
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 264659.2
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 294923.2
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 290804.8
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Physician",
+      "count": 3,
+      "median_wage_usd": 290804.8
+    },
+    {
+      "title": "Physician, Adventist Hanford - HM",
+      "count": 1,
+      "median_wage_usd": 244462.4
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 4
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "KINGS",
+      "count": 3
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "04/27/2020",
+      "effective_date": "04/13/2020",
+      "state": "CA",
+      "workers": 62,
+      "city": "Sacramento"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "lca_worker_positions": 5,
+  "top_socs": [],
+  "lca_periods": []
+}

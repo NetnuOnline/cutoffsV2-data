@@ -1,0 +1,52 @@
+{
+  "slug": "izzy",
+  "canonical_name": "IZZY+",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "MI",
+      "count": 1
+    },
+    {
+      "state": "AL",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "05/28/2018",
+      "effective_date": "05/28/2018",
+      "state": "MI",
+      "workers": 72,
+      "city": "Spring Lake, Michigan"
+    },
+    {
+      "date": "07/31/2014",
+      "effective_date": "10/01/2014",
+      "state": "AL",
+      "workers": 204,
+      "city": "Florence"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "north-alabama-works",
+      "name": "North Alabama Works",
+      "state": "AL"
+    },
+    {
+      "slug": "ottawa-county-michigan-works",
+      "name": "Ottawa County Michigan Works!",
+      "state": "MI"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

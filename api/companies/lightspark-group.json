@@ -1,0 +1,56 @@
+{
+  "slug": "lightspark-group",
+  "canonical_name": "Lightspark Group, Inc.",
+  "fein": "88-1760276",
+  "lca_filing_count": 3,
+  "lca_worker_positions": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 230000.0,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 240000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 230000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Staff, Infra Engineer, Platform",
+      "count": 1,
+      "median_wage_usd": 240000.0
+    },
+    {
+      "title": "Staff Production Engineer",
+      "count": 1,
+      "median_wage_usd": 230000.0
+    },
+    {
+      "title": "Staff Engineer",
+      "count": 1,
+      "median_wage_usd": 230000.0
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 230000.0,
+    "gap_usd": 99840.0
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "slug": "codesmart",
+  "canonical_name": "Codesmart, Inc.",
+  "fein": null,
+  "lca_filing_count": 72,
+  "warn_notice_count": 0,
+  "median_wage_usd": 101546.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 94037.0
+    },
+    {
+      "fy": 2023,
+      "filings": 71,
+      "median_wage_usd": 101546.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "IT Consultant (BI Engineer)",
+      "count": 9,
+      "median_wage_usd": 110864.0
+    },
+    {
+      "title": "IT Consultant (Data Engineer/Lead)",
+      "count": 8,
+      "median_wage_usd": 101546.0
+    },
+    {
+      "title": "IT Consultant(Business Analyst)",
+      "count": 7,
+      "median_wage_usd": 86632.0
+    },
+    {
+      "title": "IT Consultant (Data Engineer)",
+      "count": 6,
+      "median_wage_usd": 115024.0
+    },
+    {
+      "title": "Data Engineer Tech Lead",
+      "count": 5,
+      "median_wage_usd": 128502.0
+    },
+    {
+      "title": "IT Consultant (.NET Developer) ",
+      "count": 5,
+      "median_wage_usd": 128502.0
+    },
+    {
+      "title": "Data Engineer Systems Tech Lead",
+      "count": 5,
+      "median_wage_usd": 86653.0
+    },
+    {
+      "title": "Software Development Engineer",
+      "count": 5,
+      "median_wage_usd": 128502.0
+    },
+    {
+      "title": "Software Systems Engineer",
+      "count": 4,
+      "median_wage_usd": 84666.5
+    },
+    {
+      "title": "IT Consultant(Java Developer) ",
+      "count": 4,
+      "median_wage_usd": 115024.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "WA",
+      "county": "THURSTON",
+      "count": 39
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 32
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "WA",
+      "count": 71
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 3,
+    "initial_denials": 2,
+    "continuing_approvals": 11,
+    "continuing_denials": 2,
+    "total_approvals": 14,
+    "by_fy": [
+      {
+        "fy": 2015,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2016,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2017,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 1,
+        "initial_denials": 2,
+        "continuing_approvals": 9,
+        "continuing_denials": 2,
+        "total_approvals": 10
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 4
+      }
+    ]
+  },
+  "lca_worker_positions": 72,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 128502.0,
+    "gap_usd": -1658.0
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "slug": "tiny-fish",
+  "canonical_name": "Tiny Fish Inc.",
+  "fein": "92-3850780",
+  "lca_filing_count": 5,
+  "lca_worker_positions": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 155500.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 152750.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 219000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 120000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 3,
+      "median_wage_usd": 155500.0
+    },
+    {
+      "title": "Growth Marketing Analyst",
+      "count": 1,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "Head of Product, Enterprise",
+      "count": 1,
+      "median_wage_usd": 260000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 3
+    },
+    {
+      "state": "WA",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 155500.0,
+    "gap_usd": 25340.0
+  }
+}

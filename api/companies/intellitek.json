@@ -1,0 +1,109 @@
+{
+  "slug": "intellitek",
+  "canonical_name": "Intellitek, Inc.",
+  "fein": "83-4381911",
+  "lca_filing_count": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 91520.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 78000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 93600.0
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 108160.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Management Analyst",
+      "count": 2,
+      "median_wage_usd": 90480.0
+    },
+    {
+      "title": "Business Analyst",
+      "count": 2,
+      "median_wage_usd": 95680.0
+    },
+    {
+      "title": "Business Data Analyst",
+      "count": 1,
+      "median_wage_usd": 93600.0
+    },
+    {
+      "title": "Business/Management Analyst",
+      "count": 1,
+      "median_wage_usd": 89440.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "VA",
+      "county": "LOUDOUN",
+      "count": 2
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "VA",
+      "count": 4
+    },
+    {
+      "state": "NY",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 8,
+    "initial_denials": 0,
+    "continuing_approvals": 3,
+    "continuing_denials": 0,
+    "total_approvals": 11,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 7,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 10
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 6,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1111",
+    "soc_title": "Management Analysts",
+    "market_median_usd": 99000.0,
+    "employer_median_usd": 93600.0,
+    "gap_usd": -5400.0
+  }
+}

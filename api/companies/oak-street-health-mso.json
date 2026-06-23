@@ -1,0 +1,238 @@
+{
+  "slug": "oak-street-health-mso",
+  "canonical_name": "Oak Street Health MSO, LLC",
+  "fein": "46-2605165",
+  "lca_filing_count": 26,
+  "warn_notice_count": 2,
+  "median_wage_usd": 125000.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 137500.0
+    },
+    {
+      "fy": 2023,
+      "filings": 13,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 10,
+      "median_wage_usd": 120948.95999999999
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 151885.12
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Engineer II, Data Engineering",
+      "count": 3,
+      "median_wage_usd": 120349.0
+    },
+    {
+      "title": "Engineer I, Data Engineer",
+      "count": 2,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "title": "Sr. Engineer I, Data Engineering",
+      "count": 2,
+      "median_wage_usd": 142500.0
+    },
+    {
+      "title": "Sr. Software Engineer",
+      "count": 1,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "title": "Manager, Test Engineering - Data",
+      "count": 1,
+      "median_wage_usd": 143000.0
+    },
+    {
+      "title": "Senior Engineer I, Data Engineer",
+      "count": 1,
+      "median_wage_usd": 155000.0
+    },
+    {
+      "title": "Sr. Manager, Test Engineering - Data",
+      "count": 1,
+      "median_wage_usd": 155000.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "title": "Engineer II, Test Engineering - Front End",
+      "count": 1,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "title": "Lead Engineer - Site Reliability Engineer (SRE)",
+      "count": 1,
+      "median_wage_usd": 150000.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 9
+    },
+    {
+      "state": "IL",
+      "count": 8
+    },
+    {
+      "state": "NJ",
+      "count": 3
+    },
+    {
+      "state": "AZ",
+      "count": 2
+    },
+    {
+      "state": "UT",
+      "count": 1
+    },
+    {
+      "state": "WI",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 7
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 4
+    },
+    {
+      "state": "NJ",
+      "county": "MIDDLESEX",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 2
+    },
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 2
+    },
+    {
+      "state": "WA",
+      "county": "SNOHOMISH",
+      "count": 1
+    },
+    {
+      "state": "UT",
+      "county": "SALT LAKE",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "county": "DUPAGE",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "11/07/2025",
+      "effective_date": "02/27/2026",
+      "state": "IL",
+      "workers": 28,
+      "city": "Chicago"
+    },
+    {
+      "date": "11/07/2025",
+      "effective_date": "01/09/2026",
+      "state": "IL",
+      "workers": 191,
+      "city": "Chicago"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "chicago-cook-wib",
+      "name": "Chicago-Cook WIB",
+      "state": "IL"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 5,
+    "continuing_denials": 0,
+    "total_approvals": 5,
+    "by_fy": [
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      }
+    ]
+  },
+  "lca_worker_positions": 26,
+  "top_socs": [],
+  "lca_periods": []
+}

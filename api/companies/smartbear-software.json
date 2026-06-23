@@ -1,0 +1,86 @@
+{
+  "slug": "smartbear-software",
+  "canonical_name": "Smartbear Software Inc.",
+  "fein": "94-3340607",
+  "lca_filing_count": 4,
+  "lca_worker_positions": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 153367.89,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 80000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 176735.78
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 228227.74,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Director, Product Management",
+      "count": 1,
+      "median_wage_usd": 228227.74
+    },
+    {
+      "title": "Senior Machine Learning Engineer ",
+      "count": 1,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Senior Growth Marketing Specialist",
+      "count": 1,
+      "median_wage_usd": 80000.0
+    },
+    {
+      "title": "Senior Manager of Product Management",
+      "count": 1,
+      "median_wage_usd": 176735.78
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MA",
+      "county": "SOMERVILLE CITY",
+      "count": 3
+    },
+    {
+      "state": "CO",
+      "county": "LARIMER",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MA",
+      "count": 3
+    },
+    {
+      "state": "CO",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-2021",
+    "soc_title": "Marketing Managers",
+    "market_median_usd": 157620.0,
+    "employer_median_usd": 228227.74,
+    "gap_usd": 70607.74
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "slug": "marriott-int",
+  "canonical_name": "MARRIOTT INT.",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 1,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "03/25/2005",
+      "effective_date": "03/25/2005",
+      "state": "NJ",
+      "workers": 182,
+      "city": "SOMERSET"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2011-09-09",
+        "formType": "8-K",
+        "accessionNumber": "0001181431-11-048654",
+        "items": [
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001048286&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2009-09-23",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-09-196196",
+        "items": [
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001048286&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2008-09-10",
+        "formType": "8-K",
+        "accessionNumber": "0001181431-08-052353",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001048286&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 3,
+    "itemCounts": {
+      "2.06": 2,
+      "5.02": 1
+    },
+    "latestFilingDate": "2011-09-09",
+    "earliestFilingDate": "2008-09-10"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

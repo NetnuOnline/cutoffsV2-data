@@ -1,0 +1,105 @@
+{
+  "slug": "bluelink-it-services",
+  "canonical_name": "BLUELINK IT SERVICES, LLC",
+  "fein": "93-2742626",
+  "lca_filing_count": 13,
+  "lca_worker_positions": 11,
+  "warn_notice_count": 0,
+  "median_wage_usd": 98925.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 5,
+      "median_wage_usd": 86923.0
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 98925.0
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 112923.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SOFTWARE ENGINEER",
+      "count": 4,
+      "median_wage_usd": 109460.0
+    },
+    {
+      "title": "QA ENGINEER",
+      "count": 2,
+      "median_wage_usd": 86923.0
+    },
+    {
+      "title": "BUSINESS SYSTEMS ANALYST",
+      "count": 2,
+      "median_wage_usd": 102500.0
+    },
+    {
+      "title": "QA ANALYST",
+      "count": 1,
+      "median_wage_usd": 91374.0
+    },
+    {
+      "title": "HUMAN RESOURCE SPECIALIST",
+      "count": 1,
+      "median_wage_usd": 85000.0
+    },
+    {
+      "title": "SYSTEMS ADMINISTRATOR",
+      "count": 1,
+      "median_wage_usd": 87000.0
+    },
+    {
+      "title": "Systems Analyst",
+      "count": 1,
+      "median_wage_usd": 98925.0
+    },
+    {
+      "title": "Senior IT Systems Analyst",
+      "count": 1,
+      "median_wage_usd": 149344.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 4
+    },
+    {
+      "state": "AR",
+      "county": "PULASKI",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 11
+    },
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "AR",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1253",
+    "soc_title": "Software Quality Assurance Analysts and Testers",
+    "market_median_usd": 101800.0,
+    "employer_median_usd": 86923.0,
+    "gap_usd": -14877.0
+  }
+}

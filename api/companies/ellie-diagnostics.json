@@ -1,0 +1,61 @@
+{
+  "slug": "ellie-diagnostics",
+  "canonical_name": "Ellie Diagnostics",
+  "fein": "82-5493300",
+  "lca_filing_count": 4,
+  "lca_worker_positions": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 163130.0,
+  "by_fy": [
+    {
+      "fy": 2026,
+      "filings": 4,
+      "median_wage_usd": 163130.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Chief Technology Officer (CTO)",
+      "count": 4,
+      "median_wage_usd": 163130.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 2
+    },
+    {
+      "state": "KY",
+      "county": "JEFFERSON",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 3
+    },
+    {
+      "state": "KY",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3021",
+    "soc_title": "Computer and Information Systems Managers",
+    "market_median_usd": 169510.0,
+    "employer_median_usd": 171829.0,
+    "gap_usd": 2319.0
+  }
+}

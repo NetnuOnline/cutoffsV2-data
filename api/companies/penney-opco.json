@@ -1,0 +1,149 @@
+{
+  "slug": "penney-opco",
+  "canonical_name": "Penney OpCo, LLC",
+  "fein": "85-3718114",
+  "lca_filing_count": 41,
+  "lca_worker_positions": 41,
+  "warn_notice_count": 0,
+  "median_wage_usd": 140731.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 8,
+      "median_wage_usd": 128315.0
+    },
+    {
+      "fy": 2022,
+      "filings": 6,
+      "median_wage_usd": 119974.0
+    },
+    {
+      "fy": 2023,
+      "filings": 11,
+      "median_wage_usd": 148470.0
+    },
+    {
+      "fy": 2024,
+      "filings": 4,
+      "median_wage_usd": 117572.0
+    },
+    {
+      "fy": 2025,
+      "filings": 11,
+      "median_wage_usd": 142030.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 365000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Engineer",
+      "count": 6,
+      "median_wage_usd": 138515.0
+    },
+    {
+      "title": "Senior Manager",
+      "count": 3,
+      "median_wage_usd": 174610.0
+    },
+    {
+      "title": "Principal Architect",
+      "count": 2,
+      "median_wage_usd": 148366.0
+    },
+    {
+      "title": "Senior Engineer - Site Reliability",
+      "count": 2,
+      "median_wage_usd": 140731.0
+    },
+    {
+      "title": "Senior Engineer - Big Data & Analytics",
+      "count": 2,
+      "median_wage_usd": 128315.0
+    },
+    {
+      "title": "Senior Engineer ",
+      "count": 1,
+      "median_wage_usd": 128315.0
+    },
+    {
+      "title": "Senior Product Manager",
+      "count": 1,
+      "median_wage_usd": 124030.0
+    },
+    {
+      "title": "Senior Manager, Digital Engineering",
+      "count": 1,
+      "median_wage_usd": 168106.0
+    },
+    {
+      "title": "Lead Engineer",
+      "count": 1,
+      "median_wage_usd": 170187.0
+    },
+    {
+      "title": "Director \u201c Data, Analytics Engineering",
+      "count": 1,
+      "median_wage_usd": 216000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 15
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 11
+    },
+    {
+      "state": "NY",
+      "county": "KINGS",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "county": "NORFOLK",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 38
+    },
+    {
+      "state": "GA",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 152647.5,
+    "gap_usd": 22487.5
+  }
+}

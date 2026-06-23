@@ -1,0 +1,54 @@
+{
+  "slug": "emd-chemicals",
+  "canonical_name": "EMD Chemicals, Inc.",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 3,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 2
+    },
+    {
+      "state": "NY",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "12/31/2010",
+      "effective_date": "12/31/2010",
+      "state": "NJ",
+      "workers": 18,
+      "city": "Gibbstown"
+    },
+    {
+      "date": "12/18/2009",
+      "effective_date": "12/18/2009",
+      "state": "NJ",
+      "workers": 50,
+      "city": "GIBBSTOWN"
+    },
+    {
+      "date": "07/18/2007",
+      "effective_date": "11/30/2007",
+      "state": "NY",
+      "workers": 0,
+      "city": "Hawthorne"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "gloucester-wib",
+      "name": "Gloucester WIB",
+      "state": "NJ"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

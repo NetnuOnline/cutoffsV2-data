@@ -1,0 +1,89 @@
+{
+  "slug": "inform-diagnostics",
+  "canonical_name": "Inform Diagnostics, Inc.",
+  "fein": null,
+  "lca_filing_count": 1,
+  "warn_notice_count": 1,
+  "median_wage_usd": 135096.3,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 135096.3
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Director \u2013 IT Lab Solutions",
+      "count": 1,
+      "median_wage_usd": 135096.3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "08/05/2019",
+      "effective_date": "10/01/2019",
+      "state": "AL",
+      "workers": 72,
+      "city": "Daphne"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "southwest-alabama-works",
+      "name": "Southwest Alabama Works",
+      "state": "AL"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 4,
+    "continuing_denials": 0,
+    "total_approvals": 4,
+    "by_fy": [
+      {
+        "fy": 2020,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      }
+    ]
+  },
+  "lca_worker_positions": 1,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3021",
+    "soc_title": "Computer and Information Systems Managers",
+    "market_median_usd": 169510.0,
+    "employer_median_usd": 135096.3,
+    "gap_usd": -34413.7
+  }
+}

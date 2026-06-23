@@ -1,0 +1,47 @@
+{
+  "slug": "bernicks",
+  "canonical_name": "Bernick's",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "WI",
+      "count": 1
+    },
+    {
+      "state": "MN",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "04/03/2020",
+      "effective_date": "04/01/2020",
+      "state": "WI",
+      "workers": 25,
+      "city": "Dresser, Superior"
+    },
+    {
+      "date": "04/01/2020",
+      "effective_date": "04/01/2020",
+      "state": "MN",
+      "workers": 11,
+      "city": "Bemidji"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "west-central-wda-wi",
+      "name": "West Central WDA",
+      "state": "WI"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

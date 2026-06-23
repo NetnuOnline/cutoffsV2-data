@@ -1,0 +1,120 @@
+{
+  "slug": "globalfoundries",
+  "canonical_name": "GlobalFoundries U.S., Inc.",
+  "fein": null,
+  "lca_filing_count": 46,
+  "warn_notice_count": 8,
+  "median_wage_usd": 124467,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 0,
+      "median_wage_usd": null
+    },
+    {
+      "fy": 2026,
+      "filings": 0,
+      "median_wage_usd": null
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Product Marketing Manager",
+      "count": 0,
+      "median_wage_usd": null
+    },
+    {
+      "title": "Manager Process Engineering",
+      "count": 0,
+      "median_wage_usd": null
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 5
+    },
+    {
+      "state": "CA",
+      "count": 2
+    },
+    {
+      "state": "VT",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "12/16/2022",
+      "effective_date": "03/17/2023",
+      "state": "CA",
+      "workers": 50,
+      "city": "Santa Clara"
+    },
+    {
+      "date": "12/16/2022",
+      "effective_date": "03/17/2023",
+      "state": "NY",
+      "workers": 18,
+      "city": "Hopewell Junction"
+    },
+    {
+      "date": "12/16/2022",
+      "effective_date": "03/17/2023",
+      "state": "NY",
+      "workers": 221,
+      "city": "Ballston Spa"
+    },
+    {
+      "date": "09/28/2022",
+      "effective_date": "09/28/2022",
+      "state": "NY",
+      "workers": 1056,
+      "city": "Hopewell Junction"
+    },
+    {
+      "date": "08/28/2018",
+      "effective_date": "11/28/2018",
+      "state": "NY",
+      "workers": 31,
+      "city": "Albany"
+    },
+    {
+      "date": "08/28/2018",
+      "effective_date": "11/28/2018",
+      "state": "NY",
+      "workers": 424,
+      "city": "Malta"
+    },
+    {
+      "date": "06/20/2018",
+      "effective_date": "08/20/2018",
+      "state": "CA",
+      "workers": 87,
+      "city": "Santa Clara"
+    },
+    {
+      "date": "06/20/2018",
+      "effective_date": "06/20/2018",
+      "state": "VT",
+      "workers": 116,
+      "city": "00 - Vermont Workforce Investment Area"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "saratogawarrenwashington-lwia",
+      "name": "Saratoga/Warren/Washington LWIA",
+      "state": "NY"
+    },
+    {
+      "slug": "dutchess-county-lwia",
+      "name": "Dutchess County LWIA",
+      "state": "NY"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

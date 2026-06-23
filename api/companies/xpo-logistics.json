@@ -1,0 +1,493 @@
+{
+  "slug": "xpo-logistics",
+  "canonical_name": "XPO Logistics, Inc.",
+  "fein": null,
+  "lca_filing_count": 5,
+  "warn_notice_count": 40,
+  "median_wage_usd": 108000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 4,
+      "median_wage_usd": 106500.0
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 116272.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "LEAD ENGINEER, BUSINESS INTELLIGENCE",
+      "count": 1,
+      "median_wage_usd": 108000.0
+    },
+    {
+      "title": "ENGINEER, BUSINESS INTELLIGENCE",
+      "count": 1,
+      "median_wage_usd": 86000.0
+    },
+    {
+      "title": "Manager, Financial Planning and Analysis ",
+      "count": 1,
+      "median_wage_usd": 116272.0
+    },
+    {
+      "title": "SENIOR ENGINEER, BUSINESS INTELLIGENCE",
+      "count": 1,
+      "median_wage_usd": 105000.0
+    },
+    {
+      "title": "SENIOR MANAGER, TECHNOLOGY PMO",
+      "count": 1,
+      "median_wage_usd": 145000.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NC",
+      "count": 4
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NC",
+      "county": "MECKLENBURG",
+      "count": 4
+    },
+    {
+      "state": "GA",
+      "county": "COBB",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "07/01/2021",
+      "effective_date": "08/02/2021",
+      "state": "TX",
+      "workers": 29,
+      "city": "San Antonio"
+    },
+    {
+      "date": "03/16/2021",
+      "effective_date": "05/17/2021",
+      "state": "IA",
+      "workers": 58,
+      "city": "Des Moines"
+    },
+    {
+      "date": "02/22/2021",
+      "effective_date": "04/19/2021",
+      "state": "WA",
+      "workers": 104,
+      "city": "Everett"
+    },
+    {
+      "date": "02/15/2021",
+      "effective_date": "02/15/2021",
+      "state": "GA",
+      "workers": 194,
+      "city": "Kennesaw"
+    },
+    {
+      "date": "01/29/2021",
+      "effective_date": "01/29/2021",
+      "state": "AZ",
+      "workers": 85,
+      "city": "Phoenix"
+    },
+    {
+      "date": "01/27/2021",
+      "effective_date": "03/15/2021",
+      "state": "IA",
+      "workers": 108,
+      "city": "Des Moines"
+    },
+    {
+      "date": "01/05/2021",
+      "effective_date": "02/15/2021",
+      "state": "IL",
+      "workers": 227,
+      "city": "Joliet"
+    },
+    {
+      "date": "11/13/2020",
+      "effective_date": "01/10/2021",
+      "state": "TX",
+      "workers": 53,
+      "city": "Lancaster"
+    },
+    {
+      "date": "08/04/2020",
+      "effective_date": "09/30/2020",
+      "state": "MO",
+      "workers": 70,
+      "city": "Independence"
+    },
+    {
+      "date": "07/20/2020",
+      "effective_date": "07/20/2020",
+      "state": "NE",
+      "workers": 67,
+      "city": null
+    },
+    {
+      "date": "05/31/2020",
+      "effective_date": "05/31/2020",
+      "state": "GA",
+      "workers": 226,
+      "city": "Fairburn"
+    },
+    {
+      "date": "05/18/2020",
+      "effective_date": "07/17/2020",
+      "state": "TX",
+      "workers": 243,
+      "city": "Dallas"
+    },
+    {
+      "date": "04/13/2020",
+      "effective_date": "04/08/2020",
+      "state": "CA",
+      "workers": 148,
+      "city": "Redlands"
+    },
+    {
+      "date": "02/12/2020",
+      "effective_date": "04/12/2020",
+      "state": "TX",
+      "workers": 304,
+      "city": "Ft. Worth"
+    },
+    {
+      "date": "01/20/2020",
+      "effective_date": "03/20/2020",
+      "state": "CO",
+      "workers": 169,
+      "city": "Jefferson (Golden)"
+    },
+    {
+      "date": "01/17/2020",
+      "effective_date": "03/20/2020",
+      "state": "OH",
+      "workers": 185,
+      "city": "West Jefferson/Madison"
+    },
+    {
+      "date": "01/15/2020",
+      "effective_date": "03/20/2020",
+      "state": "CO",
+      "workers": 0,
+      "city": "Jefferson (Golden)"
+    },
+    {
+      "date": "12/09/2019",
+      "effective_date": "02/07/2020",
+      "state": "MO",
+      "workers": 166,
+      "city": "Hazelwood"
+    },
+    {
+      "date": "11/26/2019",
+      "effective_date": "01/01/2020",
+      "state": "IL",
+      "workers": 530,
+      "city": "21100 S SW Frontage Rd.  Shorewood, IL 60404"
+    },
+    {
+      "date": "08/16/2019",
+      "effective_date": "08/16/2019",
+      "state": "NJ",
+      "workers": 269,
+      "city": "Swedesboro"
+    },
+    {
+      "date": "08/09/2019",
+      "effective_date": "10/01/2019",
+      "state": "IL",
+      "workers": 755,
+      "city": "Manteno"
+    },
+    {
+      "date": "05/21/2019",
+      "effective_date": "07/15/2019",
+      "state": "TN",
+      "workers": 881,
+      "city": "Shelby County"
+    },
+    {
+      "date": "03/20/2019",
+      "effective_date": "05/17/2019",
+      "state": "CA",
+      "workers": 162,
+      "city": "Tracy"
+    },
+    {
+      "date": "03/19/2019",
+      "effective_date": "04/29/2019",
+      "state": "TX",
+      "workers": 92,
+      "city": "Dallas"
+    },
+    {
+      "date": "02/15/2019",
+      "effective_date": "04/15/2019",
+      "state": "TN",
+      "workers": 446,
+      "city": "Shelby County"
+    },
+    {
+      "date": "01/25/2019",
+      "effective_date": "03/18/2019",
+      "state": "MD",
+      "workers": 167,
+      "city": "Aberdeen"
+    },
+    {
+      "date": "01/24/2019",
+      "effective_date": "03/18/2019",
+      "state": "CA",
+      "workers": 126,
+      "city": "Rialto"
+    },
+    {
+      "date": "01/24/2019",
+      "effective_date": "01/24/2019",
+      "state": "KS",
+      "workers": 136,
+      "city": "3 - Workforce Investment Area III"
+    },
+    {
+      "date": "08/16/2018",
+      "effective_date": "10/20/2018",
+      "state": "CA",
+      "workers": 74,
+      "city": "Tracy"
+    },
+    {
+      "date": "08/09/2018",
+      "effective_date": "09/10/2018",
+      "state": "TX",
+      "workers": 67,
+      "city": "Coppell"
+    },
+    {
+      "date": "07/11/2018",
+      "effective_date": "09/30/2018",
+      "state": "TX",
+      "workers": 69,
+      "city": "Ft. Worth"
+    },
+    {
+      "date": "06/10/2018",
+      "effective_date": "06/10/2018",
+      "state": "GA",
+      "workers": 53,
+      "city": "Fayetteville"
+    },
+    {
+      "date": "02/28/2018",
+      "effective_date": "02/28/2018",
+      "state": "GA",
+      "workers": 75,
+      "city": "Midland"
+    },
+    {
+      "date": "02/09/2018",
+      "effective_date": "03/31/2018",
+      "state": "TX",
+      "workers": 58,
+      "city": "Flower Mound"
+    },
+    {
+      "date": "05/10/2017",
+      "effective_date": "07/11/2017",
+      "state": "MO",
+      "workers": 0,
+      "city": "Kansas City"
+    },
+    {
+      "date": "03/15/2017",
+      "effective_date": "05/01/2017",
+      "state": "IL",
+      "workers": 162,
+      "city": "Romeoville"
+    },
+    {
+      "date": "02/28/2017",
+      "effective_date": "04/20/2017",
+      "state": "MO",
+      "workers": 204,
+      "city": "Kinloch, Vinita Park, Hazelwood"
+    },
+    {
+      "date": "10/27/2016",
+      "effective_date": "12/31/2016",
+      "state": "ND",
+      "workers": 345,
+      "city": "Bismarck, ND"
+    },
+    {
+      "date": "09/30/2016",
+      "effective_date": "10/31/2016",
+      "state": "IA",
+      "workers": 37,
+      "city": "Des Moines"
+    },
+    {
+      "date": "01/22/2016",
+      "effective_date": "03/23/2016",
+      "state": "IA",
+      "workers": 97,
+      "city": "Des Moines"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "upper-arkansas-wib",
+      "name": "Upper Arkansas WIB",
+      "state": "CO"
+    },
+    {
+      "slug": "cobb-county-wib",
+      "name": "Cobb County WIB",
+      "state": "GA"
+    },
+    {
+      "slug": "lower-chattahoochee-wib",
+      "name": "Lower Chattahoochee WIB",
+      "state": "GA"
+    },
+    {
+      "slug": "wib-of-will-county",
+      "name": "WIB of Will County",
+      "state": "IL"
+    },
+    {
+      "slug": "grundy-livingston-kankakee-wib",
+      "name": "Grundy-Livingston-Kankakee WIB",
+      "state": "IL"
+    },
+    {
+      "slug": "susquehanna-wia",
+      "name": "Susquehanna WIA",
+      "state": "MD"
+    },
+    {
+      "slug": "kansas-city-vicinity-region-wib",
+      "name": "Kansas City Vicinity Region WIB",
+      "state": "MO"
+    },
+    {
+      "slug": "gloucester-wib",
+      "name": "Gloucester WIB",
+      "state": "NJ"
+    },
+    {
+      "slug": "snohomish-county-wib",
+      "name": "Snohomish County WIB",
+      "state": "WA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 7,
+    "initial_denials": 1,
+    "continuing_approvals": 41,
+    "continuing_denials": 0,
+    "total_approvals": 48,
+    "by_fy": [
+      {
+        "fy": 2013,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2014,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2015,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2016,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2017,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 2,
+        "initial_denials": 1,
+        "continuing_approvals": 12,
+        "continuing_denials": 0,
+        "total_approvals": 14
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 4,
+        "initial_denials": 0,
+        "continuing_approvals": 16,
+        "continuing_denials": 0,
+        "total_approvals": 20
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 13,
+        "continuing_denials": 0,
+        "total_approvals": 14
+      }
+    ]
+  },
+  "lca_worker_positions": 5,
+  "top_socs": [],
+  "lca_periods": []
+}

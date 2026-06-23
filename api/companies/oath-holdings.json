@@ -1,0 +1,239 @@
+{
+  "slug": "oath-holdings",
+  "canonical_name": "Oath Holdings, Inc.",
+  "fein": null,
+  "lca_filing_count": 236,
+  "warn_notice_count": 0,
+  "median_wage_usd": 174183.74,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 25,
+      "median_wage_usd": 155000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 67,
+      "median_wage_usd": 160000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 142,
+      "median_wage_usd": 179550.635
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Dev Engineer II",
+      "count": 20,
+      "median_wage_usd": 153807.995
+    },
+    {
+      "title": "Sr Software Dev Engineer",
+      "count": 18,
+      "median_wage_usd": 179785.5
+    },
+    {
+      "title": "Princ Software Dev Engineer",
+      "count": 13,
+      "median_wage_usd": 210001.92
+    },
+    {
+      "title": "Sr. Software Dev Engineer",
+      "count": 11,
+      "median_wage_usd": 174000.0
+    },
+    {
+      "title": "Software Dev Engineer I",
+      "count": 10,
+      "median_wage_usd": 130686.165
+    },
+    {
+      "title": "Princ Software Dev Engineer ",
+      "count": 5,
+      "median_wage_usd": 211240.73
+    },
+    {
+      "title": "Software Dev Engineer",
+      "count": 4,
+      "median_wage_usd": 142088.965
+    },
+    {
+      "title": "Sr. Software Development Engineer                  ",
+      "count": 3,
+      "median_wage_usd": 174260.0
+    },
+    {
+      "title": "Software Apps Engineer",
+      "count": 3,
+      "median_wage_usd": 142178.63
+    },
+    {
+      "title": "Service Reliability Engineer I",
+      "count": 3,
+      "median_wage_usd": 121388.8
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 162
+    },
+    {
+      "state": "VA",
+      "county": "LOUDOUN",
+      "count": 17
+    },
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 9
+    },
+    {
+      "state": "IL",
+      "county": "CHAMPAIGN",
+      "count": 8
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 7
+    },
+    {
+      "state": "MD",
+      "county": "BALTIMORE CITY",
+      "count": 5
+    },
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 5
+    },
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 3
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 2
+    },
+    {
+      "state": "NY",
+      "county": "QUEENS",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 179
+    },
+    {
+      "state": "VA",
+      "count": 17
+    },
+    {
+      "state": "NY",
+      "count": 12
+    },
+    {
+      "state": "IL",
+      "count": 8
+    },
+    {
+      "state": "MD",
+      "count": 7
+    },
+    {
+      "state": "TX",
+      "count": 3
+    },
+    {
+      "state": "NC",
+      "count": 2
+    },
+    {
+      "state": "WA",
+      "count": 2
+    },
+    {
+      "state": "MA",
+      "count": 1
+    },
+    {
+      "state": "SC",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 283,
+    "initial_denials": 2,
+    "continuing_approvals": 1201,
+    "continuing_denials": 29,
+    "total_approvals": 1484,
+    "by_fy": [
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 138,
+        "initial_denials": 1,
+        "continuing_approvals": 381,
+        "continuing_denials": 12,
+        "total_approvals": 519
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 81,
+        "initial_denials": 1,
+        "continuing_approvals": 314,
+        "continuing_denials": 0,
+        "total_approvals": 395
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 61,
+        "initial_denials": 0,
+        "continuing_approvals": 317,
+        "continuing_denials": 10,
+        "total_approvals": 378
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 3,
+        "initial_denials": 0,
+        "continuing_approvals": 189,
+        "continuing_denials": 7,
+        "total_approvals": 192
+      }
+    ]
+  },
+  "lca_worker_positions": 234,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 187176.61,
+    "gap_usd": 57016.61
+  }
+}

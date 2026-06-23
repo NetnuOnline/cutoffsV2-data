@@ -1,0 +1,199 @@
+{
+  "slug": "archer-daniels-midland-company",
+  "canonical_name": "Archer Daniels Midland Company",
+  "fein": "41-0129150",
+  "lca_filing_count": 168,
+  "lca_worker_positions": 167,
+  "warn_notice_count": 0,
+  "median_wage_usd": 130000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 17,
+      "median_wage_usd": 110406.0
+    },
+    {
+      "fy": 2021,
+      "filings": 28,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 23,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 28,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 30,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 18,
+      "median_wage_usd": 126000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 23,
+      "median_wage_usd": 140000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "IT Test Lead",
+      "count": 4,
+      "median_wage_usd": 132500.0
+    },
+    {
+      "title": "Analyst",
+      "count": 3,
+      "median_wage_usd": 67288.0
+    },
+    {
+      "title": "Qlik Replicate Developer",
+      "count": 3,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "Senior Data Engineer",
+      "count": 3,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "title": "Process Engineer",
+      "count": 2,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "GT Sr. Salesforce Developer",
+      "count": 2,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "title": "Deployment Specialist - PTD",
+      "count": 2,
+      "median_wage_usd": 137500.0
+    },
+    {
+      "title": "Analytics Operations Lead",
+      "count": 2,
+      "median_wage_usd": 160000.0
+    },
+    {
+      "title": "Systems Analyst",
+      "count": 2,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "title": "Senior Project Manager",
+      "count": 2,
+      "median_wage_usd": 132500.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "KY",
+      "county": "KENTON",
+      "count": 97
+    },
+    {
+      "state": "IL",
+      "county": "MACON",
+      "count": 21
+    },
+    {
+      "state": "KY",
+      "county": "BOONE",
+      "count": 2
+    },
+    {
+      "state": "IA",
+      "county": "LINN",
+      "count": 1
+    },
+    {
+      "state": "IN",
+      "county": "MARION",
+      "count": 1
+    },
+    {
+      "state": "IN",
+      "county": "BARTHOLOMEW",
+      "count": 1
+    },
+    {
+      "state": "IA",
+      "county": "POLK",
+      "count": 1
+    },
+    {
+      "state": "OH",
+      "county": "DELAWARE",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "county": "BAY",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "county": "SCOTT",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "KY",
+      "count": 126
+    },
+    {
+      "state": "IL",
+      "count": 31
+    },
+    {
+      "state": "IA",
+      "count": 3
+    },
+    {
+      "state": "GA",
+      "count": 2
+    },
+    {
+      "state": "IN",
+      "count": 2
+    },
+    {
+      "state": "MI",
+      "count": 1
+    },
+    {
+      "state": "ND",
+      "count": 1
+    },
+    {
+      "state": "OH",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 135000.0,
+    "gap_usd": 4840.0
+  }
+}

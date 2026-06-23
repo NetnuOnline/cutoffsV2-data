@@ -1,0 +1,119 @@
+{
+  "slug": "savvients",
+  "canonical_name": "Savvients Inc",
+  "fein": "86-1943786",
+  "lca_filing_count": 29,
+  "lca_worker_positions": 26,
+  "warn_notice_count": 0,
+  "median_wage_usd": 84000.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 9,
+      "median_wage_usd": 82000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 5,
+      "median_wage_usd": 84000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 10,
+      "median_wage_usd": 89700.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 98688.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 13,
+      "median_wage_usd": 84000.0
+    },
+    {
+      "title": "Software Developer I",
+      "count": 7,
+      "median_wage_usd": 88200.0
+    },
+    {
+      "title": "Database Administrator",
+      "count": 2,
+      "median_wage_usd": 90000.0
+    },
+    {
+      "title": "Software Quality Engineer",
+      "count": 2,
+      "median_wage_usd": 98688.0
+    },
+    {
+      "title": "Data Scientist",
+      "count": 2,
+      "median_wage_usd": 78000.0
+    },
+    {
+      "title": "IT Project Manager",
+      "count": 1,
+      "median_wage_usd": 84000.0
+    },
+    {
+      "title": "Data Analyst",
+      "count": 1,
+      "median_wage_usd": 75000.0
+    },
+    {
+      "title": "Software Developer II",
+      "count": 1,
+      "median_wage_usd": 112800.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 15
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "county": "BOSTON CITY",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "AZ",
+      "count": 20
+    },
+    {
+      "state": "TX",
+      "count": 7
+    },
+    {
+      "state": "NC",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 87936.0,
+    "gap_usd": -42224.0
+  }
+}

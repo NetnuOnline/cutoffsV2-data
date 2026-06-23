@@ -1,0 +1,84 @@
+{
+  "slug": "hmh-education-company",
+  "canonical_name": "HMH Education Company",
+  "fein": "04-1456030",
+  "lca_filing_count": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 126935.5,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 113748.5
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 151985.5
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 118900.0
+    },
+    {
+      "title": "Staff Software Engineer",
+      "count": 1,
+      "median_wage_usd": 169000.0
+    },
+    {
+      "title": "DevOps Engineer",
+      "count": 1,
+      "median_wage_usd": 108597.0
+    },
+    {
+      "title": "Senior DevOps Engineer",
+      "count": 1,
+      "median_wage_usd": 134971.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MN",
+      "county": "DAKOTA",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "county": "BOSTON CITY",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "MA",
+      "count": 1
+    },
+    {
+      "state": "MN",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 126935.5,
+    "gap_usd": -3224.5
+  }
+}

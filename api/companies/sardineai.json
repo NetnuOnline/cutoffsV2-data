@@ -1,0 +1,124 @@
+{
+  "slug": "sardineai",
+  "canonical_name": "SardineAI Corp.",
+  "fein": "84-5138676",
+  "lca_filing_count": 7,
+  "lca_worker_positions": 7,
+  "warn_notice_count": 0,
+  "median_wage_usd": 190000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 160000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 145000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 190000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 213650.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 210000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 270000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Software Engineer ",
+      "count": 2,
+      "median_wage_usd": 152500.0
+    },
+    {
+      "title": "Tech Lead - DevOps",
+      "count": 1,
+      "median_wage_usd": 213650.0
+    },
+    {
+      "title": "Sr. Backend Engineer",
+      "count": 1,
+      "median_wage_usd": 190000.0
+    },
+    {
+      "title": "Senior Product Manager - Compliance",
+      "count": 1,
+      "median_wage_usd": 250000.0
+    },
+    {
+      "title": "Director of Fraud Engineering",
+      "count": 1,
+      "median_wage_usd": 270000.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 170000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 190000.0,
+    "gap_usd": 59840.0
+  }
+}

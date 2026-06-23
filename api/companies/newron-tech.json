@@ -1,0 +1,199 @@
+{
+  "slug": "newron-tech",
+  "canonical_name": "Newron Tech Inc",
+  "fein": "47-5577424",
+  "lca_filing_count": 28,
+  "lca_worker_positions": 28,
+  "warn_notice_count": 0,
+  "median_wage_usd": 111000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 106000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 5,
+      "median_wage_usd": 112000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 12,
+      "median_wage_usd": 102500.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 113500.0
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 151000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 122000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Software Engineer",
+      "count": 10,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "title": "Senior Full Stack Engineer",
+      "count": 3,
+      "median_wage_usd": 122000.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 3,
+      "median_wage_usd": 95000.0
+    },
+    {
+      "title": "Senior Software Developer in Test",
+      "count": 2,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "title": "DevOps Engineer",
+      "count": 2,
+      "median_wage_usd": 95000.0
+    },
+    {
+      "title": "Lead Software Engineer",
+      "count": 2,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "Senior Software Analyst In Test",
+      "count": 1,
+      "median_wage_usd": 102000.0
+    },
+    {
+      "title": "Senior Software Developer In Test",
+      "count": 1,
+      "median_wage_usd": 112000.0
+    },
+    {
+      "title": "Data Engineer",
+      "count": 1,
+      "median_wage_usd": 105000.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 1,
+      "median_wage_usd": 95000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 6
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 3
+    },
+    {
+      "state": "OH",
+      "county": "HAMILTON",
+      "count": 3
+    },
+    {
+      "state": "MA",
+      "county": "BOSTON CITY",
+      "count": 2
+    },
+    {
+      "state": "CO",
+      "county": "LARIMER",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 2
+    },
+    {
+      "state": "MA",
+      "county": "LEXINGTON",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 1
+    },
+    {
+      "state": "RI",
+      "county": "PROVIDENCE CITY",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 12
+    },
+    {
+      "state": "MA",
+      "count": 3
+    },
+    {
+      "state": "MN",
+      "count": 3
+    },
+    {
+      "state": "CO",
+      "count": 3
+    },
+    {
+      "state": "OH",
+      "count": 3
+    },
+    {
+      "state": "RI",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 110000.0,
+    "gap_usd": -20160.0
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "slug": "justin-brands",
+  "canonical_name": "Justin Brands",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 5,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 4
+    },
+    {
+      "state": "MO",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "04/05/2020",
+      "effective_date": "04/01/2020",
+      "state": "MO",
+      "workers": 321,
+      "city": "Cassville & Carthage"
+    },
+    {
+      "date": "03/31/2020",
+      "effective_date": "03/20/2020",
+      "state": "TX",
+      "workers": 6,
+      "city": "El Paso"
+    },
+    {
+      "date": "03/31/2020",
+      "effective_date": "03/20/2020",
+      "state": "TX",
+      "workers": 6,
+      "city": "El Paso"
+    },
+    {
+      "date": "03/31/2020",
+      "effective_date": "03/16/2020",
+      "state": "TX",
+      "workers": 6,
+      "city": "El Paso"
+    },
+    {
+      "date": "03/17/2015",
+      "effective_date": "05/15/2015",
+      "state": "TX",
+      "workers": 68,
+      "city": "Ft. Worth"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "upper-rio-grande-wda",
+      "name": "Upper Rio Grande WDA",
+      "state": "TX"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

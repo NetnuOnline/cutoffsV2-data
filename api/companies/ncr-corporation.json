@@ -1,0 +1,83 @@
+{
+  "slug": "ncr-corporation",
+  "canonical_name": "NCR Corporation",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 6,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 3
+    },
+    {
+      "state": "UT",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "12/31/2018",
+      "effective_date": "12/31/2018",
+      "state": "GA",
+      "workers": 255,
+      "city": "Columbus"
+    },
+    {
+      "date": "10/31/2018",
+      "effective_date": "10/31/2018",
+      "state": "GA",
+      "workers": 94,
+      "city": "Columbus"
+    },
+    {
+      "date": "09/06/2017",
+      "effective_date": "09/06/2017",
+      "state": "UT",
+      "workers": 35,
+      "city": "Draper"
+    },
+    {
+      "date": "04/27/2017",
+      "effective_date": "06/30/2017",
+      "state": "CA",
+      "workers": 76,
+      "city": "Westlake Village"
+    },
+    {
+      "date": "01/29/2002",
+      "effective_date": "04/01/2002",
+      "state": "TX",
+      "workers": 54,
+      "city": "Arlington"
+    },
+    {
+      "date": "05/21/2001",
+      "effective_date": "05/21/2001",
+      "state": "GA",
+      "workers": 174,
+      "city": "Norcross"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "lower-chattahoochee-wib",
+      "name": "Lower Chattahoochee WIB",
+      "state": "GA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

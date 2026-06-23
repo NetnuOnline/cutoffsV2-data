@@ -1,0 +1,136 @@
+{
+  "slug": "pershing",
+  "canonical_name": "Pershing, LLC",
+  "fein": "13-2741729",
+  "lca_filing_count": 11,
+  "lca_worker_positions": 11,
+  "warn_notice_count": 0,
+  "median_wage_usd": 165000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 158412.5
+    },
+    {
+      "fy": 2022,
+      "filings": 3,
+      "median_wage_usd": 200000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 165000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 142000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 197300.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 173550.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Principal, Data Architect",
+      "count": 2,
+      "median_wage_usd": 200000.0
+    },
+    {
+      "title": "Senior Specialist, Full-Stack Developer ",
+      "count": 1,
+      "median_wage_usd": 160000.0
+    },
+    {
+      "title": "Senior Specialist  Full-Stack Developer",
+      "count": 1,
+      "median_wage_usd": 156825.0
+    },
+    {
+      "title": "Vice President, Front-End Engineer",
+      "count": 1,
+      "median_wage_usd": 203000.0
+    },
+    {
+      "title": "Vice President, Full-Stack Engineer II",
+      "count": 1,
+      "median_wage_usd": 142000.0
+    },
+    {
+      "title": "Senior Specialist Database Analyst",
+      "count": 1,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "title": "Senior Vice President, Database Engineer",
+      "count": 1,
+      "median_wage_usd": 165000.0
+    },
+    {
+      "title": "Vice President, Full-Stack Engineer",
+      "count": 1,
+      "median_wage_usd": 144100.0
+    },
+    {
+      "title": "Principal, Business Analysis",
+      "count": 1,
+      "median_wage_usd": 170000.0
+    },
+    {
+      "title": "Senior Vice President Full-Stack Engineer",
+      "count": 1,
+      "median_wage_usd": 197300.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NJ",
+      "county": "HUDSON",
+      "count": 6
+    },
+    {
+      "state": "FL",
+      "county": "SEMINOLE",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "county": "MORRIS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 9
+    },
+    {
+      "state": "FL",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 170700.0,
+    "gap_usd": 40540.0
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "slug": "hyzon-motors",
+  "canonical_name": "Hyzon Motors Inc.",
+  "fein": null,
+  "lca_filing_count": 5,
+  "warn_notice_count": 3,
+  "median_wage_usd": 105000.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 105000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 3,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 105000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "System and Integration Engineer",
+      "count": 1,
+      "median_wage_usd": 105000.0
+    },
+    {
+      "title": "Sr. Mechanical Engineer",
+      "count": 1,
+      "median_wage_usd": 105000.0
+    },
+    {
+      "title": "Senior CAE Engineer",
+      "count": 1,
+      "median_wage_usd": 105000.0
+    },
+    {
+      "title": "Senior Software and Controls Engineer",
+      "count": 1,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "title": "Internal Controls Manager",
+      "count": 1,
+      "median_wage_usd": 120000.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MI",
+      "count": 3
+    },
+    {
+      "state": "IL",
+      "count": 2
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MI",
+      "county": "OAKLAND",
+      "count": 3
+    },
+    {
+      "state": "IL",
+      "county": "WILL",
+      "count": 2
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "12/24/2024",
+      "effective_date": "02/18/2025",
+      "state": "MI",
+      "workers": 32,
+      "city": "Troy, Michigan"
+    },
+    {
+      "date": "12/20/2024",
+      "effective_date": "02/18/2025",
+      "state": "IL",
+      "workers": 123,
+      "city": "Bolingbrook"
+    },
+    {
+      "date": "12/20/2024",
+      "effective_date": "12/20/2024",
+      "state": "MI",
+      "workers": 32,
+      "city": "Troy"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "wib-of-will-county",
+      "name": "WIB of Will County",
+      "state": "IL"
+    },
+    {
+      "slug": "oakland-county-employment-and-training-division",
+      "name": "Oakland County Employment and Training Division",
+      "state": "MI"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 2,
+    "initial_denials": 0,
+    "continuing_approvals": 10,
+    "continuing_denials": 0,
+    "total_approvals": 12,
+    "by_fy": [
+      {
+        "fy": 2021,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 4
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 5,
+        "continuing_denials": 0,
+        "total_approvals": 6
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      }
+    ]
+  },
+  "lca_worker_positions": 5,
+  "top_socs": [],
+  "lca_periods": []
+}

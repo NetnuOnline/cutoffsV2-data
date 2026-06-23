@@ -1,0 +1,77 @@
+{
+  "slug": "community-health-center-of-buffalo",
+  "canonical_name": "Community Health Center of Buffalo, Inc.",
+  "fein": "16-1566929",
+  "lca_filing_count": 5,
+  "lca_worker_positions": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 65208.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 78180.13
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 43014.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 52000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 65208.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 65208.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Systems Administrator",
+      "count": 2,
+      "median_wage_usd": 65208.0
+    },
+    {
+      "title": "Community Outreach and Media Relations Specialist",
+      "count": 2,
+      "median_wage_usd": 47507.0
+    },
+    {
+      "title": "Director of Nursing",
+      "count": 1,
+      "median_wage_usd": 78180.13
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "ERIE",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 5
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1244",
+    "soc_title": "Network and Computer Systems Administrators",
+    "market_median_usd": 95000.0,
+    "employer_median_usd": 65208.0,
+    "gap_usd": -29792.0
+  }
+}

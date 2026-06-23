@@ -1,0 +1,118 @@
+{
+  "slug": "intverse",
+  "canonical_name": "Intverse Inc",
+  "fein": "92-2805299",
+  "lca_filing_count": 9,
+  "warn_notice_count": 0,
+  "median_wage_usd": 95035.2,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 7,
+      "median_wage_usd": 90854.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 105997.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 95035.2
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Enterprise Architect",
+      "count": 3,
+      "median_wage_usd": 90854.0
+    },
+    {
+      "title": "Lead Integration Engineer",
+      "count": 1,
+      "median_wage_usd": 78478.0
+    },
+    {
+      "title": "SAP BODS/ETL Developer",
+      "count": 1,
+      "median_wage_usd": 117748.8
+    },
+    {
+      "title": "SAP CPI DEVELOPER",
+      "count": 1,
+      "median_wage_usd": 105997.0
+    },
+    {
+      "title": "SAP PIPO/BTP IS Developer",
+      "count": 1,
+      "median_wage_usd": 97406.0
+    },
+    {
+      "title": "Opm Engineer/ Tech Support Analyst",
+      "count": 1,
+      "median_wage_usd": 95035.2
+    },
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 115918.4
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NJ",
+      "county": "SOMERSET",
+      "count": 3
+    },
+    {
+      "state": "MA",
+      "county": "NORFOLK",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "county": "CABARRUS",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "county": "WAKE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 3
+    },
+    {
+      "state": "MA",
+      "count": 2
+    },
+    {
+      "state": "NC",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 9,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Computer Systems Engineers/Architects",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 86060.0,
+    "gap_usd": -31940.0
+  }
+}

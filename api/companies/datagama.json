@@ -1,0 +1,207 @@
+{
+  "slug": "datagama",
+  "canonical_name": "DATAGAMA INC.",
+  "fein": "46-4105585",
+  "lca_filing_count": 24,
+  "warn_notice_count": 0,
+  "median_wage_usd": 83097.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 11,
+      "median_wage_usd": 80000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 7,
+      "median_wage_usd": 82100.0
+    },
+    {
+      "fy": 2024,
+      "filings": 6,
+      "median_wage_usd": 84094.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SOFTWARE DEVELOPER",
+      "count": 3,
+      "median_wage_usd": 90000.0
+    },
+    {
+      "title": "SOFTWARE ENGINEER",
+      "count": 3,
+      "median_wage_usd": 84094.0
+    },
+    {
+      "title": "QUALITY ENGINEER",
+      "count": 2,
+      "median_wage_usd": 89100.0
+    },
+    {
+      "title": "CLOUD ENGINEER",
+      "count": 2,
+      "median_wage_usd": 79331.0
+    },
+    {
+      "title": "JIRA ADMINISTRATOR",
+      "count": 2,
+      "median_wage_usd": 74000.0
+    },
+    {
+      "title": "ETL/INFORMATICA DEVELOPER",
+      "count": 1,
+      "median_wage_usd": 103000.0
+    },
+    {
+      "title": "SYSTEMS ENGINEER ",
+      "count": 1,
+      "median_wage_usd": 70100.0
+    },
+    {
+      "title": "QA AUTOMATION ENGINEER",
+      "count": 1,
+      "median_wage_usd": 75000.0
+    },
+    {
+      "title": "APPLICATIONS ENGINEER",
+      "count": 1,
+      "median_wage_usd": 80000.0
+    },
+    {
+      "title": "APPLICATION DEVELOPER",
+      "count": 1,
+      "median_wage_usd": 99000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 4
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 4
+    },
+    {
+      "state": "OH",
+      "county": "WARREN",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "county": "MORRIS",
+      "count": 2
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "county": "LOUDOUN",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "county": "CHESTER",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "county": "DUVAL",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 11
+    },
+    {
+      "state": "WA",
+      "count": 2
+    },
+    {
+      "state": "FL",
+      "count": 2
+    },
+    {
+      "state": "OH",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "count": 2
+    },
+    {
+      "state": "VA",
+      "count": 1
+    },
+    {
+      "state": "MO",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "count": 1
+    },
+    {
+      "state": "AZ",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 5,
+    "continuing_denials": 0,
+    "total_approvals": 5,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 4,
+        "continuing_denials": 0,
+        "total_approvals": 4
+      }
+    ]
+  },
+  "lca_worker_positions": 24,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 90000.0,
+    "gap_usd": -40160.0
+  }
+}

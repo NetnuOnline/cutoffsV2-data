@@ -1,0 +1,88 @@
+{
+  "slug": "alter-trading-co",
+  "canonical_name": "Alter Trading Co",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 7,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "NE",
+      "count": 7
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "11/09/2015",
+      "effective_date": "11/09/2015",
+      "state": "NE",
+      "workers": 1,
+      "city": "Lincoln"
+    },
+    {
+      "date": "11/09/2015",
+      "effective_date": "11/09/2015",
+      "state": "NE",
+      "workers": 1,
+      "city": "Omaha"
+    },
+    {
+      "date": "11/09/2015",
+      "effective_date": "11/09/2015",
+      "state": "NE",
+      "workers": 2,
+      "city": "Grand Island"
+    },
+    {
+      "date": "11/09/2015",
+      "effective_date": "11/09/2015",
+      "state": "NE",
+      "workers": 3,
+      "city": "Kearney"
+    },
+    {
+      "date": "11/09/2015",
+      "effective_date": "11/09/2015",
+      "state": "NE",
+      "workers": 2,
+      "city": "Ogallala"
+    },
+    {
+      "date": "11/09/2015",
+      "effective_date": "11/09/2015",
+      "state": "NE",
+      "workers": 2,
+      "city": "Sidney"
+    },
+    {
+      "date": "07/23/2015",
+      "effective_date": "07/23/2015",
+      "state": "NE",
+      "workers": 2,
+      "city": "Kearney"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "grand-island-msa",
+      "name": "Grand Island MSA",
+      "state": "NE"
+    },
+    {
+      "slug": "central-economic-region",
+      "name": "Central Economic Region",
+      "state": "NE"
+    },
+    {
+      "slug": "mid-plains-economic-region",
+      "name": "Mid Plains Economic Region",
+      "state": "NE"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

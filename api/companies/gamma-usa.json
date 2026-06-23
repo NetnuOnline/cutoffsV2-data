@@ -1,0 +1,136 @@
+{
+  "slug": "gamma-usa",
+  "canonical_name": "Gamma USA Inc.",
+  "fein": "27-4642619",
+  "lca_filing_count": 4,
+  "warn_notice_count": 1,
+  "median_wage_usd": 74782.5,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 70845.0
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 54000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 85310.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 78720.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Industrial Designer",
+      "count": 2,
+      "median_wage_usd": 66360.0
+    },
+    {
+      "title": "Financial Analyst",
+      "count": 2,
+      "median_wage_usd": 78077.5
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 4
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NJ",
+      "county": "HUDSON",
+      "count": 3
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "04/22/2019",
+      "effective_date": "04/22/2019",
+      "state": "FL",
+      "workers": 59,
+      "city": "MIAMI"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 3,
+    "initial_denials": 0,
+    "continuing_approvals": 4,
+    "continuing_denials": 0,
+    "total_approvals": 7,
+    "by_fy": [
+      {
+        "fy": 2015,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": []
+}

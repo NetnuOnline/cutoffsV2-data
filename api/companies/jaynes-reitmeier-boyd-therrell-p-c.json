@@ -1,0 +1,56 @@
+{
+  "slug": "jaynes-reitmeier-boyd-therrell-p-c",
+  "canonical_name": "Jaynes, Reitmeier, Boyd & Therrell, P.C.",
+  "fein": null,
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 61500.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 47000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 76000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Staff Accountant (Assurance)",
+      "count": 1,
+      "median_wage_usd": 47000.0
+    },
+    {
+      "title": "Senior Tax Accountant",
+      "count": 1,
+      "median_wage_usd": 76000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "MCLENNAN",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-2011",
+    "soc_title": "Accountants and Auditors",
+    "market_median_usd": 79000.0,
+    "employer_median_usd": 61500.0,
+    "gap_usd": -17500.0
+  }
+}

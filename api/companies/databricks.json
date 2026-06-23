@@ -1,0 +1,203 @@
+{
+  "slug": "databricks",
+  "canonical_name": "Databricks, Inc.",
+  "fein": "46-2972184",
+  "lca_filing_count": 434,
+  "lca_worker_positions": 434,
+  "warn_notice_count": 0,
+  "median_wage_usd": 157000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 13,
+      "median_wage_usd": 145246.0
+    },
+    {
+      "fy": 2021,
+      "filings": 52,
+      "median_wage_usd": 142000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 70,
+      "median_wage_usd": 157350.0
+    },
+    {
+      "fy": 2023,
+      "filings": 72,
+      "median_wage_usd": 146684.0
+    },
+    {
+      "fy": 2024,
+      "filings": 87,
+      "median_wage_usd": 166962.0
+    },
+    {
+      "fy": 2025,
+      "filings": 68,
+      "median_wage_usd": 165224.5
+    },
+    {
+      "fy": 2026,
+      "filings": 72,
+      "median_wage_usd": 157000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 88,
+      "median_wage_usd": 145000.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 50,
+      "median_wage_usd": 168000.0
+    },
+    {
+      "title": "Sr. Software Engineer",
+      "count": 26,
+      "median_wage_usd": 190486.0
+    },
+    {
+      "title": "Solutions Architect",
+      "count": 23,
+      "median_wage_usd": 134514.0
+    },
+    {
+      "title": "Staff Software Engineer",
+      "count": 19,
+      "median_wage_usd": 199000.0
+    },
+    {
+      "title": "Delivery Solutions Architect",
+      "count": 15,
+      "median_wage_usd": 155000.0
+    },
+    {
+      "title": "Specialist Solutions Architect",
+      "count": 14,
+      "median_wage_usd": 155490.5
+    },
+    {
+      "title": "Resident Solutions Architect",
+      "count": 13,
+      "median_wage_usd": 156998.0
+    },
+    {
+      "title": "Sr. Solutions Architect",
+      "count": 12,
+      "median_wage_usd": 162177.5
+    },
+    {
+      "title": "Senior Solutions Architect",
+      "count": 8,
+      "median_wage_usd": 150982.5
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 99
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 67
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 48
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 10
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 10
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 6
+    },
+    {
+      "state": "NJ",
+      "county": "HUDSON",
+      "count": 6
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 5
+    },
+    {
+      "state": "WA",
+      "county": "SNOHOMISH",
+      "count": 4
+    },
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 227
+    },
+    {
+      "state": "WA",
+      "count": 71
+    },
+    {
+      "state": "TX",
+      "count": 46
+    },
+    {
+      "state": "NY",
+      "count": 26
+    },
+    {
+      "state": "IL",
+      "count": 10
+    },
+    {
+      "state": "NJ",
+      "count": 8
+    },
+    {
+      "state": "FL",
+      "count": 7
+    },
+    {
+      "state": "NC",
+      "count": 6
+    },
+    {
+      "state": "VA",
+      "count": 5
+    },
+    {
+      "state": "MA",
+      "count": 5
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 157000.0,
+    "gap_usd": 26840.0
+  }
+}

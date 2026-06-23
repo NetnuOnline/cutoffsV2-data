@@ -1,0 +1,203 @@
+{
+  "slug": "expedia",
+  "canonical_name": "Expedia, Inc.",
+  "fein": "91-1996083",
+  "lca_filing_count": 650,
+  "lca_worker_positions": 647,
+  "warn_notice_count": 0,
+  "median_wage_usd": 137259.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 64,
+      "median_wage_usd": 126965.0
+    },
+    {
+      "fy": 2021,
+      "filings": 93,
+      "median_wage_usd": 122082.81
+    },
+    {
+      "fy": 2022,
+      "filings": 148,
+      "median_wage_usd": 134087.0
+    },
+    {
+      "fy": 2023,
+      "filings": 62,
+      "median_wage_usd": 139464.0
+    },
+    {
+      "fy": 2024,
+      "filings": 90,
+      "median_wage_usd": 137259.0
+    },
+    {
+      "fy": 2025,
+      "filings": 96,
+      "median_wage_usd": 153317.0
+    },
+    {
+      "fy": 2026,
+      "filings": 94,
+      "median_wage_usd": 149240.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Development Engineer",
+      "count": 182,
+      "median_wage_usd": 131494.0
+    },
+    {
+      "title": "Senior Software Development Engineer",
+      "count": 47,
+      "median_wage_usd": 163550.0
+    },
+    {
+      "title": "Data Engineer",
+      "count": 37,
+      "median_wage_usd": 132267.0
+    },
+    {
+      "title": "Software Development Engineer ",
+      "count": 33,
+      "median_wage_usd": 124550.0
+    },
+    {
+      "title": "Senior Manager, Software Development Engineering",
+      "count": 27,
+      "median_wage_usd": 196123.0
+    },
+    {
+      "title": "Product Manager",
+      "count": 23,
+      "median_wage_usd": 136531.0
+    },
+    {
+      "title": "SOFTWARE DEVELOPMENT ENGINEER",
+      "count": 11,
+      "median_wage_usd": 113110.0
+    },
+    {
+      "title": "Data Scientist, Analytics",
+      "count": 11,
+      "median_wage_usd": 118414.0
+    },
+    {
+      "title": "Program Manager",
+      "count": 10,
+      "median_wage_usd": 134024.5
+    },
+    {
+      "title": "Senior Data Engineer",
+      "count": 10,
+      "median_wage_usd": 149365.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 307
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 101
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 45
+    },
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 13
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 8
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 3
+    },
+    {
+      "state": "FL",
+      "county": "HILLSBOROUGH",
+      "count": 2
+    },
+    {
+      "state": "CO",
+      "county": "DENVER",
+      "count": 2
+    },
+    {
+      "state": "MO",
+      "county": "GREENE",
+      "count": 2
+    },
+    {
+      "state": "FL",
+      "county": "ORANGE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "WA",
+      "count": 407
+    },
+    {
+      "state": "TX",
+      "count": 138
+    },
+    {
+      "state": "IL",
+      "count": 59
+    },
+    {
+      "state": "CA",
+      "count": 33
+    },
+    {
+      "state": "CO",
+      "count": 4
+    },
+    {
+      "state": "FL",
+      "count": 3
+    },
+    {
+      "state": "NY",
+      "count": 2
+    },
+    {
+      "state": "MO",
+      "count": 2
+    },
+    {
+      "state": "TN",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 141378.0,
+    "gap_usd": 11218.0
+  }
+}

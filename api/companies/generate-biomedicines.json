@@ -1,0 +1,87 @@
+{
+  "slug": "generate-biomedicines",
+  "canonical_name": "Generate Biomedicines, Inc.",
+  "fein": "83-1630228",
+  "lca_filing_count": 8,
+  "lca_worker_positions": 8,
+  "warn_notice_count": 0,
+  "median_wage_usd": 158000.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 5,
+      "median_wage_usd": 166000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 221750.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 150000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Vice President, Strategy and Business Development",
+      "count": 2,
+      "median_wage_usd": 400000.0
+    },
+    {
+      "title": "Executive Director, Application Development",
+      "count": 1,
+      "median_wage_usd": 303500.0
+    },
+    {
+      "title": "Machine Learning Engineer I",
+      "count": 1,
+      "median_wage_usd": 166000.0
+    },
+    {
+      "title": "Senior Research Associate I, Molecular Virology ",
+      "count": 1,
+      "median_wage_usd": 91500.0
+    },
+    {
+      "title": "Senior Software Engineer II",
+      "count": 1,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "title": "Senior Scientist I",
+      "count": 1,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "title": "Research Associate I",
+      "count": 1,
+      "median_wage_usd": 75000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MA",
+      "county": "SOMERVILLE CITY",
+      "count": 5
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MA",
+      "count": 8
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-2021",
+    "soc_title": "Marketing Managers",
+    "market_median_usd": 157620.0,
+    "employer_median_usd": 351750.0,
+    "gap_usd": 194130.0
+  }
+}

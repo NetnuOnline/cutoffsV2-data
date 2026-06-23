@@ -1,0 +1,812 @@
+{
+  "slug": "raytheon-technologies",
+  "canonical_name": "Raytheon Technologies Corporation",
+  "fein": null,
+  "lca_filing_count": 4,
+  "warn_notice_count": 96,
+  "median_wage_usd": 167657.12,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 3,
+      "median_wage_usd": 177014.24
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 158300.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Manager, Business Systems & Transformation",
+      "count": 2,
+      "median_wage_usd": 167657.12
+    },
+    {
+      "title": "Sr. Manager, EH&S",
+      "count": 1,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "title": "Director, HR Technology",
+      "count": 1,
+      "median_wage_usd": 206500.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CT",
+      "count": 4
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CT",
+      "county": "FARMINGTON",
+      "count": 4
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "02/27/2026",
+      "effective_date": "05/01/2026",
+      "state": "CA",
+      "workers": 55,
+      "city": "El Segundo"
+    },
+    {
+      "date": "12/15/2025",
+      "effective_date": "02/13/2026",
+      "state": "CA",
+      "workers": 1,
+      "city": "El Segundo"
+    },
+    {
+      "date": "12/15/2025",
+      "effective_date": "02/13/2025",
+      "state": "CA",
+      "workers": 1,
+      "city": "El Segundo"
+    },
+    {
+      "date": "11/04/2025",
+      "effective_date": "12/31/2025",
+      "state": "IA",
+      "workers": 3,
+      "city": "Cedar Rapids"
+    },
+    {
+      "date": "10/16/2025",
+      "effective_date": "01/02/2026",
+      "state": "CA",
+      "workers": 1,
+      "city": "El Segundo"
+    },
+    {
+      "date": "10/15/2025",
+      "effective_date": "12/15/2025",
+      "state": "CA",
+      "workers": 2,
+      "city": "El Segundo"
+    },
+    {
+      "date": "09/30/2025",
+      "effective_date": "10/31/2025",
+      "state": "IA",
+      "workers": 2,
+      "city": "Cedar Rapids"
+    },
+    {
+      "date": "09/05/2025",
+      "effective_date": "11/07/2025",
+      "state": "CA",
+      "workers": 4,
+      "city": "El Segundo"
+    },
+    {
+      "date": "05/09/2025",
+      "effective_date": "07/30/2025",
+      "state": "CA",
+      "workers": 1,
+      "city": "El Segundo"
+    },
+    {
+      "date": "05/09/2025",
+      "effective_date": "07/30/2025",
+      "state": "CA",
+      "workers": 1,
+      "city": "El Segundo"
+    },
+    {
+      "date": "04/24/2025",
+      "effective_date": "06/24/2025",
+      "state": "CA",
+      "workers": 97,
+      "city": "El Segundo"
+    },
+    {
+      "date": "04/10/2025",
+      "effective_date": "06/20/2025",
+      "state": "CA",
+      "workers": 1,
+      "city": "El Segundo"
+    },
+    {
+      "date": "04/10/2025",
+      "effective_date": "06/20/2025",
+      "state": "CA",
+      "workers": 2,
+      "city": "El Segundo"
+    },
+    {
+      "date": "04/10/2025",
+      "effective_date": "06/20/2025",
+      "state": "CA",
+      "workers": 1,
+      "city": "El Segundo"
+    },
+    {
+      "date": "04/10/2025",
+      "effective_date": "06/20/2025",
+      "state": "CA",
+      "workers": 1,
+      "city": "El Segundo"
+    },
+    {
+      "date": "04/10/2025",
+      "effective_date": "06/20/2025",
+      "state": "CA",
+      "workers": 2,
+      "city": "El Segundo"
+    },
+    {
+      "date": "04/10/2025",
+      "effective_date": "06/20/2025",
+      "state": "CA",
+      "workers": 1,
+      "city": "El Segundo"
+    },
+    {
+      "date": "04/10/2025",
+      "effective_date": "05/15/2025",
+      "state": "IA",
+      "workers": 4,
+      "city": "Cedar Rapids"
+    },
+    {
+      "date": "07/18/2024",
+      "effective_date": "09/16/2024",
+      "state": "CA",
+      "workers": 137,
+      "city": "El Segundo"
+    },
+    {
+      "date": "10/11/2023",
+      "effective_date": "01/05/2023",
+      "state": "TX",
+      "workers": 34,
+      "city": "Dallas"
+    },
+    {
+      "date": "09/12/2023",
+      "effective_date": "09/11/2023",
+      "state": "TX",
+      "workers": 27,
+      "city": "Dallas"
+    },
+    {
+      "date": "04/07/2023",
+      "effective_date": "06/09/2023",
+      "state": "CA",
+      "workers": 175,
+      "city": "El Segundo"
+    },
+    {
+      "date": "09/09/2021",
+      "effective_date": "11/09/2021",
+      "state": "TX",
+      "workers": 87,
+      "city": "Carrollton"
+    },
+    {
+      "date": "05/19/2020",
+      "effective_date": "07/18/2020",
+      "state": "NM",
+      "workers": 200,
+      "city": "Albuquerque"
+    },
+    {
+      "date": "06/06/2019",
+      "effective_date": "06/06/2019",
+      "state": "AZ",
+      "workers": 69,
+      "city": "Sierra Vista"
+    },
+    {
+      "date": "03/28/2019",
+      "effective_date": "03/28/2019",
+      "state": "AZ",
+      "workers": 176,
+      "city": "Sierra Vista"
+    },
+    {
+      "date": "10/31/2018",
+      "effective_date": "01/02/2019",
+      "state": "CA",
+      "workers": 21,
+      "city": "Los Angeles"
+    },
+    {
+      "date": "10/19/2018",
+      "effective_date": "12/31/2018",
+      "state": "CA",
+      "workers": 57,
+      "city": "Fort Irwin"
+    },
+    {
+      "date": "10/19/2018",
+      "effective_date": "12/31/2018",
+      "state": "LA",
+      "workers": 60,
+      "city": "Fort Polk"
+    },
+    {
+      "date": "10/17/2018",
+      "effective_date": "12/31/2018",
+      "state": "FL",
+      "workers": 52,
+      "city": "Orlando"
+    },
+    {
+      "date": "11/05/2015",
+      "effective_date": "01/04/2016",
+      "state": "VA",
+      "workers": 92,
+      "city": "Norfolk, VA"
+    },
+    {
+      "date": "08/14/2015",
+      "effective_date": "10/14/2015",
+      "state": "CA",
+      "workers": 41,
+      "city": "Chula Vista"
+    },
+    {
+      "date": "07/29/2015",
+      "effective_date": "09/30/2015",
+      "state": "VA",
+      "workers": 54,
+      "city": "Springfield, VA"
+    },
+    {
+      "date": "04/15/2015",
+      "effective_date": "06/30/2015",
+      "state": "VA",
+      "workers": 59,
+      "city": "Springfield, VA"
+    },
+    {
+      "date": "08/14/2014",
+      "effective_date": "10/14/2014",
+      "state": "CA",
+      "workers": 28,
+      "city": "El Segundo"
+    },
+    {
+      "date": "07/25/2014",
+      "effective_date": "09/23/2014",
+      "state": "CA",
+      "workers": 24,
+      "city": "El Segundo"
+    },
+    {
+      "date": "03/13/2013",
+      "effective_date": "03/13/2013",
+      "state": "OK",
+      "workers": 224,
+      "city": "05 - CentralRegion"
+    },
+    {
+      "date": "03/13/2013",
+      "effective_date": "03/13/2013",
+      "state": "OK",
+      "workers": 0,
+      "city": "CentralRegion"
+    },
+    {
+      "date": "08/25/2010",
+      "effective_date": "10/27/2010",
+      "state": "VA",
+      "workers": 82,
+      "city": "Hampton, VA"
+    },
+    {
+      "date": "01/15/2010",
+      "effective_date": "01/15/2010",
+      "state": "OK",
+      "workers": 152,
+      "city": "05 - CentralRegion"
+    },
+    {
+      "date": "01/15/2010",
+      "effective_date": "01/15/2010",
+      "state": "OK",
+      "workers": 0,
+      "city": "CentralRegion"
+    },
+    {
+      "date": "02/26/2008",
+      "effective_date": "04/30/2008",
+      "state": "TX",
+      "workers": 114,
+      "city": "Fort Hood"
+    },
+    {
+      "date": "02/26/2008",
+      "effective_date": "04/30/2008",
+      "state": "LA",
+      "workers": 114,
+      "city": "Fort Polk"
+    },
+    {
+      "date": "11/05/2007",
+      "effective_date": "12/31/2007",
+      "state": "TX",
+      "workers": 391,
+      "city": "Fort Bliss"
+    },
+    {
+      "date": "06/13/2006",
+      "effective_date": "06/16/2006",
+      "state": "TX",
+      "workers": 115,
+      "city": "Fort Bliss"
+    },
+    {
+      "date": "11/22/2005",
+      "effective_date": "01/27/2006",
+      "state": "TX",
+      "workers": 197,
+      "city": "Sherman"
+    },
+    {
+      "date": "10/10/2005",
+      "effective_date": "10/10/2005",
+      "state": "KS",
+      "workers": 15,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "09/26/2005",
+      "effective_date": "09/26/2005",
+      "state": "KS",
+      "workers": 15,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "08/29/2005",
+      "effective_date": "08/29/2005",
+      "state": "KS",
+      "workers": 30,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "07/18/2005",
+      "effective_date": "07/18/2005",
+      "state": "KS",
+      "workers": 25,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "07/15/2005",
+      "effective_date": "07/29/2005",
+      "state": "TX",
+      "workers": 180,
+      "city": "Fort Bliss"
+    },
+    {
+      "date": "07/01/2005",
+      "effective_date": "07/01/2005",
+      "state": "KS",
+      "workers": 15,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "06/20/2005",
+      "effective_date": "06/20/2005",
+      "state": "KS",
+      "workers": 33,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "05/23/2005",
+      "effective_date": "05/23/2005",
+      "state": "KS",
+      "workers": 49,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "05/09/2005",
+      "effective_date": "05/09/2005",
+      "state": "KS",
+      "workers": 36,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "04/11/2005",
+      "effective_date": "04/11/2005",
+      "state": "KS",
+      "workers": 64,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "04/05/2005",
+      "effective_date": "04/05/2005",
+      "state": "KS",
+      "workers": 250,
+      "city": "1 - Workforce Investment Area I"
+    },
+    {
+      "date": "02/17/2005",
+      "effective_date": "02/17/2005",
+      "state": "KS",
+      "workers": 77,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "09/20/2004",
+      "effective_date": "09/20/2004",
+      "state": "KS",
+      "workers": 75,
+      "city": "1 - Workforce Investment Area I"
+    },
+    {
+      "date": "05/14/2004",
+      "effective_date": "07/14/2004",
+      "state": "TX",
+      "workers": 185,
+      "city": "Clear Lake"
+    },
+    {
+      "date": "01/20/2004",
+      "effective_date": "01/20/2004",
+      "state": "KS",
+      "workers": 6,
+      "city": "1 - Workforce Investment Area I"
+    },
+    {
+      "date": "12/05/2003",
+      "effective_date": "12/05/2003",
+      "state": "KS",
+      "workers": 296,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "10/03/2003",
+      "effective_date": "10/03/2003",
+      "state": "KS",
+      "workers": 15,
+      "city": "1 - Workforce Investment Area I"
+    },
+    {
+      "date": "08/12/2003",
+      "effective_date": "08/12/2003",
+      "state": "KS",
+      "workers": 10,
+      "city": "1 - Workforce Investment Area I"
+    },
+    {
+      "date": "05/30/2003",
+      "effective_date": "05/30/2003",
+      "state": "KS",
+      "workers": 50,
+      "city": "1 - Workforce Investment Area I"
+    },
+    {
+      "date": "05/29/2003",
+      "effective_date": "05/29/2003",
+      "state": "KS",
+      "workers": 46,
+      "city": "1 - Workforce Investment Area I"
+    },
+    {
+      "date": "05/29/2003",
+      "effective_date": "05/29/2003",
+      "state": "KS",
+      "workers": 51,
+      "city": "1 - Workforce Investment Area I"
+    },
+    {
+      "date": "04/09/2003",
+      "effective_date": "04/09/2003",
+      "state": "KS",
+      "workers": 5,
+      "city": "1 - Workforce Investment Area I"
+    },
+    {
+      "date": "04/02/2003",
+      "effective_date": "04/02/2003",
+      "state": "KS",
+      "workers": 6,
+      "city": "1 - Workforce Investment Area I"
+    },
+    {
+      "date": "03/11/2003",
+      "effective_date": "03/11/2003",
+      "state": "KS",
+      "workers": 3,
+      "city": "1 - Workforce Investment Area I"
+    },
+    {
+      "date": "02/07/2003",
+      "effective_date": "02/07/2003",
+      "state": "KS",
+      "workers": 16,
+      "city": "1 - Workforce Investment Area I"
+    },
+    {
+      "date": "01/27/2003",
+      "effective_date": "01/27/2003",
+      "state": "KS",
+      "workers": 25,
+      "city": "2 - Workforce Investment Area II"
+    },
+    {
+      "date": "01/22/2003",
+      "effective_date": "01/22/2003",
+      "state": "KS",
+      "workers": 22,
+      "city": "1 - Workforce Investment Area I"
+    },
+    {
+      "date": "11/22/2002",
+      "effective_date": "11/22/2002",
+      "state": "KS",
+      "workers": 1,
+      "city": "1 - Workforce Investment Area I"
+    },
+    {
+      "date": "11/21/2002",
+      "effective_date": "11/21/2002",
+      "state": "KS",
+      "workers": 125,
+      "city": "2 - Workforce Investment Area II"
+    },
+    {
+      "date": "11/21/2002",
+      "effective_date": "11/21/2002",
+      "state": "KS",
+      "workers": 1,
+      "city": "1 - Workforce Investment Area I"
+    },
+    {
+      "date": "11/07/2002",
+      "effective_date": "11/07/2002",
+      "state": "KS",
+      "workers": 30,
+      "city": "1 - Workforce Investment Area I"
+    },
+    {
+      "date": "10/30/2002",
+      "effective_date": "10/30/2002",
+      "state": "KS",
+      "workers": 30,
+      "city": "1 - Workforce Investment Area I"
+    },
+    {
+      "date": "10/10/2002",
+      "effective_date": "10/10/2002",
+      "state": "KS",
+      "workers": 2,
+      "city": "1 - Workforce Investment Area I"
+    },
+    {
+      "date": "06/10/2002",
+      "effective_date": "06/10/2002",
+      "state": "KS",
+      "workers": 1,
+      "city": "1 - Workforce Investment Area I"
+    },
+    {
+      "date": "05/24/2002",
+      "effective_date": "05/24/2002",
+      "state": "KS",
+      "workers": 25,
+      "city": "1 - Workforce Investment Area I"
+    },
+    {
+      "date": "02/15/2002",
+      "effective_date": "02/15/2002",
+      "state": "KS",
+      "workers": 200,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "02/01/2002",
+      "effective_date": "02/01/2002",
+      "state": "KS",
+      "workers": 197,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "01/15/2002",
+      "effective_date": "01/15/2002",
+      "state": "KS",
+      "workers": 300,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "12/01/2001",
+      "effective_date": "12/01/2001",
+      "state": "KS",
+      "workers": 750,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "10/10/2001",
+      "effective_date": "10/10/2001",
+      "state": "KS",
+      "workers": 20,
+      "city": "1 - Workforce Investment Area I"
+    },
+    {
+      "date": "10/04/2001",
+      "effective_date": "10/04/2001",
+      "state": "KS",
+      "workers": 27,
+      "city": "1 - Workforce Investment Area I"
+    },
+    {
+      "date": "09/13/2001",
+      "effective_date": "09/13/2001",
+      "state": "KS",
+      "workers": 32,
+      "city": "1 - Workforce Investment Area I"
+    },
+    {
+      "date": "09/01/2001",
+      "effective_date": "09/01/2001",
+      "state": "KS",
+      "workers": 920,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "08/16/2001",
+      "effective_date": "08/16/2001",
+      "state": "KS",
+      "workers": 36,
+      "city": "1 - Workforce Investment Area I"
+    },
+    {
+      "date": "09/29/1999",
+      "effective_date": "11/29/1999",
+      "state": "TX",
+      "workers": 390,
+      "city": "Richardson"
+    },
+    {
+      "date": "07/09/1999",
+      "effective_date": "07/08/1999",
+      "state": "TX",
+      "workers": 66,
+      "city": "Austin"
+    },
+    {
+      "date": "02/02/1998",
+      "effective_date": "02/02/1998",
+      "state": "GA",
+      "workers": 285,
+      "city": "Lagrange"
+    },
+    {
+      "date": "02/02/1998",
+      "effective_date": "02/02/1998",
+      "state": "GA",
+      "workers": 100,
+      "city": "Norcross"
+    },
+    {
+      "date": "08/22/1995",
+      "effective_date": "08/22/1995",
+      "state": "GA",
+      "workers": 50,
+      "city": "Warner Robins"
+    },
+    {
+      "date": "05/05/1995",
+      "effective_date": "07/08/1995",
+      "state": "OR",
+      "workers": 302,
+      "city": "Eugene"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "cochise-county-lwib",
+      "name": "Cochise County LWIB",
+      "state": "AZ"
+    },
+    {
+      "slug": "los-angeles-county-wib",
+      "name": "Los Angeles County WIB",
+      "state": "CA"
+    },
+    {
+      "slug": "region-10-cedar-rapids-wib",
+      "name": "Region 10 - Cedar Rapids WIB",
+      "state": "IA"
+    },
+    {
+      "slug": "calcasieu-parish-consortium-wia",
+      "name": "Calcasieu Parish Consortium WIA",
+      "state": "LA"
+    },
+    {
+      "slug": "central-area-wib-nm",
+      "name": "Central Area WIB",
+      "state": "NM"
+    },
+    {
+      "slug": "lane-wia",
+      "name": "Lane WIA",
+      "state": "OR"
+    },
+    {
+      "slug": "upper-rio-grande-wda",
+      "name": "Upper Rio Grande WDA",
+      "state": "TX"
+    },
+    {
+      "slug": "texoma-wda",
+      "name": "Texoma WDA",
+      "state": "TX"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 2,
+    "initial_denials": 0,
+    "continuing_approvals": 25,
+    "continuing_denials": 0,
+    "total_approvals": 27,
+    "by_fy": [
+      {
+        "fy": 2021,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 12,
+        "continuing_denials": 0,
+        "total_approvals": 14
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 10,
+        "continuing_denials": 0,
+        "total_approvals": 10
+      }
+    ]
+  },
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3021",
+    "soc_title": "Computer and Information Systems Managers",
+    "market_median_usd": 169510.0,
+    "employer_median_usd": 177014.24,
+    "gap_usd": 7504.24
+  }
+}

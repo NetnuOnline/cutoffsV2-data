@@ -1,0 +1,154 @@
+{
+  "slug": "employers-mutual-casualty-company",
+  "canonical_name": "Employers Mutual Casualty Company",
+  "fein": "42-0234980",
+  "lca_filing_count": 24,
+  "lca_worker_positions": 24,
+  "warn_notice_count": 0,
+  "median_wage_usd": 94218.32,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 8,
+      "median_wage_usd": 79196.0
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 89149.0
+    },
+    {
+      "fy": 2022,
+      "filings": 4,
+      "median_wage_usd": 84958.5
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 69846.4
+    },
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 96331.0
+    },
+    {
+      "fy": 2025,
+      "filings": 5,
+      "median_wage_usd": 138507.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 117403.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Data Engineer III",
+      "count": 4,
+      "median_wage_usd": 116841.0
+    },
+    {
+      "title": "Claims Process and Data Analyst",
+      "count": 2,
+      "median_wage_usd": 55619.2
+    },
+    {
+      "title": "Analytics Engineer II",
+      "count": 2,
+      "median_wage_usd": 82942.0
+    },
+    {
+      "title": "Senior Data Engineer ",
+      "count": 1,
+      "median_wage_usd": 132995.0
+    },
+    {
+      "title": "Senior .Net Solutions Developer",
+      "count": 1,
+      "median_wage_usd": 103293.0
+    },
+    {
+      "title": "Senior Scrum Master",
+      "count": 1,
+      "median_wage_usd": 92105.65
+    },
+    {
+      "title": "Actuarial Analyst",
+      "count": 1,
+      "median_wage_usd": 64917.0
+    },
+    {
+      "title": "Data Governance Analyst I",
+      "count": 1,
+      "median_wage_usd": 55619.2
+    },
+    {
+      "title": "Business Intelligence Report Developer II",
+      "count": 1,
+      "median_wage_usd": 63996.4
+    },
+    {
+      "title": "Integration Specialist II",
+      "count": 1,
+      "median_wage_usd": 69243.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IA",
+      "county": "POLK",
+      "count": 13
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 1
+    },
+    {
+      "state": "MN",
+      "county": "DAKOTA",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "county": "WAKE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IA",
+      "count": 17
+    },
+    {
+      "state": "TX",
+      "count": 5
+    },
+    {
+      "state": "MN",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 130770.0,
+    "gap_usd": 610.0
+  }
+}

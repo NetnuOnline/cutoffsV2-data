@@ -1,0 +1,52 @@
+{
+  "slug": "htx-services",
+  "canonical_name": "HTx Services, L.L.C.",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "12/27/2024",
+      "effective_date": "03/31/2025",
+      "state": "NY",
+      "workers": 86,
+      "city": "Plainview"
+    },
+    {
+      "date": "12/27/2024",
+      "effective_date": "03/01/2025",
+      "state": "CA",
+      "workers": 28,
+      "city": "Springville"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "tulare-county-wib",
+      "name": "Tulare County WIB",
+      "state": "CA"
+    },
+    {
+      "slug": "hempsteadlong-beach-consortium-lwia",
+      "name": "Hempstead/Long Beach Consortium LWIA",
+      "state": "NY"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

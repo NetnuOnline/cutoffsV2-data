@@ -1,0 +1,86 @@
+{
+  "slug": "digtinctive",
+  "canonical_name": "Digtinctive, Inc.",
+  "fein": "87-2054925",
+  "lca_filing_count": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 115918.5,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 105019.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 156437.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Business Analsyt",
+      "count": 2,
+      "median_wage_usd": 105019.0
+    },
+    {
+      "title": "IT Project Manager",
+      "count": 1,
+      "median_wage_usd": 126818.0
+    },
+    {
+      "title": "Manager, Technology",
+      "count": 1,
+      "median_wage_usd": 186056.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NJ",
+      "county": "HUDSON",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 4
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 2,
+    "initial_denials": 0,
+    "continuing_approvals": 0,
+    "continuing_denials": 0,
+    "total_approvals": 2,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1211",
+    "soc_title": "Computer Systems Analysts",
+    "market_median_usd": 103800.0,
+    "employer_median_usd": 105019.0,
+    "gap_usd": 1219.0
+  }
+}

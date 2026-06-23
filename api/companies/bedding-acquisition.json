@@ -1,0 +1,85 @@
+{
+  "slug": "bedding-acquisition",
+  "canonical_name": "Bedding Acquisition, LLC",
+  "fein": null,
+  "lca_filing_count": 1,
+  "warn_notice_count": 5,
+  "median_wage_usd": 100000.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 100000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Business Intelligence Developer",
+      "count": 1,
+      "median_wage_usd": 100000.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "FL",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "FL",
+      "county": "ORANGE",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "05/10/2023",
+      "effective_date": "05/26/2023",
+      "state": "TX",
+      "workers": 23,
+      "city": "Grand Prairie"
+    },
+    {
+      "date": "01/31/2023",
+      "effective_date": "03/31/2023",
+      "state": "TX",
+      "workers": 74,
+      "city": "Grand Prairie"
+    },
+    {
+      "date": "11/16/2022",
+      "effective_date": "01/16/2023",
+      "state": "TX",
+      "workers": 95,
+      "city": "Grand Prairie"
+    },
+    {
+      "date": "04/15/2020",
+      "effective_date": "04/09/2020",
+      "state": "CA",
+      "workers": 113,
+      "city": "Pico Rivera"
+    },
+    {
+      "date": "04/14/2020",
+      "effective_date": "04/03/2020",
+      "state": "KY",
+      "workers": 234,
+      "city": "Jefferson County - Louisville"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "c-greater-louisville-wib",
+      "name": "C Greater Louisville WIB",
+      "state": "KY"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "lca_worker_positions": 1,
+  "top_socs": [],
+  "lca_periods": []
+}

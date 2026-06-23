@@ -1,0 +1,95 @@
+{
+  "slug": "adhrit",
+  "canonical_name": "ADHRIT INC.",
+  "fein": "46-1906629",
+  "lca_filing_count": 12,
+  "lca_worker_positions": 12,
+  "warn_notice_count": 0,
+  "median_wage_usd": 89253.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 100526.0
+    },
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 80000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 85500.0
+    },
+    {
+      "fy": 2023,
+      "filings": 5,
+      "median_wage_usd": 89253.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 95493.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 90896.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 112923.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SOFTWARE DEVELOPER",
+      "count": 10,
+      "median_wage_usd": 89253.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 2,
+      "median_wage_usd": 101909.5
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NJ",
+      "county": "MIDDLESEX",
+      "count": 9
+    },
+    {
+      "state": "VA",
+      "county": "LOUDOUN",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 9
+    },
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "VA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 89253.0,
+    "gap_usd": -40907.0
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "slug": "evraz",
+  "canonical_name": "Evraz",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 6,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "OR",
+      "count": 4
+    },
+    {
+      "state": "CO",
+      "count": 1
+    },
+    {
+      "state": "DE",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "02/19/2023",
+      "effective_date": "12/22/2022",
+      "state": "CO",
+      "workers": 600,
+      "city": null
+    },
+    {
+      "date": "06/08/2020",
+      "effective_date": "06/08/2020",
+      "state": "OR",
+      "workers": 65,
+      "city": "Portland"
+    },
+    {
+      "date": "04/06/2020",
+      "effective_date": "04/06/2020",
+      "state": "OR",
+      "workers": 232,
+      "city": "Portland"
+    },
+    {
+      "date": "02/09/2016",
+      "effective_date": "04/09/2016",
+      "state": "OR",
+      "workers": 230,
+      "city": "Portland"
+    },
+    {
+      "date": "10/14/2013",
+      "effective_date": "10/14/2013",
+      "state": "DE",
+      "workers": 375,
+      "city": null
+    },
+    {
+      "date": "03/31/2009",
+      "effective_date": "05/25/2009",
+      "state": "OR",
+      "workers": 225,
+      "city": "Portland"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

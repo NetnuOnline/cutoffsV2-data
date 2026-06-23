@@ -1,0 +1,80 @@
+{
+  "slug": "aeo-employment-services",
+  "canonical_name": "AEO Employment Services Co., LLC",
+  "fein": "33-5001874",
+  "lca_filing_count": 9,
+  "lca_worker_positions": 9,
+  "warn_notice_count": 0,
+  "median_wage_usd": 136635.0,
+  "by_fy": [
+    {
+      "fy": 2026,
+      "filings": 9,
+      "median_wage_usd": 136635.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "STAFF ENGINEER",
+      "count": 2,
+      "median_wage_usd": 145702.5
+    },
+    {
+      "title": "Sr. Systems Engineer",
+      "count": 1,
+      "median_wage_usd": 113495.0
+    },
+    {
+      "title": "PROGRAM MANAGER",
+      "count": 1,
+      "median_wage_usd": 124535.0
+    },
+    {
+      "title": "Staff Engineer",
+      "count": 1,
+      "median_wage_usd": 120150.0
+    },
+    {
+      "title": "SENIOR DIRECTOR - AE GLOBAL MERCHANDISING",
+      "count": 1,
+      "median_wage_usd": 225500.0
+    },
+    {
+      "title": "Sr. Manager - Quality Engineering",
+      "count": 1,
+      "median_wage_usd": 150235.0
+    },
+    {
+      "title": "DESIGNER",
+      "count": 1,
+      "median_wage_usd": 106970.0
+    },
+    {
+      "title": "MANAGER - ENGINEERING",
+      "count": 1,
+      "median_wage_usd": 158980.0
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "PA",
+      "count": 7
+    },
+    {
+      "state": "NY",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 150235.0,
+    "gap_usd": 20075.0
+  }
+}

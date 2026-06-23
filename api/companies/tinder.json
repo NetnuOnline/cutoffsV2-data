@@ -1,0 +1,143 @@
+{
+  "slug": "tinder",
+  "canonical_name": "Tinder LLC",
+  "fein": "46-0478183",
+  "lca_filing_count": 53,
+  "lca_worker_positions": 53,
+  "warn_notice_count": 0,
+  "median_wage_usd": 184558.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 12,
+      "median_wage_usd": 166705.5
+    },
+    {
+      "fy": 2025,
+      "filings": 25,
+      "median_wage_usd": 187741.0
+    },
+    {
+      "fy": 2026,
+      "filings": 16,
+      "median_wage_usd": 195000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer, Backend",
+      "count": 4,
+      "median_wage_usd": 154432.5
+    },
+    {
+      "title": "Software Engineer, Machine Learning",
+      "count": 3,
+      "median_wage_usd": 177606.0
+    },
+    {
+      "title": "Staff Software Engineer, Machine Learning",
+      "count": 2,
+      "median_wage_usd": 252879.0
+    },
+    {
+      "title": "Engineering Manager II",
+      "count": 2,
+      "median_wage_usd": 176134.0
+    },
+    {
+      "title": "Senior Software Engineer, Machine Learning",
+      "count": 2,
+      "median_wage_usd": 229414.0
+    },
+    {
+      "title": "Sr. Software Engineer, Backend",
+      "count": 2,
+      "median_wage_usd": 222500.0
+    },
+    {
+      "title": "Software Engineer, Machine Learning Infrastructure",
+      "count": 2,
+      "median_wage_usd": 187741.0
+    },
+    {
+      "title": "PRODUCT MANAGER",
+      "count": 2,
+      "median_wage_usd": 128000.0
+    },
+    {
+      "title": "Engineering Manager (Core Experience Backend)",
+      "count": 2,
+      "median_wage_usd": 176134.0
+    },
+    {
+      "title": "Sr. Software Engineer, iOS",
+      "count": 2,
+      "median_wage_usd": 220000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 10
+    },
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 9
+    },
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 3
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "county": "SHERBORN",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 46
+    },
+    {
+      "state": "TX",
+      "count": 4
+    },
+    {
+      "state": "WA",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 186149.5,
+    "gap_usd": 55989.5
+  }
+}

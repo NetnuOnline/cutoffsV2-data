@@ -1,0 +1,126 @@
+{
+  "slug": "lucid-group-usa",
+  "canonical_name": "Lucid Group USA, Inc.",
+  "fein": "85-2854921",
+  "lca_filing_count": 16,
+  "lca_worker_positions": 16,
+  "warn_notice_count": 0,
+  "median_wage_usd": 126269.5,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 4,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 5,
+      "median_wage_usd": 116646.0
+    },
+    {
+      "fy": 2024,
+      "filings": 4,
+      "median_wage_usd": 119249.5
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 126131.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 132496.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Sr. Data Analyst, Service Analytics",
+      "count": 2,
+      "median_wage_usd": 136280.5
+    },
+    {
+      "title": "Manager, Demand and Material Planning",
+      "count": 1,
+      "median_wage_usd": 126131.0
+    },
+    {
+      "title": "Business Operations Analyst",
+      "count": 1,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "Packaging Design Engineer",
+      "count": 1,
+      "median_wage_usd": 92102.0
+    },
+    {
+      "title": "Sr. Development Verification",
+      "count": 1,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "title": "Sr. Service NPI Technical Program Manager",
+      "count": 1,
+      "median_wage_usd": 112091.0
+    },
+    {
+      "title": "Data Analyst, Sales Analytics",
+      "count": 1,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "Sr. Technical Writer",
+      "count": 1,
+      "median_wage_usd": 132496.0
+    },
+    {
+      "title": "Sr. Field Service Engineer, Software",
+      "count": 1,
+      "median_wage_usd": 135741.0
+    },
+    {
+      "title": "Technical Writer",
+      "count": 1,
+      "median_wage_usd": 101670.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 14
+    },
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 15
+    },
+    {
+      "state": "AZ",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Business Intelligence Analysts",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 121527.0,
+    "gap_usd": 13507.0
+  }
+}

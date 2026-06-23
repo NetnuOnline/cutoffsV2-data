@@ -1,0 +1,56 @@
+{
+  "slug": "rogers-company-cpas-pllc",
+  "canonical_name": "ROGERS & COMPANY CPAS, PLLC",
+  "fein": null,
+  "lca_filing_count": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 67800.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 64800.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 89700.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Auditor ",
+      "count": 2,
+      "median_wage_usd": 66300.0
+    },
+    {
+      "title": "Audit Manager",
+      "count": 1,
+      "median_wage_usd": 111600.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "VA",
+      "county": "FAIRFAX",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "VA",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-2011",
+    "soc_title": "Accountants and Auditors",
+    "market_median_usd": 79000.0,
+    "employer_median_usd": 89700.0,
+    "gap_usd": 10700.0
+  }
+}

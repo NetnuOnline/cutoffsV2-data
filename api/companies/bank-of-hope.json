@@ -1,0 +1,144 @@
+{
+  "slug": "bank-of-hope",
+  "canonical_name": "Bank of Hope",
+  "fein": "95-3972168",
+  "lca_filing_count": 11,
+  "lca_worker_positions": 11,
+  "warn_notice_count": 0,
+  "median_wage_usd": 142000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 130824.5
+    },
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 143500.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 144000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 214000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Quantitative Analyst I",
+      "count": 1,
+      "median_wage_usd": 83000.0
+    },
+    {
+      "title": "FVP, Quantitative Analytics Manager",
+      "count": 1,
+      "median_wage_usd": 148649.0
+    },
+    {
+      "title": "Model Validation Analyst III",
+      "count": 1,
+      "median_wage_usd": 113000.0
+    },
+    {
+      "title": "FVP, D365 CRM Development Manager",
+      "count": 1,
+      "median_wage_usd": 214000.0
+    },
+    {
+      "title": "VP, Lead CRM Developer",
+      "count": 1,
+      "median_wage_usd": 145000.0
+    },
+    {
+      "title": "VP, UI/UX Design Manager",
+      "count": 1,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "AVP, Sr. Database Administrator",
+      "count": 1,
+      "median_wage_usd": 142000.0
+    },
+    {
+      "title": "FVP, Software Development Manager",
+      "count": 1,
+      "median_wage_usd": 163000.0
+    },
+    {
+      "title": "FVP, IT SDET Manager",
+      "count": 1,
+      "median_wage_usd": 145000.0
+    },
+    {
+      "title": "AVP, IT Developer - Applications",
+      "count": 1,
+      "median_wage_usd": 125000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 5
+    },
+    {
+      "state": "CA",
+      "county": "SAN DIEGO",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "county": "MECKLENBURG",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 8
+    },
+    {
+      "state": "KY",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 145000.0,
+    "gap_usd": 14840.0
+  }
+}

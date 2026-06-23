@@ -1,0 +1,117 @@
+{
+  "slug": "pbs-west",
+  "canonical_name": "PBS West, LLC",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 9,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 4
+    },
+    {
+      "state": "NV",
+      "count": 1
+    },
+    {
+      "state": "OR",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "count": 1
+    },
+    {
+      "state": "AZ",
+      "count": 1
+    },
+    {
+      "state": "HI",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "08/14/2023",
+      "effective_date": "11/01/2023",
+      "state": "NY",
+      "workers": 1,
+      "city": null
+    },
+    {
+      "date": "07/10/2023",
+      "effective_date": "11/01/2023",
+      "state": "NY",
+      "workers": 1,
+      "city": null
+    },
+    {
+      "date": "07/10/2023",
+      "effective_date": "11/01/2023",
+      "state": "NY",
+      "workers": 1,
+      "city": "Rochester"
+    },
+    {
+      "date": "07/10/2023",
+      "effective_date": "09/06/2023",
+      "state": "NV",
+      "workers": 16,
+      "city": "Reno, Washoe County"
+    },
+    {
+      "date": "07/10/2023",
+      "effective_date": "11/01/2023",
+      "state": "NY",
+      "workers": 1,
+      "city": null
+    },
+    {
+      "date": "07/07/2023",
+      "effective_date": "09/06/2023",
+      "state": "OR",
+      "workers": 50,
+      "city": "Corvallis"
+    },
+    {
+      "date": "07/07/2023",
+      "effective_date": "09/06/2023",
+      "state": "NC",
+      "workers": 2,
+      "city": "6980 Sierra Center Pkwy, Reno NV"
+    },
+    {
+      "date": "07/07/2023",
+      "effective_date": "07/07/2023",
+      "state": "AZ",
+      "workers": 0,
+      "city": "Reno"
+    },
+    {
+      "date": "07/07/2023",
+      "effective_date": "07/07/2023",
+      "state": "HI",
+      "workers": 0,
+      "city": null
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "monroe-county-lwia",
+      "name": "Monroe County LWIA",
+      "state": "NY"
+    },
+    {
+      "slug": "northwest-oregon-wia",
+      "name": "Northwest Oregon WIA",
+      "state": "OR"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

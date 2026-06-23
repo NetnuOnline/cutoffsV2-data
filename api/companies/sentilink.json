@@ -1,0 +1,129 @@
+{
+  "slug": "sentilink",
+  "canonical_name": "SentiLink Corp.",
+  "fein": "82-2379442",
+  "lca_filing_count": 9,
+  "lca_worker_positions": 9,
+  "warn_notice_count": 0,
+  "median_wage_usd": 135000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 157477.0
+    },
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 90854.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 124650.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 196920.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Data Scientist",
+      "count": 2,
+      "median_wage_usd": 110427.0
+    },
+    {
+      "title": "Senior Business Analyst",
+      "count": 2,
+      "median_wage_usd": 129825.0
+    },
+    {
+      "title": "Staff Software Engineer",
+      "count": 1,
+      "median_wage_usd": 216000.0
+    },
+    {
+      "title": "Senior Data Scientist",
+      "count": 1,
+      "median_wage_usd": 177840.0
+    },
+    {
+      "title": "Security Engineer",
+      "count": 1,
+      "median_wage_usd": 109138.0
+    },
+    {
+      "title": "Staff Engineer, SRE",
+      "count": 1,
+      "median_wage_usd": 215197.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 1,
+      "median_wage_usd": 157477.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 3
+    },
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 2
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "county": "PHILADELPHIA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 4
+    },
+    {
+      "state": "TX",
+      "count": 3
+    },
+    {
+      "state": "PA",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 129825.0,
+    "gap_usd": 21805.0
+  }
+}

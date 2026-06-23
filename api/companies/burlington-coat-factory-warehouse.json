@@ -1,0 +1,115 @@
+{
+  "slug": "burlington-coat-factory-warehouse",
+  "canonical_name": "Burlington Coat Factory Warehouse Corporation",
+  "fein": "22-1970303",
+  "lca_filing_count": 9,
+  "lca_worker_positions": 9,
+  "warn_notice_count": 0,
+  "median_wage_usd": 135000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 82249.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 148000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 131300.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 113000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 155000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Application Development Analyst IV",
+      "count": 2,
+      "median_wage_usd": 148000.0
+    },
+    {
+      "title": "Manager, Data Engineering",
+      "count": 1,
+      "median_wage_usd": 155000.0
+    },
+    {
+      "title": "Business Intelligence Engineer III",
+      "count": 1,
+      "median_wage_usd": 127600.0
+    },
+    {
+      "title": "Application Developer III",
+      "count": 1,
+      "median_wage_usd": 113000.0
+    },
+    {
+      "title": "Application Development Analyst II",
+      "count": 1,
+      "median_wage_usd": 77463.0
+    },
+    {
+      "title": "Energy Engineering Project Manager",
+      "count": 1,
+      "median_wage_usd": 87035.0
+    },
+    {
+      "title": "Manager - Web Development & Operations.",
+      "count": 1,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "title": "Application Development Analyst III",
+      "count": 1,
+      "median_wage_usd": 155000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NJ",
+      "county": "BURLINGTON",
+      "count": 6
+    },
+    {
+      "state": "NC",
+      "county": "WAKE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 7
+    },
+    {
+      "state": "FL",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 127600.0,
+    "gap_usd": -2560.0
+  }
+}

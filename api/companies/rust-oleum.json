@@ -1,0 +1,106 @@
+{
+  "slug": "rust-oleum",
+  "canonical_name": "Rust-Oleum Corporation",
+  "fein": "36-1716180",
+  "lca_filing_count": 7,
+  "lca_worker_positions": 7,
+  "warn_notice_count": 0,
+  "median_wage_usd": 125445.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 121389.0
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 125445.0
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 92000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 138029.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 153317.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "R&D Scientist",
+      "count": 1,
+      "median_wage_usd": 92000.0
+    },
+    {
+      "title": "Sr. Application Developer",
+      "count": 1,
+      "median_wage_usd": 153317.0
+    },
+    {
+      "title": "Functional Analyst - SAP",
+      "count": 1,
+      "median_wage_usd": 121389.0
+    },
+    {
+      "title": "Lead Software Developer",
+      "count": 1,
+      "median_wage_usd": 125445.0
+    },
+    {
+      "title": "Sr. Business Analyst, Sales & Distribution",
+      "count": 1,
+      "median_wage_usd": 131498.0
+    },
+    {
+      "title": "Lead, IT Product - Distribution Operations",
+      "count": 1,
+      "median_wage_usd": 144560.0
+    },
+    {
+      "title": "Senior Functional Analyst/SAP",
+      "count": 1,
+      "median_wage_usd": 121389.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IL",
+      "county": "LAKE",
+      "count": 5
+    },
+    {
+      "state": "WI",
+      "county": "KENOSHA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 6
+    },
+    {
+      "state": "WI",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 148938.5,
+    "gap_usd": 18778.5
+  }
+}

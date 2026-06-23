@@ -1,0 +1,137 @@
+{
+  "slug": "suncoke-energy",
+  "canonical_name": "Suncoke Energy, Inc.",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 3,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "VA",
+      "count": 3
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "01/29/2015",
+      "effective_date": "01/29/2015",
+      "state": "VA",
+      "workers": 151,
+      "city": "Oakwood, VA"
+    },
+    {
+      "date": "12/15/2014",
+      "effective_date": "12/15/2014",
+      "state": "VA",
+      "workers": 160,
+      "city": "Oakwood, VA"
+    },
+    {
+      "date": "02/08/2013",
+      "effective_date": "02/09/2013",
+      "state": "VA",
+      "workers": 51,
+      "city": "Oakwood, VA"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "southwestern-virginia-lwia-i",
+      "name": "Southwestern Virginia LWIA I",
+      "state": "VA"
+    }
+  ],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2022-03-07",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-22-067224",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001514705&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2020-12-14",
+        "formType": "8-K/A",
+        "accessionNumber": "0001193125-20-316996",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001514705&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2017-11-13",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-17-339175",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001514705&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2016-04-12",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-16-538552",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001514705&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2014-12-15",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-14-442693",
+        "items": [
+          "2.05",
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities",
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001514705&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2014-07-23",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-14-277058",
+        "items": [
+          "2.05",
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities",
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001514705&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 6,
+    "itemCounts": {
+      "5.02": 3,
+      "2.05": 3,
+      "2.06": 2
+    },
+    "latestFilingDate": "2022-03-07",
+    "earliestFilingDate": "2014-07-23"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

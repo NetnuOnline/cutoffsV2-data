@@ -1,0 +1,97 @@
+{
+  "slug": "american-consulting-solutions",
+  "canonical_name": "American Consulting Solutions, Inc.",
+  "fein": "45-3080754",
+  "lca_filing_count": 11,
+  "lca_worker_positions": 11,
+  "warn_notice_count": 0,
+  "median_wage_usd": 110100.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 90000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 117000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 105000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 110100.0
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 114171.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Information Security Engineer",
+      "count": 3,
+      "median_wage_usd": 105000.0
+    },
+    {
+      "title": "Senior Systems Administrator",
+      "count": 2,
+      "median_wage_usd": 126027.0
+    },
+    {
+      "title": "Software Developer- Sailpoint",
+      "count": 2,
+      "median_wage_usd": 98554.0
+    },
+    {
+      "title": "Application Developer",
+      "count": 1,
+      "median_wage_usd": 90000.0
+    },
+    {
+      "title": "Senior Cybersecurity Engineer / Security Risk Engineer",
+      "count": 1,
+      "median_wage_usd": 110100.0
+    },
+    {
+      "title": "Information Technology Project Manager",
+      "count": 1,
+      "median_wage_usd": 117000.0
+    },
+    {
+      "title": "Senior Security Engineer",
+      "count": 1,
+      "median_wage_usd": 110100.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "FL",
+      "county": "PALM BEACH",
+      "count": 5
+    }
+  ],
+  "top_states": [
+    {
+      "state": "FL",
+      "count": 11
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Information Security Engineers",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 110100.0,
+    "gap_usd": -7900.0
+  }
+}

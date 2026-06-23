@@ -1,0 +1,135 @@
+{
+  "slug": "sealed-air-us",
+  "canonical_name": "Sealed Air Corporation (US)",
+  "fein": "22-1682767",
+  "lca_filing_count": 16,
+  "lca_worker_positions": 16,
+  "warn_notice_count": 0,
+  "median_wage_usd": 106997.36,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 5,
+      "median_wage_usd": 99270.22
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 125730.0
+    },
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 71667.74
+    },
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 90043.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 127633.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 155344.815,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 2,
+      "median_wage_usd": 89711.0
+    },
+    {
+      "title": "Digital Software Engineer III",
+      "count": 2,
+      "median_wage_usd": 130324.815
+    },
+    {
+      "title": "Applications Business Analyst",
+      "count": 2,
+      "median_wage_usd": 126816.5
+    },
+    {
+      "title": "Information Security Analyst ",
+      "count": 1,
+      "median_wage_usd": 99270.22
+    },
+    {
+      "title": "Information Security Analyst - IDM",
+      "count": 1,
+      "median_wage_usd": 97796.0
+    },
+    {
+      "title": "Senior IT Business Analyst",
+      "count": 1,
+      "median_wage_usd": 127774.0
+    },
+    {
+      "title": "Product Engineer I",
+      "count": 1,
+      "median_wage_usd": 71667.74
+    },
+    {
+      "title": "Senior Architect - Enterprise Business Systems.",
+      "count": 1,
+      "median_wage_usd": 164436.64
+    },
+    {
+      "title": "Executive Director, Applications Engineering",
+      "count": 1,
+      "median_wage_usd": 175500.0
+    },
+    {
+      "title": "Total Rewards Analyst",
+      "count": 1,
+      "median_wage_usd": 65000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NC",
+      "county": "MECKLENBURG",
+      "count": 11
+    },
+    {
+      "state": "SC",
+      "county": "YORK",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NC",
+      "count": 14
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "SC",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 90043.0,
+    "gap_usd": -40117.0
+  }
+}

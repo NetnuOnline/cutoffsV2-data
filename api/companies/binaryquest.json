@@ -1,0 +1,79 @@
+{
+  "slug": "binaryquest",
+  "canonical_name": "BINARYQUEST INC.",
+  "fein": "88-3415745",
+  "lca_filing_count": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 95180.8,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 99548.8
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 94681.6
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "QA TEST ENGINEER",
+      "count": 1,
+      "median_wage_usd": 99548.8
+    },
+    {
+      "title": "SPLUNK ENGINEER",
+      "count": 1,
+      "median_wage_usd": 94681.6
+    },
+    {
+      "title": "SOFTWARE ENGINEER",
+      "count": 1,
+      "median_wage_usd": 72800.0
+    },
+    {
+      "title": "SALESFORCE DEVELOPER",
+      "count": 1,
+      "median_wage_usd": 95680.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NJ",
+      "county": "UNION",
+      "count": 1
+    },
+    {
+      "state": "CT",
+      "county": "HARTFORD CITY",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 2
+    },
+    {
+      "state": "DE",
+      "count": 1
+    },
+    {
+      "state": "CT",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1253",
+    "soc_title": "Software Quality Assurance Analysts and Testers",
+    "market_median_usd": 101800.0,
+    "employer_median_usd": 86174.4,
+    "gap_usd": -15625.6
+  }
+}

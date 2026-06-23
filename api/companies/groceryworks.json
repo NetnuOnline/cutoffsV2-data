@@ -1,0 +1,68 @@
+{
+  "slug": "groceryworks",
+  "canonical_name": "GroceryWorks",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 5,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "MD",
+      "count": 4
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "12/09/2020",
+      "effective_date": "02/27/2021",
+      "state": "MD",
+      "workers": 2,
+      "city": "Westminster"
+    },
+    {
+      "date": "12/09/2020",
+      "effective_date": "02/27/2021",
+      "state": "MD",
+      "workers": 6,
+      "city": "Ellicott City"
+    },
+    {
+      "date": "12/09/2020",
+      "effective_date": "02/27/2021",
+      "state": "MD",
+      "workers": 17,
+      "city": "Towson"
+    },
+    {
+      "date": "12/09/2020",
+      "effective_date": "02/27/2021",
+      "state": "MD",
+      "workers": 2,
+      "city": "Baltimore"
+    },
+    {
+      "date": "12/08/2020",
+      "effective_date": "02/27/2021",
+      "state": "CA",
+      "workers": 66,
+      "city": "Sacramento"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "mid-maryland-wia",
+      "name": "MID-Maryland WIA",
+      "state": "MD"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

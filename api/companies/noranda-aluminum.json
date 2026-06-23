@@ -1,0 +1,52 @@
+{
+  "slug": "noranda-aluminum",
+  "canonical_name": "Noranda Aluminum",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "LA",
+      "count": 1
+    },
+    {
+      "state": "MO",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "01/13/2016",
+      "effective_date": "03/14/2016",
+      "state": "LA",
+      "workers": 444,
+      "city": "Gramercy"
+    },
+    {
+      "date": "01/13/2016",
+      "effective_date": "01/13/2016",
+      "state": "MO",
+      "workers": 710,
+      "city": "New Madrid"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "st-charles-parish-consortium-wia",
+      "name": "St. Charles Parish Consortium WIA",
+      "state": "LA"
+    },
+    {
+      "slug": "southeast-region-wib",
+      "name": "Southeast Region WIB",
+      "state": "MO"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

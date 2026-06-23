@@ -1,0 +1,73 @@
+{
+  "slug": "arenanet",
+  "canonical_name": "ArenaNet, LLC",
+  "fein": "46-1675390",
+  "lca_filing_count": 4,
+  "warn_notice_count": 1,
+  "median_wage_usd": 102712.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 81743.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 127392.2
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Gameplay Engineer",
+      "count": 2,
+      "median_wage_usd": 125536.6
+    },
+    {
+      "title": "Animator",
+      "count": 1,
+      "median_wage_usd": 75011.0
+    },
+    {
+      "title": "Game Designer",
+      "count": 1,
+      "median_wage_usd": 81743.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "WA",
+      "count": 4
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 4
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "02/25/2019",
+      "effective_date": "03/01/2019",
+      "state": "WA",
+      "workers": 143,
+      "city": "Bellevue"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 125536.6,
+    "gap_usd": -4623.4
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "slug": "alo",
+  "canonical_name": "Alo LLC",
+  "fein": "81-4726986",
+  "lca_filing_count": 21,
+  "lca_worker_positions": 21,
+  "warn_notice_count": 0,
+  "median_wage_usd": 220000.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 3,
+      "median_wage_usd": 220000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 192500.0
+    },
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 200000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 7,
+      "median_wage_usd": 225014.40000000002
+    },
+    {
+      "fy": 2026,
+      "filings": 6,
+      "median_wage_usd": 222500.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Inventory Data Scientist",
+      "count": 3,
+      "median_wage_usd": 144200.16
+    },
+    {
+      "title": "Corporate Counsel",
+      "count": 2,
+      "median_wage_usd": 225014.40000000002
+    },
+    {
+      "title": "Software Developer, Retail Systems",
+      "count": 2,
+      "median_wage_usd": 253000.0
+    },
+    {
+      "title": "Software Quality Engineer",
+      "count": 2,
+      "median_wage_usd": 192500.0
+    },
+    {
+      "title": "Data Scientist",
+      "count": 2,
+      "median_wage_usd": 220000.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 2,
+      "median_wage_usd": 262500.0
+    },
+    {
+      "title": "Marketing Manager, Alo Moves",
+      "count": 1,
+      "median_wage_usd": 245000.0
+    },
+    {
+      "title": "OMS Database Lead",
+      "count": 1,
+      "median_wage_usd": 190000.0
+    },
+    {
+      "title": "Salesforce Software Developer",
+      "count": 1,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Software Integration Engineer",
+      "count": 1,
+      "median_wage_usd": 225000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 7
+    },
+    {
+      "state": "TN",
+      "county": "DAVIDSON",
+      "count": 1
+    },
+    {
+      "state": "TN",
+      "county": "MAURY",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 19
+    },
+    {
+      "state": "TN",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 230000.0,
+    "gap_usd": 99840.0
+  }
+}

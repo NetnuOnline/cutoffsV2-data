@@ -1,0 +1,203 @@
+{
+  "slug": "chewy",
+  "canonical_name": "Chewy, Inc.",
+  "fein": "90-1020167",
+  "lca_filing_count": 367,
+  "lca_worker_positions": 360,
+  "warn_notice_count": 0,
+  "median_wage_usd": 150000.24,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 46,
+      "median_wage_usd": 125000.2
+    },
+    {
+      "fy": 2021,
+      "filings": 64,
+      "median_wage_usd": 145000.18
+    },
+    {
+      "fy": 2022,
+      "filings": 59,
+      "median_wage_usd": 163000.24
+    },
+    {
+      "fy": 2023,
+      "filings": 55,
+      "median_wage_usd": 150000.24
+    },
+    {
+      "fy": 2024,
+      "filings": 48,
+      "median_wage_usd": 173350.06
+    },
+    {
+      "fy": 2025,
+      "filings": 40,
+      "median_wage_usd": 158613.865
+    },
+    {
+      "fy": 2026,
+      "filings": 48,
+      "median_wage_usd": 162876.445,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer II",
+      "count": 49,
+      "median_wage_usd": 144200.16
+    },
+    {
+      "title": "Software Engineer III",
+      "count": 29,
+      "median_wage_usd": 172000.14
+    },
+    {
+      "title": "Data Engineer III",
+      "count": 14,
+      "median_wage_usd": 173606.71000000002
+    },
+    {
+      "title": "Software Development Manager",
+      "count": 10,
+      "median_wage_usd": 185600.02000000002
+    },
+    {
+      "title": "Software Engineer I",
+      "count": 9,
+      "median_wage_usd": 124300.02
+    },
+    {
+      "title": "Staff Software Engineer",
+      "count": 9,
+      "median_wage_usd": 205000.12
+    },
+    {
+      "title": "Senior Supply Chain Program Manager",
+      "count": 8,
+      "median_wage_usd": 148250.0
+    },
+    {
+      "title": "SOFTWARE ENGINEER II",
+      "count": 8,
+      "median_wage_usd": 156388.54
+    },
+    {
+      "title": "Business Intelligence Engineer II",
+      "count": 7,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "title": "Machine Learning Engineer III",
+      "count": 7,
+      "median_wage_usd": 195000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MA",
+      "county": "BOSTON CITY",
+      "count": 99
+    },
+    {
+      "state": "FL",
+      "county": "BROWARD",
+      "count": 85
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 63
+    },
+    {
+      "state": "MN",
+      "county": "HENNEPIN",
+      "count": 23
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 7
+    },
+    {
+      "state": "PA",
+      "county": "LACKAWANNA",
+      "count": 2
+    },
+    {
+      "state": "KS",
+      "county": "JOHNSON",
+      "count": 2
+    },
+    {
+      "state": "NV",
+      "county": "WASHOE",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "county": "MARION",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "county": "LUZERNE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MA",
+      "count": 123
+    },
+    {
+      "state": "FL",
+      "count": 98
+    },
+    {
+      "state": "WA",
+      "count": 90
+    },
+    {
+      "state": "MN",
+      "count": 30
+    },
+    {
+      "state": "TX",
+      "count": 15
+    },
+    {
+      "state": "PA",
+      "count": 4
+    },
+    {
+      "state": "AZ",
+      "count": 2
+    },
+    {
+      "state": "KS",
+      "count": 2
+    },
+    {
+      "state": "NV",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 156650.01,
+    "gap_usd": 26490.01
+  }
+}

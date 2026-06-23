@@ -1,0 +1,56 @@
+{
+  "slug": "gertrudes-u-rinon",
+  "canonical_name": "GERTRUDES U. RINON",
+  "fein": "66-0914699",
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 44179.2,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 35318.4
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 53040.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "IT SPECIALIST",
+      "count": 1,
+      "median_wage_usd": 53040.0
+    },
+    {
+      "title": "Accountant",
+      "count": 1,
+      "median_wage_usd": 35318.4
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MP",
+      "county": "SAIPAN",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MP",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-2011",
+    "soc_title": "Accountants and Auditors",
+    "market_median_usd": 79000.0,
+    "employer_median_usd": 35318.4,
+    "gap_usd": -43681.6
+  }
+}

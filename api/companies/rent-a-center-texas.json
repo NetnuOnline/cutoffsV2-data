@@ -1,0 +1,107 @@
+{
+  "slug": "rent-a-center-texas",
+  "canonical_name": "Rent-a-Center Texas, LP",
+  "fein": "45-0491512",
+  "lca_filing_count": 10,
+  "lca_worker_positions": 10,
+  "warn_notice_count": 0,
+  "median_wage_usd": 153068.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 136136.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 187725.0
+    },
+    {
+      "fy": 2026,
+      "filings": 5,
+      "median_wage_usd": 170000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Principal Software Engineer",
+      "count": 1,
+      "median_wage_usd": 187725.0
+    },
+    {
+      "title": "Software Engineer IV  9981467",
+      "count": 1,
+      "median_wage_usd": 170000.0
+    },
+    {
+      "title": "Business Intelligence Analyst 7616977",
+      "count": 1,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "Sr. Analyst \u2013 Digital Analytics 7311294",
+      "count": 1,
+      "median_wage_usd": 88281.72
+    },
+    {
+      "title": "Senior Director- Strategy & Analytics 7745458",
+      "count": 1,
+      "median_wage_usd": 200000.0
+    },
+    {
+      "title": "Senior Business Intelligence Analyst  9905649",
+      "count": 1,
+      "median_wage_usd": 96034.0
+    },
+    {
+      "title": "Manager \u201c Risk & Decisions Systems 9905647",
+      "count": 1,
+      "median_wage_usd": 124845.0
+    },
+    {
+      "title": "Technical Delivery Manager 8551920",
+      "count": 1,
+      "median_wage_usd": 136136.0
+    },
+    {
+      "title": "Principal Application Administrator 9905650",
+      "count": 1,
+      "median_wage_usd": 197780.0
+    },
+    {
+      "title": "Principal, Data Architect and Engineer 9938340",
+      "count": 1,
+      "median_wage_usd": 176796.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 4
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 10
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 187725.0,
+    "gap_usd": 57565.0
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "slug": "dynata",
+  "canonical_name": "Dynata, LLC",
+  "fein": "92-0188807",
+  "lca_filing_count": 19,
+  "lca_worker_positions": 19,
+  "warn_notice_count": 0,
+  "median_wage_usd": 107163.75,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 128581.905
+    },
+    {
+      "fy": 2021,
+      "filings": 4,
+      "median_wage_usd": 106150.0
+    },
+    {
+      "fy": 2022,
+      "filings": 4,
+      "median_wage_usd": 131727.0
+    },
+    {
+      "fy": 2024,
+      "filings": 4,
+      "median_wage_usd": 100909.62
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 134000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 121670.11,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Software Engineer",
+      "count": 3,
+      "median_wage_usd": 133105.0
+    },
+    {
+      "title": "Product Manager (Technology)",
+      "count": 2,
+      "median_wage_usd": 102573.33
+    },
+    {
+      "title": "Product Designer",
+      "count": 2,
+      "median_wage_usd": 106150.0
+    },
+    {
+      "title": "Team Lead, Network Infrastructure",
+      "count": 2,
+      "median_wage_usd": 132174.79499999998
+    },
+    {
+      "title": "Senior QA Engineer",
+      "count": 1,
+      "median_wage_usd": 99245.91
+    },
+    {
+      "title": "Creative Software Engineer",
+      "count": 1,
+      "median_wage_usd": 107163.75
+    },
+    {
+      "title": "Team Lead of Infrastructure-Network",
+      "count": 1,
+      "median_wage_usd": 130349.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 1,
+      "median_wage_usd": 106848.0
+    },
+    {
+      "title": "QA Engineer",
+      "count": 1,
+      "median_wage_usd": 95790.0
+    },
+    {
+      "title": "Network Engineer",
+      "count": 1,
+      "median_wage_usd": 99070.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 5
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 4
+    },
+    {
+      "state": "CT",
+      "county": "FAIRFIELD",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 9
+    },
+    {
+      "state": "CA",
+      "count": 8
+    },
+    {
+      "state": "CT",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 133105.0,
+    "gap_usd": 2945.0
+  }
+}

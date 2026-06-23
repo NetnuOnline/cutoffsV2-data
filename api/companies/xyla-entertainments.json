@@ -1,0 +1,56 @@
+{
+  "slug": "xyla-entertainments",
+  "canonical_name": "XYLA Entertainments LLC",
+  "fein": null,
+  "lca_filing_count": 7,
+  "warn_notice_count": 0,
+  "median_wage_usd": 105061.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 7,
+      "median_wage_usd": 105061.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer ",
+      "count": 4,
+      "median_wage_usd": 105061.0
+    },
+    {
+      "title": "SAP Project Manager ",
+      "count": 2,
+      "median_wage_usd": 75140.0
+    },
+    {
+      "title": "SAP Project Manager - II",
+      "count": 1,
+      "median_wage_usd": 64813.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NJ",
+      "county": "MERCER",
+      "count": 7
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 7
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 7,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 105061.0,
+    "gap_usd": -25099.0
+  }
+}

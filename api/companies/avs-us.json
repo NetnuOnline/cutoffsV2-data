@@ -1,0 +1,76 @@
+{
+  "slug": "avs-us",
+  "canonical_name": "AVS LLC US",
+  "fein": "85-0819021",
+  "lca_filing_count": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 91062.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 5,
+      "median_wage_usd": 91062.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Project Manager",
+      "count": 1,
+      "median_wage_usd": 87443.0
+    },
+    {
+      "title": "Data Engineer",
+      "count": 1,
+      "median_wage_usd": 105227.0
+    },
+    {
+      "title": "AWS Cloud Solutions Architect",
+      "count": 1,
+      "median_wage_usd": 80371.0
+    },
+    {
+      "title": "AWS Cloud Native Software Application Developer",
+      "count": 1,
+      "median_wage_usd": 105227.0
+    },
+    {
+      "title": "Senior Applications Cloud DBA",
+      "count": 1,
+      "median_wage_usd": 91062.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 3
+    },
+    {
+      "state": "GA",
+      "county": "MONROE",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "county": "DEKALB",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 5
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 5,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 105227.0,
+    "gap_usd": -24933.0
+  }
+}

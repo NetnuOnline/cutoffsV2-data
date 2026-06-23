@@ -1,0 +1,143 @@
+{
+  "slug": "american-family-life-assurance-company-of-columbus-aflac",
+  "canonical_name": "AMERICAN FAMILY LIFE ASSURANCE COMPANY OF COLUMBUS (AFLAC)",
+  "fein": "82-2723296",
+  "lca_filing_count": 25,
+  "lca_worker_positions": 25,
+  "warn_notice_count": 0,
+  "median_wage_usd": 127002.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 5,
+      "median_wage_usd": 98322.0
+    },
+    {
+      "fy": 2021,
+      "filings": 3,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 4,
+      "median_wage_usd": 126000.5
+    },
+    {
+      "fy": 2024,
+      "filings": 5,
+      "median_wage_usd": 132609.0
+    },
+    {
+      "fy": 2025,
+      "filings": 6,
+      "median_wage_usd": 138796.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 159405.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Principal Software Engineer",
+      "count": 5,
+      "median_wage_usd": 139041.0
+    },
+    {
+      "title": "Technical Consultant",
+      "count": 4,
+      "median_wage_usd": 122499.5
+    },
+    {
+      "title": "Principal Platform Engineer",
+      "count": 2,
+      "median_wage_usd": 135568.0
+    },
+    {
+      "title": "SQL Developer",
+      "count": 2,
+      "median_wage_usd": 71146.5
+    },
+    {
+      "title": "Sr. Application Developer",
+      "count": 2,
+      "median_wage_usd": 126076.0
+    },
+    {
+      "title": "Software Engineer III",
+      "count": 2,
+      "median_wage_usd": 126241.5
+    },
+    {
+      "title": "Solutions Engineer",
+      "count": 1,
+      "median_wage_usd": 187999.0
+    },
+    {
+      "title": "Digital Service Delivery Lead",
+      "count": 1,
+      "median_wage_usd": 184747.0
+    },
+    {
+      "title": "Sr. Java Developer",
+      "count": 1,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "title": "Sr. Consultant, Corp. Development",
+      "count": 1,
+      "median_wage_usd": 166000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "GA",
+      "county": "MUSCOGEE",
+      "count": 11
+    },
+    {
+      "state": "NC",
+      "county": "MECKLENBURG",
+      "count": 5
+    },
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 16
+    },
+    {
+      "state": "NC",
+      "count": 6
+    },
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 132609.0,
+    "gap_usd": 2449.0
+  }
+}

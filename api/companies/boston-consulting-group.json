@@ -1,0 +1,183 @@
+{
+  "slug": "boston-consulting-group",
+  "canonical_name": "Boston Consulting Group, Inc.",
+  "fein": "04-2432614",
+  "lca_filing_count": 316,
+  "lca_worker_positions": 310,
+  "warn_notice_count": 0,
+  "median_wage_usd": 190008.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 139,
+      "median_wage_usd": 190000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 102,
+      "median_wage_usd": 190000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 69,
+      "median_wage_usd": 225400.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Project Leader",
+      "count": 89,
+      "median_wage_usd": 225400.0
+    },
+    {
+      "title": "Consultant",
+      "count": 66,
+      "median_wage_usd": 190000.0
+    },
+    {
+      "title": "Principal",
+      "count": 21,
+      "median_wage_usd": 252900.0
+    },
+    {
+      "title": "Partner",
+      "count": 12,
+      "median_wage_usd": 268400.0
+    },
+    {
+      "title": "Associate",
+      "count": 11,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "Manager - BCG Vantage",
+      "count": 8,
+      "median_wage_usd": 136900.0
+    },
+    {
+      "title": "Senior Data Scientist",
+      "count": 8,
+      "median_wage_usd": 161500.0
+    },
+    {
+      "title": "Senior AI Engineer",
+      "count": 5,
+      "median_wage_usd": 190000.0
+    },
+    {
+      "title": "Data Scientist",
+      "count": 5,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "INVERTO Project Manager",
+      "count": 5,
+      "median_wage_usd": 175000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 33
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 22
+    },
+    {
+      "state": "MA",
+      "county": "BOSTON CITY",
+      "count": 20
+    },
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 18
+    },
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 10
+    },
+    {
+      "state": "NJ",
+      "county": "UNION",
+      "count": 9
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 9
+    },
+    {
+      "state": "DC",
+      "county": "DISTRICT OF COLUMBIA",
+      "count": 7
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 7
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 5
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 72
+    },
+    {
+      "state": "CA",
+      "count": 46
+    },
+    {
+      "state": "IL",
+      "count": 40
+    },
+    {
+      "state": "MA",
+      "count": 37
+    },
+    {
+      "state": "TX",
+      "count": 33
+    },
+    {
+      "state": "NJ",
+      "count": 20
+    },
+    {
+      "state": "WA",
+      "count": 16
+    },
+    {
+      "state": "GA",
+      "count": 14
+    },
+    {
+      "state": "DC",
+      "count": 14
+    },
+    {
+      "state": "PA",
+      "count": 9
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1111",
+    "soc_title": "Management Analysts",
+    "market_median_usd": 99000.0,
+    "employer_median_usd": 225400.0,
+    "gap_usd": 126400.0
+  }
+}

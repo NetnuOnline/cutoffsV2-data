@@ -1,0 +1,82 @@
+{
+  "slug": "mobolutions",
+  "canonical_name": "Mobolutions, LLC",
+  "fein": "47-2079400",
+  "lca_filing_count": 7,
+  "lca_worker_positions": 7,
+  "warn_notice_count": 0,
+  "median_wage_usd": 117500.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 105150.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 118386.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 120164.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 112923.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SAP HANA Migration & Basis Architect",
+      "count": 2,
+      "median_wage_usd": 114136.0
+    },
+    {
+      "title": "SAP BRIM Senior Consultant",
+      "count": 2,
+      "median_wage_usd": 120164.0
+    },
+    {
+      "title": "SAP Hybris FICA Sr Consultant",
+      "count": 1,
+      "median_wage_usd": 126000.0
+    },
+    {
+      "title": "Senior ABAP Developer",
+      "count": 1,
+      "median_wage_usd": 112923.0
+    },
+    {
+      "title": "SR. FINANCIAL ANALYST",
+      "count": 1,
+      "median_wage_usd": 92800.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 6
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 7
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 120000.0,
+    "gap_usd": -10160.0
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "slug": "vstrs-dba-tekglobal",
+  "canonical_name": "VSTRS LLC DBA TekGlobal",
+  "fein": "82-4075402",
+  "lca_filing_count": 13,
+  "lca_worker_positions": 11,
+  "warn_notice_count": 0,
+  "median_wage_usd": 96200.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 76794.0
+    },
+    {
+      "fy": 2025,
+      "filings": 7,
+      "median_wage_usd": 92248.0
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 101421.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SAP FICO Consultant",
+      "count": 3,
+      "median_wage_usd": 92248.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 2,
+      "median_wage_usd": 101421.0
+    },
+    {
+      "title": "SAP OTC Solution Architect",
+      "count": 1,
+      "median_wage_usd": 131082.0
+    },
+    {
+      "title": "SAP ISU Consultant",
+      "count": 1,
+      "median_wage_usd": 96200.0
+    },
+    {
+      "title": "Senior SAP Basis and BTP Architect",
+      "count": 1,
+      "median_wage_usd": 157934.0
+    },
+    {
+      "title": "SAP SCM Consultant",
+      "count": 1,
+      "median_wage_usd": 75171.0
+    },
+    {
+      "title": "Technical Consultant",
+      "count": 1,
+      "median_wage_usd": 76794.0
+    },
+    {
+      "title": "SAP ISU consultant",
+      "count": 1,
+      "median_wage_usd": 96200.0
+    },
+    {
+      "title": "SAP EWM Consultant",
+      "count": 1,
+      "median_wage_usd": 102190.0
+    },
+    {
+      "title": "Sr. SAP Architect",
+      "count": 1,
+      "median_wage_usd": 134514.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 6
+    },
+    {
+      "state": "VA",
+      "count": 2
+    },
+    {
+      "state": "AZ",
+      "count": 2
+    },
+    {
+      "state": "MI",
+      "count": 2
+    },
+    {
+      "state": "MA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 101805.5,
+    "gap_usd": -28354.5
+  }
+}

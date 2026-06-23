@@ -1,0 +1,75 @@
+{
+  "slug": "ftr",
+  "canonical_name": "FTR, Ltd.",
+  "fein": "86-0793974",
+  "lca_filing_count": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 154500.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 106933.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 167250.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Director, Partnerships & Customer Success",
+      "count": 1,
+      "median_wage_usd": 154500.0
+    },
+    {
+      "title": "FTR Audio & Network Support Manager",
+      "count": 1,
+      "median_wage_usd": 106933.0
+    },
+    {
+      "title": "Global IT Manager",
+      "count": 1,
+      "median_wage_usd": 180000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 1
+    },
+    {
+      "state": "AZ",
+      "county": "PINAL",
+      "count": 1
+    },
+    {
+      "state": "CO",
+      "county": "DENVER",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "AZ",
+      "count": 2
+    },
+    {
+      "state": "CO",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-2021",
+    "soc_title": "Marketing Managers",
+    "market_median_usd": 157620.0,
+    "employer_median_usd": 154500.0,
+    "gap_usd": -3120.0
+  }
+}

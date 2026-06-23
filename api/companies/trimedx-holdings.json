@@ -1,0 +1,115 @@
+{
+  "slug": "trimedx-holdings",
+  "canonical_name": "TRIMEDX Holdings, LLC",
+  "fein": "45-4807500",
+  "lca_filing_count": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 133478.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 90300.0
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 149350.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 143453.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Solution Architect",
+      "count": 2,
+      "median_wage_usd": 159325.0
+    },
+    {
+      "title": "Staff Quality Software Engineer",
+      "count": 1,
+      "median_wage_usd": 117606.0
+    },
+    {
+      "title": "Senior Quality Software Engineer",
+      "count": 1,
+      "median_wage_usd": 90300.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IN",
+      "county": "MARION",
+      "count": 4
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IN",
+      "count": 4
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 6,
+    "continuing_denials": 0,
+    "total_approvals": 6,
+    "by_fy": [
+      {
+        "fy": 2017,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      }
+    ]
+  },
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Computer Systems Engineers/Architects",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 159325.0,
+    "gap_usd": 41325.0
+  }
+}

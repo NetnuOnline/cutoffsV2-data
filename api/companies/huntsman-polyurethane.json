@@ -1,0 +1,100 @@
+{
+  "slug": "huntsman-polyurethane",
+  "canonical_name": "HUNTSMAN POLYURETHANE",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 1,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "07/31/2004",
+      "effective_date": "07/31/2004",
+      "state": "NJ",
+      "workers": 0,
+      "city": "WEST DEPTFORD"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2014-12-05",
+        "formType": "8-K",
+        "accessionNumber": "0001104659-14-085101",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001307954&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2007-06-25",
+        "formType": "8-K",
+        "accessionNumber": "0001104659-07-049772",
+        "items": [
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001307954&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2007-02-15",
+        "formType": "8-K",
+        "accessionNumber": "0001104659-07-011480",
+        "items": [
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001307954&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2005-09-27",
+        "formType": "8-K",
+        "accessionNumber": "0001104659-05-045760",
+        "items": [
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001307954&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2005-07-06",
+        "formType": "8-K",
+        "accessionNumber": "0001047469-05-018902",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001307954&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 5,
+    "itemCounts": {
+      "2.05": 2,
+      "2.06": 3
+    },
+    "latestFilingDate": "2014-12-05",
+    "earliestFilingDate": "2005-07-06"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

@@ -1,0 +1,46 @@
+{
+  "slug": "aqp",
+  "canonical_name": "AQP, Inc.",
+  "fein": "92-3608037",
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 250000.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 250000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Head of Design",
+      "count": 2,
+      "median_wage_usd": 250000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "MARIN",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3021",
+    "soc_title": "Computer and Information Systems Managers",
+    "market_median_usd": 169510.0,
+    "employer_median_usd": 250000.0,
+    "gap_usd": 80490.0
+  }
+}

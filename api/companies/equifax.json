@@ -1,0 +1,203 @@
+{
+  "slug": "equifax",
+  "canonical_name": "Equifax, Inc.",
+  "fein": "58-0401110",
+  "lca_filing_count": 383,
+  "lca_worker_positions": 384,
+  "warn_notice_count": 0,
+  "median_wage_usd": 122616.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 39,
+      "median_wage_usd": 105598.0
+    },
+    {
+      "fy": 2021,
+      "filings": 55,
+      "median_wage_usd": 119538.0
+    },
+    {
+      "fy": 2022,
+      "filings": 98,
+      "median_wage_usd": 119621.0
+    },
+    {
+      "fy": 2023,
+      "filings": 36,
+      "median_wage_usd": 117166.0
+    },
+    {
+      "fy": 2024,
+      "filings": 61,
+      "median_wage_usd": 133973.0
+    },
+    {
+      "fy": 2025,
+      "filings": 41,
+      "median_wage_usd": 130562.0
+    },
+    {
+      "fy": 2026,
+      "filings": 50,
+      "median_wage_usd": 130161.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer - Career",
+      "count": 53,
+      "median_wage_usd": 122970.0
+    },
+    {
+      "title": "Software Engineer - Specialist",
+      "count": 30,
+      "median_wage_usd": 136822.0
+    },
+    {
+      "title": "Site Reliability Engineer - Career",
+      "count": 26,
+      "median_wage_usd": 124560.0
+    },
+    {
+      "title": "Software Engineer - Intermediate",
+      "count": 21,
+      "median_wage_usd": 94156.0
+    },
+    {
+      "title": "Site Reliability Engineer - Specialist",
+      "count": 15,
+      "median_wage_usd": 136822.0
+    },
+    {
+      "title": "Software Engineer - Manager",
+      "count": 14,
+      "median_wage_usd": 144959.0
+    },
+    {
+      "title": "Site Reliability Engineer - Intermediate",
+      "count": 11,
+      "median_wage_usd": 96501.0
+    },
+    {
+      "title": "Quality Automation Engineer (SDET) - Career",
+      "count": 9,
+      "median_wage_usd": 102153.0
+    },
+    {
+      "title": "Data Engineer - Career",
+      "count": 8,
+      "median_wage_usd": 115609.5
+    },
+    {
+      "title": "Data Scientist - Career",
+      "count": 6,
+      "median_wage_usd": 119176.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 210
+    },
+    {
+      "state": "MO",
+      "county": "ST LOUIS",
+      "count": 59
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 5
+    },
+    {
+      "state": "VA",
+      "county": "FAIRFAX",
+      "count": 3
+    },
+    {
+      "state": "SC",
+      "county": "DORCHESTER",
+      "count": 2
+    },
+    {
+      "state": "MO",
+      "county": "ST LOUIS CITY",
+      "count": 2
+    },
+    {
+      "state": "AR",
+      "county": "BENTON",
+      "count": 1
+    },
+    {
+      "state": "OH",
+      "county": "DELAWARE",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "county": "MERCER",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "county": "RENSSELAER",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 276
+    },
+    {
+      "state": "MO",
+      "count": 73
+    },
+    {
+      "state": "TX",
+      "count": 9
+    },
+    {
+      "state": "VA",
+      "count": 5
+    },
+    {
+      "state": "NJ",
+      "count": 3
+    },
+    {
+      "state": "SC",
+      "count": 2
+    },
+    {
+      "state": "NC",
+      "count": 2
+    },
+    {
+      "state": "OH",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "count": 1
+    },
+    {
+      "state": "CO",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 130600.0,
+    "gap_usd": 440.0
+  }
+}

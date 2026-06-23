@@ -1,0 +1,193 @@
+{
+  "slug": "exavalu",
+  "canonical_name": "Exavalu, Inc.",
+  "fein": "45-5305655",
+  "lca_filing_count": 24,
+  "warn_notice_count": 0,
+  "median_wage_usd": 130894.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 4,
+      "median_wage_usd": 95441.0
+    },
+    {
+      "fy": 2021,
+      "filings": 6,
+      "median_wage_usd": 118081.5
+    },
+    {
+      "fy": 2022,
+      "filings": 3,
+      "median_wage_usd": 139818.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 6,
+      "median_wage_usd": 132579.0
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 149000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Guidewire Architect",
+      "count": 4,
+      "median_wage_usd": 86133.0
+    },
+    {
+      "title": "Manager - Insurance",
+      "count": 4,
+      "median_wage_usd": 130894.0
+    },
+    {
+      "title": "Associate Architect - Manager",
+      "count": 2,
+      "median_wage_usd": 132579.0
+    },
+    {
+      "title": "Senior Solutions Architect (Manager)",
+      "count": 2,
+      "median_wage_usd": 139443.0
+    },
+    {
+      "title": "Director - Digital Architecture",
+      "count": 1,
+      "median_wage_usd": 139818.0
+    },
+    {
+      "title": "Manager - QA in Guidewire Practice",
+      "count": 1,
+      "median_wage_usd": 105269.0
+    },
+    {
+      "title": "Senior MuleSoft Developer",
+      "count": 1,
+      "median_wage_usd": 83637.0
+    },
+    {
+      "title": "Developer",
+      "count": 1,
+      "median_wage_usd": 128877.0
+    },
+    {
+      "title": "Senior Business Analyst (Insurance Practice)",
+      "count": 1,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "title": "Guidewire Delivery Lead \u2013 Senior Manager ",
+      "count": 1,
+      "median_wage_usd": 142000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 9
+    },
+    {
+      "state": "CA",
+      "county": "ORANGE",
+      "count": 6
+    },
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 4
+    },
+    {
+      "state": "FL",
+      "county": "DUVAL",
+      "count": 1
+    },
+    {
+      "state": "CT",
+      "county": "BERLIN",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 16
+    },
+    {
+      "state": "AZ",
+      "count": 5
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "count": 1
+    },
+    {
+      "state": "CT",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 4,
+    "initial_denials": 2,
+    "continuing_approvals": 26,
+    "continuing_denials": 0,
+    "total_approvals": 30,
+    "by_fy": [
+      {
+        "fy": 2020,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 4,
+        "continuing_denials": 0,
+        "total_approvals": 4
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 1,
+        "initial_denials": 2,
+        "continuing_approvals": 9,
+        "continuing_denials": 0,
+        "total_approvals": 10
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 10,
+        "continuing_denials": 0,
+        "total_approvals": 11
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 5
+      }
+    ]
+  },
+  "lca_worker_positions": 23,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 145000.0,
+    "gap_usd": 14840.0
+  }
+}

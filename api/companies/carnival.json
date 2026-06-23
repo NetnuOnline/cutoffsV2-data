@@ -1,0 +1,184 @@
+{
+  "slug": "carnival",
+  "canonical_name": "Carnival Corporation",
+  "fein": "59-1562976",
+  "lca_filing_count": 70,
+  "lca_worker_positions": 68,
+  "warn_notice_count": 0,
+  "median_wage_usd": 103376.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 10,
+      "median_wage_usd": 85051.5
+    },
+    {
+      "fy": 2021,
+      "filings": 11,
+      "median_wage_usd": 96137.59999999999
+    },
+    {
+      "fy": 2022,
+      "filings": 5,
+      "median_wage_usd": 88046.0
+    },
+    {
+      "fy": 2023,
+      "filings": 9,
+      "median_wage_usd": 91707.0
+    },
+    {
+      "fy": 2024,
+      "filings": 7,
+      "median_wage_usd": 126506.0
+    },
+    {
+      "fy": 2025,
+      "filings": 8,
+      "median_wage_usd": 110520.5
+    },
+    {
+      "fy": 2026,
+      "filings": 18,
+      "median_wage_usd": 116095.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Analyst, Technical Projects & Marine Planning",
+      "count": 3,
+      "median_wage_usd": 63669.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 2,
+      "median_wage_usd": 107723.0
+    },
+    {
+      "title": "Senior Mobile Architect ",
+      "count": 2,
+      "median_wage_usd": 116459.0
+    },
+    {
+      "title": "Supervisor of Business Systems Analysis",
+      "count": 2,
+      "median_wage_usd": 113901.0
+    },
+    {
+      "title": "Architect, Pega Systems",
+      "count": 2,
+      "median_wage_usd": 106454.5
+    },
+    {
+      "title": "Senior Database Administrator",
+      "count": 2,
+      "median_wage_usd": 116251.0
+    },
+    {
+      "title": "Senior Data Warehouse Analyst",
+      "count": 1,
+      "median_wage_usd": 138258.0
+    },
+    {
+      "title": "Supervisor, Quality and Process Engineering",
+      "count": 1,
+      "median_wage_usd": 102107.0
+    },
+    {
+      "title": "Senior Analytical Engineer ",
+      "count": 1,
+      "median_wage_usd": 101026.0
+    },
+    {
+      "title": "Principal Engineer, Quality Functional & Data",
+      "count": 1,
+      "median_wage_usd": 110198.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "FL",
+      "county": "MIAMI-DADE",
+      "count": 35
+    },
+    {
+      "state": "FL",
+      "county": "BROWARD",
+      "count": 3
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "county": "HILLSBOROUGH",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "FORT BEND",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "county": "OAKLAND",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "county": "ERIE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "FL",
+      "count": 60
+    },
+    {
+      "state": "TX",
+      "count": 3
+    },
+    {
+      "state": "PA",
+      "count": 1
+    },
+    {
+      "state": "UT",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "count": 1
+    },
+    {
+      "state": "SC",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 114213.0,
+    "gap_usd": -15947.0
+  }
+}

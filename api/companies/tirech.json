@@ -1,0 +1,56 @@
+{
+  "slug": "tirech",
+  "canonical_name": "Tirech LLC",
+  "fein": null,
+  "lca_filing_count": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 72010.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 72010.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Java Developer",
+      "count": 1,
+      "median_wage_usd": 88774.0
+    },
+    {
+      "title": "Senior Oracle Database Administrator",
+      "count": 1,
+      "median_wage_usd": 63440.0
+    },
+    {
+      "title": "Data Sceintist ",
+      "count": 1,
+      "median_wage_usd": 72010.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "OK",
+      "county": "GRADY",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "OK",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 72010.0,
+    "gap_usd": -36010.0
+  }
+}

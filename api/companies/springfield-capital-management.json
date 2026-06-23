@@ -1,0 +1,46 @@
+{
+  "slug": "springfield-capital-management",
+  "canonical_name": "Springfield Capital Management LLC",
+  "fein": null,
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 90000.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 90000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Analyst of Data Science",
+      "count": 2,
+      "median_wage_usd": 90000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 90000.0,
+    "gap_usd": -18020.0
+  }
+}

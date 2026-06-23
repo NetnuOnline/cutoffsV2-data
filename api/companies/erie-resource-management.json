@@ -1,0 +1,46 @@
+{
+  "slug": "erie-resource-management",
+  "canonical_name": "Erie Resource Management Corp",
+  "fein": "81-2429843",
+  "lca_filing_count": 1,
+  "warn_notice_count": 0,
+  "median_wage_usd": 133000.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 133000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Master Engineer",
+      "count": 1,
+      "median_wage_usd": 133000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "GA",
+      "county": "GWINNETT",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 1,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 133000.0,
+    "gap_usd": 2840.0
+  }
+}

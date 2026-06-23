@@ -1,0 +1,104 @@
+{
+  "slug": "spark-infotech",
+  "canonical_name": "Spark Infotech Inc",
+  "fein": "87-2876255",
+  "lca_filing_count": 16,
+  "lca_worker_positions": 51,
+  "warn_notice_count": 0,
+  "median_wage_usd": 89003.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 6,
+      "median_wage_usd": 81744.0
+    },
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 105997.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 90355.0
+    },
+    {
+      "fy": 2026,
+      "filings": 5,
+      "median_wage_usd": 90355.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 5,
+      "median_wage_usd": 90355.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 5,
+      "median_wage_usd": 90355.0
+    },
+    {
+      "title": "Software Engineer  ",
+      "count": 3,
+      "median_wage_usd": 81744.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 2,
+      "median_wage_usd": 105997.0
+    },
+    {
+      "title": "Technical Support Specialist",
+      "count": 1,
+      "median_wage_usd": 83096.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 7
+    },
+    {
+      "state": "GA",
+      "county": "FORSYTH",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "AZ",
+      "count": 11
+    },
+    {
+      "state": "TX",
+      "count": 3
+    },
+    {
+      "state": "GA",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 87651.0,
+    "gap_usd": -42509.0
+  }
+}

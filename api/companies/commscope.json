@@ -1,0 +1,99 @@
+{
+  "slug": "commscope",
+  "canonical_name": "CommScope Inc",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 7,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "NE",
+      "count": 3
+    },
+    {
+      "state": "NC",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "count": 1
+    },
+    {
+      "state": "AL",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "04/28/2021",
+      "effective_date": "06/30/2021",
+      "state": "NC",
+      "workers": 151,
+      "city": "8420 Triad Dr, Greensboro"
+    },
+    {
+      "date": "03/31/2016",
+      "effective_date": "03/31/2016",
+      "state": "NE",
+      "workers": 150,
+      "city": "Sidney"
+    },
+    {
+      "date": "01/27/2016",
+      "effective_date": "01/27/2016",
+      "state": "NE",
+      "workers": 150,
+      "city": "Sidney"
+    },
+    {
+      "date": "12/02/2015",
+      "effective_date": "02/01/2016",
+      "state": "CA",
+      "workers": 90,
+      "city": "San Jose"
+    },
+    {
+      "date": "11/06/2013",
+      "effective_date": "01/01/2014",
+      "state": "IL",
+      "workers": 194,
+      "city": "Joliet"
+    },
+    {
+      "date": "12/31/2011",
+      "effective_date": "12/31/2011",
+      "state": "NE",
+      "workers": 400,
+      "city": "Omaha"
+    },
+    {
+      "date": "09/14/2005",
+      "effective_date": "03/31/2006",
+      "state": "AL",
+      "workers": 180,
+      "city": "Scottsboro"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "omaha-consortium",
+      "name": "Omaha Consortium",
+      "state": "NE"
+    },
+    {
+      "slug": "panhandle-economic-region",
+      "name": "Panhandle Economic Region",
+      "state": "NE"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

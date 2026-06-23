@@ -1,0 +1,102 @@
+{
+  "slug": "toyota-motor-credit",
+  "canonical_name": "Toyota Motor Credit Corporation",
+  "fein": "95-3775816",
+  "lca_filing_count": 16,
+  "lca_worker_positions": 16,
+  "warn_notice_count": 0,
+  "median_wage_usd": 146342.91,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 6,
+      "median_wage_usd": 146200.0
+    },
+    {
+      "fy": 2026,
+      "filings": 9,
+      "median_wage_usd": 146485.83,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Domain Quality Lead",
+      "count": 2,
+      "median_wage_usd": 174199.78
+    },
+    {
+      "title": "Technical Lead",
+      "count": 2,
+      "median_wage_usd": 146200.0
+    },
+    {
+      "title": "Senior Data Engineer",
+      "count": 2,
+      "median_wage_usd": 140737.625
+    },
+    {
+      "title": "Global Analytics Solutions Engineer",
+      "count": 2,
+      "median_wage_usd": 146485.83
+    },
+    {
+      "title": "Data Engineer",
+      "count": 2,
+      "median_wage_usd": 112182.45
+    },
+    {
+      "title": "Master Data Management (MDM) Senior Analyst",
+      "count": 1,
+      "median_wage_usd": 158421.0
+    },
+    {
+      "title": "Release Engineer, Senior",
+      "count": 1,
+      "median_wage_usd": 139886.88
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "count": 1,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "title": "Machine Learning Engineer, Lead",
+      "count": 1,
+      "median_wage_usd": 187446.88
+    },
+    {
+      "title": "Master Data Management (MDM) Lead Engineer",
+      "count": 1,
+      "median_wage_usd": 163800.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 16
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Computer Occupations, All Other",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 146485.83,
+    "gap_usd": 28485.83
+  }
+}

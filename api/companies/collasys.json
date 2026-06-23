@@ -1,0 +1,188 @@
+{
+  "slug": "collasys",
+  "canonical_name": "Collasys LLC",
+  "fein": "38-3581848",
+  "lca_filing_count": 49,
+  "lca_worker_positions": 47,
+  "warn_notice_count": 0,
+  "median_wage_usd": 86500.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 11,
+      "median_wage_usd": 86400.0
+    },
+    {
+      "fy": 2021,
+      "filings": 4,
+      "median_wage_usd": 97525.0
+    },
+    {
+      "fy": 2022,
+      "filings": 5,
+      "median_wage_usd": 80900.0
+    },
+    {
+      "fy": 2023,
+      "filings": 7,
+      "median_wage_usd": 91000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 5,
+      "median_wage_usd": 92400.0
+    },
+    {
+      "fy": 2025,
+      "filings": 12,
+      "median_wage_usd": 77153.0
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 94500.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Application Developer",
+      "count": 28,
+      "median_wage_usd": 86450.0
+    },
+    {
+      "title": "Software QA Analyst and Tester",
+      "count": 5,
+      "median_wage_usd": 66800.0
+    },
+    {
+      "title": "Software Application Developer(Engineer II)",
+      "count": 2,
+      "median_wage_usd": 90800.0
+    },
+    {
+      "title": "Software Application Developer(Senior Engineer)",
+      "count": 2,
+      "median_wage_usd": 104190.0
+    },
+    {
+      "title": "Programmer Analyst",
+      "count": 2,
+      "median_wage_usd": 77002.5
+    },
+    {
+      "title": "Sr. Systems Engineer",
+      "count": 1,
+      "median_wage_usd": 104083.0
+    },
+    {
+      "title": "Database Administrator",
+      "count": 1,
+      "median_wage_usd": 95035.0
+    },
+    {
+      "title": "Java Developer",
+      "count": 1,
+      "median_wage_usd": 92100.0
+    },
+    {
+      "title": "Software Application Developer(Engineer I)",
+      "count": 1,
+      "median_wage_usd": 74500.0
+    },
+    {
+      "title": "Mainframe Developer",
+      "count": 1,
+      "median_wage_usd": 71000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "PA",
+      "county": "CUMBERLAND",
+      "count": 22
+    },
+    {
+      "state": "PA",
+      "county": "DAUPHIN",
+      "count": 5
+    },
+    {
+      "state": "PA",
+      "county": "BUCKS",
+      "count": 1
+    },
+    {
+      "state": "AR",
+      "county": "PULASKI",
+      "count": 1
+    },
+    {
+      "state": "TN",
+      "county": "DAVIDSON",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "PA",
+      "count": 38
+    },
+    {
+      "state": "TX",
+      "count": 3
+    },
+    {
+      "state": "TN",
+      "count": 1
+    },
+    {
+      "state": "MD",
+      "count": 1
+    },
+    {
+      "state": "CO",
+      "count": 1
+    },
+    {
+      "state": "AR",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "count": 1
+    },
+    {
+      "state": "IN",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 90800.0,
+    "gap_usd": -39360.0
+  }
+}

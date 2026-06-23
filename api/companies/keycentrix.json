@@ -1,0 +1,115 @@
+{
+  "slug": "keycentrix",
+  "canonical_name": "Keycentrix, LLC",
+  "fein": "27-4202502",
+  "lca_filing_count": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 80000.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 80000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 66539.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 90272.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer - Automation Engineer",
+      "count": 1,
+      "median_wage_usd": 66539.0
+    },
+    {
+      "title": "Senior Software Developer",
+      "count": 1,
+      "median_wage_usd": 80000.0
+    },
+    {
+      "title": "Senior Developer",
+      "count": 1,
+      "median_wage_usd": 90272.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "KS",
+      "county": "SEDGWICK",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "KS",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 3,
+    "continuing_denials": 0,
+    "total_approvals": 3,
+    "by_fy": [
+      {
+        "fy": 2016,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Computer Systems Engineers/Architects",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 90272.0,
+    "gap_usd": -27728.0
+  }
+}

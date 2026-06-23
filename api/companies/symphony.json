@@ -1,0 +1,203 @@
+{
+  "slug": "symphony",
+  "canonical_name": "Symphony Corporation",
+  "fein": "39-1882117",
+  "lca_filing_count": 39,
+  "lca_worker_positions": 39,
+  "warn_notice_count": 0,
+  "median_wage_usd": 110000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 6,
+      "median_wage_usd": 98460.0
+    },
+    {
+      "fy": 2021,
+      "filings": 6,
+      "median_wage_usd": 84620.0
+    },
+    {
+      "fy": 2022,
+      "filings": 5,
+      "median_wage_usd": 112819.2
+    },
+    {
+      "fy": 2023,
+      "filings": 7,
+      "median_wage_usd": 102190.40000000001
+    },
+    {
+      "fy": 2024,
+      "filings": 7,
+      "median_wage_usd": 116438.0
+    },
+    {
+      "fy": 2025,
+      "filings": 7,
+      "median_wage_usd": 124800.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 132288.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Mainframe Developer",
+      "count": 11,
+      "median_wage_usd": 101379.2
+    },
+    {
+      "title": "Software Developer",
+      "count": 7,
+      "median_wage_usd": 116438.0
+    },
+    {
+      "title": "QA Tester",
+      "count": 3,
+      "median_wage_usd": 84240.0
+    },
+    {
+      "title": "Main Frame Developer",
+      "count": 3,
+      "median_wage_usd": 101920.0
+    },
+    {
+      "title": "IT Director",
+      "count": 2,
+      "median_wage_usd": 245440.0
+    },
+    {
+      "title": "Senior Programmer / Analyst",
+      "count": 2,
+      "median_wage_usd": 105203.0
+    },
+    {
+      "title": "Java Developer",
+      "count": 2,
+      "median_wage_usd": 107099.2
+    },
+    {
+      "title": "Business Systems Analyst",
+      "count": 1,
+      "median_wage_usd": 110240.0
+    },
+    {
+      "title": "Programmer / Analyst",
+      "count": 1,
+      "median_wage_usd": 95000.0
+    },
+    {
+      "title": "CRM Dynamics Developer",
+      "count": 1,
+      "median_wage_usd": 130312.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "WI",
+      "county": "DANE",
+      "count": 19
+    },
+    {
+      "state": "TN",
+      "county": "DAVIDSON",
+      "count": 2
+    },
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 1
+    },
+    {
+      "state": "IN",
+      "county": "BOONE",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "county": "WAKE",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "county": "BUCKS",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 1
+    },
+    {
+      "state": "CT",
+      "county": "WINDSOR",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "WI",
+      "count": 23
+    },
+    {
+      "state": "TX",
+      "count": 3
+    },
+    {
+      "state": "NC",
+      "count": 2
+    },
+    {
+      "state": "TN",
+      "count": 2
+    },
+    {
+      "state": "PA",
+      "count": 2
+    },
+    {
+      "state": "AZ",
+      "count": 1
+    },
+    {
+      "state": "OH",
+      "count": 1
+    },
+    {
+      "state": "CT",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "count": 1
+    },
+    {
+      "state": "IN",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 115000.0,
+    "gap_usd": -15160.0
+  }
+}

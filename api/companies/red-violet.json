@@ -1,0 +1,90 @@
+{
+  "slug": "red-violet",
+  "canonical_name": "Red Violet, Inc.",
+  "fein": "82-2408531",
+  "lca_filing_count": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 200000.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 275000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 187000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Vice President, Financial Services Solutions",
+      "count": 1,
+      "median_wage_usd": 275000.0
+    },
+    {
+      "title": "Software Development Engineer - Parallel",
+      "count": 1,
+      "median_wage_usd": 174000.0
+    },
+    {
+      "title": "Applied Scientist",
+      "count": 1,
+      "median_wage_usd": 200000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "FL",
+      "county": "PALM BEACH",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "WA",
+      "count": 2
+    },
+    {
+      "state": "FL",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 1,
+    "continuing_denials": 0,
+    "total_approvals": 2,
+    "by_fy": [
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      }
+    ]
+  },
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3021",
+    "soc_title": "Computer and Information Systems Managers",
+    "market_median_usd": 169510.0,
+    "employer_median_usd": 275000.0,
+    "gap_usd": 105490.0
+  }
+}

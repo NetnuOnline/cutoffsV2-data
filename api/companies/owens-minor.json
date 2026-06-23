@@ -1,0 +1,92 @@
+{
+  "slug": "owens-minor",
+  "canonical_name": "Owens & Minor Distribution, Inc.",
+  "fein": null,
+  "lca_filing_count": 3,
+  "warn_notice_count": 5,
+  "median_wage_usd": 152660,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 0,
+      "median_wage_usd": null
+    },
+    {
+      "fy": 2026,
+      "filings": 0,
+      "median_wage_usd": null
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Data Scientist",
+      "count": 0,
+      "median_wage_usd": null
+    },
+    {
+      "title": "Solution Architect",
+      "count": 0,
+      "median_wage_usd": null
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 2
+    },
+    {
+      "state": "MO",
+      "count": 1
+    },
+    {
+      "state": "OK",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "10/11/2024",
+      "effective_date": "12/13/2024",
+      "state": "MO",
+      "workers": 67,
+      "city": "Kansas City"
+    },
+    {
+      "date": "06/27/2016",
+      "effective_date": "08/27/2016",
+      "state": "CA",
+      "workers": 102,
+      "city": "Tracy"
+    },
+    {
+      "date": "06/27/2016",
+      "effective_date": "08/27/2016",
+      "state": "CA",
+      "workers": 87,
+      "city": "Ontario"
+    },
+    {
+      "date": "03/14/2011",
+      "effective_date": "03/14/2011",
+      "state": "OK",
+      "workers": 28,
+      "city": "05 - CentralRegion"
+    },
+    {
+      "date": "02/24/2009",
+      "effective_date": "04/01/2009",
+      "state": "IL",
+      "workers": 125,
+      "city": "Wheeling"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

@@ -1,0 +1,203 @@
+{
+  "slug": "stripe",
+  "canonical_name": "Stripe, Inc.",
+  "fein": "27-0465600",
+  "lca_filing_count": 416,
+  "lca_worker_positions": 410,
+  "warn_notice_count": 0,
+  "median_wage_usd": 148013.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 24,
+      "median_wage_usd": 120931.0
+    },
+    {
+      "fy": 2021,
+      "filings": 104,
+      "median_wage_usd": 121763.0
+    },
+    {
+      "fy": 2022,
+      "filings": 55,
+      "median_wage_usd": 148013.0
+    },
+    {
+      "fy": 2023,
+      "filings": 42,
+      "median_wage_usd": 169229.0
+    },
+    {
+      "fy": 2024,
+      "filings": 86,
+      "median_wage_usd": 175115.0
+    },
+    {
+      "fy": 2025,
+      "filings": 58,
+      "median_wage_usd": 167024.0
+    },
+    {
+      "fy": 2026,
+      "filings": 41,
+      "median_wage_usd": 170581.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 93,
+      "median_wage_usd": 169229.0
+    },
+    {
+      "title": "Backend/API Engineer",
+      "count": 32,
+      "median_wage_usd": 146837.5
+    },
+    {
+      "title": "Backend / API Engineer",
+      "count": 21,
+      "median_wage_usd": 169229.0
+    },
+    {
+      "title": "Engineering Manager",
+      "count": 20,
+      "median_wage_usd": 181719.0
+    },
+    {
+      "title": "Product Manager",
+      "count": 19,
+      "median_wage_usd": 167024.0
+    },
+    {
+      "title": "Infrastructure Engineer",
+      "count": 19,
+      "median_wage_usd": 130894.0
+    },
+    {
+      "title": "Full Stack Engineer",
+      "count": 12,
+      "median_wage_usd": 121347.0
+    },
+    {
+      "title": "Data Analyst",
+      "count": 11,
+      "median_wage_usd": 127088.0
+    },
+    {
+      "title": "Data Scientist",
+      "count": 8,
+      "median_wage_usd": 116188.5
+    },
+    {
+      "title": "Staff Engineer",
+      "count": 7,
+      "median_wage_usd": 168709.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 87
+    },
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 65
+    },
+    {
+      "state": "CA",
+      "county": "SAN MATEO",
+      "count": 57
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 55
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 7
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 5
+    },
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 5
+    },
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 4
+    },
+    {
+      "state": "VA",
+      "county": "LOUDOUN",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 159
+    },
+    {
+      "state": "WA",
+      "count": 115
+    },
+    {
+      "state": "NY",
+      "count": 84
+    },
+    {
+      "state": "TX",
+      "count": 16
+    },
+    {
+      "state": "IL",
+      "count": 11
+    },
+    {
+      "state": "VA",
+      "count": 5
+    },
+    {
+      "state": "MA",
+      "count": 5
+    },
+    {
+      "state": "NJ",
+      "count": 4
+    },
+    {
+      "state": "FL",
+      "count": 3
+    },
+    {
+      "state": "CO",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 180710.0,
+    "gap_usd": 50550.0
+  }
+}

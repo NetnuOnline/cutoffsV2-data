@@ -1,0 +1,70 @@
+{
+  "slug": "global-applications-solution",
+  "canonical_name": "Global Applications Solution LLC",
+  "fein": "27-3830681",
+  "lca_filing_count": 4,
+  "lca_worker_positions": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 111404.5,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 109262.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 113547.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Principal Consultant",
+      "count": 2,
+      "median_wage_usd": 135449.5
+    },
+    {
+      "title": "Sr. Principal Consultant",
+      "count": 1,
+      "median_wage_usd": 105976.0
+    },
+    {
+      "title": "Sr. Consultant",
+      "count": 1,
+      "median_wage_usd": 113547.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NC",
+      "county": "WAKE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NC",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 111404.5,
+    "gap_usd": -18755.5
+  }
+}

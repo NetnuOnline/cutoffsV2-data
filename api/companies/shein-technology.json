@@ -1,0 +1,117 @@
+{
+  "slug": "shein-technology",
+  "canonical_name": "SHEIN Technology LLC",
+  "fein": "87-1717833",
+  "lca_filing_count": 16,
+  "lca_worker_positions": 16,
+  "warn_notice_count": 0,
+  "median_wage_usd": 165000.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 5,
+      "median_wage_usd": 160000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 5,
+      "median_wage_usd": 212000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 105000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 132000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 4,
+      "median_wage_usd": 191500.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Associate Software Engineer II",
+      "count": 1,
+      "median_wage_usd": 132000.0
+    },
+    {
+      "title": "Senior Data Analyst I",
+      "count": 1,
+      "median_wage_usd": 170000.0
+    },
+    {
+      "title": "Site Reliability Engineer",
+      "count": 1,
+      "median_wage_usd": 160000.0
+    },
+    {
+      "title": "Scrum Master II",
+      "count": 1,
+      "median_wage_usd": 160000.0
+    },
+    {
+      "title": "Senior Site Reliability Engineer",
+      "count": 1,
+      "median_wage_usd": 160000.0
+    },
+    {
+      "title": "Staff Database Engineer III",
+      "count": 1,
+      "median_wage_usd": 245000.0
+    },
+    {
+      "title": "Senior Machine Learning Engineer II",
+      "count": 1,
+      "median_wage_usd": 280000.0
+    },
+    {
+      "title": "Information Security Risk Lead",
+      "count": 1,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "title": "Big Data Engineer II",
+      "count": 1,
+      "median_wage_usd": 182000.0
+    },
+    {
+      "title": "Senior Security Engineer (Cloud & Enterprise)",
+      "count": 1,
+      "median_wage_usd": 170000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 9
+    },
+    {
+      "state": "CA",
+      "county": "SAN DIEGO",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 16
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 213500.0,
+    "gap_usd": 105480.0
+  }
+}

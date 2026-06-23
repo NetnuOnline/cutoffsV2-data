@@ -1,0 +1,203 @@
+{
+  "slug": "itvorks",
+  "canonical_name": "ITvorks Inc",
+  "fein": "81-3500525",
+  "lca_filing_count": 38,
+  "lca_worker_positions": 38,
+  "warn_notice_count": 0,
+  "median_wage_usd": 85250.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 5,
+      "median_wage_usd": 84000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 85750.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 91000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 13,
+      "median_wage_usd": 86700.0
+    },
+    {
+      "fy": 2024,
+      "filings": 8,
+      "median_wage_usd": 87500.0
+    },
+    {
+      "fy": 2025,
+      "filings": 4,
+      "median_wage_usd": 87750.0
+    },
+    {
+      "fy": 2026,
+      "filings": 4,
+      "median_wage_usd": 84000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SOFTWARE ENGINEER",
+      "count": 5,
+      "median_wage_usd": 81000.0
+    },
+    {
+      "title": "DATA ANALYST",
+      "count": 2,
+      "median_wage_usd": 114250.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 2,
+      "median_wage_usd": 86000.0
+    },
+    {
+      "title": "SOFTWARE DEVELOPER",
+      "count": 2,
+      "median_wage_usd": 103500.0
+    },
+    {
+      "title": "IT Asset Management Analyst ",
+      "count": 1,
+      "median_wage_usd": 80000.0
+    },
+    {
+      "title": "Regulatory Affairs Specialist",
+      "count": 1,
+      "median_wage_usd": 80000.0
+    },
+    {
+      "title": "SOFTWARE ENGINEER ",
+      "count": 1,
+      "median_wage_usd": 86700.0
+    },
+    {
+      "title": "CLOUD DEVELOPER",
+      "count": 1,
+      "median_wage_usd": 85500.0
+    },
+    {
+      "title": "Validation Engineer",
+      "count": 1,
+      "median_wage_usd": 91500.0
+    },
+    {
+      "title": "SSIS Developer",
+      "count": 1,
+      "median_wage_usd": 101200.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 4
+    },
+    {
+      "state": "NJ",
+      "county": "MIDDLESEX",
+      "count": 2
+    },
+    {
+      "state": "MO",
+      "county": "ST LOUIS CITY",
+      "count": 2
+    },
+    {
+      "state": "VA",
+      "county": "HENRICO",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "county": "MERCER",
+      "count": 2
+    },
+    {
+      "state": "NC",
+      "county": "WAKE",
+      "count": 2
+    },
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "county": "MIAMI-DADE",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "county": "SUFFOLK",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 7
+    },
+    {
+      "state": "GA",
+      "count": 5
+    },
+    {
+      "state": "NC",
+      "count": 4
+    },
+    {
+      "state": "TX",
+      "count": 4
+    },
+    {
+      "state": "MO",
+      "count": 2
+    },
+    {
+      "state": "VA",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "count": 2
+    },
+    {
+      "state": "NY",
+      "count": 2
+    },
+    {
+      "state": "WA",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 89750.0,
+    "gap_usd": -40410.0
+  }
+}

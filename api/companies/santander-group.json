@@ -1,0 +1,104 @@
+{
+  "slug": "santander-group",
+  "canonical_name": "Santander Group",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 9,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "RI",
+      "count": 4
+    },
+    {
+      "state": "NY",
+      "count": 2
+    },
+    {
+      "state": "CT",
+      "count": 2
+    },
+    {
+      "state": "CO",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "09/23/2022",
+      "effective_date": "04/08/2022",
+      "state": "RI",
+      "workers": 198,
+      "city": "East Providence"
+    },
+    {
+      "date": "04/08/2022",
+      "effective_date": "04/08/2022",
+      "state": "RI",
+      "workers": 198,
+      "city": "East Providence"
+    },
+    {
+      "date": "05/18/2021",
+      "effective_date": "09/30/2020",
+      "state": "RI",
+      "workers": 13,
+      "city": "Rhode Island"
+    },
+    {
+      "date": "03/23/2021",
+      "effective_date": "12/31/2021",
+      "state": "CO",
+      "workers": 417,
+      "city": null
+    },
+    {
+      "date": "09/30/2020",
+      "effective_date": "12/04/2020",
+      "state": "NY",
+      "workers": 37,
+      "city": "New York"
+    },
+    {
+      "date": "09/30/2020",
+      "effective_date": "12/04/2020",
+      "state": "NY",
+      "workers": 7,
+      "city": "Melville"
+    },
+    {
+      "date": "09/30/2020",
+      "effective_date": "09/30/2020",
+      "state": "CT",
+      "workers": 5,
+      "city": "Not Indicated"
+    },
+    {
+      "date": "09/30/2020",
+      "effective_date": "09/30/2020",
+      "state": "RI",
+      "workers": 13,
+      "city": "Rhode Island"
+    },
+    {
+      "date": "01/01/2020",
+      "effective_date": "09/30/2020",
+      "state": "CT",
+      "workers": 5,
+      "city": null
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "workforce-solutions-of-providencecranston",
+      "name": "Workforce Solutions of Providence/Cranston",
+      "state": "RI"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

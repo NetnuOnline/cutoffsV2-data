@@ -1,0 +1,123 @@
+{
+  "slug": "business-intelli-solutions",
+  "canonical_name": "Business Intelli Solutions, Inc.",
+  "fein": "20-4111235",
+  "lca_filing_count": 9,
+  "lca_worker_positions": 8,
+  "warn_notice_count": 0,
+  "median_wage_usd": 114400.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 114400.0
+    },
+    {
+      "fy": 2021,
+      "filings": 3,
+      "median_wage_usd": 80163.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 112400.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 132059.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Informatica Developer",
+      "count": 3,
+      "median_wage_usd": 124800.0
+    },
+    {
+      "title": "Business Object Developer",
+      "count": 2,
+      "median_wage_usd": 79705.5
+    },
+    {
+      "title": "Software Consultant",
+      "count": 1,
+      "median_wage_usd": 149365.0
+    },
+    {
+      "title": "Principal Consultant",
+      "count": 1,
+      "median_wage_usd": 114754.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 1,
+      "median_wage_usd": 99000.0
+    },
+    {
+      "title": "Sr. Informatica Developer",
+      "count": 1,
+      "median_wage_usd": 114400.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 3
+    },
+    {
+      "state": "CO",
+      "county": "DENVER",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "TARRANT",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "county": "WAYNE",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "county": "LAKE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 5
+    },
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "CO",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 119777.0,
+    "gap_usd": -10383.0
+  }
+}

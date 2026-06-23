@@ -1,0 +1,104 @@
+{
+  "slug": "telaverge-communications",
+  "canonical_name": "TELAVERGE COMMUNICATIONS",
+  "fein": "27-1179613",
+  "lca_filing_count": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 85000.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 85000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 77813.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 98750.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 78624.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SOFTWARE TEST ENGINEER",
+      "count": 3,
+      "median_wage_usd": 94000.0
+    },
+    {
+      "title": "SOFTWARE TEST AUTOMATION ENGINEER",
+      "count": 1,
+      "median_wage_usd": 77813.0
+    },
+    {
+      "title": "TEST ENGINEER",
+      "count": 1,
+      "median_wage_usd": 85000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "SUFFOLK",
+      "count": 4
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 5
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 1,
+    "continuing_approvals": 3,
+    "continuing_denials": 0,
+    "total_approvals": 4,
+    "by_fy": [
+      {
+        "fy": 2021,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 1,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 5,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1253",
+    "soc_title": "Software Quality Assurance Analysts and Testers",
+    "market_median_usd": 101800.0,
+    "employer_median_usd": 85000.0,
+    "gap_usd": -16800.0
+  }
+}

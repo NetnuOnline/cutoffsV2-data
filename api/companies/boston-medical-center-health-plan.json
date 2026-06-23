@@ -1,0 +1,76 @@
+{
+  "slug": "boston-medical-center-health-plan",
+  "canonical_name": "Boston Medical Center Health Plan, Inc.",
+  "fein": "04-3373331",
+  "lca_filing_count": 3,
+  "lca_worker_positions": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 120765.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 80000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 156713.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 120765.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Manager of Quality Assurance",
+      "count": 1,
+      "median_wage_usd": 156713.0
+    },
+    {
+      "title": "Business Intelligence Developer III",
+      "count": 1,
+      "median_wage_usd": 120765.0
+    },
+    {
+      "title": "Health Data Analyst III",
+      "count": 1,
+      "median_wage_usd": 80000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MA",
+      "county": "MEDFORD CITY",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "county": "FRANKLIN CITY",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MA",
+      "count": 2
+    },
+    {
+      "state": "NC",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3021",
+    "soc_title": "Computer and Information Systems Managers",
+    "market_median_usd": 169510.0,
+    "employer_median_usd": 156713.0,
+    "gap_usd": -12797.0
+  }
+}

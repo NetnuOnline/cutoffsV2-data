@@ -1,0 +1,81 @@
+{
+  "slug": "elite-staffing",
+  "canonical_name": "Elite Staffing",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 6,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 6
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "02/26/2025",
+      "effective_date": "04/27/2025",
+      "state": "IL",
+      "workers": 134,
+      "city": "Schaumburg"
+    },
+    {
+      "date": "04/05/2024",
+      "effective_date": "04/05/2024",
+      "state": "IL",
+      "workers": 376,
+      "city": "Romeoville"
+    },
+    {
+      "date": "04/05/2024",
+      "effective_date": "03/30/2024",
+      "state": "IL",
+      "workers": 61,
+      "city": "Bolingbrook"
+    },
+    {
+      "date": "04/05/2024",
+      "effective_date": "03/29/2024",
+      "state": "IL",
+      "workers": 177,
+      "city": "Geneva"
+    },
+    {
+      "date": "04/05/2024",
+      "effective_date": "03/28/2024",
+      "state": "IL",
+      "workers": 66,
+      "city": "Carol Stream"
+    },
+    {
+      "date": "04/05/2024",
+      "effective_date": "03/28/2024",
+      "state": "IL",
+      "workers": 89,
+      "city": "Itasca"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "river-valley-wib",
+      "name": "River Valley WIB",
+      "state": "IL"
+    },
+    {
+      "slug": "dupage-county-wib",
+      "name": "DuPage County WIB",
+      "state": "IL"
+    },
+    {
+      "slug": "wib-of-will-county",
+      "name": "WIB of Will County",
+      "state": "IL"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

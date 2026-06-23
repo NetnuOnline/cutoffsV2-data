@@ -1,0 +1,43 @@
+{
+  "slug": "goodwill-of-the-san-francisco-bay",
+  "canonical_name": "Goodwill of the San Francisco Bay",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "04/07/2025",
+      "effective_date": "06/07/2025",
+      "state": "CA",
+      "workers": 18,
+      "city": "San Francisco"
+    },
+    {
+      "date": "04/07/2025",
+      "effective_date": "06/07/2025",
+      "state": "CA",
+      "workers": 72,
+      "city": "Oakland"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "san-francisco-citycounty-wib",
+      "name": "San Francisco City/County WIB",
+      "state": "CA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

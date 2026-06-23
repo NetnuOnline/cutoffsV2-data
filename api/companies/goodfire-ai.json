@@ -1,0 +1,56 @@
+{
+  "slug": "goodfire-ai",
+  "canonical_name": "Goodfire AI, Inc.",
+  "fein": "99-0416254",
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 194256.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 175000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 213512.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Founding Research Engineer",
+      "count": 1,
+      "median_wage_usd": 175000.0
+    },
+    {
+      "title": "Member of the Technical Staff",
+      "count": 1,
+      "median_wage_usd": 213512.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 194256.0,
+    "gap_usd": 64096.0
+  }
+}

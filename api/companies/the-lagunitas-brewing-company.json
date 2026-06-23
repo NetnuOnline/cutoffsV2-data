@@ -1,0 +1,58 @@
+{
+  "slug": "the-lagunitas-brewing-company",
+  "canonical_name": "The Lagunitas Brewing Company",
+  "fein": null,
+  "lca_filing_count": 1,
+  "warn_notice_count": 1,
+  "median_wage_usd": 115257.5,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 115257.5
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Demand Planning Manager",
+      "count": 1,
+      "median_wage_usd": 115257.5
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SONOMA",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "05/23/2024",
+      "effective_date": "08/01/2024",
+      "state": "IL",
+      "workers": 86,
+      "city": "Chicago"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "lca_worker_positions": 1,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1161",
+    "soc_title": "Market Research Analysts and Marketing Specialists",
+    "market_median_usd": 74680.0,
+    "employer_median_usd": 115257.5,
+    "gap_usd": 40577.5
+  }
+}

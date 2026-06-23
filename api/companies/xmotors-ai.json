@@ -1,0 +1,127 @@
+{
+  "slug": "xmotors-ai",
+  "canonical_name": "Xmotors.Ai, Inc.",
+  "fein": "82-3160099",
+  "lca_filing_count": 47,
+  "lca_worker_positions": 46,
+  "warn_notice_count": 0,
+  "median_wage_usd": 233000.16,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 5,
+      "median_wage_usd": 160000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 10,
+      "median_wage_usd": 250000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 4,
+      "median_wage_usd": 231500.0
+    },
+    {
+      "fy": 2023,
+      "filings": 11,
+      "median_wage_usd": 200000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 6,
+      "median_wage_usd": 260000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 300000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 7,
+      "median_wage_usd": 330000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Software Engineer",
+      "count": 7,
+      "median_wage_usd": 200000.0
+    },
+    {
+      "title": "Staff Engineer",
+      "count": 5,
+      "median_wage_usd": 250000.0
+    },
+    {
+      "title": "Staff Software Engineer",
+      "count": 3,
+      "median_wage_usd": 235000.0
+    },
+    {
+      "title": "Staff Machine Learning Engineer",
+      "count": 3,
+      "median_wage_usd": 300000.0
+    },
+    {
+      "title": "Sr. Data Platform Engineer",
+      "count": 2,
+      "median_wage_usd": 200000.0
+    },
+    {
+      "title": "Staff Planning Machine Learning Engineer",
+      "count": 2,
+      "median_wage_usd": 295000.0
+    },
+    {
+      "title": "Senior Staff Engineer",
+      "count": 2,
+      "median_wage_usd": 300000.0
+    },
+    {
+      "title": "Senior Staff Computer Vision Engineer",
+      "count": 2,
+      "median_wage_usd": 350000.0
+    },
+    {
+      "title": "Staff Perception Software Engineer",
+      "count": 2,
+      "median_wage_usd": 240000.0
+    },
+    {
+      "title": "Senior Engineer",
+      "count": 2,
+      "median_wage_usd": 210000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 35
+    },
+    {
+      "state": "CA",
+      "county": "SAN DIEGO",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 47
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 240000.0,
+    "gap_usd": 109840.0
+  }
+}

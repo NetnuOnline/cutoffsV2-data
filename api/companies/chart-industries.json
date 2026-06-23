@@ -1,0 +1,65 @@
+{
+  "slug": "chart-industries",
+  "canonical_name": "Chart Industries",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 3,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "OK",
+      "count": 3
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "04/07/2016",
+      "effective_date": "04/07/2016",
+      "state": "OK",
+      "workers": 75,
+      "city": null
+    },
+    {
+      "date": "08/10/2015",
+      "effective_date": "08/10/2015",
+      "state": "OK",
+      "workers": 60,
+      "city": null
+    },
+    {
+      "date": "05/05/2015",
+      "effective_date": "05/05/2015",
+      "state": "OK",
+      "workers": 60,
+      "city": null
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2010-04-05",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-10-076801",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000892553&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 1,
+    "itemCounts": {
+      "2.05": 1
+    },
+    "latestFilingDate": "2010-04-05",
+    "earliestFilingDate": "2010-04-05"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

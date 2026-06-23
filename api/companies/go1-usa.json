@@ -1,0 +1,101 @@
+{
+  "slug": "go1-usa",
+  "canonical_name": "Go1 USA LLC",
+  "fein": "83-3114343",
+  "lca_filing_count": 8,
+  "lca_worker_positions": 8,
+  "warn_notice_count": 0,
+  "median_wage_usd": 176373.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 181000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 160873.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 191360.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 191360.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Strategic Finance Manager",
+      "count": 3,
+      "median_wage_usd": 191360.0
+    },
+    {
+      "title": "Senior Partner Manager",
+      "count": 2,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "Financial Planning & Analysis Senior Manager",
+      "count": 1,
+      "median_wage_usd": 171746.0
+    },
+    {
+      "title": "Product Marketing Manager",
+      "count": 1,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "title": "Head of Partner Operations",
+      "count": 1,
+      "median_wage_usd": 181000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 3
+    },
+    {
+      "state": "UT",
+      "county": "SALT LAKE",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 7
+    },
+    {
+      "state": "UT",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3031",
+    "soc_title": "Financial Managers",
+    "market_median_usd": 156100.0,
+    "employer_median_usd": 191360.0,
+    "gap_usd": 35260.0
+  }
+}

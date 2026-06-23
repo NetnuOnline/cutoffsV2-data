@@ -1,0 +1,89 @@
+{
+  "slug": "plivo",
+  "canonical_name": "Plivo Inc.",
+  "fein": "36-4710676",
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 149891.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 139205.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 160577.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Solutions Engineer-Team Lead",
+      "count": 1,
+      "median_wage_usd": 139205.0
+    },
+    {
+      "title": "Solutions Engineer \u201c Team Lead",
+      "count": 1,
+      "median_wage_usd": 160577.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 0,
+    "continuing_denials": 0,
+    "total_approvals": 1,
+    "by_fy": [
+      {
+        "fy": 2014,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2017,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Information Technology Project Managers",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 149891.0,
+    "gap_usd": 31891.0
+  }
+}

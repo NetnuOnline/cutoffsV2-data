@@ -1,0 +1,195 @@
+{
+  "slug": "s-p-global",
+  "canonical_name": "S&P Global, Inc.",
+  "fein": "13-1026995",
+  "lca_filing_count": 52,
+  "lca_worker_positions": 50,
+  "warn_notice_count": 0,
+  "median_wage_usd": 146134.5,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 4,
+      "median_wage_usd": 130831.5
+    },
+    {
+      "fy": 2021,
+      "filings": 9,
+      "median_wage_usd": 134400.0
+    },
+    {
+      "fy": 2022,
+      "filings": 9,
+      "median_wage_usd": 144383.0
+    },
+    {
+      "fy": 2023,
+      "filings": 7,
+      "median_wage_usd": 162240.0
+    },
+    {
+      "fy": 2024,
+      "filings": 6,
+      "median_wage_usd": 153375.0
+    },
+    {
+      "fy": 2025,
+      "filings": 8,
+      "median_wage_usd": 141258.5
+    },
+    {
+      "fy": 2026,
+      "filings": 7,
+      "median_wage_usd": 185220.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Lead Data Scientist",
+      "count": 4,
+      "median_wage_usd": 153295.0
+    },
+    {
+      "title": "Director, Corporate Strategy",
+      "count": 3,
+      "median_wage_usd": 216000.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 3,
+      "median_wage_usd": 120928.0
+    },
+    {
+      "title": "Tech Lead",
+      "count": 2,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "title": "Director, Architecture",
+      "count": 2,
+      "median_wage_usd": 222732.0
+    },
+    {
+      "title": "Director of Cloud Architecture",
+      "count": 2,
+      "median_wage_usd": 201335.0
+    },
+    {
+      "title": "Senior Lead, Business Systems & Business Analysis",
+      "count": 1,
+      "median_wage_usd": 173576.0
+    },
+    {
+      "title": "Senior Database Administrator",
+      "count": 1,
+      "median_wage_usd": 144383.0
+    },
+    {
+      "title": "Oracle EPM Administrator",
+      "count": 1,
+      "median_wage_usd": 145000.0
+    },
+    {
+      "title": "Analyst III, Information Security",
+      "count": 1,
+      "median_wage_usd": 124234.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NJ",
+      "county": "MERCER",
+      "count": 15
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 8
+    },
+    {
+      "state": "MA",
+      "county": "BOSTON CITY",
+      "count": 5
+    },
+    {
+      "state": "CO",
+      "county": "ARAPAHOE",
+      "count": 2
+    },
+    {
+      "state": "VA",
+      "county": "CHESTERFIELD",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "county": "LOUDOUN",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "county": "HUDSON",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 22
+    },
+    {
+      "state": "NY",
+      "count": 14
+    },
+    {
+      "state": "MA",
+      "count": 5
+    },
+    {
+      "state": "TX",
+      "count": 4
+    },
+    {
+      "state": "CO",
+      "count": 2
+    },
+    {
+      "state": "VA",
+      "count": 2
+    },
+    {
+      "state": "NC",
+      "count": 2
+    },
+    {
+      "state": "WA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 151735.0,
+    "gap_usd": 21575.0
+  }
+}

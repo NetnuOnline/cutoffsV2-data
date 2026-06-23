@@ -1,0 +1,70 @@
+{
+  "slug": "coldwater-creek",
+  "canonical_name": "Coldwater Creek",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 4,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "ID",
+      "count": 2
+    },
+    {
+      "state": "TN",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "05/14/2014",
+      "effective_date": "05/06/2014",
+      "state": "TN",
+      "workers": 4,
+      "city": "Chattanooga"
+    },
+    {
+      "date": "04/23/2014",
+      "effective_date": "04/23/2014",
+      "state": "GA",
+      "workers": 34,
+      "city": "Gwinnett"
+    },
+    {
+      "date": "04/11/2014",
+      "effective_date": "06/11/2014",
+      "state": "ID",
+      "workers": 104,
+      "city": "Coeur d'Alene"
+    },
+    {
+      "date": "04/11/2014",
+      "effective_date": "06/11/2014",
+      "state": "ID",
+      "workers": 339,
+      "city": "Sandpoint"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "north-wib",
+      "name": "North WIB",
+      "state": "ID"
+    },
+    {
+      "slug": "05-local-workforce-investment-area",
+      "name": "05 Local Workforce Investment Area",
+      "state": "TN"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

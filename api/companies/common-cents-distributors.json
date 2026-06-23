@@ -1,0 +1,81 @@
+{
+  "slug": "common-cents-distributors",
+  "canonical_name": "Common Cents Distributors LLC",
+  "fein": null,
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 90540.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 101000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 80080.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "DATA WAREHOUSING SPECIALIST",
+      "count": 1,
+      "median_wage_usd": 80080.0
+    },
+    {
+      "title": "Software Developer, Front End Applications",
+      "count": 1,
+      "median_wage_usd": 101000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NJ",
+      "county": "ESSEX",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 2,
+    "initial_denials": 0,
+    "continuing_approvals": 2,
+    "continuing_denials": 0,
+    "total_approvals": 4,
+    "by_fy": [
+      {
+        "fy": 2020,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      }
+    ]
+  },
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Computer Occupations, All Other",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 80080.0,
+    "gap_usd": -37920.0
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "slug": "carscom",
+  "canonical_name": "Cars.com",
+  "fein": null,
+  "lca_filing_count": 6,
+  "warn_notice_count": 1,
+  "median_wage_usd": 178992,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 0,
+      "median_wage_usd": null
+    },
+    {
+      "fy": 2026,
+      "filings": 0,
+      "median_wage_usd": null
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Principal Software Engineer - Salesforce",
+      "count": 0,
+      "median_wage_usd": null
+    },
+    {
+      "title": "Lead Senior Software Engineer",
+      "count": 0,
+      "median_wage_usd": null
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "12/11/2018",
+      "effective_date": "02/01/2019",
+      "state": "IL",
+      "workers": 112,
+      "city": "Chicago"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2026-04-09",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-26-149752",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001683606&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2020-05-05",
+        "formType": "8-K",
+        "accessionNumber": "0001564590-20-021271",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001683606&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2019-02-07",
+        "formType": "8-K",
+        "accessionNumber": "0001564590-19-002288",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001683606&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2018-12-18",
+        "formType": "8-K",
+        "accessionNumber": "0001564590-18-031039",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001683606&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 4,
+    "itemCounts": {
+      "2.05": 4
+    },
+    "latestFilingDate": "2026-04-09",
+    "earliestFilingDate": "2018-12-18"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

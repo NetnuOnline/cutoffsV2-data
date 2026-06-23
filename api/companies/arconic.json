@@ -1,0 +1,150 @@
+{
+  "slug": "arconic",
+  "canonical_name": "Arconic Corporation",
+  "fein": null,
+  "lca_filing_count": 4,
+  "warn_notice_count": 4,
+  "median_wage_usd": 89242.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 85654.0
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 92830.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 106413.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "APPLICATION ENGINEER",
+      "count": 2,
+      "median_wage_usd": 85654.0
+    },
+    {
+      "title": "Senior Leader, Corrosion",
+      "count": 1,
+      "median_wage_usd": 92830.0
+    },
+    {
+      "title": "Application Engineer",
+      "count": 1,
+      "median_wage_usd": 106413.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MI",
+      "count": 3
+    },
+    {
+      "state": "PA",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MI",
+      "county": "OAKLAND",
+      "count": 3
+    },
+    {
+      "state": "PA",
+      "county": "WESTMORELAND",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "01/21/2020",
+      "effective_date": "01/21/2020",
+      "state": "KS",
+      "workers": 9,
+      "city": "1 - Workforce Investment Area I"
+    },
+    {
+      "date": "10/18/2019",
+      "effective_date": "12/20/2019",
+      "state": "TX",
+      "workers": 67,
+      "city": "Elmendorf"
+    },
+    {
+      "date": "10/17/2019",
+      "effective_date": "12/20/2019",
+      "state": "TX",
+      "workers": 67,
+      "city": "Elmendorf"
+    },
+    {
+      "date": "10/25/2017",
+      "effective_date": "10/25/2017",
+      "state": "KS",
+      "workers": 3,
+      "city": "1 - Workforce Investment Area I"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 5,
+    "continuing_denials": 0,
+    "total_approvals": 6,
+    "by_fy": [
+      {
+        "fy": 2017,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 4
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      }
+    ]
+  },
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": []
+}

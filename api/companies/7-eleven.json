@@ -1,0 +1,131 @@
+{
+  "slug": "7-eleven",
+  "canonical_name": "7-Eleven, Inc.",
+  "fein": "75-1085131",
+  "lca_filing_count": 190,
+  "lca_worker_positions": 188,
+  "warn_notice_count": 0,
+  "median_wage_usd": 121113.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 23,
+      "median_wage_usd": 110152.0
+    },
+    {
+      "fy": 2021,
+      "filings": 18,
+      "median_wage_usd": 103106.0
+    },
+    {
+      "fy": 2022,
+      "filings": 37,
+      "median_wage_usd": 114946.0
+    },
+    {
+      "fy": 2023,
+      "filings": 14,
+      "median_wage_usd": 129251.0
+    },
+    {
+      "fy": 2024,
+      "filings": 28,
+      "median_wage_usd": 130488.5
+    },
+    {
+      "fy": 2025,
+      "filings": 43,
+      "median_wage_usd": 128820.0
+    },
+    {
+      "fy": 2026,
+      "filings": 25,
+      "median_wage_usd": 134971.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 37,
+      "median_wage_usd": 105119.0
+    },
+    {
+      "title": "Software Engineer II",
+      "count": 22,
+      "median_wage_usd": 120411.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 18,
+      "median_wage_usd": 137228.0
+    },
+    {
+      "title": "Sr Software Engineer",
+      "count": 13,
+      "median_wage_usd": 134992.0
+    },
+    {
+      "title": "Manager, Software Engineering",
+      "count": 11,
+      "median_wage_usd": 134992.0
+    },
+    {
+      "title": "Sr Manager, Software Engineering",
+      "count": 3,
+      "median_wage_usd": 161254.0
+    },
+    {
+      "title": "Sr Procurement Manager",
+      "count": 2,
+      "median_wage_usd": 135584.5
+    },
+    {
+      "title": "Mgr, Software Engineering",
+      "count": 2,
+      "median_wage_usd": 154310.5
+    },
+    {
+      "title": "Software Engineer II \u2013 Java",
+      "count": 2,
+      "median_wage_usd": 136404.0
+    },
+    {
+      "title": "Director, Strategic Planning",
+      "count": 2,
+      "median_wage_usd": 125395.5
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 123
+    },
+    {
+      "state": "OK",
+      "county": "OKLAHOMA",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 188
+    },
+    {
+      "state": "OK",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 128820.0,
+    "gap_usd": -1340.0
+  }
+}

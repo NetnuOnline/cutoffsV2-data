@@ -1,0 +1,52 @@
+{
+  "slug": "tri-state-envelope",
+  "canonical_name": "Tri-State Envelope",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "IA",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "10/27/2025",
+      "effective_date": "10/27/2025",
+      "state": "IA",
+      "workers": 21,
+      "city": "Wapello"
+    },
+    {
+      "date": "10/27/2024",
+      "effective_date": "10/27/2024",
+      "state": "PA",
+      "workers": 122,
+      "city": "Ashland"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "region-16-burlington-wib",
+      "name": "Region 16 - Burlington WIB",
+      "state": "IA"
+    },
+    {
+      "slug": "luzerne-schuylkill-counties-wia",
+      "name": "Luzerne-Schuylkill Counties WIA",
+      "state": "PA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

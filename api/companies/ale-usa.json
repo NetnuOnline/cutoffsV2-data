@@ -1,0 +1,72 @@
+{
+  "slug": "ale-usa",
+  "canonical_name": "ALE USA, Inc.",
+  "fein": "47-1007498",
+  "lca_filing_count": 3,
+  "lca_worker_positions": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 116282.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 83595.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 170577.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 116282.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Product Line Manager",
+      "count": 1,
+      "median_wage_usd": 170577.0
+    },
+    {
+      "title": "Technical Support Engineer",
+      "count": 1,
+      "median_wage_usd": 116282.0
+    },
+    {
+      "title": "Data Analyst",
+      "count": 1,
+      "median_wage_usd": 83595.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "VENTURA",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 170577.0,
+    "gap_usd": 40417.0
+  }
+}

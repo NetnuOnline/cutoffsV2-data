@@ -1,0 +1,341 @@
+{
+  "slug": "ntt-data",
+  "canonical_name": "NTT Data, Inc.",
+  "fein": null,
+  "lca_filing_count": 400,
+  "warn_notice_count": 8,
+  "median_wage_usd": 99957.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 155,
+      "median_wage_usd": 100651.0
+    },
+    {
+      "fy": 2021,
+      "filings": 128,
+      "median_wage_usd": 98430.0
+    },
+    {
+      "fy": 2022,
+      "filings": 109,
+      "median_wage_usd": 101363.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Development Specialist",
+      "count": 65,
+      "median_wage_usd": 99466.0
+    },
+    {
+      "title": "Software Development Senior Specialist",
+      "count": 37,
+      "median_wage_usd": 107120.0
+    },
+    {
+      "title": "Software Development Senior Analyst",
+      "count": 17,
+      "median_wage_usd": 93496.0
+    },
+    {
+      "title": "ERP Senior Specialist",
+      "count": 13,
+      "median_wage_usd": 105643.0
+    },
+    {
+      "title": "Business Intelligence Specialist",
+      "count": 10,
+      "median_wage_usd": 93881.0
+    },
+    {
+      "title": "Business Intelligence Senior Specialist",
+      "count": 10,
+      "median_wage_usd": 108110.0
+    },
+    {
+      "title": "Application Management Senior Specialist",
+      "count": 9,
+      "median_wage_usd": 99031.0
+    },
+    {
+      "title": "Application Management Senior Analyst",
+      "count": 9,
+      "median_wage_usd": 95160.0
+    },
+    {
+      "title": "Enterprise Resource Planning Advisor",
+      "count": 8,
+      "median_wage_usd": 113341.5
+    },
+    {
+      "title": "Software Quality Assurance Specialist",
+      "count": 7,
+      "median_wage_usd": 80018.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NC",
+      "count": 89
+    },
+    {
+      "state": "TX",
+      "count": 75
+    },
+    {
+      "state": "CA",
+      "count": 34
+    },
+    {
+      "state": "FL",
+      "count": 25
+    },
+    {
+      "state": "PA",
+      "count": 24
+    },
+    {
+      "state": "MA",
+      "count": 24
+    },
+    {
+      "state": "UT",
+      "count": 14
+    },
+    {
+      "state": "IL",
+      "count": 12
+    },
+    {
+      "state": "AZ",
+      "count": 10
+    },
+    {
+      "state": "MN",
+      "count": 10
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NC",
+      "county": "MECKLENBURG",
+      "count": 53
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 33
+    },
+    {
+      "state": "NC",
+      "county": "DURHAM",
+      "count": 29
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 28
+    },
+    {
+      "state": "PA",
+      "county": "MONTGOMERY",
+      "count": 24
+    },
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 17
+    },
+    {
+      "state": "MA",
+      "county": "WORCESTER CITY",
+      "count": 14
+    },
+    {
+      "state": "FL",
+      "county": "DUVAL",
+      "count": 14
+    },
+    {
+      "state": "UT",
+      "county": "SALT LAKE",
+      "count": 13
+    },
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 10
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "10/30/2025",
+      "effective_date": "12/31/2025",
+      "state": "TN",
+      "workers": 108,
+      "city": "Davidson County"
+    },
+    {
+      "date": "07/12/2019",
+      "effective_date": "08/31/2019",
+      "state": "TX",
+      "workers": 1,
+      "city": "Austin"
+    },
+    {
+      "date": "07/08/2019",
+      "effective_date": "08/31/2019",
+      "state": "TX",
+      "workers": 1,
+      "city": "Austin"
+    },
+    {
+      "date": "07/08/2019",
+      "effective_date": "08/31/2019",
+      "state": "TX",
+      "workers": 97,
+      "city": "Austin"
+    },
+    {
+      "date": "07/08/2019",
+      "effective_date": "08/31/2019",
+      "state": "TX",
+      "workers": 1,
+      "city": "Austin"
+    },
+    {
+      "date": "07/08/2019",
+      "effective_date": "08/31/2019",
+      "state": "TX",
+      "workers": 3,
+      "city": "Austin"
+    },
+    {
+      "date": "07/08/2019",
+      "effective_date": "08/31/2019",
+      "state": "TX",
+      "workers": 50,
+      "city": "Austin"
+    },
+    {
+      "date": "05/11/2015",
+      "effective_date": "05/11/2015",
+      "state": "VT",
+      "workers": 40,
+      "city": "00 - Vermont Workforce Investment Area"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 281,
+    "initial_denials": 15,
+    "continuing_approvals": 1963,
+    "continuing_denials": 57,
+    "total_approvals": 2244,
+    "by_fy": [
+      {
+        "fy": 2012,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2013,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2014,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2015,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2016,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2017,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 128,
+        "initial_denials": 11,
+        "continuing_approvals": 567,
+        "continuing_denials": 27,
+        "total_approvals": 695
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 66,
+        "initial_denials": 1,
+        "continuing_approvals": 900,
+        "continuing_denials": 24,
+        "total_approvals": 966
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 71,
+        "initial_denials": 2,
+        "continuing_approvals": 318,
+        "continuing_denials": 1,
+        "total_approvals": 389
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 16,
+        "initial_denials": 1,
+        "continuing_approvals": 178,
+        "continuing_denials": 5,
+        "total_approvals": 194
+      }
+    ]
+  },
+  "lca_worker_positions": 392,
+  "top_socs": [],
+  "lca_periods": []
+}

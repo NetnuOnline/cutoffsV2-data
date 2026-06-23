@@ -1,0 +1,96 @@
+{
+  "slug": "finance-of-america",
+  "canonical_name": "Finance of America Holdings LLC",
+  "fein": null,
+  "lca_filing_count": 2,
+  "warn_notice_count": 3,
+  "median_wage_usd": 120945,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 0,
+      "median_wage_usd": null
+    },
+    {
+      "fy": 2026,
+      "filings": 0,
+      "median_wage_usd": null
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 0,
+      "median_wage_usd": null
+    },
+    {
+      "title": "Secondary Market Analyst, Senior",
+      "count": 0,
+      "median_wage_usd": null
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 3
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "10/26/2022",
+      "effective_date": "04/03/2023",
+      "state": "CA",
+      "workers": 48,
+      "city": "Roseville"
+    },
+    {
+      "date": "01/03/2019",
+      "effective_date": "01/03/2019",
+      "state": "CA",
+      "workers": 33,
+      "city": "Roseville"
+    },
+    {
+      "date": "06/01/2018",
+      "effective_date": "08/07/2018",
+      "state": "CA",
+      "workers": 43,
+      "city": "Roseville"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "golden-sierra-consortium-wib",
+      "name": "Golden Sierra Consortium WIB",
+      "state": "CA"
+    }
+  ],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2022-10-21",
+        "formType": "8-K",
+        "accessionNumber": "0001828937-22-000008",
+        "items": [
+          "2.05",
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities",
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001828937&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 1,
+    "itemCounts": {
+      "2.05": 1,
+      "2.06": 1
+    },
+    "latestFilingDate": "2022-10-21",
+    "earliestFilingDate": "2022-10-21"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

@@ -1,0 +1,52 @@
+{
+  "slug": "dendreon",
+  "canonical_name": "Dendreon",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 3,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "WA",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "09/20/2012",
+      "effective_date": "11/20/2012",
+      "state": "WA",
+      "workers": 145,
+      "city": "Seattle"
+    },
+    {
+      "date": "11/06/2011",
+      "effective_date": "11/06/2011",
+      "state": "NJ",
+      "workers": 195,
+      "city": "Morris Plains"
+    },
+    {
+      "date": "09/09/2011",
+      "effective_date": "09/09/2011",
+      "state": "GA",
+      "workers": 117,
+      "city": "Union City"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

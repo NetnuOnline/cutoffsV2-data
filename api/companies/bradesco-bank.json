@@ -1,0 +1,67 @@
+{
+  "slug": "bradesco-bank",
+  "canonical_name": "BRADESCO BANK",
+  "fein": "59-1485307",
+  "lca_filing_count": 5,
+  "lca_worker_positions": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 140000.0,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 156649.5
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 120000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "TECHNICAL LEAD",
+      "count": 2,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "title": "CHIEF INFORMATION OFFICER",
+      "count": 1,
+      "median_wage_usd": 240000.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "title": "MANAGEMENT ANALYST",
+      "count": 1,
+      "median_wage_usd": 73299.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "FL",
+      "county": "MIAMI-DADE",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "FL",
+      "count": 5
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 140000.0,
+    "gap_usd": 9840.0
+  }
+}

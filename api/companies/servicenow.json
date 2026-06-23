@@ -1,0 +1,203 @@
+{
+  "slug": "servicenow",
+  "canonical_name": "ServiceNow, Inc.",
+  "fein": "20-2056195",
+  "lca_filing_count": 835,
+  "lca_worker_positions": 7592,
+  "warn_notice_count": 0,
+  "median_wage_usd": 150030.5,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 79,
+      "median_wage_usd": 136760.0
+    },
+    {
+      "fy": 2021,
+      "filings": 85,
+      "median_wage_usd": 140566.0
+    },
+    {
+      "fy": 2022,
+      "filings": 159,
+      "median_wage_usd": 148013.0
+    },
+    {
+      "fy": 2023,
+      "filings": 95,
+      "median_wage_usd": 148326.0
+    },
+    {
+      "fy": 2024,
+      "filings": 152,
+      "median_wage_usd": 149781.0
+    },
+    {
+      "fy": 2025,
+      "filings": 116,
+      "median_wage_usd": 164517.5
+    },
+    {
+      "fy": 2026,
+      "filings": 143,
+      "median_wage_usd": 170248.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Software Engineer",
+      "count": 86,
+      "median_wage_usd": 155650.0
+    },
+    {
+      "title": "Staff Software Engineer",
+      "count": 66,
+      "median_wage_usd": 184315.0
+    },
+    {
+      "title": "Senior Software Quality Engineer",
+      "count": 26,
+      "median_wage_usd": 129896.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 22,
+      "median_wage_usd": 129344.5
+    },
+    {
+      "title": "Senior Technical Support Engineer",
+      "count": 15,
+      "median_wage_usd": 96928.0
+    },
+    {
+      "title": "Staff Software QA Engineer",
+      "count": 13,
+      "median_wage_usd": 150779.0
+    },
+    {
+      "title": "Senior Software QA Engineer",
+      "count": 13,
+      "median_wage_usd": 121285.0
+    },
+    {
+      "title": "Senior Manager, Software Engineering Management",
+      "count": 13,
+      "median_wage_usd": 218076.0
+    },
+    {
+      "title": "Senior Staff Software Engineer",
+      "count": 13,
+      "median_wage_usd": 192941.0
+    },
+    {
+      "title": "Staff Software Quality Engineer",
+      "count": 11,
+      "median_wage_usd": 170556.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 267
+    },
+    {
+      "state": "CA",
+      "county": "SAN DIEGO",
+      "count": 59
+    },
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 38
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 34
+    },
+    {
+      "state": "FL",
+      "county": "ORANGE",
+      "count": 32
+    },
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 17
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 15
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 12
+    },
+    {
+      "state": "CA",
+      "county": "SAN JOAQUIN",
+      "count": 10
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 9
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 576
+    },
+    {
+      "state": "WA",
+      "count": 57
+    },
+    {
+      "state": "TX",
+      "count": 55
+    },
+    {
+      "state": "FL",
+      "count": 49
+    },
+    {
+      "state": "IL",
+      "count": 18
+    },
+    {
+      "state": "NY",
+      "count": 14
+    },
+    {
+      "state": "GA",
+      "count": 9
+    },
+    {
+      "state": "NC",
+      "count": 9
+    },
+    {
+      "state": "MA",
+      "count": 7
+    },
+    {
+      "state": "NJ",
+      "count": 6
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 164385.0,
+    "gap_usd": 34225.0
+  }
+}

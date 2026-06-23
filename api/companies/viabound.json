@@ -1,0 +1,109 @@
+{
+  "slug": "viabound",
+  "canonical_name": "Viabound LLC",
+  "fein": "84-4858655",
+  "lca_filing_count": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 91520.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 99247.2
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 95794.5
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 2,
+      "median_wage_usd": 107567.2
+    },
+    {
+      "title": "Data Engineer",
+      "count": 1,
+      "median_wage_usd": 83429.0
+    },
+    {
+      "title": "Devops Engineer",
+      "count": 1,
+      "median_wage_usd": 91520.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 1,
+      "median_wage_usd": 76773.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NC",
+      "county": "MECKLENBURG",
+      "count": 2
+    },
+    {
+      "state": "FL",
+      "county": "BROWARD",
+      "count": 2
+    },
+    {
+      "state": "MI",
+      "county": "OAKLAND",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NC",
+      "count": 2
+    },
+    {
+      "state": "FL",
+      "count": 2
+    },
+    {
+      "state": "MI",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 11,
+    "initial_denials": 1,
+    "continuing_approvals": 1,
+    "continuing_denials": 0,
+    "total_approvals": 12,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 9,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 9
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 2,
+        "initial_denials": 1,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      }
+    ]
+  },
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 106974.4,
+    "gap_usd": -23185.6
+  }
+}

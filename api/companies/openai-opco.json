@@ -1,0 +1,138 @@
+{
+  "slug": "openai-opco",
+  "canonical_name": "OpenAI OpCo, LLC",
+  "fein": "83-1960637",
+  "lca_filing_count": 117,
+  "lca_worker_positions": 117,
+  "warn_notice_count": 0,
+  "median_wage_usd": 310000.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 6,
+      "median_wage_usd": 272500.0
+    },
+    {
+      "fy": 2024,
+      "filings": 22,
+      "median_wage_usd": 350000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 26,
+      "median_wage_usd": 325000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 63,
+      "median_wage_usd": 280000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Member of Technical Staff (Software Engineer)",
+      "count": 20,
+      "median_wage_usd": 255000.0
+    },
+    {
+      "title": "Member of Technical Staff (Research & AI Systems)",
+      "count": 13,
+      "median_wage_usd": 380000.0
+    },
+    {
+      "title": "Member of Technical Staff (Data Science)",
+      "count": 9,
+      "median_wage_usd": 255000.0
+    },
+    {
+      "title": "Member of Technical Staff (Hardware Engineering)",
+      "count": 9,
+      "median_wage_usd": 380000.0
+    },
+    {
+      "title": "Member of Technical Staff",
+      "count": 8,
+      "median_wage_usd": 342500.0
+    },
+    {
+      "title": "Member of Technical Staff (SWE)",
+      "count": 5,
+      "median_wage_usd": 310000.0
+    },
+    {
+      "title": "Member of Technical Staff (Research Engineer)",
+      "count": 4,
+      "median_wage_usd": 327500.0
+    },
+    {
+      "title": "Member of Program Staff",
+      "count": 4,
+      "median_wage_usd": 302250.0
+    },
+    {
+      "title": "Member of Technical Staff (Hardware Engineer)",
+      "count": 3,
+      "median_wage_usd": 460000.0
+    },
+    {
+      "title": "Member of Go to Market Staff (Customer Success)",
+      "count": 3,
+      "median_wage_usd": 240000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 29
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 2
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 85
+    },
+    {
+      "state": "WA",
+      "count": 23
+    },
+    {
+      "state": "NY",
+      "count": 7
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 255000.0,
+    "gap_usd": 124840.0
+  }
+}

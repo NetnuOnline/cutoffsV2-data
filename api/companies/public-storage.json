@@ -1,0 +1,144 @@
+{
+  "slug": "public-storage",
+  "canonical_name": "Public Storage",
+  "fein": "95-3551121",
+  "lca_filing_count": 21,
+  "lca_worker_positions": 19,
+  "warn_notice_count": 0,
+  "median_wage_usd": 135000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 121160.0
+    },
+    {
+      "fy": 2021,
+      "filings": 7,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 125500.0
+    },
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 170000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 122000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 4,
+      "median_wage_usd": 137645.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 2,
+      "median_wage_usd": 129583.0
+    },
+    {
+      "title": "Data Scientist II",
+      "count": 2,
+      "median_wage_usd": 159612.0
+    },
+    {
+      "title": "Sr. Software Engineer",
+      "count": 2,
+      "median_wage_usd": 137645.0
+    },
+    {
+      "title": "Quality Assurance Manager",
+      "count": 2,
+      "median_wage_usd": 126000.0
+    },
+    {
+      "title": "Data Analyst - Revenue Management",
+      "count": 1,
+      "median_wage_usd": 105000.0
+    },
+    {
+      "title": "Digital Quality Assurance Analyst",
+      "count": 1,
+      "median_wage_usd": 122000.0
+    },
+    {
+      "title": "Technical Business Analyst",
+      "count": 1,
+      "median_wage_usd": 128593.0
+    },
+    {
+      "title": "Senior MIS Security Administrator",
+      "count": 1,
+      "median_wage_usd": 187104.0
+    },
+    {
+      "title": "Sr. Manager of Data and Analytics",
+      "count": 1,
+      "median_wage_usd": 170000.0
+    },
+    {
+      "title": "Manager, Quality Assurance",
+      "count": 1,
+      "median_wage_usd": 124848.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 13
+    },
+    {
+      "state": "DE",
+      "county": "NEW CASTLE",
+      "count": 2
+    },
+    {
+      "state": "NV",
+      "county": "CLARK",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 15
+    },
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "NV",
+      "count": 2
+    },
+    {
+      "state": "DE",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3021",
+    "soc_title": "Computer and Information Systems Managers",
+    "market_median_usd": 169510.0,
+    "employer_median_usd": 126000.0,
+    "gap_usd": -43510.0
+  }
+}

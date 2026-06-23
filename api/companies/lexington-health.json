@@ -1,0 +1,81 @@
+{
+  "slug": "lexington-health",
+  "canonical_name": "Lexington Health, Inc.",
+  "fein": "85-2276567",
+  "lca_filing_count": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 125000.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 128115.52
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Enterprise Resource Planning System Administrator",
+      "count": 2,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "Enterprise Resource Planning Programmer III",
+      "count": 1,
+      "median_wage_usd": 128115.52
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "SC",
+      "county": "LEXINGTON",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "SC",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 2,
+    "continuing_denials": 0,
+    "total_approvals": 2,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1244",
+    "soc_title": "Network and Computer Systems Administrators",
+    "market_median_usd": 95000.0,
+    "employer_median_usd": 120000.0,
+    "gap_usd": 25000.0
+  }
+}

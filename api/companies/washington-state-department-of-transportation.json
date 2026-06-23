@@ -1,0 +1,57 @@
+{
+  "slug": "washington-state-department-of-transportation",
+  "canonical_name": "Washington State Department of Transportation",
+  "fein": "91-6001068",
+  "lca_filing_count": 2,
+  "lca_worker_positions": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 104758.0,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 99516.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 110000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "IT App Development \u201c Journey",
+      "count": 1,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "IT Application Development \u201c Journey",
+      "count": 1,
+      "median_wage_usd": 99516.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "WA",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 104758.0,
+    "gap_usd": -25402.0
+  }
+}

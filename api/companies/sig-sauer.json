@@ -1,0 +1,81 @@
+{
+  "slug": "sig-sauer",
+  "canonical_name": "SIG SAUER, Inc.",
+  "fein": "02-0528156",
+  "lca_filing_count": 5,
+  "lca_worker_positions": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 146300.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 111583.94
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 143325.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 147679.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 167867.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Oracle Applications Database Administrator",
+      "count": 2,
+      "median_wage_usd": 146191.5
+    },
+    {
+      "title": "Strategy Planning Manager",
+      "count": 2,
+      "median_wage_usd": 128941.97
+    },
+    {
+      "title": "Sr. Oracle Applications Financial Systems Analyst",
+      "count": 1,
+      "median_wage_usd": 167867.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "KY",
+      "county": "WARREN",
+      "count": 2
+    },
+    {
+      "state": "NH",
+      "county": "NEWINGTON",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NH",
+      "count": 3
+    },
+    {
+      "state": "KY",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1111",
+    "soc_title": "Management Analysts",
+    "market_median_usd": 99000.0,
+    "employer_median_usd": 128941.97,
+    "gap_usd": 29941.97
+  }
+}

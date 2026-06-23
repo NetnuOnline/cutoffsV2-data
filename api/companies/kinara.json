@@ -1,0 +1,51 @@
+{
+  "slug": "kinara",
+  "canonical_name": "Kinara, Inc.",
+  "fein": "46-4402712",
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 181770.5,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 181770.5
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Principal Technical Marketing Engineer",
+      "count": 1,
+      "median_wage_usd": 187741.0
+    },
+    {
+      "title": "Senior ML Compiler Engineer",
+      "count": 1,
+      "median_wage_usd": 175800.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 181770.5,
+    "gap_usd": 51610.5
+  }
+}

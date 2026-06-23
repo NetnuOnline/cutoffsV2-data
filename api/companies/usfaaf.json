@@ -1,0 +1,46 @@
+{
+  "slug": "usfaaf",
+  "canonical_name": "USFAAF Inc",
+  "fein": "83-0579196",
+  "lca_filing_count": 1,
+  "warn_notice_count": 0,
+  "median_wage_usd": 58906.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 58906.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Information Security Engineers",
+      "count": 1,
+      "median_wage_usd": 58906.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MN",
+      "county": "HENNEPIN",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MN",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Information Security Engineers",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 58906.0,
+    "gap_usd": -59094.0
+  }
+}

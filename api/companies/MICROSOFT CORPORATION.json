@@ -1,0 +1,203 @@
+{
+  "slug": "MICROSOFT CORPORATION",
+  "canonical_name": "Microsoft Corporation",
+  "fein": "91-1144442",
+  "lca_filing_count": 13403,
+  "lca_worker_positions": 27163,
+  "warn_notice_count": 0,
+  "median_wage_usd": 162037.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1460,
+      "median_wage_usd": 147455.0
+    },
+    {
+      "fy": 2021,
+      "filings": 1838,
+      "median_wage_usd": 150623.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2126,
+      "median_wage_usd": 156043.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1914,
+      "median_wage_usd": 161408.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2842,
+      "median_wage_usd": 165410.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1884,
+      "median_wage_usd": 174006.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1338,
+      "median_wage_usd": 180710.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 4134,
+      "median_wage_usd": 151410.0
+    },
+    {
+      "title": "Software Engineering",
+      "count": 3852,
+      "median_wage_usd": 170970.0
+    },
+    {
+      "title": "Technical Program Management",
+      "count": 263,
+      "median_wage_usd": 175619.0
+    },
+    {
+      "title": "Product Management",
+      "count": 249,
+      "median_wage_usd": 181680.0
+    },
+    {
+      "title": "Product Manager",
+      "count": 223,
+      "median_wage_usd": 161555.0
+    },
+    {
+      "title": "Senior Program Manager",
+      "count": 195,
+      "median_wage_usd": 164609.0
+    },
+    {
+      "title": "Data and Applied Scientist",
+      "count": 190,
+      "median_wage_usd": 154085.5
+    },
+    {
+      "title": "Applied Sciences",
+      "count": 181,
+      "median_wage_usd": 175984.0
+    },
+    {
+      "title": "Data Science",
+      "count": 175,
+      "median_wage_usd": 168550.0
+    },
+    {
+      "title": "Program Manager",
+      "count": 169,
+      "median_wage_usd": 136605.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 7194
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 803
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 408
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 241
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 148
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 134
+    },
+    {
+      "state": "NC",
+      "county": "MECKLENBURG",
+      "count": 112
+    },
+    {
+      "state": "NC",
+      "county": "WAKE",
+      "count": 87
+    },
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 81
+    },
+    {
+      "state": "MA",
+      "county": "BURLINGTON",
+      "count": 65
+    }
+  ],
+  "top_states": [
+    {
+      "state": "WA",
+      "count": 9378
+    },
+    {
+      "state": "CA",
+      "count": 1440
+    },
+    {
+      "state": "TX",
+      "count": 714
+    },
+    {
+      "state": "GA",
+      "count": 497
+    },
+    {
+      "state": "NC",
+      "count": 273
+    },
+    {
+      "state": "NY",
+      "count": 217
+    },
+    {
+      "state": "MA",
+      "count": 198
+    },
+    {
+      "state": "NJ",
+      "count": 141
+    },
+    {
+      "state": "VA",
+      "count": 83
+    },
+    {
+      "state": "OR",
+      "count": 75
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 166000.0,
+    "gap_usd": 35840.0
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "slug": "jtc-usa-holdings",
+  "canonical_name": "JTC USA Holdings, Inc.",
+  "fein": "85-0802397",
+  "lca_filing_count": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 88750.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 87500.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 124841.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Inestment Research Associate",
+      "count": 2,
+      "median_wage_usd": 87500.0
+    },
+    {
+      "title": "Investment Research Associate",
+      "count": 1,
+      "median_wage_usd": 90000.0
+    },
+    {
+      "title": "Program Management Senior Lead",
+      "count": 1,
+      "median_wage_usd": 159682.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 2
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 3
+    },
+    {
+      "state": "NY",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1161",
+    "soc_title": "Market Research Analysts and Marketing Specialists",
+    "market_median_usd": 74680.0,
+    "employer_median_usd": 88750.0,
+    "gap_usd": 14070.0
+  }
+}

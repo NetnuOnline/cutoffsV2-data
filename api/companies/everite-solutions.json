@@ -1,0 +1,123 @@
+{
+  "slug": "everite-solutions",
+  "canonical_name": "EVERITE SOLUTIONS INC",
+  "fein": "86-2104653",
+  "lca_filing_count": 33,
+  "lca_worker_positions": 33,
+  "warn_notice_count": 0,
+  "median_wage_usd": 102877.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 91000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 24,
+      "median_wage_usd": 102878.5
+    },
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 89710.0
+    },
+    {
+      "fy": 2025,
+      "filings": 4,
+      "median_wage_usd": 107872.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 130562.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 28,
+      "median_wage_usd": 102877.0
+    },
+    {
+      "title": "Systems Engineer",
+      "count": 2,
+      "median_wage_usd": 87102.5
+    },
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 114716.0
+    },
+    {
+      "title": "IT Manager",
+      "count": 1,
+      "median_wage_usd": 130562.0
+    },
+    {
+      "title": "Systems Analyst",
+      "count": 1,
+      "median_wage_usd": 89710.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "GA",
+      "county": "FORSYTH",
+      "count": 24
+    },
+    {
+      "state": "NY",
+      "county": "NASSAU",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "county": "DUVAL",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "BEXAR",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 27
+    },
+    {
+      "state": "CA",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "NY",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 102877.0,
+    "gap_usd": -27283.0
+  }
+}

@@ -1,0 +1,996 @@
+{
+  "slug": "enterprise",
+  "canonical_name": "Enterprise",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 133,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "FL",
+      "count": 24
+    },
+    {
+      "state": "CA",
+      "count": 16
+    },
+    {
+      "state": "OH",
+      "count": 11
+    },
+    {
+      "state": "OK",
+      "count": 8
+    },
+    {
+      "state": "NY",
+      "count": 8
+    },
+    {
+      "state": "TN",
+      "count": 6
+    },
+    {
+      "state": "IL",
+      "count": 6
+    },
+    {
+      "state": "MO",
+      "count": 5
+    },
+    {
+      "state": "NV",
+      "count": 5
+    },
+    {
+      "state": "OR",
+      "count": 5
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "06/24/2020",
+      "effective_date": "06/30/2020",
+      "state": "MO",
+      "workers": 23,
+      "city": null
+    },
+    {
+      "date": "06/22/2020",
+      "effective_date": "06/22/2020",
+      "state": "OK",
+      "workers": 0,
+      "city": "Edmond"
+    },
+    {
+      "date": "05/20/2020",
+      "effective_date": "03/23/2020",
+      "state": "KY",
+      "workers": 70,
+      "city": "Boone"
+    },
+    {
+      "date": "05/15/2020",
+      "effective_date": "05/15/2020",
+      "state": "KY",
+      "workers": 0,
+      "city": "Jefferson County - Louisville"
+    },
+    {
+      "date": "05/12/2020",
+      "effective_date": "04/30/2020",
+      "state": "OH",
+      "workers": 14,
+      "city": "Blue Ash/Hamilton"
+    },
+    {
+      "date": "05/12/2020",
+      "effective_date": "04/30/2020",
+      "state": "OH",
+      "workers": 3,
+      "city": "Columbus/Franklin"
+    },
+    {
+      "date": "05/12/2020",
+      "effective_date": "04/30/2020",
+      "state": "OH",
+      "workers": 35,
+      "city": "Columbus/Franklin"
+    },
+    {
+      "date": "05/12/2020",
+      "effective_date": "03/23/2020",
+      "state": "OH",
+      "workers": 80,
+      "city": "Columbus/Franklin"
+    },
+    {
+      "date": "05/12/2020",
+      "effective_date": "03/23/2020",
+      "state": "OH",
+      "workers": 66,
+      "city": "Columbus/Franklin"
+    },
+    {
+      "date": "05/12/2020",
+      "effective_date": "03/23/2020",
+      "state": "OH",
+      "workers": 163,
+      "city": "Blue Ash/Hamilton"
+    },
+    {
+      "date": "05/12/2020",
+      "effective_date": "03/23/2020",
+      "state": "CA",
+      "workers": 33,
+      "city": "Camarillo"
+    },
+    {
+      "date": "05/12/2020",
+      "effective_date": "03/23/2020",
+      "state": "CA",
+      "workers": 45,
+      "city": "Camarillo"
+    },
+    {
+      "date": "05/12/2020",
+      "effective_date": "05/12/2020",
+      "state": "MI",
+      "workers": 32,
+      "city": "Farmington Hills"
+    },
+    {
+      "date": "05/07/2020",
+      "effective_date": "04/30/2020",
+      "state": "TN",
+      "workers": 2,
+      "city": "Shelby County"
+    },
+    {
+      "date": "05/07/2020",
+      "effective_date": "04/30/2020",
+      "state": "TN",
+      "workers": 18,
+      "city": "Shelby County"
+    },
+    {
+      "date": "05/07/2020",
+      "effective_date": "04/30/2020",
+      "state": "TN",
+      "workers": 6,
+      "city": "Blount County"
+    },
+    {
+      "date": "05/07/2020",
+      "effective_date": "03/23/2020",
+      "state": "TN",
+      "workers": 122,
+      "city": "Knox County"
+    },
+    {
+      "date": "05/06/2020",
+      "effective_date": "04/30/2020",
+      "state": "FL",
+      "workers": 33,
+      "city": "MIAMI"
+    },
+    {
+      "date": "05/05/2020",
+      "effective_date": "04/30/2020",
+      "state": "FL",
+      "workers": 97,
+      "city": "FORT LAUDERDALE"
+    },
+    {
+      "date": "05/05/2020",
+      "effective_date": "04/14/2020",
+      "state": "TN",
+      "workers": 32,
+      "city": "Shelby County"
+    },
+    {
+      "date": "05/05/2020",
+      "effective_date": "03/25/2020",
+      "state": "FL",
+      "workers": 7,
+      "city": "MIAMI"
+    },
+    {
+      "date": "05/05/2020",
+      "effective_date": "03/25/2020",
+      "state": "FL",
+      "workers": 70,
+      "city": "MIAMI"
+    },
+    {
+      "date": "05/05/2020",
+      "effective_date": "03/23/2020",
+      "state": "TN",
+      "workers": 84,
+      "city": "Shelby County"
+    },
+    {
+      "date": "05/05/2020",
+      "effective_date": "05/05/2020",
+      "state": "OK",
+      "workers": 50,
+      "city": null
+    },
+    {
+      "date": "05/05/2020",
+      "effective_date": "05/05/2020",
+      "state": "OK",
+      "workers": 53,
+      "city": null
+    },
+    {
+      "date": "05/05/2020",
+      "effective_date": "05/05/2020",
+      "state": "OK",
+      "workers": 102,
+      "city": null
+    },
+    {
+      "date": "05/05/2020",
+      "effective_date": "05/05/2020",
+      "state": "OK",
+      "workers": 88,
+      "city": null
+    },
+    {
+      "date": "05/05/2020",
+      "effective_date": "05/05/2020",
+      "state": "KS",
+      "workers": 74,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "05/05/2020",
+      "effective_date": "05/05/2020",
+      "state": "OK",
+      "workers": 0,
+      "city": "Edmond"
+    },
+    {
+      "date": "05/04/2020",
+      "effective_date": "04/30/2020",
+      "state": "FL",
+      "workers": 116,
+      "city": "FORT LAUDERDALE"
+    },
+    {
+      "date": "05/04/2020",
+      "effective_date": "04/30/2020",
+      "state": "FL",
+      "workers": 115,
+      "city": "MIAMI"
+    },
+    {
+      "date": "05/04/2020",
+      "effective_date": "04/30/2020",
+      "state": "FL",
+      "workers": 203,
+      "city": "COCONUT CREEK"
+    },
+    {
+      "date": "05/04/2020",
+      "effective_date": "04/30/2020",
+      "state": "CA",
+      "workers": 180,
+      "city": "San Francisco"
+    },
+    {
+      "date": "05/01/2020",
+      "effective_date": "05/01/2020",
+      "state": "UT",
+      "workers": 216,
+      "city": "SLC"
+    },
+    {
+      "date": "05/01/2020",
+      "effective_date": "03/01/2020",
+      "state": "IL",
+      "workers": 132,
+      "city": "Morton"
+    },
+    {
+      "date": "04/30/2020",
+      "effective_date": "04/30/2020",
+      "state": "FL",
+      "workers": 79,
+      "city": "TAMPA"
+    },
+    {
+      "date": "04/30/2020",
+      "effective_date": "04/30/2020",
+      "state": "FL",
+      "workers": 71,
+      "city": "TAMPA"
+    },
+    {
+      "date": "04/30/2020",
+      "effective_date": "04/30/2020",
+      "state": "FL",
+      "workers": 164,
+      "city": "JACKSONVILLE"
+    },
+    {
+      "date": "04/30/2020",
+      "effective_date": "04/30/2020",
+      "state": "CT",
+      "workers": 77,
+      "city": "Stratford"
+    },
+    {
+      "date": "04/30/2020",
+      "effective_date": "04/30/2020",
+      "state": "CO",
+      "workers": 83,
+      "city": "Denver"
+    },
+    {
+      "date": "04/30/2020",
+      "effective_date": "04/30/2020",
+      "state": "LA",
+      "workers": 13,
+      "city": "Metairie"
+    },
+    {
+      "date": "04/30/2020",
+      "effective_date": "03/23/2020",
+      "state": "FL",
+      "workers": 37,
+      "city": "TAMPA"
+    },
+    {
+      "date": "04/30/2020",
+      "effective_date": "03/23/2020",
+      "state": "FL",
+      "workers": 205,
+      "city": "TAMPA"
+    },
+    {
+      "date": "04/30/2020",
+      "effective_date": "04/30/2020",
+      "state": "CO",
+      "workers": 67,
+      "city": "Denver"
+    },
+    {
+      "date": "04/30/2020",
+      "effective_date": "04/30/2020",
+      "state": "GA",
+      "workers": 232,
+      "city": "Norcross"
+    },
+    {
+      "date": "04/30/2020",
+      "effective_date": "04/30/2020",
+      "state": "GA",
+      "workers": 110,
+      "city": "Sandy Springs"
+    },
+    {
+      "date": "04/30/2020",
+      "effective_date": "04/30/2020",
+      "state": "GA",
+      "workers": 73,
+      "city": "College Park"
+    },
+    {
+      "date": "04/30/2020",
+      "effective_date": "04/30/2020",
+      "state": "MI",
+      "workers": 32,
+      "city": "Farmington Hills, Michigan"
+    },
+    {
+      "date": "04/29/2020",
+      "effective_date": "04/30/2020",
+      "state": "NY",
+      "workers": 174,
+      "city": "Jamaica"
+    },
+    {
+      "date": "04/29/2020",
+      "effective_date": "04/30/2020",
+      "state": "IL",
+      "workers": 15,
+      "city": "10255 W Zemke Blvd  Chicago, IL 60666"
+    },
+    {
+      "date": "04/29/2020",
+      "effective_date": "04/30/2020",
+      "state": "LA",
+      "workers": 2,
+      "city": "Baton Rouge"
+    },
+    {
+      "date": "04/29/2020",
+      "effective_date": "04/30/2020",
+      "state": "LA",
+      "workers": 9,
+      "city": "Kenner"
+    },
+    {
+      "date": "04/29/2020",
+      "effective_date": "04/30/2020",
+      "state": "LA",
+      "workers": 27,
+      "city": "Kenner"
+    },
+    {
+      "date": "04/29/2020",
+      "effective_date": "03/25/2020",
+      "state": "FL",
+      "workers": 38,
+      "city": "PUNTA GORDA"
+    },
+    {
+      "date": "04/29/2020",
+      "effective_date": "03/23/2020",
+      "state": "WI",
+      "workers": 260,
+      "city": "Waukesha, Oak Creek, Milwaukee"
+    },
+    {
+      "date": "04/29/2020",
+      "effective_date": "03/23/2020",
+      "state": "NY",
+      "workers": 131,
+      "city": "Latham"
+    },
+    {
+      "date": "04/29/2020",
+      "effective_date": "03/23/2020",
+      "state": "NY",
+      "workers": 113,
+      "city": "Ronkonkoma"
+    },
+    {
+      "date": "04/29/2020",
+      "effective_date": "03/20/2020",
+      "state": "IL",
+      "workers": 93,
+      "city": "10255 W Zemke Blvd  Chicago, IL 60666"
+    },
+    {
+      "date": "04/29/2020",
+      "effective_date": "04/29/2020",
+      "state": "KS",
+      "workers": 9,
+      "city": "3 - Workforce Investment Area III"
+    },
+    {
+      "date": "04/28/2020",
+      "effective_date": "04/30/2020",
+      "state": "TX",
+      "workers": 30,
+      "city": "San Antonio"
+    },
+    {
+      "date": "04/28/2020",
+      "effective_date": "04/30/2020",
+      "state": "TX",
+      "workers": 146,
+      "city": "San Antonio"
+    },
+    {
+      "date": "04/28/2020",
+      "effective_date": "04/30/2020",
+      "state": "TX",
+      "workers": 135,
+      "city": "San Antonio"
+    },
+    {
+      "date": "04/28/2020",
+      "effective_date": "04/30/2020",
+      "state": "OH",
+      "workers": 1,
+      "city": "Hudson/Summit"
+    },
+    {
+      "date": "04/28/2020",
+      "effective_date": "04/30/2020",
+      "state": "OH",
+      "workers": 14,
+      "city": "Cleveland/Cuyahoga"
+    },
+    {
+      "date": "04/28/2020",
+      "effective_date": "04/30/2020",
+      "state": "NY",
+      "workers": 18,
+      "city": "Buffalo"
+    },
+    {
+      "date": "04/28/2020",
+      "effective_date": "04/30/2020",
+      "state": "NY",
+      "workers": 4,
+      "city": "Rochester"
+    },
+    {
+      "date": "04/28/2020",
+      "effective_date": "04/30/2020",
+      "state": "MO",
+      "workers": 84,
+      "city": "Kansas City"
+    },
+    {
+      "date": "04/28/2020",
+      "effective_date": "04/30/2020",
+      "state": "FL",
+      "workers": 10,
+      "city": "PENSACOLA"
+    },
+    {
+      "date": "04/28/2020",
+      "effective_date": "04/30/2020",
+      "state": "FL",
+      "workers": 11,
+      "city": "EGLIN AFB"
+    },
+    {
+      "date": "04/28/2020",
+      "effective_date": "04/03/2020",
+      "state": "MO",
+      "workers": 56,
+      "city": "Kansas City"
+    },
+    {
+      "date": "04/28/2020",
+      "effective_date": "03/23/2020",
+      "state": "NY",
+      "workers": 93,
+      "city": "Buffalo"
+    },
+    {
+      "date": "04/28/2020",
+      "effective_date": "03/23/2020",
+      "state": "NY",
+      "workers": 169,
+      "city": "Rochester"
+    },
+    {
+      "date": "04/28/2020",
+      "effective_date": "03/23/2020",
+      "state": "FL",
+      "workers": 151,
+      "city": "FORT MYERS"
+    },
+    {
+      "date": "04/28/2020",
+      "effective_date": "03/23/2020",
+      "state": "FL",
+      "workers": 24,
+      "city": "EGLIN AFB"
+    },
+    {
+      "date": "04/28/2020",
+      "effective_date": "03/23/2020",
+      "state": "FL",
+      "workers": 85,
+      "city": "PENSACOLA"
+    },
+    {
+      "date": "04/28/2020",
+      "effective_date": "03/23/2020",
+      "state": "FL",
+      "workers": 16,
+      "city": "PENSACOLA"
+    },
+    {
+      "date": "04/28/2020",
+      "effective_date": "03/22/2020",
+      "state": "OH",
+      "workers": 92,
+      "city": "Brookpark/Cuyahoga"
+    },
+    {
+      "date": "04/28/2020",
+      "effective_date": "03/22/2020",
+      "state": "OH",
+      "workers": 94,
+      "city": "Hudson/Summit"
+    },
+    {
+      "date": "04/28/2020",
+      "effective_date": "03/22/2020",
+      "state": "OH",
+      "workers": 65,
+      "city": "Cleveland/Cuyahoga"
+    },
+    {
+      "date": "04/28/2020",
+      "effective_date": "03/20/2020",
+      "state": "FL",
+      "workers": 108,
+      "city": "ORLANDO"
+    },
+    {
+      "date": "04/27/2020",
+      "effective_date": "06/01/2020",
+      "state": "IL",
+      "workers": 1,
+      "city": "12055 S. Cicero Ave  Alsip, IL 60803"
+    },
+    {
+      "date": "04/27/2020",
+      "effective_date": "04/30/2020",
+      "state": "MO",
+      "workers": 377,
+      "city": "Multiple Locations"
+    },
+    {
+      "date": "04/27/2020",
+      "effective_date": "04/30/2020",
+      "state": "MO",
+      "workers": 366,
+      "city": "Multiple Locations"
+    },
+    {
+      "date": "04/27/2020",
+      "effective_date": "04/30/2020",
+      "state": "MD",
+      "workers": 220,
+      "city": "Linthicum Heights"
+    },
+    {
+      "date": "04/27/2020",
+      "effective_date": "04/30/2020",
+      "state": "MD",
+      "workers": 189,
+      "city": "Hanover"
+    },
+    {
+      "date": "04/27/2020",
+      "effective_date": "04/30/2020",
+      "state": "FL",
+      "workers": 4,
+      "city": "FORT MYERS"
+    },
+    {
+      "date": "04/27/2020",
+      "effective_date": "04/30/2020",
+      "state": "FL",
+      "workers": 14,
+      "city": "PUNTA GORDA"
+    },
+    {
+      "date": "04/27/2020",
+      "effective_date": "04/30/2020",
+      "state": "FL",
+      "workers": 2,
+      "city": "FORT MYERS"
+    },
+    {
+      "date": "04/27/2020",
+      "effective_date": "04/01/2020",
+      "state": "IL",
+      "workers": 11,
+      "city": "12055 S. Cicero Ave  Alsip, IL 60803"
+    },
+    {
+      "date": "04/27/2020",
+      "effective_date": "03/01/2020",
+      "state": "IL",
+      "workers": 201,
+      "city": "12055 S. Cicero Ave  Alsip, IL 60803"
+    },
+    {
+      "date": "04/27/2020",
+      "effective_date": "04/27/2020",
+      "state": "OK",
+      "workers": 221,
+      "city": null
+    },
+    {
+      "date": "04/27/2020",
+      "effective_date": "04/27/2020",
+      "state": "HI",
+      "workers": 0,
+      "city": null
+    },
+    {
+      "date": "04/27/2020",
+      "effective_date": "04/27/2020",
+      "state": "OK",
+      "workers": 0,
+      "city": "Edmond"
+    },
+    {
+      "date": "04/26/2020",
+      "effective_date": "04/26/2020",
+      "state": "CA",
+      "workers": 199,
+      "city": "Roseville"
+    },
+    {
+      "date": "04/24/2020",
+      "effective_date": "04/30/2020",
+      "state": "KY",
+      "workers": 104,
+      "city": "Jefferson County - Louisville"
+    },
+    {
+      "date": "04/24/2020",
+      "effective_date": "04/24/2020",
+      "state": "VA",
+      "workers": 78,
+      "city": "Richmond & Sandston, VA"
+    },
+    {
+      "date": "04/24/2020",
+      "effective_date": "04/24/2020",
+      "state": "VA",
+      "workers": 84,
+      "city": "Norfolk, VA"
+    },
+    {
+      "date": "04/24/2020",
+      "effective_date": "04/23/2020",
+      "state": "NM",
+      "workers": 185,
+      "city": "Albuquerque"
+    },
+    {
+      "date": "04/24/2020",
+      "effective_date": "03/20/2020",
+      "state": "KY",
+      "workers": 118,
+      "city": "Jefferson County - Louisville"
+    },
+    {
+      "date": "04/24/2020",
+      "effective_date": "04/30/2020",
+      "state": "NV",
+      "workers": 21,
+      "city": "Las Vegas, Clark County"
+    },
+    {
+      "date": "04/24/2020",
+      "effective_date": "03/20/2020",
+      "state": "NV",
+      "workers": 115,
+      "city": "Las Vegas, Clark County"
+    },
+    {
+      "date": "04/24/2020",
+      "effective_date": "04/30/2020",
+      "state": "NV",
+      "workers": 35,
+      "city": "Las Vegas, Clark County"
+    },
+    {
+      "date": "04/24/2020",
+      "effective_date": "03/18/2020",
+      "state": "NV",
+      "workers": 115,
+      "city": "Las Vegas, Clark County"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/30/2020",
+      "state": "OR",
+      "workers": 18,
+      "city": "Portland"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/30/2020",
+      "state": "OR",
+      "workers": 14,
+      "city": "Tualatin"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "04/30/2020",
+      "state": "MD",
+      "workers": 92,
+      "city": "Rockville"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "03/23/2020",
+      "state": "IN",
+      "workers": 452,
+      "city": "Mishawaka and Indianapolis"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "03/19/2020",
+      "state": "OR",
+      "workers": 60,
+      "city": "Portland"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "03/19/2020",
+      "state": "OR",
+      "workers": 262,
+      "city": "Tualatin"
+    },
+    {
+      "date": "04/22/2020",
+      "effective_date": "04/30/2020",
+      "state": "MD",
+      "workers": 65,
+      "city": "Hyattsville"
+    },
+    {
+      "date": "04/22/2020",
+      "effective_date": "04/22/2020",
+      "state": "MI",
+      "workers": 114,
+      "city": "Romulus"
+    },
+    {
+      "date": "04/21/2020",
+      "effective_date": "03/19/2020",
+      "state": "TX",
+      "workers": 76,
+      "city": "Houston"
+    },
+    {
+      "date": "04/20/2020",
+      "effective_date": "04/03/2020",
+      "state": "NY",
+      "workers": 74,
+      "city": "New York/Jamaica/East Elmhurst"
+    },
+    {
+      "date": "04/20/2020",
+      "effective_date": "04/01/2020",
+      "state": "CA",
+      "workers": 9,
+      "city": "Burlingame"
+    },
+    {
+      "date": "04/20/2020",
+      "effective_date": "04/01/2020",
+      "state": "CA",
+      "workers": 5,
+      "city": "Oakland"
+    },
+    {
+      "date": "04/20/2020",
+      "effective_date": "03/28/2020",
+      "state": "VA",
+      "workers": 77,
+      "city": "Arlington & Dulles, VA"
+    },
+    {
+      "date": "04/20/2020",
+      "effective_date": "03/23/2020",
+      "state": "CA",
+      "workers": 28,
+      "city": "Oakland"
+    },
+    {
+      "date": "04/20/2020",
+      "effective_date": "03/23/2020",
+      "state": "CA",
+      "workers": 22,
+      "city": "San Jose"
+    },
+    {
+      "date": "04/20/2020",
+      "effective_date": "03/23/2020",
+      "state": "CA",
+      "workers": 47,
+      "city": "San Francisco"
+    },
+    {
+      "date": "04/20/2020",
+      "effective_date": "03/23/2020",
+      "state": "CA",
+      "workers": 16,
+      "city": "Oakland"
+    },
+    {
+      "date": "04/20/2020",
+      "effective_date": "03/23/2020",
+      "state": "CA",
+      "workers": 18,
+      "city": "Santa Clara"
+    },
+    {
+      "date": "04/20/2020",
+      "effective_date": "03/23/2020",
+      "state": "CA",
+      "workers": 1,
+      "city": "San Francisco"
+    },
+    {
+      "date": "04/20/2020",
+      "effective_date": "03/21/2020",
+      "state": "NV",
+      "workers": 201,
+      "city": "Las Vegas, Clark County"
+    },
+    {
+      "date": "04/20/2020",
+      "effective_date": "03/04/2020",
+      "state": "OR",
+      "workers": 62,
+      "city": "Portland"
+    },
+    {
+      "date": "04/20/2020",
+      "effective_date": "04/20/2020",
+      "state": "ME",
+      "workers": 63,
+      "city": "Westbrook"
+    },
+    {
+      "date": "04/11/2020",
+      "effective_date": "04/11/2020",
+      "state": "MI",
+      "workers": 114,
+      "city": "Romulus, Michigan"
+    },
+    {
+      "date": "04/08/2020",
+      "effective_date": "04/08/2020",
+      "state": "CA",
+      "workers": 41,
+      "city": "Ontario"
+    },
+    {
+      "date": "04/08/2020",
+      "effective_date": "04/08/2020",
+      "state": "CA",
+      "workers": 12,
+      "city": "Burbank"
+    },
+    {
+      "date": "04/08/2020",
+      "effective_date": "04/08/2020",
+      "state": "CA",
+      "workers": 11,
+      "city": "Anaheim"
+    },
+    {
+      "date": "04/03/2020",
+      "effective_date": "04/03/2020",
+      "state": "CA",
+      "workers": 44,
+      "city": "San Jose"
+    },
+    {
+      "date": "03/31/2020",
+      "effective_date": "04/30/2020",
+      "state": "FL",
+      "workers": 24,
+      "city": "FORT MYERS"
+    },
+    {
+      "date": "01/01/2020",
+      "effective_date": "04/30/2020",
+      "state": "CT",
+      "workers": 77,
+      "city": "Startford"
+    },
+    {
+      "date": "11/10/2009",
+      "effective_date": "11/10/2009",
+      "state": "UT",
+      "workers": 71,
+      "city": "Salt Lake City"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "c-greater-louisville-wib",
+      "name": "C Greater Louisville WIB",
+      "state": "KY"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

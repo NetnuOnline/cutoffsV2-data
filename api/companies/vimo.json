@@ -1,0 +1,144 @@
+{
+  "slug": "vimo",
+  "canonical_name": "Vimo Inc.",
+  "fein": "87-0745172",
+  "lca_filing_count": 22,
+  "lca_worker_positions": 21,
+  "warn_notice_count": 0,
+  "median_wage_usd": 155875.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 3,
+      "median_wage_usd": 145000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 89648.0
+    },
+    {
+      "fy": 2022,
+      "filings": 7,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 186560.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 170000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 174360.0
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 218000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Product Manager",
+      "count": 3,
+      "median_wage_usd": 145000.0
+    },
+    {
+      "title": "Sr. Business Intelligence Analyst",
+      "count": 3,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "title": "Senior Staff Engineer",
+      "count": 3,
+      "median_wage_usd": 240000.0
+    },
+    {
+      "title": "Business Intelligence Analyst",
+      "count": 2,
+      "median_wage_usd": 161669.5
+    },
+    {
+      "title": "Solutions Architect",
+      "count": 1,
+      "median_wage_usd": 186560.0
+    },
+    {
+      "title": "Sr. QA Engineer",
+      "count": 1,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "title": "Database Analyst",
+      "count": 1,
+      "median_wage_usd": 108798.0
+    },
+    {
+      "title": "Tech Lead Biz Ops",
+      "count": 1,
+      "median_wage_usd": 182234.0
+    },
+    {
+      "title": " DevOps Engineer",
+      "count": 1,
+      "median_wage_usd": 160000.0
+    },
+    {
+      "title": "DevOps Engineer",
+      "count": 1,
+      "median_wage_usd": 130000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 14
+    },
+    {
+      "state": "CO",
+      "county": "DOUGLAS",
+      "count": 1
+    },
+    {
+      "state": "MD",
+      "county": "PRINCE GEORGE'S",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 18
+    },
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "MD",
+      "count": 1
+    },
+    {
+      "state": "CO",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 182234.0,
+    "gap_usd": 52074.0
+  }
+}

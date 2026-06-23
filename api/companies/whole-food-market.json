@@ -1,0 +1,54 @@
+{
+  "slug": "whole-food-market",
+  "canonical_name": "Whole Food Market",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 3,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "11/08/2023",
+      "effective_date": "12/05/2023",
+      "state": "TX",
+      "workers": 110,
+      "city": "Houston"
+    },
+    {
+      "date": "02/22/2017",
+      "effective_date": "02/22/2017",
+      "state": "GA",
+      "workers": 70,
+      "city": "Augusta"
+    },
+    {
+      "date": "02/12/2017",
+      "effective_date": "02/12/2017",
+      "state": "GA",
+      "workers": 149,
+      "city": "Roswell"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "richmondburke-wib",
+      "name": "Richmond/Burke WIB",
+      "state": "GA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

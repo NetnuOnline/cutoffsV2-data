@@ -1,0 +1,58 @@
+{
+  "slug": "honeyville",
+  "canonical_name": "Honeyville, Inc.",
+  "fein": null,
+  "lca_filing_count": 1,
+  "warn_notice_count": 1,
+  "median_wage_usd": 100000.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 100000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "IT Systems Analyst",
+      "count": 1,
+      "median_wage_usd": 100000.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "UT",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "UT",
+      "county": "WEBER",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "09/25/2019",
+      "effective_date": "11/25/2019",
+      "state": "CA",
+      "workers": 178,
+      "city": "Rancho Cucamonga"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "lca_worker_positions": 1,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1211",
+    "soc_title": "Computer Systems Analysts",
+    "market_median_usd": 103800.0,
+    "employer_median_usd": 100000.0,
+    "gap_usd": -3800.0
+  }
+}

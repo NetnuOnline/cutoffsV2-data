@@ -1,0 +1,36 @@
+{
+  "slug": "mcdnalds",
+  "canonical_name": "McDnalds",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 1,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "ME",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "03/02/2021",
+      "effective_date": "03/02/2021",
+      "state": "ME",
+      "workers": 30,
+      "city": "Calais"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "aroostookwashington-wia",
+      "name": "Aroostook/Washington WIA",
+      "state": "ME"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

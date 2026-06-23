@@ -1,0 +1,52 @@
+{
+  "slug": "dutchmen",
+  "canonical_name": "Dutchmen",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "OR",
+      "count": 1
+    },
+    {
+      "state": "ID",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "09/10/2013",
+      "effective_date": "11/15/2013",
+      "state": "OR",
+      "workers": 163,
+      "city": "Clackamas"
+    },
+    {
+      "date": "09/10/2013",
+      "effective_date": "11/15/2013",
+      "state": "ID",
+      "workers": 156,
+      "city": "Burley"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "south-central-wib-id",
+      "name": "South Central WIB",
+      "state": "ID"
+    },
+    {
+      "slug": "clackamas-wia",
+      "name": "Clackamas WIA",
+      "state": "OR"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

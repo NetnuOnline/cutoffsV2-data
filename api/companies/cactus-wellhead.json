@@ -1,0 +1,87 @@
+{
+  "slug": "cactus-wellhead",
+  "canonical_name": "Cactus Wellhead",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 4,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 3
+    },
+    {
+      "state": "LA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "05/14/2020",
+      "effective_date": "05/14/2020",
+      "state": "TX",
+      "workers": 14,
+      "city": "Odessa"
+    },
+    {
+      "date": "05/01/2020",
+      "effective_date": "05/01/2020",
+      "state": "TX",
+      "workers": 32,
+      "city": "Odessa"
+    },
+    {
+      "date": "04/22/2020",
+      "effective_date": "04/03/2020",
+      "state": "TX",
+      "workers": 184,
+      "city": "Odessa"
+    },
+    {
+      "date": "04/22/2020",
+      "effective_date": "04/01/2020",
+      "state": "LA",
+      "workers": 67,
+      "city": "Bossier City"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "seventh-planning-district-consortium-wia",
+      "name": "Seventh Planning District Consortium WIA",
+      "state": "LA"
+    },
+    {
+      "slug": "permian-basin-wda",
+      "name": "Permian Basin WDA",
+      "state": "TX"
+    }
+  ],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2020-04-03",
+        "formType": "8-K",
+        "accessionNumber": "0001104659-20-043189",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001699136&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 1,
+    "itemCounts": {
+      "2.05": 1
+    },
+    "latestFilingDate": "2020-04-03",
+    "earliestFilingDate": "2020-04-03"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

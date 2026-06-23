@@ -1,0 +1,57 @@
+{
+  "slug": "acrt-pacific",
+  "canonical_name": "ACRT Pacific",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 4,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 4
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "12/01/2023",
+      "effective_date": "01/31/2024",
+      "state": "CA",
+      "workers": 24,
+      "city": "Tulare"
+    },
+    {
+      "date": "12/01/2023",
+      "effective_date": "01/31/2024",
+      "state": "CA",
+      "workers": 20,
+      "city": "12353 Hesperia Rd  Victorville CA 92395"
+    },
+    {
+      "date": "12/01/2023",
+      "effective_date": "01/31/2024",
+      "state": "CA",
+      "workers": 7,
+      "city": "Holden"
+    },
+    {
+      "date": "12/01/2023",
+      "effective_date": "01/31/2024",
+      "state": "CA",
+      "workers": 3,
+      "city": "Santa Fe Springs"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "tulare-county-wib",
+      "name": "Tulare County WIB",
+      "state": "CA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

@@ -1,0 +1,82 @@
+{
+  "slug": "gardner-denver",
+  "canonical_name": "Gardner Denver, Inc.",
+  "fein": null,
+  "lca_filing_count": 3,
+  "warn_notice_count": 2,
+  "median_wage_usd": 85093.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 65000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 88496.5
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Quality Engineer II",
+      "count": 1,
+      "median_wage_usd": 65000.0
+    },
+    {
+      "title": "DESIGN ENGINEER",
+      "count": 1,
+      "median_wage_usd": 85093.0
+    },
+    {
+      "title": "Sr. Category Manager",
+      "count": 1,
+      "median_wage_usd": 91900.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MO",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MO",
+      "county": "PETTIS",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "county": "ADAMS",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "11/02/2012",
+      "effective_date": "11/02/2012",
+      "state": "GA",
+      "workers": 64,
+      "city": "Peachtree City"
+    },
+    {
+      "date": "08/19/1995",
+      "effective_date": "09/01/1995",
+      "state": "IL",
+      "workers": 92,
+      "city": "Quincy"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": []
+}

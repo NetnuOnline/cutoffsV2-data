@@ -1,0 +1,203 @@
+{
+  "slug": "smartworks",
+  "canonical_name": "SmartWorks,LLC",
+  "fein": "20-0037122",
+  "lca_filing_count": 82,
+  "lca_worker_positions": 73,
+  "warn_notice_count": 0,
+  "median_wage_usd": 100263.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 10,
+      "median_wage_usd": 96263.0
+    },
+    {
+      "fy": 2021,
+      "filings": 12,
+      "median_wage_usd": 97145.5
+    },
+    {
+      "fy": 2022,
+      "filings": 9,
+      "median_wage_usd": 99008.0
+    },
+    {
+      "fy": 2023,
+      "filings": 19,
+      "median_wage_usd": 90000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 6,
+      "median_wage_usd": 105997.0
+    },
+    {
+      "fy": 2025,
+      "filings": 12,
+      "median_wage_usd": 112923.0
+    },
+    {
+      "fy": 2026,
+      "filings": 5,
+      "median_wage_usd": 100000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 38,
+      "median_wage_usd": 98602.5
+    },
+    {
+      "title": "Software Engineer",
+      "count": 17,
+      "median_wage_usd": 104291.0
+    },
+    {
+      "title": "Programmer Analyst",
+      "count": 5,
+      "median_wage_usd": 80725.0
+    },
+    {
+      "title": "Computer Programmer",
+      "count": 3,
+      "median_wage_usd": 90000.0
+    },
+    {
+      "title": "Software Developer ",
+      "count": 3,
+      "median_wage_usd": 90000.0
+    },
+    {
+      "title": "Database Administrator",
+      "count": 3,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "title": "Network Administrator",
+      "count": 2,
+      "median_wage_usd": 84600.0
+    },
+    {
+      "title": "Systems Analyst",
+      "count": 2,
+      "median_wage_usd": 106033.5
+    },
+    {
+      "title": "Business Analyst",
+      "count": 2,
+      "median_wage_usd": 93500.0
+    },
+    {
+      "title": "Systems Administrator",
+      "count": 2,
+      "median_wage_usd": 109000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NJ",
+      "county": "MIDDLESEX",
+      "count": 15
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 7
+    },
+    {
+      "state": "SC",
+      "county": "SPARTANBURG",
+      "count": 3
+    },
+    {
+      "state": "PA",
+      "county": "CHESTER",
+      "count": 2
+    },
+    {
+      "state": "VA",
+      "county": "FAIRFAX",
+      "count": 2
+    },
+    {
+      "state": "MA",
+      "county": "WAKEFIELD",
+      "count": 2
+    },
+    {
+      "state": "PA",
+      "county": "CUMBERLAND",
+      "count": 2
+    },
+    {
+      "state": "MO",
+      "county": "JACKSON",
+      "count": 2
+    },
+    {
+      "state": "NC",
+      "county": "WAKE",
+      "count": 2
+    },
+    {
+      "state": "PA",
+      "county": "ALLEGHENY",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 17
+    },
+    {
+      "state": "TX",
+      "count": 12
+    },
+    {
+      "state": "PA",
+      "count": 9
+    },
+    {
+      "state": "VA",
+      "count": 5
+    },
+    {
+      "state": "NC",
+      "count": 4
+    },
+    {
+      "state": "MI",
+      "count": 4
+    },
+    {
+      "state": "MA",
+      "count": 3
+    },
+    {
+      "state": "CA",
+      "count": 3
+    },
+    {
+      "state": "SC",
+      "count": 3
+    },
+    {
+      "state": "MD",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 105227.0,
+    "gap_usd": -24933.0
+  }
+}

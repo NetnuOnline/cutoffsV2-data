@@ -1,0 +1,129 @@
+{
+  "slug": "navan",
+  "canonical_name": "Navan, Inc.",
+  "fein": "47-3424780",
+  "lca_filing_count": 33,
+  "lca_worker_positions": 33,
+  "warn_notice_count": 0,
+  "median_wage_usd": 172457.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 10,
+      "median_wage_usd": 170914.0
+    },
+    {
+      "fy": 2024,
+      "filings": 5,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 10,
+      "median_wage_usd": 176253.0
+    },
+    {
+      "fy": 2026,
+      "filings": 8,
+      "median_wage_usd": 189000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Software Engineer",
+      "count": 5,
+      "median_wage_usd": 187741.0
+    },
+    {
+      "title": "Manager, Engineering",
+      "count": 2,
+      "median_wage_usd": 174710.0
+    },
+    {
+      "title": "Commercial Account Executive",
+      "count": 2,
+      "median_wage_usd": 82139.0
+    },
+    {
+      "title": "Sr. Netsuite Developer",
+      "count": 1,
+      "median_wage_usd": 135408.0
+    },
+    {
+      "title": "Manager, Sales Development",
+      "count": 1,
+      "median_wage_usd": 102378.0
+    },
+    {
+      "title": "Senior Enterprise Account Executive",
+      "count": 1,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 174000.0
+    },
+    {
+      "title": "Software Engineer - L2",
+      "count": 1,
+      "median_wage_usd": 130853.0
+    },
+    {
+      "title": "Sr. Software Engineer",
+      "count": 1,
+      "median_wage_usd": null
+    },
+    {
+      "title": "Analytics Engineer II",
+      "count": 1,
+      "median_wage_usd": 92123.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 14
+    },
+    {
+      "state": "CO",
+      "county": "DENVER",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 28
+    },
+    {
+      "state": "NY",
+      "count": 3
+    },
+    {
+      "state": "CO",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 187741.0,
+    "gap_usd": 57581.0
+  }
+}

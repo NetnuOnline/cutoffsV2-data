@@ -1,0 +1,148 @@
+{
+  "slug": "cariad",
+  "canonical_name": "CARIAD, Inc.",
+  "fein": "88-1348969",
+  "lca_filing_count": 39,
+  "lca_worker_positions": 38,
+  "warn_notice_count": 0,
+  "median_wage_usd": 171000.18,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 148000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 5,
+      "median_wage_usd": 171175.16
+    },
+    {
+      "fy": 2025,
+      "filings": 7,
+      "median_wage_usd": 182414.7
+    },
+    {
+      "fy": 2026,
+      "filings": 23,
+      "median_wage_usd": 169127.92,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Sr. Software Developer",
+      "count": 6,
+      "median_wage_usd": 176618.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 4,
+      "median_wage_usd": 147574.0
+    },
+    {
+      "title": "Software Engineer III",
+      "count": 3,
+      "median_wage_usd": 154712.74
+    },
+    {
+      "title": "Principal Software Engineer",
+      "count": 3,
+      "median_wage_usd": 188317.74
+    },
+    {
+      "title": "Software Developer Sr.",
+      "count": 3,
+      "median_wage_usd": 171000.18
+    },
+    {
+      "title": "Sr Staff Software Engineer, BSW",
+      "count": 2,
+      "median_wage_usd": 235000.0
+    },
+    {
+      "title": "Staff Software Engineer",
+      "count": 2,
+      "median_wage_usd": 182250.0
+    },
+    {
+      "title": "Sr. Site Reliability Engineer",
+      "count": 2,
+      "median_wage_usd": 166226.58
+    },
+    {
+      "title": "Principal HW Safety Engineer",
+      "count": 1,
+      "median_wage_usd": 230000.0
+    },
+    {
+      "title": "Software Developer/Engineer Sr",
+      "count": 1,
+      "median_wage_usd": 171175.16
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 17
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 9
+    },
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 1
+    },
+    {
+      "state": "OH",
+      "county": "HAMILTON",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 1
+    },
+    {
+      "state": "WV",
+      "county": "CABELL",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "WA",
+      "count": 23
+    },
+    {
+      "state": "CA",
+      "count": 12
+    },
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "OH",
+      "count": 1
+    },
+    {
+      "state": "WV",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 171175.16,
+    "gap_usd": 41015.16
+  }
+}

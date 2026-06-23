@@ -1,0 +1,64 @@
+{
+  "slug": "skinny-it",
+  "canonical_name": "Skinny IT",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 1,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "10/23/2018",
+      "effective_date": "10/23/2018",
+      "state": "TX",
+      "workers": 8,
+      "city": "Frisco"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2023-11-16",
+        "formType": "8-K",
+        "accessionNumber": "0001628280-23-039265",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001818093&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2022-06-29",
+        "formType": "8-K/A",
+        "accessionNumber": "0001818093-22-000108",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001818093&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 2,
+    "itemCounts": {
+      "2.05": 1,
+      "5.02": 1
+    },
+    "latestFilingDate": "2023-11-16",
+    "earliestFilingDate": "2022-06-29"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

@@ -1,0 +1,191 @@
+{
+  "slug": "abbott-laboratories",
+  "canonical_name": "Abbott Laboratories Inc.",
+  "fein": "36-4184946",
+  "lca_filing_count": 133,
+  "lca_worker_positions": 131,
+  "warn_notice_count": 0,
+  "median_wage_usd": 117000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 16,
+      "median_wage_usd": 110500.0
+    },
+    {
+      "fy": 2021,
+      "filings": 20,
+      "median_wage_usd": 103000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 17,
+      "median_wage_usd": 112000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 13,
+      "median_wage_usd": 95000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 22,
+      "median_wage_usd": 115500.0
+    },
+    {
+      "fy": 2025,
+      "filings": 18,
+      "median_wage_usd": 137139.0
+    },
+    {
+      "fy": 2026,
+      "filings": 25,
+      "median_wage_usd": 140000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Statistician",
+      "count": 5,
+      "median_wage_usd": 86000.0
+    },
+    {
+      "title": "STAFF SOFTWARE ENGINEER",
+      "count": 3,
+      "median_wage_usd": 145000.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 3,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "SENIOR SOFTWARE ENGINEER",
+      "count": 3,
+      "median_wage_usd": 112000.0
+    },
+    {
+      "title": "SENIOR CYBERSECURITY COMPLIANCE SPECIALIST",
+      "count": 2,
+      "median_wage_usd": 128000.0
+    },
+    {
+      "title": "SENIOR SYSTEMS ANALYST",
+      "count": 2,
+      "median_wage_usd": 108000.0
+    },
+    {
+      "title": "Next Generation Sensor Product Marketing Manager",
+      "count": 2,
+      "median_wage_usd": 165000.0
+    },
+    {
+      "title": "Systems Support Engineer",
+      "count": 2,
+      "median_wage_usd": 95000.0
+    },
+    {
+      "title": "DATA SCIENTIST",
+      "count": 2,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "title": "Senior Financial Analyst",
+      "count": 2,
+      "median_wage_usd": 100000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IL",
+      "county": "LAKE",
+      "count": 60
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 9
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 7
+    },
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 4
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 3
+    },
+    {
+      "state": "AZ",
+      "county": "PINAL",
+      "count": 3
+    },
+    {
+      "state": "OH",
+      "county": "FRANKLIN",
+      "count": 3
+    },
+    {
+      "state": "MN",
+      "county": "RAMSEY",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 1
+    },
+    {
+      "state": "MN",
+      "county": "HENNEPIN",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 82
+    },
+    {
+      "state": "TX",
+      "count": 19
+    },
+    {
+      "state": "CA",
+      "count": 18
+    },
+    {
+      "state": "MN",
+      "count": 5
+    },
+    {
+      "state": "OH",
+      "count": 5
+    },
+    {
+      "state": "AZ",
+      "count": 3
+    },
+    {
+      "state": "FL",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 145000.0,
+    "gap_usd": 14840.0
+  }
+}

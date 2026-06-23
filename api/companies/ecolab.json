@@ -1,0 +1,119 @@
+{
+  "slug": "ecolab",
+  "canonical_name": "Ecolab Inc.",
+  "fein": "41-0231510",
+  "lca_filing_count": 8,
+  "lca_worker_positions": 8,
+  "warn_notice_count": 0,
+  "median_wage_usd": 126852.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 4,
+      "median_wage_usd": 123773.5
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 116000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 129078.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 182203.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Marketing Manager ",
+      "count": 2,
+      "median_wage_usd": 126852.0
+    },
+    {
+      "title": "Assistant Marketing Manager",
+      "count": 2,
+      "median_wage_usd": 113500.0
+    },
+    {
+      "title": "Plant Controller / Financial Analysis Manager 1",
+      "count": 1,
+      "median_wage_usd": 120695.0
+    },
+    {
+      "title": "Manager, Solution Architecture",
+      "count": 1,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "title": "Marketing Manager",
+      "count": 1,
+      "median_wage_usd": 129078.0
+    },
+    {
+      "title": "Sr. Corporate Account Mgr.",
+      "count": 1,
+      "median_wage_usd": 182203.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MN",
+      "county": "RAMSEY",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 2
+    },
+    {
+      "state": "TN",
+      "county": "WILSON",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MN",
+      "count": 4
+    },
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "TN",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-2021",
+    "soc_title": "Marketing Managers",
+    "market_median_usd": 157620.0,
+    "employer_median_usd": 126852.0,
+    "gap_usd": -30768.0
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "slug": "renuity-operations",
+  "canonical_name": "Renuity Operations, LLC",
+  "fein": "39-2002752",
+  "lca_filing_count": 2,
+  "lca_worker_positions": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 149980.0,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 142400.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 157560.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Sr. Lead, Product Owner",
+      "count": 1,
+      "median_wage_usd": 157560.0
+    },
+    {
+      "title": "Principal Product Owner",
+      "count": 1,
+      "median_wage_usd": 142400.0
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "NC",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Information Technology Project Managers",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 149980.0,
+    "gap_usd": 31980.0
+  }
+}

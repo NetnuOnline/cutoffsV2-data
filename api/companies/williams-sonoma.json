@@ -1,0 +1,195 @@
+{
+  "slug": "williams-sonoma",
+  "canonical_name": "Williams-Sonoma, Inc.",
+  "fein": "94-2203880",
+  "lca_filing_count": 57,
+  "lca_worker_positions": 56,
+  "warn_notice_count": 0,
+  "median_wage_usd": 140000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 8,
+      "median_wage_usd": 121118.5
+    },
+    {
+      "fy": 2021,
+      "filings": 10,
+      "median_wage_usd": 118789.0
+    },
+    {
+      "fy": 2022,
+      "filings": 7,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 139000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 16,
+      "median_wage_usd": 149000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 9,
+      "median_wage_usd": 157030.5
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 148054.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Lead Software Engineer",
+      "count": 9,
+      "median_wage_usd": 155500.02
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 8,
+      "median_wage_usd": 142623.0
+    },
+    {
+      "title": "Manager, Technology",
+      "count": 2,
+      "median_wage_usd": 191012.85
+    },
+    {
+      "title": "Staff Software Engineer",
+      "count": 2,
+      "median_wage_usd": 201232.0
+    },
+    {
+      "title": "Senior Software Engineer - ESRE",
+      "count": 2,
+      "median_wage_usd": 150622.5
+    },
+    {
+      "title": "Senior Systems Engineer",
+      "count": 2,
+      "median_wage_usd": 129000.0
+    },
+    {
+      "title": "Lead Systems Engineer",
+      "count": 1,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "title": "Lead Quality Software Engineer ",
+      "count": 1,
+      "median_wage_usd": 139000.0
+    },
+    {
+      "title": "Sr. Business Intelligence Developer",
+      "count": 1,
+      "median_wage_usd": 101028.0
+    },
+    {
+      "title": "Software Engineer, Systems Architecture",
+      "count": 1,
+      "median_wage_usd": 76856.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "PLACER",
+      "count": 16
+    },
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 13
+    },
+    {
+      "state": "MS",
+      "county": "DESOTO",
+      "count": 5
+    },
+    {
+      "state": "CA",
+      "county": "SAN JOAQUIN",
+      "count": 3
+    },
+    {
+      "state": "CA",
+      "county": "SACRAMENTO",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "county": "CATAWBA",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "county": "UNION",
+      "count": 1
+    },
+    {
+      "state": "AR",
+      "county": "BENTON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 41
+    },
+    {
+      "state": "MS",
+      "count": 6
+    },
+    {
+      "state": "NJ",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "count": 3
+    },
+    {
+      "state": "TN",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "count": 1
+    },
+    {
+      "state": "AR",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 150000.0,
+    "gap_usd": 19840.0
+  }
+}

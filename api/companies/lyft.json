@@ -1,0 +1,191 @@
+{
+  "slug": "lyft",
+  "canonical_name": "LYFT, Inc.",
+  "fein": "20-8809830",
+  "lca_filing_count": 252,
+  "lca_worker_positions": 251,
+  "warn_notice_count": 0,
+  "median_wage_usd": 173000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 51,
+      "median_wage_usd": 190000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 57,
+      "median_wage_usd": 175000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 50,
+      "median_wage_usd": 187335.0
+    },
+    {
+      "fy": 2023,
+      "filings": 24,
+      "median_wage_usd": 139500.0
+    },
+    {
+      "fy": 2024,
+      "filings": 30,
+      "median_wage_usd": 141050.0
+    },
+    {
+      "fy": 2025,
+      "filings": 26,
+      "median_wage_usd": 148000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 13,
+      "median_wage_usd": 138000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 116,
+      "median_wage_usd": 180000.0
+    },
+    {
+      "title": "Data Scientist",
+      "count": 26,
+      "median_wage_usd": 148000.0
+    },
+    {
+      "title": "Engineering Manager",
+      "count": 10,
+      "median_wage_usd": 203173.0
+    },
+    {
+      "title": "Software Engineer ",
+      "count": 10,
+      "median_wage_usd": 204376.0
+    },
+    {
+      "title": "Engineering Manager ",
+      "count": 6,
+      "median_wage_usd": 241719.0
+    },
+    {
+      "title": "Business Systems Engineer",
+      "count": 6,
+      "median_wage_usd": 130810.0
+    },
+    {
+      "title": "Data Scientist ",
+      "count": 5,
+      "median_wage_usd": 161705.0
+    },
+    {
+      "title": "Analytics Manager",
+      "count": 4,
+      "median_wage_usd": 163680.0
+    },
+    {
+      "title": "Analyst",
+      "count": 4,
+      "median_wage_usd": 143500.0
+    },
+    {
+      "title": "Accountant",
+      "count": 3,
+      "median_wage_usd": 100000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 134
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 49
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 27
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 3
+    },
+    {
+      "state": "CA",
+      "county": "ORANGE",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 1
+    },
+    {
+      "state": "TN",
+      "county": "DAVIDSON",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "county": "HUDSON",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "county": "PALM BEACH",
+      "count": 1
+    },
+    {
+      "state": "CT",
+      "county": "FAIRFIELD",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 163
+    },
+    {
+      "state": "WA",
+      "count": 52
+    },
+    {
+      "state": "NY",
+      "count": 33
+    },
+    {
+      "state": "FL",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    },
+    {
+      "state": "CT",
+      "count": 1
+    },
+    {
+      "state": "TN",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 175000.0,
+    "gap_usd": 44840.0
+  }
+}

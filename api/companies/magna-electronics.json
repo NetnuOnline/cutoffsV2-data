@@ -1,0 +1,136 @@
+{
+  "slug": "magna-electronics",
+  "canonical_name": "Magna Electronics, LLC",
+  "fein": "98-0442576",
+  "lca_filing_count": 157,
+  "lca_worker_positions": 155,
+  "warn_notice_count": 0,
+  "median_wage_usd": 110000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 13,
+      "median_wage_usd": 113064.0
+    },
+    {
+      "fy": 2021,
+      "filings": 19,
+      "median_wage_usd": 126000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 46,
+      "median_wage_usd": 111093.0
+    },
+    {
+      "fy": 2023,
+      "filings": 32,
+      "median_wage_usd": 101275.0
+    },
+    {
+      "fy": 2024,
+      "filings": 15,
+      "median_wage_usd": 114691.0
+    },
+    {
+      "fy": 2025,
+      "filings": 19,
+      "median_wage_usd": 114691.0
+    },
+    {
+      "fy": 2026,
+      "filings": 11,
+      "median_wage_usd": 102190.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Software Engineer",
+      "count": 31,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "Systems Engineer",
+      "count": 8,
+      "median_wage_usd": 94093.38500000001
+    },
+    {
+      "title": "Program Manager",
+      "count": 5,
+      "median_wage_usd": 127500.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 5,
+      "median_wage_usd": 115169.6
+    },
+    {
+      "title": "Software Algorithm Engineer",
+      "count": 5,
+      "median_wage_usd": 77792.0
+    },
+    {
+      "title": "Project Engineering Lead",
+      "count": 4,
+      "median_wage_usd": 126000.0
+    },
+    {
+      "title": "System Engineer",
+      "count": 4,
+      "median_wage_usd": 92414.4
+    },
+    {
+      "title": "Program Quality Engineer",
+      "count": 4,
+      "median_wage_usd": 92092.0
+    },
+    {
+      "title": "Senior Algorithm Engineer",
+      "count": 3,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "System Test Engineer",
+      "count": 3,
+      "median_wage_usd": 91478.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MI",
+      "county": "OAKLAND",
+      "count": 122
+    },
+    {
+      "state": "MA",
+      "county": "BOSTON CITY",
+      "count": 8
+    },
+    {
+      "state": "MA",
+      "county": "LOWELL CITY",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MI",
+      "count": 147
+    },
+    {
+      "state": "MA",
+      "count": 10
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 114691.0,
+    "gap_usd": -15469.0
+  }
+}

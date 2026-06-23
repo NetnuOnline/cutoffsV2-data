@@ -1,0 +1,51 @@
+{
+  "slug": "optessa-usa",
+  "canonical_name": "Optessa USA, Inc.",
+  "fein": "80-0058014",
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 74869.5,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 74869.5
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Application Specialist",
+      "count": 1,
+      "median_wage_usd": 58469.0
+    },
+    {
+      "title": "Algorithms Research Specialist",
+      "count": 1,
+      "median_wage_usd": 91270.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NJ",
+      "county": "MONMOUTH",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Computer Systems Engineers/Architects",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 58469.0,
+    "gap_usd": -59531.0
+  }
+}

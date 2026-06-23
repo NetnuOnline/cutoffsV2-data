@@ -1,0 +1,47 @@
+{
+  "slug": "echostar-corporation",
+  "canonical_name": "EchoStar Corporation",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "MD",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "09/02/2025",
+      "effective_date": "11/01/2025",
+      "state": "MD",
+      "workers": 17,
+      "city": "Columbia"
+    },
+    {
+      "date": "10/01/2016",
+      "effective_date": "10/01/2016",
+      "state": "GA",
+      "workers": 137,
+      "city": "Atlanta"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "mid-maryland-wia",
+      "name": "MID-Maryland WIA",
+      "state": "MD"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

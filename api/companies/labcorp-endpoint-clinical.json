@@ -1,0 +1,138 @@
+{
+  "slug": "labcorp-endpoint-clinical",
+  "canonical_name": "Labcorp Endpoint Clinical, Inc.",
+  "fein": "27-1797837",
+  "lca_filing_count": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 114822.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 114822.0
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 113000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Software Developer",
+      "count": 1,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "Manager, Design Management",
+      "count": 1,
+      "median_wage_usd": 81000.0
+    },
+    {
+      "title": "Senior Software Developer, Product",
+      "count": 1,
+      "median_wage_usd": 127700.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 1,
+      "median_wage_usd": 113444.0
+    },
+    {
+      "title": "Network Administrator",
+      "count": 1,
+      "median_wage_usd": 116200.0
+    },
+    {
+      "title": "Test Engineer - Lead",
+      "count": 1,
+      "median_wage_usd": 113000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "AL",
+      "county": "JEFFERSON",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "county": "WAKE",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "county": "WAKEFIELD",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "county": "BOSTON CITY",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MA",
+      "count": 2
+    },
+    {
+      "state": "NC",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "AL",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 16,
+    "continuing_denials": 0,
+    "total_approvals": 17,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 14,
+        "continuing_denials": 0,
+        "total_approvals": 15
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      }
+    ]
+  },
+  "lca_worker_positions": 6,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 120000.0,
+    "gap_usd": -10160.0
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "slug": "t-roc",
+  "canonical_name": "T-ROC",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 3,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "AL",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "count": 1
+    },
+    {
+      "state": "SC",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "05/06/2024",
+      "effective_date": "05/31/2024",
+      "state": "AL",
+      "workers": 162,
+      "city": "Coral Gables"
+    },
+    {
+      "date": "05/03/2024",
+      "effective_date": "05/31/2024",
+      "state": "FL",
+      "workers": 302,
+      "city": "APOPKA"
+    },
+    {
+      "date": "05/03/2024",
+      "effective_date": "05/31/2024",
+      "state": "SC",
+      "workers": 100,
+      "city": "Miami"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

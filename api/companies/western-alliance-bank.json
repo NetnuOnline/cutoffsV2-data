@@ -1,0 +1,190 @@
+{
+  "slug": "western-alliance-bank",
+  "canonical_name": "Western Alliance Bank",
+  "fein": "47-0887231",
+  "lca_filing_count": 64,
+  "lca_worker_positions": 64,
+  "warn_notice_count": 0,
+  "median_wage_usd": 131836.8,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 3,
+      "median_wage_usd": 105518.0
+    },
+    {
+      "fy": 2021,
+      "filings": 6,
+      "median_wage_usd": 119984.89499999999
+    },
+    {
+      "fy": 2022,
+      "filings": 12,
+      "median_wage_usd": 144000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 7,
+      "median_wage_usd": 143570.29
+    },
+    {
+      "fy": 2024,
+      "filings": 8,
+      "median_wage_usd": 103078.5
+    },
+    {
+      "fy": 2025,
+      "filings": 10,
+      "median_wage_usd": 145348.91
+    },
+    {
+      "fy": 2026,
+      "filings": 18,
+      "median_wage_usd": 123332.56,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Staff Engineer II",
+      "count": 5,
+      "median_wage_usd": 145000.0
+    },
+    {
+      "title": "Engineer II",
+      "count": 4,
+      "median_wage_usd": 99164.785
+    },
+    {
+      "title": "IT Application Support Manager",
+      "count": 2,
+      "median_wage_usd": 156445.5
+    },
+    {
+      "title": "Engineer III",
+      "count": 2,
+      "median_wage_usd": 107713.59
+    },
+    {
+      "title": "Senior Mulesoft Engineer",
+      "count": 2,
+      "median_wage_usd": 170000.0
+    },
+    {
+      "title": "Staff Engineer 2",
+      "count": 2,
+      "median_wage_usd": 154016.5
+    },
+    {
+      "title": "Principal Engineer I",
+      "count": 2,
+      "median_wage_usd": 152285.9
+    },
+    {
+      "title": "Staff Engineer I - EAD",
+      "count": 1,
+      "median_wage_usd": 143582.92
+    },
+    {
+      "title": "Senior Quality Assurance Automation Analyst",
+      "count": 1,
+      "median_wage_usd": 86632.0
+    },
+    {
+      "title": "Principal Engineer II-Cloud Database Administrator",
+      "count": 1,
+      "median_wage_usd": 170000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 19
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 15
+    },
+    {
+      "state": "OH",
+      "county": "DELAWARE",
+      "count": 2
+    },
+    {
+      "state": "MA",
+      "county": "BOSTON CITY",
+      "count": 1
+    },
+    {
+      "state": "OH",
+      "county": "FRANKLIN",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "county": "ALLEGHENY",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "VENTURA",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "county": "MIDDLESEX",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "AZ",
+      "count": 25
+    },
+    {
+      "state": "TX",
+      "count": 19
+    },
+    {
+      "state": "CA",
+      "count": 9
+    },
+    {
+      "state": "OH",
+      "count": 5
+    },
+    {
+      "state": "PA",
+      "count": 2
+    },
+    {
+      "state": "MA",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 148557.45,
+    "gap_usd": 18397.45
+  }
+}

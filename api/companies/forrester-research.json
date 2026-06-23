@@ -1,0 +1,144 @@
+{
+  "slug": "forrester-research",
+  "canonical_name": "Forrester Research, Inc.",
+  "fein": "04-2797789",
+  "lca_filing_count": 15,
+  "lca_worker_positions": 15,
+  "warn_notice_count": 0,
+  "median_wage_usd": 143710.02,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 3,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 3,
+      "median_wage_usd": 124689.65
+    },
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 119384.62
+    },
+    {
+      "fy": 2024,
+      "filings": 5,
+      "median_wage_usd": 154500.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 203000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Technical Architect",
+      "count": 2,
+      "median_wage_usd": 148889.01
+    },
+    {
+      "title": "Software Engineer II",
+      "count": 2,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "Manager, Technical Architect",
+      "count": 2,
+      "median_wage_usd": 167205.05
+    },
+    {
+      "title": "Salesforce Developer",
+      "count": 1,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "Senior Analyst",
+      "count": 1,
+      "median_wage_usd": 164800.0
+    },
+    {
+      "title": "Business Intelligence Developer",
+      "count": 1,
+      "median_wage_usd": 119384.62
+    },
+    {
+      "title": "CX Index Analyst",
+      "count": 1,
+      "median_wage_usd": 95000.0
+    },
+    {
+      "title": "ETL Developer",
+      "count": 1,
+      "median_wage_usd": 104444.39
+    },
+    {
+      "title": "Sr Machine Learning Engineer",
+      "count": 1,
+      "median_wage_usd": 154500.0
+    },
+    {
+      "title": "Manager, CX Index Engagement ",
+      "count": 1,
+      "median_wage_usd": 150654.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MA",
+      "county": "CAMBRIDGE CITY",
+      "count": 8
+    },
+    {
+      "state": "CA",
+      "county": "SAN DIEGO",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "SAN MATEO",
+      "count": 2
+    },
+    {
+      "state": "MN",
+      "county": "WASHINGTON",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MA",
+      "count": 9
+    },
+    {
+      "state": "CA",
+      "count": 4
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "MN",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 148889.01,
+    "gap_usd": 18729.01
+  }
+}

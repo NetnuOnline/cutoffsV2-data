@@ -1,0 +1,138 @@
+{
+  "slug": "horizon-global-americas",
+  "canonical_name": "Horizon Global Americas Inc.",
+  "fein": "38-2935446",
+  "lca_filing_count": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 93137.5,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 128000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 4,
+      "median_wage_usd": 84652.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 101275.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Software Engineer",
+      "count": 2,
+      "median_wage_usd": 101275.0
+    },
+    {
+      "title": "Mechanical Engineer",
+      "count": 1,
+      "median_wage_usd": 84304.0
+    },
+    {
+      "title": "Software Engineering Manager ",
+      "count": 1,
+      "median_wage_usd": 128000.0
+    },
+    {
+      "title": "Systems & Compliance Engineer ",
+      "count": 1,
+      "median_wage_usd": 85000.0
+    },
+    {
+      "title": "Launch Coordinator",
+      "count": 1,
+      "median_wage_usd": 75792.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MI",
+      "county": "WAYNE",
+      "count": 4
+    },
+    {
+      "state": "MI",
+      "county": "OAKLAND",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MI",
+      "count": 6
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 7,
+    "initial_denials": 1,
+    "continuing_approvals": 15,
+    "continuing_denials": 0,
+    "total_approvals": 22,
+    "by_fy": [
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 2,
+        "initial_denials": 1,
+        "continuing_approvals": 5,
+        "continuing_denials": 0,
+        "total_approvals": 7
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 3,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 6,
+        "continuing_denials": 0,
+        "total_approvals": 8
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 4,
+        "continuing_denials": 0,
+        "total_approvals": 4
+      }
+    ]
+  },
+  "lca_worker_positions": 6,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 101275.0,
+    "gap_usd": -28885.0
+  }
+}

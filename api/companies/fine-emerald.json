@@ -1,0 +1,94 @@
+{
+  "slug": "fine-emerald",
+  "canonical_name": "Fine Emerald, Inc",
+  "fein": "13-3281813",
+  "lca_filing_count": 8,
+  "warn_notice_count": 0,
+  "median_wage_usd": 75972.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 7,
+      "median_wage_usd": 74984.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 103272.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "E-Commerce Analyst ",
+      "count": 6,
+      "median_wage_usd": 74984.0
+    },
+    {
+      "title": "Marketing Manager ",
+      "count": 1,
+      "median_wage_usd": 159058.0
+    },
+    {
+      "title": "E-Commerce Analyst",
+      "count": 1,
+      "median_wage_usd": 103272.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 7
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 8
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 1,
+    "continuing_denials": 0,
+    "total_approvals": 2,
+    "by_fy": [
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 8,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 94234.4,
+    "gap_usd": -35925.6
+  }
+}

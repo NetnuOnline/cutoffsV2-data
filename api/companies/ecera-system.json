@@ -1,0 +1,159 @@
+{
+  "slug": "ecera-system",
+  "canonical_name": "Ecera System LLC",
+  "fein": "85-0539271",
+  "lca_filing_count": 42,
+  "warn_notice_count": 0,
+  "median_wage_usd": 75000.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 70000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 27,
+      "median_wage_usd": 75000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 11,
+      "median_wage_usd": 65000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 30,
+      "median_wage_usd": 75000.0
+    },
+    {
+      "title": "Computer Programmer",
+      "count": 7,
+      "median_wage_usd": 65000.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 3,
+      "median_wage_usd": 104000.0
+    },
+    {
+      "title": "Design And Development Engineer",
+      "count": 1,
+      "median_wage_usd": 70000.0
+    },
+    {
+      "title": "Software developer",
+      "count": 1,
+      "median_wage_usd": 105000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MI",
+      "county": "OAKLAND",
+      "count": 13
+    },
+    {
+      "state": "NV",
+      "county": "CLARK",
+      "count": 4
+    },
+    {
+      "state": "IN",
+      "county": "BARTHOLOMEW",
+      "count": 4
+    },
+    {
+      "state": "MN",
+      "county": "RAMSEY",
+      "count": 4
+    },
+    {
+      "state": "NE",
+      "county": "DOUGLAS",
+      "count": 2
+    },
+    {
+      "state": "MI",
+      "county": "WAYNE",
+      "count": 2
+    },
+    {
+      "state": "NV",
+      "county": "DOUGLAS",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MI",
+      "count": 19
+    },
+    {
+      "state": "CA",
+      "count": 7
+    },
+    {
+      "state": "NV",
+      "count": 6
+    },
+    {
+      "state": "IN",
+      "count": 4
+    },
+    {
+      "state": "MN",
+      "count": 4
+    },
+    {
+      "state": "NE",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 6,
+    "initial_denials": 3,
+    "continuing_approvals": 0,
+    "continuing_denials": 0,
+    "total_approvals": 6,
+    "by_fy": [
+      {
+        "fy": 2021,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 1,
+        "initial_denials": 1,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 4,
+        "initial_denials": 2,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 4
+      }
+    ]
+  },
+  "lca_worker_positions": 39,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 75000.0,
+    "gap_usd": -55160.0
+  }
+}

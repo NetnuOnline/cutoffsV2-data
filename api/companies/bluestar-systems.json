@@ -1,0 +1,70 @@
+{
+  "slug": "bluestar-systems",
+  "canonical_name": "Bluestar Systems, Inc.",
+  "fein": "81-2839864",
+  "lca_filing_count": 3,
+  "lca_worker_positions": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 101754.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 81442.5
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 132000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Application Developer",
+      "count": 2,
+      "median_wage_usd": 116877.0
+    },
+    {
+      "title": "Quality Analyst",
+      "count": 1,
+      "median_wage_usd": 61131.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 1
+    },
+    {
+      "state": "AR",
+      "county": "BENTON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "AR",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 132000.0,
+    "gap_usd": 1840.0
+  }
+}

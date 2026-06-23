@@ -1,0 +1,117 @@
+{
+  "slug": "noke",
+  "canonical_name": "Noke, Inc.",
+  "fein": "81-4201470",
+  "lca_filing_count": 13,
+  "lca_worker_positions": 13,
+  "warn_notice_count": 0,
+  "median_wage_usd": 109283.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 89565.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 83566.5
+    },
+    {
+      "fy": 2025,
+      "filings": 8,
+      "median_wage_usd": 109283.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 130707.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Tech Lead, Software Development (Cloud/IoT)",
+      "count": 3,
+      "median_wage_usd": 109283.0
+    },
+    {
+      "title": "Tech Lead, Software Development (Mobile)",
+      "count": 1,
+      "median_wage_usd": 109283.0
+    },
+    {
+      "title": "Advisor, Software Development",
+      "count": 1,
+      "median_wage_usd": 130707.0
+    },
+    {
+      "title": "Test Lead, Quality Assurance",
+      "count": 1,
+      "median_wage_usd": 83600.0
+    },
+    {
+      "title": "Database Tech Lead",
+      "count": 1,
+      "median_wage_usd": 105464.0
+    },
+    {
+      "title": "Senior Test Engineer, Quality Assurance",
+      "count": 1,
+      "median_wage_usd": 83533.0
+    },
+    {
+      "title": "Tech Lead, Software Development",
+      "count": 1,
+      "median_wage_usd": 109283.0
+    },
+    {
+      "title": "Senior Developer, Software Development",
+      "count": 1,
+      "median_wage_usd": 102877.0
+    },
+    {
+      "title": "Test Lead, Quality Assurance - Noke",
+      "count": 1,
+      "median_wage_usd": 83600.0
+    },
+    {
+      "title": "Manager, Software Development",
+      "count": 1,
+      "median_wage_usd": 116500.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "GA",
+      "county": "COBB",
+      "count": 2
+    },
+    {
+      "state": "GA",
+      "county": "CARROLL",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 13
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 109283.0,
+    "gap_usd": -20877.0
+  }
+}

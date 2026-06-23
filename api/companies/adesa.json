@@ -1,0 +1,465 @@
+{
+  "slug": "adesa",
+  "canonical_name": "ADESA, Inc.",
+  "fein": "35-1842546",
+  "lca_filing_count": 15,
+  "warn_notice_count": 28,
+  "median_wage_usd": 101109.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 5,
+      "median_wage_usd": 91146.0
+    },
+    {
+      "fy": 2021,
+      "filings": 6,
+      "median_wage_usd": 98124.0
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 107937.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 114234.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 141140.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Site Reliability Engineer",
+      "count": 4,
+      "median_wage_usd": 107671.5
+    },
+    {
+      "title": "Senior HRIS Developer",
+      "count": 2,
+      "median_wage_usd": 127462.0
+    },
+    {
+      "title": "Sr. System Engineer",
+      "count": 1,
+      "median_wage_usd": 107937.0
+    },
+    {
+      "title": "Sr. Software Engineer",
+      "count": 1,
+      "median_wage_usd": 91146.0
+    },
+    {
+      "title": "Associate Site Reliability Engineer",
+      "count": 1,
+      "median_wage_usd": 69389.0
+    },
+    {
+      "title": "Quality Engineer ",
+      "count": 1,
+      "median_wage_usd": 79865.0
+    },
+    {
+      "title": "System Support Lead",
+      "count": 1,
+      "median_wage_usd": 109304.0
+    },
+    {
+      "title": "Senior Manager",
+      "count": 1,
+      "median_wage_usd": 131427.0
+    },
+    {
+      "title": "Salesforce Platform Administrator",
+      "count": 1,
+      "median_wage_usd": 83877.0
+    },
+    {
+      "title": "Senior Performance Engineer",
+      "count": 1,
+      "median_wage_usd": 95139.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IN",
+      "count": 15
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IN",
+      "county": "HAMILTON",
+      "count": 14
+    },
+    {
+      "state": "IN",
+      "county": "MARION",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "04/16/2021",
+      "effective_date": "07/17/2021",
+      "state": "NY",
+      "workers": 22,
+      "city": "Akron"
+    },
+    {
+      "date": "08/04/2020",
+      "effective_date": "10/03/2020",
+      "state": "NY",
+      "workers": 44,
+      "city": "Yaphank"
+    },
+    {
+      "date": "08/04/2020",
+      "effective_date": "10/03/2020",
+      "state": "NY",
+      "workers": 46,
+      "city": "Akron"
+    },
+    {
+      "date": "08/04/2020",
+      "effective_date": "10/03/2020",
+      "state": "NY",
+      "workers": 1,
+      "city": "Cicero"
+    },
+    {
+      "date": "08/04/2020",
+      "effective_date": "08/01/2020",
+      "state": "IA",
+      "workers": 11,
+      "city": "Grimes"
+    },
+    {
+      "date": "08/03/2020",
+      "effective_date": "08/01/2020",
+      "state": "CA",
+      "workers": 147,
+      "city": "Rio Linda"
+    },
+    {
+      "date": "08/03/2020",
+      "effective_date": "08/03/2020",
+      "state": "MI",
+      "workers": 40,
+      "city": "Flint, Michigan"
+    },
+    {
+      "date": "08/01/2020",
+      "effective_date": "08/01/2020",
+      "state": "NJ",
+      "workers": 76,
+      "city": "Manville"
+    },
+    {
+      "date": "08/01/2020",
+      "effective_date": "08/01/2020",
+      "state": "MI",
+      "workers": 133,
+      "city": "Flint, Michigan"
+    },
+    {
+      "date": "07/01/2020",
+      "effective_date": "08/01/2020",
+      "state": "TN",
+      "workers": 35,
+      "city": "Washington County"
+    },
+    {
+      "date": "06/29/2020",
+      "effective_date": "08/01/2020",
+      "state": "CA",
+      "workers": 113,
+      "city": "Rio Linda"
+    },
+    {
+      "date": "06/29/2020",
+      "effective_date": "08/01/2020",
+      "state": "CA",
+      "workers": 42,
+      "city": "Tracy"
+    },
+    {
+      "date": "06/29/2020",
+      "effective_date": "08/01/2020",
+      "state": "CA",
+      "workers": 71,
+      "city": "Mira Loma"
+    },
+    {
+      "date": "06/29/2020",
+      "effective_date": "06/29/2020",
+      "state": "AZ",
+      "workers": 66,
+      "city": "Chandler"
+    },
+    {
+      "date": "06/26/2020",
+      "effective_date": "08/01/2020",
+      "state": "IL",
+      "workers": 76,
+      "city": "Hoffman Estates"
+    },
+    {
+      "date": "06/25/2020",
+      "effective_date": "08/01/2020",
+      "state": "NY",
+      "workers": 79,
+      "city": "Yaphank"
+    },
+    {
+      "date": "06/25/2020",
+      "effective_date": "06/25/2020",
+      "state": "MI",
+      "workers": 173,
+      "city": "Flint"
+    },
+    {
+      "date": "06/24/2020",
+      "effective_date": "08/01/2020",
+      "state": "OH",
+      "workers": 28,
+      "city": "Northfield/Summit"
+    },
+    {
+      "date": "06/24/2020",
+      "effective_date": "08/01/2020",
+      "state": "NY",
+      "workers": 49,
+      "city": "Akron"
+    },
+    {
+      "date": "06/24/2020",
+      "effective_date": "08/01/2020",
+      "state": "NY",
+      "workers": 76,
+      "city": "Cicero"
+    },
+    {
+      "date": "06/24/2020",
+      "effective_date": "08/01/2020",
+      "state": "IN",
+      "workers": 48,
+      "city": "Plainfield"
+    },
+    {
+      "date": "06/24/2020",
+      "effective_date": "08/01/2020",
+      "state": "IA",
+      "workers": 18,
+      "city": "Grimes"
+    },
+    {
+      "date": "03/30/2020",
+      "effective_date": "04/05/2020",
+      "state": "CA",
+      "workers": 275,
+      "city": "Tracy"
+    },
+    {
+      "date": "03/30/2020",
+      "effective_date": "04/05/2020",
+      "state": "CA",
+      "workers": 69,
+      "city": "San Diego"
+    },
+    {
+      "date": "03/30/2020",
+      "effective_date": "04/05/2020",
+      "state": "CA",
+      "workers": 289,
+      "city": "Mira Loma"
+    },
+    {
+      "date": "03/30/2020",
+      "effective_date": "04/05/2020",
+      "state": "CA",
+      "workers": 271,
+      "city": "Rio Linda"
+    },
+    {
+      "date": "03/30/2020",
+      "effective_date": "04/05/2020",
+      "state": "CA",
+      "workers": 352,
+      "city": "Sacramento"
+    },
+    {
+      "date": "11/03/2016",
+      "effective_date": "12/21/2016",
+      "state": "FL",
+      "workers": 133,
+      "city": "Sanford"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "sacramento-county-wib",
+      "name": "Sacramento County WIB",
+      "state": "CA"
+    },
+    {
+      "slug": "san-joaquin-county-wib",
+      "name": "San Joaquin County WIB",
+      "state": "CA"
+    },
+    {
+      "slug": "career-alliance-inc",
+      "name": "Career Alliance, Inc.",
+      "state": "MI"
+    },
+    {
+      "slug": "greater-raritan-wib",
+      "name": "Greater Raritan WIB",
+      "state": "NJ"
+    },
+    {
+      "slug": "onondaga-county-lwia",
+      "name": "Onondaga County LWIA",
+      "state": "NY"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 3,
+    "initial_denials": 0,
+    "continuing_approvals": 29,
+    "continuing_denials": 0,
+    "total_approvals": 32,
+    "by_fy": [
+      {
+        "fy": 2009,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2010,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2011,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2012,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2013,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2014,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2015,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2016,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2017,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 12,
+        "continuing_denials": 0,
+        "total_approvals": 13
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 7,
+        "continuing_denials": 0,
+        "total_approvals": 7
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 9,
+        "continuing_denials": 0,
+        "total_approvals": 11
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 15,
+  "top_socs": [],
+  "lca_periods": []
+}

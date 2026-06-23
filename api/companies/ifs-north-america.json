@@ -1,0 +1,84 @@
+{
+  "slug": "ifs-north-america",
+  "canonical_name": "IFS North America, Inc.",
+  "fein": "39-1292200",
+  "lca_filing_count": 6,
+  "lca_worker_positions": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 161955.73,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 119808.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 230400.0
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 163911.47,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Principal Consultant",
+      "count": 2,
+      "median_wage_usd": 119808.0
+    },
+    {
+      "title": "Head of Value Engineering",
+      "count": 2,
+      "median_wage_usd": 230400.0
+    },
+    {
+      "title": "Senior Manager \u201c Technical Solution Managers (TSM)",
+      "count": 1,
+      "median_wage_usd": 163911.47
+    },
+    {
+      "title": "Lead Data Scientist",
+      "count": 1,
+      "median_wage_usd": 160000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 141859.73,
+    "gap_usd": 11699.73
+  }
+}

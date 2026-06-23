@@ -1,0 +1,48 @@
+{
+  "slug": "petco",
+  "canonical_name": "Petco",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 3,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 2
+    },
+    {
+      "state": "MN",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "11/20/2024",
+      "effective_date": "11/20/2024",
+      "state": "MN",
+      "workers": 18,
+      "city": "Brooklyn Park"
+    },
+    {
+      "date": "04/15/2020",
+      "effective_date": "04/26/2020",
+      "state": "CA",
+      "workers": 214,
+      "city": "San Diego"
+    },
+    {
+      "date": "03/15/2020",
+      "effective_date": "03/17/2020",
+      "state": "CA",
+      "workers": 24,
+      "city": "San Diego"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

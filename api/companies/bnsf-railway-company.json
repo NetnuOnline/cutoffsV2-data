@@ -1,0 +1,114 @@
+{
+  "slug": "bnsf-railway-company",
+  "canonical_name": "BNSF Railway Company",
+  "fein": "41-6034000",
+  "lca_filing_count": 14,
+  "lca_worker_positions": 13,
+  "warn_notice_count": 0,
+  "median_wage_usd": 165000.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 70900.0
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 165000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 9,
+      "median_wage_usd": 178027.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Data Engineer",
+      "count": 2,
+      "median_wage_usd": 165000.0
+    },
+    {
+      "title": "Senior Staff Engineer",
+      "count": 2,
+      "median_wage_usd": 243750.0
+    },
+    {
+      "title": "Staff Cybersecurity Engineer",
+      "count": 1,
+      "median_wage_usd": 165000.0
+    },
+    {
+      "title": "Senior Staff Software Engineering Manager",
+      "count": 1,
+      "median_wage_usd": 243750.0
+    },
+    {
+      "title": "Senior Operations Research and Advanced Analytics Specialist",
+      "count": 1,
+      "median_wage_usd": 101900.0
+    },
+    {
+      "title": "Data Engineer II",
+      "count": 1,
+      "median_wage_usd": 93750.0
+    },
+    {
+      "title": "Director of Software Engineering",
+      "count": 1,
+      "median_wage_usd": 315000.0
+    },
+    {
+      "title": "Senior Operations Research and Advanced Analytics",
+      "count": 1,
+      "median_wage_usd": 101900.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 1,
+      "median_wage_usd": 165000.0
+    },
+    {
+      "title": "Senior Staff Data Engineering Manager",
+      "count": 1,
+      "median_wage_usd": 178027.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "TARRANT",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 9
+    },
+    {
+      "state": "CA",
+      "count": 2
+    },
+    {
+      "state": "WA",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3021",
+    "soc_title": "Computer and Information Systems Managers",
+    "market_median_usd": 169510.0,
+    "employer_median_usd": 252499.0,
+    "gap_usd": 82989.0
+  }
+}

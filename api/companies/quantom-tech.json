@@ -1,0 +1,80 @@
+{
+  "slug": "quantom-tech",
+  "canonical_name": "Quantom Tech LLC",
+  "fein": "92-2531252",
+  "lca_filing_count": 5,
+  "lca_worker_positions": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 106000.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 106000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 135699.0
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 94682.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Salesforce Consultant",
+      "count": 2,
+      "median_wage_usd": 94682.0
+    },
+    {
+      "title": "Fullstack Python Engineer",
+      "count": 1,
+      "median_wage_usd": 135699.0
+    },
+    {
+      "title": "Python Developer",
+      "count": 1,
+      "median_wage_usd": 168480.0
+    },
+    {
+      "title": "Salesforce Developer",
+      "count": 1,
+      "median_wage_usd": 106000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 135699.0,
+    "gap_usd": 5539.0
+  }
+}

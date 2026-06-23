@@ -1,0 +1,92 @@
+{
+  "slug": "fy-international",
+  "canonical_name": "FY International LLC",
+  "fein": "46-2729612",
+  "lca_filing_count": 8,
+  "lca_worker_positions": 8,
+  "warn_notice_count": 0,
+  "median_wage_usd": 79189.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 82000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 82659.0
+    },
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 149760.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 76378.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 60569.8,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Financial Manager",
+      "count": 2,
+      "median_wage_usd": 149760.0
+    },
+    {
+      "title": "Market Research Analyst",
+      "count": 2,
+      "median_wage_usd": 60569.8
+    },
+    {
+      "title": "Business Analyst",
+      "count": 1,
+      "median_wage_usd": 82659.0
+    },
+    {
+      "title": "Market Research Specialist",
+      "count": 1,
+      "median_wage_usd": 70000.0
+    },
+    {
+      "title": "Human Resources Generalist",
+      "count": 1,
+      "median_wage_usd": 82000.0
+    },
+    {
+      "title": "Database Analyst",
+      "count": 1,
+      "median_wage_usd": 76378.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NH",
+      "county": "SALEM",
+      "count": 6
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NH",
+      "count": 8
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1161",
+    "soc_title": "Market Research Analysts and Marketing Specialists",
+    "market_median_usd": 74680.0,
+    "employer_median_usd": 60570.0,
+    "gap_usd": -14110.0
+  }
+}

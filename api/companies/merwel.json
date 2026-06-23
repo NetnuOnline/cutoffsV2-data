@@ -1,0 +1,56 @@
+{
+  "slug": "merwel",
+  "canonical_name": "Merwel Inc",
+  "fein": "27-2068587",
+  "lca_filing_count": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 95000.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 95000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 164400.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Project Manager ",
+      "count": 3,
+      "median_wage_usd": 95000.0
+    },
+    {
+      "title": "Software Quality Assurance Engineer",
+      "count": 1,
+      "median_wage_usd": 164400.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "AZ",
+      "count": 4
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Information Technology Project Managers",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 95000.0,
+    "gap_usd": -23000.0
+  }
+}

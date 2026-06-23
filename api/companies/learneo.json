@@ -1,0 +1,66 @@
+{
+  "slug": "learneo",
+  "canonical_name": "Learneo, Inc.",
+  "fein": "20-8176241",
+  "lca_filing_count": 7,
+  "warn_notice_count": 0,
+  "median_wage_usd": 216500.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 216500.0
+    },
+    {
+      "fy": 2024,
+      "filings": 5,
+      "median_wage_usd": 185500.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Data Engineer",
+      "count": 2,
+      "median_wage_usd": 185500.0
+    },
+    {
+      "title": "Staff Software Engineer",
+      "count": 2,
+      "median_wage_usd": 216500.0
+    },
+    {
+      "title": "Staff Data Scientist",
+      "count": 2,
+      "median_wage_usd": 250000.0
+    },
+    {
+      "title": "Indirect Tax Specialist",
+      "count": 1,
+      "median_wage_usd": 140000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SAN MATEO",
+      "count": 7
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 7
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 7,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 217750.0,
+    "gap_usd": 109730.0
+  }
+}

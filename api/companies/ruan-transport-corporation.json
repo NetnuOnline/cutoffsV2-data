@@ -1,0 +1,125 @@
+{
+  "slug": "ruan-transport-corporation",
+  "canonical_name": "Ruan Transport Corporation",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 8,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "VA",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "count": 2
+    },
+    {
+      "state": "AZ",
+      "count": 1
+    },
+    {
+      "state": "OK",
+      "count": 1
+    },
+    {
+      "state": "IN",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "07/01/2025",
+      "effective_date": "07/01/2025",
+      "state": "AZ",
+      "workers": 0,
+      "city": "Tolleson"
+    },
+    {
+      "date": "12/20/2024",
+      "effective_date": "12/20/2024",
+      "state": "OK",
+      "workers": 0,
+      "city": "Des Moines"
+    },
+    {
+      "date": "01/05/2024",
+      "effective_date": "03/01/2024",
+      "state": "VA",
+      "workers": 46,
+      "city": "Gordonsville, VA"
+    },
+    {
+      "date": "01/05/2024",
+      "effective_date": "03/01/2024",
+      "state": "VA",
+      "workers": 17,
+      "city": "Rural Retreat, VA"
+    },
+    {
+      "date": "11/03/2023",
+      "effective_date": "01/08/2024",
+      "state": "CA",
+      "workers": 92,
+      "city": "Tulare"
+    },
+    {
+      "date": "11/03/2023",
+      "effective_date": "01/08/2024",
+      "state": "CA",
+      "workers": 47,
+      "city": "Turlock"
+    },
+    {
+      "date": "03/30/2011",
+      "effective_date": "06/01/2011",
+      "state": "IN",
+      "workers": 58,
+      "city": "Decatur"
+    },
+    {
+      "date": "06/27/2005",
+      "effective_date": "06/27/2005",
+      "state": "GA",
+      "workers": 225,
+      "city": "Atlanta"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "city-of-phoenix-lwib",
+      "name": "City of Phoenix LWIB",
+      "state": "AZ"
+    },
+    {
+      "slug": "stanislaus-county-wib",
+      "name": "Stanislaus County WIB",
+      "state": "CA"
+    },
+    {
+      "slug": "tulare-county-wib",
+      "name": "Tulare County WIB",
+      "state": "CA"
+    },
+    {
+      "slug": "new-rivermt-rogers-lwia-ii",
+      "name": "New River/Mt. Rogers LWIA II",
+      "state": "VA"
+    },
+    {
+      "slug": "piedmont-workforce-network-lwia-vi",
+      "name": "Piedmont Workforce Network LWIA VI",
+      "state": "VA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

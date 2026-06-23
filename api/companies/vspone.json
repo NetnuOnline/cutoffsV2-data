@@ -1,0 +1,127 @@
+{
+  "slug": "vspone",
+  "canonical_name": "VSPOne",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 11,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 3
+    },
+    {
+      "state": "CA",
+      "count": 3
+    },
+    {
+      "state": "WA",
+      "count": 2
+    },
+    {
+      "state": "FL",
+      "count": 2
+    },
+    {
+      "state": "OH",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "05/17/2024",
+      "effective_date": "07/18/2024",
+      "state": "TX",
+      "workers": 14,
+      "city": "Lewisville"
+    },
+    {
+      "date": "08/24/2023",
+      "effective_date": "10/26/2023",
+      "state": "TX",
+      "workers": 15,
+      "city": "Lewisville"
+    },
+    {
+      "date": "06/29/2022",
+      "effective_date": "07/29/2022",
+      "state": "WA",
+      "workers": 55,
+      "city": "Lacey"
+    },
+    {
+      "date": "10/27/2021",
+      "effective_date": "12/31/2021",
+      "state": "CA",
+      "workers": 4,
+      "city": "Vista"
+    },
+    {
+      "date": "09/15/2021",
+      "effective_date": "12/06/2021",
+      "state": "CA",
+      "workers": 49,
+      "city": "Vista"
+    },
+    {
+      "date": "04/21/2020",
+      "effective_date": "04/10/2020",
+      "state": "FL",
+      "workers": 50,
+      "city": "FORT LAUDERDALE"
+    },
+    {
+      "date": "04/10/2020",
+      "effective_date": "04/10/2020",
+      "state": "OH",
+      "workers": 234,
+      "city": "Lockbourne/Franklin"
+    },
+    {
+      "date": "04/10/2020",
+      "effective_date": "04/10/2020",
+      "state": "FL",
+      "workers": 39,
+      "city": "CLEAR WATER"
+    },
+    {
+      "date": "04/09/2020",
+      "effective_date": "04/10/2020",
+      "state": "TX",
+      "workers": 133,
+      "city": "Lewisville"
+    },
+    {
+      "date": "04/09/2020",
+      "effective_date": "04/10/2020",
+      "state": "CA",
+      "workers": 251,
+      "city": "Folsom"
+    },
+    {
+      "date": "04/09/2020",
+      "effective_date": "04/10/2020",
+      "state": "WA",
+      "workers": 78,
+      "city": "Lacey"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "north-central-wda-tx",
+      "name": "North Central WDA",
+      "state": "TX"
+    },
+    {
+      "slug": "pacific-mountain-wib",
+      "name": "Pacific Mountain WIB",
+      "state": "WA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

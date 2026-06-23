@@ -1,0 +1,156 @@
+{
+  "slug": "versum-materials-us",
+  "canonical_name": "Versum Materials US, LLC",
+  "fein": null,
+  "lca_filing_count": 7,
+  "warn_notice_count": 1,
+  "median_wage_usd": 112892.5,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 3,
+      "median_wage_usd": 81000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 3,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 112892.5
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Process Controls Engineer",
+      "count": 2,
+      "median_wage_usd": 122500.0
+    },
+    {
+      "title": "Chemist",
+      "count": 1,
+      "median_wage_usd": 69000.0
+    },
+    {
+      "title": "Senior R&D Scientist ",
+      "count": 1,
+      "median_wage_usd": 112892.5
+    },
+    {
+      "title": "Software/Firmware Engineer",
+      "count": 1,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "title": "Research Analytical Chemist",
+      "count": 1,
+      "median_wage_usd": 81000.0
+    },
+    {
+      "title": "Data Engineer",
+      "count": 1,
+      "median_wage_usd": 155000.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "AZ",
+      "count": 3
+    },
+    {
+      "state": "PA",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "count": 2
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 3
+    },
+    {
+      "state": "CA",
+      "county": "SAN DIEGO",
+      "count": 2
+    },
+    {
+      "state": "PA",
+      "county": "ERIE",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "county": "LEHIGH",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "01/18/2024",
+      "effective_date": "02/02/2024",
+      "state": "TX",
+      "workers": 51,
+      "city": "Austin"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "capital-area-wda",
+      "name": "Capital Area WDA",
+      "state": "TX"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 5,
+    "initial_denials": 0,
+    "continuing_approvals": 8,
+    "continuing_denials": 0,
+    "total_approvals": 13,
+    "by_fy": [
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 4,
+        "continuing_denials": 0,
+        "total_approvals": 4
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 5,
+        "initial_denials": 0,
+        "continuing_approvals": 4,
+        "continuing_denials": 0,
+        "total_approvals": 9
+      }
+    ]
+  },
+  "lca_worker_positions": 7,
+  "top_socs": [],
+  "lca_periods": []
+}

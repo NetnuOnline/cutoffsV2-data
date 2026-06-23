@@ -1,0 +1,144 @@
+{
+  "slug": "irobot",
+  "canonical_name": "iRobot Corporation",
+  "fein": "77-0259335",
+  "lca_filing_count": 53,
+  "lca_worker_positions": 53,
+  "warn_notice_count": 0,
+  "median_wage_usd": 118450.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 105000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 8,
+      "median_wage_usd": 109250.0
+    },
+    {
+      "fy": 2022,
+      "filings": 5,
+      "median_wage_usd": 115650.0
+    },
+    {
+      "fy": 2023,
+      "filings": 10,
+      "median_wage_usd": 124378.5
+    },
+    {
+      "fy": 2024,
+      "filings": 25,
+      "median_wage_usd": 119851.0
+    },
+    {
+      "fy": 2026,
+      "filings": 4,
+      "median_wage_usd": 142571.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 7,
+      "median_wage_usd": 115589.0
+    },
+    {
+      "title": "Senior Software Build Engineer (Infrastructure)",
+      "count": 3,
+      "median_wage_usd": 116802.0
+    },
+    {
+      "title": "Senior Linux Software Engineer",
+      "count": 2,
+      "median_wage_usd": 157643.0
+    },
+    {
+      "title": "Machine Learning Scientist",
+      "count": 2,
+      "median_wage_usd": 137000.0
+    },
+    {
+      "title": "Sr. Cloud Engineer",
+      "count": 2,
+      "median_wage_usd": 113000.0
+    },
+    {
+      "title": "Principal Software Engineer, Android",
+      "count": 2,
+      "median_wage_usd": 160750.0
+    },
+    {
+      "title": "Software Cloud Engineer - Serverless",
+      "count": 2,
+      "median_wage_usd": 108500.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 2,
+      "median_wage_usd": 135304.0
+    },
+    {
+      "title": "Principal Software Automation Engineer",
+      "count": 1,
+      "median_wage_usd": 142943.0
+    },
+    {
+      "title": "SENIOR MECHANICAL ENGINEER",
+      "count": 1,
+      "median_wage_usd": 102731.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MA",
+      "county": "BEDFORD",
+      "count": 46
+    },
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 5
+    },
+    {
+      "state": "TX",
+      "county": "BEXAR",
+      "count": 1
+    },
+    {
+      "state": "CO",
+      "county": "BOULDER",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MA",
+      "count": 46
+    },
+    {
+      "state": "CA",
+      "count": 5
+    },
+    {
+      "state": "CO",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 136152.0,
+    "gap_usd": 5992.0
+  }
+}

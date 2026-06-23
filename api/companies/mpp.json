@@ -1,0 +1,58 @@
+{
+  "slug": "mpp",
+  "canonical_name": "MPP",
+  "fein": null,
+  "lca_filing_count": 1,
+  "warn_notice_count": 2,
+  "median_wage_usd": 135000.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 135000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "General Manager",
+      "count": 1,
+      "median_wage_usd": 135000.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IN",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IN",
+      "county": "HAMILTON",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "10/02/2018",
+      "effective_date": "12/01/2018",
+      "state": "OH",
+      "workers": 37,
+      "city": "Eaton/Preble"
+    },
+    {
+      "date": "10/02/2018",
+      "effective_date": "12/01/2018",
+      "state": "OH",
+      "workers": 55,
+      "city": "Solon/Cuyahoga"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "lca_worker_positions": 1,
+  "top_socs": [],
+  "lca_periods": []
+}

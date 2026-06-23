@@ -1,0 +1,43 @@
+{
+  "slug": "reconext-fka-teleplan",
+  "canonical_name": "Reconext FKA Teleplan",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "12/13/2021",
+      "effective_date": "02/11/2022",
+      "state": "CA",
+      "workers": 197,
+      "city": "Roseville"
+    },
+    {
+      "date": "08/26/2021",
+      "effective_date": "10/25/2021",
+      "state": "CA",
+      "workers": 308,
+      "city": "Roseville"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "golden-sierra-consortium-wib",
+      "name": "Golden Sierra Consortium WIB",
+      "state": "CA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

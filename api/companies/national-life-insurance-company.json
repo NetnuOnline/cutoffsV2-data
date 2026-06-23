@@ -1,0 +1,135 @@
+{
+  "slug": "national-life-insurance-company",
+  "canonical_name": "National Life Insurance Company",
+  "fein": "03-0144090",
+  "lca_filing_count": 19,
+  "lca_worker_positions": 19,
+  "warn_notice_count": 0,
+  "median_wage_usd": 150000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 170000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 4,
+      "median_wage_usd": 170000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 8,
+      "median_wage_usd": 145500.0
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 195000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Associate Actuary",
+      "count": 3,
+      "median_wage_usd": 148500.0
+    },
+    {
+      "title": "Associate Vice President, Financial Risk Management",
+      "count": 2,
+      "median_wage_usd": 174250.0
+    },
+    {
+      "title": "Director, Asset Based Lending",
+      "count": 1,
+      "median_wage_usd": 220000.0
+    },
+    {
+      "title": "Sr. Director, Principal Architect",
+      "count": 1,
+      "median_wage_usd": 195000.0
+    },
+    {
+      "title": "Digital App Development Tech Lead",
+      "count": 1,
+      "median_wage_usd": 145000.0
+    },
+    {
+      "title": "Actuary",
+      "count": 1,
+      "median_wage_usd": 160000.0
+    },
+    {
+      "title": "Senior Solutions Architect",
+      "count": 1,
+      "median_wage_usd": 165000.0
+    },
+    {
+      "title": "Sr. Director, Product Application Development",
+      "count": 1,
+      "median_wage_usd": 195000.0
+    },
+    {
+      "title": "Applications Tech Lead",
+      "count": 1,
+      "median_wage_usd": 132000.0
+    },
+    {
+      "title": "Associate \u2013 Residential Mortgage",
+      "count": 1,
+      "median_wage_usd": 140000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 7
+    },
+    {
+      "state": "VT",
+      "county": "MONTPELIER CITY",
+      "count": 1
+    },
+    {
+      "state": "VT",
+      "county": "WASHINGTON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 15
+    },
+    {
+      "state": "VT",
+      "count": 3
+    },
+    {
+      "state": "NY",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 150000.0,
+    "gap_usd": 19840.0
+  }
+}

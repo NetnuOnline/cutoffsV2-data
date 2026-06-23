@@ -1,0 +1,43 @@
+{
+  "slug": "verifications",
+  "canonical_name": "Verifications",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "SD",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "05/07/2012",
+      "effective_date": "05/07/2012",
+      "state": "SD",
+      "workers": 75,
+      "city": "Mitchell"
+    },
+    {
+      "date": "05/07/2012",
+      "effective_date": "05/07/2012",
+      "state": "SD",
+      "workers": 73,
+      "city": "Aberdeen"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "east-area-wib",
+      "name": "East Area WIB",
+      "state": "SD"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

@@ -1,0 +1,61 @@
+{
+  "slug": "home-care-pulse",
+  "canonical_name": "Home Care Pulse LLC",
+  "fein": "26-2608345",
+  "lca_filing_count": 2,
+  "lca_worker_positions": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 114463.78,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 97180.56
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 131747.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Demand Generation Manager",
+      "count": 1,
+      "median_wage_usd": 131747.0
+    },
+    {
+      "title": "Software Engineer/ Systems Integrator",
+      "count": 1,
+      "median_wage_usd": 97180.56
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "ID",
+      "county": "MADISON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MA",
+      "count": 1
+    },
+    {
+      "state": "ID",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 97180.56,
+    "gap_usd": -32979.44
+  }
+}

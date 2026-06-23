@@ -1,0 +1,217 @@
+{
+  "slug": "disney-streaming-technology",
+  "canonical_name": "DISNEY STREAMING TECHNOLOGY LLC",
+  "fein": null,
+  "lca_filing_count": 14,
+  "warn_notice_count": 3,
+  "median_wage_usd": 170936.4,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 174397.5
+    },
+    {
+      "fy": 2021,
+      "filings": 3,
+      "median_wage_usd": 145000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 5,
+      "median_wage_usd": 200000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 4,
+      "median_wage_usd": 173670.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SENIOR SOFTWARE ENGINEER",
+      "count": 3,
+      "median_wage_usd": 165200.0
+    },
+    {
+      "title": "VICE PRESIDENT, GROWTH ENGINEERING",
+      "count": 2,
+      "median_wage_usd": 378546.5
+    },
+    {
+      "title": "LEAD SOFTWARE ENGINEER",
+      "count": 2,
+      "median_wage_usd": 170446.4
+    },
+    {
+      "title": "SOFTWARE ENGINEER",
+      "count": 2,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "title": "MANAGER,  SOFTWARE ENGINEERING ",
+      "count": 1,
+      "median_wage_usd": 208300.0
+    },
+    {
+      "title": "MANAGER, SOFTWARE ENGINEERING",
+      "count": 1,
+      "median_wage_usd": 200000.0
+    },
+    {
+      "title": "ASSOCIATE DIRECTOR, CONSUMER DATA PLATFORMS",
+      "count": 1,
+      "median_wage_usd": 170980.0
+    },
+    {
+      "title": "SENIOR DATA ENGINEER",
+      "count": 1,
+      "median_wage_usd": 144447.64
+    },
+    {
+      "title": "MANAGER, DATA ENGINEERING",
+      "count": 1,
+      "median_wage_usd": 174397.5
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 8
+    },
+    {
+      "state": "WA",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "count": 1
+    },
+    {
+      "state": "CT",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 4
+    },
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 4
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 3
+    },
+    {
+      "state": "CT",
+      "county": "BRISTOL CITY",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "05/25/2023",
+      "effective_date": "06/01/2023",
+      "state": "CA",
+      "workers": 2,
+      "city": "Burbank"
+    },
+    {
+      "date": "05/25/2023",
+      "effective_date": "06/01/2023",
+      "state": "CA",
+      "workers": 52,
+      "city": "Burbank"
+    },
+    {
+      "date": "09/09/2021",
+      "effective_date": "11/10/2021",
+      "state": "TX",
+      "workers": 63,
+      "city": "The Woodlands"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 44,
+    "continuing_denials": 0,
+    "total_approvals": 44,
+    "by_fy": [
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 15,
+        "continuing_denials": 0,
+        "total_approvals": 15
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 19,
+        "continuing_denials": 0,
+        "total_approvals": 19
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 7,
+        "continuing_denials": 0,
+        "total_approvals": 7
+      }
+    ]
+  },
+  "lca_worker_positions": 13,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3021",
+    "soc_title": "Computer and Information Systems Managers",
+    "market_median_usd": 169510.0,
+    "employer_median_usd": 204150.0,
+    "gap_usd": 34640.0
+  }
+}

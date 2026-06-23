@@ -1,0 +1,82 @@
+{
+  "slug": "mccormick-company",
+  "canonical_name": "McCormick & Company, Inc.",
+  "fein": "52-0408290",
+  "lca_filing_count": 6,
+  "lca_worker_positions": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 128284.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 3,
+      "median_wage_usd": 117728.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 72530.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 152194.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 152194.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "IT Business Relationship Analyst III",
+      "count": 2,
+      "median_wage_usd": 134961.0
+    },
+    {
+      "title": "IT Business Relationship Consultant",
+      "count": 1,
+      "median_wage_usd": 152194.0
+    },
+    {
+      "title": "Data Scientist 1, Corporate Supply Chain",
+      "count": 1,
+      "median_wage_usd": 72530.0
+    },
+    {
+      "title": "IT Business Relationship Consultant I",
+      "count": 1,
+      "median_wage_usd": 138840.0
+    },
+    {
+      "title": "Quality Systems Manager - Spice Mill",
+      "count": 1,
+      "median_wage_usd": 75712.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MD",
+      "county": "BALTIMORE",
+      "count": 4
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MD",
+      "count": 6
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Information Technology Project Managers",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 145517.0,
+    "gap_usd": 27517.0
+  }
+}

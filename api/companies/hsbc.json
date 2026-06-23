@@ -1,0 +1,108 @@
+{
+  "slug": "hsbc",
+  "canonical_name": "HSBC",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 9,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "FL",
+      "count": 5
+    },
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "08/25/2017",
+      "effective_date": "10/24/2017",
+      "state": "FL",
+      "workers": 3,
+      "city": "Brandon"
+    },
+    {
+      "date": "07/03/2017",
+      "effective_date": "09/01/2017",
+      "state": "FL",
+      "workers": 197,
+      "city": "Brandon"
+    },
+    {
+      "date": "05/08/2017",
+      "effective_date": "07/01/2017",
+      "state": "FL",
+      "workers": 2,
+      "city": "Brandon"
+    },
+    {
+      "date": "04/24/2017",
+      "effective_date": "06/22/2017",
+      "state": "FL",
+      "workers": 1,
+      "city": "Brandon"
+    },
+    {
+      "date": "03/31/2017",
+      "effective_date": "06/01/2017",
+      "state": "FL",
+      "workers": 357,
+      "city": "Brandon"
+    },
+    {
+      "date": "08/26/2014",
+      "effective_date": "10/25/2014",
+      "state": "CA",
+      "workers": 40,
+      "city": "Pomona"
+    },
+    {
+      "date": "02/07/2013",
+      "effective_date": "04/12/2013",
+      "state": "VA",
+      "workers": 164,
+      "city": "Chesapeake, VA"
+    },
+    {
+      "date": "04/02/2012",
+      "effective_date": "06/29/2012",
+      "state": "NY",
+      "workers": 0,
+      "city": "New York"
+    },
+    {
+      "date": "11/16/2009",
+      "effective_date": "11/16/2009",
+      "state": "NJ",
+      "workers": 49,
+      "city": "BRIDGEWATER"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "careersource-tampa-bay",
+      "name": "CareerSource Tampa Bay",
+      "state": "FL"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

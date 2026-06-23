@@ -1,0 +1,71 @@
+{
+  "slug": "dmsi",
+  "canonical_name": "DMSI",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 6,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 6
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "11/20/2024",
+      "effective_date": "01/26/2025",
+      "state": "CA",
+      "workers": 28,
+      "city": "New Oxford"
+    },
+    {
+      "date": "11/20/2024",
+      "effective_date": "01/26/2025",
+      "state": "CA",
+      "workers": 581,
+      "city": "17800 Perris Blvd  Moreno Valley CA 92551"
+    },
+    {
+      "date": "11/20/2024",
+      "effective_date": "01/26/2025",
+      "state": "CA",
+      "workers": 493,
+      "city": "Perris"
+    },
+    {
+      "date": "11/20/2024",
+      "effective_date": "01/26/2025",
+      "state": "CA",
+      "workers": 4,
+      "city": "24103 San Michele Road  Moreno Valley CA 92551"
+    },
+    {
+      "date": "11/20/2024",
+      "effective_date": "01/26/2025",
+      "state": "CA",
+      "workers": 528,
+      "city": "Shafter"
+    },
+    {
+      "date": "11/20/2024",
+      "effective_date": "01/26/2025",
+      "state": "CA",
+      "workers": 9,
+      "city": "Shafter"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "kern-inyo-mono-consortium-wib",
+      "name": "Kern, Inyo, Mono Consortium WIB",
+      "state": "CA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

@@ -1,0 +1,59 @@
+{
+  "slug": "drevol",
+  "canonical_name": "DREVOL LLC",
+  "fein": "33-2063224",
+  "lca_filing_count": 3,
+  "lca_worker_positions": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 95600.0,
+  "by_fy": [
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 95600.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior SAS Administrator",
+      "count": 1,
+      "median_wage_usd": 106912.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 95600.0
+    },
+    {
+      "title": "Network Engineer",
+      "count": 1,
+      "median_wage_usd": 86029.0
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "NC",
+      "count": 1
+    },
+    {
+      "state": "DC",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1211",
+    "soc_title": "Computer Systems Analysts",
+    "market_median_usd": 103800.0,
+    "employer_median_usd": 106912.0,
+    "gap_usd": 3112.0
+  }
+}

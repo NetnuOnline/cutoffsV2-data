@@ -1,0 +1,75 @@
+{
+  "slug": "plug-and-play",
+  "canonical_name": "Plug and Play LLC",
+  "fein": null,
+  "lca_filing_count": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 71462.5,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 68546.5
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 78000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Investment Analyst",
+      "count": 1,
+      "median_wage_usd": 64168.0
+    },
+    {
+      "title": "Corporate Partnerships Manager",
+      "count": 1,
+      "median_wage_usd": 70000.0
+    },
+    {
+      "title": "Investment Associate",
+      "count": 1,
+      "median_wage_usd": 86000.0
+    },
+    {
+      "title": "Investment Manager",
+      "count": 1,
+      "median_wage_usd": 72925.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 3
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 3
+    },
+    {
+      "state": "NY",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1161",
+    "soc_title": "Market Research Analysts and Marketing Specialists",
+    "market_median_usd": 74680.0,
+    "employer_median_usd": 70000.0,
+    "gap_usd": -4680.0
+  }
+}

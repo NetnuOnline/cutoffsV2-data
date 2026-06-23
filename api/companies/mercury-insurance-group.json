@@ -1,0 +1,104 @@
+{
+  "slug": "mercury-insurance-group",
+  "canonical_name": "Mercury Insurance Group",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 4,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "OK",
+      "count": 2
+    },
+    {
+      "state": "GA",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "02/22/2013",
+      "effective_date": "02/22/2013",
+      "state": "OK",
+      "workers": 60,
+      "city": "05 - CentralRegion"
+    },
+    {
+      "date": "02/21/2013",
+      "effective_date": "02/21/2013",
+      "state": "GA",
+      "workers": 42,
+      "city": "Atlanta"
+    },
+    {
+      "date": "02/04/2013",
+      "effective_date": "04/22/2013",
+      "state": "NY",
+      "workers": 0,
+      "city": "Latham"
+    },
+    {
+      "date": "06/01/2010",
+      "effective_date": "06/01/2010",
+      "state": "OK",
+      "workers": 40,
+      "city": "05 - CentralRegion"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2016-05-02",
+        "formType": "8-K",
+        "accessionNumber": "0001144204-16-098189",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000064996&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2013-01-23",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-13-020828",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000064996&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2009-03-10",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-09-049831",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000064996&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 3,
+    "itemCounts": {
+      "2.05": 3
+    },
+    "latestFilingDate": "2016-05-02",
+    "earliestFilingDate": "2009-03-10"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

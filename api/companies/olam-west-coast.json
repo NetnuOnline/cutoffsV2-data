@@ -1,0 +1,50 @@
+{
+  "slug": "olam-west-coast",
+  "canonical_name": "Olam West Coast Inc.",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 3,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 3
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "04/29/2020",
+      "effective_date": "07/01/2020",
+      "state": "CA",
+      "workers": 567,
+      "city": "Lemoore"
+    },
+    {
+      "date": "10/10/2019",
+      "effective_date": "12/13/2019",
+      "state": "CA",
+      "workers": 102,
+      "city": "Woodland"
+    },
+    {
+      "date": "05/08/2015",
+      "effective_date": "07/10/2015",
+      "state": "CA",
+      "workers": 65,
+      "city": "Modesto"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "kings-county-wib",
+      "name": "Kings County WIB",
+      "state": "CA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

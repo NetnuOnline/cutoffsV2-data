@@ -1,0 +1,60 @@
+{
+  "slug": "anine-bing",
+  "canonical_name": "Anine Bing Corporation",
+  "fein": "46-3346279",
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 223537.5,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 205150.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 241925.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "VP of eCommerce",
+      "count": 1,
+      "median_wage_usd": 205150.0
+    },
+    {
+      "title": "Chief Marketing Officer",
+      "count": 1,
+      "median_wage_usd": 241925.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-2021",
+    "soc_title": "Marketing Managers",
+    "market_median_usd": 157620.0,
+    "employer_median_usd": 223537.5,
+    "gap_usd": 65917.5
+  }
+}

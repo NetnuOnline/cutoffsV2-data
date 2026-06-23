@@ -1,0 +1,73 @@
+{
+  "slug": "brp",
+  "canonical_name": "BRP US, Inc.",
+  "fein": null,
+  "lca_filing_count": 1,
+  "warn_notice_count": 4,
+  "median_wage_usd": 112783,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 0,
+      "median_wage_usd": null
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Team Lead, Logistics Strategy",
+      "count": 0,
+      "median_wage_usd": null
+    }
+  ],
+  "top_states": [
+    {
+      "state": "WI",
+      "count": 3
+    },
+    {
+      "state": "NC",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "06/05/2025",
+      "effective_date": "06/05/2025",
+      "state": "WI",
+      "workers": 61,
+      "city": "Sturtevant"
+    },
+    {
+      "date": "05/23/2024",
+      "effective_date": "03/21/2024",
+      "state": "WI",
+      "workers": 298,
+      "city": "Sturtevant"
+    },
+    {
+      "date": "05/27/2020",
+      "effective_date": "05/27/2020",
+      "state": "WI",
+      "workers": 387,
+      "city": "Sturtevant"
+    },
+    {
+      "date": "05/27/2020",
+      "effective_date": "05/27/2020",
+      "state": "NC",
+      "workers": 88,
+      "city": "1211 Greenwood Rd, Spruce Pine"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "southeast-wda",
+      "name": "Southeast WDA",
+      "state": "WI"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

@@ -1,0 +1,46 @@
+{
+  "slug": "california-physician-s-service",
+  "canonical_name": "California Physician's Service",
+  "fein": null,
+  "lca_filing_count": 1,
+  "warn_notice_count": 0,
+  "median_wage_usd": 157699.57,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 157699.57
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "IT Product Manager, Consultant",
+      "count": 1,
+      "median_wage_usd": 157699.57
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 1,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3021",
+    "soc_title": "Computer and Information Systems Managers",
+    "market_median_usd": 169510.0,
+    "employer_median_usd": 157699.57,
+    "gap_usd": -11810.43
+  }
+}

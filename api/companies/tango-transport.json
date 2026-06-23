@@ -1,0 +1,48 @@
+{
+  "slug": "tango-transport",
+  "canonical_name": "Tango Transport",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "LA",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "09/30/2015",
+      "effective_date": "10/14/2015",
+      "state": "LA",
+      "workers": 80,
+      "city": "Sibley"
+    },
+    {
+      "date": "07/28/2008",
+      "effective_date": "09/29/2008",
+      "state": "LA",
+      "workers": 60,
+      "city": "Shreveport"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "city-of-shreveport-wia",
+      "name": "City of Shreveport WIA",
+      "state": "LA"
+    },
+    {
+      "slug": "seventh-planning-district-consortium-wia",
+      "name": "Seventh Planning District Consortium WIA",
+      "state": "LA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

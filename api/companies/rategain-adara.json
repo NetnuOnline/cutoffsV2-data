@@ -1,0 +1,89 @@
+{
+  "slug": "rategain-adara",
+  "canonical_name": "Rategain Adara Inc.",
+  "fein": "88-4408058",
+  "lca_filing_count": 5,
+  "lca_worker_positions": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 173365.5,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 185000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 154813.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Principal Product Manager",
+      "count": 2,
+      "median_wage_usd": 185000.0
+    },
+    {
+      "title": "Data Analyst 1",
+      "count": 1,
+      "median_wage_usd": 139932.0
+    },
+    {
+      "title": "Software Development Engineer III",
+      "count": 1,
+      "median_wage_usd": 169694.0
+    },
+    {
+      "title": "Associate Data Scientist",
+      "count": 1,
+      "median_wage_usd": 173365.5
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "FL",
+      "county": "MIAMI-DADE",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "FL",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "NH",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-2021",
+    "soc_title": "Marketing Managers",
+    "market_median_usd": 157620.0,
+    "employer_median_usd": 185000.0,
+    "gap_usd": 27380.0
+  }
+}

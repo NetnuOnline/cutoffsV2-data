@@ -1,0 +1,81 @@
+{
+  "slug": "national-indemnity-company",
+  "canonical_name": "National Indemnity Company",
+  "fein": "47-0355979",
+  "lca_filing_count": 6,
+  "lca_worker_positions": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 100615.02,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 108805.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 92425.04,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Assurance Accountant I",
+      "count": 3,
+      "median_wage_usd": 92425.04
+    },
+    {
+      "title": "IT Business Analysis Manager II",
+      "count": 1,
+      "median_wage_usd": 108805.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 121471.45
+    },
+    {
+      "title": "Senior Scrum Master",
+      "count": 1,
+      "median_wage_usd": 110000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NE",
+      "county": "DOUGLAS",
+      "count": 3
+    },
+    {
+      "state": "NC",
+      "county": "ORANGE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NE",
+      "count": 3
+    },
+    {
+      "state": "NC",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-2011",
+    "soc_title": "Accountants and Auditors",
+    "market_median_usd": 79000.0,
+    "employer_median_usd": 92425.04,
+    "gap_usd": 13425.04
+  }
+}

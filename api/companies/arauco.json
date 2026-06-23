@@ -1,0 +1,54 @@
+{
+  "slug": "arauco",
+  "canonical_name": "arauco",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 3,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "OR",
+      "count": 2
+    },
+    {
+      "state": "NC",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "07/06/2020",
+      "effective_date": "07/06/2020",
+      "state": "OR",
+      "workers": 75,
+      "city": "Albany"
+    },
+    {
+      "date": "02/11/2020",
+      "effective_date": "05/01/2020",
+      "state": "OR",
+      "workers": 84,
+      "city": "Eugene"
+    },
+    {
+      "date": "01/30/2020",
+      "effective_date": "04/01/2020",
+      "state": "NC",
+      "workers": 75,
+      "city": "985 Corinth Road, Moncure"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "lane-wia",
+      "name": "Lane WIA",
+      "state": "OR"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

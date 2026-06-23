@@ -1,0 +1,74 @@
+{
+  "slug": "norvax",
+  "canonical_name": "Norvax, LLC",
+  "fein": null,
+  "lca_filing_count": 3,
+  "warn_notice_count": 1,
+  "median_wage_usd": 72500.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 3,
+      "median_wage_usd": 72500.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Manager, Commissions and Analytics",
+      "count": 1,
+      "median_wage_usd": 72500.0
+    },
+    {
+      "title": "Lead QA Automation Engineer",
+      "count": 1,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "title": "Commission Accounting Analyst",
+      "count": 1,
+      "median_wage_usd": 72500.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 3
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 3
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "11/03/2025",
+      "effective_date": "01/02/2026",
+      "state": "IL",
+      "workers": 487,
+      "city": "Chicago"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "chicago-cook-wib",
+      "name": "Chicago-Cook WIB",
+      "state": "IL"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-2011",
+    "soc_title": "Accountants and Auditors",
+    "market_median_usd": 79000.0,
+    "employer_median_usd": 72500.0,
+    "gap_usd": -6500.0
+  }
+}

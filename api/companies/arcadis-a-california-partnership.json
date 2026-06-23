@@ -1,0 +1,65 @@
+{
+  "slug": "arcadis-a-california-partnership",
+  "canonical_name": "Arcadis, A California Partnership",
+  "fein": "95-3268721",
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 75780.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 85000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 66560.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Architectural Designer I",
+      "count": 1,
+      "median_wage_usd": 66560.0
+    },
+    {
+      "title": "Technical Specialist ",
+      "count": 1,
+      "median_wage_usd": 85000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 1
+    },
+    {
+      "state": "WI",
+      "county": "MILWAUKEE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "WI",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1253",
+    "soc_title": "Software Quality Assurance Analysts and Testers",
+    "market_median_usd": 101800.0,
+    "employer_median_usd": 85000.0,
+    "gap_usd": -16800.0
+  }
+}

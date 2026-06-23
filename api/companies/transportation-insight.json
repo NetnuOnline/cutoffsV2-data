@@ -1,0 +1,92 @@
+{
+  "slug": "transportation-insight",
+  "canonical_name": "Transportation Insight",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 9,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 9
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "01/07/2022",
+      "effective_date": "01/07/2022",
+      "state": "NY",
+      "workers": 0,
+      "city": null
+    },
+    {
+      "date": "01/06/2022",
+      "effective_date": "01/06/2022",
+      "state": "NY",
+      "workers": 10,
+      "city": "Sanborn"
+    },
+    {
+      "date": "09/28/2021",
+      "effective_date": "02/18/2022",
+      "state": "NY",
+      "workers": 5,
+      "city": null
+    },
+    {
+      "date": "09/28/2021",
+      "effective_date": "01/01/2022",
+      "state": "NY",
+      "workers": 6,
+      "city": null
+    },
+    {
+      "date": "08/16/2021",
+      "effective_date": "08/16/2021",
+      "state": "NY",
+      "workers": 0,
+      "city": null
+    },
+    {
+      "date": "08/13/2021",
+      "effective_date": "12/03/2021",
+      "state": "NY",
+      "workers": 10,
+      "city": "Sanborn"
+    },
+    {
+      "date": "08/13/2021",
+      "effective_date": "08/13/2021",
+      "state": "NY",
+      "workers": 0,
+      "city": null
+    },
+    {
+      "date": "08/13/2021",
+      "effective_date": "08/13/2021",
+      "state": "NY",
+      "workers": 0,
+      "city": null
+    },
+    {
+      "date": "08/13/2021",
+      "effective_date": "08/13/2021",
+      "state": "NY",
+      "workers": 10,
+      "city": "Sanborn"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "niagara-county-lwia",
+      "name": "Niagara County LWIA",
+      "state": "NY"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

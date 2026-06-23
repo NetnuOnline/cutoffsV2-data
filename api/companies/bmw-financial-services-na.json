@@ -1,0 +1,111 @@
+{
+  "slug": "bmw-financial-services-na",
+  "canonical_name": "BMW Financial Services NA, LLC",
+  "fein": "22-2568977",
+  "lca_filing_count": 16,
+  "lca_worker_positions": 16,
+  "warn_notice_count": 0,
+  "median_wage_usd": 122665.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 7,
+      "median_wage_usd": 106018.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 114150.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 145278.5
+    },
+    {
+      "fy": 2026,
+      "filings": 5,
+      "median_wage_usd": 124260.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Software Engineer",
+      "count": 7,
+      "median_wage_usd": 123469.0
+    },
+    {
+      "title": "IT Applications Operations Engineer Lead",
+      "count": 2,
+      "median_wage_usd": 92570.0
+    },
+    {
+      "title": "Sr. Security Engineer",
+      "count": 1,
+      "median_wage_usd": 131726.0
+    },
+    {
+      "title": "Security Architect",
+      "count": 1,
+      "median_wage_usd": 136406.0
+    },
+    {
+      "title": "Lead Data Scientist \u201c DSSC",
+      "count": 1,
+      "median_wage_usd": 121861.0
+    },
+    {
+      "title": "Solution Architect",
+      "count": 1,
+      "median_wage_usd": 140026.0
+    },
+    {
+      "title": "IT Application Operations Engineer Lead ",
+      "count": 1,
+      "median_wage_usd": 88566.0
+    },
+    {
+      "title": "Lead Data Scientist \u201c Data Science Service Center (DSSC)",
+      "count": 1,
+      "median_wage_usd": 150531.0
+    },
+    {
+      "title": "Senior Software Analyst",
+      "count": 1,
+      "median_wage_usd": 112543.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "OH",
+      "county": "FRANKLIN",
+      "count": 9
+    },
+    {
+      "state": "NJ",
+      "county": "BERGEN",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "OH",
+      "count": 14
+    },
+    {
+      "state": "NJ",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 106018.0,
+    "gap_usd": -24142.0
+  }
+}

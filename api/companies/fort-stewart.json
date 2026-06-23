@@ -1,0 +1,43 @@
+{
+  "slug": "fort-stewart",
+  "canonical_name": "Fort Stewart",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "02/23/2001",
+      "effective_date": "02/23/2001",
+      "state": "GA",
+      "workers": 214,
+      "city": "Hinesville"
+    },
+    {
+      "date": "03/29/2000",
+      "effective_date": "03/29/2000",
+      "state": "GA",
+      "workers": 296,
+      "city": "Hinesville"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "coastal-wib",
+      "name": "Coastal WIB",
+      "state": "GA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

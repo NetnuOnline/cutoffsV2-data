@@ -1,0 +1,195 @@
+{
+  "slug": "fpt-usa",
+  "canonical_name": "FPT USA Corporation",
+  "fein": "68-0677411",
+  "lca_filing_count": 41,
+  "lca_worker_positions": 41,
+  "warn_notice_count": 0,
+  "median_wage_usd": 87000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 10,
+      "median_wage_usd": 89150.0
+    },
+    {
+      "fy": 2021,
+      "filings": 8,
+      "median_wage_usd": 79372.0
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 84000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 6,
+      "median_wage_usd": 104740.0
+    },
+    {
+      "fy": 2024,
+      "filings": 8,
+      "median_wage_usd": 85025.0
+    },
+    {
+      "fy": 2025,
+      "filings": 4,
+      "median_wage_usd": 90506.64
+    },
+    {
+      "fy": 2026,
+      "filings": 4,
+      "median_wage_usd": 93020.26999999999,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 12,
+      "median_wage_usd": 85000.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 5,
+      "median_wage_usd": 84000.0
+    },
+    {
+      "title": "Solution Architect",
+      "count": 3,
+      "median_wage_usd": 86100.0
+    },
+    {
+      "title": "Delivery Manager",
+      "count": 2,
+      "median_wage_usd": 105000.0
+    },
+    {
+      "title": "Senior Technical Analyst",
+      "count": 2,
+      "median_wage_usd": 119480.0
+    },
+    {
+      "title": "Business Analyst",
+      "count": 2,
+      "median_wage_usd": 76500.0
+    },
+    {
+      "title": "Senior Data Operation Engineer",
+      "count": 2,
+      "median_wage_usd": 112500.0
+    },
+    {
+      "title": "Quality Assurance Engineer",
+      "count": 1,
+      "median_wage_usd": 68000.0
+    },
+    {
+      "title": "Senior Technical Data Analyst",
+      "count": 1,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "Global Client Partner - Healthcare",
+      "count": 1,
+      "median_wage_usd": 190000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 14
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 8
+    },
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "county": "ORANGE",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "county": "WAKE",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "county": "OAKLAND",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "ORANGE",
+      "count": 1
+    },
+    {
+      "state": "CO",
+      "county": "ARAPAHOE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 15
+    },
+    {
+      "state": "TX",
+      "count": 14
+    },
+    {
+      "state": "CA",
+      "count": 3
+    },
+    {
+      "state": "NC",
+      "count": 3
+    },
+    {
+      "state": "FL",
+      "count": 2
+    },
+    {
+      "state": "CO",
+      "count": 2
+    },
+    {
+      "state": "MI",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 91000.0,
+    "gap_usd": -39160.0
+  }
+}

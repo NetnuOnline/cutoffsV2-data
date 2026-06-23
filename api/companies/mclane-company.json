@@ -1,0 +1,111 @@
+{
+  "slug": "mclane-company",
+  "canonical_name": "McLane Company, Inc.",
+  "fein": "74-1478631",
+  "lca_filing_count": 13,
+  "warn_notice_count": 1,
+  "median_wage_usd": 100000.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 3,
+      "median_wage_usd": 92010.0
+    },
+    {
+      "fy": 2023,
+      "filings": 4,
+      "median_wage_usd": 84750.0
+    },
+    {
+      "fy": 2025,
+      "filings": 6,
+      "median_wage_usd": 107623.95
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Industrial and Systems Engineer I",
+      "count": 2,
+      "median_wage_usd": 85296.0
+    },
+    {
+      "title": "Industrial Engineer",
+      "count": 1,
+      "median_wage_usd": 88631.5
+    },
+    {
+      "title": "Programmer/Analyst, App Lead",
+      "count": 1,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "BI Data Engineer I",
+      "count": 1,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "title": "Digital Customer Experience Engineering Director",
+      "count": 1,
+      "median_wage_usd": 205000.0
+    },
+    {
+      "title": "Data Engineer III",
+      "count": 1,
+      "median_wage_usd": 105084.0
+    },
+    {
+      "title": "Senior Business MBIS Analyst",
+      "count": 1,
+      "median_wage_usd": 110163.9
+    },
+    {
+      "title": "Industrial & Systems Engineer I",
+      "count": 1,
+      "median_wage_usd": 78897.5
+    },
+    {
+      "title": "Sr Programmer/Analyst",
+      "count": 1,
+      "median_wage_usd": 111238.0
+    },
+    {
+      "title": "MBIS Business Analyst",
+      "count": 1,
+      "median_wage_usd": 92010.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 13
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "BELL",
+      "count": 6
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "02/03/2005",
+      "effective_date": "02/03/2005",
+      "state": "KS",
+      "workers": 150,
+      "city": "4 - Workforce Investment Area IV"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "lca_worker_positions": 13,
+  "top_socs": [],
+  "lca_periods": []
+}

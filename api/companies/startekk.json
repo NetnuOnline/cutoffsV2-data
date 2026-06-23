@@ -1,0 +1,186 @@
+{
+  "slug": "startekk",
+  "canonical_name": "STARTEKK LLC",
+  "fein": "32-0410875",
+  "lca_filing_count": 21,
+  "warn_notice_count": 0,
+  "median_wage_usd": 91561.6,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 80475.0
+    },
+    {
+      "fy": 2023,
+      "filings": 5,
+      "median_wage_usd": 70075.0
+    },
+    {
+      "fy": 2024,
+      "filings": 11,
+      "median_wage_usd": 100714.0
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 90896.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "COMPUTER SYSTEMS ANALYST",
+      "count": 9,
+      "median_wage_usd": 100714.0
+    },
+    {
+      "title": "SOFTWARE DEVELOPER",
+      "count": 4,
+      "median_wage_usd": 90896.0
+    },
+    {
+      "title": "COMPUTER SYSTEM ANALYST",
+      "count": 2,
+      "median_wage_usd": 96137.8
+    },
+    {
+      "title": "Solutions Architect",
+      "count": 2,
+      "median_wage_usd": 70075.0
+    },
+    {
+      "title": "SYSTEMS ANALYST/ERP",
+      "count": 2,
+      "median_wage_usd": 80475.0
+    },
+    {
+      "title": "Software Quality Assurance Analyst",
+      "count": 1,
+      "median_wage_usd": 95000.0
+    },
+    {
+      "title": "SOLUTIONS ARCHITECT",
+      "count": 1,
+      "median_wage_usd": 83658.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 14
+    },
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 3
+    },
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 20
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 13,
+    "initial_denials": 0,
+    "continuing_approvals": 4,
+    "continuing_denials": 0,
+    "total_approvals": 17,
+    "by_fy": [
+      {
+        "fy": 2014,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2015,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2016,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2017,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 10,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 10
+      }
+    ]
+  },
+  "lca_worker_positions": 21,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1211",
+    "soc_title": "Computer Systems Analysts",
+    "market_median_usd": 103800.0,
+    "employer_median_usd": 100714.0,
+    "gap_usd": -3086.0
+  }
+}

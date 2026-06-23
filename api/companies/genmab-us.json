@@ -1,0 +1,131 @@
+{
+  "slug": "genmab-us",
+  "canonical_name": "Genmab US, Inc.",
+  "fein": "26-2011084",
+  "lca_filing_count": 16,
+  "lca_worker_positions": 15,
+  "warn_notice_count": 0,
+  "median_wage_usd": 216836.5,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 223050.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 229487.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 186500.0
+    },
+    {
+      "fy": 2025,
+      "filings": 7,
+      "median_wage_usd": 204699.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 173569.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "IT Director, Product Management",
+      "count": 2,
+      "median_wage_usd": 230000.0
+    },
+    {
+      "title": "Principal Tech Lead, SAP App Development, Enabling Functions",
+      "count": 2,
+      "median_wage_usd": 204699.0
+    },
+    {
+      "title": "Scientist, Medical Information",
+      "count": 1,
+      "median_wage_usd": 143000.0
+    },
+    {
+      "title": "VP IT&D, Global Business Partnership & Applications",
+      "count": 1,
+      "median_wage_usd": 276100.0
+    },
+    {
+      "title": "Senior Manager, Real World Data & Epidemiology Analytics",
+      "count": 1,
+      "median_wage_usd": 152397.0
+    },
+    {
+      "title": "Director of Commercial Data Science",
+      "count": 1,
+      "median_wage_usd": 232920.0
+    },
+    {
+      "title": "Director, Clinical Research Scientist ",
+      "count": 1,
+      "median_wage_usd": 228974.0
+    },
+    {
+      "title": "Senior Director, Data Products, Research & Enabling Function",
+      "count": 1,
+      "median_wage_usd": 261500.0
+    },
+    {
+      "title": "Associate Director - US Market Solutions",
+      "count": 1,
+      "median_wage_usd": 158974.0
+    },
+    {
+      "title": "Director, Labeling Strategy",
+      "count": 1,
+      "median_wage_usd": 230000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NJ",
+      "county": "MIDDLESEX",
+      "count": 4
+    },
+    {
+      "state": "MA",
+      "county": "WOBURN CITY",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "county": "SOMERSET",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "county": "MORRIS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 15
+    },
+    {
+      "state": "MA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3021",
+    "soc_title": "Computer and Information Systems Managers",
+    "market_median_usd": 169510.0,
+    "employer_median_usd": 232920.0,
+    "gap_usd": 63410.0
+  }
+}

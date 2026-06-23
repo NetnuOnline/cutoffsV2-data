@@ -1,0 +1,76 @@
+{
+  "slug": "novembal-usa",
+  "canonical_name": "Novembal USA Inc",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 5,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    },
+    {
+      "state": "CO",
+      "count": 1
+    },
+    {
+      "state": "AZ",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "09/18/2023",
+      "effective_date": "09/30/2023",
+      "state": "GA",
+      "workers": 100,
+      "city": "8606 West Ludlow Drive, Peoria, Arizona"
+    },
+    {
+      "date": "08/03/2023",
+      "effective_date": "01/30/2023",
+      "state": "NJ",
+      "workers": 100,
+      "city": "Edison"
+    },
+    {
+      "date": "07/28/2023",
+      "effective_date": "09/30/2023",
+      "state": "CO",
+      "workers": 0,
+      "city": "Unknown (possibly rural & remote)"
+    },
+    {
+      "date": "07/28/2023",
+      "effective_date": "09/30/2023",
+      "state": "GA",
+      "workers": 100,
+      "city": "8606 West Ludlow Drive, Peoria, Arizona"
+    },
+    {
+      "date": "07/28/2023",
+      "effective_date": "07/28/2023",
+      "state": "AZ",
+      "workers": 0,
+      "city": "Peoria"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "middlesex-wib",
+      "name": "Middlesex WIB",
+      "state": "NJ"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

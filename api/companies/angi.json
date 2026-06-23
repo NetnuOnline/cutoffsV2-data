@@ -1,0 +1,189 @@
+{
+  "slug": "angi",
+  "canonical_name": "Angi Inc.",
+  "fein": "82-1204801",
+  "lca_filing_count": 29,
+  "lca_worker_positions": 29,
+  "warn_notice_count": 0,
+  "median_wage_usd": 170000.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 5,
+      "median_wage_usd": 145000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 4,
+      "median_wage_usd": 154000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 12,
+      "median_wage_usd": 170000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 6,
+      "median_wage_usd": 252500.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 147500.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 15,
+      "median_wage_usd": 151000.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 3,
+      "median_wage_usd": 185000.0
+    },
+    {
+      "title": "Android Engineer",
+      "count": 2,
+      "median_wage_usd": 170000.0
+    },
+    {
+      "title": "Engineer II",
+      "count": 2,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "title": "Senior Vice President of Data Science and Machine Learning ",
+      "count": 1,
+      "median_wage_usd": 380000.0
+    },
+    {
+      "title": "VP, Product Analytics",
+      "count": 1,
+      "median_wage_usd": 360000.0
+    },
+    {
+      "title": "Security Engineer",
+      "count": 1,
+      "median_wage_usd": 165000.0
+    },
+    {
+      "title": "Staff Machine Learning Engineer",
+      "count": 1,
+      "median_wage_usd": 315000.0
+    },
+    {
+      "title": "Director, Machine Learning & Engineering",
+      "count": 1,
+      "median_wage_usd": 345000.0
+    },
+    {
+      "title": "Software Engineer ",
+      "count": 1,
+      "median_wage_usd": 145000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 4
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 3
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "county": "BERGEN",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "county": "LAKE",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 1
+    },
+    {
+      "state": "IN",
+      "county": "MARION",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 12
+    },
+    {
+      "state": "WA",
+      "count": 4
+    },
+    {
+      "state": "CA",
+      "count": 4
+    },
+    {
+      "state": "NJ",
+      "count": 2
+    },
+    {
+      "state": "IN",
+      "count": 2
+    },
+    {
+      "state": "FL",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "count": 1
+    },
+    {
+      "state": "AZ",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 165000.0,
+    "gap_usd": 34840.0
+  }
+}

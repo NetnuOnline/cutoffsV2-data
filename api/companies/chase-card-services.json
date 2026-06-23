@@ -1,0 +1,64 @@
+{
+  "slug": "chase-card-services",
+  "canonical_name": "Chase Card Services",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "02/23/2009",
+      "effective_date": "02/23/2009",
+      "state": "GA",
+      "workers": 730,
+      "city": "Kennesaw"
+    },
+    {
+      "date": "05/02/2008",
+      "effective_date": "05/02/2008",
+      "state": "GA",
+      "workers": 70,
+      "city": "Kennesaw"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "cobb-county-wib",
+      "name": "Cobb County WIB",
+      "state": "GA"
+    }
+  ],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2012-05-15",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-12-233374",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000019617&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 1,
+    "itemCounts": {
+      "5.02": 1
+    },
+    "latestFilingDate": "2012-05-15",
+    "earliestFilingDate": "2012-05-15"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

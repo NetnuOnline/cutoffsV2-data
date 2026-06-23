@@ -1,0 +1,168 @@
+{
+  "slug": "vision-service-plan",
+  "canonical_name": "Vision Service Plan",
+  "fein": "94-1632821",
+  "lca_filing_count": 21,
+  "lca_worker_positions": 21,
+  "warn_notice_count": 0,
+  "median_wage_usd": 128000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 5,
+      "median_wage_usd": 118248.24
+    },
+    {
+      "fy": 2021,
+      "filings": 3,
+      "median_wage_usd": 120802.32
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 112561.44
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 124977.8
+    },
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 159579.17
+    },
+    {
+      "fy": 2025,
+      "filings": 5,
+      "median_wage_usd": 143221.5
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 98877.55,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Software Engineer",
+      "count": 8,
+      "median_wage_usd": 138847.525
+    },
+    {
+      "title": "Sr. Software Engineer",
+      "count": 2,
+      "median_wage_usd": 129124.12
+    },
+    {
+      "title": "Senior Systems Engineer",
+      "count": 2,
+      "median_wage_usd": 132270.36
+    },
+    {
+      "title": "Sr. Systems Engineer",
+      "count": 1,
+      "median_wage_usd": 120802.32
+    },
+    {
+      "title": "Senior Data Modeler",
+      "count": 1,
+      "median_wage_usd": 181053.4
+    },
+    {
+      "title": "Sr Salesforce Developer",
+      "count": 1,
+      "median_wage_usd": 119180.16
+    },
+    {
+      "title": "Senior SAP Analyst",
+      "count": 1,
+      "median_wage_usd": 147684.59
+    },
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 121955.6
+    },
+    {
+      "title": "Systems Analyst",
+      "count": 1,
+      "median_wage_usd": 98877.55
+    },
+    {
+      "title": "Product Manager",
+      "count": 1,
+      "median_wage_usd": 99466.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SACRAMENTO",
+      "count": 9
+    },
+    {
+      "state": "TX",
+      "county": "BEXAR",
+      "count": 4
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "county": "LAKE",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "county": "MECKLENBURG",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "county": "HUDSON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 10
+    },
+    {
+      "state": "TX",
+      "count": 8
+    },
+    {
+      "state": "IL",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 138847.52,
+    "gap_usd": 8687.52
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "slug": "nea-consulting",
+  "canonical_name": "NEA CONSULTING INC",
+  "fein": "36-4468889",
+  "lca_filing_count": 4,
+  "lca_worker_positions": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 111100.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 96242.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 114600.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 113000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "PROGRAMMER ANALYST II",
+      "count": 3,
+      "median_wage_usd": 109200.0
+    },
+    {
+      "title": "Programmer Analyst  II",
+      "count": 1,
+      "median_wage_usd": 120000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "FL",
+      "county": "MIAMI-DADE  (OLD DEF)",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "county": "MERCER",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "county": "WALTHAM CITY",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "FL",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 113000.0,
+    "gap_usd": -17160.0
+  }
+}

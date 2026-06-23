@@ -1,0 +1,203 @@
+{
+  "slug": "insight-global",
+  "canonical_name": "Insight Global, LLC",
+  "fein": "20-8775560",
+  "lca_filing_count": 201,
+  "lca_worker_positions": 194,
+  "warn_notice_count": 0,
+  "median_wage_usd": 122116.8,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 3,
+      "median_wage_usd": 97760.0
+    },
+    {
+      "fy": 2021,
+      "filings": 3,
+      "median_wage_usd": 87485.0
+    },
+    {
+      "fy": 2022,
+      "filings": 6,
+      "median_wage_usd": 117426.4
+    },
+    {
+      "fy": 2023,
+      "filings": 32,
+      "median_wage_usd": 120328.0
+    },
+    {
+      "fy": 2024,
+      "filings": 38,
+      "median_wage_usd": 123052.79999999999
+    },
+    {
+      "fy": 2025,
+      "filings": 56,
+      "median_wage_usd": 126401.6
+    },
+    {
+      "fy": 2026,
+      "filings": 55,
+      "median_wage_usd": 128752.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 12,
+      "median_wage_usd": 108336.8
+    },
+    {
+      "title": "Data Engineer",
+      "count": 9,
+      "median_wage_usd": 120328.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 6,
+      "median_wage_usd": 132121.5
+    },
+    {
+      "title": "Senior Data Engineer",
+      "count": 4,
+      "median_wage_usd": 110812.0
+    },
+    {
+      "title": "Application Architect",
+      "count": 4,
+      "median_wage_usd": 146660.8
+    },
+    {
+      "title": "Automation Engineer",
+      "count": 3,
+      "median_wage_usd": 124404.8
+    },
+    {
+      "title": "Teradata Developer",
+      "count": 3,
+      "median_wage_usd": 112923.2
+    },
+    {
+      "title": "Senior Oracle DBA",
+      "count": 3,
+      "median_wage_usd": 125694.4
+    },
+    {
+      "title": "Senior DevOps Engineer",
+      "count": 3,
+      "median_wage_usd": 127504.0
+    },
+    {
+      "title": "RN Float Pool II",
+      "count": 3,
+      "median_wage_usd": 78748.8
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 10
+    },
+    {
+      "state": "NC",
+      "county": "MECKLENBURG",
+      "count": 10
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 9
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 5
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 4
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 4
+    },
+    {
+      "state": "GA",
+      "county": "DEKALB",
+      "count": 4
+    },
+    {
+      "state": "NJ",
+      "county": "HUDSON",
+      "count": 3
+    },
+    {
+      "state": "VA",
+      "county": "HENRICO",
+      "count": 3
+    },
+    {
+      "state": "WA",
+      "county": "SNOHOMISH",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 38
+    },
+    {
+      "state": "NC",
+      "count": 31
+    },
+    {
+      "state": "GA",
+      "count": 28
+    },
+    {
+      "state": "MI",
+      "count": 13
+    },
+    {
+      "state": "OH",
+      "count": 13
+    },
+    {
+      "state": "WA",
+      "count": 11
+    },
+    {
+      "state": "CA",
+      "count": 9
+    },
+    {
+      "state": "NJ",
+      "count": 8
+    },
+    {
+      "state": "FL",
+      "count": 7
+    },
+    {
+      "state": "TN",
+      "count": 6
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 128232.0,
+    "gap_usd": -1928.0
+  }
+}

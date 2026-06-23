@@ -1,0 +1,203 @@
+{
+  "slug": "raymond-james-associates",
+  "canonical_name": "Raymond James & Associates, Inc.",
+  "fein": "59-1237041",
+  "lca_filing_count": 170,
+  "lca_worker_positions": 169,
+  "warn_notice_count": 0,
+  "median_wage_usd": 135000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 18,
+      "median_wage_usd": 99923.0
+    },
+    {
+      "fy": 2021,
+      "filings": 15,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 20,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 22,
+      "median_wage_usd": 132500.0
+    },
+    {
+      "fy": 2024,
+      "filings": 28,
+      "median_wage_usd": 143500.0
+    },
+    {
+      "fy": 2025,
+      "filings": 39,
+      "median_wage_usd": 142000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 27,
+      "median_wage_usd": 148800.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Lead Engineer, Applications Development",
+      "count": 33,
+      "median_wage_usd": 142000.0
+    },
+    {
+      "title": "Senior Engineer, Applications Development",
+      "count": 24,
+      "median_wage_usd": 127250.0
+    },
+    {
+      "title": "Associate Director, Technology",
+      "count": 6,
+      "median_wage_usd": 175500.0
+    },
+    {
+      "title": "Senior Analyst, Technology",
+      "count": 6,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "title": "Lead Engineer, Data Engineer",
+      "count": 6,
+      "median_wage_usd": 149500.0
+    },
+    {
+      "title": "Lead Engineer, Data Engineering",
+      "count": 5,
+      "median_wage_usd": 155000.0
+    },
+    {
+      "title": "Senior Engineer, IT Security",
+      "count": 5,
+      "median_wage_usd": 134600.0
+    },
+    {
+      "title": "Manager, Technology",
+      "count": 4,
+      "median_wage_usd": 139000.0
+    },
+    {
+      "title": "Principal Engineer, Applications Development",
+      "count": 4,
+      "median_wage_usd": 151000.0
+    },
+    {
+      "title": "Senior Engineer, Data Engineering",
+      "count": 3,
+      "median_wage_usd": 135000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "FL",
+      "county": "PINELLAS",
+      "count": 94
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 3
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 2
+    },
+    {
+      "state": "TN",
+      "county": "FAYETTE",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "county": "HUDSON",
+      "count": 2
+    },
+    {
+      "state": "FL",
+      "county": "BROWARD",
+      "count": 2
+    },
+    {
+      "state": "CO",
+      "county": "DENVER",
+      "count": 1
+    },
+    {
+      "state": "TN",
+      "county": "SHELBY",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "county": "ORANGE",
+      "count": 1
+    },
+    {
+      "state": "TN",
+      "county": "MARION",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "FL",
+      "count": 147
+    },
+    {
+      "state": "TN",
+      "count": 4
+    },
+    {
+      "state": "NY",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "count": 3
+    },
+    {
+      "state": "NJ",
+      "count": 3
+    },
+    {
+      "state": "GA",
+      "count": 2
+    },
+    {
+      "state": "CO",
+      "count": 2
+    },
+    {
+      "state": "NC",
+      "count": 2
+    },
+    {
+      "state": "MD",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 139597.0,
+    "gap_usd": 9437.0
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "slug": "caterpillar",
+  "canonical_name": "Caterpillar Inc.",
+  "fein": "37-0602744",
+  "lca_filing_count": 519,
+  "lca_worker_positions": 511,
+  "warn_notice_count": 0,
+  "median_wage_usd": 110000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 38,
+      "median_wage_usd": 107334.5
+    },
+    {
+      "fy": 2021,
+      "filings": 69,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 107,
+      "median_wage_usd": 108300.0
+    },
+    {
+      "fy": 2023,
+      "filings": 67,
+      "median_wage_usd": 103293.0
+    },
+    {
+      "fy": 2024,
+      "filings": 89,
+      "median_wage_usd": 114566.0
+    },
+    {
+      "fy": 2025,
+      "filings": 85,
+      "median_wage_usd": 114566.0
+    },
+    {
+      "fy": 2026,
+      "filings": 38,
+      "median_wage_usd": 111675.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 29,
+      "median_wage_usd": 108077.0
+    },
+    {
+      "title": "Lead Software Engineer",
+      "count": 19,
+      "median_wage_usd": 142000.0
+    },
+    {
+      "title": "Embedded Software Engineer",
+      "count": 16,
+      "median_wage_usd": 93894.5
+    },
+    {
+      "title": "Senior Engineer - Design",
+      "count": 16,
+      "median_wage_usd": 110607.88
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 14,
+      "median_wage_usd": 123084.0
+    },
+    {
+      "title": "Autonomy Engineer",
+      "count": 12,
+      "median_wage_usd": 105833.0
+    },
+    {
+      "title": "Control Systems Senior Engineer",
+      "count": 10,
+      "median_wage_usd": 107484.0
+    },
+    {
+      "title": "Embedded Software Senior Engineer",
+      "count": 10,
+      "median_wage_usd": 116110.5
+    },
+    {
+      "title": "Senior Autonomy Engineer",
+      "count": 9,
+      "median_wage_usd": 114566.0
+    },
+    {
+      "title": "Design Engineer",
+      "count": 8,
+      "median_wage_usd": 98904.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IL",
+      "county": "PEORIA",
+      "count": 239
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 66
+    },
+    {
+      "state": "TX",
+      "county": "GUADALUPE",
+      "count": 10
+    },
+    {
+      "state": "IL",
+      "county": "CHAMPAIGN",
+      "count": 9
+    },
+    {
+      "state": "IL",
+      "county": "TAZEWELL",
+      "count": 9
+    },
+    {
+      "state": "AZ",
+      "county": "PIMA",
+      "count": 8
+    },
+    {
+      "state": "IL",
+      "county": "MACON",
+      "count": 8
+    },
+    {
+      "state": "GA",
+      "county": "SPALDING",
+      "count": 6
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 6
+    },
+    {
+      "state": "PA",
+      "county": "ALLEGHENY",
+      "count": 4
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 421
+    },
+    {
+      "state": "TX",
+      "count": 34
+    },
+    {
+      "state": "AZ",
+      "count": 12
+    },
+    {
+      "state": "CA",
+      "count": 10
+    },
+    {
+      "state": "GA",
+      "count": 8
+    },
+    {
+      "state": "PA",
+      "count": 6
+    },
+    {
+      "state": "CO",
+      "count": 5
+    },
+    {
+      "state": "IN",
+      "count": 4
+    },
+    {
+      "state": "TN",
+      "count": 3
+    },
+    {
+      "state": "FL",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 120952.0,
+    "gap_usd": -9208.0
+  }
+}

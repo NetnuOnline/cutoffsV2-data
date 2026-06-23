@@ -1,0 +1,47 @@
+{
+  "slug": "day-ross-usa",
+  "canonical_name": "Day & Ross USA, Inc.",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "MI",
+      "count": 1
+    },
+    {
+      "state": "MN",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "03/25/2026",
+      "effective_date": "03/25/2026",
+      "state": "MI",
+      "workers": 32,
+      "city": "Livonia, Michigan"
+    },
+    {
+      "date": "04/05/2022",
+      "effective_date": "05/27/2022",
+      "state": "MN",
+      "workers": 79,
+      "city": "Minneapolis"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "detroit-workforce-development-department",
+      "name": "Detroit Workforce Development Department",
+      "state": "MI"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

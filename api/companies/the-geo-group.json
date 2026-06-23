@@ -1,0 +1,130 @@
+{
+  "slug": "the-geo-group",
+  "canonical_name": "The GEO Group, Inc.",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 9,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 4
+    },
+    {
+      "state": "NM",
+      "count": 3
+    },
+    {
+      "state": "LA",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "05/01/2025",
+      "effective_date": "06/30/2025",
+      "state": "NM",
+      "workers": 203,
+      "city": "Hobbs"
+    },
+    {
+      "date": "06/17/2021",
+      "effective_date": "08/02/2021",
+      "state": "NM",
+      "workers": 94,
+      "city": "Santa Rosa"
+    },
+    {
+      "date": "08/08/2019",
+      "effective_date": "11/01/2019",
+      "state": "NM",
+      "workers": 115,
+      "city": "Clayton"
+    },
+    {
+      "date": "06/21/2017",
+      "effective_date": "08/20/2017",
+      "state": "LA",
+      "workers": 200,
+      "city": "3751 Lauderdale Woodyard Road Kinder, LA70648"
+    },
+    {
+      "date": "06/04/2017",
+      "effective_date": "06/04/2017",
+      "state": "NJ",
+      "workers": 84,
+      "city": "Boca Raton"
+    },
+    {
+      "date": "04/29/2009",
+      "effective_date": "06/15/2009",
+      "state": "TX",
+      "workers": 0,
+      "city": "Ft. Worth"
+    },
+    {
+      "date": "10/31/2008",
+      "effective_date": "01/15/2009",
+      "state": "TX",
+      "workers": 150,
+      "city": "Venus"
+    },
+    {
+      "date": "10/23/2007",
+      "effective_date": "12/28/2007",
+      "state": "TX",
+      "workers": 0,
+      "city": "Spur"
+    },
+    {
+      "date": "10/04/2007",
+      "effective_date": "10/04/2007",
+      "state": "TX",
+      "workers": 150,
+      "city": "Bronte"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "eastern-area-wib",
+      "name": "Eastern Area WIB",
+      "state": "NM"
+    },
+    {
+      "slug": "concho-valley-wda",
+      "name": "Concho Valley WDA",
+      "state": "TX"
+    }
+  ],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2004-11-17",
+        "formType": "8-K",
+        "accessionNumber": "0000950144-04-011321",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000923796&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 1,
+    "itemCounts": {
+      "5.02": 1
+    },
+    "latestFilingDate": "2004-11-17",
+    "earliestFilingDate": "2004-11-17"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

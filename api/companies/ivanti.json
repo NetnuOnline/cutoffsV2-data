@@ -1,0 +1,227 @@
+{
+  "slug": "ivanti",
+  "canonical_name": "Ivanti, Inc.",
+  "fein": "30-0110335",
+  "lca_filing_count": 26,
+  "warn_notice_count": 0,
+  "median_wage_usd": 160800.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 208000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 6,
+      "median_wage_usd": 158042.3
+    },
+    {
+      "fy": 2022,
+      "filings": 7,
+      "median_wage_usd": 155000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 147550.0
+    },
+    {
+      "fy": 2024,
+      "filings": 7,
+      "median_wage_usd": 166200.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 175550.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Staff Software Engineer",
+      "count": 3,
+      "median_wage_usd": 166200.0
+    },
+    {
+      "title": "Staff Escalations Manager",
+      "count": 2,
+      "median_wage_usd": 147550.0
+    },
+    {
+      "title": "Senior Director, Product Management",
+      "count": 2,
+      "median_wage_usd": 192850.0
+    },
+    {
+      "title": "Senior Staff Software Engineer",
+      "count": 1,
+      "median_wage_usd": 184080.0
+    },
+    {
+      "title": "Senior UX Designer",
+      "count": 1,
+      "median_wage_usd": 124300.0
+    },
+    {
+      "title": "Senior Staff Software Development Engineer in Test",
+      "count": 1,
+      "median_wage_usd": 178500.0
+    },
+    {
+      "title": "Software Architect",
+      "count": 1,
+      "median_wage_usd": 167710.0
+    },
+    {
+      "title": "Director, Product",
+      "count": 1,
+      "median_wage_usd": 175350.0
+    },
+    {
+      "title": "Senior Director, Engineering OEM Partner Solutions",
+      "count": 1,
+      "median_wage_usd": 208000.0
+    },
+    {
+      "title": "Manager, Engineering",
+      "count": 1,
+      "median_wage_usd": 146000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 12
+    },
+    {
+      "state": "UT",
+      "county": "SALT LAKE",
+      "count": 7
+    },
+    {
+      "state": "KS",
+      "county": "JOHNSON",
+      "count": 1
+    },
+    {
+      "state": "TN",
+      "county": "WILLIAMSON",
+      "count": 1
+    },
+    {
+      "state": "NM",
+      "county": "BERNALILLO",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 14
+    },
+    {
+      "state": "UT",
+      "count": 7
+    },
+    {
+      "state": "NM",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    },
+    {
+      "state": "TN",
+      "count": 1
+    },
+    {
+      "state": "KS",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 9,
+    "initial_denials": 0,
+    "continuing_approvals": 56,
+    "continuing_denials": 1,
+    "total_approvals": 65,
+    "by_fy": [
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 21,
+        "continuing_denials": 0,
+        "total_approvals": 22
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 5,
+        "initial_denials": 0,
+        "continuing_approvals": 26,
+        "continuing_denials": 1,
+        "total_approvals": 31
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 3,
+        "initial_denials": 0,
+        "continuing_approvals": 7,
+        "continuing_denials": 0,
+        "total_approvals": 10
+      }
+    ]
+  },
+  "lca_worker_positions": 26,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Information Technology Project Managers",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 182675.0,
+    "gap_usd": 64675.0
+  }
+}

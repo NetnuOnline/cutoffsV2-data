@@ -1,0 +1,80 @@
+{
+  "slug": "nimbl-consulting",
+  "canonical_name": "Nimbl Consulting LLC",
+  "fein": "85-4285002",
+  "lca_filing_count": 4,
+  "lca_worker_positions": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 185999.5,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 215000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 148500.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 214999.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Business Analyst",
+      "count": 1,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "title": "On Base Developer",
+      "count": 1,
+      "median_wage_usd": 157000.0
+    },
+    {
+      "title": "Program Manager",
+      "count": 1,
+      "median_wage_usd": 215000.0
+    },
+    {
+      "title": "Senior PMO Director",
+      "count": 1,
+      "median_wage_usd": 214999.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NJ",
+      "county": "UNION",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 2
+    },
+    {
+      "state": "PA",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1211",
+    "soc_title": "Computer Systems Analysts",
+    "market_median_usd": 103800.0,
+    "employer_median_usd": 215000.0,
+    "gap_usd": 111200.0
+  }
+}

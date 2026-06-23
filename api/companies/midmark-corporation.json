@@ -1,0 +1,80 @@
+{
+  "slug": "midmark-corporation",
+  "canonical_name": "Midmark Corporation",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 6,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 5
+    },
+    {
+      "state": "OH",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "01/15/2025",
+      "effective_date": "03/28/2025",
+      "state": "OH",
+      "workers": 76,
+      "city": "Leesburg/Highland"
+    },
+    {
+      "date": "01/24/2024",
+      "effective_date": "12/31/2024",
+      "state": "IL",
+      "workers": 6,
+      "city": "Buffalo Grove"
+    },
+    {
+      "date": "01/24/2024",
+      "effective_date": "09/27/2024",
+      "state": "IL",
+      "workers": 3,
+      "city": "Buffalo Grove"
+    },
+    {
+      "date": "01/24/2024",
+      "effective_date": "07/26/2024",
+      "state": "IL",
+      "workers": 2,
+      "city": "Buffalo Grove"
+    },
+    {
+      "date": "01/24/2024",
+      "effective_date": "04/26/2024",
+      "state": "IL",
+      "workers": 2,
+      "city": "Buffalo Grove"
+    },
+    {
+      "date": "01/24/2024",
+      "effective_date": "03/29/2024",
+      "state": "IL",
+      "workers": 40,
+      "city": "Buffalo Grove"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "lake-county-wib",
+      "name": "Lake County WIB",
+      "state": "IL"
+    },
+    {
+      "slug": "southeast-ohio",
+      "name": "Southeast Ohio",
+      "state": "OH"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

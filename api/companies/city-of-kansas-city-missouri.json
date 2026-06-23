@@ -1,0 +1,146 @@
+{
+  "slug": "city-of-kansas-city-missouri",
+  "canonical_name": "City of Kansas City, Missouri",
+  "fein": "44-6000201",
+  "lca_filing_count": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 60024.12,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 64824.05
+    },
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 48432.12
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 71616.12
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 92000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Analyst - Tax Auditor",
+      "count": 2,
+      "median_wage_usd": 48432.12
+    },
+    {
+      "title": "Senior Project Engineer",
+      "count": 1,
+      "median_wage_usd": 92000.0
+    },
+    {
+      "title": "Senior Analyst",
+      "count": 1,
+      "median_wage_usd": 71616.12
+    },
+    {
+      "title": "Sr. Analyst - Water Services",
+      "count": 1,
+      "median_wage_usd": 82164.0
+    },
+    {
+      "title": "Analyst",
+      "count": 1,
+      "median_wage_usd": 47484.1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MO",
+      "county": "JACKSON",
+      "count": 5
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MO",
+      "count": 6
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 5,
+    "initial_denials": 0,
+    "continuing_approvals": 3,
+    "continuing_denials": 0,
+    "total_approvals": 8,
+    "by_fy": [
+      {
+        "fy": 2009,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2011,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2014,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2017,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 4,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 6
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      }
+    ]
+  },
+  "lca_worker_positions": 6,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-2011",
+    "soc_title": "Accountants and Auditors",
+    "market_median_usd": 79000.0,
+    "employer_median_usd": 60024.12,
+    "gap_usd": -18975.88
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "slug": "salespoint",
+  "canonical_name": "SalesPoint, Inc.",
+  "fein": "46-4863629",
+  "lca_filing_count": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 108500.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 107000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 110635.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 96548.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Technical Program Manager",
+      "count": 1,
+      "median_wage_usd": 107000.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 110635.0
+    },
+    {
+      "title": "Developer",
+      "count": 1,
+      "median_wage_usd": 83096.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 1,
+      "median_wage_usd": 110000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "WA",
+      "county": "SNOHOMISH",
+      "count": 2
+    },
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "WA",
+      "count": 3
+    },
+    {
+      "state": "AZ",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 107000.0,
+    "gap_usd": -23160.0
+  }
+}

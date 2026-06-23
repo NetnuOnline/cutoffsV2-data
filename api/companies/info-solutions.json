@@ -1,0 +1,95 @@
+{
+  "slug": "info-solutions",
+  "canonical_name": "Info-Solutions, Inc.",
+  "fein": "30-0726317",
+  "lca_filing_count": 8,
+  "lca_worker_positions": 8,
+  "warn_notice_count": 0,
+  "median_wage_usd": 130300.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 65187.0
+    },
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 145600.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 103000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 171600.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Full Stack Architect Developer",
+      "count": 3,
+      "median_wage_usd": 171600.0
+    },
+    {
+      "title": "Quality Analyst",
+      "count": 1,
+      "median_wage_usd": 145600.0
+    },
+    {
+      "title": "Computer Programmer",
+      "count": 1,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "title": "React JS Developer",
+      "count": 1,
+      "median_wage_usd": 65187.0
+    },
+    {
+      "title": "Senior Oracle C2M Architect Developer",
+      "count": 1,
+      "median_wage_usd": 103000.0
+    },
+    {
+      "title": "Senior Oracle C2M and NMS Architect",
+      "count": 1,
+      "median_wage_usd": 103000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "ORANGE",
+      "count": 4
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 6
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 171600.0,
+    "gap_usd": 41440.0
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "trans-states-airlines",
+  "canonical_name": "Trans States Airlines, LLC",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 3,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "KY",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "03/19/2020",
+      "effective_date": "04/02/2020",
+      "state": "KY",
+      "workers": 46,
+      "city": "Jefferson County - Louisville"
+    },
+    {
+      "date": "03/19/2020",
+      "effective_date": "03/17/2020",
+      "state": "NC",
+      "workers": 13,
+      "city": "1725 E. International Drive, Morrisville"
+    },
+    {
+      "date": "03/18/2020",
+      "effective_date": "04/01/2020",
+      "state": "IL",
+      "workers": 184,
+      "city": "Chicago O'Hare Airport Terminal 1, Gate B20, Ramp Level Chicago, IL 60666"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "c-greater-louisville-wib",
+      "name": "C Greater Louisville WIB",
+      "state": "KY"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

@@ -1,0 +1,161 @@
+{
+  "slug": "compnova",
+  "canonical_name": "COMPNOVA, LLC.",
+  "fein": "26-4307449",
+  "lca_filing_count": 36,
+  "lca_worker_positions": 35,
+  "warn_notice_count": 0,
+  "median_wage_usd": 119500.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 3,
+      "median_wage_usd": 95160.0
+    },
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 106860.0
+    },
+    {
+      "fy": 2023,
+      "filings": 12,
+      "median_wage_usd": 101192.0
+    },
+    {
+      "fy": 2025,
+      "filings": 11,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 7,
+      "median_wage_usd": 145600.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SOFTWARE DEVELOPER",
+      "count": 14,
+      "median_wage_usd": 101192.0
+    },
+    {
+      "title": "SOFTWARE ENGINEER",
+      "count": 4,
+      "median_wage_usd": 122500.0
+    },
+    {
+      "title": "SR. MAINFRAME DEVELOPER",
+      "count": 3,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "title": "MAINFRAME DEVELOPER",
+      "count": 2,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "title": "QUALITY TESTER - SENIOR",
+      "count": 2,
+      "median_wage_usd": 145600.0
+    },
+    {
+      "title": "TECHNICAL PRODUCT MANAGER \u201c SENIOR",
+      "count": 1,
+      "median_wage_usd": 156000.0
+    },
+    {
+      "title": "SOFTWARE DEVELOPMENT ENGINEER IN TEST",
+      "count": 1,
+      "median_wage_usd": 156000.0
+    },
+    {
+      "title": "JAVA DEVELOPER - SENIOR",
+      "count": 1,
+      "median_wage_usd": 156000.0
+    },
+    {
+      "title": "JAVA DEVELOPER SENIOR",
+      "count": 1,
+      "median_wage_usd": 174720.0
+    },
+    {
+      "title": "SOFTWARE DEVELOPER\t",
+      "count": 1,
+      "median_wage_usd": 101192.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "FL",
+      "county": "DUVAL",
+      "count": 7
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 6
+    },
+    {
+      "state": "NJ",
+      "county": "MONMOUTH",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "county": "INGHAM",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    },
+    {
+      "state": "CO",
+      "county": "DENVER",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "FL",
+      "count": 17
+    },
+    {
+      "state": "TX",
+      "count": 9
+    },
+    {
+      "state": "WA",
+      "count": 5
+    },
+    {
+      "state": "GA",
+      "count": 2
+    },
+    {
+      "state": "CO",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 112000.0,
+    "gap_usd": -18160.0
+  }
+}

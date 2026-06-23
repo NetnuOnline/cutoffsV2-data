@@ -1,0 +1,118 @@
+{
+  "slug": "helmerich-payne-management",
+  "canonical_name": "Helmerich & Payne Management, LLC",
+  "fein": "85-1546957",
+  "lca_filing_count": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 124712.4,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 123088.61499999999
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 127525.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer II",
+      "count": 1,
+      "median_wage_usd": 130510.8
+    },
+    {
+      "title": "Application Platform Support Engineer, Senior",
+      "count": 1,
+      "median_wage_usd": 136136.0
+    },
+    {
+      "title": "Senior Geothermal Program Manager",
+      "count": 1,
+      "median_wage_usd": 115666.43
+    },
+    {
+      "title": "Oracle Financial Specialist, Principal",
+      "count": 1,
+      "median_wage_usd": 118914.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 1
+    },
+    {
+      "state": "OK",
+      "county": "TULSA",
+      "count": 1
+    },
+    {
+      "state": "CO",
+      "county": "DENVER",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "WA",
+      "count": 1
+    },
+    {
+      "state": "CO",
+      "count": 1
+    },
+    {
+      "state": "OK",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 3,
+    "continuing_denials": 0,
+    "total_approvals": 4,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Computer Systems Engineers/Architects",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 127525.0,
+    "gap_usd": 9525.0
+  }
+}

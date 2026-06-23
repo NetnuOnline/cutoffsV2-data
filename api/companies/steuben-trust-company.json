@@ -1,0 +1,88 @@
+{
+  "slug": "steuben-trust-company",
+  "canonical_name": "Steuben Trust Company",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 7,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 7
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "02/12/2020",
+      "effective_date": "05/15/2020",
+      "state": "NY",
+      "workers": 1,
+      "city": "Belmont"
+    },
+    {
+      "date": "02/12/2020",
+      "effective_date": "05/15/2020",
+      "state": "NY",
+      "workers": 42,
+      "city": "Hornell"
+    },
+    {
+      "date": "02/12/2020",
+      "effective_date": "05/15/2020",
+      "state": "NY",
+      "workers": 2,
+      "city": "Warsaw"
+    },
+    {
+      "date": "02/12/2020",
+      "effective_date": "05/15/2020",
+      "state": "NY",
+      "workers": 1,
+      "city": "Rochester"
+    },
+    {
+      "date": "02/12/2020",
+      "effective_date": "05/15/2020",
+      "state": "NY",
+      "workers": 4,
+      "city": "Bolivar"
+    },
+    {
+      "date": "02/12/2020",
+      "effective_date": "05/15/2020",
+      "state": "NY",
+      "workers": 4,
+      "city": "Alfred"
+    },
+    {
+      "date": "02/12/2020",
+      "effective_date": "05/15/2020",
+      "state": "NY",
+      "workers": 6,
+      "city": "Geneseo"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "chemungschuylersteuben-lwia",
+      "name": "Chemung/Schuyler/Steuben LWIA",
+      "state": "NY"
+    },
+    {
+      "slug": "geneseelivingstonorleanswyoming-lwia",
+      "name": "Genesee/Livingston/Orleans/Wyoming LWIA",
+      "state": "NY"
+    },
+    {
+      "slug": "alleganycattaraugus-lwia",
+      "name": "Allegany/Cattaraugus LWIA",
+      "state": "NY"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

@@ -1,0 +1,88 @@
+{
+  "slug": "1st-gobal-capital",
+  "canonical_name": "1st Gobal Capital",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 1,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "FL",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "08/13/2018",
+      "effective_date": "10/05/2018",
+      "state": "FL",
+      "workers": 108,
+      "city": "Hallandale"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2011-08-23",
+        "formType": "8-K",
+        "accessionNumber": "0001408534-11-000027",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001408534&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2009-10-30",
+        "formType": "8-K/A",
+        "accessionNumber": "0001408534-09-000028",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001408534&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2009-10-02",
+        "formType": "8-K",
+        "accessionNumber": "0001408534-09-000027",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001408534&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2008-10-20",
+        "formType": "8-K",
+        "accessionNumber": "0001408534-08-000044",
+        "items": [
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001408534&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 4,
+    "itemCounts": {
+      "5.02": 3,
+      "2.06": 1
+    },
+    "latestFilingDate": "2011-08-23",
+    "earliestFilingDate": "2008-10-20"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

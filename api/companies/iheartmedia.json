@@ -1,0 +1,118 @@
+{
+  "slug": "iheartmedia",
+  "canonical_name": "iHeartMedia Inc. LLC",
+  "fein": null,
+  "lca_filing_count": 1,
+  "warn_notice_count": 4,
+  "median_wage_usd": 75000.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 75000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Account Executive",
+      "count": 1,
+      "median_wage_usd": 75000.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "10/01/2020",
+      "effective_date": "10/01/2020",
+      "state": "CA",
+      "workers": 7,
+      "city": "Hollywood"
+    },
+    {
+      "date": "10/01/2020",
+      "effective_date": "10/01/2020",
+      "state": "CA",
+      "workers": 81,
+      "city": "Burbank"
+    },
+    {
+      "date": "06/09/2020",
+      "effective_date": "04/04/2020",
+      "state": "CA",
+      "workers": 42,
+      "city": "San Francisco"
+    },
+    {
+      "date": "01/26/2017",
+      "effective_date": "04/04/2017",
+      "state": "CA",
+      "workers": 72,
+      "city": "Aliso Viejo"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2008-10-09",
+        "formType": "8-K",
+        "accessionNumber": "0000950134-08-017733",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001400891&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 1,
+    "itemCounts": {
+      "5.02": 1
+    },
+    "latestFilingDate": "2008-10-09",
+    "earliestFilingDate": "2008-10-09"
+  },
+  "bankruptcy_data": {
+    "filings": [
+      {
+        "filingDate": "2019-01-28",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-19-019100",
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001400891&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2018-03-15",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-18-083055",
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001400891&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 2,
+    "latestFilingDate": "2019-01-28",
+    "earliestFilingDate": "2018-03-15"
+  },
+  "source": "warntracker",
+  "lca_worker_positions": 1,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1161",
+    "soc_title": "Market Research Analysts and Marketing Specialists",
+    "market_median_usd": 74680.0,
+    "employer_median_usd": 75000.0,
+    "gap_usd": 320.0
+  }
+}

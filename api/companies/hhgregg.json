@@ -1,0 +1,69 @@
+{
+  "slug": "hhgregg",
+  "canonical_name": "hhgregg",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 4,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "count": 1
+    },
+    {
+      "state": "IN",
+      "count": 1
+    },
+    {
+      "state": "MD",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "05/31/2017",
+      "effective_date": "05/31/2017",
+      "state": "GA",
+      "workers": 58,
+      "city": "Ellenwood"
+    },
+    {
+      "date": "04/13/2017",
+      "effective_date": "05/31/2017",
+      "state": "FL",
+      "workers": 58,
+      "city": "Davenport"
+    },
+    {
+      "date": "04/07/2017",
+      "effective_date": "05/31/2017",
+      "state": "IN",
+      "workers": 268,
+      "city": "Indianapolis"
+    },
+    {
+      "date": "03/02/2017",
+      "effective_date": "04/30/2017",
+      "state": "MD",
+      "workers": 63,
+      "city": "Niagara Falls"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "dekalb-county-wib",
+      "name": "DeKalb County WIB",
+      "state": "GA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

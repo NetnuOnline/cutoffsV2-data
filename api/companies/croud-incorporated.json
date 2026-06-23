@@ -1,0 +1,66 @@
+{
+  "slug": "croud-incorporated",
+  "canonical_name": "Croud Incorporated",
+  "fein": "37-1789212",
+  "lca_filing_count": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 130000.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 150000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior SEO Manager",
+      "count": 1,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "title": "Associate Director, Biddable (Programmatic)",
+      "count": 1,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Senior Data Scientist",
+      "count": 1,
+      "median_wage_usd": 150000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 150000.0,
+    "gap_usd": 41980.0
+  }
+}

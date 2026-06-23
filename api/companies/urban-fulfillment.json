@@ -1,0 +1,48 @@
+{
+  "slug": "urban-fulfillment",
+  "canonical_name": "Urban Fulfillment",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 3,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 2
+    },
+    {
+      "state": "CO",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "10/01/2018",
+      "effective_date": "12/03/2018",
+      "state": "CA",
+      "workers": 85,
+      "city": "Westlake Village"
+    },
+    {
+      "date": "01/29/2016",
+      "effective_date": "03/31/2016",
+      "state": "CA",
+      "workers": 192,
+      "city": "Westlake Village"
+    },
+    {
+      "date": "07/06/2015",
+      "effective_date": "07/06/2015",
+      "state": "CO",
+      "workers": 265,
+      "city": "Jefferson County"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

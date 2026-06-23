@@ -1,0 +1,199 @@
+{
+  "slug": "selective-insurance-company-of-america",
+  "canonical_name": "Selective Insurance Company of America",
+  "fein": "22-1272390",
+  "lca_filing_count": 60,
+  "lca_worker_positions": 56,
+  "warn_notice_count": 0,
+  "median_wage_usd": 127040.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 4,
+      "median_wage_usd": 105400.0
+    },
+    {
+      "fy": 2021,
+      "filings": 5,
+      "median_wage_usd": 106200.0
+    },
+    {
+      "fy": 2022,
+      "filings": 12,
+      "median_wage_usd": 120550.0
+    },
+    {
+      "fy": 2023,
+      "filings": 18,
+      "median_wage_usd": 124250.0
+    },
+    {
+      "fy": 2024,
+      "filings": 4,
+      "median_wage_usd": 139725.0
+    },
+    {
+      "fy": 2025,
+      "filings": 6,
+      "median_wage_usd": 155350.0
+    },
+    {
+      "fy": 2026,
+      "filings": 7,
+      "median_wage_usd": 157500.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "IT Senior Application Developer",
+      "count": 5,
+      "median_wage_usd": 106100.0
+    },
+    {
+      "title": "IT Application Specialist ",
+      "count": 5,
+      "median_wage_usd": 138000.0
+    },
+    {
+      "title": "IT Application Specialist",
+      "count": 4,
+      "median_wage_usd": 132000.0
+    },
+    {
+      "title": "IT Team Lead",
+      "count": 4,
+      "median_wage_usd": 145686.25
+    },
+    {
+      "title": "Senior Application Developer ",
+      "count": 4,
+      "median_wage_usd": 104500.0
+    },
+    {
+      "title": "ITS Application Specialist",
+      "count": 3,
+      "median_wage_usd": 126700.0
+    },
+    {
+      "title": "ITS Senior Application Developer",
+      "count": 3,
+      "median_wage_usd": 107400.0
+    },
+    {
+      "title": "ITS Technical Applications Specialist",
+      "count": 2,
+      "median_wage_usd": 164000.0
+    },
+    {
+      "title": "Application Development Specialist",
+      "count": 2,
+      "median_wage_usd": 139100.0
+    },
+    {
+      "title": "IT Technical Application Specialist ",
+      "count": 2,
+      "median_wage_usd": 132200.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CT",
+      "county": "GLASTONBURY",
+      "count": 14
+    },
+    {
+      "state": "NJ",
+      "county": "SUSSEX",
+      "count": 11
+    },
+    {
+      "state": "NC",
+      "county": "MECKLENBURG",
+      "count": 7
+    },
+    {
+      "state": "CT",
+      "county": "HARTFORD CITY",
+      "count": 5
+    },
+    {
+      "state": "NY",
+      "county": "ALBANY",
+      "count": 2
+    },
+    {
+      "state": "NC",
+      "county": "CABARRUS",
+      "count": 2
+    },
+    {
+      "state": "AL",
+      "county": "JEFFERSON",
+      "count": 2
+    },
+    {
+      "state": "NV",
+      "county": "CLARK",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 1
+    },
+    {
+      "state": "TN",
+      "county": "HAMILTON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CT",
+      "count": 27
+    },
+    {
+      "state": "NC",
+      "count": 11
+    },
+    {
+      "state": "NJ",
+      "count": 11
+    },
+    {
+      "state": "TX",
+      "count": 3
+    },
+    {
+      "state": "TN",
+      "count": 2
+    },
+    {
+      "state": "NY",
+      "count": 2
+    },
+    {
+      "state": "AL",
+      "count": 2
+    },
+    {
+      "state": "NV",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 138000.0,
+    "gap_usd": 7840.0
+  }
+}

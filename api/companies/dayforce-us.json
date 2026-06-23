@@ -1,0 +1,89 @@
+{
+  "slug": "dayforce-us",
+  "canonical_name": "Dayforce US, Inc.",
+  "fein": "59-3228107",
+  "lca_filing_count": 4,
+  "lca_worker_positions": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 100141.5,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 91000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 109283.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Service Consultant",
+      "count": 1,
+      "median_wage_usd": 109283.0
+    },
+    {
+      "title": "Principal Financial Analyst",
+      "count": 1,
+      "median_wage_usd": 91000.0
+    },
+    {
+      "title": "Integration Solutions Specialist Sr.",
+      "count": 1,
+      "median_wage_usd": 86470.0
+    },
+    {
+      "title": "Senior IT Data Solutions Developer",
+      "count": 1,
+      "median_wage_usd": 115484.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "FL",
+      "county": "ORANGE",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "ORANGE",
+      "count": 1
+    },
+    {
+      "state": "MN",
+      "county": "HENNEPIN",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "FL",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "MN",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 112383.5,
+    "gap_usd": -17776.5
+  }
+}

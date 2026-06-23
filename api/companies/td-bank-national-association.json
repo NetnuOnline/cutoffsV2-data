@@ -1,0 +1,203 @@
+{
+  "slug": "td-bank-national-association",
+  "canonical_name": "TD Bank, National Association",
+  "fein": "01-0137770",
+  "lca_filing_count": 60,
+  "lca_worker_positions": 58,
+  "warn_notice_count": 0,
+  "median_wage_usd": 131014.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 6,
+      "median_wage_usd": 106050.0
+    },
+    {
+      "fy": 2021,
+      "filings": 4,
+      "median_wage_usd": 104764.5
+    },
+    {
+      "fy": 2022,
+      "filings": 8,
+      "median_wage_usd": 132500.0
+    },
+    {
+      "fy": 2023,
+      "filings": 7,
+      "median_wage_usd": 138660.0
+    },
+    {
+      "fy": 2024,
+      "filings": 11,
+      "median_wage_usd": 133790.0
+    },
+    {
+      "fy": 2025,
+      "filings": 14,
+      "median_wage_usd": 135870.0
+    },
+    {
+      "fy": 2026,
+      "filings": 8,
+      "median_wage_usd": 135775.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "IT Solutions Design Specialist",
+      "count": 8,
+      "median_wage_usd": 143500.0
+    },
+    {
+      "title": "Data Scientist",
+      "count": 4,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "Modeling/Forecasting Senior Analyst",
+      "count": 3,
+      "median_wage_usd": 100547.0
+    },
+    {
+      "title": "Quantitative Analytics Specialist",
+      "count": 3,
+      "median_wage_usd": 120530.0
+    },
+    {
+      "title": "Senior IT Developer",
+      "count": 3,
+      "median_wage_usd": 138000.0
+    },
+    {
+      "title": "Quantitative Analyst",
+      "count": 3,
+      "median_wage_usd": 105000.0
+    },
+    {
+      "title": "Business Insight Specialist",
+      "count": 2,
+      "median_wage_usd": 130028.0
+    },
+    {
+      "title": "IT Solutions Designer",
+      "count": 2,
+      "median_wage_usd": 116500.0
+    },
+    {
+      "title": "Senior Manager, Liquidity Risk Management",
+      "count": 2,
+      "median_wage_usd": 149438.0
+    },
+    {
+      "title": "Risk Manager",
+      "count": 2,
+      "median_wage_usd": 166175.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NJ",
+      "county": "BURLINGTON",
+      "count": 9
+    },
+    {
+      "state": "NJ",
+      "county": "CAMDEN",
+      "count": 7
+    },
+    {
+      "state": "MI",
+      "county": "OAKLAND",
+      "count": 6
+    },
+    {
+      "state": "DE",
+      "county": "NEW CASTLE",
+      "count": 5
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 4
+    },
+    {
+      "state": "NC",
+      "county": "MECKLENBURG",
+      "count": 3
+    },
+    {
+      "state": "MA",
+      "county": "BOSTON CITY",
+      "count": 2
+    },
+    {
+      "state": "IN",
+      "county": "MARION",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "county": "BROWARD",
+      "count": 1
+    },
+    {
+      "state": "CO",
+      "county": "ARAPAHOE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 21
+    },
+    {
+      "state": "MI",
+      "count": 9
+    },
+    {
+      "state": "NY",
+      "count": 5
+    },
+    {
+      "state": "DE",
+      "count": 5
+    },
+    {
+      "state": "NC",
+      "count": 4
+    },
+    {
+      "state": "TX",
+      "count": 4
+    },
+    {
+      "state": "MA",
+      "count": 4
+    },
+    {
+      "state": "IN",
+      "count": 2
+    },
+    {
+      "state": "CO",
+      "count": 1
+    },
+    {
+      "state": "MD",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 139775.0,
+    "gap_usd": 9615.0
+  }
+}

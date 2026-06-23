@@ -1,0 +1,113 @@
+{
+  "slug": "akinfosystem",
+  "canonical_name": "AKINFOSYSTEM",
+  "fein": "83-2119196",
+  "lca_filing_count": 19,
+  "warn_notice_count": 0,
+  "median_wage_usd": 82000.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 10,
+      "median_wage_usd": 82000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 6,
+      "median_wage_usd": 84850.0
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 84969.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SAP ENGINEER 2",
+      "count": 3,
+      "median_wage_usd": 82000.0
+    },
+    {
+      "title": "TECH OPS ENGINEER 2",
+      "count": 3,
+      "median_wage_usd": 82000.0
+    },
+    {
+      "title": "SENIOR SOFTWARE ENGINEER - SAP",
+      "count": 2,
+      "median_wage_usd": 86000.0
+    },
+    {
+      "title": "SOFTWARE ENGINEER \u201c DEVOPS",
+      "count": 1,
+      "median_wage_usd": 84969.0
+    },
+    {
+      "title": "SOFTWARE QUALITY ASSURANCE ANALYST AND TESTER",
+      "count": 1,
+      "median_wage_usd": 82000.0
+    },
+    {
+      "title": "SENIOR SOFTWARE ENGINEER - QA",
+      "count": 1,
+      "median_wage_usd": 84000.0
+    },
+    {
+      "title": "SOFTWARE ENGINEER - SAP",
+      "count": 1,
+      "median_wage_usd": 85700.0
+    },
+    {
+      "title": "SOFTWARE ENGINEER \u2013 DEVOPS",
+      "count": 1,
+      "median_wage_usd": 81000.0
+    },
+    {
+      "title": "BUSINESS INTELLIGENCE ANALYST",
+      "count": 1,
+      "median_wage_usd": 81300.0
+    },
+    {
+      "title": "DATA SCIENTIST",
+      "count": 1,
+      "median_wage_usd": 81000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "FORT BEND",
+      "count": 16
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 16
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "count": 1
+    },
+    {
+      "state": "CT",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 19,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Computer Systems Engineers/Architects",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 82000.0,
+    "gap_usd": -36000.0
+  }
+}

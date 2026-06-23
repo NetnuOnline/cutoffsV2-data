@@ -1,0 +1,253 @@
+{
+  "slug": "emergent-biosolutions",
+  "canonical_name": "Emergent BioSolutions Inc.",
+  "fein": "14-1902018",
+  "lca_filing_count": 5,
+  "warn_notice_count": 7,
+  "median_wage_usd": 160000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 242500.0
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 160000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 117915.2
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Director, Global Medical Affairs",
+      "count": 2,
+      "median_wage_usd": 242500.0
+    },
+    {
+      "title": "Sr. Business Analyst, FTF",
+      "count": 2,
+      "median_wage_usd": 160000.0
+    },
+    {
+      "title": "Specialist, Quality Assurance",
+      "count": 1,
+      "median_wage_usd": 117915.2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MD",
+      "count": 5
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MD",
+      "county": "MONTGOMERY",
+      "count": 5
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "08/26/2024",
+      "effective_date": "08/26/2024",
+      "state": "MI",
+      "workers": 68,
+      "city": "Lansing"
+    },
+    {
+      "date": "08/25/2024",
+      "effective_date": "10/25/2024",
+      "state": "MI",
+      "workers": 68,
+      "city": "Lansing, Michigan"
+    },
+    {
+      "date": "05/16/2024",
+      "effective_date": "08/02/2024",
+      "state": "MD",
+      "workers": 86,
+      "city": "Rockville"
+    },
+    {
+      "date": "05/02/2024",
+      "effective_date": "07/01/2024",
+      "state": "MD",
+      "workers": 154,
+      "city": "Gaithersburg"
+    },
+    {
+      "date": "08/08/2023",
+      "effective_date": "10/07/2023",
+      "state": "MD",
+      "workers": 20,
+      "city": "Rockville"
+    },
+    {
+      "date": "08/08/2023",
+      "effective_date": "10/07/2023",
+      "state": "MD",
+      "workers": 211,
+      "city": "Baltimore"
+    },
+    {
+      "date": "08/08/2023",
+      "effective_date": "08/08/2023",
+      "state": "MA",
+      "workers": 86,
+      "city": "Canton"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "baltimore-city-wia",
+      "name": "Baltimore City WIA",
+      "state": "MD"
+    },
+    {
+      "slug": "montgomery-wia",
+      "name": "Montgomery WIA",
+      "state": "MD"
+    },
+    {
+      "slug": "metro-southwest-wia",
+      "name": "Metro South/West WIA",
+      "state": "MA"
+    },
+    {
+      "slug": "capital-area-michigan-works",
+      "name": "Capital Area Michigan Works!",
+      "state": "MI"
+    }
+  ],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2024-05-01",
+        "formType": "8-K",
+        "accessionNumber": "0001367644-24-000058",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001367644&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2023-08-08",
+        "formType": "8-K",
+        "accessionNumber": "0001367644-23-000148",
+        "items": [
+          "2.05",
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities",
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001367644&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2023-01-09",
+        "formType": "8-K",
+        "accessionNumber": "0001367644-23-000004",
+        "items": [
+          "2.05",
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities",
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001367644&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2015-12-04",
+        "formType": "8-K",
+        "accessionNumber": "0001367644-15-000049",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001367644&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 4,
+    "itemCounts": {
+      "2.05": 3,
+      "5.02": 3
+    },
+    "latestFilingDate": "2024-05-01",
+    "earliestFilingDate": "2015-12-04"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 1,
+    "continuing_denials": 0,
+    "total_approvals": 1,
+    "by_fy": [
+      {
+        "fy": 2010,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2011,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2012,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2013,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2015,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": []
+}

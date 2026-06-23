@@ -1,0 +1,794 @@
+{
+  "slug": "hooters",
+  "canonical_name": "Hooters",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 92,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 53
+    },
+    {
+      "state": "FL",
+      "count": 11
+    },
+    {
+      "state": "VA",
+      "count": 8
+    },
+    {
+      "state": "MD",
+      "count": 4
+    },
+    {
+      "state": "IN",
+      "count": 2
+    },
+    {
+      "state": "MN",
+      "count": 1
+    },
+    {
+      "state": "AZ",
+      "count": 1
+    },
+    {
+      "state": "TN",
+      "count": 1
+    },
+    {
+      "state": "AL",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "03/22/2026",
+      "effective_date": "03/22/2026",
+      "state": "MN",
+      "workers": 1,
+      "city": "Bloomington"
+    },
+    {
+      "date": "08/05/2025",
+      "effective_date": "08/05/2025",
+      "state": "AZ",
+      "workers": 15,
+      "city": "Yuma"
+    },
+    {
+      "date": "05/15/2020",
+      "effective_date": "03/16/2020",
+      "state": "MD",
+      "workers": 17,
+      "city": "Waldorf"
+    },
+    {
+      "date": "05/15/2020",
+      "effective_date": "03/16/2020",
+      "state": "MD",
+      "workers": 18,
+      "city": "Laurel"
+    },
+    {
+      "date": "05/15/2020",
+      "effective_date": "03/16/2020",
+      "state": "MD",
+      "workers": 18,
+      "city": "Hyattsville"
+    },
+    {
+      "date": "05/15/2020",
+      "effective_date": "03/16/2020",
+      "state": "MD",
+      "workers": 18,
+      "city": "Baltimore"
+    },
+    {
+      "date": "04/17/2020",
+      "effective_date": "03/16/2020",
+      "state": "TN",
+      "workers": 629,
+      "city": "Montgomery, Davidson, Rutherford, Sumner, Blount, Hamilton, Washington, Knox, and Shelby County"
+    },
+    {
+      "date": "04/14/2020",
+      "effective_date": "03/20/2020",
+      "state": "AL",
+      "workers": 90,
+      "city": null
+    },
+    {
+      "date": "04/13/2020",
+      "effective_date": "04/13/2020",
+      "state": "MI",
+      "workers": 85,
+      "city": "Atlanta"
+    },
+    {
+      "date": "04/10/2020",
+      "effective_date": "03/16/2020",
+      "state": "WI",
+      "workers": 61,
+      "city": "Madison, Brookfield"
+    },
+    {
+      "date": "04/07/2020",
+      "effective_date": "03/20/2020",
+      "state": "MO",
+      "workers": 321,
+      "city": null
+    },
+    {
+      "date": "04/07/2020",
+      "effective_date": "03/16/2020",
+      "state": "OH",
+      "workers": 134,
+      "city": "Various Cities/Various Counties"
+    },
+    {
+      "date": "04/06/2020",
+      "effective_date": "03/16/2020",
+      "state": "KY",
+      "workers": 293,
+      "city": "Out of the Area County"
+    },
+    {
+      "date": "03/27/2020",
+      "effective_date": "03/23/2020",
+      "state": "FL",
+      "workers": 60,
+      "city": "MADEIRA BEACH"
+    },
+    {
+      "date": "03/27/2020",
+      "effective_date": "03/23/2020",
+      "state": "FL",
+      "workers": 69,
+      "city": "CLEAR WATER"
+    },
+    {
+      "date": "03/27/2020",
+      "effective_date": "03/23/2020",
+      "state": "FL",
+      "workers": 34,
+      "city": "TAMPA"
+    },
+    {
+      "date": "03/27/2020",
+      "effective_date": "03/23/2020",
+      "state": "FL",
+      "workers": 36,
+      "city": "SAINT PETERSBURG"
+    },
+    {
+      "date": "03/27/2020",
+      "effective_date": "03/23/2020",
+      "state": "FL",
+      "workers": 40,
+      "city": "SPRING HILL"
+    },
+    {
+      "date": "03/27/2020",
+      "effective_date": "03/23/2020",
+      "state": "FL",
+      "workers": 58,
+      "city": "TAMPA"
+    },
+    {
+      "date": "03/27/2020",
+      "effective_date": "03/23/2020",
+      "state": "FL",
+      "workers": 105,
+      "city": "TAMPA"
+    },
+    {
+      "date": "03/27/2020",
+      "effective_date": "03/23/2020",
+      "state": "FL",
+      "workers": 100,
+      "city": "PORT RICHEY"
+    },
+    {
+      "date": "03/27/2020",
+      "effective_date": "03/23/2020",
+      "state": "FL",
+      "workers": 73,
+      "city": "TAMPA"
+    },
+    {
+      "date": "03/27/2020",
+      "effective_date": "03/23/2020",
+      "state": "FL",
+      "workers": 64,
+      "city": "CLEARWATER"
+    },
+    {
+      "date": "03/27/2020",
+      "effective_date": "03/23/2020",
+      "state": "FL",
+      "workers": 40,
+      "city": "SAINT PETERSBURG"
+    },
+    {
+      "date": "03/26/2020",
+      "effective_date": "03/23/2020",
+      "state": "IL",
+      "workers": 951,
+      "city": "Chicago"
+    },
+    {
+      "date": "03/24/2020",
+      "effective_date": "03/17/2020",
+      "state": "NY",
+      "workers": 86,
+      "city": "New York"
+    },
+    {
+      "date": "03/23/2020",
+      "effective_date": "03/31/2020",
+      "state": "TX",
+      "workers": 28,
+      "city": "Houston"
+    },
+    {
+      "date": "03/23/2020",
+      "effective_date": "03/20/2020",
+      "state": "IN",
+      "workers": 502,
+      "city": "Merrillville, Schererville, Portage, Mishawaka, Lafayette, Clarksville, Jeffersonville, Evansville and Indianapolis"
+    },
+    {
+      "date": "03/23/2020",
+      "effective_date": "03/20/2020",
+      "state": "VA",
+      "workers": 21,
+      "city": "Fredericksburg, VA"
+    },
+    {
+      "date": "03/23/2020",
+      "effective_date": "03/20/2020",
+      "state": "IN",
+      "workers": 502,
+      "city": "Merrillville, Schererville, Portage, Mishawaka, Lafayette, Clarksville,\n        Jeffersonville, Evansville and Indianapolis"
+    },
+    {
+      "date": "03/23/2020",
+      "effective_date": "03/16/2020",
+      "state": "TX",
+      "workers": 31,
+      "city": "Houston"
+    },
+    {
+      "date": "03/23/2020",
+      "effective_date": "03/16/2020",
+      "state": "TX",
+      "workers": 61,
+      "city": "San Marcos"
+    },
+    {
+      "date": "03/23/2020",
+      "effective_date": "03/16/2020",
+      "state": "TX",
+      "workers": 80,
+      "city": "Round Rock"
+    },
+    {
+      "date": "03/23/2020",
+      "effective_date": "03/16/2020",
+      "state": "TX",
+      "workers": 69,
+      "city": "Odessa"
+    },
+    {
+      "date": "03/23/2020",
+      "effective_date": "03/16/2020",
+      "state": "TX",
+      "workers": 39,
+      "city": "Laredo"
+    },
+    {
+      "date": "03/23/2020",
+      "effective_date": "03/16/2020",
+      "state": "TX",
+      "workers": 37,
+      "city": "Beaumont"
+    },
+    {
+      "date": "03/23/2020",
+      "effective_date": "03/16/2020",
+      "state": "TX",
+      "workers": 45,
+      "city": "Stafford"
+    },
+    {
+      "date": "03/23/2020",
+      "effective_date": "03/16/2020",
+      "state": "TX",
+      "workers": 47,
+      "city": "Amarillo"
+    },
+    {
+      "date": "03/23/2020",
+      "effective_date": "03/16/2020",
+      "state": "TX",
+      "workers": 46,
+      "city": "Baytown"
+    },
+    {
+      "date": "03/23/2020",
+      "effective_date": "03/16/2020",
+      "state": "TX",
+      "workers": 60,
+      "city": "Arlington"
+    },
+    {
+      "date": "03/23/2020",
+      "effective_date": "03/16/2020",
+      "state": "TX",
+      "workers": 46,
+      "city": "Webster"
+    },
+    {
+      "date": "03/23/2020",
+      "effective_date": "03/16/2020",
+      "state": "TX",
+      "workers": 44,
+      "city": "Seabrook"
+    },
+    {
+      "date": "03/23/2020",
+      "effective_date": "03/16/2020",
+      "state": "TX",
+      "workers": 51,
+      "city": "Pearland"
+    },
+    {
+      "date": "03/23/2020",
+      "effective_date": "03/16/2020",
+      "state": "TX",
+      "workers": 62,
+      "city": "Pasadena"
+    },
+    {
+      "date": "03/23/2020",
+      "effective_date": "03/16/2020",
+      "state": "TX",
+      "workers": 53,
+      "city": "Humble"
+    },
+    {
+      "date": "03/23/2020",
+      "effective_date": "03/16/2020",
+      "state": "TX",
+      "workers": 531,
+      "city": "Katy"
+    },
+    {
+      "date": "03/23/2020",
+      "effective_date": "03/16/2020",
+      "state": "TX",
+      "workers": 37,
+      "city": "Houston"
+    },
+    {
+      "date": "03/23/2020",
+      "effective_date": "03/16/2020",
+      "state": "TX",
+      "workers": 36,
+      "city": "Waco"
+    },
+    {
+      "date": "03/23/2020",
+      "effective_date": "03/16/2020",
+      "state": "TX",
+      "workers": 50,
+      "city": "McAllen"
+    },
+    {
+      "date": "03/23/2020",
+      "effective_date": "03/16/2020",
+      "state": "TX",
+      "workers": 37,
+      "city": "McKinney"
+    },
+    {
+      "date": "03/23/2020",
+      "effective_date": "03/16/2020",
+      "state": "TX",
+      "workers": 51,
+      "city": "Lewisville"
+    },
+    {
+      "date": "03/23/2020",
+      "effective_date": "03/16/2020",
+      "state": "TX",
+      "workers": 54,
+      "city": "Denton"
+    },
+    {
+      "date": "03/23/2020",
+      "effective_date": "03/16/2020",
+      "state": "TX",
+      "workers": 31,
+      "city": "Wichita Falls"
+    },
+    {
+      "date": "03/23/2020",
+      "effective_date": "03/16/2020",
+      "state": "TX",
+      "workers": 36,
+      "city": "Plano"
+    },
+    {
+      "date": "03/23/2020",
+      "effective_date": "03/16/2020",
+      "state": "TX",
+      "workers": 40,
+      "city": "Abilene"
+    },
+    {
+      "date": "03/23/2020",
+      "effective_date": "03/16/2020",
+      "state": "TX",
+      "workers": 45,
+      "city": "Cedar Hill"
+    },
+    {
+      "date": "03/23/2020",
+      "effective_date": "03/16/2020",
+      "state": "TX",
+      "workers": 64,
+      "city": "Arlington"
+    },
+    {
+      "date": "03/23/2020",
+      "effective_date": "03/16/2020",
+      "state": "TX",
+      "workers": 33,
+      "city": "Texarkana"
+    },
+    {
+      "date": "03/23/2020",
+      "effective_date": "03/16/2020",
+      "state": "TX",
+      "workers": 75,
+      "city": "El Paso"
+    },
+    {
+      "date": "03/23/2020",
+      "effective_date": "03/16/2020",
+      "state": "TX",
+      "workers": 50,
+      "city": "Richland Hills"
+    },
+    {
+      "date": "03/23/2020",
+      "effective_date": "03/16/2020",
+      "state": "TX",
+      "workers": 49,
+      "city": "Grapevine"
+    },
+    {
+      "date": "03/23/2020",
+      "effective_date": "03/16/2020",
+      "state": "TX",
+      "workers": 50,
+      "city": "Fort Worth"
+    },
+    {
+      "date": "03/23/2020",
+      "effective_date": "03/16/2020",
+      "state": "TX",
+      "workers": 20,
+      "city": "Fort Worth"
+    },
+    {
+      "date": "03/23/2020",
+      "effective_date": "03/16/2020",
+      "state": "TX",
+      "workers": 26,
+      "city": "Frisco"
+    },
+    {
+      "date": "03/23/2020",
+      "effective_date": "03/16/2020",
+      "state": "TX",
+      "workers": 52,
+      "city": "Kirby"
+    },
+    {
+      "date": "03/23/2020",
+      "effective_date": "03/16/2020",
+      "state": "TX",
+      "workers": 63,
+      "city": "Galveston"
+    },
+    {
+      "date": "03/23/2020",
+      "effective_date": "03/16/2020",
+      "state": "TX",
+      "workers": 58,
+      "city": "Mesquite"
+    },
+    {
+      "date": "03/23/2020",
+      "effective_date": "03/16/2020",
+      "state": "TX",
+      "workers": 36,
+      "city": "Irving"
+    },
+    {
+      "date": "03/23/2020",
+      "effective_date": "03/16/2020",
+      "state": "TX",
+      "workers": 50,
+      "city": "Irving"
+    },
+    {
+      "date": "03/23/2020",
+      "effective_date": "03/16/2020",
+      "state": "TX",
+      "workers": 66,
+      "city": "Grand Prairie"
+    },
+    {
+      "date": "03/23/2020",
+      "effective_date": "03/16/2020",
+      "state": "TX",
+      "workers": 42,
+      "city": "Garland"
+    },
+    {
+      "date": "03/23/2020",
+      "effective_date": "03/16/2020",
+      "state": "TX",
+      "workers": 80,
+      "city": "Dallas"
+    },
+    {
+      "date": "03/23/2020",
+      "effective_date": "03/16/2020",
+      "state": "TX",
+      "workers": 40,
+      "city": "San Antonio"
+    },
+    {
+      "date": "03/23/2020",
+      "effective_date": "03/16/2020",
+      "state": "TX",
+      "workers": 51,
+      "city": "Corpus Christi"
+    },
+    {
+      "date": "03/23/2020",
+      "effective_date": "03/16/2020",
+      "state": "TX",
+      "workers": 61,
+      "city": "Harlingen"
+    },
+    {
+      "date": "03/23/2020",
+      "effective_date": "03/16/2020",
+      "state": "TX",
+      "workers": 53,
+      "city": "Bryan"
+    },
+    {
+      "date": "03/23/2020",
+      "effective_date": "03/16/2020",
+      "state": "TX",
+      "workers": 36,
+      "city": "Selma"
+    },
+    {
+      "date": "03/23/2020",
+      "effective_date": "03/16/2020",
+      "state": "TX",
+      "workers": 35,
+      "city": "San Antonio"
+    },
+    {
+      "date": "03/23/2020",
+      "effective_date": "03/16/2020",
+      "state": "TX",
+      "workers": 46,
+      "city": "San Antonio"
+    },
+    {
+      "date": "03/23/2020",
+      "effective_date": "03/16/2020",
+      "state": "TX",
+      "workers": 59,
+      "city": "San Antonio"
+    },
+    {
+      "date": "03/23/2020",
+      "effective_date": "03/16/2020",
+      "state": "TX",
+      "workers": 36,
+      "city": "Addison"
+    },
+    {
+      "date": "03/23/2020",
+      "effective_date": "03/16/2020",
+      "state": "VA",
+      "workers": 56,
+      "city": "Richmond, VA"
+    },
+    {
+      "date": "03/23/2020",
+      "effective_date": "03/16/2020",
+      "state": "VA",
+      "workers": 10,
+      "city": "Midlothian, VA"
+    },
+    {
+      "date": "03/23/2020",
+      "effective_date": "03/16/2020",
+      "state": "VA",
+      "workers": 46,
+      "city": "Chester, VA"
+    },
+    {
+      "date": "03/23/2020",
+      "effective_date": "03/16/2020",
+      "state": "VA",
+      "workers": 45,
+      "city": "Woodbridge, VA"
+    },
+    {
+      "date": "03/23/2020",
+      "effective_date": "03/16/2020",
+      "state": "VA",
+      "workers": 45,
+      "city": "Manassas, VA"
+    },
+    {
+      "date": "03/23/2020",
+      "effective_date": "03/16/2020",
+      "state": "VA",
+      "workers": 45,
+      "city": "Fairfax, VA"
+    },
+    {
+      "date": "03/23/2020",
+      "effective_date": "03/16/2020",
+      "state": "VA",
+      "workers": 45,
+      "city": "Chantilly, VA"
+    },
+    {
+      "date": "03/23/2020",
+      "effective_date": "03/13/2020",
+      "state": "TX",
+      "workers": 47,
+      "city": "San Angelo"
+    },
+    {
+      "date": "03/23/2020",
+      "effective_date": "03/23/2020",
+      "state": "NE",
+      "workers": 55,
+      "city": null
+    },
+    {
+      "date": "03/16/2020",
+      "effective_date": "03/16/2020",
+      "state": "GA",
+      "workers": 414,
+      "city": "Atlanta"
+    },
+    {
+      "date": "03/20/2019",
+      "effective_date": "05/19/2019",
+      "state": "DC",
+      "workers": 55,
+      "city": "Washington D.C."
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "careersource-pasco-hernando",
+      "name": "CareerSource Pasco Hernando",
+      "state": "FL"
+    },
+    {
+      "slug": "mid-maryland-wia",
+      "name": "MID-Maryland WIA",
+      "state": "MD"
+    },
+    {
+      "slug": "southern-maryland-wia",
+      "name": "Southern Maryland WIA",
+      "state": "MD"
+    },
+    {
+      "slug": "northeast-michigan-consortium",
+      "name": "Northeast Michigan Consortium",
+      "state": "MI"
+    },
+    {
+      "slug": "panhandle-wda",
+      "name": "Panhandle WDA",
+      "state": "TX"
+    },
+    {
+      "slug": "north-texas-wda",
+      "name": "North Texas WDA",
+      "state": "TX"
+    },
+    {
+      "slug": "north-east-wda",
+      "name": "North East WDA",
+      "state": "TX"
+    },
+    {
+      "slug": "west-central-wda-tx",
+      "name": "West Central WDA",
+      "state": "TX"
+    },
+    {
+      "slug": "upper-rio-grande-wda",
+      "name": "Upper Rio Grande WDA",
+      "state": "TX"
+    },
+    {
+      "slug": "concho-valley-wda",
+      "name": "Concho Valley WDA",
+      "state": "TX"
+    },
+    {
+      "slug": "heart-of-texas-wda",
+      "name": "Heart of Texas WDA",
+      "state": "TX"
+    },
+    {
+      "slug": "brazos-valley-wda",
+      "name": "Brazos Valley WDA",
+      "state": "TX"
+    },
+    {
+      "slug": "south-east-texas-wda",
+      "name": "South East Texas WDA",
+      "state": "TX"
+    },
+    {
+      "slug": "south-texas-wda",
+      "name": "South Texas WDA",
+      "state": "TX"
+    },
+    {
+      "slug": "coastal-bend-wda",
+      "name": "Coastal Bend WDA",
+      "state": "TX"
+    },
+    {
+      "slug": "lower-rio-grande-wda",
+      "name": "Lower Rio Grande WDA",
+      "state": "TX"
+    },
+    {
+      "slug": "cameron-county-wda",
+      "name": "Cameron County WDA",
+      "state": "TX"
+    },
+    {
+      "slug": "bay-consortium-lwia-xiii",
+      "name": "Bay Consortium LWIA XIII",
+      "state": "VA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

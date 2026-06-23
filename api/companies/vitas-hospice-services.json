@@ -1,0 +1,72 @@
+{
+  "slug": "vitas-hospice-services",
+  "canonical_name": "Vitas Hospice Services, LLC.",
+  "fein": "65-1094331",
+  "lca_filing_count": 13,
+  "lca_worker_positions": 13,
+  "warn_notice_count": 0,
+  "median_wage_usd": 111000.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 3,
+      "median_wage_usd": 82000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 90000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 8,
+      "median_wage_usd": 111000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 111000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 11,
+      "median_wage_usd": 111000.0
+    },
+    {
+      "title": "Computer Software Engineer",
+      "count": 1,
+      "median_wage_usd": 82000.0
+    },
+    {
+      "title": "Business Analyst",
+      "count": 1,
+      "median_wage_usd": 85000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "FL",
+      "county": "MIAMI-DADE",
+      "count": 4
+    }
+  ],
+  "top_states": [
+    {
+      "state": "FL",
+      "count": 13
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 111000.0,
+    "gap_usd": -19160.0
+  }
+}

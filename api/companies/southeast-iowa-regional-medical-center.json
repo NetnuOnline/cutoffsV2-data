@@ -1,0 +1,86 @@
+{
+  "slug": "southeast-iowa-regional-medical-center",
+  "canonical_name": "Southeast Iowa Regional Medical Center, Inc.",
+  "fein": "42-0680407",
+  "lca_filing_count": 11,
+  "warn_notice_count": 3,
+  "median_wage_usd": 70740.8,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 10,
+      "median_wage_usd": 69130.67
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 70740.8
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Medical Technologist",
+      "count": 6,
+      "median_wage_usd": 61526.399999999994
+    },
+    {
+      "title": "Core Laboratory Supervisor",
+      "count": 4,
+      "median_wage_usd": 80732.97
+    },
+    {
+      "title": "Occupational Therapist",
+      "count": 1,
+      "median_wage_usd": 81286.4
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IA",
+      "count": 11
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IA",
+      "county": "DES MOINES",
+      "count": 10
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "12/19/2023",
+      "effective_date": "02/23/2024",
+      "state": "IA",
+      "workers": 11,
+      "city": "Fort Madison"
+    },
+    {
+      "date": "12/19/2023",
+      "effective_date": "02/23/2024",
+      "state": "IA",
+      "workers": 11,
+      "city": "West Burlington"
+    },
+    {
+      "date": "12/19/2023",
+      "effective_date": "02/23/2024",
+      "state": "IA",
+      "workers": 45,
+      "city": "West Burlington"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "region-16-burlington-wib",
+      "name": "Region 16 - Burlington WIB",
+      "state": "IA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "lca_worker_positions": 15,
+  "top_socs": [],
+  "lca_periods": []
+}

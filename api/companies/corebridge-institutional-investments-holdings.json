@@ -1,0 +1,84 @@
+{
+  "slug": "corebridge-institutional-investments-holdings",
+  "canonical_name": "COREBRIDGE INSTITUTIONAL INVESTMENTS HOLDINGS CORP.",
+  "fein": "13-3870953",
+  "lca_filing_count": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 145712.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 153982.0
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 140000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Assistant Vice President II, Software Development",
+      "count": 2,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "title": "Assistant Vice President I, Software Engineering ",
+      "count": 1,
+      "median_wage_usd": 151424.0
+    },
+    {
+      "title": "Senior Application Developer",
+      "count": 1,
+      "median_wage_usd": 153982.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NC",
+      "county": "UNION",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 1
+    },
+    {
+      "state": "CT",
+      "county": "FAIRFIELD",
+      "count": 1
+    },
+    {
+      "state": "CT",
+      "county": "WILTON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CT",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 151424.0,
+    "gap_usd": 21264.0
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "slug": "doubleverify",
+  "canonical_name": "DoubleVerify Inc.",
+  "fein": "26-2837597",
+  "lca_filing_count": 27,
+  "lca_worker_positions": 26,
+  "warn_notice_count": 0,
+  "median_wage_usd": 160805.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 139945.0
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 6,
+      "median_wage_usd": 165095.625
+    },
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 171050.0
+    },
+    {
+      "fy": 2025,
+      "filings": 6,
+      "median_wage_usd": 157902.5
+    },
+    {
+      "fy": 2026,
+      "filings": 6,
+      "median_wage_usd": 189592.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Sr. Data Engineer",
+      "count": 2,
+      "median_wage_usd": 165095.625
+    },
+    {
+      "title": "Sr. Product Analyst, Advertiser Analytics",
+      "count": 2,
+      "median_wage_usd": 163750.0
+    },
+    {
+      "title": "Sr. Engineering Manager",
+      "count": 1,
+      "median_wage_usd": 204413.4
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 1,
+      "median_wage_usd": 160805.0
+    },
+    {
+      "title": "Product Manager - Attention",
+      "count": 1,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "title": "Site Reliability Engineer II",
+      "count": 1,
+      "median_wage_usd": 132225.0
+    },
+    {
+      "title": "Staff Software Engineer, SteamingTV",
+      "count": 1,
+      "median_wage_usd": 189592.0
+    },
+    {
+      "title": "Director of Engineering",
+      "count": 1,
+      "median_wage_usd": 230000.0
+    },
+    {
+      "title": "Senior Software Engineer II, Programmatic",
+      "count": 1,
+      "median_wage_usd": 185000.0
+    },
+    {
+      "title": "Sr. Product Analyst",
+      "count": 1,
+      "median_wage_usd": 150000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 13
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "county": "UNION",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 24
+    },
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "NC",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 180050.0,
+    "gap_usd": 49890.0
+  }
+}

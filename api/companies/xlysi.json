@@ -1,0 +1,169 @@
+{
+  "slug": "xlysi",
+  "canonical_name": "XLYSI, LLC",
+  "fein": "20-5123774",
+  "lca_filing_count": 13,
+  "lca_worker_positions": 13,
+  "warn_notice_count": 0,
+  "median_wage_usd": 102690.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 3,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 70000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 102690.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 107000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 96187.5
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 114100.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 5,
+      "median_wage_usd": 114026.0
+    },
+    {
+      "title": "Network Engineer",
+      "count": 2,
+      "median_wage_usd": 86500.0
+    },
+    {
+      "title": "Systems Engineer",
+      "count": 1,
+      "median_wage_usd": 112000.0
+    },
+    {
+      "title": "Information Security Engineer",
+      "count": 1,
+      "median_wage_usd": 80375.0
+    },
+    {
+      "title": "Systems Adminisrtator",
+      "count": 1,
+      "median_wage_usd": 70000.0
+    },
+    {
+      "title": "SR. NETWORK ENGINEER",
+      "count": 1,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "title": "Data Scientist",
+      "count": 1,
+      "median_wage_usd": 114100.0
+    },
+    {
+      "title": "Full Stack Java Developer",
+      "count": 1,
+      "median_wage_usd": 107000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "DC",
+      "county": "DISTRICT OF COLUMBIA",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "county": "LAKE",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 1
+    },
+    {
+      "state": "MD",
+      "county": "HOWARD",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "county": "MONTGOMERY",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "county": "COBB",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 3
+    },
+    {
+      "state": "DC",
+      "count": 2
+    },
+    {
+      "state": "MA",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "count": 1
+    },
+    {
+      "state": "MD",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 110513.0,
+    "gap_usd": -19647.0
+  }
+}

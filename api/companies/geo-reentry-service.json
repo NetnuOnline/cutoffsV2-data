@@ -1,0 +1,61 @@
+{
+  "slug": "geo-reentry-service",
+  "canonical_name": "GEO Reentry Service LLC",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 4,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 3
+    },
+    {
+      "state": "CO",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "10/23/2023",
+      "effective_date": "01/18/2024",
+      "state": "NJ",
+      "workers": 107,
+      "city": "Newark"
+    },
+    {
+      "date": "05/03/2022",
+      "effective_date": "06/30/2022",
+      "state": "NJ",
+      "workers": 124,
+      "city": "Trenton"
+    },
+    {
+      "date": "01/07/2020",
+      "effective_date": "03/06/2020",
+      "state": "CO",
+      "workers": 196,
+      "city": "Pikes Peak (Colo Springs)"
+    },
+    {
+      "date": "06/08/2018",
+      "effective_date": "06/08/2018",
+      "state": "NJ",
+      "workers": 54,
+      "city": "Newark"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "essex-wib",
+      "name": "Essex WIB",
+      "state": "NJ"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

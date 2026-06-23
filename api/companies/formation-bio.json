@@ -1,0 +1,49 @@
+{
+  "slug": "formation-bio",
+  "canonical_name": "Formation Bio, Inc.",
+  "fein": "47-1134239",
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 214000.0,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 214000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Software Engineer-Product",
+      "count": 1,
+      "median_wage_usd": 213000.0
+    },
+    {
+      "title": "Senior Machine Learning Engineer I, AI Foundations",
+      "count": 1,
+      "median_wage_usd": 215000.0
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 215000.0,
+    "gap_usd": 106980.0
+  }
+}

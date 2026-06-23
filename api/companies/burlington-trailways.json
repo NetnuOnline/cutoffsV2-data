@@ -1,0 +1,97 @@
+{
+  "slug": "burlington-trailways",
+  "canonical_name": "Burlington Trailways",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 7,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "IA",
+      "count": 6
+    },
+    {
+      "state": "NE",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "09/19/2025",
+      "effective_date": "09/19/2025",
+      "state": "NE",
+      "workers": 11,
+      "city": null
+    },
+    {
+      "date": "09/18/2025",
+      "effective_date": "10/18/2025",
+      "state": "IA",
+      "workers": 8,
+      "city": "Des Moines"
+    },
+    {
+      "date": "09/18/2025",
+      "effective_date": "10/18/2025",
+      "state": "IA",
+      "workers": 5,
+      "city": "Cedar Rapids"
+    },
+    {
+      "date": "09/18/2025",
+      "effective_date": "10/18/2025",
+      "state": "IA",
+      "workers": 7,
+      "city": "Davenport"
+    },
+    {
+      "date": "09/18/2025",
+      "effective_date": "10/18/2025",
+      "state": "IA",
+      "workers": 6,
+      "city": "Davenport"
+    },
+    {
+      "date": "09/18/2025",
+      "effective_date": "10/18/2025",
+      "state": "IA",
+      "workers": 6,
+      "city": "Burlington"
+    },
+    {
+      "date": "09/18/2025",
+      "effective_date": "10/18/2025",
+      "state": "IA",
+      "workers": 47,
+      "city": "West Burlington"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "region-9-davenport-wib",
+      "name": "Region 9 - Davenport WIB",
+      "state": "IA"
+    },
+    {
+      "slug": "region-10-cedar-rapids-wib",
+      "name": "Region 10 - Cedar Rapids WIB",
+      "state": "IA"
+    },
+    {
+      "slug": "region-11-des-moines-wib",
+      "name": "Region 11 - Des Moines WIB",
+      "state": "IA"
+    },
+    {
+      "slug": "region-16-burlington-wib",
+      "name": "Region 16 - Burlington WIB",
+      "state": "IA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

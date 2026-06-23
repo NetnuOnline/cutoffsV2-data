@@ -1,0 +1,43 @@
+{
+  "slug": "blake-international",
+  "canonical_name": "Blake International",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "LA",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "10/09/2009",
+      "effective_date": "10/07/2009",
+      "state": "LA",
+      "workers": 49,
+      "city": "410 South Van Avenue Houma, LA 70361"
+    },
+    {
+      "date": "05/07/2008",
+      "effective_date": "05/23/2008",
+      "state": "LA",
+      "workers": 245,
+      "city": "Houma"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "lafourche-parish-wia",
+      "name": "Lafourche Parish WIA",
+      "state": "LA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

@@ -1,0 +1,51 @@
+{
+  "slug": "arkansas-department-of-health",
+  "canonical_name": "Arkansas Department of Health",
+  "fein": "71-0847443",
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 105131.59,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 105131.585
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Database Administrator",
+      "count": 1,
+      "median_wage_usd": 73632.0
+    },
+    {
+      "title": "DFA IT Technical Specialist",
+      "count": 1,
+      "median_wage_usd": 136631.17
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "AR",
+      "county": "PULASKI",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "AR",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 136631.17,
+    "gap_usd": 6471.17
+  }
+}

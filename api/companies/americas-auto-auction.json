@@ -1,0 +1,161 @@
+{
+  "slug": "americas-auto-auction",
+  "canonical_name": "America's Auto Auction",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 12,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 3
+    },
+    {
+      "state": "FL",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "count": 2
+    },
+    {
+      "state": "OH",
+      "count": 1
+    },
+    {
+      "state": "MO",
+      "count": 1
+    },
+    {
+      "state": "KY",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "04/13/2020",
+      "effective_date": "03/17/2020",
+      "state": "TX",
+      "workers": 1,
+      "city": "Buda"
+    },
+    {
+      "date": "03/30/2020",
+      "effective_date": "03/23/2020",
+      "state": "OH",
+      "workers": 127,
+      "city": "Perrysburg/Wood"
+    },
+    {
+      "date": "03/30/2020",
+      "effective_date": "03/17/2020",
+      "state": "MO",
+      "workers": 62,
+      "city": "Kansas City"
+    },
+    {
+      "date": "03/30/2020",
+      "effective_date": "03/17/2020",
+      "state": "KY",
+      "workers": 0,
+      "city": "Warren"
+    },
+    {
+      "date": "03/30/2020",
+      "effective_date": "03/17/2020",
+      "state": "FL",
+      "workers": 42,
+      "city": "JACKSONVILLE"
+    },
+    {
+      "date": "03/30/2020",
+      "effective_date": "03/17/2020",
+      "state": "FL",
+      "workers": 9,
+      "city": "PENSACOLA"
+    },
+    {
+      "date": "03/23/2020",
+      "effective_date": "03/23/2020",
+      "state": "VA",
+      "workers": 53,
+      "city": "Virginia Beach, VA"
+    },
+    {
+      "date": "03/23/2020",
+      "effective_date": "03/17/2020",
+      "state": "TX",
+      "workers": 58,
+      "city": "Houston"
+    },
+    {
+      "date": "03/23/2020",
+      "effective_date": "03/17/2020",
+      "state": "TX",
+      "workers": 17,
+      "city": "Conroe"
+    },
+    {
+      "date": "03/23/2020",
+      "effective_date": "03/01/2020",
+      "state": "IL",
+      "workers": 87,
+      "city": "Akron"
+    },
+    {
+      "date": "03/23/2020",
+      "effective_date": "03/23/2020",
+      "state": "IL",
+      "workers": 0,
+      "city": "East Saint Louis"
+    },
+    {
+      "date": "03/17/2020",
+      "effective_date": "03/17/2020",
+      "state": "GA",
+      "workers": 65,
+      "city": "Cartersville"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "careersource-escarosa",
+      "name": "CareerSource Escarosa",
+      "state": "FL"
+    },
+    {
+      "slug": "northwest-georgia-wib",
+      "name": "Northwest Georgia WIB",
+      "state": "GA"
+    },
+    {
+      "slug": "mid-america-wib",
+      "name": "Mid America WIB",
+      "state": "IL"
+    },
+    {
+      "slug": "kansas-city-vicinity-region-wib",
+      "name": "Kansas City Vicinity Region WIB",
+      "state": "MO"
+    },
+    {
+      "slug": "rural-capital-wda",
+      "name": "Rural Capital WDA",
+      "state": "TX"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

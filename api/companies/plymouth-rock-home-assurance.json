@@ -1,0 +1,101 @@
+{
+  "slug": "plymouth-rock-home-assurance",
+  "canonical_name": "Plymouth Rock Home Assurance Corporation",
+  "fein": "04-3292991",
+  "lca_filing_count": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 134833.5,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 112000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 85000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 157667.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 188388.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Data Scientist",
+      "count": 1,
+      "median_wage_usd": 112000.0
+    },
+    {
+      "title": "Marketing Data Analyst",
+      "count": 1,
+      "median_wage_usd": 85000.0
+    },
+    {
+      "title": "Manager of Claims Analytics",
+      "count": 1,
+      "median_wage_usd": 188388.0
+    },
+    {
+      "title": "Analytics and Business Intelligence Manager",
+      "count": 1,
+      "median_wage_usd": 157667.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MA",
+      "county": "BOSTON CITY",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MA",
+      "count": 4
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 2,
+    "initial_denials": 0,
+    "continuing_approvals": 5,
+    "continuing_denials": 0,
+    "total_approvals": 7,
+    "by_fy": [
+      {
+        "fy": 2021,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 5
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      }
+    ]
+  },
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Business Intelligence Analysts",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 157667.0,
+    "gap_usd": 49647.0
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "slug": "blue-cross-and-blue-shield-of-alabama",
+  "canonical_name": "Blue Cross and Blue Shield of Alabama",
+  "fein": "63-0103830",
+  "lca_filing_count": 37,
+  "lca_worker_positions": 37,
+  "warn_notice_count": 0,
+  "median_wage_usd": 107000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 92026.5
+    },
+    {
+      "fy": 2021,
+      "filings": 8,
+      "median_wage_usd": 90500.0
+    },
+    {
+      "fy": 2022,
+      "filings": 4,
+      "median_wage_usd": 90248.705
+    },
+    {
+      "fy": 2023,
+      "filings": 4,
+      "median_wage_usd": 105761.075
+    },
+    {
+      "fy": 2024,
+      "filings": 6,
+      "median_wage_usd": 108140.45
+    },
+    {
+      "fy": 2025,
+      "filings": 9,
+      "median_wage_usd": 115752.0
+    },
+    {
+      "fy": 2026,
+      "filings": 4,
+      "median_wage_usd": 114031.66500000001,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Application Systems Analyst/Programmer",
+      "count": 9,
+      "median_wage_usd": 107000.0
+    },
+    {
+      "title": "Sr. Application Systems Analyst/Programmer",
+      "count": 6,
+      "median_wage_usd": 114031.66500000001
+    },
+    {
+      "title": "Business Intelligence Developer",
+      "count": 4,
+      "median_wage_usd": 87537.265
+    },
+    {
+      "title": "Lead Application Systems Analyst/Programmer",
+      "count": 2,
+      "median_wage_usd": 119140.16
+    },
+    {
+      "title": "Quality Assurance Analyst III",
+      "count": 2,
+      "median_wage_usd": 87500.0
+    },
+    {
+      "title": "Application Systems Analyst/Programmer III",
+      "count": 2,
+      "median_wage_usd": 91500.0
+    },
+    {
+      "title": "Senior Applications System Analyst/Programmer",
+      "count": 2,
+      "median_wage_usd": 105306.8
+    },
+    {
+      "title": "Systems Engineer III",
+      "count": 1,
+      "median_wage_usd": 119858.51
+    },
+    {
+      "title": "Senior Analytics Consultant",
+      "count": 1,
+      "median_wage_usd": 72862.0
+    },
+    {
+      "title": " Senior Application Systems Analyst/Programmer",
+      "count": 1,
+      "median_wage_usd": 95403.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "AL",
+      "county": "JEFFERSON",
+      "count": 11
+    },
+    {
+      "state": "AL",
+      "county": "SHELBY",
+      "count": 4
+    },
+    {
+      "state": "GA",
+      "county": "FORSYTH",
+      "count": 2
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 2
+    },
+    {
+      "state": "GA",
+      "county": "COBB",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "AL",
+      "count": 21
+    },
+    {
+      "state": "TX",
+      "count": 10
+    },
+    {
+      "state": "GA",
+      "count": 5
+    },
+    {
+      "state": "NC",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 109235.64,
+    "gap_usd": -20924.36
+  }
+}

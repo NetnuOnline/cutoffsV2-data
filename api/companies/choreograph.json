@@ -1,0 +1,134 @@
+{
+  "slug": "choreograph",
+  "canonical_name": "Choreograph LLC",
+  "fein": "81-4965413",
+  "lca_filing_count": 18,
+  "lca_worker_positions": 18,
+  "warn_notice_count": 0,
+  "median_wage_usd": 158000.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 141000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 12,
+      "median_wage_usd": 144000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 210120.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 195000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Software Engineer, Backend",
+      "count": 4,
+      "median_wage_usd": 210120.0
+    },
+    {
+      "title": "Data Scientist",
+      "count": 3,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Jr. Data Scientist",
+      "count": 2,
+      "median_wage_usd": 85000.0
+    },
+    {
+      "title": "Director, Sr. Data Engineer",
+      "count": 2,
+      "median_wage_usd": 209700.0
+    },
+    {
+      "title": "Lead Data Scientist",
+      "count": 2,
+      "median_wage_usd": 195000.0
+    },
+    {
+      "title": "UI/UX Designer",
+      "count": 2,
+      "median_wage_usd": 110808.0
+    },
+    {
+      "title": "Director, Scrum Master",
+      "count": 2,
+      "median_wage_usd": 158000.0
+    },
+    {
+      "title": "Group Director, Search & Social",
+      "count": 1,
+      "median_wage_usd": 141000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 6
+    },
+    {
+      "state": "NJ",
+      "county": "HUDSON",
+      "count": 4
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "county": "MIDDLESEX",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 8
+    },
+    {
+      "state": "NJ",
+      "count": 6
+    },
+    {
+      "state": "TX",
+      "count": 3
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 130000.0,
+    "gap_usd": 21980.0
+  }
+}

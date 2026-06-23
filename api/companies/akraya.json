@@ -1,0 +1,129 @@
+{
+  "slug": "akraya",
+  "canonical_name": "Akraya, Inc.",
+  "fein": "91-2146644",
+  "lca_filing_count": 9,
+  "lca_worker_positions": 9,
+  "warn_notice_count": 0,
+  "median_wage_usd": 140000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 107117.5
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 156000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 133245.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 171900.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 132100.8
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 157040.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "UX Researcher",
+      "count": 2,
+      "median_wage_usd": 132100.8
+    },
+    {
+      "title": "Senior Product Designer",
+      "count": 1,
+      "median_wage_usd": 157040.0
+    },
+    {
+      "title": "Sr Software Dev Engineer",
+      "count": 1,
+      "median_wage_usd": 156000.0
+    },
+    {
+      "title": "Affiliated Researcher",
+      "count": 1,
+      "median_wage_usd": 228800.0
+    },
+    {
+      "title": "Product Manager",
+      "count": 1,
+      "median_wage_usd": 74235.0
+    },
+    {
+      "title": "DATA ENGINEER",
+      "count": 1,
+      "median_wage_usd": 133245.0
+    },
+    {
+      "title": "Computer Systems Analyst",
+      "count": 1,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "title": "Senior Data Engineer ",
+      "count": 1,
+      "median_wage_usd": 140000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 4
+    },
+    {
+      "state": "NV",
+      "county": "CLARK",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "county": "CHAMPAIGN",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 6
+    },
+    {
+      "state": "NV",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1211",
+    "soc_title": "Computer Systems Analysts",
+    "market_median_usd": 103800.0,
+    "employer_median_usd": 124122.5,
+    "gap_usd": 20322.5
+  }
+}

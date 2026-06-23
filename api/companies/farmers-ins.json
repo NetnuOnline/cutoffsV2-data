@@ -1,0 +1,46 @@
+{
+  "slug": "farmers-ins",
+  "canonical_name": "Farmers Ins",
+  "fein": null,
+  "lca_filing_count": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 91600.8,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 109761.6
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Marketing Manager",
+      "count": 4,
+      "median_wage_usd": 91600.8
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SAN MATEO",
+      "count": 4
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 4
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 1,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-2021",
+    "soc_title": "Marketing Managers",
+    "market_median_usd": 157620.0,
+    "employer_median_usd": 109761.6,
+    "gap_usd": -47858.4
+  }
+}

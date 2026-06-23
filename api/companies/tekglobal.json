@@ -1,0 +1,56 @@
+{
+  "slug": "tekglobal",
+  "canonical_name": "TEKGLOBAL, LLC.",
+  "fein": null,
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 92713.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 92713.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "PROGRAM DELIVERY MANAGER",
+      "count": 1,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "title": "SOFTWARE DEVELOPER",
+      "count": 1,
+      "median_wage_usd": 85426.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MO",
+      "county": "ST LOUIS",
+      "count": 1
+    },
+    {
+      "state": "MO",
+      "county": "COLE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MO",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Information Technology Project Managers",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 100000.0,
+    "gap_usd": -18000.0
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "datasys-consulting-and-software",
+  "canonical_name": "DATASYS CONSULTING AND SOFTWARE, INC.",
+  "fein": null,
+  "lca_filing_count": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 141000.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 118750.0
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 141000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "AWS SOFTWARE ARCHITECT",
+      "count": 2,
+      "median_wage_usd": 141750.0
+    },
+    {
+      "title": "BUSINESS SYSTEMS ANALYST",
+      "count": 1,
+      "median_wage_usd": 95000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NC",
+      "county": "MECKLENBURG",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "county": "HUDSON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NC",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Computer Systems Engineers/Architects",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 141000.0,
+    "gap_usd": 23000.0
+  }
+}

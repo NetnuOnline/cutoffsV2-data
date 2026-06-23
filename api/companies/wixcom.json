@@ -1,0 +1,81 @@
+{
+  "slug": "wixcom",
+  "canonical_name": "Wix.com, Inc.",
+  "fein": null,
+  "lca_filing_count": 2,
+  "warn_notice_count": 4,
+  "median_wage_usd": 240000,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 0,
+      "median_wage_usd": null
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Sales Optimization Manager",
+      "count": 0,
+      "median_wage_usd": null
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "count": 1
+    },
+    {
+      "state": "CO",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "02/21/2023",
+      "effective_date": "04/16/2023",
+      "state": "TX",
+      "workers": 100,
+      "city": "Austin"
+    },
+    {
+      "date": "02/15/2023",
+      "effective_date": "04/16/2023",
+      "state": "CA",
+      "workers": 27,
+      "city": "500 Terry A. Francois Boulevard, 6th Floor  Calpella CA 95418"
+    },
+    {
+      "date": "02/15/2023",
+      "effective_date": "04/16/2023",
+      "state": "FL",
+      "workers": 144,
+      "city": "MIAMI BEACH"
+    },
+    {
+      "date": "02/15/2023",
+      "effective_date": "02/15/2023",
+      "state": "CO",
+      "workers": 62,
+      "city": "Denver"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "denver-wib",
+      "name": "Denver WIB",
+      "state": "CO"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

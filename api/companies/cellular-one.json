@@ -1,0 +1,43 @@
+{
+  "slug": "cellular-one",
+  "canonical_name": "Cellular One",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "06/24/2016",
+      "effective_date": "08/01/2016",
+      "state": "IL",
+      "workers": 57,
+      "city": "Danville"
+    },
+    {
+      "date": "06/24/2016",
+      "effective_date": "08/01/2016",
+      "state": "IL",
+      "workers": 34,
+      "city": "Danville"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "vermilion-county-wib",
+      "name": "Vermilion County WIB",
+      "state": "IL"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

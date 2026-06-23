@@ -1,0 +1,66 @@
+{
+  "slug": "dc-beane-associates-construction",
+  "canonical_name": "DC Beane & Associates Construction Co.",
+  "fein": "26-0665147",
+  "lca_filing_count": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 69334.5,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 75000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 63669.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Assistant Staff Accountant ",
+      "count": 2,
+      "median_wage_usd": 63669.0
+    },
+    {
+      "title": "Project Accountant",
+      "count": 1,
+      "median_wage_usd": 75000.0
+    },
+    {
+      "title": "Virtual Design Construct/Building Info Modeling Coordinator ",
+      "count": 1,
+      "median_wage_usd": 100000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MA",
+      "county": "BOSTON CITY",
+      "count": 2
+    },
+    {
+      "state": "MA",
+      "county": "SOMERVILLE CITY",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MA",
+      "count": 4
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-2011",
+    "soc_title": "Accountants and Auditors",
+    "market_median_usd": 79000.0,
+    "employer_median_usd": 63669.0,
+    "gap_usd": -15331.0
+  }
+}

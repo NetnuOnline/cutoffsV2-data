@@ -1,0 +1,52 @@
+{
+  "slug": "pnc-bank",
+  "canonical_name": "PNC Bank",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 3,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "CO",
+      "count": 1
+    },
+    {
+      "state": "OH",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "04/17/2026",
+      "effective_date": "06/30/2026",
+      "state": "CO",
+      "workers": 777,
+      "city": "Jeffco (Tri-County)"
+    },
+    {
+      "date": "07/03/2018",
+      "effective_date": "09/14/2018",
+      "state": "OH",
+      "workers": 96,
+      "city": "Columbus/Franklin"
+    },
+    {
+      "date": "06/07/2012",
+      "effective_date": "08/01/2012",
+      "state": "IL",
+      "workers": 88,
+      "city": "Westchester"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

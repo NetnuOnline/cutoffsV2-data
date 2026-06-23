@@ -1,0 +1,43 @@
+{
+  "slug": "medford-corporation",
+  "canonical_name": "MEDFORD CORPORATION",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "OR",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "10/19/1992",
+      "effective_date": "12/18/1992",
+      "state": "OR",
+      "workers": 260,
+      "city": "Medford"
+    },
+    {
+      "date": "05/31/1990",
+      "effective_date": "07/29/1990",
+      "state": "OR",
+      "workers": 80,
+      "city": "Medford"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "rogue-valley-wia",
+      "name": "Rogue Valley WIA",
+      "state": "OR"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

@@ -1,0 +1,114 @@
+{
+  "slug": "american-nursery-services",
+  "canonical_name": "American Nursery Services",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 8,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "WA",
+      "count": 2
+    },
+    {
+      "state": "AK",
+      "count": 1
+    },
+    {
+      "state": "OR",
+      "count": 1
+    },
+    {
+      "state": "ID",
+      "count": 1
+    },
+    {
+      "state": "CO",
+      "count": 1
+    },
+    {
+      "state": "NV",
+      "count": 1
+    },
+    {
+      "state": "MT",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "10/03/2023",
+      "effective_date": "12/31/2023",
+      "state": "WA",
+      "workers": 45,
+      "city": "Statewide"
+    },
+    {
+      "date": "09/28/2023",
+      "effective_date": "12/31/2023",
+      "state": "WA",
+      "workers": 45,
+      "city": "Statewide"
+    },
+    {
+      "date": "09/05/2023",
+      "effective_date": "12/31/2023",
+      "state": "AK",
+      "workers": 0,
+      "city": "Anchorage"
+    },
+    {
+      "date": "09/05/2023",
+      "effective_date": "12/31/2023",
+      "state": "OR",
+      "workers": 25,
+      "city": "Newberg"
+    },
+    {
+      "date": "09/05/2023",
+      "effective_date": "12/31/2023",
+      "state": "ID",
+      "workers": 0,
+      "city": "Newbuerg"
+    },
+    {
+      "date": "09/05/2023",
+      "effective_date": "12/31/2023",
+      "state": "CO",
+      "workers": 25,
+      "city": "Unspecified"
+    },
+    {
+      "date": "09/05/2023",
+      "effective_date": "12/31/2023",
+      "state": "NV",
+      "workers": 0,
+      "city": "Carson City, Carson County"
+    },
+    {
+      "date": "09/05/2023",
+      "effective_date": "11/01/2023",
+      "state": "MT",
+      "workers": 0,
+      "city": "Multiple sites"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "alaska-wib",
+      "name": "Alaska WIB",
+      "state": "AK"
+    },
+    {
+      "slug": "mid-valley-wia",
+      "name": "Mid-Valley WIA",
+      "state": "OR"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

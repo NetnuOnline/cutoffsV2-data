@@ -1,0 +1,75 @@
+{
+  "slug": "the-hillman-group",
+  "canonical_name": "The Hillman Group, Inc.",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 3,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "TN",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "03/28/2023",
+      "effective_date": "05/31/2023",
+      "state": "CA",
+      "workers": 62,
+      "city": "Rialto"
+    },
+    {
+      "date": "10/08/2013",
+      "effective_date": "09/12/2013",
+      "state": "TN",
+      "workers": 33,
+      "city": "Goodlettsville"
+    },
+    {
+      "date": "01/02/2009",
+      "effective_date": "01/02/2009",
+      "state": "NY",
+      "workers": 0,
+      "city": "Troy"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "09-local-workforce-investment-area",
+      "name": "09 Local Workforce Investment Area",
+      "state": "TN"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 0,
+    "continuing_denials": 0,
+    "total_approvals": 1,
+    "by_fy": [
+      {
+        "fy": 2021,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  }
+}

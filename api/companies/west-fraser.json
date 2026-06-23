@@ -1,0 +1,78 @@
+{
+  "slug": "west-fraser",
+  "canonical_name": "West Fraser, Inc.",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 5,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "FL",
+      "count": 3
+    },
+    {
+      "state": "GA",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "11/06/2025",
+      "effective_date": "01/05/2026",
+      "state": "GA",
+      "workers": 130,
+      "city": "2474 Doug Barnard Pkwy, Augusta, Georgia"
+    },
+    {
+      "date": "09/19/2024",
+      "effective_date": "11/19/2024",
+      "state": "FL",
+      "workers": 131,
+      "city": "LAKE BUTLER"
+    },
+    {
+      "date": "01/09/2024",
+      "effective_date": "03/19/2024",
+      "state": "FL",
+      "workers": 79,
+      "city": "JACKSONVILLE"
+    },
+    {
+      "date": "01/10/2023",
+      "effective_date": "03/13/2023",
+      "state": "FL",
+      "workers": 127,
+      "city": "PERRY"
+    },
+    {
+      "date": "03/23/2009",
+      "effective_date": "03/23/2009",
+      "state": "GA",
+      "workers": 100,
+      "city": "Folkston"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "careersource-north-florida",
+      "name": "CareerSource North Florida",
+      "state": "FL"
+    },
+    {
+      "slug": "careersource-florida-crown",
+      "name": "CareerSource Florida Crown",
+      "state": "FL"
+    },
+    {
+      "slug": "southeast-georgia-wib",
+      "name": "Southeast Georgia WIB",
+      "state": "GA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

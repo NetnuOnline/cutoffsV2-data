@@ -1,0 +1,63 @@
+{
+  "slug": "graphic-looseleaf-products",
+  "canonical_name": "GRAPHIC LOOSELEAF PRODUCTS",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 1,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "10/02/1991",
+      "effective_date": "12/01/1991",
+      "state": "IL",
+      "workers": 100,
+      "city": "Chicago"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2016-05-09",
+        "formType": "8-K",
+        "accessionNumber": "0001157523-16-005547",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001323468&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2013-07-03",
+        "formType": "8-K",
+        "accessionNumber": "0001104659-13-053245",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001323468&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 2,
+    "itemCounts": {
+      "5.02": 2
+    },
+    "latestFilingDate": "2016-05-09",
+    "earliestFilingDate": "2013-07-03"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

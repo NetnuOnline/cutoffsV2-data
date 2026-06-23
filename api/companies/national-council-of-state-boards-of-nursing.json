@@ -1,0 +1,68 @@
+{
+  "slug": "national-council-of-state-boards-of-nursing",
+  "canonical_name": "National Council of State Boards of Nursing, Inc.",
+  "fein": "36-3481016",
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 128843.88,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 128843.88
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Psychometrician II, Measurement and Testing, Examinations",
+      "count": 1,
+      "median_wage_usd": 125030.64
+    },
+    {
+      "title": "Senior Developer I, Information Technology",
+      "count": 1,
+      "median_wage_usd": 132657.12
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 1,
+    "continuing_denials": 0,
+    "total_approvals": 2,
+    "by_fy": [
+      {
+        "fy": 2023,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      }
+    ]
+  },
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 132657.12,
+    "gap_usd": 2497.12
+  }
+}

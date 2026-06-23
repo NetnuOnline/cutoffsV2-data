@@ -1,0 +1,212 @@
+{
+  "slug": "vitech-systems-group-sub",
+  "canonical_name": "VITECH SYSTEMS GROUP, SUB LLC",
+  "fein": "13-3785492",
+  "lca_filing_count": 48,
+  "warn_notice_count": 0,
+  "median_wage_usd": 132512.52,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 17,
+      "median_wage_usd": 124999.0
+    },
+    {
+      "fy": 2022,
+      "filings": 9,
+      "median_wage_usd": 139000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 12,
+      "median_wage_usd": 142000.03999999998
+    },
+    {
+      "fy": 2024,
+      "filings": 10,
+      "median_wage_usd": 122000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SOFTWARE DEVELOPER",
+      "count": 13,
+      "median_wage_usd": 100699.92
+    },
+    {
+      "title": "SENIOR SOFTWARE DEVELOPER",
+      "count": 8,
+      "median_wage_usd": 139500.0
+    },
+    {
+      "title": "SOFTWARE QUALITY ASSURANCE LEAD",
+      "count": 3,
+      "median_wage_usd": 93000.0
+    },
+    {
+      "title": "SENIOR SOLUTIONS ANALYST",
+      "count": 2,
+      "median_wage_usd": 150850.03999999998
+    },
+    {
+      "title": "SENIOR ORACLE DEVELOPER",
+      "count": 2,
+      "median_wage_usd": 131012.52
+    },
+    {
+      "title": "TECHNICAL LEAD",
+      "count": 2,
+      "median_wage_usd": 141242.56
+    },
+    {
+      "title": "JAVA DEVELOPER",
+      "count": 2,
+      "median_wage_usd": 115300.0
+    },
+    {
+      "title": "SENIOR QUALITY MANAGER",
+      "count": 1,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "DEVOPS ANALYST",
+      "count": 1,
+      "median_wage_usd": 124500.0
+    },
+    {
+      "title": "SENIOR DATA VISUALIZATION ANALYST",
+      "count": 1,
+      "median_wage_usd": 140000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NJ",
+      "county": "MIDDLESEX",
+      "count": 16
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 11
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 2
+    },
+    {
+      "state": "VA",
+      "county": "FAIRFAX",
+      "count": 2
+    },
+    {
+      "state": "OK",
+      "county": "OKLAHOMA",
+      "count": 2
+    },
+    {
+      "state": "OH",
+      "county": "FRANKLIN",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 2
+    },
+    {
+      "state": "NC",
+      "county": "WAKE",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 17
+    },
+    {
+      "state": "NY",
+      "count": 11
+    },
+    {
+      "state": "TX",
+      "count": 5
+    },
+    {
+      "state": "IL",
+      "count": 2
+    },
+    {
+      "state": "NC",
+      "count": 2
+    },
+    {
+      "state": "OK",
+      "count": 2
+    },
+    {
+      "state": "VA",
+      "count": 2
+    },
+    {
+      "state": "OH",
+      "count": 2
+    },
+    {
+      "state": "NH",
+      "count": 1
+    },
+    {
+      "state": "CO",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 24,
+    "initial_denials": 0,
+    "continuing_approvals": 45,
+    "continuing_denials": 0,
+    "total_approvals": 69,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 22,
+        "initial_denials": 0,
+        "continuing_approvals": 32,
+        "continuing_denials": 0,
+        "total_approvals": 54
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 13,
+        "continuing_denials": 0,
+        "total_approvals": 15
+      }
+    ]
+  },
+  "lca_worker_positions": 48,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 132000.0,
+    "gap_usd": 1840.0
+  }
+}

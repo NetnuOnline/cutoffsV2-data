@@ -1,0 +1,126 @@
+{
+  "slug": "o-c-tanner-company",
+  "canonical_name": "O.C. Tanner Company",
+  "fein": "87-0182665",
+  "lca_filing_count": 13,
+  "lca_worker_positions": 13,
+  "warn_notice_count": 0,
+  "median_wage_usd": 128000.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 6,
+      "median_wage_usd": 124000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 131250.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 113738.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 161011.5
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 152026.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SAP CPI/PO Developer",
+      "count": 2,
+      "median_wage_usd": 124000.0
+    },
+    {
+      "title": "Sr. SAP Basis Administrator",
+      "count": 2,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Manager, ERP Integrations (Sr. SAP CPI/PO Developer)",
+      "count": 1,
+      "median_wage_usd": 161011.5
+    },
+    {
+      "title": "SAP Basis Administrator III",
+      "count": 1,
+      "median_wage_usd": 142771.0
+    },
+    {
+      "title": "Enterprise Application Security Specialist",
+      "count": 1,
+      "median_wage_usd": 60008.0
+    },
+    {
+      "title": "Product Manager II",
+      "count": 1,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "Back-end Software Engineer",
+      "count": 1,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "title": "Sr. Site Reliability Engineer",
+      "count": 1,
+      "median_wage_usd": 112476.0
+    },
+    {
+      "title": "SAP Analyst III",
+      "count": 1,
+      "median_wage_usd": 161281.0
+    },
+    {
+      "title": "Senior SAP CPI/PO Developer",
+      "count": 1,
+      "median_wage_usd": 131250.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "UT",
+      "county": "SALT LAKE",
+      "count": 9
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "UT",
+      "count": 12
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 131250.0,
+    "gap_usd": 1090.0
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "slug": "cast-crew-payroll",
+  "canonical_name": "Cast & Crew Payroll, LLC",
+  "fein": "20-5544425",
+  "lca_filing_count": 12,
+  "warn_notice_count": 4,
+  "median_wage_usd": 139018.61,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 150443.0
+    },
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 121160.0
+    },
+    {
+      "fy": 2022,
+      "filings": 4,
+      "median_wage_usd": 146518.56
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 76877.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 163805.575
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Software Engineer",
+      "count": 4,
+      "median_wage_usd": 137943.05
+    },
+    {
+      "title": "Sr. Software Engineer",
+      "count": 1,
+      "median_wage_usd": 138037.12
+    },
+    {
+      "title": "Lead Software Engineer",
+      "count": 1,
+      "median_wage_usd": 155000.0
+    },
+    {
+      "title": "Software Engineer (BAL 6533.44.13)",
+      "count": 1,
+      "median_wage_usd": 121160.0
+    },
+    {
+      "title": "Senior Production Marketing Manager ",
+      "count": 1,
+      "median_wage_usd": 165000.0
+    },
+    {
+      "title": "Application Architect",
+      "count": 1,
+      "median_wage_usd": 177170.22
+    },
+    {
+      "title": "Business Development Executive",
+      "count": 1,
+      "median_wage_usd": 76877.0
+    },
+    {
+      "title": "Software Engineer (BAL 6533.45)",
+      "count": 1,
+      "median_wage_usd": 121160.0
+    },
+    {
+      "title": "Senior Product Marketing Manager",
+      "count": 1,
+      "median_wage_usd": 165000.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 10
+    },
+    {
+      "state": "AR",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 7
+    },
+    {
+      "state": "AR",
+      "county": "PULASKI",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "county": "KINGS",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "09/18/2020",
+      "effective_date": "04/10/2020",
+      "state": "CA",
+      "workers": 32,
+      "city": "Los Angeles"
+    },
+    {
+      "date": "09/18/2020",
+      "effective_date": "04/10/2020",
+      "state": "CA",
+      "workers": 68,
+      "city": "Burbank"
+    },
+    {
+      "date": "04/09/2020",
+      "effective_date": "04/10/2020",
+      "state": "NY",
+      "workers": 65,
+      "city": "New York"
+    },
+    {
+      "date": "04/09/2020",
+      "effective_date": "04/09/2020",
+      "state": "CA",
+      "workers": 276,
+      "city": "Burbank"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 9,
+    "continuing_denials": 0,
+    "total_approvals": 9,
+    "by_fy": [
+      {
+        "fy": 2016,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2017,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 7,
+        "continuing_denials": 0,
+        "total_approvals": 7
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      }
+    ]
+  },
+  "lca_worker_positions": 11,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 150440.93,
+    "gap_usd": 20280.93
+  }
+}

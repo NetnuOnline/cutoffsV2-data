@@ -1,0 +1,43 @@
+{
+  "slug": "marley-precision",
+  "canonical_name": "Marley Precision",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "MI",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "09/25/2020",
+      "effective_date": "09/25/2020",
+      "state": "MI",
+      "workers": 57,
+      "city": "Battle Creek, Michigan"
+    },
+    {
+      "date": "07/24/2020",
+      "effective_date": "07/24/2020",
+      "state": "MI",
+      "workers": 57,
+      "city": "Battle Creek"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "calhoun-intermediate-school-district",
+      "name": "Calhoun Intermediate School District",
+      "state": "MI"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

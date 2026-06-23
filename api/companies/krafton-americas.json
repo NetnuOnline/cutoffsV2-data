@@ -1,0 +1,51 @@
+{
+  "slug": "krafton-americas",
+  "canonical_name": "Krafton Americas, Inc.",
+  "fein": "82-2851294",
+  "lca_filing_count": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 156300.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 156300.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 160207.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Site Reliability Engineer",
+      "count": 3,
+      "median_wage_usd": 156300.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "FRESNO",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 156300.0,
+    "gap_usd": 26140.0
+  }
+}

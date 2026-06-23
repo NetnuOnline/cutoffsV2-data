@@ -1,0 +1,48 @@
+{
+  "slug": "emca-staff-llc-acme-labor",
+  "canonical_name": "EMCA Staff LLC/ACME Labor LLC",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "01/17/2023",
+      "effective_date": "01/16/2023",
+      "state": "CA",
+      "workers": 2,
+      "city": "Santa Barbara"
+    },
+    {
+      "date": "01/17/2023",
+      "effective_date": "01/16/2023",
+      "state": "CA",
+      "workers": 46,
+      "city": "Merced"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "merced-county-wib",
+      "name": "Merced County WIB",
+      "state": "CA"
+    },
+    {
+      "slug": "santa-barbara-county-wib",
+      "name": "Santa Barbara County WIB",
+      "state": "CA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

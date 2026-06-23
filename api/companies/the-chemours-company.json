@@ -1,0 +1,113 @@
+{
+  "slug": "the-chemours-company",
+  "canonical_name": "The Chemours Company",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 1,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "07/25/2016",
+      "effective_date": "10/31/2016",
+      "state": "NY",
+      "workers": 145,
+      "city": "Niagara Falls"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "niagara-county-lwia",
+      "name": "Niagara County LWIA",
+      "state": "NY"
+    }
+  ],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2023-07-28",
+        "formType": "8-K",
+        "accessionNumber": "0000950170-23-035275",
+        "items": [
+          "2.05",
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities",
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001627223&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2019-09-20",
+        "formType": "8-K",
+        "accessionNumber": "0001564590-19-035124",
+        "items": [
+          "2.05",
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities",
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001627223&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2015-11-30",
+        "formType": "8-K",
+        "accessionNumber": "0001627223-15-000056",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001627223&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2015-08-20",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-15-296834",
+        "items": [
+          "2.05",
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities",
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001627223&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2015-07-01",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-15-242128",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001627223&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 5,
+    "itemCounts": {
+      "2.05": 4,
+      "2.06": 3,
+      "5.02": 1
+    },
+    "latestFilingDate": "2023-07-28",
+    "earliestFilingDate": "2015-07-01"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

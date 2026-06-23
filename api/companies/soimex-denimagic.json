@@ -1,0 +1,191 @@
+{
+  "slug": "soimex-denimagic",
+  "canonical_name": "Soimex Denimagic Inc",
+  "fein": "03-0396933",
+  "lca_filing_count": 8,
+  "warn_notice_count": 0,
+  "median_wage_usd": 96533.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 101130.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 99195.5
+    },
+    {
+      "fy": 2024,
+      "filings": 4,
+      "median_wage_usd": 90625.5
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 90542.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Salesforce Developer/Admin",
+      "count": 2,
+      "median_wage_usd": 77396.5
+    },
+    {
+      "title": "SOFTWARE DEVELOPER",
+      "count": 2,
+      "median_wage_usd": 98519.5
+    },
+    {
+      "title": "Software Developer",
+      "count": 2,
+      "median_wage_usd": 101577.0
+    },
+    {
+      "title": "SOFTWARE / BI DEVELOPER",
+      "count": 1,
+      "median_wage_usd": 102482.0
+    },
+    {
+      "title": "NETWORK ENGINEER",
+      "count": 1,
+      "median_wage_usd": 90542.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "county": "HUDSON",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "county": "HENRICO",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "county": "INGHAM",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "county": "FAIRFAX",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "county": "HILLSBOROUGH",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "VA",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "FL",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 17,
+    "initial_denials": 2,
+    "continuing_approvals": 6,
+    "continuing_denials": 0,
+    "total_approvals": 23,
+    "by_fy": [
+      {
+        "fy": 2009,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2012,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2014,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 2,
+        "initial_denials": 1,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 6,
+        "initial_denials": 1,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 8
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 8,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 11
+      }
+    ]
+  },
+  "lca_worker_positions": 8,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 95909.0,
+    "gap_usd": -34251.0
+  }
+}

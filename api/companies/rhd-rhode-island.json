@@ -1,0 +1,43 @@
+{
+  "slug": "rhd-rhode-island",
+  "canonical_name": "RHD Rhode Island",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "RI",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "09/01/2020",
+      "effective_date": "09/01/2020",
+      "state": "RI",
+      "workers": 73,
+      "city": "Providence"
+    },
+    {
+      "date": "08/11/2020",
+      "effective_date": "09/01/2020",
+      "state": "RI",
+      "workers": 73,
+      "city": "Providence"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "workforce-solutions-of-providencecranston",
+      "name": "Workforce Solutions of Providence/Cranston",
+      "state": "RI"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

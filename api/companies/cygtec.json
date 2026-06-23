@@ -1,0 +1,198 @@
+{
+  "slug": "cygtec",
+  "canonical_name": "Cygtec Inc.",
+  "fein": "80-0681835",
+  "lca_filing_count": 23,
+  "lca_worker_positions": 23,
+  "warn_notice_count": 0,
+  "median_wage_usd": 97400.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 8,
+      "median_wage_usd": 92611.0
+    },
+    {
+      "fy": 2021,
+      "filings": 5,
+      "median_wage_usd": 90000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 3,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 4,
+      "median_wage_usd": 103713.5
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 105000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 4,
+      "median_wage_usd": 97427.0
+    },
+    {
+      "title": "SharePoint Administrator",
+      "count": 3,
+      "median_wage_usd": 90000.0
+    },
+    {
+      "title": "Java Developer",
+      "count": 2,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "JAVA Developer",
+      "count": 2,
+      "median_wage_usd": 91101.0
+    },
+    {
+      "title": "Clinical SAS Analyst",
+      "count": 2,
+      "median_wage_usd": 97400.0
+    },
+    {
+      "title": "SOFTWARE ENGINEER",
+      "count": 2,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "Database Administrator",
+      "count": 1,
+      "median_wage_usd": 90646.0
+    },
+    {
+      "title": "QA Engineer",
+      "count": 1,
+      "median_wage_usd": 90000.0
+    },
+    {
+      "title": "Network Engineer",
+      "count": 1,
+      "median_wage_usd": 80000.0
+    },
+    {
+      "title": "Clinical Statistical Analyst",
+      "count": 1,
+      "median_wage_usd": 85000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IL",
+      "county": "LAKE",
+      "count": 3
+    },
+    {
+      "state": "NC",
+      "county": "WAKE",
+      "count": 3
+    },
+    {
+      "state": "NM",
+      "county": "SANTA FE",
+      "count": 3
+    },
+    {
+      "state": "NJ",
+      "county": "SOMERSET",
+      "count": 2
+    },
+    {
+      "state": "SC",
+      "county": "RICHLAND",
+      "count": 2
+    },
+    {
+      "state": "CT",
+      "county": "HARTFORD CITY",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "county": "MECKLENBURG",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "county": "GOOCHLAND",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "county": "UNION",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "county": "RENSSELAER",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NC",
+      "count": 5
+    },
+    {
+      "state": "NM",
+      "count": 3
+    },
+    {
+      "state": "IL",
+      "count": 3
+    },
+    {
+      "state": "NJ",
+      "count": 2
+    },
+    {
+      "state": "VA",
+      "count": 2
+    },
+    {
+      "state": "SC",
+      "count": 2
+    },
+    {
+      "state": "NY",
+      "count": 1
+    },
+    {
+      "state": "CT",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "MN",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 110000.0,
+    "gap_usd": -20160.0
+  }
+}

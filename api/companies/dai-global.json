@@ -1,0 +1,161 @@
+{
+  "slug": "dai-global",
+  "canonical_name": "DAI Global, LLC",
+  "fein": "52-0904808",
+  "lca_filing_count": 4,
+  "warn_notice_count": 3,
+  "median_wage_usd": 157622.4,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 157622.4
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 169686.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Principal Software Developer ",
+      "count": 2,
+      "median_wage_usd": 157622.4
+    },
+    {
+      "title": "Associate Director",
+      "count": 1,
+      "median_wage_usd": 169686.0
+    },
+    {
+      "title": "Technical Systems Manager ",
+      "count": 1,
+      "median_wage_usd": 130000.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MD",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "count": 2
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MD",
+      "county": "MONTGOMERY",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "06/02/2025",
+      "effective_date": "08/01/2025",
+      "state": "MD",
+      "workers": 62,
+      "city": "Bethesda"
+    },
+    {
+      "date": "02/17/2025",
+      "effective_date": "02/17/2025",
+      "state": "MD",
+      "workers": 124,
+      "city": "Bethesda"
+    },
+    {
+      "date": "02/03/2025",
+      "effective_date": "02/03/2025",
+      "state": "MD",
+      "workers": 382,
+      "city": "Bethesda"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "montgomery-wia",
+      "name": "Montgomery WIA",
+      "state": "MD"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 6,
+    "continuing_denials": 0,
+    "total_approvals": 6,
+    "by_fy": [
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 4,
+        "continuing_denials": 0,
+        "total_approvals": 4
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 157622.4,
+    "gap_usd": 27462.4
+  }
+}

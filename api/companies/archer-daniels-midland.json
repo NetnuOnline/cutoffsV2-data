@@ -1,0 +1,81 @@
+{
+  "slug": "archer-daniels-midland",
+  "canonical_name": "Archer Daniels Midland Company ",
+  "fein": null,
+  "lca_filing_count": 41,
+  "warn_notice_count": 4,
+  "median_wage_usd": 133000,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 0,
+      "median_wage_usd": null
+    },
+    {
+      "fy": 2026,
+      "filings": 0,
+      "median_wage_usd": null
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Data Modeler",
+      "count": 0,
+      "median_wage_usd": null
+    },
+    {
+      "title": "Process Engineer",
+      "count": 0,
+      "median_wage_usd": null
+    }
+  ],
+  "top_states": [
+    {
+      "state": "KS",
+      "count": 2
+    },
+    {
+      "state": "TN",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "12/19/2025",
+      "effective_date": "01/30/2026",
+      "state": "TN",
+      "workers": 95,
+      "city": "Shelby County"
+    },
+    {
+      "date": "03/02/2012",
+      "effective_date": "02/01/2012",
+      "state": "IL",
+      "workers": 207,
+      "city": "4666 Faries Parkway  Decatur, IL 62525"
+    },
+    {
+      "date": "11/08/2006",
+      "effective_date": "11/08/2006",
+      "state": "KS",
+      "workers": 54,
+      "city": "3 - Workforce Investment Area III"
+    },
+    {
+      "date": "10/18/2002",
+      "effective_date": "10/18/2002",
+      "state": "KS",
+      "workers": 60,
+      "city": "1 - Workforce Investment Area I"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

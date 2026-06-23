@@ -1,0 +1,77 @@
+{
+  "slug": "hendrickson",
+  "canonical_name": "Hendrickson USA, L.L.C.",
+  "fein": null,
+  "lca_filing_count": 4,
+  "warn_notice_count": 4,
+  "median_wage_usd": 110802,
+  "by_fy": [
+    {
+      "fy": 2026,
+      "filings": 0,
+      "median_wage_usd": null
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Engineering Supervisor",
+      "count": 0,
+      "median_wage_usd": null
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IN",
+      "count": 2
+    },
+    {
+      "state": "TN",
+      "count": 1
+    },
+    {
+      "state": "KY",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "05/04/2020",
+      "effective_date": "04/27/2020",
+      "state": "TN",
+      "workers": 122,
+      "city": "Montgomery County"
+    },
+    {
+      "date": "04/27/2020",
+      "effective_date": "04/27/2020",
+      "state": "KY",
+      "workers": 179,
+      "city": "Pulaski"
+    },
+    {
+      "date": "04/27/2020",
+      "effective_date": "05/01/2020",
+      "state": "IN",
+      "workers": 129,
+      "city": "Lebanon"
+    },
+    {
+      "date": "04/09/2020",
+      "effective_date": "04/13/2020",
+      "state": "IN",
+      "workers": 103,
+      "city": "Kendallville"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "economic-growth-region-3",
+      "name": "Economic Growth Region 3",
+      "state": "IN"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

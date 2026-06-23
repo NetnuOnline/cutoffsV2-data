@@ -1,0 +1,43 @@
+{
+  "slug": "global-foundries",
+  "canonical_name": "Global Foundries",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "VT",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "12/16/2022",
+      "effective_date": "12/16/2022",
+      "state": "VT",
+      "workers": 148,
+      "city": "Essex Junction"
+    },
+    {
+      "date": "11/06/2015",
+      "effective_date": "11/06/2015",
+      "state": "VT",
+      "workers": 0,
+      "city": "00 - Vermont Workforce Investment Area"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "lake-champlain-regional-wib",
+      "name": "Lake Champlain Regional WIB",
+      "state": "VT"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

@@ -1,0 +1,109 @@
+{
+  "slug": "excel-est",
+  "canonical_name": "EXCEL-EST LLC",
+  "fein": "26-2829334",
+  "lca_filing_count": 9,
+  "warn_notice_count": 0,
+  "median_wage_usd": 80288.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 5,
+      "median_wage_usd": 76731.0
+    },
+    {
+      "fy": 2024,
+      "filings": 4,
+      "median_wage_usd": 81078.5
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 1,
+      "median_wage_usd": 82056.0
+    },
+    {
+      "title": "RPA Analyst",
+      "count": 1,
+      "median_wage_usd": 70886.0
+    },
+    {
+      "title": "Software Programmer",
+      "count": 1,
+      "median_wage_usd": 76731.0
+    },
+    {
+      "title": "Devops Engineer",
+      "count": 1,
+      "median_wage_usd": 76960.0
+    },
+    {
+      "title": "System Engineer",
+      "count": 1,
+      "median_wage_usd": 70075.0
+    },
+    {
+      "title": "System Administrator",
+      "count": 1,
+      "median_wage_usd": 80288.0
+    },
+    {
+      "title": " Sr Database Administrator",
+      "count": 1,
+      "median_wage_usd": 90022.0
+    },
+    {
+      "title": "Software System Engineer",
+      "count": 1,
+      "median_wage_usd": 83658.0
+    },
+    {
+      "title": "Software Developer (Quality Assurance)",
+      "count": 1,
+      "median_wage_usd": 81869.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 7
+    },
+    {
+      "state": "MO",
+      "county": "ST LOUIS",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "county": "OAKLAND",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 7
+    },
+    {
+      "state": "MO",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 9,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Computer Systems Engineers/Architects",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 76960.0,
+    "gap_usd": -41040.0
+  }
+}

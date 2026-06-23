@@ -1,0 +1,181 @@
+{
+  "slug": "cars-com",
+  "canonical_name": "Cars.com",
+  "fein": "36-4466253",
+  "lca_filing_count": 21,
+  "lca_worker_positions": 20,
+  "warn_notice_count": 0,
+  "median_wage_usd": 134929.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 4,
+      "median_wage_usd": 119964.5
+    },
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 151398.59999999998
+    },
+    {
+      "fy": 2023,
+      "filings": 5,
+      "median_wage_usd": 117875.04
+    },
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 130714.56
+    },
+    {
+      "fy": 2025,
+      "filings": 4,
+      "median_wage_usd": 172500.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 185484.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Data Engineer II",
+      "count": 4,
+      "median_wage_usd": 116437.56
+    },
+    {
+      "title": "Senior Software Engineer - Salesforce",
+      "count": 2,
+      "median_wage_usd": 134929.0
+    },
+    {
+      "title": "Principal Software Engineer - Salesforce",
+      "count": 2,
+      "median_wage_usd": 191586.08500000002
+    },
+    {
+      "title": "Sr. Data Engineer I",
+      "count": 2,
+      "median_wage_usd": 144615.6
+    },
+    {
+      "title": "Data Scientist",
+      "count": 1,
+      "median_wage_usd": 105000.0
+    },
+    {
+      "title": "Data Engineer III",
+      "count": 1,
+      "median_wage_usd": 130714.56
+    },
+    {
+      "title": "Lead Sr. Data Engineer",
+      "count": 1,
+      "median_wage_usd": 168019.0
+    },
+    {
+      "title": "Sr. Software Engineer II - Salesforce",
+      "count": 1,
+      "median_wage_usd": 169800.0
+    },
+    {
+      "title": "Data Scientist II",
+      "count": 1,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "Sr. Data Engineer",
+      "count": 1,
+      "median_wage_usd": 160000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 5
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "county": "DUPAGE",
+      "count": 1
+    },
+    {
+      "state": "MN",
+      "county": "OLMSTED",
+      "count": 1
+    },
+    {
+      "state": "IN",
+      "county": "MONROE",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "county": "FAIRFAX",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "county": "WAKE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 10
+    },
+    {
+      "state": "IL",
+      "count": 5
+    },
+    {
+      "state": "NY",
+      "count": 2
+    },
+    {
+      "state": "NC",
+      "count": 1
+    },
+    {
+      "state": "MN",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "count": 1
+    },
+    {
+      "state": "IN",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 117875.04,
+    "gap_usd": 9855.04
+  }
+}

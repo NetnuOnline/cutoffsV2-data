@@ -1,0 +1,115 @@
+{
+  "slug": "national-account-service-company",
+  "canonical_name": "National Account Service Company LLC",
+  "fein": "58-1767730",
+  "lca_filing_count": 7,
+  "warn_notice_count": 0,
+  "median_wage_usd": 133272.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 133272.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 131714.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 128684.5
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 147971.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Pega Technical Lead",
+      "count": 3,
+      "median_wage_usd": 133272.0
+    },
+    {
+      "title": "System Engineer III",
+      "count": 1,
+      "median_wage_usd": 139716.0
+    },
+    {
+      "title": "Business Tech & Ops Consultant II",
+      "count": 1,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "title": "Business Tech & Ops Consultant ",
+      "count": 1,
+      "median_wage_usd": 123712.0
+    },
+    {
+      "title": "Business Tech & Ops Consultant",
+      "count": 1,
+      "median_wage_usd": 147971.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 5
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 6
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 5,
+    "continuing_denials": 0,
+    "total_approvals": 5,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      }
+    ]
+  },
+  "lca_worker_positions": 7,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 139716.0,
+    "gap_usd": 9556.0
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "slug": "maines-paper-food-service",
+  "canonical_name": "Maines Paper & Food Service",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 6,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "TN",
+      "count": 1
+    },
+    {
+      "state": "OH",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "count": 1
+    },
+    {
+      "state": "MD",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "04/29/2020",
+      "effective_date": "04/18/2020",
+      "state": "TN",
+      "workers": 131,
+      "city": "Shelby County"
+    },
+    {
+      "date": "04/20/2020",
+      "effective_date": "04/17/2020",
+      "state": "OH",
+      "workers": 63,
+      "city": "Oakwood Village/Cuyahoga"
+    },
+    {
+      "date": "03/23/2020",
+      "effective_date": "03/19/2020",
+      "state": "TX",
+      "workers": 41,
+      "city": "Terrell"
+    },
+    {
+      "date": "03/20/2020",
+      "effective_date": "03/18/2020",
+      "state": "NY",
+      "workers": 340,
+      "city": "Conklin"
+    },
+    {
+      "date": "12/10/2018",
+      "effective_date": "02/10/2019",
+      "state": "MD",
+      "workers": 106,
+      "city": "Aberdeen"
+    },
+    {
+      "date": "03/06/2017",
+      "effective_date": "05/01/2017",
+      "state": "IL",
+      "workers": 110,
+      "city": "Hanover Park"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "susquehanna-wia",
+      "name": "Susquehanna WIA",
+      "state": "MD"
+    },
+    {
+      "slug": "broometioga-lwia",
+      "name": "Broome/Tioga LWIA",
+      "state": "NY"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

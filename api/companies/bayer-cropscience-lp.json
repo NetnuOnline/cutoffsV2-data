@@ -1,0 +1,47 @@
+{
+  "slug": "bayer-cropscience-lp",
+  "canonical_name": "Bayer CropScience LP",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "IA",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "03/28/2024",
+      "effective_date": "05/22/2024",
+      "state": "IA",
+      "workers": 28,
+      "city": "Muscatine"
+    },
+    {
+      "date": "09/04/2019",
+      "effective_date": "09/23/2019",
+      "state": "NC",
+      "workers": 184,
+      "city": "2400 Ellis Road, Durham"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "region-9-davenport-wib",
+      "name": "Region 9 - Davenport WIB",
+      "state": "IA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

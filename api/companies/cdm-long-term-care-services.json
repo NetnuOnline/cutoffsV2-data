@@ -1,0 +1,36 @@
+{
+  "slug": "cdm-long-term-care-services",
+  "canonical_name": "CDM Long-Term Care Services",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 1,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "WA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "10/19/2010",
+      "effective_date": "11/01/2010",
+      "state": "WA",
+      "workers": 100,
+      "city": "Vancouver"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "southwest-washington-wib",
+      "name": "Southwest Washington WIB",
+      "state": "WA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

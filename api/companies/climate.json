@@ -1,0 +1,162 @@
+{
+  "slug": "climate",
+  "canonical_name": "Climate LLC",
+  "fein": "20-4897231",
+  "lca_filing_count": 23,
+  "lca_worker_positions": 23,
+  "warn_notice_count": 0,
+  "median_wage_usd": 150000.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 8,
+      "median_wage_usd": 181347.5
+    },
+    {
+      "fy": 2023,
+      "filings": 6,
+      "median_wage_usd": 131500.0
+    },
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 219606.35
+    },
+    {
+      "fy": 2025,
+      "filings": 5,
+      "median_wage_usd": 136317.01
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 139748.63,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Sr. Data Engineer",
+      "count": 3,
+      "median_wage_usd": 143000.0
+    },
+    {
+      "title": "Senior Engineer",
+      "count": 2,
+      "median_wage_usd": 148500.0
+    },
+    {
+      "title": "Data Scientist",
+      "count": 2,
+      "median_wage_usd": 138032.82
+    },
+    {
+      "title": "Engineering Manager, Quality Assurance",
+      "count": 2,
+      "median_wage_usd": 200000.0
+    },
+    {
+      "title": "Staff Software Engineer",
+      "count": 2,
+      "median_wage_usd": 194500.0
+    },
+    {
+      "title": "Business Analyst I",
+      "count": 1,
+      "median_wage_usd": 110676.89
+    },
+    {
+      "title": "IT Software Engineer 3",
+      "count": 1,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "title": "STAFF ENGINEER",
+      "count": 1,
+      "median_wage_usd": 193695.0
+    },
+    {
+      "title": "Partner Product Manager, Platforms",
+      "count": 1,
+      "median_wage_usd": 219606.35
+    },
+    {
+      "title": "Data Analyst II",
+      "count": 1,
+      "median_wage_usd": 105878.48
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MO",
+      "county": "ST LOUIS",
+      "count": 5
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 5
+    },
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 3
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "county": "HUDSON",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MO",
+      "count": 8
+    },
+    {
+      "state": "WA",
+      "count": 5
+    },
+    {
+      "state": "CA",
+      "count": 4
+    },
+    {
+      "state": "TX",
+      "count": 3
+    },
+    {
+      "state": "IL",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 153508.51,
+    "gap_usd": 23348.51
+  }
+}

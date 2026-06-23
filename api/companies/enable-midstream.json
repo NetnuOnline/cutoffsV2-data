@@ -1,0 +1,47 @@
+{
+  "slug": "enable-midstream",
+  "canonical_name": "Enable Midstream",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "LA",
+      "count": 1
+    },
+    {
+      "state": "OK",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "03/11/2015",
+      "effective_date": "05/11/2015",
+      "state": "LA",
+      "workers": 109,
+      "city": "Shreveport"
+    },
+    {
+      "date": "02/17/2015",
+      "effective_date": "02/17/2015",
+      "state": "OK",
+      "workers": 200,
+      "city": "05 - CentralRegion"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "city-of-shreveport-wia",
+      "name": "City of Shreveport WIA",
+      "state": "LA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

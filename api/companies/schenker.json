@@ -1,0 +1,350 @@
+{
+  "slug": "schenker",
+  "canonical_name": "Schenker, Inc.",
+  "fein": null,
+  "lca_filing_count": 2,
+  "warn_notice_count": 21,
+  "median_wage_usd": 87681.92,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 80000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 95363.84
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Developer",
+      "count": 1,
+      "median_wage_usd": 95363.84
+    },
+    {
+      "title": "Senior Financial Analyst",
+      "count": 1,
+      "median_wage_usd": 80000.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "CO",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 1
+    },
+    {
+      "state": "CO",
+      "county": "JEFFERSON",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "03/10/2024",
+      "effective_date": "03/10/2024",
+      "state": "PA",
+      "workers": 478,
+      "city": "Carlisle"
+    },
+    {
+      "date": "01/04/2022",
+      "effective_date": "03/06/2022",
+      "state": "CA",
+      "workers": 108,
+      "city": "Ontario"
+    },
+    {
+      "date": "01/21/2020",
+      "effective_date": "01/21/2020",
+      "state": "KS",
+      "workers": 255,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "09/24/2019",
+      "effective_date": "12/04/2019",
+      "state": "OR",
+      "workers": 220,
+      "city": "Chesapeake, VA"
+    },
+    {
+      "date": "06/12/2019",
+      "effective_date": "08/31/2019",
+      "state": "CA",
+      "workers": 95,
+      "city": "Redlands"
+    },
+    {
+      "date": "05/30/2019",
+      "effective_date": "09/30/2019",
+      "state": "OH",
+      "workers": 209,
+      "city": "West Jefferson/Madison"
+    },
+    {
+      "date": "02/06/2019",
+      "effective_date": "04/30/2019",
+      "state": "CA",
+      "workers": 510,
+      "city": "Moreno Valley"
+    },
+    {
+      "date": "02/23/2018",
+      "effective_date": "04/29/2018",
+      "state": "LA",
+      "workers": 96,
+      "city": "Pineville"
+    },
+    {
+      "date": "11/06/2017",
+      "effective_date": "01/26/2018",
+      "state": "NC",
+      "workers": 69,
+      "city": "Greensboro"
+    },
+    {
+      "date": "12/14/2016",
+      "effective_date": "02/13/2017",
+      "state": "VA",
+      "workers": 16,
+      "city": "Chesapeake, VA"
+    },
+    {
+      "date": "04/14/2016",
+      "effective_date": "06/15/2016",
+      "state": "IA",
+      "workers": 4,
+      "city": "West Branch"
+    },
+    {
+      "date": "03/31/2016",
+      "effective_date": "07/01/2016",
+      "state": "TX",
+      "workers": 28,
+      "city": "El Paso"
+    },
+    {
+      "date": "03/30/2016",
+      "effective_date": "06/05/2016",
+      "state": "CA",
+      "workers": 52,
+      "city": "Ontario"
+    },
+    {
+      "date": "01/26/2016",
+      "effective_date": "03/31/2016",
+      "state": "TX",
+      "workers": 29,
+      "city": "El Paso"
+    },
+    {
+      "date": "01/05/2016",
+      "effective_date": "03/05/2016",
+      "state": "IA",
+      "workers": 58,
+      "city": "Iowa City"
+    },
+    {
+      "date": "12/08/2015",
+      "effective_date": "02/07/2016",
+      "state": "IA",
+      "workers": 71,
+      "city": "West Branch"
+    },
+    {
+      "date": "08/05/2015",
+      "effective_date": "10/07/2015",
+      "state": "IA",
+      "workers": 77,
+      "city": "Iowa City"
+    },
+    {
+      "date": "07/02/2015",
+      "effective_date": "09/06/2015",
+      "state": "NC",
+      "workers": 33,
+      "city": "Summit/Greensboro"
+    },
+    {
+      "date": "03/26/2015",
+      "effective_date": "05/31/2015",
+      "state": "CA",
+      "workers": 29,
+      "city": "Hawthorne"
+    },
+    {
+      "date": "12/30/2014",
+      "effective_date": "03/02/2015",
+      "state": "TX",
+      "workers": 18,
+      "city": "El Paso"
+    },
+    {
+      "date": "09/16/2011",
+      "effective_date": "09/16/2011",
+      "state": "AZ",
+      "workers": 69,
+      "city": "7 - Maricopa County, Maricopa Workforce Connections"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "rapides-parish-wia",
+      "name": "Rapides Parish WIA",
+      "state": "LA"
+    },
+    {
+      "slug": "south-central-wia-pa",
+      "name": "South Central WIA",
+      "state": "PA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 9,
+    "initial_denials": 2,
+    "continuing_approvals": 6,
+    "continuing_denials": 1,
+    "total_approvals": 15,
+    "by_fy": [
+      {
+        "fy": 2009,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2010,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2011,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2012,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2013,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2014,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2015,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2016,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2017,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 2,
+        "initial_denials": 2,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 3,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 1,
+        "total_approvals": 6
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 4,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 5
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      }
+    ]
+  },
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": []
+}

@@ -1,0 +1,163 @@
+{
+  "slug": "genworth-north-america",
+  "canonical_name": "Genworth North America Corporation",
+  "fein": "91-1277112",
+  "lca_filing_count": 28,
+  "lca_worker_positions": 28,
+  "warn_notice_count": 0,
+  "median_wage_usd": 130603.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 118400.0
+    },
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 130970.0
+    },
+    {
+      "fy": 2022,
+      "filings": 5,
+      "median_wage_usd": 124467.0
+    },
+    {
+      "fy": 2023,
+      "filings": 7,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 149850.0
+    },
+    {
+      "fy": 2025,
+      "filings": 5,
+      "median_wage_usd": 156000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 6,
+      "median_wage_usd": 125603.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Application Development Manager",
+      "count": 3,
+      "median_wage_usd": 131206.0
+    },
+    {
+      "title": "Data Scientist",
+      "count": 2,
+      "median_wage_usd": 128583.5
+    },
+    {
+      "title": "Actuarial Development Program Analyst",
+      "count": 2,
+      "median_wage_usd": 81750.0
+    },
+    {
+      "title": "Senior IT Architecture Design Manager",
+      "count": 1,
+      "median_wage_usd": 123947.0
+    },
+    {
+      "title": "Actuary",
+      "count": 1,
+      "median_wage_usd": 167000.0
+    },
+    {
+      "title": "SENIOR APPLICATION DEVELOPER",
+      "count": 1,
+      "median_wage_usd": 185500.0
+    },
+    {
+      "title": "Senior ETL Developer",
+      "count": 1,
+      "median_wage_usd": 171500.0
+    },
+    {
+      "title": "Data Analysis and Modeling Manager ",
+      "count": 1,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "title": "Data Analysis Manager",
+      "count": 1,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "title": "Senior Actuary, LTC CFT Manager",
+      "count": 1,
+      "median_wage_usd": 119330.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "VA",
+      "county": "RICHMOND CITY",
+      "count": 10
+    },
+    {
+      "state": "VA",
+      "county": "HENRICO",
+      "count": 4
+    },
+    {
+      "state": "MA",
+      "county": "WALTHAM CITY",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "county": "HUDSON",
+      "count": 1
+    },
+    {
+      "state": "CT",
+      "county": "STAMFORD CITY",
+      "count": 1
+    },
+    {
+      "state": "CT",
+      "county": "FAIRFIELD",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "VA",
+      "count": 23
+    },
+    {
+      "state": "CT",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 150000.0,
+    "gap_usd": 19840.0
+  }
+}

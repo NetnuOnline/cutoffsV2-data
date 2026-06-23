@@ -1,0 +1,89 @@
+{
+  "slug": "froedtert-thedacare-health",
+  "canonical_name": "Froedtert ThedaCare Health, Inc.",
+  "fein": "39-2014409",
+  "lca_filing_count": 4,
+  "lca_worker_positions": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 144248.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 131893.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 415001.6,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Chief Technology Officer",
+      "count": 1,
+      "median_wage_usd": 415001.6
+    },
+    {
+      "title": "Engineering Product Manager",
+      "count": 1,
+      "median_wage_usd": 131893.0
+    },
+    {
+      "title": "Director, Enterprise Analytics and Data Strategy",
+      "count": 1,
+      "median_wage_usd": 156603.0
+    },
+    {
+      "title": "Pharmacist",
+      "count": 1,
+      "median_wage_usd": 83200.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NV",
+      "county": "CLARK",
+      "count": 1
+    },
+    {
+      "state": "WI",
+      "county": "MILWAUKEE",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "county": "WAKE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "count": 1
+    },
+    {
+      "state": "WI",
+      "count": 1
+    },
+    {
+      "state": "NV",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3021",
+    "soc_title": "Computer and Information Systems Managers",
+    "market_median_usd": 169510.0,
+    "employer_median_usd": 415001.6,
+    "gap_usd": 245491.6
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "slug": "crowdplum-global-services",
+  "canonical_name": "Crowdplum Global Services LLC",
+  "fein": "92-3505296",
+  "lca_filing_count": 4,
+  "lca_worker_positions": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 99767.5,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 102149.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 123375.5
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 81765.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Project Manager",
+      "count": 1,
+      "median_wage_usd": 102149.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 97386.0
+    },
+    {
+      "title": "Android Developer",
+      "count": 1,
+      "median_wage_usd": 149365.0
+    },
+    {
+      "title": "Computer System Engineer",
+      "count": 1,
+      "median_wage_usd": 81765.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MO",
+      "county": "ST LOUIS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MO",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 123375.5,
+    "gap_usd": -6784.5
+  }
+}

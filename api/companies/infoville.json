@@ -1,0 +1,203 @@
+{
+  "slug": "infoville",
+  "canonical_name": "Infoville, Inc",
+  "fein": "20-1170417",
+  "lca_filing_count": 62,
+  "lca_worker_positions": 69,
+  "warn_notice_count": 0,
+  "median_wage_usd": 106500.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 20,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 6,
+      "median_wage_usd": 98750.0
+    },
+    {
+      "fy": 2022,
+      "filings": 9,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 4,
+      "median_wage_usd": 123000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 11,
+      "median_wage_usd": 106000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 4,
+      "median_wage_usd": 107000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 7,
+      "median_wage_usd": 115000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 30,
+      "median_wage_usd": 110500.0
+    },
+    {
+      "title": "Software Application Developer",
+      "count": 5,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "title": "Senior Programmer Analyst",
+      "count": 4,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Programmer Analyst",
+      "count": 2,
+      "median_wage_usd": 93000.0
+    },
+    {
+      "title": "Sr. Software Developer(Maximo Consultant)",
+      "count": 2,
+      "median_wage_usd": 107750.0
+    },
+    {
+      "title": "Software Developer, Applications",
+      "count": 2,
+      "median_wage_usd": 106000.0
+    },
+    {
+      "title": "Senior Programmer Analyst ",
+      "count": 2,
+      "median_wage_usd": 105000.0
+    },
+    {
+      "title": "Software Engineer (DevOps)",
+      "count": 1,
+      "median_wage_usd": 86500.0
+    },
+    {
+      "title": "Sr. Software Developer ",
+      "count": 1,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": " Application Developer",
+      "count": 1,
+      "median_wage_usd": 90010.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "FL",
+      "county": "DUVAL",
+      "count": 7
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 6
+    },
+    {
+      "state": "NJ",
+      "county": "SOMERSET",
+      "count": 5
+    },
+    {
+      "state": "MN",
+      "county": "HENNEPIN",
+      "count": 4
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 3
+    },
+    {
+      "state": "PA",
+      "county": "PHILADELPHIA",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "MONTGOMERY",
+      "count": 2
+    },
+    {
+      "state": "OH",
+      "county": "FRANKLIN",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "county": "MIDDLESEX",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 14
+    },
+    {
+      "state": "TX",
+      "count": 10
+    },
+    {
+      "state": "FL",
+      "count": 8
+    },
+    {
+      "state": "GA",
+      "count": 6
+    },
+    {
+      "state": "MN",
+      "count": 5
+    },
+    {
+      "state": "TN",
+      "count": 3
+    },
+    {
+      "state": "OH",
+      "count": 3
+    },
+    {
+      "state": "PA",
+      "count": 2
+    },
+    {
+      "state": "NC",
+      "count": 1
+    },
+    {
+      "state": "DE",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 110500.0,
+    "gap_usd": -19660.0
+  }
+}

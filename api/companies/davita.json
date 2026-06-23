@@ -1,0 +1,203 @@
+{
+  "slug": "davita",
+  "canonical_name": "DaVita, Inc.",
+  "fein": "51-0354549",
+  "lca_filing_count": 110,
+  "lca_worker_positions": 109,
+  "warn_notice_count": 0,
+  "median_wage_usd": 111384.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 20,
+      "median_wage_usd": 101067.5
+    },
+    {
+      "fy": 2021,
+      "filings": 15,
+      "median_wage_usd": 109138.0
+    },
+    {
+      "fy": 2022,
+      "filings": 17,
+      "median_wage_usd": 116834.0
+    },
+    {
+      "fy": 2023,
+      "filings": 15,
+      "median_wage_usd": 110136.0
+    },
+    {
+      "fy": 2024,
+      "filings": 14,
+      "median_wage_usd": 120327.5
+    },
+    {
+      "fy": 2025,
+      "filings": 17,
+      "median_wage_usd": 126589.0
+    },
+    {
+      "fy": 2026,
+      "filings": 11,
+      "median_wage_usd": 120536.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Technical Lead, Software Development",
+      "count": 15,
+      "median_wage_usd": 124217.0
+    },
+    {
+      "title": "Senior Developer",
+      "count": 6,
+      "median_wage_usd": 110354.5
+    },
+    {
+      "title": "Senior Quality Assurance Analyst",
+      "count": 4,
+      "median_wage_usd": 91728.0
+    },
+    {
+      "title": "Senior Business Analyst",
+      "count": 4,
+      "median_wage_usd": 110822.5
+    },
+    {
+      "title": "Senior Analyst, Quality Assurance",
+      "count": 4,
+      "median_wage_usd": 89471.0
+    },
+    {
+      "title": "Senior Developer, Data Integration",
+      "count": 3,
+      "median_wage_usd": 103334.0
+    },
+    {
+      "title": "Technical Lead, Software Development (IT)",
+      "count": 3,
+      "median_wage_usd": 112861.0
+    },
+    {
+      "title": "Engineer, Operations System (IT)",
+      "count": 2,
+      "median_wage_usd": 105539.5
+    },
+    {
+      "title": "Data Integration Developer",
+      "count": 2,
+      "median_wage_usd": 92445.5
+    },
+    {
+      "title": "Manager, Quality Assurance (IT)",
+      "count": 2,
+      "median_wage_usd": 120245.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TN",
+      "county": "WILLIAMSON",
+      "count": 37
+    },
+    {
+      "state": "CO",
+      "county": "DENVER",
+      "count": 11
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 3
+    },
+    {
+      "state": "PA",
+      "county": "CHESTER",
+      "count": 3
+    },
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "ORANGE",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "county": "MIDDLESEX",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TN",
+      "count": 47
+    },
+    {
+      "state": "CO",
+      "count": 22
+    },
+    {
+      "state": "TX",
+      "count": 11
+    },
+    {
+      "state": "CA",
+      "count": 7
+    },
+    {
+      "state": "NJ",
+      "count": 5
+    },
+    {
+      "state": "PA",
+      "count": 5
+    },
+    {
+      "state": "WA",
+      "count": 4
+    },
+    {
+      "state": "GA",
+      "count": 2
+    },
+    {
+      "state": "FL",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 120994.0,
+    "gap_usd": -9166.0
+  }
+}

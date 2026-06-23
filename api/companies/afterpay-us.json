@@ -1,0 +1,190 @@
+{
+  "slug": "afterpay-us",
+  "canonical_name": "Afterpay US, Inc.",
+  "fein": "30-1008301",
+  "lca_filing_count": 68,
+  "lca_worker_positions": 67,
+  "warn_notice_count": 0,
+  "median_wage_usd": 169850.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 9,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 16,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 22,
+      "median_wage_usd": 171750.0
+    },
+    {
+      "fy": 2023,
+      "filings": 14,
+      "median_wage_usd": 170000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 5,
+      "median_wage_usd": 191400.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 202741.11,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Data Scientist",
+      "count": 6,
+      "median_wage_usd": 170000.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 6,
+      "median_wage_usd": 178000.0
+    },
+    {
+      "title": "Growth Marketing Manager, Acquisition Programs & Partnership",
+      "count": 5,
+      "median_wage_usd": 148000.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 4,
+      "median_wage_usd": 187040.0
+    },
+    {
+      "title": "Credit Risk Decision Scientist",
+      "count": 4,
+      "median_wage_usd": 169500.0
+    },
+    {
+      "title": "Business Intelligence Analyst",
+      "count": 3,
+      "median_wage_usd": 128900.0
+    },
+    {
+      "title": "Senior Marketing Analyst",
+      "count": 2,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "title": "Senior Risk Analyst, Fraud Risk",
+      "count": 2,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Strategy and Commercial Business Development Manager",
+      "count": 2,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "title": "Engineer II, Merchant",
+      "count": 2,
+      "median_wage_usd": 133750.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 35
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 10
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 6
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 5
+    },
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 3
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "SAN MATEO",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "county": "HUDSON",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "county": "MIAMI-DADE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 50
+    },
+    {
+      "state": "WA",
+      "count": 6
+    },
+    {
+      "state": "NY",
+      "count": 6
+    },
+    {
+      "state": "IL",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "count": 1
+    },
+    {
+      "state": "DE",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 185900.0,
+    "gap_usd": 55740.0
+  }
+}

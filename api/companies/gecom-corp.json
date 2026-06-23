@@ -1,0 +1,75 @@
+{
+  "slug": "gecom-corp",
+  "canonical_name": "GECOM Corp",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 6,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "KY",
+      "count": 4
+    },
+    {
+      "state": "IN",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "10/02/2013",
+      "effective_date": "10/02/2013",
+      "state": "KY",
+      "workers": 5,
+      "city": "Franklin"
+    },
+    {
+      "date": "04/11/2013",
+      "effective_date": "04/11/2013",
+      "state": "KY",
+      "workers": 85,
+      "city": "Franklin"
+    },
+    {
+      "date": "10/21/2009",
+      "effective_date": "10/21/2009",
+      "state": "KY",
+      "workers": 160,
+      "city": "Frankfort"
+    },
+    {
+      "date": "01/29/2009",
+      "effective_date": "01/29/2009",
+      "state": "KY",
+      "workers": 150,
+      "city": "Winchester"
+    },
+    {
+      "date": "07/29/2008",
+      "effective_date": "09/28/2008",
+      "state": "IN",
+      "workers": 136,
+      "city": "North Vernon"
+    },
+    {
+      "date": "07/20/2008",
+      "effective_date": "09/28/2008",
+      "state": "IN",
+      "workers": 136,
+      "city": "North Vernon"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "economic-growth-region-9",
+      "name": "Economic Growth Region 9",
+      "state": "IN"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

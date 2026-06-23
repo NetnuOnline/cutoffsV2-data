@@ -1,0 +1,112 @@
+{
+  "slug": "the-industrial-company",
+  "canonical_name": "The Industrial Company",
+  "fein": "76-0032594",
+  "lca_filing_count": 7,
+  "warn_notice_count": 0,
+  "median_wage_usd": 91455.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 81834.68
+    },
+    {
+      "fy": 2025,
+      "filings": 5,
+      "median_wage_usd": 91455.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Field/Office Engineer",
+      "count": 2,
+      "median_wage_usd": 91455.0
+    },
+    {
+      "title": "Project Engineer",
+      "count": 1,
+      "median_wage_usd": 120141.32
+    },
+    {
+      "title": "Safety Coordinator",
+      "count": 1,
+      "median_wage_usd": 84490.0
+    },
+    {
+      "title": "Engineer 2",
+      "count": 1,
+      "median_wage_usd": 79179.36
+    },
+    {
+      "title": "Field Engineer",
+      "count": 1,
+      "median_wage_usd": 91205.4
+    },
+    {
+      "title": "Field Engineer 3",
+      "count": 1,
+      "median_wage_usd": 102674.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "KINNEY",
+      "count": 1
+    },
+    {
+      "state": "KS",
+      "county": "JOHNSON",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "county": "HALIFAX",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 3
+    },
+    {
+      "state": "KS",
+      "count": 3
+    },
+    {
+      "state": "VA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 3,
+    "initial_denials": 0,
+    "continuing_approvals": 7,
+    "continuing_denials": 1,
+    "total_approvals": 10,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 3,
+        "initial_denials": 0,
+        "continuing_approvals": 4,
+        "continuing_denials": 1,
+        "total_approvals": 7
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      }
+    ]
+  },
+  "lca_worker_positions": 7,
+  "top_socs": [],
+  "lca_periods": []
+}

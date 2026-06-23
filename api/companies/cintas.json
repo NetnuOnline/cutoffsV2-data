@@ -1,0 +1,145 @@
+{
+  "slug": "cintas",
+  "canonical_name": "Cintas Corporation",
+  "fein": "31-1188630",
+  "lca_filing_count": 43,
+  "lca_worker_positions": 43,
+  "warn_notice_count": 0,
+  "median_wage_usd": 131250.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 6,
+      "median_wage_usd": 125246.735
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 80808.0
+    },
+    {
+      "fy": 2022,
+      "filings": 6,
+      "median_wage_usd": 129625.0
+    },
+    {
+      "fy": 2023,
+      "filings": 6,
+      "median_wage_usd": 131496.5
+    },
+    {
+      "fy": 2024,
+      "filings": 8,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 6,
+      "median_wage_usd": 135091.5
+    },
+    {
+      "fy": 2026,
+      "filings": 10,
+      "median_wage_usd": 139950.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SAP Developer-Level 3-ABAP-HANA",
+      "count": 2,
+      "median_wage_usd": 139858.0
+    },
+    {
+      "title": "SAP Development Lead",
+      "count": 2,
+      "median_wage_usd": 143681.54
+    },
+    {
+      "title": "Manager of Business Intelligence & Analytics",
+      "count": 2,
+      "median_wage_usd": 158059.0
+    },
+    {
+      "title": "SAP Developer-Level 3-BW",
+      "count": 2,
+      "median_wage_usd": 129500.0
+    },
+    {
+      "title": "Product Development Manager - Textiles",
+      "count": 2,
+      "median_wage_usd": 132621.5
+    },
+    {
+      "title": "International Productivity Engineer II",
+      "count": 2,
+      "median_wage_usd": 115168.12
+    },
+    {
+      "title": "SAP Basis Administrator - Level 3",
+      "count": 2,
+      "median_wage_usd": 140346.75
+    },
+    {
+      "title": "SAP Functional Analyst - Level 3 - Vistek",
+      "count": 2,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Software Engineer - Level 2 - JAVA",
+      "count": 1,
+      "median_wage_usd": 108600.0
+    },
+    {
+      "title": "SAP Functional Analyst - Level 3 - Vistex",
+      "count": 1,
+      "median_wage_usd": 130000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "OH",
+      "county": "WARREN",
+      "count": 24
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 2
+    },
+    {
+      "state": "OH",
+      "county": "HAMILTON",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "OH",
+      "count": 40
+    },
+    {
+      "state": "IL",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 134120.27,
+    "gap_usd": 3960.27
+  }
+}

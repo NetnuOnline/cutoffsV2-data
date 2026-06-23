@@ -1,0 +1,203 @@
+{
+  "slug": "mahaugha",
+  "canonical_name": "MAHAUGHA, LLC.",
+  "fein": "46-5577683",
+  "lca_filing_count": 105,
+  "lca_worker_positions": 105,
+  "warn_notice_count": 0,
+  "median_wage_usd": 89253.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 85000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 6,
+      "median_wage_usd": 76997.0
+    },
+    {
+      "fy": 2022,
+      "filings": 13,
+      "median_wage_usd": 98904.0
+    },
+    {
+      "fy": 2023,
+      "filings": 54,
+      "median_wage_usd": 89253.0
+    },
+    {
+      "fy": 2024,
+      "filings": 12,
+      "median_wage_usd": 90813.0
+    },
+    {
+      "fy": 2025,
+      "filings": 4,
+      "median_wage_usd": 95000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 15,
+      "median_wage_usd": 112923.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SOFTWARE DEVELOPER",
+      "count": 37,
+      "median_wage_usd": 89253.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 10,
+      "median_wage_usd": 111103.0
+    },
+    {
+      "title": "SOFTWARE ENGINEER",
+      "count": 9,
+      "median_wage_usd": 75899.0
+    },
+    {
+      "title": "SAP CONSULTANT",
+      "count": 8,
+      "median_wage_usd": 89253.0
+    },
+    {
+      "title": "QUALITY ANALYST",
+      "count": 7,
+      "median_wage_usd": 77813.0
+    },
+    {
+      "title": "DEVOPS ENGINEER",
+      "count": 5,
+      "median_wage_usd": 89253.0
+    },
+    {
+      "title": "QA ENGINEER",
+      "count": 5,
+      "median_wage_usd": 95000.0
+    },
+    {
+      "title": "DATA ENGINEER",
+      "count": 4,
+      "median_wage_usd": 94068.0
+    },
+    {
+      "title": "BUSINESS ANALYST",
+      "count": 4,
+      "median_wage_usd": 107338.5
+    },
+    {
+      "title": "Database Admistrator",
+      "count": 2,
+      "median_wage_usd": 88982.5
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NJ",
+      "county": "MIDDLESEX",
+      "count": 24
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 8
+    },
+    {
+      "state": "NY",
+      "county": "ALBANY",
+      "count": 5
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 5
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 5
+    },
+    {
+      "state": "MO",
+      "county": "ST LOUIS",
+      "count": 5
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 3
+    },
+    {
+      "state": "MO",
+      "county": "JACKSON",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 3
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 29
+    },
+    {
+      "state": "NJ",
+      "count": 26
+    },
+    {
+      "state": "MO",
+      "count": 9
+    },
+    {
+      "state": "NY",
+      "count": 8
+    },
+    {
+      "state": "GA",
+      "count": 6
+    },
+    {
+      "state": "IL",
+      "count": 5
+    },
+    {
+      "state": "CA",
+      "count": 4
+    },
+    {
+      "state": "WA",
+      "count": 4
+    },
+    {
+      "state": "RI",
+      "count": 2
+    },
+    {
+      "state": "TN",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 89949.5,
+    "gap_usd": -40210.5
+  }
+}

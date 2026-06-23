@@ -1,0 +1,52 @@
+{
+  "slug": "linamar-structures-usa",
+  "canonical_name": "Linamar Structures USA",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "AL",
+      "count": 1
+    },
+    {
+      "state": "OH",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "05/06/2024",
+      "effective_date": "08/15/2024",
+      "state": "AL",
+      "workers": 152,
+      "city": "Hartselle"
+    },
+    {
+      "date": "02/02/2024",
+      "effective_date": "04/01/2024",
+      "state": "OH",
+      "workers": 106,
+      "city": "Edon/Williams"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "north-alabama-works",
+      "name": "North Alabama Works",
+      "state": "AL"
+    },
+    {
+      "slug": "northwest-ohio",
+      "name": "Northwest Ohio",
+      "state": "OH"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

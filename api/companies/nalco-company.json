@@ -1,0 +1,110 @@
+{
+  "slug": "nalco-company",
+  "canonical_name": "Nalco Company LLC",
+  "fein": "82-4607045",
+  "lca_filing_count": 7,
+  "lca_worker_positions": 7,
+  "warn_notice_count": 0,
+  "median_wage_usd": 137000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 122976.0
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 121658.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 144775.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 137000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 164000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Lead IT Developer ",
+      "count": 1,
+      "median_wage_usd": 122976.0
+    },
+    {
+      "title": "Commercial Operations Manager",
+      "count": 1,
+      "median_wage_usd": 155000.0
+    },
+    {
+      "title": "Financial Analysis Manager I",
+      "count": 1,
+      "median_wage_usd": 137000.0
+    },
+    {
+      "title": "Marketing Director",
+      "count": 1,
+      "median_wage_usd": 155000.0
+    },
+    {
+      "title": "Marketing Manager",
+      "count": 1,
+      "median_wage_usd": 121658.0
+    },
+    {
+      "title": "District Account Manager",
+      "count": 1,
+      "median_wage_usd": 173000.0
+    },
+    {
+      "title": "Sr. Lead IT Business Process Analyst",
+      "count": 1,
+      "median_wage_usd": 134550.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MN",
+      "county": "RAMSEY",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "FORT BEND",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 4
+    },
+    {
+      "state": "MN",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-2021",
+    "soc_title": "Marketing Managers",
+    "market_median_usd": 157620.0,
+    "employer_median_usd": 155000.0,
+    "gap_usd": -2620.0
+  }
+}

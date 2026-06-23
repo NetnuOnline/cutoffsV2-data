@@ -1,0 +1,202 @@
+{
+  "slug": "afiniti",
+  "canonical_name": "Afiniti, Inc.",
+  "fein": "55-0872266",
+  "lca_filing_count": 21,
+  "warn_notice_count": 0,
+  "median_wage_usd": 133750.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 97500.0
+    },
+    {
+      "fy": 2021,
+      "filings": 4,
+      "median_wage_usd": 99281.0
+    },
+    {
+      "fy": 2022,
+      "filings": 3,
+      "median_wage_usd": 143000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 135500.0
+    },
+    {
+      "fy": 2024,
+      "filings": 9,
+      "median_wage_usd": 138798.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 134919.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Data Scientist II",
+      "count": 3,
+      "median_wage_usd": 133750.0
+    },
+    {
+      "title": "Senior Data Scientist",
+      "count": 2,
+      "median_wage_usd": 142399.0
+    },
+    {
+      "title": "Sr. Data Scientist",
+      "count": 2,
+      "median_wage_usd": 147322.5
+    },
+    {
+      "title": "Lead Data Engineer",
+      "count": 1,
+      "median_wage_usd": 121000.0
+    },
+    {
+      "title": "Senior Associate, ETL Engineer",
+      "count": 1,
+      "median_wage_usd": 78562.0
+    },
+    {
+      "title": "Data Scientist",
+      "count": 1,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "Research Scientist II ",
+      "count": 1,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "Data Engineer",
+      "count": 1,
+      "median_wage_usd": 97500.0
+    },
+    {
+      "title": "Staff Research Scientist",
+      "count": 1,
+      "median_wage_usd": 175000.0
+    },
+    {
+      "title": "Lead Research Scientist ",
+      "count": 1,
+      "median_wage_usd": 164000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "DC",
+      "county": "DISTRICT OF COLUMBIA",
+      "count": 13
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "FORT BEND",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "county": "HUDSON",
+      "count": 1
+    },
+    {
+      "state": "MD",
+      "county": "MONTGOMERY",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "DC",
+      "count": 13
+    },
+    {
+      "state": "TX",
+      "count": 3
+    },
+    {
+      "state": "WA",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "MD",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 36,
+    "initial_denials": 0,
+    "continuing_approvals": 11,
+    "continuing_denials": 2,
+    "total_approvals": 47,
+    "by_fy": [
+      {
+        "fy": 2020,
+        "initial_approvals": 4,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 1,
+        "total_approvals": 6
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 20,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 22
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 10,
+        "initial_denials": 0,
+        "continuing_approvals": 5,
+        "continuing_denials": 0,
+        "total_approvals": 15
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 1,
+        "total_approvals": 4
+      }
+    ]
+  },
+  "lca_worker_positions": 23,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 145891.0,
+    "gap_usd": 37871.0
+  }
+}

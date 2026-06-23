@@ -1,0 +1,47 @@
+{
+  "slug": "aps-healthcare",
+  "canonical_name": "APS Healthcare",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "TN",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "10/18/2012",
+      "effective_date": "12/31/2012",
+      "state": "TN",
+      "workers": 37,
+      "city": "Franklin"
+    },
+    {
+      "date": "10/04/2010",
+      "effective_date": "10/04/2010",
+      "state": "GA",
+      "workers": 52,
+      "city": "College Park"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "08-local-workforce-investment-area",
+      "name": "08 Local Workforce Investment Area",
+      "state": "TN"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

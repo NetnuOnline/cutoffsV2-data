@@ -1,0 +1,411 @@
+{
+  "slug": "twitter",
+  "canonical_name": "Twitter, Inc.",
+  "fein": null,
+  "lca_filing_count": 207,
+  "warn_notice_count": 13,
+  "median_wage_usd": 172630.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 58,
+      "median_wage_usd": 168835.0
+    },
+    {
+      "fy": 2021,
+      "filings": 110,
+      "median_wage_usd": 170500.0
+    },
+    {
+      "fy": 2022,
+      "filings": 36,
+      "median_wage_usd": 197370.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer II",
+      "count": 32,
+      "median_wage_usd": 163800.0
+    },
+    {
+      "title": "Sr. Software Engineer",
+      "count": 14,
+      "median_wage_usd": 196250.0
+    },
+    {
+      "title": "ML Engineer II",
+      "count": 13,
+      "median_wage_usd": 170000.0
+    },
+    {
+      "title": "Software Engineer I",
+      "count": 9,
+      "median_wage_usd": 136000.0
+    },
+    {
+      "title": "Data Scientist II",
+      "count": 6,
+      "median_wage_usd": 163950.0
+    },
+    {
+      "title": "Sr. ML Engineer",
+      "count": 6,
+      "median_wage_usd": 190000.0
+    },
+    {
+      "title": "Sr. Data Scientist",
+      "count": 6,
+      "median_wage_usd": 190500.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 5,
+      "median_wage_usd": 165000.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 5,
+      "median_wage_usd": 180260.0
+    },
+    {
+      "title": "Staff Software Engineer ",
+      "count": 4,
+      "median_wage_usd": 225000.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 121
+    },
+    {
+      "state": "WA",
+      "count": 35
+    },
+    {
+      "state": "NY",
+      "count": 27
+    },
+    {
+      "state": "MA",
+      "count": 5
+    },
+    {
+      "state": "TX",
+      "count": 5
+    },
+    {
+      "state": "DC",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "count": 2
+    },
+    {
+      "state": "CO",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 104
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 35
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 21
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 13
+    },
+    {
+      "state": "MA",
+      "county": "BOSTON CITY",
+      "count": 5
+    },
+    {
+      "state": "NY",
+      "county": "KINGS",
+      "count": 3
+    },
+    {
+      "state": "NY",
+      "county": "NASSAU",
+      "count": 3
+    },
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 3
+    },
+    {
+      "state": "NJ",
+      "county": "HUDSON",
+      "count": 2
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "11/25/2022",
+      "effective_date": "01/20/2023",
+      "state": "CA",
+      "workers": 22,
+      "city": "San Jose"
+    },
+    {
+      "date": "11/25/2022",
+      "effective_date": "01/20/2023",
+      "state": "CO",
+      "workers": 0,
+      "city": "Boulder"
+    },
+    {
+      "date": "11/09/2022",
+      "effective_date": "01/04/2023",
+      "state": "GA",
+      "workers": 62,
+      "city": "Atlanta"
+    },
+    {
+      "date": "11/08/2022",
+      "effective_date": "01/21/2023",
+      "state": "CA",
+      "workers": 4,
+      "city": "Santa Monica"
+    },
+    {
+      "date": "11/04/2022",
+      "effective_date": "02/02/2023",
+      "state": "NY",
+      "workers": 418,
+      "city": "New York"
+    },
+    {
+      "date": "11/04/2022",
+      "effective_date": "01/04/2023",
+      "state": "CA",
+      "workers": 106,
+      "city": "San Jose"
+    },
+    {
+      "date": "11/04/2022",
+      "effective_date": "01/04/2023",
+      "state": "CA",
+      "workers": 784,
+      "city": "San Francisco"
+    },
+    {
+      "date": "11/04/2022",
+      "effective_date": "01/04/2023",
+      "state": "WA",
+      "workers": 257,
+      "city": "Seattle"
+    },
+    {
+      "date": "11/04/2022",
+      "effective_date": "11/04/2022",
+      "state": "MA",
+      "workers": 0,
+      "city": "Boston"
+    },
+    {
+      "date": "11/04/2022",
+      "effective_date": "11/04/2022",
+      "state": "MA",
+      "workers": 55,
+      "city": "Boston"
+    },
+    {
+      "date": "01/04/2022",
+      "effective_date": "01/04/2023",
+      "state": "CO",
+      "workers": 87,
+      "city": "Boulder"
+    },
+    {
+      "date": "10/27/2016",
+      "effective_date": "12/27/2016",
+      "state": "CA",
+      "workers": 67,
+      "city": "San Francisco"
+    },
+    {
+      "date": "10/12/2015",
+      "effective_date": "12/13/2015",
+      "state": "CA",
+      "workers": 240,
+      "city": "San Francisco"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "boulder-wib",
+      "name": "Boulder WIB",
+      "state": "CO"
+    },
+    {
+      "slug": "city-of-atlanta-wib",
+      "name": "City of Atlanta WIB",
+      "state": "GA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 208,
+    "initial_denials": 3,
+    "continuing_approvals": 813,
+    "continuing_denials": 26,
+    "total_approvals": 1021,
+    "by_fy": [
+      {
+        "fy": 2009,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2010,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2011,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2012,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2013,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2014,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2015,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2016,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2017,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 67,
+        "initial_denials": 1,
+        "continuing_approvals": 188,
+        "continuing_denials": 4,
+        "total_approvals": 255
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 62,
+        "initial_denials": 2,
+        "continuing_approvals": 294,
+        "continuing_denials": 4,
+        "total_approvals": 356
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 71,
+        "initial_denials": 0,
+        "continuing_approvals": 281,
+        "continuing_denials": 10,
+        "total_approvals": 352
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 8,
+        "initial_denials": 0,
+        "continuing_approvals": 50,
+        "continuing_denials": 8,
+        "total_approvals": 58
+      }
+    ]
+  },
+  "lca_worker_positions": 204,
+  "top_socs": [],
+  "lca_periods": []
+}

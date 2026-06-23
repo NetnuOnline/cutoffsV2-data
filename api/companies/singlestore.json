@@ -1,0 +1,170 @@
+{
+  "slug": "singlestore",
+  "canonical_name": "SingleStore, Inc.",
+  "fein": "27-4338678",
+  "lca_filing_count": 13,
+  "warn_notice_count": 0,
+  "median_wage_usd": 180000.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 4,
+      "median_wage_usd": 172000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 7,
+      "median_wage_usd": 190000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 180000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineering Manager",
+      "count": 2,
+      "median_wage_usd": 190000.0
+    },
+    {
+      "title": "Senior Software Engineer, Backend",
+      "count": 2,
+      "median_wage_usd": 172000.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 2,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "title": "PRINCIPAL SOLUTIONS ENGINEER",
+      "count": 1,
+      "median_wage_usd": 175000.0
+    },
+    {
+      "title": "Technical Account Manager",
+      "count": 1,
+      "median_wage_usd": 165000.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 1,
+      "median_wage_usd": 185000.0
+    },
+    {
+      "title": "Senior Director, Developer Experience & Community",
+      "count": 1,
+      "median_wage_usd": 220000.0
+    },
+    {
+      "title": "Senior Solution Engineer",
+      "count": 1,
+      "median_wage_usd": 180000.0
+    },
+    {
+      "title": "Principal Product Manager",
+      "count": 1,
+      "median_wage_usd": 206482.0
+    },
+    {
+      "title": "Staff Product Manager",
+      "count": 1,
+      "median_wage_usd": 210000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 8
+    },
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 2
+    },
+    {
+      "state": "CO",
+      "county": "ARAPAHOE",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "WA",
+      "count": 8
+    },
+    {
+      "state": "CA",
+      "count": 2
+    },
+    {
+      "state": "GA",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "count": 1
+    },
+    {
+      "state": "CO",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 4,
+    "initial_denials": 0,
+    "continuing_approvals": 18,
+    "continuing_denials": 0,
+    "total_approvals": 22,
+    "by_fy": [
+      {
+        "fy": 2021,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 4,
+        "continuing_denials": 0,
+        "total_approvals": 6
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 10,
+        "continuing_denials": 0,
+        "total_approvals": 12
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 4,
+        "continuing_denials": 0,
+        "total_approvals": 4
+      }
+    ]
+  },
+  "lca_worker_positions": 13,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 172000.0,
+    "gap_usd": 41840.0
+  }
+}

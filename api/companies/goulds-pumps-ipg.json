@@ -1,0 +1,61 @@
+{
+  "slug": "goulds-pumps-ipg",
+  "canonical_name": "Goulds Pumps IPG LLC",
+  "fein": "16-1489901",
+  "lca_filing_count": 2,
+  "lca_worker_positions": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 182596.89,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 146793.78
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 218400.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "DIRECTOR, IT PROGRAM MANAGEMENT",
+      "count": 1,
+      "median_wage_usd": 218400.0
+    },
+    {
+      "title": "Manager, Marketing & Product Management",
+      "count": 1,
+      "median_wage_usd": 146793.78
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "FORT BEND",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3021",
+    "soc_title": "Computer and Information Systems Managers",
+    "market_median_usd": 169510.0,
+    "employer_median_usd": 218400.0,
+    "gap_usd": 48890.0
+  }
+}

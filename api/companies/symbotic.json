@@ -1,0 +1,195 @@
+{
+  "slug": "symbotic",
+  "canonical_name": "Symbotic LLC",
+  "fein": "20-8782926",
+  "lca_filing_count": 70,
+  "lca_worker_positions": 69,
+  "warn_notice_count": 0,
+  "median_wage_usd": 152065.5,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 6,
+      "median_wage_usd": 114750.0
+    },
+    {
+      "fy": 2021,
+      "filings": 7,
+      "median_wage_usd": 111037.0
+    },
+    {
+      "fy": 2022,
+      "filings": 3,
+      "median_wage_usd": 154000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 16,
+      "median_wage_usd": 131652.0
+    },
+    {
+      "fy": 2024,
+      "filings": 10,
+      "median_wage_usd": 161375.0
+    },
+    {
+      "fy": 2025,
+      "filings": 21,
+      "median_wage_usd": 176269.34
+    },
+    {
+      "fy": 2026,
+      "filings": 6,
+      "median_wage_usd": 182000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Software Engineer",
+      "count": 11,
+      "median_wage_usd": 158000.0
+    },
+    {
+      "title": "Senior DevOps Engineer",
+      "count": 3,
+      "median_wage_usd": 162000.0
+    },
+    {
+      "title": "Advanced Software Engineer",
+      "count": 3,
+      "median_wage_usd": 123000.0
+    },
+    {
+      "title": "Senior Robotics Controls Engineer",
+      "count": 2,
+      "median_wage_usd": 170000.0
+    },
+    {
+      "title": "Advanced Robotics Engineer",
+      "count": 2,
+      "median_wage_usd": 120460.0
+    },
+    {
+      "title": "Principal Test Automation Engineer",
+      "count": 2,
+      "median_wage_usd": 149614.5
+    },
+    {
+      "title": "Mechanical Engineer",
+      "count": 2,
+      "median_wage_usd": 78491.05
+    },
+    {
+      "title": "Principal Software Engineer",
+      "count": 2,
+      "median_wage_usd": 175565.5
+    },
+    {
+      "title": "Manager, Software Engineering",
+      "count": 2,
+      "median_wage_usd": 172500.0
+    },
+    {
+      "title": "Principal SAP Implementation Lead, PS",
+      "count": 2,
+      "median_wage_usd": 162000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MA",
+      "county": "WILMINGTON",
+      "count": 35
+    },
+    {
+      "state": "MD",
+      "county": "HOWARD",
+      "count": 2
+    },
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    },
+    {
+      "state": "MN",
+      "county": "OLMSTED",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "county": "MALDEN CITY",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "county": "STOW",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "county": "GRAFTON",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "county": "OAKLAND",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "county": "WAYNE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MA",
+      "count": 59
+    },
+    {
+      "state": "MI",
+      "count": 2
+    },
+    {
+      "state": "MD",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "AZ",
+      "count": 2
+    },
+    {
+      "state": "MN",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 173000.0,
+    "gap_usd": 42840.0
+  }
+}

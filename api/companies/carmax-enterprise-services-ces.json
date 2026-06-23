@@ -1,0 +1,148 @@
+{
+  "slug": "carmax-enterprise-services-ces",
+  "canonical_name": "CarMax Enterprise Services, LLC (CES)",
+  "fein": "87-2574952",
+  "lca_filing_count": 9,
+  "warn_notice_count": 0,
+  "median_wage_usd": 162300.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 3,
+      "median_wage_usd": 170000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 152956.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Engineer, Software",
+      "count": 2,
+      "median_wage_usd": 167586.5
+    },
+    {
+      "title": "Architect, Application Systems",
+      "count": 1,
+      "median_wage_usd": 180000.0
+    },
+    {
+      "title": "Principal Engineer, Software",
+      "count": 1,
+      "median_wage_usd": 170000.0
+    },
+    {
+      "title": "Senior Engineer, Quality ",
+      "count": 1,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "title": "Principal Software Engineer",
+      "count": 1,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "title": "Senior Salesforce Software Engineer",
+      "count": 1,
+      "median_wage_usd": 162300.0
+    },
+    {
+      "title": "Solution Architect - Digital Commerce",
+      "count": 1,
+      "median_wage_usd": 160000.0
+    },
+    {
+      "title": "Principal Engineer, Quality",
+      "count": 1,
+      "median_wage_usd": 143612.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "VA",
+      "county": "RICHMOND CITY",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 3
+    },
+    {
+      "state": "OH",
+      "county": "FRANKLIN",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "county": "FRANKLIN CITY",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "county": "LOUDOUN",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "VA",
+      "count": 4
+    },
+    {
+      "state": "TX",
+      "count": 3
+    },
+    {
+      "state": "MA",
+      "count": 1
+    },
+    {
+      "state": "OH",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 25,
+    "continuing_denials": 0,
+    "total_approvals": 26,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 13,
+        "continuing_denials": 0,
+        "total_approvals": 13
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 12,
+        "continuing_denials": 0,
+        "total_approvals": 13
+      }
+    ]
+  },
+  "lca_worker_positions": 8,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 163736.5,
+    "gap_usd": 33576.5
+  }
+}

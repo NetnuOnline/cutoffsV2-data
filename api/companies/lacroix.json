@@ -1,0 +1,52 @@
+{
+  "slug": "lacroix",
+  "canonical_name": "LACROIX",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "05/27/2025",
+      "effective_date": "07/01/2025",
+      "state": "TX",
+      "workers": 7,
+      "city": "El Paso"
+    },
+    {
+      "date": "05/19/2025",
+      "effective_date": "06/20/2025",
+      "state": "FL",
+      "workers": 1,
+      "city": "TALLAHASSEE"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "careersource-capital-region",
+      "name": "CareerSource Capital Region",
+      "state": "FL"
+    },
+    {
+      "slug": "upper-rio-grande-wda",
+      "name": "Upper Rio Grande WDA",
+      "state": "TX"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "dtc-sg",
+  "canonical_name": "DTC SG INC",
+  "fein": "99-3082666",
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 72800.0,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 72800.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Management Analyst",
+      "count": 2,
+      "median_wage_usd": 72800.0
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1111",
+    "soc_title": "Management Analysts",
+    "market_median_usd": 99000.0,
+    "employer_median_usd": 72800.0,
+    "gap_usd": -26200.0
+  }
+}

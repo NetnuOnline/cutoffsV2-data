@@ -1,0 +1,121 @@
+{
+  "slug": "dairyland-power-cooperative",
+  "canonical_name": "Dairyland Power Cooperative",
+  "fein": null,
+  "lca_filing_count": 3,
+  "warn_notice_count": 1,
+  "median_wage_usd": 118638.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 113565.3
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 118638.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Project Engineer II",
+      "count": 1,
+      "median_wage_usd": 107993.6
+    },
+    {
+      "title": "Senior Software Architect",
+      "count": 1,
+      "median_wage_usd": 118638.0
+    },
+    {
+      "title": "Operations Engineer II",
+      "count": 1,
+      "median_wage_usd": 119137.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "WI",
+      "count": 3
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "WI",
+      "county": "LA CROSSE",
+      "count": 3
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "03/25/2021",
+      "effective_date": "06/01/2021",
+      "state": "WI",
+      "workers": 63,
+      "city": "Genoa"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "western-wda",
+      "name": "Western WDA",
+      "state": "WI"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 3,
+    "continuing_denials": 0,
+    "total_approvals": 3,
+    "by_fy": [
+      {
+        "fy": 2011,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2016,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      }
+    ]
+  },
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": []
+}

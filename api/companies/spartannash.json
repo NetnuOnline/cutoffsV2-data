@@ -1,0 +1,102 @@
+{
+  "slug": "spartannash",
+  "canonical_name": "SpartanNash",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 6,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "WI",
+      "count": 2
+    },
+    {
+      "state": "MI",
+      "count": 1
+    },
+    {
+      "state": "IA",
+      "count": 1
+    },
+    {
+      "state": "MD",
+      "count": 1
+    },
+    {
+      "state": "IN",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "02/10/2026",
+      "effective_date": "04/11/2026",
+      "state": "WI",
+      "workers": 57,
+      "city": "Chippewa Falls"
+    },
+    {
+      "date": "01/15/2025",
+      "effective_date": "03/16/2025",
+      "state": "WI",
+      "workers": 45,
+      "city": "Chippewa Falls"
+    },
+    {
+      "date": "01/15/2025",
+      "effective_date": "03/16/2025",
+      "state": "MI",
+      "workers": 54,
+      "city": "Caro, Michigan"
+    },
+    {
+      "date": "01/15/2025",
+      "effective_date": "02/14/2025",
+      "state": "IA",
+      "workers": 23,
+      "city": "Glenwood"
+    },
+    {
+      "date": "07/16/2024",
+      "effective_date": "09/30/2024",
+      "state": "MD",
+      "workers": 141,
+      "city": "Hyattsville"
+    },
+    {
+      "date": "02/11/2016",
+      "effective_date": "04/11/2016",
+      "state": "IN",
+      "workers": 76,
+      "city": "Westville"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "region-13-council-bluffs-wib",
+      "name": "Region 13 - Council Bluffs WIB",
+      "state": "IA"
+    },
+    {
+      "slug": "prince-georges-wia",
+      "name": "Prince George's WIA",
+      "state": "MD"
+    },
+    {
+      "slug": "thumb-area-employment-training-consortium",
+      "name": "Thumb Area Employment & Training Consortium",
+      "state": "MI"
+    },
+    {
+      "slug": "west-central-wda-wi",
+      "name": "West Central WDA",
+      "state": "WI"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

@@ -1,0 +1,121 @@
+{
+  "slug": "okg-usa-technology",
+  "canonical_name": "OKG USA Technology Inc.",
+  "fein": null,
+  "lca_filing_count": 16,
+  "warn_notice_count": 0,
+  "median_wage_usd": 181655.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 4,
+      "median_wage_usd": 170872.0
+    },
+    {
+      "fy": 2023,
+      "filings": 12,
+      "median_wage_usd": 182331.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Product Manager - Payment",
+      "count": 3,
+      "median_wage_usd": 180000.0
+    },
+    {
+      "title": "Engineer II, Payments",
+      "count": 1,
+      "median_wage_usd": 180000.0
+    },
+    {
+      "title": "Staff Software Engineer, Payments",
+      "count": 1,
+      "median_wage_usd": 245000.0
+    },
+    {
+      "title": "Content Designer",
+      "count": 1,
+      "median_wage_usd": 153379.0
+    },
+    {
+      "title": "Sr Product Manager - Globalization Platform and Tools",
+      "count": 1,
+      "median_wage_usd": 200000.0
+    },
+    {
+      "title": "Sr. Android Engineer",
+      "count": 1,
+      "median_wage_usd": 210000.0
+    },
+    {
+      "title": "Product Manager",
+      "count": 1,
+      "median_wage_usd": 158434.0
+    },
+    {
+      "title": "Senior Product Manager",
+      "count": 1,
+      "median_wage_usd": 230000.0
+    },
+    {
+      "title": "Software Engineer, Fiat Gateway",
+      "count": 1,
+      "median_wage_usd": 175000.0
+    },
+    {
+      "title": "Mobile Engineer, Android ",
+      "count": 1,
+      "median_wage_usd": 192941.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 16
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 16
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 6,
+    "initial_denials": 0,
+    "continuing_approvals": 17,
+    "continuing_denials": 0,
+    "total_approvals": 23,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 5,
+        "initial_denials": 0,
+        "continuing_approvals": 7,
+        "continuing_denials": 0,
+        "total_approvals": 12
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 10,
+        "continuing_denials": 0,
+        "total_approvals": 11
+      }
+    ]
+  },
+  "lca_worker_positions": 16,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 184662.0,
+    "gap_usd": 54502.0
+  }
+}

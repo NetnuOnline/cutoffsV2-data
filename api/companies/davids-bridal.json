@@ -1,0 +1,990 @@
+{
+  "slug": "davids-bridal",
+  "canonical_name": "David's  Bridal",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 112,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 25
+    },
+    {
+      "state": "TX",
+      "count": 24
+    },
+    {
+      "state": "NC",
+      "count": 10
+    },
+    {
+      "state": "NY",
+      "count": 8
+    },
+    {
+      "state": "MN",
+      "count": 5
+    },
+    {
+      "state": "OR",
+      "count": 5
+    },
+    {
+      "state": "CO",
+      "count": 4
+    },
+    {
+      "state": "CT",
+      "count": 4
+    },
+    {
+      "state": "IA",
+      "count": 4
+    },
+    {
+      "state": "MA",
+      "count": 4
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "09/18/2023",
+      "effective_date": "04/14/2023",
+      "state": "GA",
+      "workers": 193,
+      "city": "1705 mall of GA blvd, Buford, Georgia"
+    },
+    {
+      "date": "07/17/2023",
+      "effective_date": "07/17/2023",
+      "state": "TX",
+      "workers": 43,
+      "city": "Austin"
+    },
+    {
+      "date": "07/17/2023",
+      "effective_date": "07/17/2023",
+      "state": "TX",
+      "workers": 31,
+      "city": "Tyler"
+    },
+    {
+      "date": "07/17/2023",
+      "effective_date": "07/17/2023",
+      "state": "TX",
+      "workers": 28,
+      "city": "Lewisville"
+    },
+    {
+      "date": "07/17/2023",
+      "effective_date": "07/17/2023",
+      "state": "TX",
+      "workers": 21,
+      "city": "Beaumont"
+    },
+    {
+      "date": "07/17/2023",
+      "effective_date": "07/17/2023",
+      "state": "TX",
+      "workers": 27,
+      "city": "Mesquite"
+    },
+    {
+      "date": "07/17/2023",
+      "effective_date": "07/17/2023",
+      "state": "TX",
+      "workers": 33,
+      "city": "Dallas"
+    },
+    {
+      "date": "07/17/2023",
+      "effective_date": "07/17/2023",
+      "state": "TX",
+      "workers": 25,
+      "city": "Hurst"
+    },
+    {
+      "date": "07/17/2023",
+      "effective_date": "07/17/2023",
+      "state": "TX",
+      "workers": 41,
+      "city": "Woodlands"
+    },
+    {
+      "date": "07/17/2023",
+      "effective_date": "07/17/2023",
+      "state": "TX",
+      "workers": 38,
+      "city": "San Antonio"
+    },
+    {
+      "date": "07/17/2023",
+      "effective_date": "07/17/2023",
+      "state": "TX",
+      "workers": 39,
+      "city": "Houston"
+    },
+    {
+      "date": "07/17/2023",
+      "effective_date": "07/17/2023",
+      "state": "TX",
+      "workers": 35,
+      "city": "Friendswood"
+    },
+    {
+      "date": "07/17/2023",
+      "effective_date": "07/17/2023",
+      "state": "TX",
+      "workers": 27,
+      "city": "Arlington"
+    },
+    {
+      "date": "07/17/2023",
+      "effective_date": "07/17/2023",
+      "state": "TX",
+      "workers": 53,
+      "city": "Frisco"
+    },
+    {
+      "date": "07/17/2023",
+      "effective_date": "07/17/2023",
+      "state": "TX",
+      "workers": 31,
+      "city": "Lubbock"
+    },
+    {
+      "date": "07/17/2023",
+      "effective_date": "07/17/2023",
+      "state": "TX",
+      "workers": 26,
+      "city": "Austin"
+    },
+    {
+      "date": "07/17/2023",
+      "effective_date": "07/17/2023",
+      "state": "TX",
+      "workers": 26,
+      "city": "El Paso"
+    },
+    {
+      "date": "07/17/2023",
+      "effective_date": "07/17/2023",
+      "state": "TX",
+      "workers": 14,
+      "city": "College Station"
+    },
+    {
+      "date": "07/17/2023",
+      "effective_date": "07/17/2023",
+      "state": "TX",
+      "workers": 25,
+      "city": "San Antonio"
+    },
+    {
+      "date": "07/17/2023",
+      "effective_date": "07/17/2023",
+      "state": "TX",
+      "workers": 19,
+      "city": "Abilene"
+    },
+    {
+      "date": "07/17/2023",
+      "effective_date": "07/17/2023",
+      "state": "TX",
+      "workers": 29,
+      "city": "Fort Worth"
+    },
+    {
+      "date": "07/17/2023",
+      "effective_date": "07/17/2023",
+      "state": "TX",
+      "workers": 21,
+      "city": "Corpus Christi"
+    },
+    {
+      "date": "07/17/2023",
+      "effective_date": "07/17/2023",
+      "state": "TX",
+      "workers": 30,
+      "city": "Waco"
+    },
+    {
+      "date": "07/17/2023",
+      "effective_date": "07/17/2023",
+      "state": "TX",
+      "workers": 38,
+      "city": "Sugar Land"
+    },
+    {
+      "date": "07/17/2023",
+      "effective_date": "07/17/2023",
+      "state": "TX",
+      "workers": 31,
+      "city": "McAllen"
+    },
+    {
+      "date": "06/29/2023",
+      "effective_date": "07/17/2023",
+      "state": "CO",
+      "workers": 138,
+      "city": "Multi-Area"
+    },
+    {
+      "date": "06/29/2023",
+      "effective_date": "06/29/2023",
+      "state": "NY",
+      "workers": 475,
+      "city": "Multiple locations"
+    },
+    {
+      "date": "06/12/2023",
+      "effective_date": "08/20/2023",
+      "state": "CT",
+      "workers": 0,
+      "city": "Manchester, Danbury, Orange"
+    },
+    {
+      "date": "06/12/2023",
+      "effective_date": "08/20/2023",
+      "state": "CO",
+      "workers": 138,
+      "city": "Multi Area"
+    },
+    {
+      "date": "06/07/2023",
+      "effective_date": "08/26/2023",
+      "state": "NJ",
+      "workers": 227,
+      "city": "Multiple Locations - NJ"
+    },
+    {
+      "date": "05/30/2023",
+      "effective_date": "06/12/2023",
+      "state": "TN",
+      "workers": 206,
+      "city": "Williamson, Shelby, Knox, Davidson, Hamilton, Washington, Rutherford County"
+    },
+    {
+      "date": "05/30/2023",
+      "effective_date": "05/30/2023",
+      "state": "TN",
+      "workers": 206,
+      "city": "Williamson, Shelby, Knox, Davidson, Hamilton, Washington, Rutherford County"
+    },
+    {
+      "date": "05/24/2023",
+      "effective_date": "06/23/2023",
+      "state": "CO",
+      "workers": 138,
+      "city": "Multi area"
+    },
+    {
+      "date": "05/23/2023",
+      "effective_date": "06/23/2023",
+      "state": "AL",
+      "workers": 40,
+      "city": "Birmingham"
+    },
+    {
+      "date": "05/03/2023",
+      "effective_date": "04/14/2023",
+      "state": "NM",
+      "workers": 0,
+      "city": "Albuquerque"
+    },
+    {
+      "date": "05/02/2023",
+      "effective_date": "05/02/2023",
+      "state": "NE",
+      "workers": 0,
+      "city": null
+    },
+    {
+      "date": "04/25/2023",
+      "effective_date": "09/02/2023",
+      "state": "CA",
+      "workers": 21,
+      "city": null
+    },
+    {
+      "date": "04/25/2023",
+      "effective_date": "09/02/2023",
+      "state": "CA",
+      "workers": 44,
+      "city": null
+    },
+    {
+      "date": "04/25/2023",
+      "effective_date": "09/02/2023",
+      "state": "CA",
+      "workers": 28,
+      "city": null
+    },
+    {
+      "date": "04/25/2023",
+      "effective_date": "09/02/2023",
+      "state": "CA",
+      "workers": 36,
+      "city": null
+    },
+    {
+      "date": "04/25/2023",
+      "effective_date": "09/02/2023",
+      "state": "CA",
+      "workers": 33,
+      "city": null
+    },
+    {
+      "date": "04/25/2023",
+      "effective_date": "09/02/2023",
+      "state": "CA",
+      "workers": 38,
+      "city": "San Jose"
+    },
+    {
+      "date": "04/25/2023",
+      "effective_date": "09/02/2023",
+      "state": "CA",
+      "workers": 40,
+      "city": "Modesto"
+    },
+    {
+      "date": "04/25/2023",
+      "effective_date": "09/02/2023",
+      "state": "CA",
+      "workers": 27,
+      "city": "Bakersfield"
+    },
+    {
+      "date": "04/25/2023",
+      "effective_date": "09/02/2023",
+      "state": "CA",
+      "workers": 46,
+      "city": "Sacramento"
+    },
+    {
+      "date": "04/25/2023",
+      "effective_date": "09/02/2023",
+      "state": "CA",
+      "workers": 35,
+      "city": "Burbank"
+    },
+    {
+      "date": "04/25/2023",
+      "effective_date": "09/02/2023",
+      "state": "CA",
+      "workers": 34,
+      "city": "Craigsville"
+    },
+    {
+      "date": "04/25/2023",
+      "effective_date": "09/02/2023",
+      "state": "CA",
+      "workers": 35,
+      "city": "San Diego"
+    },
+    {
+      "date": "04/25/2023",
+      "effective_date": "09/02/2023",
+      "state": "CA",
+      "workers": 27,
+      "city": "10325 Magnolia Ave  Riverside CA 92505"
+    },
+    {
+      "date": "04/25/2023",
+      "effective_date": "09/02/2023",
+      "state": "CA",
+      "workers": 29,
+      "city": "Santee"
+    },
+    {
+      "date": "04/25/2023",
+      "effective_date": "09/02/2023",
+      "state": "CA",
+      "workers": 18,
+      "city": "Chico"
+    },
+    {
+      "date": "04/25/2023",
+      "effective_date": "09/02/2023",
+      "state": "CA",
+      "workers": 47,
+      "city": "Roseville"
+    },
+    {
+      "date": "04/25/2023",
+      "effective_date": "09/02/2023",
+      "state": "CA",
+      "workers": 31,
+      "city": "Fresno"
+    },
+    {
+      "date": "04/25/2023",
+      "effective_date": "09/02/2023",
+      "state": "CA",
+      "workers": 27,
+      "city": "Bakersfield"
+    },
+    {
+      "date": "04/25/2023",
+      "effective_date": "09/02/2023",
+      "state": "CA",
+      "workers": 35,
+      "city": "Burbank"
+    },
+    {
+      "date": "04/25/2023",
+      "effective_date": "09/02/2023",
+      "state": "CA",
+      "workers": 35,
+      "city": "San Diego"
+    },
+    {
+      "date": "04/25/2023",
+      "effective_date": "09/02/2023",
+      "state": "CA",
+      "workers": 29,
+      "city": "Santee"
+    },
+    {
+      "date": "04/25/2023",
+      "effective_date": "09/02/2023",
+      "state": "CA",
+      "workers": 47,
+      "city": "Roseville"
+    },
+    {
+      "date": "04/25/2023",
+      "effective_date": "09/02/2023",
+      "state": "CA",
+      "workers": 31,
+      "city": "Fresno"
+    },
+    {
+      "date": "04/21/2023",
+      "effective_date": "08/20/2023",
+      "state": "IA",
+      "workers": 26,
+      "city": "Davenport"
+    },
+    {
+      "date": "04/21/2023",
+      "effective_date": "08/20/2023",
+      "state": "IA",
+      "workers": 20,
+      "city": "Sioux City"
+    },
+    {
+      "date": "04/21/2023",
+      "effective_date": "08/20/2023",
+      "state": "IA",
+      "workers": 25,
+      "city": "Marion"
+    },
+    {
+      "date": "04/21/2023",
+      "effective_date": "08/20/2023",
+      "state": "IA",
+      "workers": 22,
+      "city": "Clive"
+    },
+    {
+      "date": "04/21/2023",
+      "effective_date": "07/17/2023",
+      "state": "OH",
+      "workers": 0,
+      "city": "Various Cities/Various Counties"
+    },
+    {
+      "date": "04/19/2023",
+      "effective_date": "04/14/2023",
+      "state": "GA",
+      "workers": 193,
+      "city": "1705 mall of GA blvd, Buford, Georgia"
+    },
+    {
+      "date": "04/19/2023",
+      "effective_date": "04/19/2023",
+      "state": "NY",
+      "workers": 0,
+      "city": null
+    },
+    {
+      "date": "04/17/2023",
+      "effective_date": "06/12/2023",
+      "state": "MO",
+      "workers": 0,
+      "city": "St. PetersBlue SpringsSpringfieldSunset HillsKansas CityColumbia"
+    },
+    {
+      "date": "04/17/2023",
+      "effective_date": "04/14/2023",
+      "state": "NY",
+      "workers": 475,
+      "city": "(Multiple Locations)\n----------------\nWallkill Plaza, 400 Route 211 East Ste 7, Middletown, NY 10940\n----------------\nCentral Plaza, 2572 Central Park Avenue, Yonkers, NY 10710\n----------------\n108 Alexander Avenue, Lake Grove, NY 11755\n----------------\nSunrise Promenade, 5290 Sunrise Highway, Massapequa Park, NY 11762\n----------------\n1250 Corporate Drive, Westbury, NY 11590\n----------------\nSouth Town Plaza, 3333 West Henrietta Road, Rochester, NY 14623\n----------------\n3133 Erie Boulevard East, East Syracuse, NY 13057\n----------------\n1440 Central Avenue, Albany, NY 12205\n----------------\nBuffalo, 1204 Niagara Falls Blvd, Tonawanda, NY 14150\n----------------\nMcKinley Plaza South, 3670 McKinley Pkwy, Space 5A, Blasdell, NY 14219"
+    },
+    {
+      "date": "04/17/2023",
+      "effective_date": "04/14/2023",
+      "state": "WA",
+      "workers": 9266,
+      "city": "Nationwide"
+    },
+    {
+      "date": "04/17/2023",
+      "effective_date": "04/17/2023",
+      "state": "NY",
+      "workers": 475,
+      "city": "Multiple locations"
+    },
+    {
+      "date": "04/17/2023",
+      "effective_date": "04/17/2023",
+      "state": "NY",
+      "workers": 475,
+      "city": null
+    },
+    {
+      "date": "04/17/2023",
+      "effective_date": "06/12/2023",
+      "state": "MN",
+      "workers": 0,
+      "city": "Duluth"
+    },
+    {
+      "date": "04/17/2023",
+      "effective_date": "06/12/2023",
+      "state": "MN",
+      "workers": 0,
+      "city": "Maple Grove"
+    },
+    {
+      "date": "04/17/2023",
+      "effective_date": "06/12/2023",
+      "state": "MN",
+      "workers": 0,
+      "city": "Oakdale"
+    },
+    {
+      "date": "04/17/2023",
+      "effective_date": "06/12/2023",
+      "state": "MN",
+      "workers": 0,
+      "city": "Richfield"
+    },
+    {
+      "date": "04/17/2023",
+      "effective_date": "06/12/2023",
+      "state": "MN",
+      "workers": 0,
+      "city": "Rochester"
+    },
+    {
+      "date": "04/16/2023",
+      "effective_date": "08/20/2023",
+      "state": "NV",
+      "workers": 436,
+      "city": "Las Vegas, Clark County"
+    },
+    {
+      "date": "04/14/2023",
+      "effective_date": "07/31/2023",
+      "state": "NC",
+      "workers": 1,
+      "city": "3150 Evans Street, Greenville"
+    },
+    {
+      "date": "04/14/2023",
+      "effective_date": "07/31/2023",
+      "state": "NC",
+      "workers": 1,
+      "city": "6911 Fayetteville Rd, Durham"
+    },
+    {
+      "date": "04/14/2023",
+      "effective_date": "07/31/2023",
+      "state": "NC",
+      "workers": 1,
+      "city": "9717 Northlake Center Pkwy, Charlotte"
+    },
+    {
+      "date": "04/14/2023",
+      "effective_date": "07/31/2023",
+      "state": "NC",
+      "workers": 1,
+      "city": "10420-D Centrum Parkway, Pineville"
+    },
+    {
+      "date": "04/14/2023",
+      "effective_date": "07/31/2023",
+      "state": "NC",
+      "workers": 1,
+      "city": "4216 West Wendover Avenue, Greensboro"
+    },
+    {
+      "date": "04/14/2023",
+      "effective_date": "07/31/2023",
+      "state": "NC",
+      "workers": 1,
+      "city": "125 Hanes Square Circle, Winston Salem"
+    },
+    {
+      "date": "04/14/2023",
+      "effective_date": "07/31/2023",
+      "state": "NC",
+      "workers": 1,
+      "city": "1920 Skibo Road, Fayetteville"
+    },
+    {
+      "date": "04/14/2023",
+      "effective_date": "07/31/2023",
+      "state": "NC",
+      "workers": 1,
+      "city": "285 Tunnel Rd, Asheville"
+    },
+    {
+      "date": "04/14/2023",
+      "effective_date": "07/31/2023",
+      "state": "NC",
+      "workers": 1,
+      "city": "4229 Louisburg Road, Raleigh"
+    },
+    {
+      "date": "04/14/2023",
+      "effective_date": "07/31/2023",
+      "state": "NC",
+      "workers": 1,
+      "city": "6865 Monument Drive, Wilmington"
+    },
+    {
+      "date": "04/14/2023",
+      "effective_date": "06/12/2023",
+      "state": "WI",
+      "workers": 147,
+      "city": "Greenfield, Brookfield, Grand Chute, Madison, Ashwaubenon, Eau Claire"
+    },
+    {
+      "date": "04/14/2023",
+      "effective_date": "06/01/2023",
+      "state": "AK",
+      "workers": 0,
+      "city": "Anchorage"
+    },
+    {
+      "date": "04/14/2023",
+      "effective_date": "06/01/2023",
+      "state": "AK",
+      "workers": 0,
+      "city": "Anchorage"
+    },
+    {
+      "date": "04/14/2023",
+      "effective_date": "04/14/2023",
+      "state": "MA",
+      "workers": 0,
+      "city": "Natick"
+    },
+    {
+      "date": "04/14/2023",
+      "effective_date": "04/14/2023",
+      "state": "MA",
+      "workers": 0,
+      "city": "Westwood"
+    },
+    {
+      "date": "04/14/2023",
+      "effective_date": "04/14/2023",
+      "state": "ME",
+      "workers": 0,
+      "city": "South Portland"
+    },
+    {
+      "date": "04/14/2023",
+      "effective_date": "04/14/2023",
+      "state": "CT",
+      "workers": 0,
+      "city": "Manchester, Danbury, Orange"
+    },
+    {
+      "date": "04/14/2023",
+      "effective_date": "04/14/2023",
+      "state": "CO",
+      "workers": 138,
+      "city": "Multi area"
+    },
+    {
+      "date": "04/14/2023",
+      "effective_date": "04/14/2023",
+      "state": "NY",
+      "workers": 475,
+      "city": "Multiple locations"
+    },
+    {
+      "date": "04/14/2023",
+      "effective_date": "04/14/2023",
+      "state": "OK",
+      "workers": 0,
+      "city": "Oklahoma City"
+    },
+    {
+      "date": "04/14/2023",
+      "effective_date": "04/14/2023",
+      "state": "OK",
+      "workers": 0,
+      "city": "Tulsa"
+    },
+    {
+      "date": "04/14/2023",
+      "effective_date": "04/14/2023",
+      "state": "MI",
+      "workers": 217,
+      "city": "Statewide"
+    },
+    {
+      "date": "04/14/2023",
+      "effective_date": "04/14/2023",
+      "state": "NY",
+      "workers": 475,
+      "city": "Multiple locations"
+    },
+    {
+      "date": "04/14/2023",
+      "effective_date": "04/14/2023",
+      "state": "NY",
+      "workers": 475,
+      "city": null
+    },
+    {
+      "date": "04/14/2023",
+      "effective_date": "04/14/2023",
+      "state": "MA",
+      "workers": 0,
+      "city": "Natick"
+    },
+    {
+      "date": "04/14/2023",
+      "effective_date": "04/14/2023",
+      "state": "MA",
+      "workers": 0,
+      "city": "Westwood"
+    },
+    {
+      "date": "04/14/2023",
+      "effective_date": "07/17/2023",
+      "state": "OR",
+      "workers": 1,
+      "city": "Beaverton"
+    },
+    {
+      "date": "04/14/2023",
+      "effective_date": "07/17/2023",
+      "state": "OR",
+      "workers": 1,
+      "city": "Happy Valley"
+    },
+    {
+      "date": "04/14/2023",
+      "effective_date": "07/17/2023",
+      "state": "OR",
+      "workers": 1,
+      "city": "Eugene"
+    },
+    {
+      "date": "04/14/2023",
+      "effective_date": "07/17/2023",
+      "state": "OR",
+      "workers": 1,
+      "city": "Medford"
+    },
+    {
+      "date": "04/14/2023",
+      "effective_date": "07/17/2023",
+      "state": "OR",
+      "workers": 1,
+      "city": "Keizer"
+    },
+    {
+      "date": "01/01/2023",
+      "effective_date": "08/20/2023",
+      "state": "CT",
+      "workers": 9248,
+      "city": "82-E Buckland St, Manchester CT / 112-118 Boston Post Road, Orange, CT / 15 Backus Ave, Space 13-15, Danbury CT"
+    },
+    {
+      "date": "01/01/2023",
+      "effective_date": "04/14/2023",
+      "state": "CT",
+      "workers": 9248,
+      "city": "82-E Buckland St, Manchester CT / 112-118 Boston Post Road, Orange, CT / 15 Backus Ave, Space 13-15, Danbury CT"
+    },
+    {
+      "date": "03/30/2020",
+      "effective_date": "04/02/2020",
+      "state": "CA",
+      "workers": 11,
+      "city": "San Jose"
+    },
+    {
+      "date": "03/30/2020",
+      "effective_date": "04/02/2020",
+      "state": "CA",
+      "workers": 14,
+      "city": "Costa Mesa"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "central-six-alabama-works",
+      "name": "Central Six Alabama Works",
+      "state": "AL"
+    },
+    {
+      "slug": "alaska-wib",
+      "name": "Alaska WIB",
+      "state": "AK"
+    },
+    {
+      "slug": "golden-sierra-consortium-wib",
+      "name": "Golden Sierra Consortium WIB",
+      "state": "CA"
+    },
+    {
+      "slug": "nortec-wib",
+      "name": "NoRTEC WIB",
+      "state": "CA"
+    },
+    {
+      "slug": "stanislaus-county-wib",
+      "name": "Stanislaus County WIB",
+      "state": "CA"
+    },
+    {
+      "slug": "region-9-davenport-wib",
+      "name": "Region 9 - Davenport WIB",
+      "state": "IA"
+    },
+    {
+      "slug": "region-12-sioux-city-wib",
+      "name": "Region 12 - Sioux City WIB",
+      "state": "IA"
+    },
+    {
+      "slug": "metro-southwest-wia",
+      "name": "Metro South/West WIA",
+      "state": "MA"
+    },
+    {
+      "slug": "central-area-wib-nm",
+      "name": "Central Area WIB",
+      "state": "NM"
+    },
+    {
+      "slug": "tulsa-wia",
+      "name": "Tulsa WIA",
+      "state": "OK"
+    },
+    {
+      "slug": "cleveland-wia",
+      "name": "Cleveland WIA",
+      "state": "OK"
+    },
+    {
+      "slug": "south-plains-wda",
+      "name": "South Plains WDA",
+      "state": "TX"
+    },
+    {
+      "slug": "east-texas-wda",
+      "name": "East Texas WDA",
+      "state": "TX"
+    },
+    {
+      "slug": "west-central-wda-tx",
+      "name": "West Central WDA",
+      "state": "TX"
+    },
+    {
+      "slug": "upper-rio-grande-wda",
+      "name": "Upper Rio Grande WDA",
+      "state": "TX"
+    },
+    {
+      "slug": "heart-of-texas-wda",
+      "name": "Heart of Texas WDA",
+      "state": "TX"
+    },
+    {
+      "slug": "brazos-valley-wda",
+      "name": "Brazos Valley WDA",
+      "state": "TX"
+    },
+    {
+      "slug": "south-east-texas-wda",
+      "name": "South East Texas WDA",
+      "state": "TX"
+    },
+    {
+      "slug": "alamo-wda",
+      "name": "Alamo WDA",
+      "state": "TX"
+    },
+    {
+      "slug": "coastal-bend-wda",
+      "name": "Coastal Bend WDA",
+      "state": "TX"
+    },
+    {
+      "slug": "lower-rio-grande-wda",
+      "name": "Lower Rio Grande WDA",
+      "state": "TX"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 2,
+    "continuing_denials": 0,
+    "total_approvals": 2,
+    "by_fy": [
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "walden-security",
+  "canonical_name": "Walden Security",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "MD",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "09/08/2022",
+      "effective_date": "11/11/2022",
+      "state": "MD",
+      "workers": 30,
+      "city": "Gwynn Oak"
+    },
+    {
+      "date": "10/23/2014",
+      "effective_date": "10/23/2014",
+      "state": "GA",
+      "workers": 38,
+      "city": "Marietta"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "baltimore-county-wia",
+      "name": "Baltimore County WIA",
+      "state": "MD"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

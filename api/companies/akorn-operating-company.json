@@ -1,0 +1,217 @@
+{
+  "slug": "akorn-operating-company",
+  "canonical_name": "Akorn Operating Company LLC",
+  "fein": null,
+  "lca_filing_count": 7,
+  "warn_notice_count": 8,
+  "median_wage_usd": 89603.8,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 3,
+      "median_wage_usd": 88900.0
+    },
+    {
+      "fy": 2022,
+      "filings": 4,
+      "median_wage_usd": 93301.9
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Validation Engineer II",
+      "count": 1,
+      "median_wage_usd": 89603.8
+    },
+    {
+      "title": "QA Supervisor, Batch Record Review",
+      "count": 1,
+      "median_wage_usd": 88900.0
+    },
+    {
+      "title": "Formulation Scientist II",
+      "count": 1,
+      "median_wage_usd": 85000.0
+    },
+    {
+      "title": "Manager, Regulatory Affairs",
+      "count": 1,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "Process Engineer Leader, Technical Services ",
+      "count": 1,
+      "median_wage_usd": 140400.0
+    },
+    {
+      "title": "Validation Engineer I",
+      "count": 1,
+      "median_wage_usd": 87418.0
+    },
+    {
+      "title": "Sr. Analytical Scientist ",
+      "count": 1,
+      "median_wage_usd": 97000.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 4
+    },
+    {
+      "state": "NJ",
+      "count": 2
+    },
+    {
+      "state": "NY",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IL",
+      "county": "MACON",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "county": "LAKE",
+      "count": 2
+    },
+    {
+      "state": "NY",
+      "county": "SUFFOLK",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "county": "MIDDLESEX",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "county": "SOMERSET",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "02/24/2023",
+      "effective_date": "02/23/2023",
+      "state": "IL",
+      "workers": 169,
+      "city": "Gurnee"
+    },
+    {
+      "date": "02/24/2023",
+      "effective_date": "02/23/2023",
+      "state": "IL",
+      "workers": 40,
+      "city": "Vernon Hills"
+    },
+    {
+      "date": "02/24/2023",
+      "effective_date": "02/23/2022",
+      "state": "NY",
+      "workers": 303,
+      "city": "Amityville"
+    },
+    {
+      "date": "02/22/2023",
+      "effective_date": "02/22/2023",
+      "state": "IL",
+      "workers": 402,
+      "city": "Decatur"
+    },
+    {
+      "date": "02/22/2023",
+      "effective_date": "02/23/2022",
+      "state": "NY",
+      "workers": 303,
+      "city": "Amityville"
+    },
+    {
+      "date": "02/22/2023",
+      "effective_date": "02/23/2022",
+      "state": "NY",
+      "workers": 303,
+      "city": "Amityville"
+    },
+    {
+      "date": "02/22/2023",
+      "effective_date": "02/23/2022",
+      "state": "NY",
+      "workers": 303,
+      "city": null
+    },
+    {
+      "date": "06/02/2022",
+      "effective_date": "07/31/2022",
+      "state": "NJ",
+      "workers": 240,
+      "city": "Somerset"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "lake-county-wib",
+      "name": "Lake County WIB",
+      "state": "IL"
+    },
+    {
+      "slug": "macon-dewitt-wib",
+      "name": "Macon-Dewitt WIB",
+      "state": "IL"
+    },
+    {
+      "slug": "greater-raritan-wib",
+      "name": "Greater Raritan WIB",
+      "state": "NJ"
+    },
+    {
+      "slug": "suffolk-county-lwia",
+      "name": "Suffolk County LWIA",
+      "state": "NY"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 2,
+    "initial_denials": 0,
+    "continuing_approvals": 25,
+    "continuing_denials": 2,
+    "total_approvals": 27,
+    "by_fy": [
+      {
+        "fy": 2021,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 14,
+        "continuing_denials": 1,
+        "total_approvals": 14
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 9,
+        "continuing_denials": 1,
+        "total_approvals": 10
+      }
+    ]
+  },
+  "lca_worker_positions": 7,
+  "top_socs": [],
+  "lca_periods": []
+}

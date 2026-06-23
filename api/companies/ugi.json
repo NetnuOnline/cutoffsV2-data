@@ -1,0 +1,57 @@
+{
+  "slug": "ugi",
+  "canonical_name": "UGI Corporation",
+  "fein": "23-2668356",
+  "lca_filing_count": 2,
+  "lca_worker_positions": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 188576.69,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 137153.38
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 240000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Director, Market Risk Management",
+      "count": 1,
+      "median_wage_usd": 240000.0
+    },
+    {
+      "title": "Ariba Functional Analyst",
+      "count": 1,
+      "median_wage_usd": 137153.38
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "PA",
+      "county": "MONTGOMERY",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "PA",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 137153.38,
+    "gap_usd": 6993.38
+  }
+}

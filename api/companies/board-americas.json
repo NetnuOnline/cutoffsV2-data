@@ -1,0 +1,81 @@
+{
+  "slug": "board-americas",
+  "canonical_name": "Board Americas, Inc.",
+  "fein": "20-3996648",
+  "lca_filing_count": 4,
+  "lca_worker_positions": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 112125.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 77459.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 137125.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Product Enablement Manager, Academy",
+      "count": 1,
+      "median_wage_usd": 124250.0
+    },
+    {
+      "title": "Solution Architect",
+      "count": 1,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "title": "Product Support Specialist (L3 Analyst)",
+      "count": 1,
+      "median_wage_usd": 77459.0
+    },
+    {
+      "title": "Sr. Systems Analyst",
+      "count": 1,
+      "median_wage_usd": 100000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MN",
+      "county": "HENNEPIN",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "county": "BOSTON CITY",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MA",
+      "count": 3
+    },
+    {
+      "state": "MN",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 124250.0,
+    "gap_usd": 16230.0
+  }
+}

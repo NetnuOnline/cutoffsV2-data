@@ -1,0 +1,56 @@
+{
+  "slug": "crestone-ventures",
+  "canonical_name": "Crestone Ventures, Inc.",
+  "fein": "26-4071837",
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 95499.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 81000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 109998.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Computer Systems Engineer",
+      "count": 1,
+      "median_wage_usd": 81000.0
+    },
+    {
+      "title": "COMPUTER SYSTEMS ENGINEER",
+      "count": 1,
+      "median_wage_usd": 109998.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Computer Systems Engineers/Architects",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 109998.0,
+    "gap_usd": -8002.0
+  }
+}

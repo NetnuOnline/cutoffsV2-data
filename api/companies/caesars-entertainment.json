@@ -1,0 +1,52 @@
+{
+  "slug": "caesars-entertainment",
+  "canonical_name": "Caesars Entertainment",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "IN",
+      "count": 1
+    },
+    {
+      "state": "MD",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "04/29/2020",
+      "effective_date": "03/30/2020",
+      "state": "IN",
+      "workers": 1161,
+      "city": "Elizabeth"
+    },
+    {
+      "date": "04/04/2020",
+      "effective_date": "03/16/2020",
+      "state": "MD",
+      "workers": 1230,
+      "city": "Baltimore"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "economic-growth-region-10",
+      "name": "Economic Growth Region 10",
+      "state": "IN"
+    },
+    {
+      "slug": "baltimore-city-wia",
+      "name": "Baltimore City WIA",
+      "state": "MD"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

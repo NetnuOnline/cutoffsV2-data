@@ -1,0 +1,56 @@
+{
+  "slug": "hca-human-resources",
+  "canonical_name": "HCA Human Resources, LLC",
+  "fein": "30-0790095",
+  "lca_filing_count": 3,
+  "lca_worker_positions": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 121206.59,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 147160.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 99780.295,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Analytics Program Manager",
+      "count": 1,
+      "median_wage_usd": 78354.0
+    },
+    {
+      "title": "Data Scientist II",
+      "count": 1,
+      "median_wage_usd": 121206.59
+    },
+    {
+      "title": "AVP of HR Transformation & Innovation",
+      "count": 1,
+      "median_wage_usd": 147160.0
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "TN",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 121206.59,
+    "gap_usd": 13186.59
+  }
+}

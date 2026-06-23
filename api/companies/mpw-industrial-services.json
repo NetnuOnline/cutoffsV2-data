@@ -1,0 +1,47 @@
+{
+  "slug": "mpw-industrial-services",
+  "canonical_name": "MPW Industrial Services",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "MO",
+      "count": 1
+    },
+    {
+      "state": "SC",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "05/24/2023",
+      "effective_date": "06/15/2023",
+      "state": "MO",
+      "workers": 84,
+      "city": "Claycomo"
+    },
+    {
+      "date": "12/01/2018",
+      "effective_date": "12/01/2018",
+      "state": "SC",
+      "workers": 75,
+      "city": "Greer"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "greenville-wib",
+      "name": "Greenville WIB",
+      "state": "SC"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

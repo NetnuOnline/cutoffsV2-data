@@ -1,0 +1,47 @@
+{
+  "slug": "technipfmc",
+  "canonical_name": "TechnipFMC",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "04/29/2020",
+      "effective_date": "04/15/2020",
+      "state": "TX",
+      "workers": 140,
+      "city": "Odessa"
+    },
+    {
+      "date": "04/14/2020",
+      "effective_date": "04/15/2020",
+      "state": "CA",
+      "workers": 32,
+      "city": "Davis"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "permian-basin-wda",
+      "name": "Permian Basin WDA",
+      "state": "TX"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

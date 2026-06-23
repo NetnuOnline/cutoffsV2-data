@@ -1,0 +1,81 @@
+{
+  "slug": "openkyber",
+  "canonical_name": "openkyber, LLC",
+  "fein": "99-2723706",
+  "lca_filing_count": 6,
+  "lca_worker_positions": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 86403.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 88379.0
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 82992.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 100578.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "IAM Engineer",
+      "count": 2,
+      "median_wage_usd": 86403.0
+    },
+    {
+      "title": "Network and Computer System Administrator",
+      "count": 1,
+      "median_wage_usd": 82992.0
+    },
+    {
+      "title": "openkyber, LLC",
+      "count": 1,
+      "median_wage_usd": 82992.0
+    },
+    {
+      "title": "Consulting Engineer",
+      "count": 1,
+      "median_wage_usd": 114754.0
+    },
+    {
+      "title": "Security Analyst (Information Security Analyst)",
+      "count": 1,
+      "median_wage_usd": 88379.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "RIVERSIDE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 5
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1244",
+    "soc_title": "Network and Computer Systems Administrators",
+    "market_median_usd": 95000.0,
+    "employer_median_usd": 82992.0,
+    "gap_usd": -12008.0
+  }
+}

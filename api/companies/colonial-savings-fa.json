@@ -1,0 +1,54 @@
+{
+  "slug": "colonial-savings-fa",
+  "canonical_name": "Colonial Savings, F.A.",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 3,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "10/29/2025",
+      "effective_date": "01/01/2026",
+      "state": "TX",
+      "workers": 130,
+      "city": "Fort Worth"
+    },
+    {
+      "date": "10/14/2022",
+      "effective_date": "12/31/2022",
+      "state": "CA",
+      "workers": 27,
+      "city": "13002 N Yorba  Santa Ana CA 92705"
+    },
+    {
+      "date": "10/14/2022",
+      "effective_date": "12/31/2022",
+      "state": "CA",
+      "workers": 27,
+      "city": "19062 Carp Circle  Huntington Beach CA 92646"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "tarrant-county-wda",
+      "name": "Tarrant County WDA",
+      "state": "TX"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

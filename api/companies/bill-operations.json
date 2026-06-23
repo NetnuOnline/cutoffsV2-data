@@ -1,0 +1,184 @@
+{
+  "slug": "bill-operations",
+  "canonical_name": "Bill Operations, LLC",
+  "fein": "92-2578553",
+  "lca_filing_count": 96,
+  "lca_worker_positions": 92,
+  "warn_notice_count": 0,
+  "median_wage_usd": 185110.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 28,
+      "median_wage_usd": 172799.5
+    },
+    {
+      "fy": 2024,
+      "filings": 35,
+      "median_wage_usd": 190000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 20,
+      "median_wage_usd": 216263.0
+    },
+    {
+      "fy": 2026,
+      "filings": 9,
+      "median_wage_usd": 201571.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Software Engineer",
+      "count": 17,
+      "median_wage_usd": 185000.0
+    },
+    {
+      "title": "Staff Software Engineer",
+      "count": 7,
+      "median_wage_usd": 215250.0
+    },
+    {
+      "title": "Software Engineer, Staff",
+      "count": 5,
+      "median_wage_usd": 205000.0
+    },
+    {
+      "title": "Software Engineer II",
+      "count": 4,
+      "median_wage_usd": 166000.0
+    },
+    {
+      "title": "Manager, Product Management",
+      "count": 2,
+      "median_wage_usd": 208750.0
+    },
+    {
+      "title": "Director of Engineering",
+      "count": 2,
+      "median_wage_usd": 278600.0
+    },
+    {
+      "title": "Senior Staff Software Engineer",
+      "count": 2,
+      "median_wage_usd": 245180.0
+    },
+    {
+      "title": "Sr Mgr, Software Engineering",
+      "count": 2,
+      "median_wage_usd": 249380.0
+    },
+    {
+      "title": "Senior Staff Product Designer- Core Bill Payment",
+      "count": 2,
+      "median_wage_usd": 228800.0
+    },
+    {
+      "title": "Business Intelligence Analyst",
+      "count": 2,
+      "median_wage_usd": 134100.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 49
+    },
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 3
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 2
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 2
+    },
+    {
+      "state": "UT",
+      "county": "SALT LAKE",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "CONTRA COSTA",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "county": "UNION",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SAN JOAQUIN",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "FORT BEND",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 76
+    },
+    {
+      "state": "TX",
+      "count": 6
+    },
+    {
+      "state": "NY",
+      "count": 3
+    },
+    {
+      "state": "UT",
+      "count": 3
+    },
+    {
+      "state": "WA",
+      "count": 3
+    },
+    {
+      "state": "NJ",
+      "count": 2
+    },
+    {
+      "state": "NH",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 190000.0,
+    "gap_usd": 59840.0
+  }
+}

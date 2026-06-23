@@ -1,0 +1,61 @@
+{
+  "slug": "sun-mart",
+  "canonical_name": "Sun Mart",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 4,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "NE",
+      "count": 3
+    },
+    {
+      "state": "KS",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "03/18/2017",
+      "effective_date": "03/18/2017",
+      "state": "NE",
+      "workers": 25,
+      "city": "Ogalalla"
+    },
+    {
+      "date": "10/31/2014",
+      "effective_date": "10/31/2014",
+      "state": "NE",
+      "workers": 19,
+      "city": "Lincoln"
+    },
+    {
+      "date": "03/21/2014",
+      "effective_date": "03/21/2014",
+      "state": "NE",
+      "workers": 31,
+      "city": "Hastings"
+    },
+    {
+      "date": "01/06/2004",
+      "effective_date": "01/06/2004",
+      "state": "KS",
+      "workers": 29,
+      "city": "1 - Workforce Investment Area I"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "central-economic-region",
+      "name": "Central Economic Region",
+      "state": "NE"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

@@ -1,0 +1,84 @@
+{
+  "slug": "rn-enterprises",
+  "canonical_name": "RN Enterprises LLC",
+  "fein": "81-3747287",
+  "lca_filing_count": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 135000.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 128000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Consultant, Biomedical Technology",
+      "count": 1,
+      "median_wage_usd": 128000.0
+    },
+    {
+      "title": "Technology Consultant",
+      "count": 1,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "title": "Consultant (Clinical Regulatory Affairs)",
+      "count": 1,
+      "median_wage_usd": 140000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "FL",
+      "county": "COLLIER",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "FL",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3021",
+    "soc_title": "Computer and Information Systems Managers",
+    "market_median_usd": 169510.0,
+    "employer_median_usd": 135000.0,
+    "gap_usd": -34510.0
+  }
+}

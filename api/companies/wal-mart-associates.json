@@ -1,0 +1,203 @@
+{
+  "slug": "wal-mart-associates",
+  "canonical_name": "WAL-MART ASSOCIATES, INC.",
+  "fein": "71-0794409",
+  "lca_filing_count": 5306,
+  "lca_worker_positions": 5238,
+  "warn_notice_count": 0,
+  "median_wage_usd": 145960.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 329,
+      "median_wage_usd": 145000.18
+    },
+    {
+      "fy": 2021,
+      "filings": 854,
+      "median_wage_usd": 145000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 1027,
+      "median_wage_usd": 140000.12
+    },
+    {
+      "fy": 2023,
+      "filings": 889,
+      "median_wage_usd": 137280.26
+    },
+    {
+      "fy": 2024,
+      "filings": 1130,
+      "median_wage_usd": 147052.71000000002
+    },
+    {
+      "fy": 2025,
+      "filings": 693,
+      "median_wage_usd": 153301.0
+    },
+    {
+      "fy": 2026,
+      "filings": 316,
+      "median_wage_usd": 150080.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer III",
+      "count": 893,
+      "median_wage_usd": 117000.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 816,
+      "median_wage_usd": 150762.0
+    },
+    {
+      "title": "Staff Software Engineer",
+      "count": 402,
+      "median_wage_usd": 153301.0
+    },
+    {
+      "title": "Senior Data Scientist",
+      "count": 120,
+      "median_wage_usd": 168154.0
+    },
+    {
+      "title": "SENIOR SOFTWARE ENGINEER",
+      "count": 116,
+      "median_wage_usd": 153301.0
+    },
+    {
+      "title": "Data Engineer III",
+      "count": 100,
+      "median_wage_usd": 115344.95999999999
+    },
+    {
+      "title": "Senior, Software Engineer",
+      "count": 97,
+      "median_wage_usd": 150762.0
+    },
+    {
+      "title": "Senior Product Manager",
+      "count": 87,
+      "median_wage_usd": 151736.0
+    },
+    {
+      "title": "Senior Data Analyst",
+      "count": 82,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Principal Software Engineer",
+      "count": 78,
+      "median_wage_usd": 183364.31
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "AR",
+      "county": "BENTON",
+      "count": 1629
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 1233
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 390
+    },
+    {
+      "state": "CA",
+      "county": "SAN MATEO",
+      "count": 262
+    },
+    {
+      "state": "NJ",
+      "county": "HUDSON",
+      "count": 215
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 118
+    },
+    {
+      "state": "VA",
+      "county": "FAIRFAX",
+      "count": 116
+    },
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 83
+    },
+    {
+      "state": "CA",
+      "county": "SAN JOAQUIN",
+      "count": 45
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 27
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 2070
+    },
+    {
+      "state": "AR",
+      "count": 2035
+    },
+    {
+      "state": "TX",
+      "count": 470
+    },
+    {
+      "state": "NJ",
+      "count": 255
+    },
+    {
+      "state": "WA",
+      "count": 160
+    },
+    {
+      "state": "VA",
+      "count": 131
+    },
+    {
+      "state": "GA",
+      "count": 37
+    },
+    {
+      "state": "MA",
+      "count": 32
+    },
+    {
+      "state": "IL",
+      "count": 20
+    },
+    {
+      "state": "NY",
+      "count": 16
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 144435.59,
+    "gap_usd": 14275.59
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "slug": "bank-of-new-york-mellon",
+  "canonical_name": "Bank of New York Mellon",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 10,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 5
+    },
+    {
+      "state": "RI",
+      "count": 4
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "01/12/2024",
+      "effective_date": "01/22/2024",
+      "state": "NJ",
+      "workers": 62,
+      "city": "Pennington, Jersey City, Woodland Park"
+    },
+    {
+      "date": "10/28/2011",
+      "effective_date": "10/28/2011",
+      "state": "RI",
+      "workers": 98,
+      "city": "Pawtucket"
+    },
+    {
+      "date": "08/30/2011",
+      "effective_date": "10/28/2011",
+      "state": "RI",
+      "workers": 98,
+      "city": "Pawtucket"
+    },
+    {
+      "date": "08/12/2011",
+      "effective_date": "08/12/2011",
+      "state": "NJ",
+      "workers": 98,
+      "city": "Lodi"
+    },
+    {
+      "date": "07/29/2011",
+      "effective_date": "06/06/2011",
+      "state": "RI",
+      "workers": 98,
+      "city": "Pawtucket"
+    },
+    {
+      "date": "07/29/2011",
+      "effective_date": "07/29/2011",
+      "state": "NJ",
+      "workers": 98,
+      "city": "Lodi"
+    },
+    {
+      "date": "06/06/2011",
+      "effective_date": "06/06/2011",
+      "state": "RI",
+      "workers": 98,
+      "city": "Pawtucket"
+    },
+    {
+      "date": "11/26/2010",
+      "effective_date": "11/26/2010",
+      "state": "NJ",
+      "workers": 98,
+      "city": "Lodi"
+    },
+    {
+      "date": "09/10/2010",
+      "effective_date": "09/10/2010",
+      "state": "GA",
+      "workers": 27,
+      "city": "College Park"
+    },
+    {
+      "date": "08/27/2010",
+      "effective_date": "08/27/2010",
+      "state": "NJ",
+      "workers": 39,
+      "city": "LODI"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2010-05-14",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-10-120667",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001390777&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 1,
+    "itemCounts": {
+      "5.02": 1
+    },
+    "latestFilingDate": "2010-05-14",
+    "earliestFilingDate": "2010-05-14"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

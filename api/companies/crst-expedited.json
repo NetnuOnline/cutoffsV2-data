@@ -1,0 +1,71 @@
+{
+  "slug": "crst-expedited",
+  "canonical_name": "CRST Expedited, Inc.",
+  "fein": "42-0750182",
+  "lca_filing_count": 3,
+  "lca_worker_positions": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 118405.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 131692.5
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 75000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Software Engineer",
+      "count": 1,
+      "median_wage_usd": 118405.0
+    },
+    {
+      "title": "Manager of Software Development",
+      "count": 1,
+      "median_wage_usd": 144980.0
+    },
+    {
+      "title": "Software Engineer I",
+      "count": 1,
+      "median_wage_usd": 75000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IN",
+      "county": "ALLEN",
+      "count": 2
+    },
+    {
+      "state": "IA",
+      "county": "LINN",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IN",
+      "count": 2
+    },
+    {
+      "state": "IA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 96702.5,
+    "gap_usd": -33457.5
+  }
+}

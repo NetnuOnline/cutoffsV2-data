@@ -1,0 +1,115 @@
+{
+  "slug": "consumer-reports",
+  "canonical_name": "Consumer Reports, Inc.",
+  "fein": "13-1776434",
+  "lca_filing_count": 8,
+  "lca_worker_positions": 8,
+  "warn_notice_count": 0,
+  "median_wage_usd": 130077.22,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 4,
+      "median_wage_usd": 118397.24000000002
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 145307.59
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 90453.48
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 132210.26,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 2,
+      "median_wage_usd": 97726.72
+    },
+    {
+      "title": "Lead AI/ML Engineer",
+      "count": 1,
+      "median_wage_usd": 136060.6
+    },
+    {
+      "title": "Manager, Digital Business Analytics ",
+      "count": 1,
+      "median_wage_usd": 145307.59
+    },
+    {
+      "title": "Data Intelligence Analyst",
+      "count": 1,
+      "median_wage_usd": 86000.2
+    },
+    {
+      "title": "Senior Data Scientist",
+      "count": 1,
+      "median_wage_usd": 128359.92
+    },
+    {
+      "title": "Manager, Web Development",
+      "count": 1,
+      "median_wage_usd": 160000.0
+    },
+    {
+      "title": "Lead Quality Assurance Engineer",
+      "count": 1,
+      "median_wage_usd": 131794.52000000002
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "WESTCHESTER",
+      "count": 3
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "county": "HUDSON",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "county": "MORRIS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 4
+    },
+    {
+      "state": "NJ",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 132210.26,
+    "gap_usd": 24190.26
+  }
+}

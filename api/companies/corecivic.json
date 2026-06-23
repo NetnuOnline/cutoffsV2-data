@@ -1,0 +1,108 @@
+{
+  "slug": "corecivic",
+  "canonical_name": "CoreCivic",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 7,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "TN",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "OK",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    },
+    {
+      "state": "IN",
+      "count": 1
+    },
+    {
+      "state": "NM",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "06/14/2024",
+      "effective_date": "08/13/2024",
+      "state": "TX",
+      "workers": 433,
+      "city": "Dilley"
+    },
+    {
+      "date": "07/31/2023",
+      "effective_date": "07/31/2023",
+      "state": "OK",
+      "workers": 0,
+      "city": "Holdenville"
+    },
+    {
+      "date": "10/28/2022",
+      "effective_date": "11/30/2022",
+      "state": "GA",
+      "workers": 252,
+      "city": "McRae"
+    },
+    {
+      "date": "10/01/2021",
+      "effective_date": "12/31/2021",
+      "state": "IN",
+      "workers": 143,
+      "city": "Indianapolis"
+    },
+    {
+      "date": "09/02/2021",
+      "effective_date": "11/01/2021",
+      "state": "NM",
+      "workers": 123,
+      "city": "Grants"
+    },
+    {
+      "date": "10/29/2020",
+      "effective_date": "12/30/2020",
+      "state": "TN",
+      "workers": 128,
+      "city": "Hamilton County"
+    },
+    {
+      "date": "07/29/2020",
+      "effective_date": "10/04/2020",
+      "state": "TN",
+      "workers": 202,
+      "city": "Davidson County"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "northern-area-wib",
+      "name": "Northern Area WIB",
+      "state": "NM"
+    },
+    {
+      "slug": "east-central-wia",
+      "name": "East Central WIA",
+      "state": "OK"
+    },
+    {
+      "slug": "alamo-wda",
+      "name": "Alamo WDA",
+      "state": "TX"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

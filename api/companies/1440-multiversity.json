@@ -1,0 +1,43 @@
+{
+  "slug": "1440-multiversity",
+  "canonical_name": "1440 Multiversity",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "06/18/2020",
+      "effective_date": "06/26/2020",
+      "state": "CA",
+      "workers": 102,
+      "city": "Scotts Valley"
+    },
+    {
+      "date": "03/18/2020",
+      "effective_date": "03/18/2020",
+      "state": "CA",
+      "workers": 149,
+      "city": "Scotts Valley"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "santa-cruz-county-wib",
+      "name": "Santa Cruz County WIB",
+      "state": "CA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

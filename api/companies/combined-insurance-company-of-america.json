@@ -1,0 +1,46 @@
+{
+  "slug": "combined-insurance-company-of-america",
+  "canonical_name": "Combined Insurance Company of America",
+  "fein": null,
+  "lca_filing_count": 1,
+  "warn_notice_count": 0,
+  "median_wage_usd": 139004.75,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 139004.75
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Director, Application Development",
+      "count": 1,
+      "median_wage_usd": 139004.75
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 1,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3021",
+    "soc_title": "Computer and Information Systems Managers",
+    "market_median_usd": 169510.0,
+    "employer_median_usd": 139004.75,
+    "gap_usd": -30505.25
+  }
+}

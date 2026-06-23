@@ -1,0 +1,41 @@
+{
+  "slug": "biosales",
+  "canonical_name": "Biosales",
+  "fein": "99-2275296",
+  "lca_filing_count": 1,
+  "lca_worker_positions": 1,
+  "warn_notice_count": 0,
+  "median_wage_usd": 109990.4,
+  "by_fy": [
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 109990.40000000001,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Data Engineer",
+      "count": 1,
+      "median_wage_usd": 109990.40000000001
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "MA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 109990.4,
+    "gap_usd": -20169.6
+  }
+}

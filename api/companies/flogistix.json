@@ -1,0 +1,50 @@
+{
+  "slug": "flogistix",
+  "canonical_name": "Flogistix LP",
+  "fein": "20-2249359",
+  "lca_filing_count": 2,
+  "lca_worker_positions": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 129329.38,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 129329.38
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 129329.38,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Program Manager",
+      "count": 2,
+      "median_wage_usd": 129329.38
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "MA",
+      "count": 1
+    },
+    {
+      "state": "OK",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Information Technology Project Managers",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 129329.38,
+    "gap_usd": 11329.38
+  }
+}

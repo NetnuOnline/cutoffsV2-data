@@ -1,0 +1,148 @@
+{
+  "slug": "motorcar-parts-of-america",
+  "canonical_name": "Motorcar Parts of America, Inc.",
+  "fein": null,
+  "lca_filing_count": 2,
+  "warn_notice_count": 3,
+  "median_wage_usd": 77459.5,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 73237.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 81682.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Electrical Engineer",
+      "count": 2,
+      "median_wage_usd": 77459.5
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 2
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 2
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "06/27/2024",
+      "effective_date": "06/27/2024",
+      "state": "CA",
+      "workers": 94,
+      "city": "Torrance"
+    },
+    {
+      "date": "09/30/2019",
+      "effective_date": "12/02/2019",
+      "state": "CA",
+      "workers": 39,
+      "city": "Torrance"
+    },
+    {
+      "date": "06/01/2018",
+      "effective_date": "07/30/2018",
+      "state": "CA",
+      "workers": 21,
+      "city": "Torrance"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2019-11-21",
+        "formType": "8-K",
+        "accessionNumber": "0001140361-19-021099",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000918251&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2008-11-21",
+        "formType": "8-K",
+        "accessionNumber": "0000950134-08-021043",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000918251&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2008-04-02",
+        "formType": "8-K",
+        "accessionNumber": "0000950124-08-001710",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000918251&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 3,
+    "itemCounts": {
+      "5.02": 3
+    },
+    "latestFilingDate": "2019-11-21",
+    "earliestFilingDate": "2008-04-02"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 2,
+    "initial_denials": 0,
+    "continuing_approvals": 1,
+    "continuing_denials": 0,
+    "total_approvals": 3,
+    "by_fy": [
+      {
+        "fy": 2017,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": []
+}

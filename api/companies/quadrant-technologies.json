@@ -1,0 +1,158 @@
+{
+  "slug": "quadrant-technologies",
+  "canonical_name": "Quadrant Technologies LLC",
+  "fein": "30-0226524",
+  "lca_filing_count": 160,
+  "lca_worker_positions": 157,
+  "warn_notice_count": 0,
+  "median_wage_usd": 115170.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 200000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 47,
+      "median_wage_usd": 105019.0
+    },
+    {
+      "fy": 2025,
+      "filings": 64,
+      "median_wage_usd": 115170.0
+    },
+    {
+      "fy": 2026,
+      "filings": 45,
+      "median_wage_usd": 115170.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Computer Systems Analyst",
+      "count": 116,
+      "median_wage_usd": 113797.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 42,
+      "median_wage_usd": 136479.0
+    },
+    {
+      "title": "Sales Engineer",
+      "count": 1,
+      "median_wage_usd": 63877.0
+    },
+    {
+      "title": "Data Engineer",
+      "count": 1,
+      "median_wage_usd": 200000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 33
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 4
+    },
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 3
+    },
+    {
+      "state": "WA",
+      "county": "SNOHOMISH",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 3
+    },
+    {
+      "state": "CA",
+      "county": "SACRAMENTO",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 1
+    },
+    {
+      "state": "CO",
+      "county": "DENVER",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "county": "HUDSON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "WA",
+      "count": 126
+    },
+    {
+      "state": "TX",
+      "count": 13
+    },
+    {
+      "state": "CA",
+      "count": 9
+    },
+    {
+      "state": "NJ",
+      "count": 4
+    },
+    {
+      "state": "IL",
+      "count": 2
+    },
+    {
+      "state": "FL",
+      "count": 2
+    },
+    {
+      "state": "DE",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    },
+    {
+      "state": "CO",
+      "count": 1
+    },
+    {
+      "state": "MN",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1211",
+    "soc_title": "Computer Systems Analysts",
+    "market_median_usd": 103800.0,
+    "employer_median_usd": 113797.0,
+    "gap_usd": 9997.0
+  }
+}

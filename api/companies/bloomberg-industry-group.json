@@ -1,0 +1,111 @@
+{
+  "slug": "bloomberg-industry-group",
+  "canonical_name": "Bloomberg Industry Group, Inc.",
+  "fein": "53-0040540",
+  "lca_filing_count": 13,
+  "lca_worker_positions": 13,
+  "warn_notice_count": 0,
+  "median_wage_usd": 175000.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 180000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 8,
+      "median_wage_usd": 180000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 140837.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Web Application Architect 3",
+      "count": 2,
+      "median_wage_usd": 168025.0
+    },
+    {
+      "title": "Platform Engineer, Senior",
+      "count": 2,
+      "median_wage_usd": 196560.0
+    },
+    {
+      "title": "Lead Technical Architect",
+      "count": 2,
+      "median_wage_usd": 180000.0
+    },
+    {
+      "title": "Technical Manager",
+      "count": 1,
+      "median_wage_usd": 221170.0
+    },
+    {
+      "title": "Web Application Architect 1",
+      "count": 1,
+      "median_wage_usd": 127000.0
+    },
+    {
+      "title": "Web Application Architect 2",
+      "count": 1,
+      "median_wage_usd": 157590.0
+    },
+    {
+      "title": "Web Application Architect 2 (INDG)",
+      "count": 1,
+      "median_wage_usd": 175000.0
+    },
+    {
+      "title": "Application Security Manager, Assistant",
+      "count": 1,
+      "median_wage_usd": 140837.0
+    },
+    {
+      "title": "News Team Lead",
+      "count": 1,
+      "median_wage_usd": 155880.0
+    },
+    {
+      "title": "Platform Engineering Manager",
+      "count": 1,
+      "median_wage_usd": 185000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "VA",
+      "county": "ARLINGTON",
+      "count": 1
+    },
+    {
+      "state": "DC",
+      "county": "DISTRICT OF COLUMBIA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "VA",
+      "count": 12
+    },
+    {
+      "state": "DC",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 166000.0,
+    "gap_usd": 35840.0
+  }
+}

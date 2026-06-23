@@ -1,0 +1,66 @@
+{
+  "slug": "braskem-america",
+  "canonical_name": "Braskem America, Inc.",
+  "fein": "25-1534498",
+  "lca_filing_count": 3,
+  "lca_worker_positions": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 146268.46,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 139233.64
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 148772.39,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Modeling & Systems Engineer",
+      "count": 1,
+      "median_wage_usd": 139233.64
+    },
+    {
+      "title": "Research Specialist",
+      "count": 1,
+      "median_wage_usd": 146268.46
+    },
+    {
+      "title": "Senior Enterprise Data Engineer",
+      "count": 1,
+      "median_wage_usd": 151276.32
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "PA",
+      "county": "ALLEGHENY",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "PA",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 146268.46,
+    "gap_usd": 38248.46
+  }
+}

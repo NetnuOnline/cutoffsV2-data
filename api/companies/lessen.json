@@ -1,0 +1,114 @@
+{
+  "slug": "lessen",
+  "canonical_name": "Lessen LLC",
+  "fein": "84-3881497",
+  "lca_filing_count": 6,
+  "lca_worker_positions": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 134523.02,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 182500.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 122805.6
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 143023.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 126023.04,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Product Manager I",
+      "count": 1,
+      "median_wage_usd": 125611.2
+    },
+    {
+      "title": "Senior Backend Software Engineer",
+      "count": 1,
+      "median_wage_usd": 165000.0
+    },
+    {
+      "title": "Senior Backend Engineer",
+      "count": 1,
+      "median_wage_usd": 200000.0
+    },
+    {
+      "title": "Manager of Software Quality Assurance Engineering II",
+      "count": 1,
+      "median_wage_usd": 143023.0
+    },
+    {
+      "title": "Senior DevOps Engineer I",
+      "count": 1,
+      "median_wage_usd": 126023.04
+    },
+    {
+      "title": "Senior Software Developer I",
+      "count": 1,
+      "median_wage_usd": 120000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    },
+    {
+      "state": "KS",
+      "county": "JOHNSON",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "county": "MECKLENBURG",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "KS",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 145511.52,
+    "gap_usd": 15351.52
+  }
+}

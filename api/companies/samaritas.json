@@ -1,0 +1,50 @@
+{
+  "slug": "samaritas",
+  "canonical_name": "Samaritas",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 3,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "MI",
+      "count": 3
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "03/30/2026",
+      "effective_date": "03/30/2026",
+      "state": "MI",
+      "workers": 58,
+      "city": "Grand Rapids, Michigan"
+    },
+    {
+      "date": "09/30/2024",
+      "effective_date": "11/29/2024",
+      "state": "MI",
+      "workers": 52,
+      "city": "Muskegon; Muskegon Township; and Scottville, Michigan"
+    },
+    {
+      "date": "09/30/2024",
+      "effective_date": "09/30/2024",
+      "state": "MI",
+      "workers": 52,
+      "city": "Muskegon"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "muskegon-oceana-consortium",
+      "name": "Muskegon-Oceana Consortium",
+      "state": "MI"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

@@ -1,0 +1,178 @@
+{
+  "slug": "staples",
+  "canonical_name": "Staples, Inc.",
+  "fein": "04-2896127",
+  "lca_filing_count": 186,
+  "lca_worker_positions": 185,
+  "warn_notice_count": 0,
+  "median_wage_usd": 138240.1,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 25,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 30,
+      "median_wage_usd": 112531.20999999999
+    },
+    {
+      "fy": 2022,
+      "filings": 24,
+      "median_wage_usd": 135271.02000000002
+    },
+    {
+      "fy": 2023,
+      "filings": 24,
+      "median_wage_usd": 138546.89
+    },
+    {
+      "fy": 2024,
+      "filings": 32,
+      "median_wage_usd": 152802.25
+    },
+    {
+      "fy": 2025,
+      "filings": 29,
+      "median_wage_usd": 146727.0
+    },
+    {
+      "fy": 2026,
+      "filings": 21,
+      "median_wage_usd": 137700.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Software Engineer I",
+      "count": 19,
+      "median_wage_usd": 155000.0
+    },
+    {
+      "title": "Software Engineer III",
+      "count": 17,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "title": "SOFTWARE ENGINEER II",
+      "count": 11,
+      "median_wage_usd": 111374.0
+    },
+    {
+      "title": "Software Engineer II",
+      "count": 11,
+      "median_wage_usd": 118398.24
+    },
+    {
+      "title": "SOFTWARE ENGINEER III",
+      "count": 8,
+      "median_wage_usd": 110715.0
+    },
+    {
+      "title": "Senior Manager Software Engineering",
+      "count": 4,
+      "median_wage_usd": 187350.565
+    },
+    {
+      "title": "Senior Manager, Product Management",
+      "count": 3,
+      "median_wage_usd": 200000.0
+    },
+    {
+      "title": "Quality Engineer III",
+      "count": 3,
+      "median_wage_usd": 140608.0
+    },
+    {
+      "title": "Data Engineer III",
+      "count": 3,
+      "median_wage_usd": 132000.0
+    },
+    {
+      "title": "Manager Software Engineering",
+      "count": 2,
+      "median_wage_usd": 167614.8
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MA",
+      "county": "FRAMINGHAM",
+      "count": 121
+    },
+    {
+      "state": "IL",
+      "county": "LAKE",
+      "count": 13
+    },
+    {
+      "state": "CO",
+      "county": "JEFFERSON",
+      "count": 4
+    },
+    {
+      "state": "CO",
+      "county": "BROOMFIELD",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "county": "HILLSBOROUGH",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "county": "WORCESTER CITY",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "county": "ORANGE",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "county": "BOSTON CITY",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MA",
+      "count": 159
+    },
+    {
+      "state": "IL",
+      "count": 16
+    },
+    {
+      "state": "CO",
+      "count": 6
+    },
+    {
+      "state": "TX",
+      "count": 3
+    },
+    {
+      "state": "FL",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 148237.53,
+    "gap_usd": 18077.53
+  }
+}

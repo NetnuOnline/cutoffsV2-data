@@ -1,0 +1,36 @@
+{
+  "slug": "job1-usa-houston",
+  "canonical_name": "Job1 USA (Houston)",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 1,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "10/23/2025",
+      "effective_date": "11/15/2025",
+      "state": "TX",
+      "workers": 13,
+      "city": "Houston"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "gulf-coast-wda",
+      "name": "Gulf Coast WDA",
+      "state": "TX"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

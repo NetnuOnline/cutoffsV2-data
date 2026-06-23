@@ -1,0 +1,86 @@
+{
+  "slug": "gordmans",
+  "canonical_name": "Gordmans",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 7,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "NE",
+      "count": 4
+    },
+    {
+      "state": "KS",
+      "count": 2
+    },
+    {
+      "state": "IN",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "07/02/2020",
+      "effective_date": "07/02/2020",
+      "state": "NE",
+      "workers": 84,
+      "city": null
+    },
+    {
+      "date": "06/23/2020",
+      "effective_date": "06/23/2020",
+      "state": "KS",
+      "workers": 5,
+      "city": "1 - Workforce Investment Area I"
+    },
+    {
+      "date": "06/22/2020",
+      "effective_date": "06/22/2020",
+      "state": "KS",
+      "workers": 3,
+      "city": "1 - Workforce Investment Area I"
+    },
+    {
+      "date": "05/11/2020",
+      "effective_date": "05/11/2020",
+      "state": "NE",
+      "workers": 432,
+      "city": null
+    },
+    {
+      "date": "05/11/2017",
+      "effective_date": "05/11/2017",
+      "state": "NE",
+      "workers": 131,
+      "city": "Omaha"
+    },
+    {
+      "date": "03/14/2017",
+      "effective_date": "03/14/2017",
+      "state": "NE",
+      "workers": 450,
+      "city": "Omaha"
+    },
+    {
+      "date": "03/13/2017",
+      "effective_date": "05/12/2017",
+      "state": "IN",
+      "workers": 139,
+      "city": "Clayton"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "omaha-consortium",
+      "name": "Omaha Consortium",
+      "state": "NE"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

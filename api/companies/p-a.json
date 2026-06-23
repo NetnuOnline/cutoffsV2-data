@@ -1,0 +1,78 @@
+{
+  "slug": "p-a",
+  "canonical_name": "P&A Corporation",
+  "fein": null,
+  "lca_filing_count": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 38875.2,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 4,
+      "median_wage_usd": 38875.2
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Advertising and Promotions Manager",
+      "count": 1,
+      "median_wage_usd": 38604.799999999996
+    },
+    {
+      "title": "Lodging Manager",
+      "count": 1,
+      "median_wage_usd": 40310.4
+    },
+    {
+      "title": "Sales Manager",
+      "count": 1,
+      "median_wage_usd": 36816.0
+    },
+    {
+      "title": "Marketing Manager",
+      "count": 1,
+      "median_wage_usd": 39145.6
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MP",
+      "county": "NORTHERN ISLANDS",
+      "count": 4
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MP",
+      "count": 4
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 0,
+    "continuing_denials": 0,
+    "total_approvals": 1,
+    "by_fy": [
+      {
+        "fy": 2020,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-2021",
+    "soc_title": "Marketing Managers",
+    "market_median_usd": 157620.0,
+    "employer_median_usd": 39145.6,
+    "gap_usd": -118474.4
+  }
+}

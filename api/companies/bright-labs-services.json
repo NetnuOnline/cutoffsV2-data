@@ -1,0 +1,69 @@
+{
+  "slug": "bright-labs-services",
+  "canonical_name": "Bright Labs Services, LLC",
+  "fein": "92-0759082",
+  "lca_filing_count": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 119330.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 133500.0
+    },
+    {
+      "fy": 2025,
+      "filings": 4,
+      "median_wage_usd": 117634.5
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Director, Data Scientist",
+      "count": 2,
+      "median_wage_usd": 115939.0
+    },
+    {
+      "title": "Director, Data & Technology",
+      "count": 2,
+      "median_wage_usd": 133500.0
+    },
+    {
+      "title": "Director, e-Discovery",
+      "count": 1,
+      "median_wage_usd": 119330.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "DC",
+      "count": 2
+    },
+    {
+      "state": "NY",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 5,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 133500.0,
+    "gap_usd": 25480.0
+  }
+}

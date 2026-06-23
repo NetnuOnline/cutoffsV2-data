@@ -1,0 +1,76 @@
+{
+  "slug": "red-lion-hotel",
+  "canonical_name": "Red Lion Hotel",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 5,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "WA",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "OR",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "10/10/2016",
+      "effective_date": "12/12/2016",
+      "state": "CA",
+      "workers": 120,
+      "city": "Sacramento"
+    },
+    {
+      "date": "10/31/2015",
+      "effective_date": "10/31/2015",
+      "state": "WA",
+      "workers": 82,
+      "city": "Vancouver"
+    },
+    {
+      "date": "08/26/2015",
+      "effective_date": "10/31/2015",
+      "state": "WA",
+      "workers": 82,
+      "city": "Vancouver"
+    },
+    {
+      "date": "08/30/2001",
+      "effective_date": "10/31/2001",
+      "state": "OR",
+      "workers": 59,
+      "city": "PORTLAND"
+    },
+    {
+      "date": "03/27/2001",
+      "effective_date": "05/25/2001",
+      "state": "TX",
+      "workers": 84,
+      "city": "Houston"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "southwest-washington-wib",
+      "name": "Southwest Washington WIB",
+      "state": "WA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

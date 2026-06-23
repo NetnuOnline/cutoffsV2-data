@@ -1,0 +1,132 @@
+{
+  "slug": "geneses-tech-solutions",
+  "canonical_name": "Geneses Tech Solutions LLC.",
+  "fein": "47-1310904",
+  "lca_filing_count": 9,
+  "warn_notice_count": 0,
+  "median_wage_usd": 102294.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 70000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 7,
+      "median_wage_usd": 102294.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 112000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer (ServiceNow Developer)",
+      "count": 2,
+      "median_wage_usd": 115918.0
+    },
+    {
+      "title": "Test Engineer ",
+      "count": 2,
+      "median_wage_usd": 75296.0
+    },
+    {
+      "title": "Software Developer ",
+      "count": 2,
+      "median_wage_usd": 102294.0
+    },
+    {
+      "title": "Software Quality Assurance Analysts and Testers",
+      "count": 1,
+      "median_wage_usd": 74776.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 1,
+      "median_wage_usd": 112000.0
+    },
+    {
+      "title": "Quality Assurance Analyst",
+      "count": 1,
+      "median_wage_usd": 70000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 4
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 2
+    },
+    {
+      "state": "FL",
+      "county": "HILLSBOROUGH",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "AZ",
+      "count": 5
+    },
+    {
+      "state": "NY",
+      "count": 2
+    },
+    {
+      "state": "FL",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 23,
+    "initial_denials": 0,
+    "continuing_approvals": 1,
+    "continuing_denials": 1,
+    "total_approvals": 24,
+    "by_fy": [
+      {
+        "fy": 2021,
+        "initial_approvals": 6,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 6
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 7,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 1,
+        "total_approvals": 7
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 10,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 11
+      }
+    ]
+  },
+  "lca_worker_positions": 9,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 112000.0,
+    "gap_usd": -18160.0
+  }
+}

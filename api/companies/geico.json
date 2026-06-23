@@ -1,0 +1,74 @@
+{
+  "slug": "geico",
+  "canonical_name": "Government Employee Insurance Company (GEICO)",
+  "fein": null,
+  "lca_filing_count": 217,
+  "warn_notice_count": 2,
+  "median_wage_usd": 176905,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 0,
+      "median_wage_usd": null
+    },
+    {
+      "fy": 2026,
+      "filings": 0,
+      "median_wage_usd": null
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Engineer - .NET",
+      "count": 0,
+      "median_wage_usd": null
+    },
+    {
+      "title": "Senior Engineer - Java",
+      "count": 0,
+      "median_wage_usd": null
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 1
+    },
+    {
+      "state": "IA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "10/23/2023",
+      "effective_date": "01/17/2024",
+      "state": "NJ",
+      "workers": 93,
+      "city": "Cherry Hill"
+    },
+    {
+      "date": "10/23/2023",
+      "effective_date": "12/18/2023",
+      "state": "IA",
+      "workers": 25,
+      "city": "North Liberty"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "region-10-cedar-rapids-wib",
+      "name": "Region 10 - Cedar Rapids WIB",
+      "state": "IA"
+    },
+    {
+      "slug": "camden-wib",
+      "name": "Camden WIB",
+      "state": "NJ"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

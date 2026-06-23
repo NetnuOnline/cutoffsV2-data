@@ -1,0 +1,97 @@
+{
+  "slug": "the-city-of-detroit",
+  "canonical_name": "The City of Detroit",
+  "fein": "38-6004606",
+  "lca_filing_count": 10,
+  "lca_worker_positions": 10,
+  "warn_notice_count": 0,
+  "median_wage_usd": 123945.5,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 4,
+      "median_wage_usd": 137222.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 76398.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 87145.5
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 127000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Financial Analyst Manager IV (Director of ERP)",
+      "count": 2,
+      "median_wage_usd": 137222.0
+    },
+    {
+      "title": "Information Technology Specialist Software Engineer 4",
+      "count": 2,
+      "median_wage_usd": 127000.0
+    },
+    {
+      "title": "Data Manager",
+      "count": 1,
+      "median_wage_usd": 80000.0
+    },
+    {
+      "title": "Information Technology Specialist Software Engineer 3",
+      "count": 1,
+      "median_wage_usd": 120891.0
+    },
+    {
+      "title": "Senior Assistant Civil Engineer -Design",
+      "count": 1,
+      "median_wage_usd": 50000.0
+    },
+    {
+      "title": "Senior Assistant Traffic Engineer",
+      "count": 1,
+      "median_wage_usd": 76398.0
+    },
+    {
+      "title": "Financial Analyst Manager IV-Director of ERP",
+      "count": 1,
+      "median_wage_usd": 142029.0
+    },
+    {
+      "title": "Senior Associate Traffic Engineer",
+      "count": 1,
+      "median_wage_usd": 94291.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MI",
+      "county": "WAYNE",
+      "count": 5
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MI",
+      "count": 10
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 127000.0,
+    "gap_usd": -3160.0
+  }
+}

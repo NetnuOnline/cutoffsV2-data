@@ -1,0 +1,51 @@
+{
+  "slug": "treenova",
+  "canonical_name": "Treenova, Inc.",
+  "fein": "39-3272865",
+  "lca_filing_count": 2,
+  "lca_worker_positions": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 70189.6,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 74089.59999999999
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 66289.6,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Marketing Research Analyst",
+      "count": 1,
+      "median_wage_usd": 66289.6
+    },
+    {
+      "title": "Market Research Analyst",
+      "count": 1,
+      "median_wage_usd": 74089.59999999999
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1161",
+    "soc_title": "Market Research Analysts and Marketing Specialists",
+    "market_median_usd": 74680.0,
+    "employer_median_usd": 70189.6,
+    "gap_usd": -4490.4
+  }
+}

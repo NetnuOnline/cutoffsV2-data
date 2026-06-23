@@ -1,0 +1,199 @@
+{
+  "slug": "goldman-sachs-services",
+  "canonical_name": "Goldman Sachs Services LLC",
+  "fein": "13-3937419",
+  "lca_filing_count": 690,
+  "lca_worker_positions": 684,
+  "warn_notice_count": 0,
+  "median_wage_usd": 143000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 88,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 193,
+      "median_wage_usd": 139000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 131,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 66,
+      "median_wage_usd": 145500.0
+    },
+    {
+      "fy": 2024,
+      "filings": 88,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 87,
+      "median_wage_usd": 144000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 31,
+      "median_wage_usd": 185000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Vice President",
+      "count": 156,
+      "median_wage_usd": 170000.0
+    },
+    {
+      "title": "Associate",
+      "count": 105,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "VICE PRESIDENT",
+      "count": 71,
+      "median_wage_usd": 164000.0
+    },
+    {
+      "title": "Vice President, Software Engineering",
+      "count": 68,
+      "median_wage_usd": 180500.0
+    },
+    {
+      "title": "Analyst",
+      "count": 53,
+      "median_wage_usd": 85000.0
+    },
+    {
+      "title": "Associate, Software Engineering",
+      "count": 40,
+      "median_wage_usd": 139500.0
+    },
+    {
+      "title": "ASSOCIATE",
+      "count": 38,
+      "median_wage_usd": 116150.0
+    },
+    {
+      "title": "ANALYST",
+      "count": 34,
+      "median_wage_usd": 98500.0
+    },
+    {
+      "title": "Analyst, Software Engineering",
+      "count": 18,
+      "median_wage_usd": 103400.0
+    },
+    {
+      "title": "Vice President, Systems Engineering",
+      "count": 14,
+      "median_wage_usd": 166000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 192
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 173
+    },
+    {
+      "state": "UT",
+      "county": "SALT LAKE",
+      "count": 113
+    },
+    {
+      "state": "NJ",
+      "county": "HUDSON",
+      "count": 92
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 4
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 3
+    },
+    {
+      "state": "UT",
+      "county": "UTAH",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 1
+    },
+    {
+      "state": "WI",
+      "county": "MILWAUKEE",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 233
+    },
+    {
+      "state": "NY",
+      "count": 211
+    },
+    {
+      "state": "UT",
+      "count": 138
+    },
+    {
+      "state": "NJ",
+      "count": 97
+    },
+    {
+      "state": "IL",
+      "count": 4
+    },
+    {
+      "state": "WA",
+      "count": 3
+    },
+    {
+      "state": "CA",
+      "count": 2
+    },
+    {
+      "state": "MA",
+      "count": 1
+    },
+    {
+      "state": "WI",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 160000.0,
+    "gap_usd": 29840.0
+  }
+}

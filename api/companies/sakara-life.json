@@ -1,0 +1,76 @@
+{
+  "slug": "sakara-life",
+  "canonical_name": "Sakara Life, Inc.",
+  "fein": "47-4429601",
+  "lca_filing_count": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 255000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 70000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 250000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 285000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 260000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Vice President, Creative",
+      "count": 1,
+      "median_wage_usd": 260000.0
+    },
+    {
+      "title": "Chief Marketing & Creative Officer",
+      "count": 1,
+      "median_wage_usd": 285000.0
+    },
+    {
+      "title": "SENIOR ASSOCIATE, DESIGNER",
+      "count": 1,
+      "median_wage_usd": 70000.0
+    },
+    {
+      "title": "Chief Brand Officer",
+      "count": 1,
+      "median_wage_usd": 250000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 4
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 4
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-2021",
+    "soc_title": "Marketing Managers",
+    "market_median_usd": 157620.0,
+    "employer_median_usd": 267500.0,
+    "gap_usd": 109880.0
+  }
+}

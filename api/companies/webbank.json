@@ -1,0 +1,106 @@
+{
+  "slug": "webbank",
+  "canonical_name": "WebBank",
+  "fein": "87-0528836",
+  "lca_filing_count": 9,
+  "lca_worker_positions": 8,
+  "warn_notice_count": 0,
+  "median_wage_usd": 86500.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 82875.0
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 52000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 81000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 124000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 85000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 86500.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "GL Accountant",
+      "count": 2,
+      "median_wage_usd": 59500.0
+    },
+    {
+      "title": "Compliance Manager",
+      "count": 2,
+      "median_wage_usd": 99000.0
+    },
+    {
+      "title": "Risk and Analytics Manager",
+      "count": 2,
+      "median_wage_usd": 145000.0
+    },
+    {
+      "title": "Risk Data Analyst",
+      "count": 1,
+      "median_wage_usd": 85000.0
+    },
+    {
+      "title": "Credit and Counterparty Analyst",
+      "count": 1,
+      "median_wage_usd": 86500.0
+    },
+    {
+      "title": "Financial Risk Analyst",
+      "count": 1,
+      "median_wage_usd": 82875.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "UT",
+      "county": "SALT LAKE",
+      "count": 7
+    },
+    {
+      "state": "NJ",
+      "county": "UNION",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "UT",
+      "count": 8
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-2011",
+    "soc_title": "Accountants",
+    "market_median_usd": 79000.0,
+    "employer_median_usd": 59500.0,
+    "gap_usd": -19500.0
+  }
+}

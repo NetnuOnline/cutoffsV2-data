@@ -1,0 +1,122 @@
+{
+  "slug": "insight-chicago",
+  "canonical_name": "Insight Chicago, Inc.",
+  "fein": "86-2358048",
+  "lca_filing_count": 10,
+  "warn_notice_count": 0,
+  "median_wage_usd": 150000.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 3,
+      "median_wage_usd": 250000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 4,
+      "median_wage_usd": 129049.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 76250.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 150000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "IT Manager \u2013 Infrastructure & Operations",
+      "count": 2,
+      "median_wage_usd": 108098.0
+    },
+    {
+      "title": "Physician (Family Medicine)",
+      "count": 2,
+      "median_wage_usd": 250000.0
+    },
+    {
+      "title": "Director of Operations",
+      "count": 1,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "title": "Pulmonary Critical Care Physician ",
+      "count": 1,
+      "median_wage_usd": 300000.0
+    },
+    {
+      "title": "Corporate Director of IT Services ",
+      "count": 1,
+      "median_wage_usd": 225000.0
+    },
+    {
+      "title": "Community Health Outreach Worker",
+      "count": 1,
+      "median_wage_usd": 65000.0
+    },
+    {
+      "title": "Network Administrator",
+      "count": 1,
+      "median_wage_usd": 87500.0
+    },
+    {
+      "title": "Pediatrician & Director of Adolescent Outreach and Care",
+      "count": 1,
+      "median_wage_usd": 150000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 8
+    },
+    {
+      "state": "MI",
+      "county": "WAYNE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 9
+    },
+    {
+      "state": "MI",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 3,
+    "initial_denials": 0,
+    "continuing_approvals": 0,
+    "continuing_denials": 0,
+    "total_approvals": 3,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 3,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      }
+    ]
+  },
+  "lca_worker_positions": 10,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3021",
+    "soc_title": "Computer and Information Systems Managers",
+    "market_median_usd": 169510.0,
+    "employer_median_usd": 108098.0,
+    "gap_usd": -61412.0
+  }
+}

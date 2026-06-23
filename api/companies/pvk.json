@@ -1,0 +1,190 @@
+{
+  "slug": "pvk",
+  "canonical_name": "PVK Corporation",
+  "fein": "68-0535594",
+  "lca_filing_count": 28,
+  "lca_worker_positions": 28,
+  "warn_notice_count": 0,
+  "median_wage_usd": 101096.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 4,
+      "median_wage_usd": 92695.0
+    },
+    {
+      "fy": 2021,
+      "filings": 8,
+      "median_wage_usd": 106821.5
+    },
+    {
+      "fy": 2022,
+      "filings": 3,
+      "median_wage_usd": 109283.0
+    },
+    {
+      "fy": 2023,
+      "filings": 6,
+      "median_wage_usd": 101096.0
+    },
+    {
+      "fy": 2024,
+      "filings": 4,
+      "median_wage_usd": 104624.0
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 126090.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 4,
+      "median_wage_usd": 105596.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 4,
+      "median_wage_usd": 126090.0
+    },
+    {
+      "title": "SCRUM MASTER/PROJECT MANAGER",
+      "count": 3,
+      "median_wage_usd": 116043.0
+    },
+    {
+      "title": "Senior Data Analytics Consultant",
+      "count": 2,
+      "median_wage_usd": 97600.0
+    },
+    {
+      "title": "Systems Engineer",
+      "count": 2,
+      "median_wage_usd": 90657.0
+    },
+    {
+      "title": "Linux configuration Analyst",
+      "count": 2,
+      "median_wage_usd": 86549.0
+    },
+    {
+      "title": "Java Developer",
+      "count": 1,
+      "median_wage_usd": 101192.0
+    },
+    {
+      "title": "Principal Software Engineer",
+      "count": 1,
+      "median_wage_usd": 137259.0
+    },
+    {
+      "title": "Java Developer ",
+      "count": 1,
+      "median_wage_usd": 98904.0
+    },
+    {
+      "title": "Salesforce Developer",
+      "count": 1,
+      "median_wage_usd": 122699.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "VA",
+      "county": "FAIRFAX",
+      "count": 4
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 4
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 4
+    },
+    {
+      "state": "VA",
+      "county": "HENRICO",
+      "count": 3
+    },
+    {
+      "state": "VA",
+      "county": "LOUDOUN",
+      "count": 2
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "county": "ESSEX",
+      "count": 1
+    },
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "RIVERSIDE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "VA",
+      "count": 12
+    },
+    {
+      "state": "TX",
+      "count": 6
+    },
+    {
+      "state": "CA",
+      "count": 5
+    },
+    {
+      "state": "IL",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    },
+    {
+      "state": "AZ",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 109283.0,
+    "gap_usd": -20877.0
+  }
+}

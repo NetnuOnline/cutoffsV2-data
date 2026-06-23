@@ -1,0 +1,178 @@
+{
+  "slug": "health-care-service",
+  "canonical_name": "HEALTH CARE SERVICE CORPORATION",
+  "fein": "36-1236610",
+  "lca_filing_count": 251,
+  "lca_worker_positions": 267,
+  "warn_notice_count": 0,
+  "median_wage_usd": 116938.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 10,
+      "median_wage_usd": 104624.0
+    },
+    {
+      "fy": 2021,
+      "filings": 29,
+      "median_wage_usd": 107931.0
+    },
+    {
+      "fy": 2022,
+      "filings": 30,
+      "median_wage_usd": 112205.5
+    },
+    {
+      "fy": 2023,
+      "filings": 34,
+      "median_wage_usd": 116979.0
+    },
+    {
+      "fy": 2024,
+      "filings": 46,
+      "median_wage_usd": 124426.0
+    },
+    {
+      "fy": 2025,
+      "filings": 72,
+      "median_wage_usd": 134014.0
+    },
+    {
+      "fy": 2026,
+      "filings": 27,
+      "median_wage_usd": 130707.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Developer Specialist",
+      "count": 11,
+      "median_wage_usd": 144560.0
+    },
+    {
+      "title": "Developer",
+      "count": 11,
+      "median_wage_usd": 101192.0
+    },
+    {
+      "title": "Senior Developer",
+      "count": 11,
+      "median_wage_usd": 111176.0
+    },
+    {
+      "title": "Sr Developer",
+      "count": 9,
+      "median_wage_usd": 120328.0
+    },
+    {
+      "title": "Application Architect",
+      "count": 7,
+      "median_wage_usd": 114234.0
+    },
+    {
+      "title": "SR DEVELOPER",
+      "count": 6,
+      "median_wage_usd": 121690.0
+    },
+    {
+      "title": "SR SYSTEMS ANALYST",
+      "count": 5,
+      "median_wage_usd": 130707.0
+    },
+    {
+      "title": "Sr Systems Analyst",
+      "count": 5,
+      "median_wage_usd": 123614.0
+    },
+    {
+      "title": "Sr Data Engineer",
+      "count": 5,
+      "median_wage_usd": 147430.0
+    },
+    {
+      "title": "SR DATA ENGINEER",
+      "count": 5,
+      "median_wage_usd": 145995.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 57
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 50
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 44
+    },
+    {
+      "state": "TN",
+      "county": "DAVIDSON",
+      "count": 23
+    },
+    {
+      "state": "IL",
+      "county": "DUPAGE",
+      "count": 4
+    },
+    {
+      "state": "OK",
+      "county": "TULSA",
+      "count": 3
+    },
+    {
+      "state": "IL",
+      "county": "LAKE",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 1
+    },
+    {
+      "state": "NM",
+      "county": "BERNALILLO",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 129
+    },
+    {
+      "state": "IL",
+      "count": 79
+    },
+    {
+      "state": "TN",
+      "count": 37
+    },
+    {
+      "state": "NM",
+      "count": 3
+    },
+    {
+      "state": "OK",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 130707.0,
+    "gap_usd": 547.0
+  }
+}

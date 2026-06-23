@@ -1,0 +1,70 @@
+{
+  "slug": "capital-vision-services",
+  "canonical_name": "Capital Vision Services, LLC",
+  "fein": "52-2329284",
+  "lca_filing_count": 3,
+  "lca_worker_positions": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 145000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 67485.6
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 160050.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Technical Lead - RPA (Robotic Process Automation)",
+      "count": 1,
+      "median_wage_usd": 145000.0
+    },
+    {
+      "title": "Engineering Manager, Field and Clinical Applications",
+      "count": 1,
+      "median_wage_usd": 175100.0
+    },
+    {
+      "title": "Optometric Practitioner",
+      "count": 1,
+      "median_wage_usd": 67485.6
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "WV",
+      "county": "BERKELEY",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MI",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "count": 1
+    },
+    {
+      "state": "WV",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 160050.0,
+    "gap_usd": 29890.0
+  }
+}

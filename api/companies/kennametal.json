@@ -1,0 +1,539 @@
+{
+  "slug": "kennametal",
+  "canonical_name": "Kennametal, Inc.",
+  "fein": null,
+  "lca_filing_count": 8,
+  "warn_notice_count": 7,
+  "median_wage_usd": 114273.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 94939.0
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 122472.0
+    },
+    {
+      "fy": 2022,
+      "filings": 4,
+      "median_wage_usd": 115977.12
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Engineer Manufacturing",
+      "count": 1,
+      "median_wage_usd": 106074.0
+    },
+    {
+      "title": "Sr Manager, Advanced Analytics and Data Science",
+      "count": 1,
+      "median_wage_usd": 122472.0
+    },
+    {
+      "title": "PROGRAM MANAGER IT",
+      "count": 1,
+      "median_wage_usd": 126954.24
+    },
+    {
+      "title": "Senior Engineer, Product Engineering",
+      "count": 1,
+      "median_wage_usd": 83804.0
+    },
+    {
+      "title": "Senior Program Manager",
+      "count": 1,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "title": "Engineer, Materials Science Engineering",
+      "count": 1,
+      "median_wage_usd": 84166.0
+    },
+    {
+      "title": "Sr. Manufacturing Engineer",
+      "count": 1,
+      "median_wage_usd": 105000.0
+    },
+    {
+      "title": "PROGRAM MANAGER ",
+      "count": 1,
+      "median_wage_usd": 126954.24
+    }
+  ],
+  "top_states": [
+    {
+      "state": "PA",
+      "count": 6
+    },
+    {
+      "state": "AL",
+      "count": 1
+    },
+    {
+      "state": "TN",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "PA",
+      "county": "WESTMORELAND",
+      "count": 5
+    },
+    {
+      "state": "AL",
+      "county": "MADISON",
+      "count": 1
+    },
+    {
+      "state": "TN",
+      "county": "WASHINGTON",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "county": "BEDFORD",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "02/12/2025",
+      "effective_date": "02/12/2025",
+      "state": "MA",
+      "workers": 54,
+      "city": "Greenfield"
+    },
+    {
+      "date": "08/05/2020",
+      "effective_date": "10/15/2020",
+      "state": "TN",
+      "workers": 141,
+      "city": "Washington County"
+    },
+    {
+      "date": "05/05/2016",
+      "effective_date": "07/05/2016",
+      "state": "TX",
+      "workers": 65,
+      "city": "Houston"
+    },
+    {
+      "date": "01/19/2015",
+      "effective_date": "03/23/2015",
+      "state": "AL",
+      "workers": 93,
+      "city": "Grant"
+    },
+    {
+      "date": "03/31/2014",
+      "effective_date": "03/31/2014",
+      "state": "VT",
+      "workers": 88,
+      "city": "00 - Vermont Workforce Investment Area"
+    },
+    {
+      "date": "07/01/2009",
+      "effective_date": "07/01/2009",
+      "state": "GA",
+      "workers": 153,
+      "city": "Evans"
+    },
+    {
+      "date": "01/09/2009",
+      "effective_date": "01/09/2009",
+      "state": "VT",
+      "workers": 25,
+      "city": "00 - Vermont Workforce Investment Area"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "north-alabama-works",
+      "name": "North Alabama Works",
+      "state": "AL"
+    },
+    {
+      "slug": "east-central-georgia-wib",
+      "name": "East Central Georgia WIB",
+      "state": "GA"
+    },
+    {
+      "slug": "franklinhampshire-wia",
+      "name": "Franklin/Hampshire WIA",
+      "state": "MA"
+    }
+  ],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2025-01-14",
+        "formType": "8-K",
+        "accessionNumber": "0000055242-25-000004",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000055242&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2023-06-05",
+        "formType": "8-K",
+        "accessionNumber": "0000055242-23-000028",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000055242&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2020-06-09",
+        "formType": "8-K",
+        "accessionNumber": "0000055242-20-000017",
+        "items": [
+          "2.05",
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities",
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000055242&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2019-07-11",
+        "formType": "8-K",
+        "accessionNumber": "0000055242-19-000014",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000055242&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2019-05-06",
+        "formType": "8-K",
+        "accessionNumber": "0000055242-19-000006",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000055242&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2016-08-01",
+        "formType": "8-K",
+        "accessionNumber": "0000055242-16-000057",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000055242&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2015-11-03",
+        "formType": "8-K",
+        "accessionNumber": "0000055242-15-000031",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000055242&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2010-01-28",
+        "formType": "8-K",
+        "accessionNumber": "0000950123-10-005935",
+        "items": [
+          "2.05",
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities",
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000055242&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2009-06-26",
+        "formType": "8-K",
+        "accessionNumber": "0000950123-09-017573",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000055242&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2009-05-19",
+        "formType": "8-K",
+        "accessionNumber": "0000950152-09-005426",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000055242&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2009-04-15",
+        "formType": "8-K",
+        "accessionNumber": "0000950152-09-003748",
+        "items": [
+          "2.05",
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities",
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000055242&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2009-01-12",
+        "formType": "8-K",
+        "accessionNumber": "0000950152-09-000208",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000055242&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2006-07-05",
+        "formType": "8-K",
+        "accessionNumber": "0000950152-06-005628",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000055242&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2006-04-18",
+        "formType": "8-K",
+        "accessionNumber": "0000950152-06-003264",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000055242&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2006-04-07",
+        "formType": "8-K",
+        "accessionNumber": "0000950152-06-003024",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000055242&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2005-04-27",
+        "formType": "8-K",
+        "accessionNumber": "0000950152-05-003567",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000055242&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2005-01-06",
+        "formType": "8-K",
+        "accessionNumber": "0000950152-05-000093",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000055242&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2004-12-07",
+        "formType": "8-K",
+        "accessionNumber": "0000950152-04-008806",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000055242&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 18,
+    "itemCounts": {
+      "2.05": 14,
+      "5.02": 6,
+      "2.06": 1
+    },
+    "latestFilingDate": "2025-01-14",
+    "earliestFilingDate": "2004-12-07"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 4,
+    "initial_denials": 0,
+    "continuing_approvals": 17,
+    "continuing_denials": 0,
+    "total_approvals": 21,
+    "by_fy": [
+      {
+        "fy": 2009,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2010,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2011,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2012,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2013,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2014,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2015,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2016,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2017,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 4
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 8,
+        "continuing_denials": 0,
+        "total_approvals": 8
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 3,
+        "initial_denials": 0,
+        "continuing_approvals": 5,
+        "continuing_denials": 0,
+        "total_approvals": 8
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 7,
+  "top_socs": [],
+  "lca_periods": []
+}

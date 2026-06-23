@@ -1,0 +1,660 @@
+{
+  "slug": "ryder",
+  "canonical_name": "Ryder",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 75,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 13
+    },
+    {
+      "state": "IL",
+      "count": 10
+    },
+    {
+      "state": "TX",
+      "count": 10
+    },
+    {
+      "state": "GA",
+      "count": 7
+    },
+    {
+      "state": "TN",
+      "count": 5
+    },
+    {
+      "state": "NY",
+      "count": 5
+    },
+    {
+      "state": "WI",
+      "count": 4
+    },
+    {
+      "state": "OH",
+      "count": 4
+    },
+    {
+      "state": "NC",
+      "count": 2
+    },
+    {
+      "state": "AZ",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "04/30/2026",
+      "effective_date": "06/30/2026",
+      "state": "WI",
+      "workers": 151,
+      "city": "Green Bay"
+    },
+    {
+      "date": "04/08/2026",
+      "effective_date": "07/24/2026",
+      "state": "IA",
+      "workers": 153,
+      "city": "Waterloo"
+    },
+    {
+      "date": "12/30/2025",
+      "effective_date": "02/28/2026",
+      "state": "IL",
+      "workers": 59,
+      "city": "Saint Elmo"
+    },
+    {
+      "date": "12/01/2025",
+      "effective_date": "01/30/2026",
+      "state": "NC",
+      "workers": 91,
+      "city": "18400 Fieldcrest Rd, Laurel Hill"
+    },
+    {
+      "date": "08/01/2025",
+      "effective_date": "08/01/2025",
+      "state": "PA",
+      "workers": 76,
+      "city": "Shoemakersville"
+    },
+    {
+      "date": "07/30/2025",
+      "effective_date": "09/27/2025",
+      "state": "IL",
+      "workers": 32,
+      "city": "East Moline"
+    },
+    {
+      "date": "07/22/2025",
+      "effective_date": "07/22/2025",
+      "state": "AZ",
+      "workers": 58,
+      "city": "Yuma"
+    },
+    {
+      "date": "07/22/2025",
+      "effective_date": "07/22/2025",
+      "state": "AZ",
+      "workers": 0,
+      "city": "Yuma"
+    },
+    {
+      "date": "12/30/2024",
+      "effective_date": "02/28/2025",
+      "state": "MD",
+      "workers": 87,
+      "city": "Curtis Bay"
+    },
+    {
+      "date": "10/25/2024",
+      "effective_date": "12/20/2024",
+      "state": "IL",
+      "workers": 40,
+      "city": "Dixon"
+    },
+    {
+      "date": "05/14/2024",
+      "effective_date": "07/26/2024",
+      "state": "CA",
+      "workers": 148,
+      "city": "13055 Valley Blvd  Fontana CA 92335"
+    },
+    {
+      "date": "03/06/2024",
+      "effective_date": "04/30/2024",
+      "state": "IL",
+      "workers": 29,
+      "city": "Romeoville"
+    },
+    {
+      "date": "02/13/2024",
+      "effective_date": "06/30/2024",
+      "state": "TN",
+      "workers": 80,
+      "city": "Monroe County"
+    },
+    {
+      "date": "10/09/2023",
+      "effective_date": "12/31/2023",
+      "state": "SC",
+      "workers": 185,
+      "city": "Franklin"
+    },
+    {
+      "date": "06/07/2023",
+      "effective_date": "09/02/2023",
+      "state": "NY",
+      "workers": 47,
+      "city": "Waverly"
+    },
+    {
+      "date": "06/02/2023",
+      "effective_date": "09/02/2023",
+      "state": "NY",
+      "workers": 47,
+      "city": "Waverly"
+    },
+    {
+      "date": "06/02/2023",
+      "effective_date": "09/02/2023",
+      "state": "NY",
+      "workers": 47,
+      "city": "Waverly"
+    },
+    {
+      "date": "06/02/2023",
+      "effective_date": "09/02/2023",
+      "state": "NY",
+      "workers": 47,
+      "city": null
+    },
+    {
+      "date": "06/02/2023",
+      "effective_date": "06/02/2023",
+      "state": "NY",
+      "workers": 0,
+      "city": null
+    },
+    {
+      "date": "01/24/2023",
+      "effective_date": "03/31/2023",
+      "state": "CA",
+      "workers": 130,
+      "city": "16300 Fern Avenue  Chino CA 91708"
+    },
+    {
+      "date": "01/11/2023",
+      "effective_date": "03/18/2023",
+      "state": "TX",
+      "workers": 801,
+      "city": "Austin"
+    },
+    {
+      "date": "01/10/2023",
+      "effective_date": "04/01/2023",
+      "state": "CA",
+      "workers": 19,
+      "city": "10886 Citrus Avenue  Fontana CA 92337"
+    },
+    {
+      "date": "10/17/2022",
+      "effective_date": "01/31/2023",
+      "state": "IL",
+      "workers": 30,
+      "city": "Chicago Heights"
+    },
+    {
+      "date": "11/04/2021",
+      "effective_date": "12/31/2021",
+      "state": "KY",
+      "workers": 134,
+      "city": "Boone"
+    },
+    {
+      "date": "10/04/2021",
+      "effective_date": "12/06/2021",
+      "state": "CA",
+      "workers": 132,
+      "city": "Tracy"
+    },
+    {
+      "date": "01/21/2021",
+      "effective_date": "03/31/2021",
+      "state": "WI",
+      "workers": 80,
+      "city": "Milwaukee"
+    },
+    {
+      "date": "06/15/2020",
+      "effective_date": "08/12/2020",
+      "state": "KY",
+      "workers": 99,
+      "city": "Boone"
+    },
+    {
+      "date": "05/20/2020",
+      "effective_date": "07/17/2020",
+      "state": "TN",
+      "workers": 50,
+      "city": "Madison County"
+    },
+    {
+      "date": "01/13/2020",
+      "effective_date": "01/13/2020",
+      "state": "GA",
+      "workers": 50,
+      "city": "Augusta"
+    },
+    {
+      "date": "08/02/2019",
+      "effective_date": "08/02/2019",
+      "state": "NJ",
+      "workers": 44,
+      "city": "Avenel"
+    },
+    {
+      "date": "07/17/2019",
+      "effective_date": "09/15/2019",
+      "state": "FL",
+      "workers": 41,
+      "city": "DORAL"
+    },
+    {
+      "date": "06/17/2019",
+      "effective_date": "08/01/2019",
+      "state": "IL",
+      "workers": 82,
+      "city": "Rochelle"
+    },
+    {
+      "date": "05/07/2019",
+      "effective_date": "07/12/2019",
+      "state": "IN",
+      "workers": 436,
+      "city": "Plainfield"
+    },
+    {
+      "date": "03/22/2019",
+      "effective_date": "05/10/2019",
+      "state": "OH",
+      "workers": 249,
+      "city": "Lockbourne/Franklin"
+    },
+    {
+      "date": "03/21/2019",
+      "effective_date": "06/30/2019",
+      "state": "CA",
+      "workers": 142,
+      "city": "Moreno Valley"
+    },
+    {
+      "date": "03/04/2019",
+      "effective_date": "05/04/2019",
+      "state": "OH",
+      "workers": 76,
+      "city": "Lockbourne/Franklin"
+    },
+    {
+      "date": "03/04/2019",
+      "effective_date": "05/04/2019",
+      "state": "OH",
+      "workers": 20,
+      "city": "Groveport/Franklin"
+    },
+    {
+      "date": "01/07/2019",
+      "effective_date": "03/08/2019",
+      "state": "OH",
+      "workers": 75,
+      "city": "Streetsboro/Portage"
+    },
+    {
+      "date": "10/30/2017",
+      "effective_date": "12/31/2017",
+      "state": "WI",
+      "workers": 159,
+      "city": "Greenville"
+    },
+    {
+      "date": "09/26/2017",
+      "effective_date": "11/22/2017",
+      "state": "TN",
+      "workers": 361,
+      "city": "Spring Hill"
+    },
+    {
+      "date": "09/14/2017",
+      "effective_date": "12/15/2017",
+      "state": "WI",
+      "workers": 100,
+      "city": "Beaver Dam"
+    },
+    {
+      "date": "08/09/2017",
+      "effective_date": "10/07/2017",
+      "state": "CA",
+      "workers": 140,
+      "city": "Stockton"
+    },
+    {
+      "date": "11/28/2016",
+      "effective_date": "02/01/2017",
+      "state": "IL",
+      "workers": 142,
+      "city": "Minooka"
+    },
+    {
+      "date": "11/04/2016",
+      "effective_date": "12/16/2016",
+      "state": "LA",
+      "workers": 1,
+      "city": "Erlanger"
+    },
+    {
+      "date": "10/19/2016",
+      "effective_date": "01/13/2017",
+      "state": "CA",
+      "workers": 28,
+      "city": "Rialto"
+    },
+    {
+      "date": "09/22/2016",
+      "effective_date": "11/21/2016",
+      "state": "CA",
+      "workers": 11,
+      "city": "Fontana"
+    },
+    {
+      "date": "07/01/2016",
+      "effective_date": "08/31/2016",
+      "state": "CA",
+      "workers": 7,
+      "city": "Fontana"
+    },
+    {
+      "date": "06/17/2016",
+      "effective_date": "08/28/2016",
+      "state": "NC",
+      "workers": 124,
+      "city": "Charlotte"
+    },
+    {
+      "date": "06/17/2016",
+      "effective_date": "08/19/2016",
+      "state": "CA",
+      "workers": 9,
+      "city": "Fontana"
+    },
+    {
+      "date": "06/03/2016",
+      "effective_date": "08/05/2016",
+      "state": "CA",
+      "workers": 47,
+      "city": "Fontana"
+    },
+    {
+      "date": "05/18/2016",
+      "effective_date": "07/22/2016",
+      "state": "CA",
+      "workers": 11,
+      "city": "Fontana"
+    },
+    {
+      "date": "05/03/2016",
+      "effective_date": "05/03/2016",
+      "state": "MI",
+      "workers": 160,
+      "city": "Trenton"
+    },
+    {
+      "date": "02/23/2016",
+      "effective_date": "04/01/2016",
+      "state": "IL",
+      "workers": 200,
+      "city": "Rochelle"
+    },
+    {
+      "date": "01/09/2016",
+      "effective_date": "01/09/2016",
+      "state": "GA",
+      "workers": 124,
+      "city": "Macon"
+    },
+    {
+      "date": "05/15/2015",
+      "effective_date": "05/15/2015",
+      "state": "TX",
+      "workers": 0,
+      "city": "Haltom City"
+    },
+    {
+      "date": "01/27/2015",
+      "effective_date": "01/24/2015",
+      "state": "CA",
+      "workers": 73,
+      "city": "Inglewood"
+    },
+    {
+      "date": "07/10/2014",
+      "effective_date": "07/31/2014",
+      "state": "TN",
+      "workers": 38,
+      "city": "Chattanooga"
+    },
+    {
+      "date": "04/11/2014",
+      "effective_date": "06/28/2014",
+      "state": "TX",
+      "workers": 85,
+      "city": "Roanoke"
+    },
+    {
+      "date": "01/27/2014",
+      "effective_date": "10/21/2013",
+      "state": "TN",
+      "workers": 101,
+      "city": "Chattanooga"
+    },
+    {
+      "date": "10/07/2013",
+      "effective_date": "10/07/2013",
+      "state": "GA",
+      "workers": 106,
+      "city": "McDonough"
+    },
+    {
+      "date": "05/31/2013",
+      "effective_date": "08/04/2013",
+      "state": "TX",
+      "workers": 60,
+      "city": "Roanoke"
+    },
+    {
+      "date": "03/26/2013",
+      "effective_date": "05/31/2013",
+      "state": "TX",
+      "workers": 50,
+      "city": "Laredo"
+    },
+    {
+      "date": "02/12/2013",
+      "effective_date": "02/12/2013",
+      "state": "GA",
+      "workers": 15,
+      "city": "Atlanta"
+    },
+    {
+      "date": "01/09/2012",
+      "effective_date": "01/09/2012",
+      "state": "GA",
+      "workers": 34,
+      "city": "Lawrenceville"
+    },
+    {
+      "date": "10/19/2011",
+      "effective_date": "12/01/2011",
+      "state": "IL",
+      "workers": 62,
+      "city": "Joliet"
+    },
+    {
+      "date": "08/03/2009",
+      "effective_date": "08/03/2009",
+      "state": "GA",
+      "workers": 50,
+      "city": "Alpharetta"
+    },
+    {
+      "date": "07/31/2009",
+      "effective_date": "10/05/2009",
+      "state": "TX",
+      "workers": 63,
+      "city": "Lewisville"
+    },
+    {
+      "date": "04/03/2009",
+      "effective_date": "04/03/2009",
+      "state": "NJ",
+      "workers": 100,
+      "city": "Ledgewood"
+    },
+    {
+      "date": "07/22/2008",
+      "effective_date": "07/22/2008",
+      "state": "GA",
+      "workers": 63,
+      "city": "Norcross"
+    },
+    {
+      "date": "02/18/2005",
+      "effective_date": "04/22/2005",
+      "state": "TX",
+      "workers": 75,
+      "city": "Dallas"
+    },
+    {
+      "date": "12/02/2002",
+      "effective_date": "02/01/2003",
+      "state": "TX",
+      "workers": 100,
+      "city": "Roanoke"
+    },
+    {
+      "date": "11/26/2002",
+      "effective_date": "11/30/2002",
+      "state": "TX",
+      "workers": 190,
+      "city": "Laredo"
+    },
+    {
+      "date": "05/01/2001",
+      "effective_date": "06/30/2001",
+      "state": "TX",
+      "workers": 77,
+      "city": "Austin"
+    },
+    {
+      "date": "10/07/1999",
+      "effective_date": "12/05/1999",
+      "state": "OR",
+      "workers": 102,
+      "city": "PORTLAND"
+    },
+    {
+      "date": "06/13/1997",
+      "effective_date": "06/13/1997",
+      "state": "IL",
+      "workers": 0,
+      "city": "Aurora"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "yuma-county-lwib",
+      "name": "Yuma County LWIB",
+      "state": "AZ"
+    },
+    {
+      "slug": "macon-bibb-wib",
+      "name": "Macon-Bibb WIB",
+      "state": "GA"
+    },
+    {
+      "slug": "richmondburke-wib",
+      "name": "Richmond/Burke WIB",
+      "state": "GA"
+    },
+    {
+      "slug": "nw-central-il-works",
+      "name": "NW Central IL Works",
+      "state": "IL"
+    },
+    {
+      "slug": "wib-of-will-county",
+      "name": "WIB of Will County",
+      "state": "IL"
+    },
+    {
+      "slug": "grundy-livingston-kankakee-wib",
+      "name": "Grundy-Livingston-Kankakee WIB",
+      "state": "IL"
+    },
+    {
+      "slug": "wdb-of-rock-island-henry-mercer",
+      "name": "WDB of Rock Island-Henry-Mercer",
+      "state": "IL"
+    },
+    {
+      "slug": "crossroads-wib",
+      "name": "Crossroads WIB",
+      "state": "IL"
+    },
+    {
+      "slug": "anne-arundel-wia",
+      "name": "Anne Arundel WIA",
+      "state": "MD"
+    },
+    {
+      "slug": "broometioga-lwia",
+      "name": "Broome/Tioga LWIA",
+      "state": "NY"
+    },
+    {
+      "slug": "berks-county-wia",
+      "name": "Berks County WIA",
+      "state": "PA"
+    },
+    {
+      "slug": "05-local-workforce-investment-area",
+      "name": "05 Local Workforce Investment Area",
+      "state": "TN"
+    },
+    {
+      "slug": "08-local-workforce-investment-area",
+      "name": "08 Local Workforce Investment Area",
+      "state": "TN"
+    },
+    {
+      "slug": "capital-area-wda",
+      "name": "Capital Area WDA",
+      "state": "TX"
+    },
+    {
+      "slug": "south-texas-wda",
+      "name": "South Texas WDA",
+      "state": "TX"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

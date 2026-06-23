@@ -1,0 +1,146 @@
+{
+  "slug": "hardinge",
+  "canonical_name": "Hardinge Inc.",
+  "fein": null,
+  "lca_filing_count": 3,
+  "warn_notice_count": 4,
+  "median_wage_usd": 95000.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 107162.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 95000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "VALUE CHAIN ANALYSIS MANAGER",
+      "count": 2,
+      "median_wage_usd": 95000.0
+    },
+    {
+      "title": "STAFF ENGINEER SUPPLIER QUALITY",
+      "count": 1,
+      "median_wage_usd": 107162.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "CHEMUNG",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "county": "KANE",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "07/26/2024",
+      "effective_date": "08/09/2024",
+      "state": "NY",
+      "workers": 31,
+      "city": null
+    },
+    {
+      "date": "07/26/2024",
+      "effective_date": "08/09/2024",
+      "state": "NY",
+      "workers": 0,
+      "city": "Elmira"
+    },
+    {
+      "date": "07/26/2024",
+      "effective_date": "07/26/2024",
+      "state": "NY",
+      "workers": 31,
+      "city": "Elmira"
+    },
+    {
+      "date": "07/26/2024",
+      "effective_date": "07/26/2024",
+      "state": "NY",
+      "workers": 31,
+      "city": null
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "chemungschuylersteuben-lwia",
+      "name": "Chemung/Schuyler/Steuben LWIA",
+      "state": "NY"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 4,
+    "continuing_denials": 0,
+    "total_approvals": 4,
+    "by_fy": [
+      {
+        "fy": 2010,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2011,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2013,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      }
+    ]
+  },
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": []
+}

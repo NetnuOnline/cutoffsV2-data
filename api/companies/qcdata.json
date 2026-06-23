@@ -1,0 +1,47 @@
+{
+  "slug": "qcdata",
+  "canonical_name": "QCDATA",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "NC",
+      "count": 1
+    },
+    {
+      "state": "CO",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "10/04/2019",
+      "effective_date": "11/30/2019",
+      "state": "NC",
+      "workers": 65,
+      "city": "301 McCullough Drive Suite 310, Charlotte"
+    },
+    {
+      "date": "10/04/2019",
+      "effective_date": "11/29/2019",
+      "state": "CO",
+      "workers": 40,
+      "city": "Arapahoe/Douglas"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "eastern-wib-co",
+      "name": "Eastern WIB",
+      "state": "CO"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

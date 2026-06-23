@@ -1,0 +1,116 @@
+{
+  "slug": "rhombus-power",
+  "canonical_name": "Rhombus Power, Inc.",
+  "fein": "90-0716854",
+  "lca_filing_count": 12,
+  "lca_worker_positions": 12,
+  "warn_notice_count": 0,
+  "median_wage_usd": 125000.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 5,
+      "median_wage_usd": 105747.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 108153.5
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 149365.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 144682.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 3,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "Full Stack Developer",
+      "count": 2,
+      "median_wage_usd": 147836.0
+    },
+    {
+      "title": "Sr. Full Stack Developer",
+      "count": 1,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "title": "QA/QC Engineer",
+      "count": 1,
+      "median_wage_usd": 100360.0
+    },
+    {
+      "title": "Data Scientist",
+      "count": 1,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "title": "Biomedical Software Engineer",
+      "count": 1,
+      "median_wage_usd": 105747.0
+    },
+    {
+      "title": "UI/UX Design/Developer",
+      "count": 1,
+      "median_wage_usd": 70000.0
+    },
+    {
+      "title": "Full Stack Engineer",
+      "count": 1,
+      "median_wage_usd": 149365.0
+    },
+    {
+      "title": "DevSecsOps Engineer",
+      "count": 1,
+      "median_wage_usd": 149365.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 7
+    },
+    {
+      "state": "DC",
+      "county": "DISTRICT OF COLUMBIA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 11
+    },
+    {
+      "state": "DC",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 149365.0,
+    "gap_usd": 19205.0
+  }
+}

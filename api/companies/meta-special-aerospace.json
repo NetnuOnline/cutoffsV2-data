@@ -1,0 +1,69 @@
+{
+  "slug": "meta-special-aerospace",
+  "canonical_name": "Meta Special Aerospace",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "OK",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "02/08/2021",
+      "effective_date": "02/08/2021",
+      "state": "OK",
+      "workers": 0,
+      "city": "Bethany"
+    },
+    {
+      "date": "02/08/2021",
+      "effective_date": "02/08/2021",
+      "state": "OK",
+      "workers": 0,
+      "city": "Oklahoma City"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "central-wia",
+      "name": "Central WIA",
+      "state": "OK"
+    },
+    {
+      "slug": "cleveland-wia",
+      "name": "Cleveland WIA",
+      "state": "OK"
+    }
+  ],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2023-11-08",
+        "formType": "8-K",
+        "accessionNumber": "0001706946-23-000133",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001706946&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 1,
+    "itemCounts": {
+      "2.05": 1
+    },
+    "latestFilingDate": "2023-11-08",
+    "earliestFilingDate": "2023-11-08"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

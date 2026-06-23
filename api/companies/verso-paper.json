@@ -1,0 +1,54 @@
+{
+  "slug": "verso-paper",
+  "canonical_name": "Verso Paper",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 3,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "ME",
+      "count": 2
+    },
+    {
+      "state": "MN",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "06/30/2020",
+      "effective_date": "06/30/2020",
+      "state": "MN",
+      "workers": 225,
+      "city": "Duluth"
+    },
+    {
+      "date": "11/01/2017",
+      "effective_date": "11/01/2017",
+      "state": "ME",
+      "workers": 150,
+      "city": "3 - Central Western Local Area 3"
+    },
+    {
+      "date": "10/01/2014",
+      "effective_date": "10/01/2014",
+      "state": "ME",
+      "workers": 500,
+      "city": "Bucksport"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "tri-county-investment-board-wia",
+      "name": "Tri County Investment Board WIA",
+      "state": "ME"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

@@ -1,0 +1,56 @@
+{
+  "slug": "gcp-global-clinical-professionals",
+  "canonical_name": "GCP GLOBAL CLINICAL PROFESSIONALS, LLC",
+  "fein": "27-3755530",
+  "lca_filing_count": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 82222.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 76000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 82222.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 84406.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "CFO/Comptroller",
+      "count": 3,
+      "median_wage_usd": 82222.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "FL",
+      "county": "PINELLAS",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "FL",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-2011",
+    "soc_title": "Accountants and Auditors",
+    "market_median_usd": 79000.0,
+    "employer_median_usd": 82222.0,
+    "gap_usd": 3222.0
+  }
+}

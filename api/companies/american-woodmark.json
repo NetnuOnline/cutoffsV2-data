@@ -1,0 +1,126 @@
+{
+  "slug": "american-woodmark",
+  "canonical_name": "American Woodmark Corporation",
+  "fein": "54-1138147",
+  "lca_filing_count": 16,
+  "lca_worker_positions": 16,
+  "warn_notice_count": 0,
+  "median_wage_usd": 130295.3,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 4,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 4,
+      "median_wage_usd": 132000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 102086.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 123697.5
+    },
+    {
+      "fy": 2026,
+      "filings": 4,
+      "median_wage_usd": 130590.6,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Technical Manager, Business Intelligence & Adv. Analytics",
+      "count": 2,
+      "median_wage_usd": 115410.4
+    },
+    {
+      "title": "Technical Manager, Solution Architecture (DBA)",
+      "count": 2,
+      "median_wage_usd": 130590.6
+    },
+    {
+      "title": "Technical Manager - Oracle Cloud ERP - Finance",
+      "count": 1,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Technical Manager, ERP Cloud - VMS/Inventory/Logistics",
+      "count": 1,
+      "median_wage_usd": 132000.0
+    },
+    {
+      "title": "Technical Manager - ERP Manufacturing",
+      "count": 1,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "title": "Project Leader, Business Intelligence & Advanced Analytics",
+      "count": 1,
+      "median_wage_usd": 102086.0
+    },
+    {
+      "title": "Technical Manager, Oracle Cloud ERP (Finance)",
+      "count": 1,
+      "median_wage_usd": 147784.0
+    },
+    {
+      "title": "Project Leader, Business Intelligence",
+      "count": 1,
+      "median_wage_usd": 102086.0
+    },
+    {
+      "title": "Technical Manager, Oracle Cloud EPM - Planning & Budget",
+      "count": 1,
+      "median_wage_usd": 138000.0
+    },
+    {
+      "title": "Sr. Manager, Enterprise Application Management Services",
+      "count": 1,
+      "median_wage_usd": 161615.25
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "VA",
+      "county": "WINCHESTER CITY",
+      "count": 9
+    },
+    {
+      "state": "VA",
+      "county": "FREDERICK",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "ORANGE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "VA",
+      "count": 15
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Information Technology Project Managers",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 132000.0,
+    "gap_usd": 14000.0
+  }
+}

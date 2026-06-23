@@ -1,0 +1,102 @@
+{
+  "slug": "federal-home-loan-bank-of-indianapolis",
+  "canonical_name": "Federal Home Loan Bank of Indianapolis",
+  "fein": "35-6001443",
+  "lca_filing_count": 10,
+  "lca_worker_positions": 10,
+  "warn_notice_count": 0,
+  "median_wage_usd": 120506.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 116012.0
+    },
+    {
+      "fy": 2023,
+      "filings": 4,
+      "median_wage_usd": 114537.5
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 127000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 137248.8,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Software Developer",
+      "count": 2,
+      "median_wage_usd": 126000.0
+    },
+    {
+      "title": "Derivatives Accounting Manager",
+      "count": 1,
+      "median_wage_usd": 114125.0
+    },
+    {
+      "title": "VP, Director, Model Risk Management/Validation",
+      "count": 1,
+      "median_wage_usd": 196087.5
+    },
+    {
+      "title": "Senior Manager, Product Delivery",
+      "count": 1,
+      "median_wage_usd": 169040.35
+    },
+    {
+      "title": "Senior Credit Risk Analyst",
+      "count": 1,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "Senior Quantitative Modeling and Research Analyst",
+      "count": 1,
+      "median_wage_usd": 105457.25
+    },
+    {
+      "title": "ERM Senior Market Risk Analyst",
+      "count": 1,
+      "median_wage_usd": 114950.0
+    },
+    {
+      "title": "Senior Project Manager",
+      "count": 1,
+      "median_wage_usd": 116012.0
+    },
+    {
+      "title": "Director, Model Risk Management/Validation",
+      "count": 1,
+      "median_wage_usd": 217360.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IN",
+      "county": "MARION",
+      "count": 5
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IN",
+      "count": 10
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3031",
+    "soc_title": "Financial Managers",
+    "market_median_usd": 156100.0,
+    "employer_median_usd": 196087.5,
+    "gap_usd": 39987.5
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "slug": "commission-on-medical-care",
+  "canonical_name": "Commission on Medical Care",
+  "fein": "68-0301406",
+  "lca_filing_count": 9,
+  "lca_worker_positions": 9,
+  "warn_notice_count": 0,
+  "median_wage_usd": 133328.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 126110.0
+    },
+    {
+      "fy": 2025,
+      "filings": 5,
+      "median_wage_usd": 149115.0
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 130541.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Sr. Programmer Analyst",
+      "count": 3,
+      "median_wage_usd": 126110.0
+    },
+    {
+      "title": "Senior EDI Application Developer",
+      "count": 1,
+      "median_wage_usd": 149115.0
+    },
+    {
+      "title": "Senior IT Project Manager",
+      "count": 1,
+      "median_wage_usd": 150405.0
+    },
+    {
+      "title": "EDI Application Administrator",
+      "count": 1,
+      "median_wage_usd": 133328.0
+    },
+    {
+      "title": "Sr. Web Application Developer",
+      "count": 1,
+      "median_wage_usd": 160035.0
+    },
+    {
+      "title": "System Administrator",
+      "count": 1,
+      "median_wage_usd": 125861.0
+    },
+    {
+      "title": "Sr. IT Business Analyst",
+      "count": 1,
+      "median_wage_usd": 130541.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SOLANO",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 9
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 137612.5,
+    "gap_usd": 7452.5
+  }
+}

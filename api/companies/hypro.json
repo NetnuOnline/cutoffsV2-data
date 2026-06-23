@@ -1,0 +1,47 @@
+{
+  "slug": "hypro",
+  "canonical_name": "HyPro Inc.",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "WI",
+      "count": 1
+    },
+    {
+      "state": "IA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "06/17/2025",
+      "effective_date": "08/15/2025",
+      "state": "WI",
+      "workers": 24,
+      "city": "Berlin"
+    },
+    {
+      "date": "01/28/2020",
+      "effective_date": "03/28/2020",
+      "state": "IA",
+      "workers": 73,
+      "city": "Cedar Falls"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "fox-valley-wda",
+      "name": "Fox Valley WDA",
+      "state": "WI"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

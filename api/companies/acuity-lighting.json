@@ -1,0 +1,87 @@
+{
+  "slug": "acuity-lighting",
+  "canonical_name": "Acuity Lighting",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "09/20/2005",
+      "effective_date": "09/20/2005",
+      "state": "GA",
+      "workers": 106,
+      "city": "Conyers"
+    },
+    {
+      "date": "01/16/2004",
+      "effective_date": "05/01/2004",
+      "state": "IL",
+      "workers": 191,
+      "city": "Elgin"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2012-03-09",
+        "formType": "8-K",
+        "accessionNumber": "0001144215-12-000057",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001144215&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2005-08-04",
+        "formType": "8-K",
+        "accessionNumber": "0000950144-05-008222",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001144215&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2005-07-20",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-05-145397",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001144215&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 3,
+    "itemCounts": {
+      "2.05": 1,
+      "5.02": 2
+    },
+    "latestFilingDate": "2012-03-09",
+    "earliestFilingDate": "2005-07-20"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

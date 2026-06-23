@@ -1,0 +1,110 @@
+{
+  "slug": "maven-clinic",
+  "canonical_name": "Maven Clinic Co",
+  "fein": "46-5747423",
+  "lca_filing_count": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 191000.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 4,
+      "median_wage_usd": 175000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 211000.03999999998
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Lead Product Manager, Data Engineering",
+      "count": 2,
+      "median_wage_usd": 215000.03999999998
+    },
+    {
+      "title": "Senior Software Engineer (Backend)",
+      "count": 1,
+      "median_wage_usd": 187000.0
+    },
+    {
+      "title": "Senior Android Engineer",
+      "count": 1,
+      "median_wage_usd": 215197.0
+    },
+    {
+      "title": "Senior Product Designer",
+      "count": 1,
+      "median_wage_usd": 155000.0
+    },
+    {
+      "title": "Software Engineer III",
+      "count": 1,
+      "median_wage_usd": 153000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 4
+    },
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SAN DIEGO",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 4
+    },
+    {
+      "state": "CA",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 4,
+    "continuing_denials": 0,
+    "total_approvals": 4,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 6,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 187000.0,
+    "gap_usd": 56840.0
+  }
+}

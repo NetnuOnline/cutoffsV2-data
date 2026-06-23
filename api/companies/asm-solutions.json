@@ -1,0 +1,119 @@
+{
+  "slug": "asm-solutions",
+  "canonical_name": "ASM Solutions LLC",
+  "fein": "87-3017349",
+  "lca_filing_count": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 93920.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 95881.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 93920.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 87880.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 2,
+      "median_wage_usd": 95881.0
+    },
+    {
+      "title": "Validation Engineer",
+      "count": 1,
+      "median_wage_usd": 72800.0
+    },
+    {
+      "title": "Business Intelligence Engineer",
+      "count": 1,
+      "median_wage_usd": 95680.0
+    },
+    {
+      "title": "Architect",
+      "count": 1,
+      "median_wage_usd": 92160.0
+    },
+    {
+      "title": "Data Engineer",
+      "count": 1,
+      "median_wage_usd": 102960.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IL",
+      "county": "MCHENRY",
+      "count": 2
+    },
+    {
+      "state": "WA",
+      "county": "SNOHOMISH",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 4
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 3,
+    "initial_denials": 0,
+    "continuing_approvals": 0,
+    "continuing_denials": 0,
+    "total_approvals": 3,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 6,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Computer Systems Engineers/Architects",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 89831.0,
+    "gap_usd": -28169.0
+  }
+}

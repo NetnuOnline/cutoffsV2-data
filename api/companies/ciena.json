@@ -1,0 +1,203 @@
+{
+  "slug": "ciena",
+  "canonical_name": "Ciena Corporation",
+  "fein": "23-2725311",
+  "lca_filing_count": 66,
+  "lca_worker_positions": 61,
+  "warn_notice_count": 0,
+  "median_wage_usd": 160000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 9,
+      "median_wage_usd": 125084.53
+    },
+    {
+      "fy": 2021,
+      "filings": 10,
+      "median_wage_usd": 149813.07
+    },
+    {
+      "fy": 2022,
+      "filings": 14,
+      "median_wage_usd": 170704.2
+    },
+    {
+      "fy": 2023,
+      "filings": 8,
+      "median_wage_usd": 154962.5
+    },
+    {
+      "fy": 2024,
+      "filings": 4,
+      "median_wage_usd": 178715.5
+    },
+    {
+      "fy": 2025,
+      "filings": 7,
+      "median_wage_usd": 166060.0
+    },
+    {
+      "fy": 2026,
+      "filings": 9,
+      "median_wage_usd": 167154.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer 4",
+      "count": 5,
+      "median_wage_usd": 193500.0
+    },
+    {
+      "title": "Lead, IT Applications",
+      "count": 4,
+      "median_wage_usd": 165000.0
+    },
+    {
+      "title": "Systems Engineer 3",
+      "count": 2,
+      "median_wage_usd": 125679.0
+    },
+    {
+      "title": "Senior Oracle Apps DBA (A710.259)",
+      "count": 2,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "title": "SVT/PV Engineer 5 (A710.227)",
+      "count": 2,
+      "median_wage_usd": 247465.0
+    },
+    {
+      "title": "Hardware Engineer 2",
+      "count": 2,
+      "median_wage_usd": 118450.0
+    },
+    {
+      "title": "Software Engineer 3",
+      "count": 2,
+      "median_wage_usd": 112542.265
+    },
+    {
+      "title": "Senior Manager, IT Applications",
+      "count": 2,
+      "median_wage_usd": 176050.0
+    },
+    {
+      "title": "Embedded Software Engineer 2",
+      "count": 2,
+      "median_wage_usd": 127875.12
+    },
+    {
+      "title": "Senior Analyst, IT Network Engineering",
+      "count": 1,
+      "median_wage_usd": 155925.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 20
+    },
+    {
+      "state": "MD",
+      "county": "ANNE ARUNDEL",
+      "count": 11
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 4
+    },
+    {
+      "state": "NJ",
+      "county": "MIDDLESEX",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 2
+    },
+    {
+      "state": "GA",
+      "county": "FORSYTH",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 1
+    },
+    {
+      "state": "MD",
+      "county": "HOWARD",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "FORT BEND",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 24
+    },
+    {
+      "state": "MD",
+      "count": 15
+    },
+    {
+      "state": "TX",
+      "count": 10
+    },
+    {
+      "state": "GA",
+      "count": 7
+    },
+    {
+      "state": "NJ",
+      "count": 3
+    },
+    {
+      "state": "FL",
+      "count": 2
+    },
+    {
+      "state": "MA",
+      "count": 1
+    },
+    {
+      "state": "OK",
+      "count": 1
+    },
+    {
+      "state": "IN",
+      "count": 1
+    },
+    {
+      "state": "HI",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 171392.0,
+    "gap_usd": 41232.0
+  }
+}

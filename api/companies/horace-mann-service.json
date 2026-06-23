@@ -1,0 +1,103 @@
+{
+  "slug": "horace-mann-service",
+  "canonical_name": "Horace Mann Service Corporation",
+  "fein": "37-0972590",
+  "lca_filing_count": 5,
+  "lca_worker_positions": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 132600.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 144019.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 126859.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 121098.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 157643.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Guidewire Software Engineer III",
+      "count": 1,
+      "median_wage_usd": 126859.0
+    },
+    {
+      "title": "Software Engineer III",
+      "count": 1,
+      "median_wage_usd": 132600.0
+    },
+    {
+      "title": "IT Director - Guidewire Delivery Solutions Practice ",
+      "count": 1,
+      "median_wage_usd": 144019.0
+    },
+    {
+      "title": "VP P&C National Product Manager",
+      "count": 1,
+      "median_wage_usd": 182686.0
+    },
+    {
+      "title": "Solutions Engineer",
+      "count": 1,
+      "median_wage_usd": 121098.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MA",
+      "county": "NORTHBOROUGH",
+      "count": 1
+    },
+    {
+      "state": "WI",
+      "county": "DANE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NC",
+      "count": 1
+    },
+    {
+      "state": "WI",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 126859.0,
+    "gap_usd": -3301.0
+  }
+}

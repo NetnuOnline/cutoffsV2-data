@@ -1,0 +1,70 @@
+{
+  "slug": "qxo",
+  "canonical_name": "QXO, Inc.",
+  "fein": "16-1633636",
+  "lca_filing_count": 6,
+  "lca_worker_positions": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 216101.0,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 240000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 5,
+      "median_wage_usd": 212202.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Software Engineer",
+      "count": 2,
+      "median_wage_usd": 215000.0
+    },
+    {
+      "title": "Staff Software Engineer",
+      "count": 1,
+      "median_wage_usd": 230000.0
+    },
+    {
+      "title": "Staff Software Engineer, Backend",
+      "count": 1,
+      "median_wage_usd": 212202.0
+    },
+    {
+      "title": "Director, Procurement",
+      "count": 1,
+      "median_wage_usd": 240000.0
+    },
+    {
+      "title": "Senior Product Manager, Technical",
+      "count": 1,
+      "median_wage_usd": 205000.0
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "WA",
+      "count": 5
+    },
+    {
+      "state": "CT",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 216101.0,
+    "gap_usd": 85941.0
+  }
+}

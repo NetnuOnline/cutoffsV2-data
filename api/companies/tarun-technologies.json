@@ -1,0 +1,105 @@
+{
+  "slug": "tarun-technologies",
+  "canonical_name": "Tarun Technologies Inc",
+  "fein": "20-3499797",
+  "lca_filing_count": 6,
+  "lca_worker_positions": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 104270.5,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 93558.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 108742.5
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 105997.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 112923.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Sr. UI Developer",
+      "count": 2,
+      "median_wage_usd": 99777.5
+    },
+    {
+      "title": ".Net Developer",
+      "count": 1,
+      "median_wage_usd": 114941.0
+    },
+    {
+      "title": "Sr. API and Application Tools Developer",
+      "count": 1,
+      "median_wage_usd": 102544.0
+    },
+    {
+      "title": "Sr. Business Intelligence Developer",
+      "count": 1,
+      "median_wage_usd": 112923.0
+    },
+    {
+      "title": ".NET Developer",
+      "count": 1,
+      "median_wage_usd": 93558.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 1
+    },
+    {
+      "state": "MD",
+      "county": "BALTIMORE CITY",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 4
+    },
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "MD",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 109460.0,
+    "gap_usd": -20700.0
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "slug": "jones-lang-lasalle-jll",
+  "canonical_name": "Jones Lang LaSalle (JLL)",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 8,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 4
+    },
+    {
+      "state": "KS",
+      "count": 2
+    },
+    {
+      "state": "NY",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "12/31/2025",
+      "effective_date": "12/31/2025",
+      "state": "NY",
+      "workers": 20,
+      "city": "East Syracuse"
+    },
+    {
+      "date": "04/15/2025",
+      "effective_date": "06/14/2025",
+      "state": "FL",
+      "workers": 86,
+      "city": "ORLANDO"
+    },
+    {
+      "date": "04/14/2025",
+      "effective_date": "06/14/2025",
+      "state": "CA",
+      "workers": 64,
+      "city": "Visalia"
+    },
+    {
+      "date": "04/14/2025",
+      "effective_date": "06/14/2025",
+      "state": "CA",
+      "workers": 70,
+      "city": "Stockton"
+    },
+    {
+      "date": "04/14/2025",
+      "effective_date": "06/14/2025",
+      "state": "CA",
+      "workers": 77,
+      "city": "Sacramento"
+    },
+    {
+      "date": "04/14/2025",
+      "effective_date": "06/14/2025",
+      "state": "CA",
+      "workers": 87,
+      "city": "Fresno"
+    },
+    {
+      "date": "03/31/2020",
+      "effective_date": "03/31/2020",
+      "state": "KS",
+      "workers": 88,
+      "city": "3 - Workforce Investment Area III"
+    },
+    {
+      "date": "09/18/2019",
+      "effective_date": "09/18/2019",
+      "state": "KS",
+      "workers": 66,
+      "city": "3 - Workforce Investment Area III"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "fresno-county-wib",
+      "name": "Fresno County WIB",
+      "state": "CA"
+    },
+    {
+      "slug": "san-joaquin-county-wib",
+      "name": "San Joaquin County WIB",
+      "state": "CA"
+    },
+    {
+      "slug": "tulare-county-wib",
+      "name": "Tulare County WIB",
+      "state": "CA"
+    },
+    {
+      "slug": "dupage-county-wib",
+      "name": "DuPage County WIB",
+      "state": "IL"
+    }
+  ],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2004-10-01",
+        "formType": "8-K",
+        "accessionNumber": "0000892626-04-000223",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001037976&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 1,
+    "itemCounts": {
+      "2.05": 1
+    },
+    "latestFilingDate": "2004-10-01",
+    "earliestFilingDate": "2004-10-01"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

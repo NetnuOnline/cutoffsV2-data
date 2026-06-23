@@ -1,0 +1,68 @@
+{
+  "slug": "branch-financial",
+  "canonical_name": "Branch Financial, Inc.",
+  "fein": null,
+  "lca_filing_count": 2,
+  "warn_notice_count": 1,
+  "median_wage_usd": 117208.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 117208.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Development Manager",
+      "count": 2,
+      "median_wage_usd": 117208.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "OH",
+      "count": 2
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "OH",
+      "county": "FRANKLIN",
+      "count": 2
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "06/05/2023",
+      "effective_date": "06/08/2023",
+      "state": "OH",
+      "workers": 55,
+      "city": "Columbus/Franklin"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 0,
+    "continuing_denials": 0,
+    "total_approvals": 1,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 1,
+  "top_socs": [],
+  "lca_periods": []
+}

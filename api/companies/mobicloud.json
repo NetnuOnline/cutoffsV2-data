@@ -1,0 +1,137 @@
+{
+  "slug": "mobicloud",
+  "canonical_name": "MOBICLOUD, LLC.",
+  "fein": "88-4386481",
+  "lca_filing_count": 24,
+  "lca_worker_positions": 24,
+  "warn_notice_count": 0,
+  "median_wage_usd": 110240.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 5,
+      "median_wage_usd": 93600.0
+    },
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 94244.8
+    },
+    {
+      "fy": 2025,
+      "filings": 4,
+      "median_wage_usd": 119600.0
+    },
+    {
+      "fy": 2026,
+      "filings": 12,
+      "median_wage_usd": 116480.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "JAVA DEVELOPER",
+      "count": 4,
+      "median_wage_usd": 113360.0
+    },
+    {
+      "title": "INCIDENT ANALYST",
+      "count": 2,
+      "median_wage_usd": 95763.2
+    },
+    {
+      "title": "PROJECT MANAGER",
+      "count": 2,
+      "median_wage_usd": 144768.0
+    },
+    {
+      "title": "POWER APPS/SQL DEVELOPER",
+      "count": 1,
+      "median_wage_usd": 108160.0
+    },
+    {
+      "title": "ETL DEVELOPER",
+      "count": 1,
+      "median_wage_usd": 114400.0
+    },
+    {
+      "title": "SOFTWARE DEVELOPER",
+      "count": 1,
+      "median_wage_usd": 156000.0
+    },
+    {
+      "title": "APPLICATION DEVELOPER - JAVA & WEB TECHNOLOGIES",
+      "count": 1,
+      "median_wage_usd": 129792.0
+    },
+    {
+      "title": "DATA ARCHITECT",
+      "count": 1,
+      "median_wage_usd": 124800.0
+    },
+    {
+      "title": "CLOUD/DEVOPS ENGINEER",
+      "count": 1,
+      "median_wage_usd": 93600.0
+    },
+    {
+      "title": "IT INFRASTRUCTURE SPECIALIST",
+      "count": 1,
+      "median_wage_usd": 87360.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "BEXAR",
+      "count": 6
+    },
+    {
+      "state": "IL",
+      "county": "DUPAGE",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 12
+    },
+    {
+      "state": "IL",
+      "count": 5
+    },
+    {
+      "state": "AZ",
+      "count": 3
+    },
+    {
+      "state": "NC",
+      "count": 2
+    },
+    {
+      "state": "AL",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 114400.0,
+    "gap_usd": -15760.0
+  }
+}

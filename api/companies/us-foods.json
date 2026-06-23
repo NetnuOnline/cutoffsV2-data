@@ -1,0 +1,72 @@
+{
+  "slug": "us-foods",
+  "canonical_name": "US Foods, Inc.",
+  "fein": "36-3642294",
+  "lca_filing_count": 4,
+  "lca_worker_positions": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 133500.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 110100.48
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 132000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 135960.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 135000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer Lead",
+      "count": 2,
+      "median_wage_usd": 133980.0
+    },
+    {
+      "title": "Security Engineer",
+      "count": 1,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "title": "Senior Web/ADF Developer",
+      "count": 1,
+      "median_wage_usd": 110100.48
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 4
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 133980.0,
+    "gap_usd": 3820.0
+  }
+}

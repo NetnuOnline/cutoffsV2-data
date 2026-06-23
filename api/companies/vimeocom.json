@@ -1,0 +1,55 @@
+{
+  "slug": "vimeocom",
+  "canonical_name": "Vimeo.com, Inc.",
+  "fein": null,
+  "lca_filing_count": 1,
+  "warn_notice_count": 2,
+  "median_wage_usd": 191132,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 0,
+      "median_wage_usd": null
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Sr. Manager, Data Engineering",
+      "count": 0,
+      "median_wage_usd": null
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "01/20/2026",
+      "effective_date": "04/20/2026",
+      "state": "NY",
+      "workers": 132,
+      "city": "New York"
+    },
+    {
+      "date": "01/20/2026",
+      "effective_date": "04/20/2026",
+      "state": "NY",
+      "workers": 133,
+      "city": "New York"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "new-york-city-lwia",
+      "name": "New York City LWIA",
+      "state": "NY"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

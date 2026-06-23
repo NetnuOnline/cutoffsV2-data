@@ -1,0 +1,54 @@
+{
+  "slug": "washington-state-employment-security-department",
+  "canonical_name": "Washington State Employment Security Department",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "WA",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "01/16/2012",
+      "effective_date": "01/16/2012",
+      "state": "WA",
+      "workers": 222,
+      "city": "Statewide"
+    },
+    {
+      "date": "10/21/2011",
+      "effective_date": "01/16/2012",
+      "state": "WA",
+      "workers": 222,
+      "city": "Statewide"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 1,
+    "continuing_denials": 0,
+    "total_approvals": 1,
+    "by_fy": [
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  }
+}

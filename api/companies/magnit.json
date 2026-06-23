@@ -1,0 +1,125 @@
+{
+  "slug": "magnit",
+  "canonical_name": "Magnit, LLC",
+  "fein": "36-2262248",
+  "lca_filing_count": 9,
+  "lca_worker_positions": 8,
+  "warn_notice_count": 0,
+  "median_wage_usd": 148824.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 4,
+      "median_wage_usd": 147368.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 176478.29499999998
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 86528.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 183366.54,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Principal Software Engineer",
+      "count": 2,
+      "median_wage_usd": 204132.59
+    },
+    {
+      "title": "Production Engineer",
+      "count": 1,
+      "median_wage_usd": 245440.0
+    },
+    {
+      "title": "Senior UI Engineer",
+      "count": 1,
+      "median_wage_usd": 147368.0
+    },
+    {
+      "title": "Senior ERP Business Systems Analyst",
+      "count": 1,
+      "median_wage_usd": 183366.54
+    },
+    {
+      "title": "Sr. PeopleSoft Engineer",
+      "count": 1,
+      "median_wage_usd": 147368.0
+    },
+    {
+      "title": "PeopleSoft Engineer",
+      "count": 1,
+      "median_wage_usd": 129314.0
+    },
+    {
+      "title": "Manager, Technical Integration- ERP",
+      "count": 1,
+      "median_wage_usd": 148824.0
+    },
+    {
+      "title": "Front End Developer",
+      "count": 1,
+      "median_wage_usd": 86528.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SAN JOAQUIN",
+      "count": 3
+    },
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 2
+    },
+    {
+      "state": "FL",
+      "county": "DUVAL",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "county": "CHEROKEE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 7
+    },
+    {
+      "state": "GA",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 147368.0,
+    "gap_usd": 17208.0
+  }
+}

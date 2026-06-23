@@ -1,0 +1,139 @@
+{
+  "slug": "teleperformance-usa-fhcs",
+  "canonical_name": "Teleperformance USA-FHCS",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 11,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "MI",
+      "count": 2
+    },
+    {
+      "state": "UT",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "count": 1
+    },
+    {
+      "state": "IN",
+      "count": 1
+    },
+    {
+      "state": "KS",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "07/31/2020",
+      "effective_date": "07/31/2020",
+      "state": "NJ",
+      "workers": 72,
+      "city": "Mahwah"
+    },
+    {
+      "date": "02/05/2020",
+      "effective_date": "03/31/2020",
+      "state": "CA",
+      "workers": 140,
+      "city": "Burbank"
+    },
+    {
+      "date": "03/28/2019",
+      "effective_date": "05/31/2019",
+      "state": "TX",
+      "workers": 390,
+      "city": "Dallas"
+    },
+    {
+      "date": "09/30/2018",
+      "effective_date": "09/30/2018",
+      "state": "MI",
+      "workers": 91,
+      "city": "Grand Rapids, Michigan"
+    },
+    {
+      "date": "06/21/2018",
+      "effective_date": "06/21/2018",
+      "state": "MI",
+      "workers": 91,
+      "city": "Grand Rapids"
+    },
+    {
+      "date": "12/02/2009",
+      "effective_date": "01/01/2010",
+      "state": "IL",
+      "workers": 231,
+      "city": "Villa Park"
+    },
+    {
+      "date": "08/13/2009",
+      "effective_date": "08/13/2009",
+      "state": "UT",
+      "workers": 151,
+      "city": "Clearfield"
+    },
+    {
+      "date": "05/06/2009",
+      "effective_date": "05/06/2009",
+      "state": "UT",
+      "workers": 189,
+      "city": "Clearfield"
+    },
+    {
+      "date": "01/29/2009",
+      "effective_date": "04/03/2009",
+      "state": "IN",
+      "workers": 395,
+      "city": "Fishers"
+    },
+    {
+      "date": "07/13/2005",
+      "effective_date": "09/16/2005",
+      "state": "TX",
+      "workers": 0,
+      "city": "Abilene"
+    },
+    {
+      "date": "08/30/2004",
+      "effective_date": "08/30/2004",
+      "state": "KS",
+      "workers": 41,
+      "city": "1 - Workforce Investment Area I"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "west-central-wda-tx",
+      "name": "West Central WDA",
+      "state": "TX"
+    },
+    {
+      "slug": "wasatch-front-north-wib",
+      "name": "Wasatch Front North WIB",
+      "state": "UT"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

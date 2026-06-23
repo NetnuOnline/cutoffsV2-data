@@ -1,0 +1,113 @@
+{
+  "slug": "suntek-corporations",
+  "canonical_name": "SUNTEK CORPORATIONS, INC.",
+  "fein": "84-3007680",
+  "lca_filing_count": 7,
+  "lca_worker_positions": 7,
+  "warn_notice_count": 0,
+  "median_wage_usd": 109262.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 101192.0
+    },
+    {
+      "fy": 2024,
+      "filings": 4,
+      "median_wage_usd": 111124.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 116709.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SOFTWARE DEVELOPER",
+      "count": 3,
+      "median_wage_usd": 112986.0
+    },
+    {
+      "title": "SOFTWARE ENGINEER",
+      "count": 2,
+      "median_wage_usd": 86413.5
+    },
+    {
+      "title": "QLIK DEVELOPER",
+      "count": 1,
+      "median_wage_usd": 109262.0
+    },
+    {
+      "title": "DEVOPS ENGINEER",
+      "count": 1,
+      "median_wage_usd": 122699.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "TARRANT",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "county": "WAKE",
+      "count": 1
+    },
+    {
+      "state": "MD",
+      "county": "FREDERICK",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 1
+    },
+    {
+      "state": "MO",
+      "county": "ST LOUIS",
+      "count": 1
+    },
+    {
+      "state": "SC",
+      "county": "LANCASTER",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NC",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "SC",
+      "count": 1
+    },
+    {
+      "state": "MD",
+      "count": 1
+    },
+    {
+      "state": "MO",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 111124.0,
+    "gap_usd": -19036.0
+  }
+}

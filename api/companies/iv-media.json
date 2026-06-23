@@ -1,0 +1,79 @@
+{
+  "slug": "iv-media",
+  "canonical_name": "IV Media, LLC",
+  "fein": null,
+  "lca_filing_count": 1,
+  "warn_notice_count": 4,
+  "median_wage_usd": 160000.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 160000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "VP, Digital",
+      "count": 1,
+      "median_wage_usd": 160000.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MN",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MN",
+      "county": "HENNEPIN",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "04/21/2025",
+      "effective_date": "04/21/2025",
+      "state": "MN",
+      "workers": 72,
+      "city": "Eden Prairie"
+    },
+    {
+      "date": "04/11/2025",
+      "effective_date": "05/23/2025",
+      "state": "KY",
+      "workers": 84,
+      "city": "Warren"
+    },
+    {
+      "date": "01/30/2025",
+      "effective_date": "03/31/2025",
+      "state": "KY",
+      "workers": 107,
+      "city": "Warren"
+    },
+    {
+      "date": "12/20/2024",
+      "effective_date": "02/24/2025",
+      "state": "KY",
+      "workers": 53,
+      "city": "Warren"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "lca_worker_positions": 1,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3021",
+    "soc_title": "Computer and Information Systems Managers",
+    "market_median_usd": 169510.0,
+    "employer_median_usd": 160000.0,
+    "gap_usd": -9510.0
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "slug": "canada-dry-bottling-company",
+  "canonical_name": "Canada Dry Bottling Company",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 4,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 2
+    },
+    {
+      "state": "NY",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "01/31/2021",
+      "effective_date": "01/31/2021",
+      "state": "NJ",
+      "workers": 44,
+      "city": "Hackensack"
+    },
+    {
+      "date": "01/31/2021",
+      "effective_date": "01/31/2021",
+      "state": "NJ",
+      "workers": 22,
+      "city": "East Brunswick"
+    },
+    {
+      "date": "10/29/2020",
+      "effective_date": "01/31/2021",
+      "state": "NY",
+      "workers": 124,
+      "city": "Maspeth"
+    },
+    {
+      "date": "10/29/2020",
+      "effective_date": "01/31/2021",
+      "state": "NY",
+      "workers": 62,
+      "city": "Melville"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "bergen-wib",
+      "name": "Bergen WIB",
+      "state": "NJ"
+    },
+    {
+      "slug": "middlesex-wib",
+      "name": "Middlesex WIB",
+      "state": "NJ"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

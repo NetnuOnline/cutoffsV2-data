@@ -1,0 +1,150 @@
+{
+  "slug": "texplorers",
+  "canonical_name": "Texplorers Inc.",
+  "fein": "80-0353288",
+  "lca_filing_count": 19,
+  "lca_worker_positions": 19,
+  "warn_notice_count": 0,
+  "median_wage_usd": 103500.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 4,
+      "median_wage_usd": 95500.0
+    },
+    {
+      "fy": 2021,
+      "filings": 4,
+      "median_wage_usd": 87500.0
+    },
+    {
+      "fy": 2022,
+      "filings": 3,
+      "median_wage_usd": 124800.0
+    },
+    {
+      "fy": 2024,
+      "filings": 5,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 136000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 145000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Java Developer III",
+      "count": 3,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "title": "Business Objects Developer",
+      "count": 2,
+      "median_wage_usd": 85000.0
+    },
+    {
+      "title": "SAP HANA Data Modeler ",
+      "count": 2,
+      "median_wage_usd": 124800.0
+    },
+    {
+      "title": "Senior ETL Developer",
+      "count": 1,
+      "median_wage_usd": 94000.0
+    },
+    {
+      "title": "AWS Solution Architect Technical Lead",
+      "count": 1,
+      "median_wage_usd": 136000.0
+    },
+    {
+      "title": "Solutions Architect",
+      "count": 1,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "title": "Senior Java Developer",
+      "count": 1,
+      "median_wage_usd": 103500.0
+    },
+    {
+      "title": "Senior .NET Developer 4",
+      "count": 1,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "Cloud Services Architect",
+      "count": 1,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "title": "ETL Developer III",
+      "count": 1,
+      "median_wage_usd": 90000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NC",
+      "county": "GUILFORD",
+      "count": 5
+    },
+    {
+      "state": "VA",
+      "county": "RICHMOND CITY",
+      "count": 4
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 3
+    },
+    {
+      "state": "VA",
+      "county": "RICHMOND",
+      "count": 2
+    },
+    {
+      "state": "NC",
+      "county": "MECKLENBURG",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "county": "GOOCHLAND",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "VA",
+      "count": 9
+    },
+    {
+      "state": "NC",
+      "count": 7
+    },
+    {
+      "state": "TX",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 115000.0,
+    "gap_usd": -15160.0
+  }
+}

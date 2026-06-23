@@ -1,0 +1,199 @@
+{
+  "slug": "penske-logistics",
+  "canonical_name": "Penske Logistics, LLC",
+  "fein": "30-0089372",
+  "lca_filing_count": 37,
+  "lca_worker_positions": 37,
+  "warn_notice_count": 0,
+  "median_wage_usd": 120000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 113482.5
+    },
+    {
+      "fy": 2021,
+      "filings": 6,
+      "median_wage_usd": 80039.0
+    },
+    {
+      "fy": 2022,
+      "filings": 7,
+      "median_wage_usd": 121300.0
+    },
+    {
+      "fy": 2023,
+      "filings": 8,
+      "median_wage_usd": 118106.0
+    },
+    {
+      "fy": 2024,
+      "filings": 7,
+      "median_wage_usd": 129100.0
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 132394.9
+    },
+    {
+      "fy": 2026,
+      "filings": 4,
+      "median_wage_usd": 111399.01999999999,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Operations Supervisor",
+      "count": 3,
+      "median_wage_usd": 65776.0
+    },
+    {
+      "title": "Manager, Logistics Engineering",
+      "count": 3,
+      "median_wage_usd": 149283.0
+    },
+    {
+      "title": "Industrial Engineer",
+      "count": 3,
+      "median_wage_usd": 85000.0
+    },
+    {
+      "title": "Senior Engineer",
+      "count": 3,
+      "median_wage_usd": 103935.0
+    },
+    {
+      "title": "Senior IT Solutions Analyst",
+      "count": 2,
+      "median_wage_usd": 133200.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 2,
+      "median_wage_usd": 135650.0
+    },
+    {
+      "title": "Software Engineer II",
+      "count": 2,
+      "median_wage_usd": 127830.5
+    },
+    {
+      "title": "Associate Data Scientist",
+      "count": 1,
+      "median_wage_usd": 75000.0
+    },
+    {
+      "title": "General Manager (Freight Management)",
+      "count": 1,
+      "median_wage_usd": 176367.0
+    },
+    {
+      "title": "Software Architect",
+      "count": 1,
+      "median_wage_usd": 148000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "OH",
+      "county": "CUYAHOGA",
+      "count": 7
+    },
+    {
+      "state": "MI",
+      "county": "WAYNE",
+      "count": 3
+    },
+    {
+      "state": "MN",
+      "county": "HENNEPIN",
+      "count": 3
+    },
+    {
+      "state": "IL",
+      "county": "DUPAGE",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 2
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 2
+    },
+    {
+      "state": "OH",
+      "county": "MARION",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "county": "WILL",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 11
+    },
+    {
+      "state": "OH",
+      "count": 10
+    },
+    {
+      "state": "IL",
+      "count": 4
+    },
+    {
+      "state": "MI",
+      "count": 3
+    },
+    {
+      "state": "MN",
+      "count": 3
+    },
+    {
+      "state": "GA",
+      "count": 3
+    },
+    {
+      "state": "MO",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "CT",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 131552.45,
+    "gap_usd": 1392.45
+  }
+}

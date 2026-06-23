@@ -1,0 +1,82 @@
+{
+  "slug": "takara-bio-usa",
+  "canonical_name": "Takara Bio USA Inc.",
+  "fein": "77-0035190",
+  "lca_filing_count": 6,
+  "lca_worker_positions": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 141842.55,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 141842.55
+    },
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 171457.26
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 133487.9,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Corporate Counsel - Transactions",
+      "count": 1,
+      "median_wage_usd": 193562.46
+    },
+    {
+      "title": "Product Manager",
+      "count": 1,
+      "median_wage_usd": 143685.1
+    },
+    {
+      "title": "Data Marketing Analyst",
+      "count": 1,
+      "median_wage_usd": 133487.9
+    },
+    {
+      "title": "Scientist",
+      "count": 1,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "title": "Associate Product Manager",
+      "count": 1,
+      "median_wage_usd": 130812.5
+    },
+    {
+      "title": "Senior Staff Engineer, Platform Integration",
+      "count": 1,
+      "median_wage_usd": 171457.26
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 5
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 6
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-2021",
+    "soc_title": "Marketing Managers",
+    "market_median_usd": 157620.0,
+    "employer_median_usd": 137248.8,
+    "gap_usd": -20371.2
+  }
+}

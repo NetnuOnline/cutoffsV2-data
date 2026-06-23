@@ -1,0 +1,47 @@
+{
+  "slug": "hampton-lumber-mills",
+  "canonical_name": "Hampton Lumber Mills",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "WA",
+      "count": 1
+    },
+    {
+      "state": "OR",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "10/12/2011",
+      "effective_date": "12/12/2011",
+      "state": "WA",
+      "workers": 76,
+      "city": "Darrington"
+    },
+    {
+      "date": "04/06/2009",
+      "effective_date": "06/06/2009",
+      "state": "OR",
+      "workers": 85,
+      "city": "Tillamook"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "northwest-oregon-wia",
+      "name": "Northwest Oregon WIA",
+      "state": "OR"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

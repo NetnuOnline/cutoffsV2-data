@@ -1,0 +1,71 @@
+{
+  "slug": "pbr",
+  "canonical_name": "PBR, INC.",
+  "fein": "58-2216297",
+  "lca_filing_count": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 86000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 87000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 110079.5
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 85000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Data Analyst",
+      "count": 2,
+      "median_wage_usd": 75079.5
+    },
+    {
+      "title": "MATERIAL SCIENTIST",
+      "count": 1,
+      "median_wage_usd": 87000.0
+    },
+    {
+      "title": "Material Scientist",
+      "count": 1,
+      "median_wage_usd": 155000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "GA",
+      "county": "JACKSON",
+      "count": 2
+    },
+    {
+      "state": "GA",
+      "county": "CLARKE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 4
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 75079.5,
+    "gap_usd": -32940.5
+  }
+}

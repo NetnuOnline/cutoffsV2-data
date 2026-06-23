@@ -1,0 +1,177 @@
+{
+  "slug": "adp",
+  "canonical_name": "ADP, Inc.",
+  "fein": "13-3036745",
+  "lca_filing_count": 50,
+  "lca_worker_positions": 50,
+  "warn_notice_count": 0,
+  "median_wage_usd": 116376.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 3,
+      "median_wage_usd": 91374.0
+    },
+    {
+      "fy": 2021,
+      "filings": 4,
+      "median_wage_usd": 113630.5
+    },
+    {
+      "fy": 2022,
+      "filings": 6,
+      "median_wage_usd": 102175.0
+    },
+    {
+      "fy": 2023,
+      "filings": 13,
+      "median_wage_usd": 110469.0
+    },
+    {
+      "fy": 2024,
+      "filings": 4,
+      "median_wage_usd": 121122.5
+    },
+    {
+      "fy": 2025,
+      "filings": 13,
+      "median_wage_usd": 119142.0
+    },
+    {
+      "fy": 2026,
+      "filings": 7,
+      "median_wage_usd": 131997.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Client Technical Support Consultant III",
+      "count": 4,
+      "median_wage_usd": 123375.5
+    },
+    {
+      "title": "GlobalView Senior Lead Consultant",
+      "count": 3,
+      "median_wage_usd": 130707.0
+    },
+    {
+      "title": "Lead Application Developer",
+      "count": 2,
+      "median_wage_usd": 104270.5
+    },
+    {
+      "title": "Client Tech Support Consultant III",
+      "count": 2,
+      "median_wage_usd": 113262.0
+    },
+    {
+      "title": "Lead Architect",
+      "count": 2,
+      "median_wage_usd": 115710.0
+    },
+    {
+      "title": "Application Developer",
+      "count": 2,
+      "median_wage_usd": 97551.0
+    },
+    {
+      "title": "Senior Data Scientist",
+      "count": 2,
+      "median_wage_usd": 110136.0
+    },
+    {
+      "title": "Senior Application Developer",
+      "count": 1,
+      "median_wage_usd": 118860.0
+    },
+    {
+      "title": "CLIENT TECHNOLOGY SUPPORT CONSULTANT II",
+      "count": 1,
+      "median_wage_usd": 102877.0
+    },
+    {
+      "title": "Data Scientist",
+      "count": 1,
+      "median_wage_usd": 91374.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 11
+    },
+    {
+      "state": "NJ",
+      "county": "ESSEX",
+      "count": 9
+    },
+    {
+      "state": "NJ",
+      "county": "MORRIS",
+      "count": 5
+    },
+    {
+      "state": "FL",
+      "county": "MIAMI-DADE",
+      "count": 2
+    },
+    {
+      "state": "FL",
+      "county": "DUVAL",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 1
+    },
+    {
+      "state": "SC",
+      "county": "FLORENCE",
+      "count": 1
+    },
+    {
+      "state": "UT",
+      "county": "SALT LAKE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 23
+    },
+    {
+      "state": "GA",
+      "count": 20
+    },
+    {
+      "state": "FL",
+      "count": 4
+    },
+    {
+      "state": "NY",
+      "count": 1
+    },
+    {
+      "state": "UT",
+      "count": 1
+    },
+    {
+      "state": "SC",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 118602.0,
+    "gap_usd": -11558.0
+  }
+}

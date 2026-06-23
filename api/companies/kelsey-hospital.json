@@ -1,0 +1,43 @@
+{
+  "slug": "kelsey-hospital",
+  "canonical_name": "Kelsey Hospital",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "MI",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "08/07/2023",
+      "effective_date": "08/07/2023",
+      "state": "MI",
+      "workers": 108,
+      "city": "Lakeview"
+    },
+    {
+      "date": "08/02/2023",
+      "effective_date": "08/02/2023",
+      "state": "MI",
+      "workers": 108,
+      "city": "Lakeview, Michigan"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "central-area-michigan-works",
+      "name": "Central Area Michigan Works!",
+      "state": "MI"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

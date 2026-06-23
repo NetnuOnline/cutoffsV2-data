@@ -1,0 +1,112 @@
+{
+  "slug": "national-financial-services-d-b-a-fidelity-investments",
+  "canonical_name": "National Financial Services d/b/a Fidelity Investments",
+  "fein": "04-3523567",
+  "lca_filing_count": 10,
+  "lca_worker_positions": 10,
+  "warn_notice_count": 0,
+  "median_wage_usd": 112778.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 94796.0
+    },
+    {
+      "fy": 2025,
+      "filings": 6,
+      "median_wage_usd": 125010.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 112840.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Manager, Data Analytics and Insights",
+      "count": 3,
+      "median_wage_usd": 109491.0
+    },
+    {
+      "title": "Manager, Data Analytics and Insights",
+      "count": 2,
+      "median_wage_usd": 87443.0
+    },
+    {
+      "title": "Director, Data Analytics and Insights",
+      "count": 1,
+      "median_wage_usd": 142064.0
+    },
+    {
+      "title": "Lead Data Governance Analyst",
+      "count": 1,
+      "median_wage_usd": 125010.0
+    },
+    {
+      "title": "Director, Product Management",
+      "count": 1,
+      "median_wage_usd": 135158.0
+    },
+    {
+      "title": "Deployment Associate",
+      "count": 1,
+      "median_wage_usd": null
+    },
+    {
+      "title": "Senior Manager, Compliance Advisor",
+      "count": 1,
+      "median_wage_usd": 112778.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NJ",
+      "county": "HUDSON",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "county": "BOSTON CITY",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 3
+    },
+    {
+      "state": "MA",
+      "count": 2
+    },
+    {
+      "state": "RI",
+      "count": 2
+    },
+    {
+      "state": "NC",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "KY",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 125632.0,
+    "gap_usd": 17612.0
+  }
+}

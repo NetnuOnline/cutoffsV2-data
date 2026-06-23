@@ -1,0 +1,121 @@
+{
+  "slug": "glean-technologies",
+  "canonical_name": "Glean Technologies, Inc.",
+  "fein": "83-3385168",
+  "lca_filing_count": 27,
+  "lca_worker_positions": 27,
+  "warn_notice_count": 0,
+  "median_wage_usd": 210000.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 8,
+      "median_wage_usd": 182500.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 137500.0
+    },
+    {
+      "fy": 2024,
+      "filings": 7,
+      "median_wage_usd": 210000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 4,
+      "median_wage_usd": 250000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 6,
+      "median_wage_usd": 243000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 17,
+      "median_wage_usd": 185000.0
+    },
+    {
+      "title": "Data Scientist",
+      "count": 1,
+      "median_wage_usd": 230000.0
+    },
+    {
+      "title": "Senior Site Reliability Engineer",
+      "count": 1,
+      "median_wage_usd": 230000.0
+    },
+    {
+      "title": "Senior Manager, AI Outcomes",
+      "count": 1,
+      "median_wage_usd": 256000.0
+    },
+    {
+      "title": "Total Rewards Manager",
+      "count": 1,
+      "median_wage_usd": 240000.0
+    },
+    {
+      "title": "Software Engineer ",
+      "count": 1,
+      "median_wage_usd": 215000.0
+    },
+    {
+      "title": "Data Scientist, Growth & Enterprise",
+      "count": 1,
+      "median_wage_usd": 200000.0
+    },
+    {
+      "title": "Product Designer",
+      "count": 1,
+      "median_wage_usd": 170000.0
+    },
+    {
+      "title": "Product Manager",
+      "count": 1,
+      "median_wage_usd": 260000.0
+    },
+    {
+      "title": "Product Design Lead",
+      "count": 1,
+      "median_wage_usd": 290000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 16
+    },
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 25
+    },
+    {
+      "state": "NY",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 200000.0,
+    "gap_usd": 69840.0
+  }
+}

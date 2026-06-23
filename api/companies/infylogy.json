@@ -1,0 +1,203 @@
+{
+  "slug": "infylogy",
+  "canonical_name": "Infylogy Corp.",
+  "fein": "38-4090228",
+  "lca_filing_count": 39,
+  "lca_worker_positions": 36,
+  "warn_notice_count": 0,
+  "median_wage_usd": 95000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 3,
+      "median_wage_usd": 90002.0
+    },
+    {
+      "fy": 2021,
+      "filings": 5,
+      "median_wage_usd": 95000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 110300.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 109350.0
+    },
+    {
+      "fy": 2024,
+      "filings": 5,
+      "median_wage_usd": 101200.0
+    },
+    {
+      "fy": 2025,
+      "filings": 10,
+      "median_wage_usd": 102000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 10,
+      "median_wage_usd": 92800.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Site Reliability Engineer",
+      "count": 3,
+      "median_wage_usd": 113000.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 3,
+      "median_wage_usd": 92500.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 2,
+      "median_wage_usd": 84000.0
+    },
+    {
+      "title": "DevOps Engineer",
+      "count": 2,
+      "median_wage_usd": 95000.0
+    },
+    {
+      "title": "Application Developer",
+      "count": 2,
+      "median_wage_usd": 102800.0
+    },
+    {
+      "title": "Technology Lead",
+      "count": 2,
+      "median_wage_usd": 95000.0
+    },
+    {
+      "title": "Java Developer",
+      "count": 2,
+      "median_wage_usd": 116150.0
+    },
+    {
+      "title": "ETL Developer",
+      "count": 1,
+      "median_wage_usd": 106000.0
+    },
+    {
+      "title": "Full Stack Angular Developer",
+      "count": 1,
+      "median_wage_usd": 99000.0
+    },
+    {
+      "title": "STIBO MDM Developer",
+      "count": 1,
+      "median_wage_usd": 106000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 2
+    },
+    {
+      "state": "MN",
+      "county": "HENNEPIN",
+      "count": 2
+    },
+    {
+      "state": "VA",
+      "county": "FAIRFAX",
+      "count": 1
+    },
+    {
+      "state": "OH",
+      "county": "HAMILTON",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "county": "FRAMINGHAM",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "county": "SANGAMON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 15
+    },
+    {
+      "state": "VA",
+      "count": 4
+    },
+    {
+      "state": "FL",
+      "count": 3
+    },
+    {
+      "state": "IL",
+      "count": 3
+    },
+    {
+      "state": "MN",
+      "count": 2
+    },
+    {
+      "state": "AR",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "count": 2
+    },
+    {
+      "state": "OH",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 106000.0,
+    "gap_usd": -24160.0
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "slug": "trinity-tank-car",
+  "canonical_name": "Trinity Tank Car",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 5,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 4
+    },
+    {
+      "state": "OK",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "11/01/2016",
+      "effective_date": "11/01/2016",
+      "state": "OK",
+      "workers": 127,
+      "city": "05 - CentralRegion"
+    },
+    {
+      "date": "03/26/2009",
+      "effective_date": "05/26/2009",
+      "state": "TX",
+      "workers": 72,
+      "city": "Longview"
+    },
+    {
+      "date": "03/26/2009",
+      "effective_date": "05/26/2009",
+      "state": "TX",
+      "workers": 81,
+      "city": "Longview"
+    },
+    {
+      "date": "11/13/2008",
+      "effective_date": "01/13/2009",
+      "state": "TX",
+      "workers": 71,
+      "city": "Denton"
+    },
+    {
+      "date": "09/26/2008",
+      "effective_date": "12/01/2008",
+      "state": "TX",
+      "workers": 207,
+      "city": "Saginaw"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2019-08-01",
+        "formType": "8-K",
+        "accessionNumber": "0001564590-19-027999",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000737758&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2015-09-16",
+        "formType": "8-K/A",
+        "accessionNumber": "0001193125-15-321508",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000737758&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 2,
+    "itemCounts": {
+      "2.05": 1,
+      "5.02": 1
+    },
+    "latestFilingDate": "2019-08-01",
+    "earliestFilingDate": "2015-09-16"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

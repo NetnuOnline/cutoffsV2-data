@@ -1,0 +1,50 @@
+{
+  "slug": "unitedhealthcare-community-state",
+  "canonical_name": "UnitedHealthcare Community & State",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 3,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "IA",
+      "count": 3
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "08/02/2019",
+      "effective_date": "09/03/2019",
+      "state": "IA",
+      "workers": 27,
+      "city": "Davenport"
+    },
+    {
+      "date": "05/02/2019",
+      "effective_date": "07/01/2019",
+      "state": "IA",
+      "workers": 2,
+      "city": "Davenport"
+    },
+    {
+      "date": "05/02/2019",
+      "effective_date": "07/01/2019",
+      "state": "IA",
+      "workers": 549,
+      "city": "West Des Moines"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "region-11-des-moines-wib",
+      "name": "Region 11 - Des Moines WIB",
+      "state": "IA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "premier-xd",
+  "canonical_name": "Premier XD",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "WA",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "09/11/2019",
+      "effective_date": "09/11/2019",
+      "state": "WA",
+      "workers": 7,
+      "city": "Everett"
+    },
+    {
+      "date": "09/11/2019",
+      "effective_date": "09/11/2019",
+      "state": "WA",
+      "workers": 99,
+      "city": "Everett"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "snohomish-county-wib",
+      "name": "Snohomish County WIB",
+      "state": "WA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

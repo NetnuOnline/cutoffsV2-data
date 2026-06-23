@@ -1,0 +1,105 @@
+{
+  "slug": "resurgent-capital-services-l-p",
+  "canonical_name": "Resurgent Capital Services, L.P.",
+  "fein": "76-0609845",
+  "lca_filing_count": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 94058.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 68000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 94058.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Data Engineer II",
+      "count": 2,
+      "median_wage_usd": 94058.0
+    },
+    {
+      "title": "Sr. Database Administrator",
+      "count": 1,
+      "median_wage_usd": 80080.0
+    },
+    {
+      "title": "Engineer III, Software Development",
+      "count": 1,
+      "median_wage_usd": 113305.5
+    },
+    {
+      "title": "Data Analyst ",
+      "count": 1,
+      "median_wage_usd": 68000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "OH",
+      "county": "WARREN",
+      "count": 2
+    },
+    {
+      "state": "SC",
+      "county": "YORK",
+      "count": 2
+    },
+    {
+      "state": "SC",
+      "county": "GREENVILLE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "SC",
+      "count": 3
+    },
+    {
+      "state": "OH",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 2,
+    "continuing_denials": 0,
+    "total_approvals": 3,
+    "by_fy": [
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      }
+    ]
+  },
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 94058.0,
+    "gap_usd": -13962.0
+  }
+}

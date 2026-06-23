@@ -1,0 +1,203 @@
+{
+  "slug": "visa-u-s-a",
+  "canonical_name": "Visa U.S.A. Inc.",
+  "fein": "94-1721694",
+  "lca_filing_count": 448,
+  "lca_worker_positions": 441,
+  "warn_notice_count": 0,
+  "median_wage_usd": 132683.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 51,
+      "median_wage_usd": 120370.0
+    },
+    {
+      "fy": 2021,
+      "filings": 78,
+      "median_wage_usd": 117610.0
+    },
+    {
+      "fy": 2022,
+      "filings": 73,
+      "median_wage_usd": 126277.0
+    },
+    {
+      "fy": 2023,
+      "filings": 47,
+      "median_wage_usd": 130800.0
+    },
+    {
+      "fy": 2024,
+      "filings": 76,
+      "median_wage_usd": 148730.0
+    },
+    {
+      "fy": 2025,
+      "filings": 70,
+      "median_wage_usd": 144190.0
+    },
+    {
+      "fy": 2026,
+      "filings": 46,
+      "median_wage_usd": 163550.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Staff SW Engineer",
+      "count": 52,
+      "median_wage_usd": 132683.0
+    },
+    {
+      "title": "Sr. SW Engineer",
+      "count": 36,
+      "median_wage_usd": 102482.0
+    },
+    {
+      "title": "Director",
+      "count": 35,
+      "median_wage_usd": 167710.0
+    },
+    {
+      "title": "Sr. Data Scientist",
+      "count": 18,
+      "median_wage_usd": 135086.0
+    },
+    {
+      "title": "Sr. SW Test Engineer",
+      "count": 18,
+      "median_wage_usd": 99781.5
+    },
+    {
+      "title": "Sr. Product Manager",
+      "count": 18,
+      "median_wage_usd": 136989.0
+    },
+    {
+      "title": "Software Engineer - Sr. Consultant level",
+      "count": 17,
+      "median_wage_usd": 159100.0
+    },
+    {
+      "title": "Sr. Director",
+      "count": 16,
+      "median_wage_usd": 189030.5
+    },
+    {
+      "title": "Sr. Manager",
+      "count": 12,
+      "median_wage_usd": 149791.0
+    },
+    {
+      "title": "Data Scientist",
+      "count": 10,
+      "median_wage_usd": 113550.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SAN MATEO",
+      "count": 114
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 87
+    },
+    {
+      "state": "CO",
+      "county": "DOUGLAS",
+      "count": 56
+    },
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 21
+    },
+    {
+      "state": "FL",
+      "county": "MIAMI-DADE",
+      "count": 10
+    },
+    {
+      "state": "OH",
+      "county": "LAKE",
+      "count": 10
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 10
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 7
+    },
+    {
+      "state": "DC",
+      "county": "DISTRICT OF COLUMBIA",
+      "count": 5
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 4
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 177
+    },
+    {
+      "state": "TX",
+      "count": 128
+    },
+    {
+      "state": "CO",
+      "count": 70
+    },
+    {
+      "state": "OH",
+      "count": 14
+    },
+    {
+      "state": "GA",
+      "count": 12
+    },
+    {
+      "state": "FL",
+      "count": 11
+    },
+    {
+      "state": "NY",
+      "count": 11
+    },
+    {
+      "state": "DC",
+      "count": 7
+    },
+    {
+      "state": "VA",
+      "count": 7
+    },
+    {
+      "state": "WA",
+      "count": 6
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 139632.0,
+    "gap_usd": 9472.0
+  }
+}

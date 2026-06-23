@@ -1,0 +1,144 @@
+{
+  "slug": "index-analytics",
+  "canonical_name": "Index Analytics, LLC",
+  "fein": "45-5364115",
+  "lca_filing_count": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 129000.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 105290.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 141974.5
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 123000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "DATA SCIENTIST ",
+      "count": 1,
+      "median_wage_usd": 105290.0
+    },
+    {
+      "title": "Mid Salesforce Developer",
+      "count": 1,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "title": "Data Scientist",
+      "count": 1,
+      "median_wage_usd": 148949.0
+    },
+    {
+      "title": "Senior Data Analyst/Test Engineer",
+      "count": 1,
+      "median_wage_usd": 123000.0
+    },
+    {
+      "title": "DevSecOps Engineer",
+      "count": 1,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "title": "Salesforce Developer",
+      "count": 1,
+      "median_wage_usd": 113547.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NC",
+      "county": "WAKE",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "county": "OAKLAND",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "county": "MECKLENBURG",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NC",
+      "count": 3
+    },
+    {
+      "state": "MD",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 2,
+    "initial_denials": 0,
+    "continuing_approvals": 8,
+    "continuing_denials": 0,
+    "total_approvals": 10,
+    "by_fy": [
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 7,
+        "continuing_denials": 0,
+        "total_approvals": 7
+      }
+    ]
+  },
+  "lca_worker_positions": 6,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 123000.0,
+    "gap_usd": 14980.0
+  }
+}

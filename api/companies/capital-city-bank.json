@@ -1,0 +1,81 @@
+{
+  "slug": "capital-city-bank",
+  "canonical_name": "Capital City Bank",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 1,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "08/19/2016",
+      "effective_date": "08/19/2016",
+      "state": "GA",
+      "workers": 8,
+      "city": "Waynesboro"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "richmondburke-wib",
+      "name": "Richmond/Burke WIB",
+      "state": "GA"
+    }
+  ],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2022-04-27",
+        "formType": "8-K",
+        "accessionNumber": "0001171200-22-000216",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000726601&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2010-12-30",
+        "formType": "8-K",
+        "accessionNumber": "0001171200-10-001238",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000726601&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2006-02-28",
+        "formType": "8-K",
+        "accessionNumber": "0000726601-06-000016",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000726601&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 3,
+    "itemCounts": {
+      "5.02": 3
+    },
+    "latestFilingDate": "2022-04-27",
+    "earliestFilingDate": "2006-02-28"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

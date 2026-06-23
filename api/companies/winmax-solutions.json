@@ -1,0 +1,65 @@
+{
+  "slug": "winmax-solutions",
+  "canonical_name": "Winmax Solutions LLC",
+  "fein": "93-1914877",
+  "lca_filing_count": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 105227.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 105227.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 126090.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 2,
+      "median_wage_usd": 105227.0
+    },
+    {
+      "title": "Software Developer (QlikView)",
+      "count": 1,
+      "median_wage_usd": 105227.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 126090.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 3
+    },
+    {
+      "state": "VA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 105227.0,
+    "gap_usd": -24933.0
+  }
+}

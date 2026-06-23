@@ -1,0 +1,69 @@
+{
+  "slug": "cooper-tire-rubber-company",
+  "canonical_name": "Cooper Tire & Rubber Company",
+  "fein": null,
+  "lca_filing_count": 1,
+  "warn_notice_count": 2,
+  "median_wage_usd": 77438.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 77438.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Chemical Compound Engineer",
+      "count": 1,
+      "median_wage_usd": 77438.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "OH",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "OH",
+      "county": "HANCOCK",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "04/06/2020",
+      "effective_date": "04/06/2020",
+      "state": "OH",
+      "workers": 797,
+      "city": "Findlay/Hancock"
+    },
+    {
+      "date": "01/26/2009",
+      "effective_date": "01/26/2009",
+      "state": "GA",
+      "workers": 1268,
+      "city": "Albany"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "southwest-georgia-wib",
+      "name": "Southwest Georgia WIB",
+      "state": "GA"
+    },
+    {
+      "slug": "northwest-ohio",
+      "name": "Northwest Ohio",
+      "state": "OH"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "lca_worker_positions": 1,
+  "top_socs": [],
+  "lca_periods": []
+}

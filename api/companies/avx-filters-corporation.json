@@ -1,0 +1,51 @@
+{
+  "slug": "avx-filters-corporation",
+  "canonical_name": "AVX Filters Corporation",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 1,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "07/12/2019",
+      "effective_date": "09/27/2019",
+      "state": "CA",
+      "workers": 103,
+      "city": "Sun Valley"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2025-11-12",
+        "formType": "8-K",
+        "accessionNumber": "0001493152-25-021948",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001826397&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 1,
+    "itemCounts": {
+      "5.02": 1
+    },
+    "latestFilingDate": "2025-11-12",
+    "earliestFilingDate": "2025-11-12"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

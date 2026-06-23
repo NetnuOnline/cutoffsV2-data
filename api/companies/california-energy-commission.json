@@ -1,0 +1,46 @@
+{
+  "slug": "california-energy-commission",
+  "canonical_name": "California Energy Commission",
+  "fein": "94-6001347",
+  "lca_filing_count": 2,
+  "lca_worker_positions": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 91608.0,
+  "by_fy": [
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 91608.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Information Technology Specialist I",
+      "count": 1,
+      "median_wage_usd": 75876.0
+    },
+    {
+      "title": "Assistant Professor",
+      "count": 1,
+      "median_wage_usd": 107340.0
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 75876.0,
+    "gap_usd": -32144.0
+  }
+}

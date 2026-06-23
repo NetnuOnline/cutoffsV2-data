@@ -1,0 +1,126 @@
+{
+  "slug": "ziphq",
+  "canonical_name": "ZipHQ, Inc.",
+  "fein": "83-2736232",
+  "lca_filing_count": 32,
+  "lca_worker_positions": 32,
+  "warn_notice_count": 0,
+  "median_wage_usd": 183136.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 10,
+      "median_wage_usd": 210000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 11,
+      "median_wage_usd": 190000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 8,
+      "median_wage_usd": 165000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 20,
+      "median_wage_usd": 190000.0
+    },
+    {
+      "title": "GTM Strategy & Operations Sr. Associate, Commercial Strategy",
+      "count": 2,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Engineering Manager",
+      "count": 2,
+      "median_wage_usd": 220000.0
+    },
+    {
+      "title": "Software Engineer ",
+      "count": 1,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "title": "HRBP, Global Sales & Marketing",
+      "count": 1,
+      "median_wage_usd": 200000.0
+    },
+    {
+      "title": "Product Designer",
+      "count": 1,
+      "median_wage_usd": 165000.0
+    },
+    {
+      "title": "Quality Assurance Engineer",
+      "count": 1,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "title": "QA Engineer",
+      "count": 1,
+      "median_wage_usd": 165000.0
+    },
+    {
+      "title": "P2P Strategy and Operations Manager",
+      "count": 1,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "title": "Principal Product Manager",
+      "count": 1,
+      "median_wage_usd": 260000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 11
+    },
+    {
+      "state": "CA",
+      "county": "SAN MATEO",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "ORANGE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 30
+    },
+    {
+      "state": "NY",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 190000.0,
+    "gap_usd": 59840.0
+  }
+}

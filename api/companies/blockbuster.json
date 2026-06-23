@@ -1,0 +1,100 @@
+{
+  "slug": "blockbuster",
+  "canonical_name": "Blockbuster",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 9,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 4
+    },
+    {
+      "state": "NE",
+      "count": 3
+    },
+    {
+      "state": "GA",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "11/22/2013",
+      "effective_date": "11/22/2013",
+      "state": "NE",
+      "workers": 7,
+      "city": "Lincoln"
+    },
+    {
+      "date": "04/24/2012",
+      "effective_date": "06/22/2012",
+      "state": "TX",
+      "workers": 220,
+      "city": "McKinney"
+    },
+    {
+      "date": "04/15/2012",
+      "effective_date": "04/15/2012",
+      "state": "NE",
+      "workers": 6,
+      "city": "Grand Island"
+    },
+    {
+      "date": "03/25/2012",
+      "effective_date": "03/25/2012",
+      "state": "NE",
+      "workers": 12,
+      "city": "Kearney"
+    },
+    {
+      "date": "03/07/2012",
+      "effective_date": "05/07/2012",
+      "state": "TX",
+      "workers": 175,
+      "city": "McKinney"
+    },
+    {
+      "date": "02/23/2011",
+      "effective_date": "04/20/2011",
+      "state": "TX",
+      "workers": 627,
+      "city": "McKinney"
+    },
+    {
+      "date": "02/23/2011",
+      "effective_date": "04/20/2011",
+      "state": "TX",
+      "workers": 238,
+      "city": "Dallas"
+    },
+    {
+      "date": "03/31/2000",
+      "effective_date": "03/31/2000",
+      "state": "GA",
+      "workers": 33,
+      "city": "Kennesaw"
+    },
+    {
+      "date": "03/31/2000",
+      "effective_date": "03/31/2000",
+      "state": "GA",
+      "workers": 125,
+      "city": "Marietta"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "north-central-wda-tx",
+      "name": "North Central WDA",
+      "state": "TX"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

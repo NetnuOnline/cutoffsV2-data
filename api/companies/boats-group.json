@@ -1,0 +1,58 @@
+{
+  "slug": "boats-group",
+  "canonical_name": "Boats Group LLC",
+  "fein": null,
+  "lca_filing_count": 1,
+  "warn_notice_count": 1,
+  "median_wage_usd": 160000.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 160000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Salesforce Platform Manager",
+      "count": 1,
+      "median_wage_usd": 160000.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "FL",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "FL",
+      "county": "MIAMI-DADE",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "06/01/2017",
+      "effective_date": "07/31/2017",
+      "state": "VA",
+      "workers": 72,
+      "city": "Norfolk, VA"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "lca_worker_positions": 1,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 160000.0,
+    "gap_usd": 29840.0
+  }
+}

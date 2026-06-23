@@ -1,0 +1,54 @@
+{
+  "slug": "sundance-holdings",
+  "canonical_name": "Sundance Holdings",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 3,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 2
+    },
+    {
+      "state": "UT",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "09/21/2025",
+      "effective_date": "09/21/2025",
+      "state": "UT",
+      "workers": 63,
+      "city": "Salt Lake City"
+    },
+    {
+      "date": "04/27/2021",
+      "effective_date": "06/30/2021",
+      "state": "CA",
+      "workers": 9,
+      "city": "San Diego"
+    },
+    {
+      "date": "12/01/2020",
+      "effective_date": "01/31/2021",
+      "state": "CA",
+      "workers": 7,
+      "city": "Corte Madera"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "wasatch-front-south-wib",
+      "name": "Wasatch Front South WIB",
+      "state": "UT"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

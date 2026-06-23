@@ -1,0 +1,122 @@
+{
+  "slug": "dallas-county-hospital-district",
+  "canonical_name": "Dallas County Hospital District",
+  "fein": "75-6004221",
+  "lca_filing_count": 18,
+  "lca_worker_positions": 18,
+  "warn_notice_count": 0,
+  "median_wage_usd": 100000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 3,
+      "median_wage_usd": 85363.0
+    },
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 83637.0
+    },
+    {
+      "fy": 2022,
+      "filings": 3,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 4,
+      "median_wage_usd": 68772.8
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 135008.0
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 92060.8,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "IT Applications Systems - Sr",
+      "count": 2,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "DevOps Solutions Architect",
+      "count": 2,
+      "median_wage_usd": 132500.0
+    },
+    {
+      "title": "BI Developer III",
+      "count": 2,
+      "median_wage_usd": 105986.5
+    },
+    {
+      "title": "Staff Chaplain",
+      "count": 1,
+      "median_wage_usd": 50000.0
+    },
+    {
+      "title": "Data Architect - Principal",
+      "count": 1,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "title": "Sr. Compliance Investigations Consultant",
+      "count": 1,
+      "median_wage_usd": 101275.2
+    },
+    {
+      "title": "STAFF CHAPLAIN",
+      "count": 1,
+      "median_wage_usd": 38979.2
+    },
+    {
+      "title": "Business Intel Specialist",
+      "count": 1,
+      "median_wage_usd": 75317.0
+    },
+    {
+      "title": "HIM DATABASE SPECIALIST",
+      "count": 1,
+      "median_wage_usd": 85363.0
+    },
+    {
+      "title": "Enterprise Risk Management Analyst",
+      "count": 1,
+      "median_wage_usd": 75000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 15
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 18
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Business Intelligence Analysts",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 110008.0,
+    "gap_usd": 1988.0
+  }
+}

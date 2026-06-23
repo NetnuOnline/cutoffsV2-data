@@ -1,0 +1,55 @@
+{
+  "slug": "ultimates-it",
+  "canonical_name": "ULTIMATES IT LLC",
+  "fein": null,
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 93797.7,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 93797.7
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SOFTWARE  DEVELOPER",
+      "count": 2,
+      "median_wage_usd": 93797.7
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MI",
+      "county": "OAKLAND",
+      "count": 1
+    },
+    {
+      "state": "OH",
+      "county": "FRANKLIN",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "OH",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 93797.7,
+    "gap_usd": -36362.3
+  }
+}

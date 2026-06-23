@@ -1,0 +1,181 @@
+{
+  "slug": "slk-holdings",
+  "canonical_name": "SLK Holdings LLC.",
+  "fein": "20-5695269",
+  "lca_filing_count": 20,
+  "warn_notice_count": 0,
+  "median_wage_usd": 83013.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 83637.0
+    },
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 91769.5
+    },
+    {
+      "fy": 2022,
+      "filings": 3,
+      "median_wage_usd": 74443.0
+    },
+    {
+      "fy": 2023,
+      "filings": 7,
+      "median_wage_usd": 82389.0
+    },
+    {
+      "fy": 2024,
+      "filings": 5,
+      "median_wage_usd": 80267.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 101701.5
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SOFTWARE DEVELOPER",
+      "count": 4,
+      "median_wage_usd": 102294.0
+    },
+    {
+      "title": "SYSTEMS ANALYST",
+      "count": 3,
+      "median_wage_usd": 82389.0
+    },
+    {
+      "title": "Systems Analyst",
+      "count": 3,
+      "median_wage_usd": 80267.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 2,
+      "median_wage_usd": 101453.5
+    },
+    {
+      "title": "SOFTWARE DEVELOPER-WEB APPLICATIONS",
+      "count": 2,
+      "median_wage_usd": 74443.0
+    },
+    {
+      "title": "Applications Software Developer",
+      "count": 1,
+      "median_wage_usd": 86632.0
+    },
+    {
+      "title": "SOFTWARE DEVELOPER-QUALITY ASSURANCE",
+      "count": 1,
+      "median_wage_usd": 73923.0
+    },
+    {
+      "title": "SENIOR SOFTWARE DEVELOPER",
+      "count": 1,
+      "median_wage_usd": 83637.0
+    },
+    {
+      "title": "SOFTWARE DEVELOPER - WEB APPLICATIONS",
+      "count": 1,
+      "median_wage_usd": 95139.0
+    },
+    {
+      "title": "Project Manager",
+      "count": 1,
+      "median_wage_usd": 80538.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 18
+    }
+  ],
+  "top_states": [
+    {
+      "state": "AZ",
+      "count": 20
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 17,
+    "initial_denials": 3,
+    "continuing_approvals": 10,
+    "continuing_denials": 0,
+    "total_approvals": 27,
+    "by_fy": [
+      {
+        "fy": 2016,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 7,
+        "initial_denials": 2,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 10
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 6,
+        "initial_denials": 1,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 7
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 3,
+        "initial_denials": 0,
+        "continuing_approvals": 4,
+        "continuing_denials": 0,
+        "total_approvals": 7
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      }
+    ]
+  },
+  "lca_worker_positions": 20,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 102294.0,
+    "gap_usd": -27866.0
+  }
+}

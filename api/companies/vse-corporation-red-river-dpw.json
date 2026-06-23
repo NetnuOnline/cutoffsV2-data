@@ -1,0 +1,95 @@
+{
+  "slug": "vse-corporation-red-river-dpw",
+  "canonical_name": "VSE Corporation-Red River DPW",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 1,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "04/22/2016",
+      "effective_date": "06/16/2016",
+      "state": "TX",
+      "workers": 94,
+      "city": "Texarkana"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "north-east-wda",
+      "name": "North East WDA",
+      "state": "TX"
+    }
+  ],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2022-07-21",
+        "formType": "8-K",
+        "accessionNumber": "0000102752-22-000045",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000102752&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2020-01-31",
+        "formType": "8-K",
+        "accessionNumber": "0000102752-20-000004",
+        "items": [
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000102752&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2017-08-17",
+        "formType": "8-K",
+        "accessionNumber": "0000102752-17-000033",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000102752&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2012-12-21",
+        "formType": "8-K",
+        "accessionNumber": "0000102752-12-000075",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000102752&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 4,
+    "itemCounts": {
+      "5.02": 2,
+      "2.06": 1,
+      "2.05": 1
+    },
+    "latestFilingDate": "2022-07-21",
+    "earliestFilingDate": "2012-12-21"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

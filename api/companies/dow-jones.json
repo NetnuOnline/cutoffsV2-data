@@ -1,0 +1,164 @@
+{
+  "slug": "dow-jones",
+  "canonical_name": "Dow Jones & Company Inc",
+  "fein": null,
+  "lca_filing_count": 2,
+  "warn_notice_count": 4,
+  "median_wage_usd": 162500,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 0,
+      "median_wage_usd": null
+    },
+    {
+      "fy": 2026,
+      "filings": 0,
+      "median_wage_usd": null
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Managing Editor, Opinion",
+      "count": 0,
+      "median_wage_usd": null
+    },
+    {
+      "title": "Associate News Editor, Live Journalism",
+      "count": 0,
+      "median_wage_usd": null
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 3
+    },
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "01/23/2026",
+      "effective_date": "01/23/2026",
+      "state": "NJ",
+      "workers": 50,
+      "city": "Princeton"
+    },
+    {
+      "date": "04/30/2010",
+      "effective_date": "04/30/2010",
+      "state": "NJ",
+      "workers": 47,
+      "city": "MONMOUTH JCT"
+    },
+    {
+      "date": "09/30/2008",
+      "effective_date": "12/01/2008",
+      "state": "IL",
+      "workers": 90,
+      "city": "Naperville"
+    },
+    {
+      "date": "09/15/2008",
+      "effective_date": "09/15/2008",
+      "state": "NJ",
+      "workers": 66,
+      "city": "S. BRUNSWICK"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2026-01-29",
+        "formType": "8-K",
+        "accessionNumber": "0001751788-26-000009",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001751788&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2025-07-07",
+        "formType": "8-K",
+        "accessionNumber": "0001751788-25-000139",
+        "items": [
+          "2.05",
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities",
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001751788&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2025-01-30",
+        "formType": "8-K",
+        "accessionNumber": "0001751788-25-000006",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001751788&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2023-01-26",
+        "formType": "8-K",
+        "accessionNumber": "0001751788-23-000006",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001751788&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2020-09-30",
+        "formType": "8-K",
+        "accessionNumber": "0001751788-20-000028",
+        "items": [
+          "2.05",
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities",
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001751788&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2019-04-02",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-19-095067",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001751788&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 6,
+    "itemCounts": {
+      "2.05": 5,
+      "2.06": 2,
+      "5.02": 1
+    },
+    "latestFilingDate": "2026-01-29",
+    "earliestFilingDate": "2019-04-02"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

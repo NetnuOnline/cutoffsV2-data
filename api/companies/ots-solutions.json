@@ -1,0 +1,117 @@
+{
+  "slug": "ots-solutions",
+  "canonical_name": "OTS Solutions Inc",
+  "fein": "47-1509816",
+  "lca_filing_count": 4,
+  "warn_notice_count": 1,
+  "median_wage_usd": 84136.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 57429.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 84094.4
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 95326.4
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Quality Assurance Engineer",
+      "count": 1,
+      "median_wage_usd": 84177.59999999999
+    },
+    {
+      "title": "Computer Programmer",
+      "count": 1,
+      "median_wage_usd": 57429.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 84094.4
+    },
+    {
+      "title": "Mainframe Software Developer",
+      "count": 1,
+      "median_wage_usd": 106475.2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "CT",
+      "count": 2
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "02/14/2020",
+      "effective_date": "04/14/2020",
+      "state": "CA",
+      "workers": 260,
+      "city": "Mira Loma"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 4,
+    "initial_denials": 0,
+    "continuing_approvals": 0,
+    "continuing_denials": 0,
+    "total_approvals": 4,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      }
+    ]
+  },
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 95284.8,
+    "gap_usd": -34875.2
+  }
+}

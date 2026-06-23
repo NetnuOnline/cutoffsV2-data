@@ -1,0 +1,203 @@
+{
+  "slug": "capital-one-national-association",
+  "canonical_name": "Capital One, National Association",
+  "fein": "72-0210640",
+  "lca_filing_count": 322,
+  "lca_worker_positions": 322,
+  "warn_notice_count": 0,
+  "median_wage_usd": 111748.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 16,
+      "median_wage_usd": 87298.0
+    },
+    {
+      "fy": 2021,
+      "filings": 26,
+      "median_wage_usd": 91042.0
+    },
+    {
+      "fy": 2022,
+      "filings": 28,
+      "median_wage_usd": 96023.5
+    },
+    {
+      "fy": 2023,
+      "filings": 63,
+      "median_wage_usd": 107869.0
+    },
+    {
+      "fy": 2024,
+      "filings": 58,
+      "median_wage_usd": 113183.0
+    },
+    {
+      "fy": 2025,
+      "filings": 67,
+      "median_wage_usd": 144000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 64,
+      "median_wage_usd": 154486.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Business Manager",
+      "count": 52,
+      "median_wage_usd": 154486.0
+    },
+    {
+      "title": "Senior Business Analyst",
+      "count": 48,
+      "median_wage_usd": 108306.0
+    },
+    {
+      "title": "Senior Data Analyst",
+      "count": 37,
+      "median_wage_usd": 102274.0
+    },
+    {
+      "title": "Principal Associate, Data Science",
+      "count": 31,
+      "median_wage_usd": 108306.0
+    },
+    {
+      "title": "Principal Data Analyst",
+      "count": 22,
+      "median_wage_usd": 102274.0
+    },
+    {
+      "title": "Data Analysis Manager",
+      "count": 16,
+      "median_wage_usd": 144000.0
+    },
+    {
+      "title": "Senior Associate, Data Science",
+      "count": 15,
+      "median_wage_usd": 102274.0
+    },
+    {
+      "title": "Manager, Data Science",
+      "count": 14,
+      "median_wage_usd": 153119.0
+    },
+    {
+      "title": "Senior Business Manager",
+      "count": 13,
+      "median_wage_usd": 142210.0
+    },
+    {
+      "title": "Business Director",
+      "count": 9,
+      "median_wage_usd": 205400.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "VA",
+      "county": "FAIRFAX",
+      "count": 100
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 38
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 27
+    },
+    {
+      "state": "VA",
+      "county": "HENRICO",
+      "count": 16
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 8
+    },
+    {
+      "state": "DE",
+      "county": "NEW CASTLE",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 2
+    },
+    {
+      "state": "VA",
+      "county": "GOOCHLAND",
+      "count": 2
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "county": "CAMBRIDGE CITY",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "VA",
+      "count": 189
+    },
+    {
+      "state": "TX",
+      "count": 57
+    },
+    {
+      "state": "NY",
+      "count": 43
+    },
+    {
+      "state": "IL",
+      "count": 21
+    },
+    {
+      "state": "CA",
+      "count": 5
+    },
+    {
+      "state": "MA",
+      "count": 2
+    },
+    {
+      "state": "DE",
+      "count": 2
+    },
+    {
+      "state": "WI",
+      "count": 1
+    },
+    {
+      "state": "AZ",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 127500.0,
+    "gap_usd": 19480.0
+  }
+}

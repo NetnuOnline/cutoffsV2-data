@@ -1,0 +1,95 @@
+{
+  "slug": "ritchie-bros-auctioneers-america",
+  "canonical_name": "Ritchie Bros. Auctioneers (America) Inc.",
+  "fein": "91-1830835",
+  "lca_filing_count": 8,
+  "lca_worker_positions": 7,
+  "warn_notice_count": 0,
+  "median_wage_usd": 145115.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 82800.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 89741.0
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 145230.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 183500.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Staff Software Engineer",
+      "count": 2,
+      "median_wage_usd": 162615.0
+    },
+    {
+      "title": "Data Analyst",
+      "count": 2,
+      "median_wage_usd": 89741.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 2,
+      "median_wage_usd": 150125.0
+    },
+    {
+      "title": "Business Intelligence Analyst",
+      "count": 1,
+      "median_wage_usd": 82800.0
+    },
+    {
+      "title": "Senior Manager, Software Engineering",
+      "count": 1,
+      "median_wage_usd": 187000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 3
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 4
+    },
+    {
+      "state": "CA",
+      "count": 3
+    },
+    {
+      "state": "CT",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 150240.0,
+    "gap_usd": 20080.0
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "slug": "varo-bank-n-a",
+  "canonical_name": "Varo Bank, N.A.",
+  "fein": "85-1352859",
+  "lca_filing_count": 34,
+  "lca_worker_positions": 34,
+  "warn_notice_count": 0,
+  "median_wage_usd": 182500.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 6,
+      "median_wage_usd": 177434.0
+    },
+    {
+      "fy": 2022,
+      "filings": 6,
+      "median_wage_usd": 182000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 172620.0
+    },
+    {
+      "fy": 2024,
+      "filings": 11,
+      "median_wage_usd": 190087.0
+    },
+    {
+      "fy": 2025,
+      "filings": 5,
+      "median_wage_usd": 185000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 194000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Sr. Software Engineer",
+      "count": 4,
+      "median_wage_usd": 180000.0
+    },
+    {
+      "title": "Credit Risk Manager",
+      "count": 3,
+      "median_wage_usd": 165000.0
+    },
+    {
+      "title": "Director Product Manager, Data Enablement",
+      "count": 2,
+      "median_wage_usd": 180190.0
+    },
+    {
+      "title": "Staff Software Engineer",
+      "count": 2,
+      "median_wage_usd": 208376.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 2,
+      "median_wage_usd": 190043.5
+    },
+    {
+      "title": "Senior DevOps Engineer",
+      "count": 2,
+      "median_wage_usd": 172620.0
+    },
+    {
+      "title": "Staff Cloud Database Engineer",
+      "count": 1,
+      "median_wage_usd": 185000.0
+    },
+    {
+      "title": "Senior Credit Risk Analyst",
+      "count": 1,
+      "median_wage_usd": 153088.0
+    },
+    {
+      "title": "Staff Data Analyst, Lending",
+      "count": 1,
+      "median_wage_usd": 143270.0
+    },
+    {
+      "title": "Sr. Product Manager, Identity and Fraud",
+      "count": 1,
+      "median_wage_usd": 185000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 21
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "county": "LOUDOUN",
+      "count": 1
+    },
+    {
+      "state": "OR",
+      "county": "WASHINGTON",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "county": "ALLEGHENY",
+      "count": 1
+    },
+    {
+      "state": "UT",
+      "county": "SALT LAKE",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 23
+    },
+    {
+      "state": "WA",
+      "count": 3
+    },
+    {
+      "state": "UT",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "NC",
+      "count": 1
+    },
+    {
+      "state": "OR",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 190000.0,
+    "gap_usd": 59840.0
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "slug": "five9",
+  "canonical_name": "Five9, Inc.",
+  "fein": "94-3394123",
+  "lca_filing_count": 26,
+  "lca_worker_positions": 26,
+  "warn_notice_count": 0,
+  "median_wage_usd": 167104.5,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 4,
+      "median_wage_usd": 143437.0
+    },
+    {
+      "fy": 2021,
+      "filings": 7,
+      "median_wage_usd": 167710.0
+    },
+    {
+      "fy": 2022,
+      "filings": 6,
+      "median_wage_usd": 148689.0
+    },
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 210704.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 211006.0
+    },
+    {
+      "fy": 2026,
+      "filings": 4,
+      "median_wage_usd": 114275.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Principal Program Manager",
+      "count": 2,
+      "median_wage_usd": 125050.0
+    },
+    {
+      "title": "EVP, Product 10289.147",
+      "count": 2,
+      "median_wage_usd": 233000.0
+    },
+    {
+      "title": "Sr. Software Engineer",
+      "count": 2,
+      "median_wage_usd": 159151.0
+    },
+    {
+      "title": "Network Engineer",
+      "count": 1,
+      "median_wage_usd": 97989.0
+    },
+    {
+      "title": "Manager, Engineering",
+      "count": 1,
+      "median_wage_usd": 162386.0
+    },
+    {
+      "title": "Senior Manager, Cloud Engineering",
+      "count": 1,
+      "median_wage_usd": 210704.0
+    },
+    {
+      "title": "Sr Software Engineer",
+      "count": 1,
+      "median_wage_usd": 172091.0
+    },
+    {
+      "title": "Mgr, Engineering",
+      "count": 1,
+      "median_wage_usd": 215197.0
+    },
+    {
+      "title": "Senior Manager, Corporate Strategy and Operations 10289.150",
+      "count": 1,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "title": "Data Administrator - MySQL(10289.90.5)",
+      "count": 1,
+      "median_wage_usd": 130125.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "CONTRA COSTA",
+      "count": 16
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "county": "GWINNETT",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "county": "OAKLAND",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 20
+    },
+    {
+      "state": "GA",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "MI",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 172091.0,
+    "gap_usd": 41931.0
+  }
+}

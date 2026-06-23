@@ -1,0 +1,73 @@
+{
+  "slug": "puzzl-group",
+  "canonical_name": "Puzzl Group Inc.",
+  "fein": "83-4695500",
+  "lca_filing_count": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 163784.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 170125.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 163784.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Software Engineer ",
+      "count": 3,
+      "median_wage_usd": 163784.0
+    },
+    {
+      "title": "Senior Software Engineer (Fullstack)",
+      "count": 1,
+      "median_wage_usd": 163784.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 4
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 4
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 1,
+    "continuing_denials": 0,
+    "total_approvals": 1,
+    "by_fy": [
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 163784.0,
+    "gap_usd": 33624.0
+  }
+}

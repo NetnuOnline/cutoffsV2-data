@@ -1,0 +1,137 @@
+{
+  "slug": "piggly-wiggly",
+  "canonical_name": "Piggly Wiggly, LLC",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 13,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "WI",
+      "count": 4
+    },
+    {
+      "state": "IL",
+      "count": 4
+    },
+    {
+      "state": "GA",
+      "count": 3
+    },
+    {
+      "state": "SC",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "01/17/2023",
+      "effective_date": "03/18/2023",
+      "state": "WI",
+      "workers": 52,
+      "city": "Milwaukee"
+    },
+    {
+      "date": "06/24/2019",
+      "effective_date": "08/24/2019",
+      "state": "WI",
+      "workers": 59,
+      "city": "Kenosha"
+    },
+    {
+      "date": "06/18/2018",
+      "effective_date": "08/18/2018",
+      "state": "WI",
+      "workers": 69,
+      "city": "Menasha"
+    },
+    {
+      "date": "07/13/2016",
+      "effective_date": "09/01/2016",
+      "state": "WI",
+      "workers": 83,
+      "city": "Sheboygan"
+    },
+    {
+      "date": "03/31/2014",
+      "effective_date": "03/31/2014",
+      "state": "SC",
+      "workers": 64,
+      "city": "North Charleston"
+    },
+    {
+      "date": "03/31/2014",
+      "effective_date": "03/31/2014",
+      "state": "SC",
+      "workers": 85,
+      "city": "Summerville"
+    },
+    {
+      "date": "10/21/2013",
+      "effective_date": "10/21/2013",
+      "state": "GA",
+      "workers": 80,
+      "city": "Griffin"
+    },
+    {
+      "date": "07/20/2004",
+      "effective_date": "09/01/2004",
+      "state": "IL",
+      "workers": 55,
+      "city": "Zion"
+    },
+    {
+      "date": "07/20/2004",
+      "effective_date": "09/01/2004",
+      "state": "IL",
+      "workers": 54,
+      "city": "Antioch"
+    },
+    {
+      "date": "06/18/2004",
+      "effective_date": "08/01/2004",
+      "state": "IL",
+      "workers": 73,
+      "city": "Belvidere"
+    },
+    {
+      "date": "03/29/2000",
+      "effective_date": "03/29/2000",
+      "state": "GA",
+      "workers": 110,
+      "city": "Vidalia"
+    },
+    {
+      "date": "11/04/1996",
+      "effective_date": "11/04/1996",
+      "state": "GA",
+      "workers": 26,
+      "city": "Cochran"
+    },
+    {
+      "date": "12/12/1994",
+      "effective_date": "02/01/1995",
+      "state": "IL",
+      "workers": 50,
+      "city": "Palatine"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "milwaukee-wda",
+      "name": "Milwaukee WDA",
+      "state": "WI"
+    },
+    {
+      "slug": "southeast-wda",
+      "name": "Southeast WDA",
+      "state": "WI"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

@@ -1,0 +1,238 @@
+{
+  "slug": "qlytix",
+  "canonical_name": "QLYTIX, INC.",
+  "fein": "81-1978095",
+  "lca_filing_count": 28,
+  "warn_notice_count": 0,
+  "median_wage_usd": 90823.5,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 79643.0
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 77230.0
+    },
+    {
+      "fy": 2022,
+      "filings": 8,
+      "median_wage_usd": 90823.5
+    },
+    {
+      "fy": 2023,
+      "filings": 12,
+      "median_wage_usd": 89960.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 136500.0
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 117000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SOFTWARE DEVELOPER",
+      "count": 7,
+      "median_wage_usd": 89960.0
+    },
+    {
+      "title": "SOFTWARE ENGINEER",
+      "count": 3,
+      "median_wage_usd": 102876.8
+    },
+    {
+      "title": "DATA ENGINEER",
+      "count": 3,
+      "median_wage_usd": 112632.0
+    },
+    {
+      "title": "DATABASE ADMINISTRATOR",
+      "count": 2,
+      "median_wage_usd": 97562.5
+    },
+    {
+      "title": "SENIOR DATA ENGINEER",
+      "count": 1,
+      "median_wage_usd": 132600.0
+    },
+    {
+      "title": "PROJECT MANAGER",
+      "count": 1,
+      "median_wage_usd": 63960.0
+    },
+    {
+      "title": "BUSINESS INTELLIGENCE ANALYST",
+      "count": 1,
+      "median_wage_usd": 87256.0
+    },
+    {
+      "title": "DATABASE ARCHITECT",
+      "count": 1,
+      "median_wage_usd": 90709.0
+    },
+    {
+      "title": "VALIDATION ENGINEER",
+      "count": 1,
+      "median_wage_usd": 85592.0
+    },
+    {
+      "title": "SENIOR PRINCIPAL CONSULTANT",
+      "count": 1,
+      "median_wage_usd": 143520.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "FL",
+      "county": "BROWARD",
+      "count": 8
+    },
+    {
+      "state": "NY",
+      "county": "SARATOGA",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "county": "SOMERSET",
+      "count": 2
+    },
+    {
+      "state": "NC",
+      "county": "GUILFORD",
+      "count": 2
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 2
+    },
+    {
+      "state": "IN",
+      "county": "MARION",
+      "count": 1
+    },
+    {
+      "state": "CO",
+      "county": "ARAPAHOE",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "county": "FAIRFAX",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "FL",
+      "count": 9
+    },
+    {
+      "state": "TX",
+      "count": 3
+    },
+    {
+      "state": "NC",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "count": 2
+    },
+    {
+      "state": "NY",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "count": 2
+    },
+    {
+      "state": "GA",
+      "count": 2
+    },
+    {
+      "state": "CO",
+      "count": 1
+    },
+    {
+      "state": "CT",
+      "count": 1
+    },
+    {
+      "state": "NH",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 35,
+    "initial_denials": 5,
+    "continuing_approvals": 8,
+    "continuing_denials": 0,
+    "total_approvals": 43,
+    "by_fy": [
+      {
+        "fy": 2020,
+        "initial_approvals": 8,
+        "initial_denials": 5,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 8
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 4,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 4
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 15,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 18
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 8,
+        "initial_denials": 0,
+        "continuing_approvals": 5,
+        "continuing_denials": 0,
+        "total_approvals": 13
+      }
+    ]
+  },
+  "lca_worker_positions": 27,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 102138.4,
+    "gap_usd": -28021.6
+  }
+}

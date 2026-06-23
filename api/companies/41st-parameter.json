@@ -1,0 +1,96 @@
+{
+  "slug": "41st-parameter",
+  "canonical_name": "41st Parameter, Inc.",
+  "fein": "42-1628748",
+  "lca_filing_count": 7,
+  "lca_worker_positions": 7,
+  "warn_notice_count": 0,
+  "median_wage_usd": 131837.34,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 163966.32
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 123558.955
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 135130.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 122000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Development Engineer Senior",
+      "count": 2,
+      "median_wage_usd": 133483.66999999998
+    },
+    {
+      "title": "Software Development Engineer",
+      "count": 1,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "title": "Sr. Software Development Engineer",
+      "count": 1,
+      "median_wage_usd": 142380.0
+    },
+    {
+      "title": "Software Development Engineer II",
+      "count": 1,
+      "median_wage_usd": 115280.57
+    },
+    {
+      "title": "Software Development Manager",
+      "count": 1,
+      "median_wage_usd": 185552.64
+    },
+    {
+      "title": "Data Scientist",
+      "count": 1,
+      "median_wage_usd": 122000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 6
+    }
+  ],
+  "top_states": [
+    {
+      "state": "AZ",
+      "count": 6
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 138755.0,
+    "gap_usd": 8595.0
+  }
+}

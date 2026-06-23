@@ -1,0 +1,71 @@
+{
+  "slug": "gilbarco",
+  "canonical_name": "Gilbarco, Inc.",
+  "fein": "52-1504784",
+  "lca_filing_count": 2,
+  "warn_notice_count": 1,
+  "median_wage_usd": 131334.5,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 102669.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 160000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Java Developer",
+      "count": 1,
+      "median_wage_usd": 160000.0
+    },
+    {
+      "title": "Mechanical Engineer III ",
+      "count": 1,
+      "median_wage_usd": 102669.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NC",
+      "county": "GUILFORD",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "02/16/2021",
+      "effective_date": "04/16/2021",
+      "state": "OH",
+      "workers": 64,
+      "city": "Tipp City/Miami"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "west-ohio",
+      "name": "West Ohio",
+      "state": "OH"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": []
+}

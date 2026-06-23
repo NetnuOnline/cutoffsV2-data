@@ -1,0 +1,72 @@
+{
+  "slug": "smokeball",
+  "canonical_name": "Smokeball, Inc.",
+  "fein": "90-0926236",
+  "lca_filing_count": 5,
+  "lca_worker_positions": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 78770.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 71635.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 160950.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 105602.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Client Success Manager",
+      "count": 2,
+      "median_wage_usd": 71635.0
+    },
+    {
+      "title": "Global Head of Marketing",
+      "count": 1,
+      "median_wage_usd": 160950.0
+    },
+    {
+      "title": "Global Legal Recruitment Specialist",
+      "count": 1,
+      "median_wage_usd": 78770.0
+    },
+    {
+      "title": "Senior Product Manager",
+      "count": 1,
+      "median_wage_usd": 132434.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 5
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1111",
+    "soc_title": "Management Analysts",
+    "market_median_usd": 99000.0,
+    "employer_median_usd": 71635.0,
+    "gap_usd": -27365.0
+  }
+}

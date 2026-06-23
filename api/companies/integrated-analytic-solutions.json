@@ -1,0 +1,81 @@
+{
+  "slug": "integrated-analytic-solutions",
+  "canonical_name": "Integrated Analytic Solutions LLC",
+  "fein": "83-1056356",
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 88982.5,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 85384.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 92581.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Junior Developer",
+      "count": 1,
+      "median_wage_usd": 85384.0
+    },
+    {
+      "title": "CLOUD ENGINEER",
+      "count": 1,
+      "median_wage_usd": 92581.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 4,
+    "initial_denials": 0,
+    "continuing_approvals": 2,
+    "continuing_denials": 0,
+    "total_approvals": 6,
+    "by_fy": [
+      {
+        "fy": 2020,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 3,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 4
+      }
+    ]
+  },
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Computer Systems Engineers/Architects",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 92581.0,
+    "gap_usd": -25419.0
+  }
+}

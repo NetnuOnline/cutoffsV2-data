@@ -1,0 +1,56 @@
+{
+  "slug": "superior-court-of-california-santa-cruz",
+  "canonical_name": "Superior Court of California - Santa Cruz",
+  "fein": null,
+  "lca_filing_count": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 111934.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 111934.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 134129.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Business Applications Analyst",
+      "count": 2,
+      "median_wage_usd": 111934.0
+    },
+    {
+      "title": "SENIOR BUSINESS APPLICATIONS ANALYST",
+      "count": 1,
+      "median_wage_usd": 134129.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SANTA CRUZ",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1211",
+    "soc_title": "Computer Systems Analysts",
+    "market_median_usd": 103800.0,
+    "employer_median_usd": 134129.0,
+    "gap_usd": 30329.0
+  }
+}

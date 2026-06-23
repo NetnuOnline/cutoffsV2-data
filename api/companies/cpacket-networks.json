@@ -1,0 +1,121 @@
+{
+  "slug": "cpacket-networks",
+  "canonical_name": "cPacket Networks, Inc.",
+  "fein": "82-0554492",
+  "lca_filing_count": 13,
+  "lca_worker_positions": 13,
+  "warn_notice_count": 0,
+  "median_wage_usd": 123240.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 113589.0
+    },
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 117592.5
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 154263.5
+    },
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 135283.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 146307.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 108555.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 159890.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 4,
+      "median_wage_usd": 115586.0
+    },
+    {
+      "title": "Principal Software Engineer",
+      "count": 2,
+      "median_wage_usd": 150748.0
+    },
+    {
+      "title": "Electrical Engineer",
+      "count": 1,
+      "median_wage_usd": 113589.0
+    },
+    {
+      "title": "Sr. Middleware Software Developer",
+      "count": 1,
+      "median_wage_usd": 135283.0
+    },
+    {
+      "title": "Sr. FPGA Engineer",
+      "count": 1,
+      "median_wage_usd": 159890.0
+    },
+    {
+      "title": "Software Engineer - Back-End",
+      "count": 1,
+      "median_wage_usd": 135283.0
+    },
+    {
+      "title": "Software Developer - Software Technical Leader",
+      "count": 1,
+      "median_wage_usd": 146307.0
+    },
+    {
+      "title": "Computer Programmer",
+      "count": 1,
+      "median_wage_usd": 100880.0
+    },
+    {
+      "title": "ASIC/FPGA Design Engineer",
+      "count": 1,
+      "median_wage_usd": 113589.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 11
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 12
+    },
+    {
+      "state": "TN",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 135283.0,
+    "gap_usd": 5123.0
+  }
+}

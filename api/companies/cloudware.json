@@ -1,0 +1,66 @@
+{
+  "slug": "cloudware",
+  "canonical_name": "Cloudware LLC",
+  "fein": "47-2899112",
+  "lca_filing_count": 5,
+  "lca_worker_positions": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 102981.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 97200.0
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 108160.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 2,
+      "median_wage_usd": 97200.0
+    },
+    {
+      "title": "Systems Analyst - ERP",
+      "count": 2,
+      "median_wage_usd": 106589.5
+    },
+    {
+      "title": "Software Quality Analyst",
+      "count": 1,
+      "median_wage_usd": 108160.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MD",
+      "county": "MONTGOMERY",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MD",
+      "count": 3
+    },
+    {
+      "state": "NV",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1253",
+    "soc_title": "Software Quality Assurance Analysts and Testers",
+    "market_median_usd": 101800.0,
+    "employer_median_usd": 108160.0,
+    "gap_usd": 6360.0
+  }
+}

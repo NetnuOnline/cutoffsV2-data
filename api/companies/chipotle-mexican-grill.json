@@ -1,0 +1,92 @@
+{
+  "slug": "chipotle-mexican-grill",
+  "canonical_name": "Chipotle Mexican Grill",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 3,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "ME",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "count": 1
+    },
+    {
+      "state": "CO",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "07/19/2022",
+      "effective_date": "07/19/2022",
+      "state": "ME",
+      "workers": 0,
+      "city": "Augusta"
+    },
+    {
+      "date": "06/29/2018",
+      "effective_date": "10/05/2018",
+      "state": "NY",
+      "workers": 32,
+      "city": "New York"
+    },
+    {
+      "date": "06/29/2018",
+      "effective_date": "06/29/2018",
+      "state": "CO",
+      "workers": 399,
+      "city": "Denver"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "denver-wib",
+      "name": "Denver WIB",
+      "state": "CO"
+    }
+  ],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2018-06-28",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-18-206319",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001058090&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2010-09-09",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-10-207440",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001058090&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 2,
+    "itemCounts": {
+      "2.05": 1,
+      "5.02": 1
+    },
+    "latestFilingDate": "2018-06-28",
+    "earliestFilingDate": "2010-09-09"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

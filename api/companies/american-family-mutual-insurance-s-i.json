@@ -1,0 +1,61 @@
+{
+  "slug": "american-family-mutual-insurance-s-i",
+  "canonical_name": "American Family Mutual Insurance, S.I.",
+  "fein": null,
+  "lca_filing_count": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 138391.17,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 4,
+      "median_wage_usd": 138391.165
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Staff Engineer",
+      "count": 1,
+      "median_wage_usd": 116980.88
+    },
+    {
+      "title": "Data Solution Engineer III",
+      "count": 1,
+      "median_wage_usd": 113292.61
+    },
+    {
+      "title": "Application Domain Architect",
+      "count": 1,
+      "median_wage_usd": 180962.0
+    },
+    {
+      "title": "Technology Solution Delivery Manager",
+      "count": 1,
+      "median_wage_usd": 159801.45
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "WI",
+      "county": "DANE",
+      "count": 4
+    }
+  ],
+  "top_states": [
+    {
+      "state": "WI",
+      "count": 4
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 116980.88,
+    "gap_usd": -13179.12
+  }
+}

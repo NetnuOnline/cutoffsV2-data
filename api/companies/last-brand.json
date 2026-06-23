@@ -1,0 +1,94 @@
+{
+  "slug": "last-brand",
+  "canonical_name": "Last Brand, Inc.",
+  "fein": "83-2818432",
+  "lca_filing_count": 10,
+  "lca_worker_positions": 10,
+  "warn_notice_count": 0,
+  "median_wage_usd": 169000.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 7,
+      "median_wage_usd": 175000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 202500.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Data Analyst",
+      "count": 4,
+      "median_wage_usd": 162500.0
+    },
+    {
+      "title": "Lead Data Analyst, Growth",
+      "count": 2,
+      "median_wage_usd": 180000.0
+    },
+    {
+      "title": "Strategic Finance & Business Operations Associate",
+      "count": 1,
+      "median_wage_usd": 163000.0
+    },
+    {
+      "title": "Senior Data Analyst, Storefront",
+      "count": 1,
+      "median_wage_usd": 215000.0
+    },
+    {
+      "title": "Senior Machine Learning Engineer",
+      "count": 1,
+      "median_wage_usd": 265000.0
+    },
+    {
+      "title": "Retention Marketing Manager",
+      "count": 1,
+      "median_wage_usd": 120000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SAN BERNARDINO",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 6
+    },
+    {
+      "state": "MA",
+      "count": 2
+    },
+    {
+      "state": "WA",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1161",
+    "soc_title": "Market Research Analysts and Marketing Specialists",
+    "market_median_usd": 74680.0,
+    "employer_median_usd": 157500.0,
+    "gap_usd": 82820.0
+  }
+}

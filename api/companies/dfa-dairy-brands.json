@@ -1,0 +1,69 @@
+{
+  "slug": "dfa-dairy-brands",
+  "canonical_name": "DFA Dairy Brands",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 4,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "NC",
+      "count": 1
+    },
+    {
+      "state": "MD",
+      "count": 1
+    },
+    {
+      "state": "TN",
+      "count": 1
+    },
+    {
+      "state": "IN",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "02/08/2023",
+      "effective_date": "04/21/2023",
+      "state": "NC",
+      "workers": 78,
+      "city": "2221 Patterson Avenue, Winston Salem"
+    },
+    {
+      "date": "04/12/2022",
+      "effective_date": "06/12/2022",
+      "state": "MD",
+      "workers": 42,
+      "city": "Hyattsville"
+    },
+    {
+      "date": "12/14/2021",
+      "effective_date": "02/11/2022",
+      "state": "TN",
+      "workers": 103,
+      "city": "Davidson County"
+    },
+    {
+      "date": "06/11/2021",
+      "effective_date": "12/31/2021",
+      "state": "IN",
+      "workers": 176,
+      "city": "Decatur"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "prince-georges-wia",
+      "name": "Prince George's WIA",
+      "state": "MD"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

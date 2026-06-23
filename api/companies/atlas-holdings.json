@@ -1,0 +1,68 @@
+{
+  "slug": "atlas-holdings",
+  "canonical_name": "Atlas Holdings",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 5,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 3
+    },
+    {
+      "state": "OR",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "01/24/2025",
+      "effective_date": "05/09/2025",
+      "state": "CA",
+      "workers": 9,
+      "city": "Turlock"
+    },
+    {
+      "date": "01/24/2025",
+      "effective_date": "05/09/2025",
+      "state": "CA",
+      "workers": 25,
+      "city": "Turlock"
+    },
+    {
+      "date": "01/24/2025",
+      "effective_date": "05/09/2025",
+      "state": "CA",
+      "workers": 478,
+      "city": "Turlock"
+    },
+    {
+      "date": "08/03/2006",
+      "effective_date": "04/28/2007",
+      "state": "OR",
+      "workers": 15,
+      "city": "Creswell"
+    },
+    {
+      "date": "08/03/2006",
+      "effective_date": "08/04/2006",
+      "state": "OR",
+      "workers": 53,
+      "city": "Creswell"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "stanislaus-county-wib",
+      "name": "Stanislaus County WIB",
+      "state": "CA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

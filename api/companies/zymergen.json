@@ -1,0 +1,221 @@
+{
+  "slug": "zymergen",
+  "canonical_name": "Zymergen Inc.",
+  "fein": null,
+  "lca_filing_count": 20,
+  "warn_notice_count": 5,
+  "median_wage_usd": 126000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 9,
+      "median_wage_usd": 126000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 8,
+      "median_wage_usd": 128000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 3,
+      "median_wage_usd": 130000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Data Engineer",
+      "count": 3,
+      "median_wage_usd": 126000.0
+    },
+    {
+      "title": "Bioinformatics Engineer I",
+      "count": 2,
+      "median_wage_usd": 124000.0
+    },
+    {
+      "title": "Bioinformatics Engineer II",
+      "count": 2,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Scientist I",
+      "count": 2,
+      "median_wage_usd": 101000.0
+    },
+    {
+      "title": "Business Development Manager, Accounts",
+      "count": 1,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "title": "Manufacturing Engineer III",
+      "count": 1,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "title": "Senior Mechatronics Engineer",
+      "count": 1,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "title": "Scientist II",
+      "count": 1,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "title": "Workday Developer",
+      "count": 1,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "title": "Data Scientist II",
+      "count": 1,
+      "median_wage_usd": 140000.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 19
+    },
+    {
+      "state": "FL",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 16
+    },
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 3
+    },
+    {
+      "state": "FL",
+      "county": "SEMINOLE",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "01/20/2023",
+      "effective_date": "06/20/2023",
+      "state": "CA",
+      "workers": 27,
+      "city": "Emeryville"
+    },
+    {
+      "date": "08/03/2022",
+      "effective_date": "10/24/2022",
+      "state": "CA",
+      "workers": 80,
+      "city": "Emeryville"
+    },
+    {
+      "date": "04/08/2022",
+      "effective_date": "12/19/2022",
+      "state": "CA",
+      "workers": 110,
+      "city": "Emeryville"
+    },
+    {
+      "date": "09/23/2021",
+      "effective_date": "11/22/2021",
+      "state": "CA",
+      "workers": 106,
+      "city": "Emeryville"
+    },
+    {
+      "date": "05/15/2020",
+      "effective_date": "05/15/2020",
+      "state": "CA",
+      "workers": 76,
+      "city": "Emeryville"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 24,
+    "initial_denials": 1,
+    "continuing_approvals": 26,
+    "continuing_denials": 2,
+    "total_approvals": 50,
+    "by_fy": [
+      {
+        "fy": 2015,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2016,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2017,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 8,
+        "initial_denials": 1,
+        "continuing_approvals": 9,
+        "continuing_denials": 0,
+        "total_approvals": 17
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 11,
+        "initial_denials": 0,
+        "continuing_approvals": 9,
+        "continuing_denials": 0,
+        "total_approvals": 20
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 5,
+        "initial_denials": 0,
+        "continuing_approvals": 8,
+        "continuing_denials": 2,
+        "total_approvals": 13
+      }
+    ]
+  },
+  "lca_worker_positions": 21,
+  "top_socs": [],
+  "lca_periods": []
+}

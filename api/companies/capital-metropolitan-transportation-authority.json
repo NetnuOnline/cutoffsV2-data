@@ -1,0 +1,87 @@
+{
+  "slug": "capital-metropolitan-transportation-authority",
+  "canonical_name": "Capital Metropolitan Transportation Authority",
+  "fein": "74-2355740",
+  "lca_filing_count": 6,
+  "lca_worker_positions": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 93746.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 73029.0
+    },
+    {
+      "fy": 2022,
+      "filings": 3,
+      "median_wage_usd": 100693.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 86799.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 103299.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Business Intelligence Developer and Operations Analyst",
+      "count": 1,
+      "median_wage_usd": 70500.0
+    },
+    {
+      "title": "Information Systems Security Analyst II",
+      "count": 1,
+      "median_wage_usd": 103299.0
+    },
+    {
+      "title": "Application Systems Analyst II",
+      "count": 1,
+      "median_wage_usd": 86799.0
+    },
+    {
+      "title": "Application Systems Analyst-Sharepoint",
+      "count": 1,
+      "median_wage_usd": 101000.0
+    },
+    {
+      "title": "APPLICATION SYSTEMS ANALYST II",
+      "count": 1,
+      "median_wage_usd": 100693.0
+    },
+    {
+      "title": "Business Systems Analyst II",
+      "count": 1,
+      "median_wage_usd": 73029.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 4
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 6
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1211",
+    "soc_title": "Computer Systems Analysts",
+    "market_median_usd": 103800.0,
+    "employer_median_usd": 100693.0,
+    "gap_usd": -3107.0
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "slug": "resideo",
+  "canonical_name": "RESIDEO LLC",
+  "fein": "82-4851425",
+  "lca_filing_count": 6,
+  "lca_worker_positions": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 154233.5,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 122920.0
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 173474.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "PRINCIPAL AIR FIRE SAFETY R&D ENGINEER",
+      "count": 1,
+      "median_wage_usd": 187000.0
+    },
+    {
+      "title": "SR. MANAGER INFORMATION TECHNOLOGY",
+      "count": 1,
+      "median_wage_usd": 173474.0
+    },
+    {
+      "title": "SENIOR SOFTWARE ENGINEER",
+      "count": 1,
+      "median_wage_usd": 122389.0
+    },
+    {
+      "title": "SOFTWARE ENGINEERING SUPERVISOR",
+      "count": 1,
+      "median_wage_usd": 143467.0
+    },
+    {
+      "title": "SENIOR FIRMWARE ENGINEER",
+      "count": 1,
+      "median_wage_usd": 165000.0
+    },
+    {
+      "title": "FIRMWARE ENGINEER II",
+      "count": 1,
+      "median_wage_usd": 122920.0
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "count": 1
+    },
+    {
+      "state": "UT",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 122920.0,
+    "gap_usd": -7240.0
+  }
+}

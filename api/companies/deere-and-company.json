@@ -1,0 +1,235 @@
+{
+  "slug": "deere-and-company",
+  "canonical_name": "Deere and Company",
+  "fein": null,
+  "lca_filing_count": 125,
+  "warn_notice_count": 0,
+  "median_wage_usd": 110000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 20,
+      "median_wage_usd": 97000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 28,
+      "median_wage_usd": 96550.0
+    },
+    {
+      "fy": 2022,
+      "filings": 75,
+      "median_wage_usd": 115000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 37,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 18,
+      "median_wage_usd": 118000.0
+    },
+    {
+      "title": "Sr. Software Engineer",
+      "count": 6,
+      "median_wage_usd": 125950.0
+    },
+    {
+      "title": "Staff Software Engineer",
+      "count": 6,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "title": "Senior Software Analyst",
+      "count": 2,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "Engine Performance Analyst TDP",
+      "count": 2,
+      "median_wage_usd": 80000.0
+    },
+    {
+      "title": "Analytics Implementation Engineer",
+      "count": 2,
+      "median_wage_usd": 85000.0
+    },
+    {
+      "title": "Software Engineer \u2013 Reporting & Analytics",
+      "count": 2,
+      "median_wage_usd": 101740.0
+    },
+    {
+      "title": "Senior Software Engineer (CA)",
+      "count": 2,
+      "median_wage_usd": 102500.0
+    },
+    {
+      "title": "Embedded Software Engineer",
+      "count": 2,
+      "median_wage_usd": 101000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IL",
+      "county": "ROCK ISLAND",
+      "count": 83
+    },
+    {
+      "state": "IA",
+      "county": "POLK",
+      "count": 12
+    },
+    {
+      "state": "IA",
+      "county": "BLACK HAWK",
+      "count": 11
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 4
+    },
+    {
+      "state": "NC",
+      "county": "WAKE",
+      "count": 3
+    },
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 3
+    },
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 1
+    },
+    {
+      "state": "IA",
+      "county": "DALLAS",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "county": "DUPAGE",
+      "count": 1
+    },
+    {
+      "state": "LA",
+      "county": "LAFOURCHE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 88
+    },
+    {
+      "state": "IA",
+      "count": 25
+    },
+    {
+      "state": "CA",
+      "count": 4
+    },
+    {
+      "state": "NC",
+      "count": 3
+    },
+    {
+      "state": "LA",
+      "count": 1
+    },
+    {
+      "state": "IN",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    },
+    {
+      "state": "ND",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 39,
+    "initial_denials": 2,
+    "continuing_approvals": 534,
+    "continuing_denials": 2,
+    "total_approvals": 573,
+    "by_fy": [
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 7,
+        "initial_denials": 0,
+        "continuing_approvals": 153,
+        "continuing_denials": 0,
+        "total_approvals": 160
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 10,
+        "initial_denials": 0,
+        "continuing_approvals": 99,
+        "continuing_denials": 0,
+        "total_approvals": 109
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 20,
+        "initial_denials": 2,
+        "continuing_approvals": 181,
+        "continuing_denials": 1,
+        "total_approvals": 201
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 101,
+        "continuing_denials": 1,
+        "total_approvals": 103
+      }
+    ]
+  },
+  "lca_worker_positions": 123,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 120000.0,
+    "gap_usd": -10160.0
+  }
+}

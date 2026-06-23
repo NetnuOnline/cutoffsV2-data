@@ -1,0 +1,86 @@
+{
+  "slug": "lusso",
+  "canonical_name": "LUSSO INC",
+  "fein": "82-1570526",
+  "lca_filing_count": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 84822.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 91728.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 81588.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Interior Designer",
+      "count": 1,
+      "median_wage_usd": 84822.0
+    },
+    {
+      "title": "Drafter",
+      "count": 1,
+      "median_wage_usd": 78354.0
+    },
+    {
+      "title": "Market Analyst",
+      "count": 1,
+      "median_wage_usd": 91728.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 4,
+    "initial_denials": 0,
+    "continuing_approvals": 0,
+    "continuing_denials": 0,
+    "total_approvals": 4,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 3,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1161",
+    "soc_title": "Market Research Analysts and Marketing Specialists",
+    "market_median_usd": 74680.0,
+    "employer_median_usd": 91728.0,
+    "gap_usd": 17048.0
+  }
+}

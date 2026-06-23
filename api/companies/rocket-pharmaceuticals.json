@@ -1,0 +1,166 @@
+{
+  "slug": "rocket-pharmaceuticals",
+  "canonical_name": "Rocket Pharmaceuticals, Inc.",
+  "fein": "04-3475813",
+  "lca_filing_count": 4,
+  "warn_notice_count": 1,
+  "median_wage_usd": 151650.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 168300.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 193640.2
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Project Manager , CMC",
+      "count": 1,
+      "median_wage_usd": 168300.0
+    },
+    {
+      "title": "Associate Director, CMC Project Management",
+      "count": 1,
+      "median_wage_usd": 193640.2
+    },
+    {
+      "title": "Validation Engineer III",
+      "count": 1,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "title": "Project Manager, CMC",
+      "count": 1,
+      "median_wage_usd": 115000.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 4
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NJ",
+      "county": "MIDDLESEX",
+      "count": 3
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "01/23/2025",
+      "effective_date": "01/23/2025",
+      "state": "NJ",
+      "workers": 80,
+      "city": "Cranbury"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "mercer-wib",
+      "name": "Mercer WIB",
+      "state": "NJ"
+    }
+  ],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2025-07-23",
+        "formType": "8-K",
+        "accessionNumber": "0001140361-25-026946",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001281895&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2016-04-04",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-16-529531",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001281895&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2015-10-23",
+        "formType": "8-K/A",
+        "accessionNumber": "0001193125-15-351977",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001281895&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 3,
+    "itemCounts": {
+      "2.05": 1,
+      "5.02": 2
+    },
+    "latestFilingDate": "2025-07-23",
+    "earliestFilingDate": "2015-10-23"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 3,
+    "continuing_denials": 0,
+    "total_approvals": 3,
+    "by_fy": [
+      {
+        "fy": 2020,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": []
+}

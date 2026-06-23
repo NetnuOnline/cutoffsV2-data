@@ -1,0 +1,123 @@
+{
+  "slug": "ritwik-infotech",
+  "canonical_name": "RITWIK Infotech Inc",
+  "fein": "35-2551741",
+  "lca_filing_count": 7,
+  "lca_worker_positions": 7,
+  "warn_notice_count": 0,
+  "median_wage_usd": 101109.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 79248.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 120390.5
+    },
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 94994.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 102190.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Oracle Developer",
+      "count": 2,
+      "median_wage_usd": 84531.5
+    },
+    {
+      "title": "PL/SQL Developer",
+      "count": 1,
+      "median_wage_usd": 101109.0
+    },
+    {
+      "title": "Software Application Developer",
+      "count": 1,
+      "median_wage_usd": 139589.0
+    },
+    {
+      "title": "PeopleSoft HCM Developer",
+      "count": 1,
+      "median_wage_usd": 102190.0
+    },
+    {
+      "title": "Senior Lead Consultant",
+      "count": 1,
+      "median_wage_usd": 101192.0
+    },
+    {
+      "title": "Systems Engineer",
+      "count": 1,
+      "median_wage_usd": 79248.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "ME",
+      "county": "AUGUSTA CITY",
+      "count": 2
+    },
+    {
+      "state": "MD",
+      "county": "MONTGOMERY",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "county": "MIAMI-DADE",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "county": "OAKLAND",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "ME",
+      "count": 2
+    },
+    {
+      "state": "MI",
+      "count": 2
+    },
+    {
+      "state": "FL",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "MD",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 101150.5,
+    "gap_usd": -29009.5
+  }
+}

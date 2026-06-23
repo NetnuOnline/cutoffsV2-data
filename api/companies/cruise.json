@@ -1,0 +1,203 @@
+{
+  "slug": "cruise",
+  "canonical_name": "Cruise LLC",
+  "fein": "38-3995716",
+  "lca_filing_count": 276,
+  "lca_worker_positions": 319,
+  "warn_notice_count": 0,
+  "median_wage_usd": 195000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 28,
+      "median_wage_usd": 179330.0
+    },
+    {
+      "fy": 2021,
+      "filings": 74,
+      "median_wage_usd": 190000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 44,
+      "median_wage_usd": 200000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 69,
+      "median_wage_usd": 195000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 38,
+      "median_wage_usd": 195400.0
+    },
+    {
+      "fy": 2025,
+      "filings": 16,
+      "median_wage_usd": 219825.0
+    },
+    {
+      "fy": 2026,
+      "filings": 5,
+      "median_wage_usd": 235421.1,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Software Engineer",
+      "count": 26,
+      "median_wage_usd": 169331.0
+    },
+    {
+      "title": "Senior Machine Learning Engineer",
+      "count": 9,
+      "median_wage_usd": 220000.0
+    },
+    {
+      "title": "Senior Software Engineer II",
+      "count": 8,
+      "median_wage_usd": 197404.5
+    },
+    {
+      "title": "Senior ML/Robotics Engineer",
+      "count": 6,
+      "median_wage_usd": 196040.0
+    },
+    {
+      "title": "Senior Applied Research Scientist",
+      "count": 5,
+      "median_wage_usd": 230000.0
+    },
+    {
+      "title": "Senior Software Engineer, Machine Learning Infrastructure",
+      "count": 4,
+      "median_wage_usd": 227500.0
+    },
+    {
+      "title": "Senior ML Systems Engineer II",
+      "count": 4,
+      "median_wage_usd": 234300.0
+    },
+    {
+      "title": "Staff Machine Learning Engineer",
+      "count": 4,
+      "median_wage_usd": 289200.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 3,
+      "median_wage_usd": 155605.0
+    },
+    {
+      "title": "Senior Data Scientist, Analytics",
+      "count": 3,
+      "median_wage_usd": 180000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 235
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 8
+    },
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 2
+    },
+    {
+      "state": "MI",
+      "county": "OAKLAND",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 2
+    },
+    {
+      "state": "OR",
+      "county": "BENTON",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "county": "ALLEGHENY",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SAN BERNARDINO",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 256
+    },
+    {
+      "state": "WA",
+      "count": 9
+    },
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "MI",
+      "count": 2
+    },
+    {
+      "state": "PA",
+      "count": 2
+    },
+    {
+      "state": "MA",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "count": 1
+    },
+    {
+      "state": "NV",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    },
+    {
+      "state": "OR",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 196550.0,
+    "gap_usd": 66390.0
+  }
+}

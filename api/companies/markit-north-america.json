@@ -1,0 +1,203 @@
+{
+  "slug": "markit-north-america",
+  "canonical_name": "Markit North America, Inc.",
+  "fein": "13-4153988",
+  "lca_filing_count": 119,
+  "lca_worker_positions": 119,
+  "warn_notice_count": 0,
+  "median_wage_usd": 115000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 20,
+      "median_wage_usd": 112653.0
+    },
+    {
+      "fy": 2021,
+      "filings": 18,
+      "median_wage_usd": 85493.5
+    },
+    {
+      "fy": 2022,
+      "filings": 28,
+      "median_wage_usd": 113800.0
+    },
+    {
+      "fy": 2023,
+      "filings": 17,
+      "median_wage_usd": 107640.0
+    },
+    {
+      "fy": 2024,
+      "filings": 11,
+      "median_wage_usd": 144076.0
+    },
+    {
+      "fy": 2025,
+      "filings": 15,
+      "median_wage_usd": 127449.0
+    },
+    {
+      "fy": 2026,
+      "filings": 10,
+      "median_wage_usd": 132740.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 22,
+      "median_wage_usd": 118456.0
+    },
+    {
+      "title": "SOFTWARE ENGINEER",
+      "count": 14,
+      "median_wage_usd": 114930.5
+    },
+    {
+      "title": "SQA Engineer",
+      "count": 7,
+      "median_wage_usd": 105000.0
+    },
+    {
+      "title": "Implementation Consulting Associate Director",
+      "count": 2,
+      "median_wage_usd": 148260.55
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 2,
+      "median_wage_usd": 120443.87
+    },
+    {
+      "title": "Product Analysis & Design Principal",
+      "count": 2,
+      "median_wage_usd": 89250.0
+    },
+    {
+      "title": "Lead, Database Engineering",
+      "count": 2,
+      "median_wage_usd": 152608.5
+    },
+    {
+      "title": "Sales Specialist ",
+      "count": 2,
+      "median_wage_usd": 68000.0
+    },
+    {
+      "title": "Lead Software Engineer",
+      "count": 2,
+      "median_wage_usd": 195457.5
+    },
+    {
+      "title": "Research Analyst",
+      "count": 2,
+      "median_wage_usd": 90733.5
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 34
+    },
+    {
+      "state": "NC",
+      "county": "WAKE",
+      "count": 17
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 14
+    },
+    {
+      "state": "CO",
+      "county": "BOULDER",
+      "count": 8
+    },
+    {
+      "state": "MA",
+      "county": "ESSEX",
+      "count": 7
+    },
+    {
+      "state": "IL",
+      "county": "DUPAGE",
+      "count": 4
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 3
+    },
+    {
+      "state": "CO",
+      "county": "ARAPAHOE",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "county": "MERCER",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 36
+    },
+    {
+      "state": "NC",
+      "count": 25
+    },
+    {
+      "state": "TX",
+      "count": 21
+    },
+    {
+      "state": "MA",
+      "count": 12
+    },
+    {
+      "state": "CO",
+      "count": 10
+    },
+    {
+      "state": "IL",
+      "count": 7
+    },
+    {
+      "state": "GA",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "count": 2
+    },
+    {
+      "state": "MO",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 129424.0,
+    "gap_usd": -736.0
+  }
+}

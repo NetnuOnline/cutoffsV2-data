@@ -1,0 +1,73 @@
+{
+  "slug": "headstream-technologies",
+  "canonical_name": "Headstream Technologies, LLC",
+  "fein": "61-1802504",
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 113609.6,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 110448.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 116771.2
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior .NET Developer",
+      "count": 1,
+      "median_wage_usd": 116771.2
+    },
+    {
+      "title": "Sr. .NET Developer",
+      "count": 1,
+      "median_wage_usd": 110448.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "FL",
+      "county": "HILLSBOROUGH",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "FL",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 0,
+    "continuing_denials": 0,
+    "total_approvals": 1,
+    "by_fy": [
+      {
+        "fy": 2021,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 113609.6,
+    "gap_usd": -16550.4
+  }
+}

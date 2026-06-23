@@ -1,0 +1,43 @@
+{
+  "slug": "actionmed-personnel",
+  "canonical_name": "ActionMed Personnel",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "09/01/2018",
+      "effective_date": "09/01/2018",
+      "state": "GA",
+      "workers": 265,
+      "city": "Thomasville"
+    },
+    {
+      "date": "01/24/2012",
+      "effective_date": "01/24/2012",
+      "state": "GA",
+      "workers": 280,
+      "city": "Calhoun"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "southwest-georgia-wib",
+      "name": "Southwest Georgia WIB",
+      "state": "GA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

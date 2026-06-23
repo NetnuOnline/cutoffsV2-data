@@ -1,0 +1,115 @@
+{
+  "slug": "naco-industries",
+  "canonical_name": "NACO Industries",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 1,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "KS",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "07/21/2006",
+      "effective_date": "07/21/2006",
+      "state": "KS",
+      "workers": 19,
+      "city": "1 - Workforce Investment Area I"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2017-10-05",
+        "formType": "8-K",
+        "accessionNumber": "0000789933-17-000056",
+        "items": [
+          "2.05",
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities",
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000789933&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2015-08-05",
+        "formType": "8-K",
+        "accessionNumber": "0000789933-15-000047",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000789933&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2015-02-13",
+        "formType": "8-K",
+        "accessionNumber": "0000789933-15-000002",
+        "items": [
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000789933&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2012-10-04",
+        "formType": "8-K",
+        "accessionNumber": "0000789933-12-000121",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000789933&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2009-10-06",
+        "formType": "8-K",
+        "accessionNumber": "0000950123-09-048554",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000789933&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2007-08-14",
+        "formType": "8-K",
+        "accessionNumber": "0000950152-07-006828",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000789933&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 6,
+    "itemCounts": {
+      "2.05": 5,
+      "5.02": 1,
+      "2.06": 1
+    },
+    "latestFilingDate": "2017-10-05",
+    "earliestFilingDate": "2007-08-14"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

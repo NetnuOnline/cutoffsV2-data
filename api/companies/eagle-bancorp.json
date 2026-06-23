@@ -1,0 +1,61 @@
+{
+  "slug": "eagle-bancorp",
+  "canonical_name": "Eagle Bancorp, Inc.",
+  "fein": "52-2099123",
+  "lca_filing_count": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 118123.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 82451.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 123687.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Business Process and Integration Analyst",
+      "count": 1,
+      "median_wage_usd": 118123.0
+    },
+    {
+      "title": "Data Engineer",
+      "count": 1,
+      "median_wage_usd": 129251.0
+    },
+    {
+      "title": "Information Security Analyst",
+      "count": 1,
+      "median_wage_usd": 82451.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MD",
+      "county": "MONTGOMERY",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MD",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Information Security Engineers",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 82451.0,
+    "gap_usd": -35549.0
+  }
+}

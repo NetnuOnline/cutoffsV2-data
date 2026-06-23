@@ -1,0 +1,60 @@
+{
+  "slug": "fetch",
+  "canonical_name": "Fetch, Inc.",
+  "fein": "13-4264009",
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 157485.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 164970.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Lead Developer/Arch-Microservices & BAU",
+      "count": 1,
+      "median_wage_usd": 164970.0
+    },
+    {
+      "title": "Director, Operational Quality and System Reconciliation ",
+      "count": 1,
+      "median_wage_usd": 150000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3021",
+    "soc_title": "Computer and Information Systems Managers",
+    "market_median_usd": 169510.0,
+    "employer_median_usd": 150000.0,
+    "gap_usd": -19510.0
+  }
+}

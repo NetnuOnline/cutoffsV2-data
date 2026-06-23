@@ -1,0 +1,144 @@
+{
+  "slug": "s4soft",
+  "canonical_name": "S4Soft Inc",
+  "fein": "47-1790869",
+  "lca_filing_count": 27,
+  "lca_worker_positions": 25,
+  "warn_notice_count": 0,
+  "median_wage_usd": 100048.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 5,
+      "median_wage_usd": 80850.0
+    },
+    {
+      "fy": 2023,
+      "filings": 7,
+      "median_wage_usd": 76648.0
+    },
+    {
+      "fy": 2024,
+      "filings": 9,
+      "median_wage_usd": 106000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 4,
+      "median_wage_usd": 104333.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Power BI Developer",
+      "count": 3,
+      "median_wage_usd": 82472.0
+    },
+    {
+      "title": "CLOUD ENGINEER",
+      "count": 3,
+      "median_wage_usd": 106000.0
+    },
+    {
+      "title": "Senior Database Administrator",
+      "count": 3,
+      "median_wage_usd": 104333.0
+    },
+    {
+      "title": "Database Administrator",
+      "count": 2,
+      "median_wage_usd": 95014.5
+    },
+    {
+      "title": "AWS Cloud Engineer",
+      "count": 2,
+      "median_wage_usd": 89877.0
+    },
+    {
+      "title": "DATA ENGINEER",
+      "count": 2,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Senior Software Developer",
+      "count": 1,
+      "median_wage_usd": 80850.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 1,
+      "median_wage_usd": 105997.0
+    },
+    {
+      "title": "SQL Server DBA",
+      "count": 1,
+      "median_wage_usd": 76378.0
+    },
+    {
+      "title": "Systems/Software Engineer",
+      "count": 1,
+      "median_wage_usd": 101192.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 9
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 6
+    },
+    {
+      "state": "MI",
+      "county": "OAKLAND",
+      "count": 3
+    },
+    {
+      "state": "TN",
+      "county": "SHELBY",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "TAYLOR",
+      "count": 1
+    },
+    {
+      "state": "MO",
+      "county": "ST LOUIS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 21
+    },
+    {
+      "state": "MI",
+      "count": 3
+    },
+    {
+      "state": "TN",
+      "count": 2
+    },
+    {
+      "state": "MO",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 98904.0,
+    "gap_usd": -31256.0
+  }
+}

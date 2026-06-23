@@ -1,0 +1,98 @@
+{
+  "slug": "redvector-com",
+  "canonical_name": "RedVector.com LLC",
+  "fein": "80-0970516",
+  "lca_filing_count": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 115000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 127080.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 153046.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 90355.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Software Developer",
+      "count": 2,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "title": "Software Engineer II",
+      "count": 1,
+      "median_wage_usd": 90355.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 1,
+      "median_wage_usd": 127080.0
+    },
+    {
+      "title": "Director, Software Engineering",
+      "count": 1,
+      "median_wage_usd": 153046.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "PA",
+      "county": "PHILADELPHIA",
+      "count": 2
+    },
+    {
+      "state": "DE",
+      "county": "NEW CASTLE",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "county": "HUDSON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "PA",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    },
+    {
+      "state": "DE",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 108717.5,
+    "gap_usd": -21442.5
+  }
+}

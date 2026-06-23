@@ -1,0 +1,106 @@
+{
+  "slug": "chugh-cpas-llp",
+  "canonical_name": "CHUGH CPAS, LLP",
+  "fein": "47-2202224",
+  "lca_filing_count": 14,
+  "lca_worker_positions": 13,
+  "warn_notice_count": 0,
+  "median_wage_usd": 71250.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 3,
+      "median_wage_usd": 59000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 5,
+      "median_wage_usd": 67500.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 77500.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 94835.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 126000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 95000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "ACCOUNTANT",
+      "count": 8,
+      "median_wage_usd": 71250.0
+    },
+    {
+      "title": "CERTIFIED PUBLIC ACCOUNTANT",
+      "count": 3,
+      "median_wage_usd": 48173.0
+    },
+    {
+      "title": "Senior Accountant",
+      "count": 1,
+      "median_wage_usd": 78500.0
+    },
+    {
+      "title": "SENIOR ACCOUNTANT",
+      "count": 1,
+      "median_wage_usd": 126000.0
+    },
+    {
+      "title": "STAFF ACCOUNTANT",
+      "count": 1,
+      "median_wage_usd": 95000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 8
+    },
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 3
+    },
+    {
+      "state": "NJ",
+      "county": "MIDDLESEX",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 13
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-2011",
+    "soc_title": "Accountants and Auditors",
+    "market_median_usd": 79000.0,
+    "employer_median_usd": 75000.0,
+    "gap_usd": -4000.0
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "slug": "laidlaw-corp",
+  "canonical_name": "Laidlaw Corp",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 3,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 3
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "07/12/2006",
+      "effective_date": "01/01/2007",
+      "state": "IL",
+      "workers": 5,
+      "city": "Metropolis"
+    },
+    {
+      "date": "07/12/2006",
+      "effective_date": "09/01/2006",
+      "state": "IL",
+      "workers": 64,
+      "city": "Metropolis"
+    },
+    {
+      "date": "07/12/2006",
+      "effective_date": "07/01/2006",
+      "state": "IL",
+      "workers": 10,
+      "city": "Metropolis"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "southern-14-wib",
+      "name": "Southern 14 WIB",
+      "state": "IL"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

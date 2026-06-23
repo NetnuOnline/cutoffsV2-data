@@ -1,0 +1,47 @@
+{
+  "slug": "us-food-service",
+  "canonical_name": "US Food Service",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 1
+    },
+    {
+      "state": "IN",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "12/31/2009",
+      "effective_date": "03/01/2010",
+      "state": "IL",
+      "workers": 72,
+      "city": "Streator"
+    },
+    {
+      "date": "06/23/2009",
+      "effective_date": "10/03/2009",
+      "state": "IN",
+      "workers": 400,
+      "city": "Bloomington"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "economic-growth-region-8",
+      "name": "Economic Growth Region 8",
+      "state": "IN"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

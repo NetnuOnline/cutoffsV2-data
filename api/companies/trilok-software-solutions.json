@@ -1,0 +1,89 @@
+{
+  "slug": "trilok-software-solutions",
+  "canonical_name": "Trilok Software Solutions LLC",
+  "fein": "86-1340824",
+  "lca_filing_count": 6,
+  "lca_worker_positions": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 101472.9,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 101472.9
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 114026.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 101306.5
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 88000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "DevOps Engineer",
+      "count": 4,
+      "median_wage_usd": 94034.5
+    },
+    {
+      "title": "Software Developer",
+      "count": 2,
+      "median_wage_usd": 108451.4
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "VA",
+      "county": "LOUDOUN",
+      "count": 1
+    },
+    {
+      "state": "DE",
+      "county": "NEW CASTLE",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "county": "DEKALB",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 3
+    },
+    {
+      "state": "VA",
+      "count": 1
+    },
+    {
+      "state": "DE",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 101472.9,
+    "gap_usd": -28687.1
+  }
+}

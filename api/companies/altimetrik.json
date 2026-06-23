@@ -1,0 +1,203 @@
+{
+  "slug": "altimetrik",
+  "canonical_name": "Altimetrik Corp.",
+  "fein": "38-3456423",
+  "lca_filing_count": 114,
+  "lca_worker_positions": 114,
+  "warn_notice_count": 0,
+  "median_wage_usd": 108118.5,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 12,
+      "median_wage_usd": 103844.0
+    },
+    {
+      "fy": 2021,
+      "filings": 24,
+      "median_wage_usd": 91416.0
+    },
+    {
+      "fy": 2022,
+      "filings": 18,
+      "median_wage_usd": 98394.5
+    },
+    {
+      "fy": 2023,
+      "filings": 22,
+      "median_wage_usd": 109616.0
+    },
+    {
+      "fy": 2024,
+      "filings": 16,
+      "median_wage_usd": 123656.0
+    },
+    {
+      "fy": 2025,
+      "filings": 17,
+      "median_wage_usd": 114754.0
+    },
+    {
+      "fy": 2026,
+      "filings": 5,
+      "median_wage_usd": 131997.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 18,
+      "median_wage_usd": 93038.5
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 7,
+      "median_wage_usd": 111821.0
+    },
+    {
+      "title": "Lead Software Development Engineer",
+      "count": 5,
+      "median_wage_usd": 92040.0
+    },
+    {
+      "title": "Program Manager",
+      "count": 3,
+      "median_wage_usd": 168624.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 3,
+      "median_wage_usd": 155605.0
+    },
+    {
+      "title": "Systems Analyst",
+      "count": 3,
+      "median_wage_usd": 92560.0
+    },
+    {
+      "title": "Senior Devops Engineer",
+      "count": 2,
+      "median_wage_usd": 123656.0
+    },
+    {
+      "title": "BI Analyst (Technical Data Analyst)",
+      "count": 2,
+      "median_wage_usd": 124010.0
+    },
+    {
+      "title": "Lead Software Development Engineer ",
+      "count": 2,
+      "median_wage_usd": 84802.0
+    },
+    {
+      "title": "Senior Engineer",
+      "count": 2,
+      "median_wage_usd": 96688.5
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MI",
+      "county": "WAYNE",
+      "count": 22
+    },
+    {
+      "state": "NJ",
+      "county": "HUDSON",
+      "count": 20
+    },
+    {
+      "state": "MO",
+      "county": "ST CHARLES",
+      "count": 9
+    },
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 9
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 4
+    },
+    {
+      "state": "NJ",
+      "county": "MERCER",
+      "count": 4
+    },
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 3
+    },
+    {
+      "state": "UT",
+      "county": "UTAH",
+      "count": 3
+    },
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 3
+    },
+    {
+      "state": "DE",
+      "county": "NEW CASTLE",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 29
+    },
+    {
+      "state": "MI",
+      "count": 25
+    },
+    {
+      "state": "TX",
+      "count": 18
+    },
+    {
+      "state": "CA",
+      "count": 12
+    },
+    {
+      "state": "MO",
+      "count": 11
+    },
+    {
+      "state": "AZ",
+      "count": 5
+    },
+    {
+      "state": "UT",
+      "count": 3
+    },
+    {
+      "state": "NY",
+      "count": 2
+    },
+    {
+      "state": "PA",
+      "count": 2
+    },
+    {
+      "state": "DE",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 111072.0,
+    "gap_usd": -19088.0
+  }
+}

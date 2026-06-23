@@ -1,0 +1,47 @@
+{
+  "slug": "sdh-service-east",
+  "canonical_name": "SDH Service East, LLC",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "11/14/2025",
+      "effective_date": "01/31/2026",
+      "state": "GA",
+      "workers": 67,
+      "city": "3651 Wheeler Rd, Augusta, Georgia"
+    },
+    {
+      "date": "11/25/2024",
+      "effective_date": "01/23/2024",
+      "state": "TX",
+      "workers": 166,
+      "city": "San Antonio"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "alamo-wda",
+      "name": "Alamo WDA",
+      "state": "TX"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

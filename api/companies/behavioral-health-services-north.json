@@ -1,0 +1,57 @@
+{
+  "slug": "behavioral-health-services-north",
+  "canonical_name": "Behavioral Health Services North",
+  "fein": "14-1338346",
+  "lca_filing_count": 4,
+  "lca_worker_positions": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 55432.0,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 55432.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 55432.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Clinician",
+      "count": 2,
+      "median_wage_usd": 55349.0
+    },
+    {
+      "title": "EHR Support Technician",
+      "count": 2,
+      "median_wage_usd": 55515.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "CLINTON",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 4
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Clinical Data Managers",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 55515.0,
+    "gap_usd": -52505.0
+  }
+}

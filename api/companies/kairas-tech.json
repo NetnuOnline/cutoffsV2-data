@@ -1,0 +1,115 @@
+{
+  "slug": "kairas-tech",
+  "canonical_name": "Kairas Tech LLC",
+  "fein": "83-1554138",
+  "lca_filing_count": 28,
+  "lca_worker_positions": 28,
+  "warn_notice_count": 0,
+  "median_wage_usd": 82056.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 22,
+      "median_wage_usd": 82056.0
+    },
+    {
+      "fy": 2024,
+      "filings": 4,
+      "median_wage_usd": 90265.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 100287.2,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 14,
+      "median_wage_usd": 82056.0
+    },
+    {
+      "title": "Computer Programmer ",
+      "count": 4,
+      "median_wage_usd": 77800.0
+    },
+    {
+      "title": "SOFTWARE ENGINEER",
+      "count": 3,
+      "median_wage_usd": 82056.0
+    },
+    {
+      "title": "Computer programmer ",
+      "count": 2,
+      "median_wage_usd": 77800.0
+    },
+    {
+      "title": "SOFTWARE DEVELOPER",
+      "count": 1,
+      "median_wage_usd": 82056.0
+    },
+    {
+      "title": "DevOps Engineer",
+      "count": 1,
+      "median_wage_usd": 84000.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 87651.2
+    },
+    {
+      "title": "SOFTWARE ENGINEER\t    ",
+      "count": 1,
+      "median_wage_usd": 82056.0
+    },
+    {
+      "title": "Oracle OIC Programmer",
+      "count": 1,
+      "median_wage_usd": 85530.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 22
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 3
+    },
+    {
+      "state": "FL",
+      "county": "ORANGE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 26
+    },
+    {
+      "state": "FL",
+      "count": 1
+    },
+    {
+      "state": "AZ",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 82056.0,
+    "gap_usd": -48104.0
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "slug": "zappos-com",
+  "canonical_name": "Zappos.com LLC",
+  "fein": "27-1290998",
+  "lca_filing_count": 30,
+  "lca_worker_positions": 39,
+  "warn_notice_count": 0,
+  "median_wage_usd": 155000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 500000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 3,
+      "median_wage_usd": 145000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 5,
+      "median_wage_usd": 173040.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 157700.0
+    },
+    {
+      "fy": 2026,
+      "filings": 17,
+      "median_wage_usd": 155000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Development Engineer II",
+      "count": 6,
+      "median_wage_usd": 165400.0
+    },
+    {
+      "title": "Business Intelligence Engineer II",
+      "count": 3,
+      "median_wage_usd": 153300.0
+    },
+    {
+      "title": "SAP Applications Software Developer",
+      "count": 2,
+      "median_wage_usd": 145000.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 2,
+      "median_wage_usd": 155000.0
+    },
+    {
+      "title": "Applications Software Engineer",
+      "count": 2,
+      "median_wage_usd": 165270.0
+    },
+    {
+      "title": "Business Analyst II",
+      "count": 1,
+      "median_wage_usd": 103000.0
+    },
+    {
+      "title": "Front-End Engineer I",
+      "count": 1,
+      "median_wage_usd": 135900.0
+    },
+    {
+      "title": "Applications Software Developer",
+      "count": 1,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "title": "Data Engineer I",
+      "count": 1,
+      "median_wage_usd": 125816.0
+    },
+    {
+      "title": "Full Stack Software Developer",
+      "count": 1,
+      "median_wage_usd": 175000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NV",
+      "county": "CLARK",
+      "count": 10
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NV",
+      "count": 13
+    },
+    {
+      "state": "NY",
+      "count": 10
+    },
+    {
+      "state": "WI",
+      "count": 3
+    },
+    {
+      "state": "WA",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 162800.0,
+    "gap_usd": 32640.0
+  }
+}

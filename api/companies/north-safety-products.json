@@ -1,0 +1,64 @@
+{
+  "slug": "north-safety-products",
+  "canonical_name": "NORTH SAFETY PRODUCTS",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 1,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "05/14/1997",
+      "effective_date": "09/01/1997",
+      "state": "IL",
+      "workers": 130,
+      "city": "Rockford"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2026-02-10",
+        "formType": "8-K",
+        "accessionNumber": "0001000753-26-000009",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001000753&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2013-05-16",
+        "formType": "8-K",
+        "accessionNumber": "0001140361-13-021362",
+        "items": [
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001000753&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 2,
+    "itemCounts": {
+      "2.05": 1,
+      "2.06": 1
+    },
+    "latestFilingDate": "2026-02-10",
+    "earliestFilingDate": "2013-05-16"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

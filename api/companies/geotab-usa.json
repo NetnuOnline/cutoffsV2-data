@@ -1,0 +1,87 @@
+{
+  "slug": "geotab-usa",
+  "canonical_name": "Geotab USA, Inc.",
+  "fein": "33-1223787",
+  "lca_filing_count": 6,
+  "lca_worker_positions": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 139000.0,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 5,
+      "median_wage_usd": 133000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 148000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Data Scientist",
+      "count": 1,
+      "median_wage_usd": 190000.0
+    },
+    {
+      "title": "Senior IT Cloud Operations Engineering Specialist",
+      "count": 1,
+      "median_wage_usd": 107432.0
+    },
+    {
+      "title": "Data Scientist",
+      "count": 1,
+      "median_wage_usd": 116000.0
+    },
+    {
+      "title": "Data Platform Developer",
+      "count": 1,
+      "median_wage_usd": 133000.0
+    },
+    {
+      "title": "Senior Product Manager",
+      "count": 1,
+      "median_wage_usd": 145000.0
+    },
+    {
+      "title": "Senior Embedded Developer",
+      "count": 1,
+      "median_wage_usd": 148000.0
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 2
+    },
+    {
+      "state": "VA",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "count": 1
+    },
+    {
+      "state": "MO",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 153000.0,
+    "gap_usd": 44980.0
+  }
+}

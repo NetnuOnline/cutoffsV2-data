@@ -1,0 +1,75 @@
+{
+  "slug": "kandji",
+  "canonical_name": "Kandji, Inc.",
+  "fein": "83-1829857",
+  "lca_filing_count": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 162500.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 200000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 5,
+      "median_wage_usd": 145000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior QA Engineer II",
+      "count": 2,
+      "median_wage_usd": 144000.0
+    },
+    {
+      "title": "Staff Security Engineer, Prod Sec",
+      "count": 1,
+      "median_wage_usd": 180000.0
+    },
+    {
+      "title": "Senior Software Engineer I",
+      "count": 1,
+      "median_wage_usd": 200000.0
+    },
+    {
+      "title": "Senior Infrastructure Engineer II",
+      "count": 1,
+      "median_wage_usd": 185000.0
+    },
+    {
+      "title": "Data Engineer",
+      "count": 1,
+      "median_wage_usd": 145000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "FL",
+      "count": 5
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 6,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1253",
+    "soc_title": "Software Quality Assurance Analysts and Testers",
+    "market_median_usd": 101800.0,
+    "employer_median_usd": 144000.0,
+    "gap_usd": 42200.0
+  }
+}

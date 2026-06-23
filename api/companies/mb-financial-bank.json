@@ -1,0 +1,112 @@
+{
+  "slug": "mb-financial-bank",
+  "canonical_name": "MB Financial Bank",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 10,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "MI",
+      "count": 8
+    },
+    {
+      "state": "NE",
+      "count": 1
+    },
+    {
+      "state": "KS",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "07/02/2018",
+      "effective_date": "07/02/2018",
+      "state": "NE",
+      "workers": 31,
+      "city": "Omaha"
+    },
+    {
+      "date": "07/02/2018",
+      "effective_date": "07/02/2018",
+      "state": "MI",
+      "workers": 594,
+      "city": "Statewide"
+    },
+    {
+      "date": "04/26/2018",
+      "effective_date": "04/26/2018",
+      "state": "MI",
+      "workers": 25,
+      "city": "West Bloomfield"
+    },
+    {
+      "date": "04/26/2018",
+      "effective_date": "04/26/2018",
+      "state": "MI",
+      "workers": 25,
+      "city": "Taylor"
+    },
+    {
+      "date": "04/26/2018",
+      "effective_date": "04/26/2018",
+      "state": "MI",
+      "workers": 25,
+      "city": "Southfield"
+    },
+    {
+      "date": "04/26/2018",
+      "effective_date": "04/26/2018",
+      "state": "MI",
+      "workers": 25,
+      "city": "Northville"
+    },
+    {
+      "date": "04/26/2018",
+      "effective_date": "04/26/2018",
+      "state": "MI",
+      "workers": 25,
+      "city": "Farmington Hills"
+    },
+    {
+      "date": "04/26/2018",
+      "effective_date": "04/26/2018",
+      "state": "MI",
+      "workers": 63,
+      "city": "Milford"
+    },
+    {
+      "date": "04/26/2018",
+      "effective_date": "04/26/2018",
+      "state": "MI",
+      "workers": 406,
+      "city": "Ann Arbor"
+    },
+    {
+      "date": "04/25/2018",
+      "effective_date": "04/25/2018",
+      "state": "KS",
+      "workers": 63,
+      "city": "3 - Workforce Investment Area III"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "washtenaw-county-employment-training-and-community-services",
+      "name": "Washtenaw County Employment Training and Community Services",
+      "state": "MI"
+    },
+    {
+      "slug": "omaha-consortium",
+      "name": "Omaha Consortium",
+      "state": "NE"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

@@ -1,0 +1,66 @@
+{
+  "slug": "nfi-national-distribution-centers",
+  "canonical_name": "NFI National Distribution Centers LLC",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 4,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 3
+    },
+    {
+      "state": "SC",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "10/07/2024",
+      "effective_date": "12/31/2024",
+      "state": "CA",
+      "workers": 54,
+      "city": "Compton"
+    },
+    {
+      "date": "03/12/2024",
+      "effective_date": "09/30/2024",
+      "state": "CA",
+      "workers": 40,
+      "city": "Tracy"
+    },
+    {
+      "date": "03/05/2024",
+      "effective_date": "05/06/2024",
+      "state": "CA",
+      "workers": 30,
+      "city": "Fullerton"
+    },
+    {
+      "date": "07/18/2022",
+      "effective_date": "07/18/2022",
+      "state": "SC",
+      "workers": 5,
+      "city": "Rock Hill"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "san-joaquin-county-wib",
+      "name": "San Joaquin County WIB",
+      "state": "CA"
+    },
+    {
+      "slug": "catawba-wib",
+      "name": "Catawba WIB",
+      "state": "SC"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

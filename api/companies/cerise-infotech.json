@@ -1,0 +1,109 @@
+{
+  "slug": "cerise-infotech",
+  "canonical_name": "Cerise Infotech Inc",
+  "fein": "86-1625235",
+  "lca_filing_count": 7,
+  "lca_worker_positions": 7,
+  "warn_notice_count": 0,
+  "median_wage_usd": 93500.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 135283.0
+    },
+    {
+      "fy": 2024,
+      "filings": 5,
+      "median_wage_usd": 90150.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 93500.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Development Engineer in Test",
+      "count": 2,
+      "median_wage_usd": 78635.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 2,
+      "median_wage_usd": 132766.5
+    },
+    {
+      "title": "Quality Engineer",
+      "count": 1,
+      "median_wage_usd": 93500.0
+    },
+    {
+      "title": "Manufacturing Engineer",
+      "count": 1,
+      "median_wage_usd": 95650.0
+    },
+    {
+      "title": "Labelling Engineer",
+      "count": 1,
+      "median_wage_usd": 90150.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 2
+    },
+    {
+      "state": "AZ",
+      "county": "PIMA",
+      "count": 1
+    },
+    {
+      "state": "NM",
+      "county": "SANTA FE",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "ORANGE",
+      "count": 1
+    },
+    {
+      "state": "MN",
+      "county": "RAMSEY",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 3
+    },
+    {
+      "state": "MN",
+      "count": 2
+    },
+    {
+      "state": "AZ",
+      "count": 1
+    },
+    {
+      "state": "NM",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1253",
+    "soc_title": "Software Quality Assurance Analysts and Testers",
+    "market_median_usd": 101800.0,
+    "employer_median_usd": 78635.0,
+    "gap_usd": -23165.0
+  }
+}

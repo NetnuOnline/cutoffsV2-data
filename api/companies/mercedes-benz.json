@@ -1,0 +1,88 @@
+{
+  "slug": "mercedes-benz",
+  "canonical_name": "Mercedes-Benz Financial Services",
+  "fein": null,
+  "lca_filing_count": 6,
+  "warn_notice_count": 5,
+  "median_wage_usd": 142986,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 0,
+      "median_wage_usd": null
+    },
+    {
+      "fy": 2026,
+      "filings": 0,
+      "median_wage_usd": null
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "ITM Systems Specialist - SAP",
+      "count": 0,
+      "median_wage_usd": null
+    },
+    {
+      "title": "IT Developer",
+      "count": 0,
+      "median_wage_usd": null
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "count": 2
+    },
+    {
+      "state": "MI",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "12/15/2025",
+      "effective_date": "12/31/2025",
+      "state": "MI",
+      "workers": 265,
+      "city": "Farmington Hills, Michigan"
+    },
+    {
+      "date": "03/20/2020",
+      "effective_date": "03/20/2020",
+      "state": "CA",
+      "workers": 89,
+      "city": "San Francisco"
+    },
+    {
+      "date": "03/20/2020",
+      "effective_date": "03/20/2020",
+      "state": "CA",
+      "workers": 57,
+      "city": "Oakland"
+    },
+    {
+      "date": "06/29/2018",
+      "effective_date": "06/29/2018",
+      "state": "NJ",
+      "workers": 115,
+      "city": "Montvale"
+    },
+    {
+      "date": "06/30/2015",
+      "effective_date": "06/30/2015",
+      "state": "NJ",
+      "workers": 259,
+      "city": "Montvale"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

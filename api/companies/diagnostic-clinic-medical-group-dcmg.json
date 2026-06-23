@@ -1,0 +1,62 @@
+{
+  "slug": "diagnostic-clinic-medical-group-dcmg",
+  "canonical_name": "Diagnostic Clinic Medical Group (DCMG)",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 4,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "FL",
+      "count": 4
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "07/03/2024",
+      "effective_date": "09/03/2024",
+      "state": "FL",
+      "workers": 15,
+      "city": "SAINT PETERSBURG"
+    },
+    {
+      "date": "07/03/2024",
+      "effective_date": "09/03/2024",
+      "state": "FL",
+      "workers": 155,
+      "city": "LARGO"
+    },
+    {
+      "date": "07/03/2024",
+      "effective_date": "09/03/2024",
+      "state": "FL",
+      "workers": 5,
+      "city": "WINTER HAVEN"
+    },
+    {
+      "date": "07/03/2024",
+      "effective_date": "09/03/2024",
+      "state": "FL",
+      "workers": 70,
+      "city": "CLEARWATER"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "careersource-pinellas",
+      "name": "CareerSource Pinellas",
+      "state": "FL"
+    },
+    {
+      "slug": "careersource-polk",
+      "name": "CareerSource Polk",
+      "state": "FL"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

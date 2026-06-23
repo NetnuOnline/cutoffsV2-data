@@ -1,0 +1,52 @@
+{
+  "slug": "kimball-office",
+  "canonical_name": "Kimball Office",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "ID",
+      "count": 1
+    },
+    {
+      "state": "IN",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "12/15/2014",
+      "effective_date": "12/15/2014",
+      "state": "ID",
+      "workers": 251,
+      "city": "Post Falls"
+    },
+    {
+      "date": "01/12/2009",
+      "effective_date": "03/31/2009",
+      "state": "IN",
+      "workers": 75,
+      "city": "Borden"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "north-wib",
+      "name": "North WIB",
+      "state": "ID"
+    },
+    {
+      "slug": "economic-growth-region-10",
+      "name": "Economic Growth Region 10",
+      "state": "IN"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

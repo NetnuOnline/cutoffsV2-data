@@ -1,0 +1,62 @@
+{
+  "slug": "peoples-gas-system",
+  "canonical_name": "Peoples Gas System, Inc.",
+  "fein": "37-2066517",
+  "lca_filing_count": 8,
+  "lca_worker_positions": 8,
+  "warn_notice_count": 0,
+  "median_wage_usd": 124000.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 5,
+      "median_wage_usd": 124000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SAP FUNCTIONAL CONSULTANT",
+      "count": 4,
+      "median_wage_usd": 124000.0
+    },
+    {
+      "title": "IT ARCHITECT",
+      "count": 3,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "title": "Software Program Coordinator",
+      "count": 1,
+      "median_wage_usd": 101320.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "FL",
+      "county": "HILLSBOROUGH",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "FL",
+      "count": 8
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 124000.0,
+    "gap_usd": -6160.0
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "slug": "aflac",
+  "canonical_name": "Aflac, Inc.",
+  "fein": "58-1167100",
+  "lca_filing_count": 8,
+  "warn_notice_count": 0,
+  "median_wage_usd": 127500.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 4,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 165022.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 141278.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Technical Consultant",
+      "count": 3,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "title": "Business Consultant",
+      "count": 2,
+      "median_wage_usd": 135639.0
+    },
+    {
+      "title": "Manager, Cloud Engineering",
+      "count": 1,
+      "median_wage_usd": 185044.0
+    },
+    {
+      "title": "Senior Application Developer",
+      "count": 1,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "title": "Principal Platform Engineer",
+      "count": 1,
+      "median_wage_usd": 145000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "GA",
+      "county": "MUSCOGEE",
+      "count": 4
+    },
+    {
+      "state": "NC",
+      "county": "MECKLENBURG",
+      "count": 3
+    },
+    {
+      "state": "NJ",
+      "county": "MORRIS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 4
+    },
+    {
+      "state": "NC",
+      "count": 3
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 1,
+    "continuing_denials": 0,
+    "total_approvals": 1,
+    "by_fy": [
+      {
+        "fy": 2011,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 8,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Information Technology Project Managers",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 125000.0,
+    "gap_usd": 7000.0
+  }
+}

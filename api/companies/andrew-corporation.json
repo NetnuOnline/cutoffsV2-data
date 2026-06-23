@@ -1,0 +1,66 @@
+{
+  "slug": "andrew-corporation",
+  "canonical_name": "ANDREW CORPORATION",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 5,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 3
+    },
+    {
+      "state": "IL",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "08/28/2003",
+      "effective_date": "01/02/2004",
+      "state": "TX",
+      "workers": 196,
+      "city": "Dallas"
+    },
+    {
+      "date": "11/08/2002",
+      "effective_date": "02/01/2003",
+      "state": "IL",
+      "workers": 122,
+      "city": "Addison"
+    },
+    {
+      "date": "09/27/2002",
+      "effective_date": "01/31/2003",
+      "state": "TX",
+      "workers": 185,
+      "city": "Denton"
+    },
+    {
+      "date": "09/27/2002",
+      "effective_date": "12/01/2002",
+      "state": "TX",
+      "workers": 52,
+      "city": "Richardson"
+    },
+    {
+      "date": "08/16/2001",
+      "effective_date": "08/16/2001",
+      "state": "GA",
+      "workers": 143,
+      "city": "Newnan"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

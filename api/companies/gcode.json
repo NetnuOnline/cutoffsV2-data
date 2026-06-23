@@ -1,0 +1,61 @@
+{
+  "slug": "gcode",
+  "canonical_name": "GCODE LLC",
+  "fein": null,
+  "lca_filing_count": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 73070.5,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 4,
+      "median_wage_usd": 73070.5
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Automation Engineer",
+      "count": 1,
+      "median_wage_usd": 72925.0
+    },
+    {
+      "title": "Infrastructure Engineer",
+      "count": 1,
+      "median_wage_usd": 72925.0
+    },
+    {
+      "title": "BI Analyst",
+      "count": 1,
+      "median_wage_usd": 73216.0
+    },
+    {
+      "title": "Senior Software Developer",
+      "count": 1,
+      "median_wage_usd": 90189.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NM",
+      "county": "BERNALILLO",
+      "count": 4
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NM",
+      "count": 4
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1211",
+    "soc_title": "Computer Systems Analysts",
+    "market_median_usd": 103800.0,
+    "employer_median_usd": 72925.0,
+    "gap_usd": -30875.0
+  }
+}

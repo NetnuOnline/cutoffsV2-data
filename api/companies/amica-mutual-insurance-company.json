@@ -1,0 +1,195 @@
+{
+  "slug": "amica-mutual-insurance-company",
+  "canonical_name": "Amica Mutual Insurance Company",
+  "fein": "05-0348344",
+  "lca_filing_count": 22,
+  "lca_worker_positions": 22,
+  "warn_notice_count": 0,
+  "median_wage_usd": 107228.5,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 3,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 85853.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 105337.0
+    },
+    {
+      "fy": 2023,
+      "filings": 5,
+      "median_wage_usd": 106805.0
+    },
+    {
+      "fy": 2024,
+      "filings": 7,
+      "median_wage_usd": 102735.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 151657.0
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 137696.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 3,
+      "median_wage_usd": 137696.0
+    },
+    {
+      "title": "QA Developer",
+      "count": 2,
+      "median_wage_usd": 90101.5
+    },
+    {
+      "title": "Lead IT Developer",
+      "count": 2,
+      "median_wage_usd": 134883.5
+    },
+    {
+      "title": "Lead Digital Tagging Analyst",
+      "count": 2,
+      "median_wage_usd": 108803.5
+    },
+    {
+      "title": "Senior Investment Analyst",
+      "count": 1,
+      "median_wage_usd": 106805.0
+    },
+    {
+      "title": "Senior Business Intelligence Specialist",
+      "count": 1,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "title": "UX Designer",
+      "count": 1,
+      "median_wage_usd": 80000.0
+    },
+    {
+      "title": "Sr. IT Developer",
+      "count": 1,
+      "median_wage_usd": 88198.0
+    },
+    {
+      "title": "IT Developer",
+      "count": 1,
+      "median_wage_usd": 100732.0
+    },
+    {
+      "title": "Sr. Digital Tagging Analyst",
+      "count": 1,
+      "median_wage_usd": 104123.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "RI",
+      "county": "LINCOLN",
+      "count": 4
+    },
+    {
+      "state": "NC",
+      "county": "WAKE",
+      "count": 2
+    },
+    {
+      "state": "RI",
+      "county": "WARWICK CITY",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "county": "MONTGOMERY",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "PLACER",
+      "count": 1
+    },
+    {
+      "state": "RI",
+      "county": "SMITHFIELD",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "county": "FRAMINGHAM",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 1
+    },
+    {
+      "state": "RI",
+      "county": "PROVIDENCE CITY",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "RI",
+      "count": 12
+    },
+    {
+      "state": "MA",
+      "count": 2
+    },
+    {
+      "state": "NC",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "SC",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 137696.0,
+    "gap_usd": 7536.0
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "slug": "usable-mutual-insurance-company",
+  "canonical_name": "USAble Mutual Insurance Company",
+  "fein": "71-0226428",
+  "lca_filing_count": 5,
+  "lca_worker_positions": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 102003.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 62920.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 104551.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 98186.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Data Analyst Lead",
+      "count": 1,
+      "median_wage_usd": 107099.0
+    },
+    {
+      "title": "Developer Senior",
+      "count": 1,
+      "median_wage_usd": 102003.0
+    },
+    {
+      "title": "Developer Associate",
+      "count": 1,
+      "median_wage_usd": 62920.0
+    },
+    {
+      "title": "Senior Developer",
+      "count": 1,
+      "median_wage_usd": 112923.0
+    },
+    {
+      "title": "Senior Developer/Data Engineer",
+      "count": 1,
+      "median_wage_usd": 83450.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "AR",
+      "county": "PULASKI",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "AR",
+      "count": 5
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 83450.0,
+    "gap_usd": -46710.0
+  }
+}

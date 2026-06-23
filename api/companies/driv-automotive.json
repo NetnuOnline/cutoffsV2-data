@@ -1,0 +1,140 @@
+{
+  "slug": "driv-automotive",
+  "canonical_name": "DRiV Automotive Inc.",
+  "fein": null,
+  "lca_filing_count": 4,
+  "warn_notice_count": 1,
+  "median_wage_usd": 98721.5,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 72000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 96943.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Quality Engineer",
+      "count": 1,
+      "median_wage_usd": 72000.0
+    },
+    {
+      "title": "Engineering Supervisor",
+      "count": 1,
+      "median_wage_usd": 100500.0
+    },
+    {
+      "title": "Senior Manufacturing Engineer, Controls",
+      "count": 1,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "Purchasing Manager, NVH Business Unit",
+      "count": 1,
+      "median_wage_usd": 96943.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MI",
+      "count": 2
+    },
+    {
+      "state": "OH",
+      "count": 2
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MI",
+      "county": "MONROE",
+      "count": 2
+    },
+    {
+      "state": "OH",
+      "county": "MONTGOMERY",
+      "count": 2
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "11/18/2020",
+      "effective_date": "01/22/2021",
+      "state": "AL",
+      "workers": 62,
+      "city": "Jacksonville"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "east-alabama-works",
+      "name": "East Alabama Works",
+      "state": "AL"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 9,
+    "initial_denials": 0,
+    "continuing_approvals": 60,
+    "continuing_denials": 1,
+    "total_approvals": 69,
+    "by_fy": [
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 36,
+        "continuing_denials": 0,
+        "total_approvals": 36
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 5,
+        "initial_denials": 0,
+        "continuing_approvals": 16,
+        "continuing_denials": 1,
+        "total_approvals": 21
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 3,
+        "initial_denials": 0,
+        "continuing_approvals": 7,
+        "continuing_denials": 0,
+        "total_approvals": 10
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      }
+    ]
+  },
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": []
+}

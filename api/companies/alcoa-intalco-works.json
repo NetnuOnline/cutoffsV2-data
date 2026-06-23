@@ -1,0 +1,43 @@
+{
+  "slug": "alcoa-intalco-works",
+  "canonical_name": "Alcoa Intalco Works",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "WA",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "04/29/2020",
+      "effective_date": "06/21/2020",
+      "state": "WA",
+      "workers": 700,
+      "city": "Ferndale"
+    },
+    {
+      "date": "11/19/2015",
+      "effective_date": "01/18/2016",
+      "state": "WA",
+      "workers": 465,
+      "city": "Ferndale"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "northwest-washington-wib",
+      "name": "Northwest Washington WIB",
+      "state": "WA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

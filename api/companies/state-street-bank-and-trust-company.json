@@ -1,0 +1,203 @@
+{
+  "slug": "state-street-bank-and-trust-company",
+  "canonical_name": "State Street Bank and Trust Company",
+  "fein": "04-1867445",
+  "lca_filing_count": 482,
+  "lca_worker_positions": 479,
+  "warn_notice_count": 0,
+  "median_wage_usd": 130820.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 52,
+      "median_wage_usd": 125164.5
+    },
+    {
+      "fy": 2021,
+      "filings": 81,
+      "median_wage_usd": 118893.0
+    },
+    {
+      "fy": 2022,
+      "filings": 73,
+      "median_wage_usd": 129868.0
+    },
+    {
+      "fy": 2023,
+      "filings": 64,
+      "median_wage_usd": 130383.5
+    },
+    {
+      "fy": 2024,
+      "filings": 61,
+      "median_wage_usd": 126242.0
+    },
+    {
+      "fy": 2025,
+      "filings": 98,
+      "median_wage_usd": 133724.0
+    },
+    {
+      "fy": 2026,
+      "filings": 50,
+      "median_wage_usd": 140140.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Application Development/Maintenance",
+      "count": 20,
+      "median_wage_usd": 111779.0
+    },
+    {
+      "title": "Business Analyst",
+      "count": 7,
+      "median_wage_usd": 108597.0
+    },
+    {
+      "title": "Application Developer",
+      "count": 7,
+      "median_wage_usd": 107000.0
+    },
+    {
+      "title": "Systems Consultant",
+      "count": 5,
+      "median_wage_usd": 134963.0
+    },
+    {
+      "title": "Senior Consultant",
+      "count": 5,
+      "median_wage_usd": 108597.0
+    },
+    {
+      "title": "Application Development / Maintenance",
+      "count": 3,
+      "median_wage_usd": 111779.0
+    },
+    {
+      "title": "Quality Assurance",
+      "count": 3,
+      "median_wage_usd": 107598.0
+    },
+    {
+      "title": "Quantitative Analyst",
+      "count": 3,
+      "median_wage_usd": 125382.0
+    },
+    {
+      "title": "IT Business Analysis [00082664]",
+      "count": 2,
+      "median_wage_usd": 122149.0
+    },
+    {
+      "title": "Software Engineering & Development [00089098]",
+      "count": 2,
+      "median_wage_usd": 153005.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MA",
+      "county": "BOSTON CITY",
+      "count": 79
+    },
+    {
+      "state": "MA",
+      "county": "QUINCY CITY",
+      "count": 69
+    },
+    {
+      "state": "MA",
+      "county": "BURLINGTON",
+      "count": 35
+    },
+    {
+      "state": "NJ",
+      "county": "MERCER",
+      "count": 18
+    },
+    {
+      "state": "MA",
+      "county": "WEYMOUTH",
+      "count": 15
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 8
+    },
+    {
+      "state": "MA",
+      "county": "CAMBRIDGE CITY",
+      "count": 8
+    },
+    {
+      "state": "MA",
+      "county": "NORFOLK",
+      "count": 8
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 6
+    },
+    {
+      "state": "MA",
+      "county": "NORWOOD",
+      "count": 6
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MA",
+      "count": 359
+    },
+    {
+      "state": "NJ",
+      "count": 41
+    },
+    {
+      "state": "TX",
+      "count": 29
+    },
+    {
+      "state": "CA",
+      "count": 12
+    },
+    {
+      "state": "FL",
+      "count": 10
+    },
+    {
+      "state": "CT",
+      "count": 7
+    },
+    {
+      "state": "NC",
+      "count": 5
+    },
+    {
+      "state": "PA",
+      "count": 5
+    },
+    {
+      "state": "NY",
+      "count": 4
+    },
+    {
+      "state": "GA",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 136775.5,
+    "gap_usd": 6615.5
+  }
+}

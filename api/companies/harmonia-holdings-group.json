@@ -1,0 +1,162 @@
+{
+  "slug": "harmonia-holdings-group",
+  "canonical_name": "Harmonia Holdings Group, LLC",
+  "fein": "43-2103421",
+  "lca_filing_count": 17,
+  "lca_worker_positions": 15,
+  "warn_notice_count": 0,
+  "median_wage_usd": 110240.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 4,
+      "median_wage_usd": 98655.0
+    },
+    {
+      "fy": 2021,
+      "filings": 3,
+      "median_wage_usd": 97406.4
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 115120.0
+    },
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 140025.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 98550.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 123750.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 5,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "Senior Software Developer",
+      "count": 3,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "title": "Lead Software Developer",
+      "count": 1,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "title": "Scrum Master",
+      "count": 1,
+      "median_wage_usd": 83535.0
+    },
+    {
+      "title": "ETL/BI Developer",
+      "count": 1,
+      "median_wage_usd": 86275.0
+    },
+    {
+      "title": "Business Data Analyst",
+      "count": 1,
+      "median_wage_usd": 95810.0
+    },
+    {
+      "title": "Senior DevOps Engineer",
+      "count": 1,
+      "median_wage_usd": 110240.0
+    },
+    {
+      "title": "ETL Tool Administrator",
+      "count": 1,
+      "median_wage_usd": 101500.0
+    },
+    {
+      "title": "Senior Business Analyst",
+      "count": 1,
+      "median_wage_usd": 95680.0
+    },
+    {
+      "title": "SAS Developer",
+      "count": 1,
+      "median_wage_usd": 97406.4
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "VA",
+      "county": "FAIRFAX",
+      "count": 9
+    },
+    {
+      "state": "MD",
+      "county": "PRINCE GEORGE'S",
+      "count": 2
+    },
+    {
+      "state": "NC",
+      "county": "MECKLENBURG",
+      "count": 1
+    },
+    {
+      "state": "KS",
+      "county": "JOHNSON",
+      "count": 1
+    },
+    {
+      "state": "DC",
+      "county": "DISTRICT OF COLUMBIA",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "county": "CUMBERLAND",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "VA",
+      "count": 9
+    },
+    {
+      "state": "KS",
+      "count": 2
+    },
+    {
+      "state": "MD",
+      "count": 2
+    },
+    {
+      "state": "PA",
+      "count": 2
+    },
+    {
+      "state": "DC",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 120000.0,
+    "gap_usd": -10160.0
+  }
+}

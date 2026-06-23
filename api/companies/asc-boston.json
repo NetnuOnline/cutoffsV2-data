@@ -1,0 +1,46 @@
+{
+  "slug": "asc-boston",
+  "canonical_name": "ASC Boston, Inc.",
+  "fein": null,
+  "lca_filing_count": 1,
+  "warn_notice_count": 0,
+  "median_wage_usd": 65353.6,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 65353.600000000006
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Web Administrator",
+      "count": 1,
+      "median_wage_usd": 65353.600000000006
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MA",
+      "county": "BOSTON CITY",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 1,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Web Administrators",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 65353.6,
+    "gap_usd": -52646.4
+  }
+}

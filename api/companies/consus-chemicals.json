@@ -1,0 +1,55 @@
+{
+  "slug": "consus-chemicals",
+  "canonical_name": "Consus Chemicals, LLC",
+  "fein": "35-2371831",
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 131178.8,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 139921.6
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 122436.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Chief Financial Officer",
+      "count": 2,
+      "median_wage_usd": 131178.8
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NJ",
+      "county": "MORRIS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IN",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3031",
+    "soc_title": "Financial Managers",
+    "market_median_usd": 156100.0,
+    "employer_median_usd": 131178.8,
+    "gap_usd": -24921.2
+  }
+}

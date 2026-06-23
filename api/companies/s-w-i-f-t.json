@@ -1,0 +1,87 @@
+{
+  "slug": "s-w-i-f-t",
+  "canonical_name": "S.W.I.F.T., Inc.",
+  "fein": "54-1106980",
+  "lca_filing_count": 20,
+  "lca_worker_positions": 19,
+  "warn_notice_count": 0,
+  "median_wage_usd": 149641.33,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 152377.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 132114.0
+    },
+    {
+      "fy": 2025,
+      "filings": 4,
+      "median_wage_usd": 156409.75
+    },
+    {
+      "fy": 2026,
+      "filings": 12,
+      "median_wage_usd": 146425.12,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Lead Developer / Systems Engineer",
+      "count": 8,
+      "median_wage_usd": 159477.96
+    },
+    {
+      "title": "Senior Developer / Systems Engineer",
+      "count": 8,
+      "median_wage_usd": 144236.64
+    },
+    {
+      "title": "Lead Test Engineer",
+      "count": 1,
+      "median_wage_usd": 159401.01
+    },
+    {
+      "title": "Product/Market Manager",
+      "count": 1,
+      "median_wage_usd": 155000.0
+    },
+    {
+      "title": "Senior Test Engineer",
+      "count": 1,
+      "median_wage_usd": 138117.85
+    },
+    {
+      "title": "Manager, Technical Services & Support ",
+      "count": 1,
+      "median_wage_usd": 152377.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "VA",
+      "county": "MANASSAS CITY",
+      "count": 4
+    }
+  ],
+  "top_states": [
+    {
+      "state": "VA",
+      "count": 20
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 145944.59,
+    "gap_usd": 15784.59
+  }
+}

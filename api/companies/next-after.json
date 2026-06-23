@@ -1,0 +1,51 @@
+{
+  "slug": "next-after",
+  "canonical_name": "Next After LLC",
+  "fein": null,
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 65301.5,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 65301.5
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Staff Accountant ",
+      "count": 1,
+      "median_wage_usd": 53747.0
+    },
+    {
+      "title": "Data Analyst ",
+      "count": 1,
+      "median_wage_usd": 76856.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-2011",
+    "soc_title": "Accountants",
+    "market_median_usd": 79000.0,
+    "employer_median_usd": 53747.0,
+    "gap_usd": -25253.0
+  }
+}

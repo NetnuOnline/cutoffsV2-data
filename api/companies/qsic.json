@@ -1,0 +1,69 @@
+{
+  "slug": "qsic",
+  "canonical_name": "Qsic Inc.",
+  "fein": "30-1168540",
+  "lca_filing_count": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 117000.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 117000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 120000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Chief Executive Officer",
+      "count": 2,
+      "median_wage_usd": 106101.0
+    },
+    {
+      "title": "Chief Financial Officer",
+      "count": 2,
+      "median_wage_usd": 118500.0
+    },
+    {
+      "title": "President of North America Sales",
+      "count": 1,
+      "median_wage_usd": 200000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "ORANGE",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "FL",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 5,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3031",
+    "soc_title": "Financial Managers",
+    "market_median_usd": 156100.0,
+    "employer_median_usd": 118500.0,
+    "gap_usd": -37600.0
+  }
+}

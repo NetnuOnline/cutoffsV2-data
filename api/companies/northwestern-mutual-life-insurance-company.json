@@ -1,0 +1,203 @@
+{
+  "slug": "northwestern-mutual-life-insurance-company",
+  "canonical_name": "Northwestern Mutual Life Insurance Company",
+  "fein": "39-0509570",
+  "lca_filing_count": 271,
+  "lca_worker_positions": 262,
+  "warn_notice_count": 0,
+  "median_wage_usd": 125350.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 36,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 37,
+      "median_wage_usd": 118105.0
+    },
+    {
+      "fy": 2022,
+      "filings": 45,
+      "median_wage_usd": 129213.0
+    },
+    {
+      "fy": 2023,
+      "filings": 47,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 36,
+      "median_wage_usd": 125986.5
+    },
+    {
+      "fy": 2025,
+      "filings": 34,
+      "median_wage_usd": 135809.5
+    },
+    {
+      "fy": 2026,
+      "filings": 27,
+      "median_wage_usd": 141590.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Software Engineer",
+      "count": 45,
+      "median_wage_usd": 125747.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 32,
+      "median_wage_usd": 104347.5
+    },
+    {
+      "title": "Lead Software Engineer",
+      "count": 15,
+      "median_wage_usd": 145746.0
+    },
+    {
+      "title": "Senior Systems Engineer",
+      "count": 13,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "Senior Test Engineer",
+      "count": 9,
+      "median_wage_usd": 109100.0
+    },
+    {
+      "title": "Senior Data Engineer",
+      "count": 9,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "title": "Data Engineer",
+      "count": 8,
+      "median_wage_usd": 104145.0
+    },
+    {
+      "title": "Manager Software Engineering",
+      "count": 8,
+      "median_wage_usd": 148701.0
+    },
+    {
+      "title": "Software Engineering Manager",
+      "count": 7,
+      "median_wage_usd": 155000.0
+    },
+    {
+      "title": "Systems Engineer",
+      "count": 6,
+      "median_wage_usd": 106050.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "WI",
+      "county": "MILWAUKEE",
+      "count": 147
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 10
+    },
+    {
+      "state": "WI",
+      "county": "WAUKESHA",
+      "count": 6
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 5
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 4
+    },
+    {
+      "state": "IL",
+      "county": "WILL",
+      "count": 4
+    },
+    {
+      "state": "GA",
+      "county": "FORSYTH",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 3
+    },
+    {
+      "state": "KS",
+      "county": "JOHNSON",
+      "count": 3
+    },
+    {
+      "state": "NC",
+      "county": "MECKLENBURG",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "WI",
+      "count": 186
+    },
+    {
+      "state": "TX",
+      "count": 19
+    },
+    {
+      "state": "IL",
+      "count": 12
+    },
+    {
+      "state": "NY",
+      "count": 12
+    },
+    {
+      "state": "CA",
+      "count": 5
+    },
+    {
+      "state": "NC",
+      "count": 5
+    },
+    {
+      "state": "GA",
+      "count": 4
+    },
+    {
+      "state": "VA",
+      "count": 4
+    },
+    {
+      "state": "MD",
+      "count": 4
+    },
+    {
+      "state": "KS",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 128195.5,
+    "gap_usd": -1964.5
+  }
+}

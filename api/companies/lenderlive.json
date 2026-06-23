@@ -1,0 +1,37 @@
+{
+  "slug": "lenderlive",
+  "canonical_name": "LenderLive",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "MI",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "11/19/2018",
+      "effective_date": "11/19/2018",
+      "state": "MI",
+      "workers": 45,
+      "city": "Madison Heights, Michigan"
+    },
+    {
+      "date": "09/19/2018",
+      "effective_date": "09/19/2018",
+      "state": "MI",
+      "workers": 56,
+      "city": "Madison Heights"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

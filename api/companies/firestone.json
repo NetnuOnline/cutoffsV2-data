@@ -1,0 +1,47 @@
+{
+  "slug": "firestone",
+  "canonical_name": "Firestone",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 1
+    },
+    {
+      "state": "IN",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "03/17/2020",
+      "effective_date": "03/17/2020",
+      "state": "GA",
+      "workers": 36,
+      "city": "Newnan"
+    },
+    {
+      "date": "02/10/2009",
+      "effective_date": "06/26/2009",
+      "state": "IN",
+      "workers": 238,
+      "city": "Noblesville"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "west-central-wib-ga",
+      "name": "West Central WIB",
+      "state": "GA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

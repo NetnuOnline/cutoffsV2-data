@@ -1,0 +1,151 @@
+{
+  "slug": "digitalis",
+  "canonical_name": "Digitalis Inc",
+  "fein": "82-4195035",
+  "lca_filing_count": 16,
+  "lca_worker_positions": 16,
+  "warn_notice_count": 0,
+  "median_wage_usd": 106683.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 3,
+      "median_wage_usd": 94016.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 108285.0
+    },
+    {
+      "fy": 2025,
+      "filings": 6,
+      "median_wage_usd": 105934.5
+    },
+    {
+      "fy": 2026,
+      "filings": 5,
+      "median_wage_usd": 112923.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Network Engineer ",
+      "count": 2,
+      "median_wage_usd": 108285.0
+    },
+    {
+      "title": "Data Analyst ",
+      "count": 1,
+      "median_wage_usd": 90522.0
+    },
+    {
+      "title": "SQL Developer",
+      "count": 1,
+      "median_wage_usd": 76315.0
+    },
+    {
+      "title": "Snowflake Developer",
+      "count": 1,
+      "median_wage_usd": 112923.0
+    },
+    {
+      "title": "VMware vSAN Engineer",
+      "count": 1,
+      "median_wage_usd": 116709.0
+    },
+    {
+      "title": "Embedded Engineer",
+      "count": 1,
+      "median_wage_usd": 98301.0
+    },
+    {
+      "title": "Full Stack Application Developer",
+      "count": 1,
+      "median_wage_usd": 131997.0
+    },
+    {
+      "title": "Kong Platform Solution Architect",
+      "count": 1,
+      "median_wage_usd": 133536.0
+    },
+    {
+      "title": "Sr. Network Engineer",
+      "count": 1,
+      "median_wage_usd": 119038.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 1,
+      "median_wage_usd": 98301.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "KINGS",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "county": "DUPAGE",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "county": "ERIE",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 5
+    },
+    {
+      "state": "NY",
+      "count": 4
+    },
+    {
+      "state": "NJ",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "count": 2
+    },
+    {
+      "state": "NC",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "count": 1
+    },
+    {
+      "state": "SC",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 112923.0,
+    "gap_usd": -17237.0
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "slug": "rackspace-us",
+  "canonical_name": "Rackspace US, Inc.",
+  "fein": "74-3219359",
+  "lca_filing_count": 82,
+  "lca_worker_positions": 82,
+  "warn_notice_count": 0,
+  "median_wage_usd": 129000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 5,
+      "median_wage_usd": 142109.12
+    },
+    {
+      "fy": 2021,
+      "filings": 33,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 14,
+      "median_wage_usd": 131250.0
+    },
+    {
+      "fy": 2023,
+      "filings": 5,
+      "median_wage_usd": 144200.0
+    },
+    {
+      "fy": 2024,
+      "filings": 9,
+      "median_wage_usd": 141669.0
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 141669.0
+    },
+    {
+      "fy": 2026,
+      "filings": 13,
+      "median_wage_usd": 136813.52,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer IV",
+      "count": 10,
+      "median_wage_usd": 140566.5
+    },
+    {
+      "title": "Software Developer III",
+      "count": 8,
+      "median_wage_usd": 128866.5
+    },
+    {
+      "title": "Technical Product Manager IV",
+      "count": 4,
+      "median_wage_usd": 141000.0
+    },
+    {
+      "title": "Data Engineer III",
+      "count": 4,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "title": "Software Developer IV ",
+      "count": 4,
+      "median_wage_usd": 127504.0
+    },
+    {
+      "title": "Technical Product Manager III",
+      "count": 3,
+      "median_wage_usd": 111862.0
+    },
+    {
+      "title": "Technical Product Manager III-US",
+      "count": 2,
+      "median_wage_usd": 120078.75
+    },
+    {
+      "title": "Software Developer III ",
+      "count": 2,
+      "median_wage_usd": 112500.0
+    },
+    {
+      "title": "NAS Storage Engineer V",
+      "count": 2,
+      "median_wage_usd": 118768.91
+    },
+    {
+      "title": "Software Developer II",
+      "count": 2,
+      "median_wage_usd": 107458.36499999999
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "BEXAR",
+      "count": 37
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 6
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 5
+    },
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 4
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 3
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 3
+    },
+    {
+      "state": "NJ",
+      "county": "MIDDLESEX",
+      "count": 2
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "TARRANT",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "county": "UNION",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 65
+    },
+    {
+      "state": "IL",
+      "count": 4
+    },
+    {
+      "state": "CA",
+      "count": 3
+    },
+    {
+      "state": "NC",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "count": 2
+    },
+    {
+      "state": "MA",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    },
+    {
+      "state": "MO",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 138138.76,
+    "gap_usd": 7978.76
+  }
+}

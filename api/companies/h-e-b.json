@@ -1,0 +1,142 @@
+{
+  "slug": "h-e-b",
+  "canonical_name": "H-E-B, LP",
+  "fein": "74-3010657",
+  "lca_filing_count": 78,
+  "lca_worker_positions": 70,
+  "warn_notice_count": 0,
+  "median_wage_usd": 128100.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 8,
+      "median_wage_usd": 124775.0
+    },
+    {
+      "fy": 2021,
+      "filings": 6,
+      "median_wage_usd": 113500.0
+    },
+    {
+      "fy": 2022,
+      "filings": 6,
+      "median_wage_usd": 117900.0
+    },
+    {
+      "fy": 2023,
+      "filings": 12,
+      "median_wage_usd": 118450.0
+    },
+    {
+      "fy": 2024,
+      "filings": 9,
+      "median_wage_usd": 114000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 13,
+      "median_wage_usd": 134971.0
+    },
+    {
+      "fy": 2026,
+      "filings": 16,
+      "median_wage_usd": 150783.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Software Engineer",
+      "count": 13,
+      "median_wage_usd": 127733.0
+    },
+    {
+      "title": "Software Engineer II",
+      "count": 6,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "title": "Staff Software Engineer",
+      "count": 6,
+      "median_wage_usd": 141000.0
+    },
+    {
+      "title": "Senior Data Engineer",
+      "count": 4,
+      "median_wage_usd": 137061.5
+    },
+    {
+      "title": "Manager of Data Engineering, Foundational Projects Team",
+      "count": 3,
+      "median_wage_usd": 152700.0
+    },
+    {
+      "title": "Sr. Software Engineer",
+      "count": 3,
+      "median_wage_usd": 133000.0
+    },
+    {
+      "title": "STAFF SOFTWARE ENGINEER",
+      "count": 3,
+      "median_wage_usd": 126110.0
+    },
+    {
+      "title": "Staff Data Engineer",
+      "count": 3,
+      "median_wage_usd": 163550.0
+    },
+    {
+      "title": "Data Scientist II",
+      "count": 3,
+      "median_wage_usd": 128100.0
+    },
+    {
+      "title": "Principal Product Manager - Personalization",
+      "count": 3,
+      "median_wage_usd": 160000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 24
+    },
+    {
+      "state": "TX",
+      "county": "BEXAR",
+      "count": 21
+    },
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "CALHOUN",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 78
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 134971.0,
+    "gap_usd": 4811.0
+  }
+}

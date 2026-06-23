@@ -1,0 +1,136 @@
+{
+  "slug": "icw-group-holdings",
+  "canonical_name": "ICW GROUP HOLDINGS, INC.",
+  "fein": "95-2890041",
+  "lca_filing_count": 31,
+  "lca_worker_positions": 31,
+  "warn_notice_count": 0,
+  "median_wage_usd": 117429.02,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 4,
+      "median_wage_usd": 101000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 10,
+      "median_wage_usd": 117429.02
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 170000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 136552.0
+    },
+    {
+      "fy": 2024,
+      "filings": 8,
+      "median_wage_usd": 96465.61499999999
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 201074.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 201074.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer III",
+      "count": 5,
+      "median_wage_usd": 117429.02
+    },
+    {
+      "title": "Quality Assurance Engineer III",
+      "count": 4,
+      "median_wage_usd": 101000.0
+    },
+    {
+      "title": "Business Analyst III",
+      "count": 4,
+      "median_wage_usd": 114396.0
+    },
+    {
+      "title": "Software Engineer IV",
+      "count": 4,
+      "median_wage_usd": 164795.28999999998
+    },
+    {
+      "title": "Manager Software Development",
+      "count": 2,
+      "median_wage_usd": 201074.0
+    },
+    {
+      "title": "QA Manager",
+      "count": 2,
+      "median_wage_usd": 201074.0
+    },
+    {
+      "title": "Data Science Associate",
+      "count": 2,
+      "median_wage_usd": 77022.0
+    },
+    {
+      "title": "Customer Solutions Program Manager",
+      "count": 2,
+      "median_wage_usd": 170000.0
+    },
+    {
+      "title": "IT Project Manager I",
+      "count": 2,
+      "median_wage_usd": 89139.23
+    },
+    {
+      "title": "Business Analyst II",
+      "count": 2,
+      "median_wage_usd": 87000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SAN DIEGO",
+      "count": 24
+    },
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 1
+    },
+    {
+      "state": "WI",
+      "county": "DANE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 30
+    },
+    {
+      "state": "WI",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1111",
+    "soc_title": "Management Analysts",
+    "market_median_usd": 99000.0,
+    "employer_median_usd": 103792.0,
+    "gap_usd": 4792.0
+  }
+}

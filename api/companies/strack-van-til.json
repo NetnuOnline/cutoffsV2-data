@@ -1,0 +1,47 @@
+{
+  "slug": "strack-van-til",
+  "canonical_name": "Strack & Van Til",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "IN",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "03/01/2017",
+      "effective_date": "04/30/2017",
+      "state": "IN",
+      "workers": 81,
+      "city": "Merrillville"
+    },
+    {
+      "date": "03/01/2017",
+      "effective_date": "04/01/2017",
+      "state": "IL",
+      "workers": 89,
+      "city": "Chicago"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "economic-growth-region-1",
+      "name": "Economic Growth Region 1",
+      "state": "IN"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

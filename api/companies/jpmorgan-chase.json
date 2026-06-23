@@ -1,0 +1,214 @@
+{
+  "slug": "jpmorgan-chase",
+  "canonical_name": "JPMorgan Chase& Co.",
+  "fein": "13-2624428",
+  "lca_filing_count": 4897,
+  "lca_worker_positions": 5694,
+  "warn_notice_count": 0,
+  "median_wage_usd": 145000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 581,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 785,
+      "median_wage_usd": 128500.0
+    },
+    {
+      "fy": 2022,
+      "filings": 952,
+      "median_wage_usd": 144250.0
+    },
+    {
+      "fy": 2023,
+      "filings": 678,
+      "median_wage_usd": 143960.0
+    },
+    {
+      "fy": 2024,
+      "filings": 726,
+      "median_wage_usd": 151200.0
+    },
+    {
+      "fy": 2025,
+      "filings": 629,
+      "median_wage_usd": 162000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 526,
+      "median_wage_usd": 163400.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Vice President, Lead Software Engineer",
+      "count": 505,
+      "median_wage_usd": 160000.0
+    },
+    {
+      "title": "Associate, Software Engineer",
+      "count": 403,
+      "median_wage_usd": 129200.0
+    },
+    {
+      "title": "Vice President, Software Engineer",
+      "count": 345,
+      "median_wage_usd": 157000.0
+    },
+    {
+      "title": "Associate, Software Engineer III",
+      "count": 319,
+      "median_wage_usd": 139300.0
+    },
+    {
+      "title": "Vice President, Software Engineering",
+      "count": 197,
+      "median_wage_usd": 145000.0
+    },
+    {
+      "title": "Vice President, Sr Lead Software Engineer",
+      "count": 135,
+      "median_wage_usd": 178200.0
+    },
+    {
+      "title": "Associate, Software Engineering",
+      "count": 127,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "ASSOCIATE, SOFTWARE ENGINEER",
+      "count": 91,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "VICE PRESIDENT, SOFTWARE ENGINEER",
+      "count": 78,
+      "median_wage_usd": 147000.0
+    },
+    {
+      "title": "SOFTWARE ENGINEER",
+      "count": 71,
+      "median_wage_usd": 127500.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 795
+    },
+    {
+      "state": "NJ",
+      "county": "HUDSON",
+      "count": 661
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 554
+    },
+    {
+      "state": "DE",
+      "county": "NEW CASTLE",
+      "count": 538
+    },
+    {
+      "state": "OH",
+      "county": "DELAWARE",
+      "count": 423
+    },
+    {
+      "state": "FL",
+      "county": "HILLSBOROUGH",
+      "count": 187
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 142
+    },
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 109
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 98
+    },
+    {
+      "state": "OH",
+      "county": "FRANKLIN",
+      "count": 64
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 1203
+    },
+    {
+      "state": "NJ",
+      "count": 857
+    },
+    {
+      "state": "NY",
+      "count": 718
+    },
+    {
+      "state": "DE",
+      "count": 684
+    },
+    {
+      "state": "OH",
+      "count": 641
+    },
+    {
+      "state": "CA",
+      "count": 234
+    },
+    {
+      "state": "FL",
+      "count": 231
+    },
+    {
+      "state": "IL",
+      "count": 183
+    },
+    {
+      "state": "WA",
+      "count": 62
+    },
+    {
+      "state": "GA",
+      "count": 24
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 150300.0,
+    "gap_usd": 20140.0
+  },
+  "entity_group": {
+    "parent_slug": "jpmorgan-chase",
+    "parent_name": "JPMorgan Chase& Co.",
+    "children": [
+      {
+        "slug": "jpmorgan-chase-bank",
+        "name": "JPMorgan Chase Bank NA",
+        "lca_filing_count": 0
+      }
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "slug": "vns-choice",
+  "canonical_name": "VNS CHOICE",
+  "fein": "13-3951057",
+  "lca_filing_count": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 143170.23,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 175950.0
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 143170.23
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 140000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Director, Product Systems Innovation",
+      "count": 1,
+      "median_wage_usd": 175950.0
+    },
+    {
+      "title": "Senior Risk Adjustment Analyst",
+      "count": 1,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "title": "Project Manager, Business Intelligence & Analytics",
+      "count": 1,
+      "median_wage_usd": 143170.23
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1111",
+    "soc_title": "Management Analysts",
+    "market_median_usd": 99000.0,
+    "employer_median_usd": 143170.23,
+    "gap_usd": 44170.23
+  }
+}

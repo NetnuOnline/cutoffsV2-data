@@ -1,0 +1,188 @@
+{
+  "slug": "yahoo-holdings",
+  "canonical_name": "Yahoo Holdings Inc.",
+  "fein": "81-3443155",
+  "lca_filing_count": 247,
+  "lca_worker_positions": 244,
+  "warn_notice_count": 0,
+  "median_wage_usd": 162578.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 86,
+      "median_wage_usd": 155418.0
+    },
+    {
+      "fy": 2024,
+      "filings": 44,
+      "median_wage_usd": 165454.0
+    },
+    {
+      "fy": 2025,
+      "filings": 56,
+      "median_wage_usd": 161226.0
+    },
+    {
+      "fy": 2026,
+      "filings": 58,
+      "median_wage_usd": 170948.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Sr Software Dev Engineer",
+      "count": 32,
+      "median_wage_usd": 174742.5
+    },
+    {
+      "title": "Software Dev Engineer II",
+      "count": 28,
+      "median_wage_usd": 149573.0
+    },
+    {
+      "title": "Software Dev Engineer I",
+      "count": 21,
+      "median_wage_usd": 124582.0
+    },
+    {
+      "title": "Princ Software Dev Engineer",
+      "count": 20,
+      "median_wage_usd": 197619.0
+    },
+    {
+      "title": "Software Apps Engineer II",
+      "count": 10,
+      "median_wage_usd": 154042.0
+    },
+    {
+      "title": "Sr. Software Dev Engineer",
+      "count": 10,
+      "median_wage_usd": 174352.5
+    },
+    {
+      "title": "Sr Software Apps Engineer",
+      "count": 8,
+      "median_wage_usd": 165380.5
+    },
+    {
+      "title": "Sr Production Engineer",
+      "count": 7,
+      "median_wage_usd": 166962.0
+    },
+    {
+      "title": "Sr Princ Software Dev Engineer",
+      "count": 5,
+      "median_wage_usd": 251403.0
+    },
+    {
+      "title": "Network Engineer II",
+      "count": 4,
+      "median_wage_usd": 119817.5
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 65
+    },
+    {
+      "state": "VA",
+      "county": "FAIRFAX",
+      "count": 9
+    },
+    {
+      "state": "IL",
+      "county": "CHAMPAIGN",
+      "count": 9
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 7
+    },
+    {
+      "state": "VA",
+      "county": "LOUDOUN",
+      "count": 5
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 5
+    },
+    {
+      "state": "WA",
+      "county": "SNOHOMISH",
+      "count": 3
+    },
+    {
+      "state": "NJ",
+      "county": "HUDSON",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 126
+    },
+    {
+      "state": "VA",
+      "count": 22
+    },
+    {
+      "state": "WA",
+      "count": 18
+    },
+    {
+      "state": "TX",
+      "count": 16
+    },
+    {
+      "state": "NJ",
+      "count": 12
+    },
+    {
+      "state": "NY",
+      "count": 11
+    },
+    {
+      "state": "IL",
+      "count": 10
+    },
+    {
+      "state": "PA",
+      "count": 4
+    },
+    {
+      "state": "GA",
+      "count": 4
+    },
+    {
+      "state": "OH",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 164029.0,
+    "gap_usd": 33869.0
+  }
+}

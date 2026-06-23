@@ -1,0 +1,43 @@
+{
+  "slug": "university-enterprises-corporation",
+  "canonical_name": "University Enterprises Corporation",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "05/19/2020",
+      "effective_date": "03/15/2020",
+      "state": "CA",
+      "workers": 912,
+      "city": "Sacramento"
+    },
+    {
+      "date": "04/02/2020",
+      "effective_date": "03/18/2020",
+      "state": "CA",
+      "workers": 45,
+      "city": "San Bernardino"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "sacramento-county-wib",
+      "name": "Sacramento County WIB",
+      "state": "CA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

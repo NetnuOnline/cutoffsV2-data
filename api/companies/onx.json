@@ -1,0 +1,69 @@
+{
+  "slug": "onx",
+  "canonical_name": "ONX, Inc.",
+  "fein": "85-3048216",
+  "lca_filing_count": 1,
+  "warn_notice_count": 2,
+  "median_wage_usd": 90000.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 90000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Materials Management Engineer",
+      "count": 1,
+      "median_wage_usd": 90000.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "10/14/2025",
+      "effective_date": "12/14/2025",
+      "state": "FL",
+      "workers": 107,
+      "city": "HOMESTEAD"
+    },
+    {
+      "date": "10/14/2025",
+      "effective_date": "12/14/2025",
+      "state": "FL",
+      "workers": 30,
+      "city": "POMPANO BEACH"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "careersource-broward",
+      "name": "CareerSource Broward",
+      "state": "FL"
+    },
+    {
+      "slug": "careersource-south-florida",
+      "name": "CareerSource South Florida",
+      "state": "FL"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "lca_worker_positions": 1,
+  "top_socs": [],
+  "lca_periods": []
+}

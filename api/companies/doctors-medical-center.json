@@ -1,0 +1,36 @@
+{
+  "slug": "doctors-medical-center",
+  "canonical_name": "Doctors Medical Center",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 1,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "02/13/2015",
+      "effective_date": "04/14/2015",
+      "state": "CA",
+      "workers": 709,
+      "city": "San Pablo"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "contra-costa-county-wib",
+      "name": "Contra Costa County WIB",
+      "state": "CA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

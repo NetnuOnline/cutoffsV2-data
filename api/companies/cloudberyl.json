@@ -1,0 +1,78 @@
+{
+  "slug": "cloudberyl",
+  "canonical_name": "Cloudberyl LLC",
+  "fein": "87-3541793",
+  "lca_filing_count": 8,
+  "warn_notice_count": 0,
+  "median_wage_usd": 85890.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 8,
+      "median_wage_usd": 85890.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Servicenow Software Developer",
+      "count": 4,
+      "median_wage_usd": 96290.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 2,
+      "median_wage_usd": 95087.2
+    },
+    {
+      "title": "Network and computer systems engineer",
+      "count": 1,
+      "median_wage_usd": 85280.0
+    },
+    {
+      "title": "Network & Computer Systems Engineer",
+      "count": 1,
+      "median_wage_usd": 85280.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 8
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 8
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 0,
+    "continuing_denials": 0,
+    "total_approvals": 1,
+    "by_fy": [
+      {
+        "fy": 2023,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 8,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 96290.0,
+    "gap_usd": -33870.0
+  }
+}

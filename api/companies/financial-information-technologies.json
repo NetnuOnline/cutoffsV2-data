@@ -1,0 +1,87 @@
+{
+  "slug": "financial-information-technologies",
+  "canonical_name": "Financial-Information-Technologies, LLC",
+  "fein": "65-0152732",
+  "lca_filing_count": 7,
+  "lca_worker_positions": 7,
+  "warn_notice_count": 0,
+  "median_wage_usd": 115000.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 146300.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Platform Engineer",
+      "count": 2,
+      "median_wage_usd": 130650.0
+    },
+    {
+      "title": "Software Engineer, Data Platforms",
+      "count": 1,
+      "median_wage_usd": 95000.0
+    },
+    {
+      "title": "Principal Software Engineer",
+      "count": 1,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "Database Administrator",
+      "count": 1,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "title": "Systems Engineering, Director",
+      "count": 1,
+      "median_wage_usd": 164500.0
+    },
+    {
+      "title": "Senior Software Engineer, Data",
+      "count": 1,
+      "median_wage_usd": 115000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "FL",
+      "county": "HILLSBOROUGH",
+      "count": 4
+    }
+  ],
+  "top_states": [
+    {
+      "state": "FL",
+      "count": 7
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 115000.0,
+    "gap_usd": -15160.0
+  }
+}

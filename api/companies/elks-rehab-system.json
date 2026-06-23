@@ -1,0 +1,52 @@
+{
+  "slug": "elks-rehab-system",
+  "canonical_name": "Elks Rehab System",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "ID",
+      "count": 1
+    },
+    {
+      "state": "OR",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "07/31/2014",
+      "effective_date": "09/30/2014",
+      "state": "ID",
+      "workers": 516,
+      "city": "Boise"
+    },
+    {
+      "date": "07/31/2014",
+      "effective_date": "07/31/2014",
+      "state": "OR",
+      "workers": 5,
+      "city": "Ontario"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "southwest-wib-id",
+      "name": "Southwest WIB",
+      "state": "ID"
+    },
+    {
+      "slug": "eastern-oregon-wia",
+      "name": "Eastern Oregon WIA",
+      "state": "OR"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

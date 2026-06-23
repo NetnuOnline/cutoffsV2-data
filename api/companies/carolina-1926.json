@@ -1,0 +1,77 @@
+{
+  "slug": "carolina-1926",
+  "canonical_name": "Carolina 1926 LLC",
+  "fein": "56-0167230",
+  "lca_filing_count": 6,
+  "lca_worker_positions": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 138128.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 145000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 139809.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "IT Business Analyst, SAP",
+      "count": 2,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Integration Analyst",
+      "count": 1,
+      "median_wage_usd": 143000.0
+    },
+    {
+      "title": "Senior Developer - Salesforce Marketing Cloud Developer",
+      "count": 1,
+      "median_wage_usd": 145000.0
+    },
+    {
+      "title": "Lead IT Business Analyst",
+      "count": 1,
+      "median_wage_usd": 146363.0
+    },
+    {
+      "title": "IT Business Analyst",
+      "count": 1,
+      "median_wage_usd": 133256.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NC",
+      "county": "MECKLENBURG",
+      "count": 4
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NC",
+      "count": 6
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1211",
+    "soc_title": "Computer Systems Analysts",
+    "market_median_usd": 103800.0,
+    "employer_median_usd": 138128.0,
+    "gap_usd": 34328.0
+  }
+}

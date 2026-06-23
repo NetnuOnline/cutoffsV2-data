@@ -1,0 +1,142 @@
+{
+  "slug": "patientpop",
+  "canonical_name": "PatientPop, Inc.",
+  "fein": null,
+  "lca_filing_count": 3,
+  "warn_notice_count": 4,
+  "median_wage_usd": 170000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 170000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 167500.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Staff Software Engineer",
+      "count": 2,
+      "median_wage_usd": 170000.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 1,
+      "median_wage_usd": 165000.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 3
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 3
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "04/29/2020",
+      "effective_date": "03/27/2020",
+      "state": "FL",
+      "workers": 1,
+      "city": "PALM CITY"
+    },
+    {
+      "date": "04/29/2020",
+      "effective_date": "03/27/2020",
+      "state": "FL",
+      "workers": 1,
+      "city": "TAMPA"
+    },
+    {
+      "date": "04/10/2020",
+      "effective_date": "03/27/2020",
+      "state": "WI",
+      "workers": 1,
+      "city": "Menasha"
+    },
+    {
+      "date": "03/27/2020",
+      "effective_date": "03/30/2020",
+      "state": "CA",
+      "workers": 122,
+      "city": "Santa Monica"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "careersource-research-coast",
+      "name": "CareerSource Research Coast",
+      "state": "FL"
+    },
+    {
+      "slug": "fox-valley-wda",
+      "name": "Fox Valley WDA",
+      "state": "WI"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 10,
+    "continuing_denials": 0,
+    "total_approvals": 11,
+    "by_fy": [
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 6,
+        "continuing_denials": 0,
+        "total_approvals": 7
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      }
+    ]
+  },
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": []
+}

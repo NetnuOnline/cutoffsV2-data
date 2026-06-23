@@ -1,0 +1,180 @@
+{
+  "slug": "black-bear-diner",
+  "canonical_name": "Black Bear Diner",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 16,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 6
+    },
+    {
+      "state": "CA",
+      "count": 4
+    },
+    {
+      "state": "MO",
+      "count": 2
+    },
+    {
+      "state": "NV",
+      "count": 1
+    },
+    {
+      "state": "ID",
+      "count": 1
+    },
+    {
+      "state": "KS",
+      "count": 1
+    },
+    {
+      "state": "AZ",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "04/17/2020",
+      "effective_date": "04/09/2020",
+      "state": "MO",
+      "workers": 65,
+      "city": "Independence"
+    },
+    {
+      "date": "04/17/2020",
+      "effective_date": "04/09/2020",
+      "state": "MO",
+      "workers": 38,
+      "city": "St. Charles"
+    },
+    {
+      "date": "04/13/2020",
+      "effective_date": "04/09/2020",
+      "state": "NV",
+      "workers": 28,
+      "city": "Las Vegas, Clark County"
+    },
+    {
+      "date": "04/10/2020",
+      "effective_date": "03/21/2020",
+      "state": "ID",
+      "workers": 21,
+      "city": "Boise"
+    },
+    {
+      "date": "04/09/2020",
+      "effective_date": "05/07/2020",
+      "state": "TX",
+      "workers": 2,
+      "city": "Houston"
+    },
+    {
+      "date": "04/09/2020",
+      "effective_date": "05/07/2020",
+      "state": "TX",
+      "workers": 42,
+      "city": "Houston"
+    },
+    {
+      "date": "04/09/2020",
+      "effective_date": "05/07/2020",
+      "state": "TX",
+      "workers": 56,
+      "city": "Humble"
+    },
+    {
+      "date": "04/09/2020",
+      "effective_date": "05/07/2020",
+      "state": "TX",
+      "workers": 47,
+      "city": "Katy"
+    },
+    {
+      "date": "04/09/2020",
+      "effective_date": "05/07/2020",
+      "state": "TX",
+      "workers": 71,
+      "city": "Shenandoah"
+    },
+    {
+      "date": "04/09/2020",
+      "effective_date": "05/07/2020",
+      "state": "TX",
+      "workers": 46,
+      "city": "Sugarland"
+    },
+    {
+      "date": "04/09/2020",
+      "effective_date": "04/09/2020",
+      "state": "CA",
+      "workers": 30,
+      "city": "Davis"
+    },
+    {
+      "date": "04/09/2020",
+      "effective_date": "04/09/2020",
+      "state": "KS",
+      "workers": 58,
+      "city": "3 - Workforce Investment Area III"
+    },
+    {
+      "date": "04/09/2020",
+      "effective_date": "04/09/2020",
+      "state": "AZ",
+      "workers": 2137,
+      "city": "Laveen"
+    },
+    {
+      "date": "04/06/2020",
+      "effective_date": "04/07/2020",
+      "state": "CA",
+      "workers": 45,
+      "city": "Arvin"
+    },
+    {
+      "date": "04/06/2020",
+      "effective_date": "04/07/2020",
+      "state": "CA",
+      "workers": 49,
+      "city": "Arvin"
+    },
+    {
+      "date": "03/23/2020",
+      "effective_date": "03/22/2020",
+      "state": "CA",
+      "workers": 50,
+      "city": "Gilroy"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "city-of-phoenix-lwib",
+      "name": "City of Phoenix LWIB",
+      "state": "AZ"
+    },
+    {
+      "slug": "southwest-wib-id",
+      "name": "Southwest WIB",
+      "state": "ID"
+    },
+    {
+      "slug": "kansas-city-vicinity-region-wib",
+      "name": "Kansas City Vicinity Region WIB",
+      "state": "MO"
+    },
+    {
+      "slug": "st-charles-county-region-wib",
+      "name": "St. Charles County Region WIB",
+      "state": "MO"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

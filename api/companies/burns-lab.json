@@ -1,0 +1,70 @@
+{
+  "slug": "burns-lab",
+  "canonical_name": "Burns Lab",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 1,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "NE",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "06/30/2015",
+      "effective_date": "06/30/2015",
+      "state": "NE",
+      "workers": 11,
+      "city": "McCook"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "mid-plains-economic-region",
+      "name": "Mid Plains Economic Region",
+      "state": "NE"
+    }
+  ],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2023-08-23",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-23-219103",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001666134&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2023-03-06",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-23-061584",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001666134&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 2,
+    "itemCounts": {
+      "2.05": 1,
+      "5.02": 1
+    },
+    "latestFilingDate": "2023-08-23",
+    "earliestFilingDate": "2023-03-06"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

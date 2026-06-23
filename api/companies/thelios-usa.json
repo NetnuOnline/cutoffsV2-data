@@ -1,0 +1,62 @@
+{
+  "slug": "thelios-usa",
+  "canonical_name": "Thelios USA, Inc.",
+  "fein": "82-3555733",
+  "lca_filing_count": 4,
+  "lca_worker_positions": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 136091.5,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 128750.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 143433.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 143433.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "IT SAP Manager",
+      "count": 3,
+      "median_wage_usd": 128750.0
+    },
+    {
+      "title": "IT SAP Associate",
+      "count": 1,
+      "median_wage_usd": 143433.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NJ",
+      "county": "BERGEN",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 4
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 136091.5,
+    "gap_usd": 5931.5
+  }
+}

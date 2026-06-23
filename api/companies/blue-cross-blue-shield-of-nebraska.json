@@ -1,0 +1,135 @@
+{
+  "slug": "blue-cross-blue-shield-of-nebraska",
+  "canonical_name": "Blue Cross Blue Shield of Nebraska",
+  "fein": "47-0095156",
+  "lca_filing_count": 14,
+  "lca_worker_positions": 13,
+  "warn_notice_count": 0,
+  "median_wage_usd": 117453.5,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 3,
+      "median_wage_usd": 106839.0
+    },
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 90000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 4,
+      "median_wage_usd": 123109.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 100194.0
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 128757.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Sr. Software Engineer",
+      "count": 4,
+      "median_wage_usd": 128866.0
+    },
+    {
+      "title": "Technical Analyst",
+      "count": 2,
+      "median_wage_usd": 90000.0
+    },
+    {
+      "title": "Data Engineer",
+      "count": 1,
+      "median_wage_usd": 100194.0
+    },
+    {
+      "title": "System Engineer III",
+      "count": 1,
+      "median_wage_usd": 119026.0
+    },
+    {
+      "title": "Cloud Engineer",
+      "count": 1,
+      "median_wage_usd": 123000.0
+    },
+    {
+      "title": "Sr. Cloud Data Engineer",
+      "count": 1,
+      "median_wage_usd": 128757.0
+    },
+    {
+      "title": "Database Administrator II",
+      "count": 1,
+      "median_wage_usd": 100312.0
+    },
+    {
+      "title": "IT Principal",
+      "count": 1,
+      "median_wage_usd": 139050.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 111189.0
+    },
+    {
+      "title": "Cloud Data Engineer",
+      "count": 1,
+      "median_wage_usd": 115881.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NE",
+      "county": "DOUGLAS",
+      "count": 7
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NE",
+      "count": 9
+    },
+    {
+      "state": "TX",
+      "count": 4
+    },
+    {
+      "state": "SC",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 128866.0,
+    "gap_usd": -1294.0
+  }
+}

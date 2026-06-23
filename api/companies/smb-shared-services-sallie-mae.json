@@ -1,0 +1,45 @@
+{
+  "slug": "smb-shared-services-sallie-mae",
+  "canonical_name": "SMB Shared Services, Inc. (Sallie Mae)",
+  "fein": "81-5375301",
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 95500.0,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 95500.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Manager, Business Analysis (Communication Analytics)",
+      "count": 1,
+      "median_wage_usd": 105000.0
+    },
+    {
+      "title": "Senior Associate, Credit Risk Reporting",
+      "count": 1,
+      "median_wage_usd": 86000.0
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "DE",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 105000.0,
+    "gap_usd": -3020.0
+  }
+}

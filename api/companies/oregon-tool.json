@@ -1,0 +1,98 @@
+{
+  "slug": "oregon-tool",
+  "canonical_name": "Oregon Tool, Inc.",
+  "fein": "63-0593908",
+  "lca_filing_count": 4,
+  "warn_notice_count": 1,
+  "median_wage_usd": 125688.93,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 123291.85
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 128086.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Sr. Business Analyst",
+      "count": 2,
+      "median_wage_usd": 128086.0
+    },
+    {
+      "title": "Business Analyst ",
+      "count": 1,
+      "median_wage_usd": 123291.85
+    },
+    {
+      "title": "Business Analyst",
+      "count": 1,
+      "median_wage_usd": 123291.85
+    }
+  ],
+  "top_states": [
+    {
+      "state": "OR",
+      "count": 4
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "OR",
+      "county": "MULTNOMAH",
+      "count": 2
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "06/03/2024",
+      "effective_date": "08/02/2024",
+      "state": "MO",
+      "workers": 80,
+      "city": "Kansas City"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 6,
+    "continuing_denials": 0,
+    "total_approvals": 6,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 5,
+        "continuing_denials": 0,
+        "total_approvals": 5
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1211",
+    "soc_title": "Computer Systems Analysts",
+    "market_median_usd": 103800.0,
+    "employer_median_usd": 123291.85,
+    "gap_usd": 19491.85
+  }
+}

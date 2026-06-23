@@ -1,0 +1,51 @@
+{
+  "slug": "s-w-payroll-service-d-b-a-netchex",
+  "canonical_name": "S&W Payroll Service LLC d/b/a Netchex",
+  "fein": null,
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 78364.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 78364.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software EngineerII",
+      "count": 1,
+      "median_wage_usd": 83034.0
+    },
+    {
+      "title": "SQL Developer",
+      "count": 1,
+      "median_wage_usd": 73694.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "LA",
+      "county": "ST TAMMANY",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "LA",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 83034.0,
+    "gap_usd": -47126.0
+  }
+}

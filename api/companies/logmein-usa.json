@@ -1,0 +1,218 @@
+{
+  "slug": "logmein-usa",
+  "canonical_name": "LogMeIn USA, Inc.",
+  "fein": null,
+  "lca_filing_count": 16,
+  "warn_notice_count": 2,
+  "median_wage_usd": 144706.27,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 10,
+      "median_wage_usd": 130465.5
+    },
+    {
+      "fy": 2021,
+      "filings": 6,
+      "median_wage_usd": 149011.775
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Software Development Engineer",
+      "count": 4,
+      "median_wage_usd": 145000.0
+    },
+    {
+      "title": "Staff Software Development Engineer",
+      "count": 3,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "title": "Manager, Engineering",
+      "count": 2,
+      "median_wage_usd": 150218.0
+    },
+    {
+      "title": "Senior Business Systems Analyst",
+      "count": 1,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "Team Lead Software Development Engineering",
+      "count": 1,
+      "median_wage_usd": 155175.19
+    },
+    {
+      "title": "Information Systems Engineer",
+      "count": 1,
+      "median_wage_usd": 65000.0
+    },
+    {
+      "title": "Staff Quality Engineer ",
+      "count": 1,
+      "median_wage_usd": 141389.0
+    },
+    {
+      "title": "Software Development Engineer",
+      "count": 1,
+      "median_wage_usd": 114000.0
+    },
+    {
+      "title": "Product Designer",
+      "count": 1,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "count": 1,
+      "median_wage_usd": 120931.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 8
+    },
+    {
+      "state": "WA",
+      "count": 2
+    },
+    {
+      "state": "MA",
+      "count": 2
+    },
+    {
+      "state": "UT",
+      "count": 1
+    },
+    {
+      "state": "MN",
+      "count": 1
+    },
+    {
+      "state": "NH",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MA",
+      "county": "BOSTON CITY",
+      "count": 2
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "SANTA BARBARA",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "VENTURA",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "county": "MORRIS",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SAN JOAQUIN",
+      "count": 1
+    },
+    {
+      "state": "NH",
+      "county": "HOOKSETT",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 1
+    },
+    {
+      "state": "UT",
+      "county": "UTAH",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "02/13/2020",
+      "effective_date": "04/13/2020",
+      "state": "CA",
+      "workers": 92,
+      "city": "Goleta"
+    },
+    {
+      "date": "02/13/2020",
+      "effective_date": "02/13/2020",
+      "state": "NJ",
+      "workers": 20,
+      "city": "Jersey City"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 20,
+    "initial_denials": 0,
+    "continuing_approvals": 75,
+    "continuing_denials": 2,
+    "total_approvals": 95,
+    "by_fy": [
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 5,
+        "initial_denials": 0,
+        "continuing_approvals": 35,
+        "continuing_denials": 0,
+        "total_approvals": 40
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 14,
+        "initial_denials": 0,
+        "continuing_approvals": 34,
+        "continuing_denials": 2,
+        "total_approvals": 48
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 6,
+        "continuing_denials": 0,
+        "total_approvals": 7
+      }
+    ]
+  },
+  "lca_worker_positions": 16,
+  "top_socs": [],
+  "lca_periods": []
+}

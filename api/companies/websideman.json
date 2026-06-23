@@ -1,0 +1,46 @@
+{
+  "slug": "websideman",
+  "canonical_name": "WebSideMan LLC",
+  "fein": "92-2392173",
+  "lca_filing_count": 1,
+  "warn_notice_count": 0,
+  "median_wage_usd": 65520.0,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 65520.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Data Engineering Consultant",
+      "count": 1,
+      "median_wage_usd": 65520.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MI",
+      "county": "KENT",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MI",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 1,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 65520.0,
+    "gap_usd": -42500.0
+  }
+}

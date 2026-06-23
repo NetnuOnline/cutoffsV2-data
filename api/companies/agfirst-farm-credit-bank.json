@@ -1,0 +1,136 @@
+{
+  "slug": "agfirst-farm-credit-bank",
+  "canonical_name": "AgFirst Farm Credit Bank",
+  "fein": "57-1016947",
+  "lca_filing_count": 29,
+  "lca_worker_positions": 29,
+  "warn_notice_count": 0,
+  "median_wage_usd": 110000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 4,
+      "median_wage_usd": 104712.0
+    },
+    {
+      "fy": 2021,
+      "filings": 4,
+      "median_wage_usd": 99750.0
+    },
+    {
+      "fy": 2022,
+      "filings": 3,
+      "median_wage_usd": 126000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 114346.5
+    },
+    {
+      "fy": 2024,
+      "filings": 6,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 9,
+      "median_wage_usd": 115500.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 109866.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Business Applications Developer",
+      "count": 4,
+      "median_wage_usd": 109866.0
+    },
+    {
+      "title": "Senior Business Applications Developer",
+      "count": 3,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "Lead Applications Programmer/Developer",
+      "count": 2,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "Sr. Business Application Developer",
+      "count": 2,
+      "median_wage_usd": 104712.0
+    },
+    {
+      "title": "Applications Programming Supervisor",
+      "count": 2,
+      "median_wage_usd": 130298.5
+    },
+    {
+      "title": "UI/UX Designer & Developer",
+      "count": 2,
+      "median_wage_usd": 129910.0
+    },
+    {
+      "title": "Applications Programming Manager",
+      "count": 1,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "title": "Director, Application Development and Support",
+      "count": 1,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "title": "Database Administrator",
+      "count": 1,
+      "median_wage_usd": 106300.0
+    },
+    {
+      "title": "Technical Lead",
+      "count": 1,
+      "median_wage_usd": 115500.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "SC",
+      "county": "RICHLAND",
+      "count": 17
+    },
+    {
+      "state": "NC",
+      "county": "WAKE",
+      "count": 1
+    },
+    {
+      "state": "SC",
+      "county": "YORK",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "SC",
+      "count": 28
+    },
+    {
+      "state": "NC",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 114346.5,
+    "gap_usd": -15813.5
+  }
+}

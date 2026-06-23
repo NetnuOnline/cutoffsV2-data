@@ -1,0 +1,68 @@
+{
+  "slug": "stingray-pressure-pumping",
+  "canonical_name": "Stingray Pressure Pumping",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "OH",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "06/13/2025",
+      "effective_date": "08/15/2025",
+      "state": "OH",
+      "workers": 75,
+      "city": "Belmont/Belmont"
+    },
+    {
+      "date": "09/08/2015",
+      "effective_date": "10/31/2015",
+      "state": "OH",
+      "workers": 22,
+      "city": "Unknown/Monroe"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "southeast-ohio",
+      "name": "Southeast Ohio",
+      "state": "OH"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 2,
+    "continuing_denials": 0,
+    "total_approvals": 2,
+    "by_fy": [
+      {
+        "fy": 2020,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  }
+}

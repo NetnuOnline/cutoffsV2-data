@@ -1,0 +1,97 @@
+{
+  "slug": "upward-innovations",
+  "canonical_name": "Upward Innovations LLC",
+  "fein": "88-0834672",
+  "lca_filing_count": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 85000.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 85000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 92500.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer in TEST",
+      "count": 1,
+      "median_wage_usd": 85000.0
+    },
+    {
+      "title": "Software  Test Engineer",
+      "count": 1,
+      "median_wage_usd": 85000.0
+    },
+    {
+      "title": "Data Engineer",
+      "count": 1,
+      "median_wage_usd": 92500.0
+    },
+    {
+      "title": "Software Developer in Test",
+      "count": 1,
+      "median_wage_usd": 84157.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MA",
+      "county": "FRAMINGHAM",
+      "count": 2
+    },
+    {
+      "state": "MA",
+      "county": "FRANKLIN CITY",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MA",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 0,
+    "continuing_denials": 0,
+    "total_approvals": 1,
+    "by_fy": [
+      {
+        "fy": 2023,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1253",
+    "soc_title": "Software Quality Assurance Analysts and Testers",
+    "market_median_usd": 101800.0,
+    "employer_median_usd": 85000.0,
+    "gap_usd": -16800.0
+  }
+}

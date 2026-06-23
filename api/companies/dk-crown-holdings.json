@@ -1,0 +1,160 @@
+{
+  "slug": "dk-crown-holdings",
+  "canonical_name": "DK Crown Holdings Inc.",
+  "fein": "46-3584674",
+  "lca_filing_count": 53,
+  "lca_worker_positions": 51,
+  "warn_notice_count": 0,
+  "median_wage_usd": 131082.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 8,
+      "median_wage_usd": 132441.5
+    },
+    {
+      "fy": 2024,
+      "filings": 17,
+      "median_wage_usd": 137259.0
+    },
+    {
+      "fy": 2025,
+      "filings": 14,
+      "median_wage_usd": 131082.0
+    },
+    {
+      "fy": 2026,
+      "filings": 12,
+      "median_wage_usd": 133390.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Software Engineer",
+      "count": 8,
+      "median_wage_usd": 131082.0
+    },
+    {
+      "title": "Lead Software Engineer",
+      "count": 4,
+      "median_wage_usd": 135960.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 3,
+      "median_wage_usd": 109410.0
+    },
+    {
+      "title": "Senior Data Engineer",
+      "count": 3,
+      "median_wage_usd": 140130.0
+    },
+    {
+      "title": "Senior Software Engineer (0235)",
+      "count": 2,
+      "median_wage_usd": 114400.0
+    },
+    {
+      "title": "Senior Lead Software Engineer",
+      "count": 2,
+      "median_wage_usd": 158340.0
+    },
+    {
+      "title": "Lead Software Engineer (0238)",
+      "count": 1,
+      "median_wage_usd": 129600.0
+    },
+    {
+      "title": "Senior Data Science Engineer",
+      "count": 1,
+      "median_wage_usd": 120800.0
+    },
+    {
+      "title": "Lead Data Engineer (041)",
+      "count": 1,
+      "median_wage_usd": 132000.0
+    },
+    {
+      "title": "Software Engineer (114)",
+      "count": 1,
+      "median_wage_usd": 101608.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MA",
+      "county": "BOSTON CITY",
+      "count": 21
+    },
+    {
+      "state": "NJ",
+      "county": "HUDSON",
+      "count": 4
+    },
+    {
+      "state": "NV",
+      "county": "CARSON CITY",
+      "count": 1
+    },
+    {
+      "state": "NH",
+      "county": "NASHUA CITY",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MA",
+      "count": 43
+    },
+    {
+      "state": "NJ",
+      "count": 4
+    },
+    {
+      "state": "NH",
+      "count": 1
+    },
+    {
+      "state": "NV",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "CO",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 131082.0,
+    "gap_usd": 922.0
+  }
+}

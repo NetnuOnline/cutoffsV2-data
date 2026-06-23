@@ -1,0 +1,81 @@
+{
+  "slug": "neighborhood-health-plan-of-rhode-island",
+  "canonical_name": "Neighborhood Health Plan of Rhode Island",
+  "fein": null,
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 98124.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 91520.0
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 104728.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Automation Developer",
+      "count": 1,
+      "median_wage_usd": 91520.0
+    },
+    {
+      "title": "Senior Business Systems Analyst",
+      "count": 1,
+      "median_wage_usd": 104728.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "RI",
+      "county": "SMITHFIELD",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "RI",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 4,
+    "continuing_denials": 0,
+    "total_approvals": 4,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1211",
+    "soc_title": "Computer Systems Analysts",
+    "market_median_usd": 103800.0,
+    "employer_median_usd": 104728.0,
+    "gap_usd": 928.0
+  }
+}

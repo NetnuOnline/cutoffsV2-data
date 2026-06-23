@@ -1,0 +1,83 @@
+{
+  "slug": "waste-management",
+  "canonical_name": "Waste Management",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 6,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "count": 2
+    },
+    {
+      "state": "WA",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "04/25/2023",
+      "effective_date": "07/01/2023",
+      "state": "CA",
+      "workers": 78,
+      "city": "25772 Springbrook Ave.  Santa Clarita CA 91350"
+    },
+    {
+      "date": "04/28/2022",
+      "effective_date": "06/30/2022",
+      "state": "CA",
+      "workers": 76,
+      "city": "Carlsbad"
+    },
+    {
+      "date": "06/27/2014",
+      "effective_date": "09/19/2014",
+      "state": "WA",
+      "workers": 125,
+      "city": "Oak Harbor, WA"
+    },
+    {
+      "date": "05/04/2012",
+      "effective_date": "05/04/2012",
+      "state": "GA",
+      "workers": 62,
+      "city": "Alpharetta"
+    },
+    {
+      "date": "11/30/2011",
+      "effective_date": "02/01/2012",
+      "state": "IL",
+      "workers": 122,
+      "city": "Lombard"
+    },
+    {
+      "date": "04/22/1998",
+      "effective_date": "04/22/1998",
+      "state": "IL",
+      "workers": 0,
+      "city": "Oak Brook"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "northwest-washington-wib",
+      "name": "Northwest Washington WIB",
+      "state": "WA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

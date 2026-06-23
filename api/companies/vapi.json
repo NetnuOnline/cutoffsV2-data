@@ -1,0 +1,61 @@
+{
+  "slug": "vapi",
+  "canonical_name": "Vapi Inc.",
+  "fein": "85-4173463",
+  "lca_filing_count": 5,
+  "lca_worker_positions": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 161637.0,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": null
+    },
+    {
+      "fy": 2026,
+      "filings": 4,
+      "median_wage_usd": 161637.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Engineering Lead",
+      "count": 2,
+      "median_wage_usd": 114795.0
+    },
+    {
+      "title": "Senior Staff Machine Learning Engineer",
+      "count": 1,
+      "median_wage_usd": 171621.0
+    },
+    {
+      "title": "Member of Technical Staff, Core",
+      "count": 1,
+      "median_wage_usd": 161637.0
+    },
+    {
+      "title": "Member of Technical Staff, Forward Deployed",
+      "count": 1,
+      "median_wage_usd": 161637.0
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 5
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 161637.0,
+    "gap_usd": 31477.0
+  }
+}

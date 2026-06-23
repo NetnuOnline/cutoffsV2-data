@@ -1,0 +1,91 @@
+{
+  "slug": "peopleserve",
+  "canonical_name": "PeopleSERVE, Inc",
+  "fein": "04-3446281",
+  "lca_filing_count": 13,
+  "lca_worker_positions": 10,
+  "warn_notice_count": 0,
+  "median_wage_usd": 125008.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 6,
+      "median_wage_usd": 124997.6
+    },
+    {
+      "fy": 2026,
+      "filings": 4,
+      "median_wage_usd": 132600.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Full Stack Engineer",
+      "count": 8,
+      "median_wage_usd": 132600.0
+    },
+    {
+      "title": "Software Engineer in Test",
+      "count": 2,
+      "median_wage_usd": 113984.0
+    },
+    {
+      "title": "Full Stack Engineer - Front End",
+      "count": 1,
+      "median_wage_usd": 124987.20000000001
+    },
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Full Stack Engineer \u2013 Front End",
+      "count": 1,
+      "median_wage_usd": 115003.2
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "TARRANT",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 2
+    },
+    {
+      "state": "NC",
+      "county": "UNION",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 12
+    },
+    {
+      "state": "NC",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 130000.0,
+    "gap_usd": -160.0
+  }
+}

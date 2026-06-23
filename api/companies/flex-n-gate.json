@@ -1,0 +1,81 @@
+{
+  "slug": "flex-n-gate",
+  "canonical_name": "Flex-N-Gate",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 5,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 2
+    },
+    {
+      "state": "IN",
+      "count": 1
+    },
+    {
+      "state": "AL",
+      "count": 1
+    },
+    {
+      "state": "OK",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "04/28/2020",
+      "effective_date": "03/01/2020",
+      "state": "IL",
+      "workers": 400,
+      "city": "Urbana"
+    },
+    {
+      "date": "04/27/2020",
+      "effective_date": "03/01/2020",
+      "state": "IL",
+      "workers": 150,
+      "city": "Urbana"
+    },
+    {
+      "date": "04/02/2020",
+      "effective_date": "04/13/2020",
+      "state": "IN",
+      "workers": 43,
+      "city": "Covington"
+    },
+    {
+      "date": "03/13/2015",
+      "effective_date": "05/15/2015",
+      "state": "AL",
+      "workers": 97,
+      "city": "McCalla"
+    },
+    {
+      "date": "02/14/2006",
+      "effective_date": "02/14/2006",
+      "state": "OK",
+      "workers": 110,
+      "city": "08 - SouthernRegion"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "west-alabama-works",
+      "name": "West Alabama Works",
+      "state": "AL"
+    },
+    {
+      "slug": "wib-of-east-central-il",
+      "name": "WIB of East Central IL",
+      "state": "IL"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

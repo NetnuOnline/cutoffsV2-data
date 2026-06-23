@@ -1,0 +1,151 @@
+{
+  "slug": "goforward",
+  "canonical_name": "GoForward, Inc.",
+  "fein": "47-5667148",
+  "lca_filing_count": 8,
+  "warn_notice_count": 2,
+  "median_wage_usd": 139200.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 4,
+      "median_wage_usd": 113900.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 122689.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 146557.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 166900.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Hardware Engineer",
+      "count": 3,
+      "median_wage_usd": 148096.0
+    },
+    {
+      "title": "Expansion Operations Specialist",
+      "count": 2,
+      "median_wage_usd": 92800.0
+    },
+    {
+      "title": "Infrastructure Operations",
+      "count": 1,
+      "median_wage_usd": 97282.0
+    },
+    {
+      "title": "Creative Producer",
+      "count": 1,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "title": "Data Science Analyst",
+      "count": 1,
+      "median_wage_usd": 143400.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 7
+    },
+    {
+      "state": "NY",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 7
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "11/18/2024",
+      "effective_date": "11/12/2024",
+      "state": "CA",
+      "workers": 89,
+      "city": "San Francisco"
+    },
+    {
+      "date": "11/18/2024",
+      "effective_date": "11/12/2024",
+      "state": "CA",
+      "workers": 1,
+      "city": "Newport Beach"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 10,
+    "initial_denials": 0,
+    "continuing_approvals": 10,
+    "continuing_denials": 0,
+    "total_approvals": 20,
+    "by_fy": [
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 3,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 5
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 5,
+        "initial_denials": 0,
+        "continuing_approvals": 5,
+        "continuing_denials": 0,
+        "total_approvals": 10
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      }
+    ]
+  },
+  "lca_worker_positions": 8,
+  "top_socs": [],
+  "lca_periods": []
+}

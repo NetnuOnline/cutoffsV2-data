@@ -1,0 +1,46 @@
+{
+  "slug": "panoplia-laboratories",
+  "canonical_name": "Panoplia Laboratories, Inc.",
+  "fein": "93-2180352",
+  "lca_filing_count": 2,
+  "lca_worker_positions": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 79646.6,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 79643.2
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 79650.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Data Scientist",
+      "count": 2,
+      "median_wage_usd": 79646.6
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "MA",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 79646.6,
+    "gap_usd": -28373.4
+  }
+}

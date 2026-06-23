@@ -1,0 +1,168 @@
+{
+  "slug": "sur-la-table",
+  "canonical_name": "Sur La Table",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 11,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "FL",
+      "count": 6
+    },
+    {
+      "state": "VA",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "11/17/2020",
+      "effective_date": "09/01/2020",
+      "state": "VA",
+      "workers": 29,
+      "city": "Richmond, VA"
+    },
+    {
+      "date": "11/17/2020",
+      "effective_date": "09/01/2020",
+      "state": "VA",
+      "workers": 29,
+      "city": "Alexandria, VA"
+    },
+    {
+      "date": "09/17/2020",
+      "effective_date": "09/01/2020",
+      "state": "TX",
+      "workers": 10,
+      "city": "Houston"
+    },
+    {
+      "date": "09/02/2020",
+      "effective_date": "09/01/2020",
+      "state": "FL",
+      "workers": 18,
+      "city": "WEST PALM BEACH"
+    },
+    {
+      "date": "09/02/2020",
+      "effective_date": "09/01/2020",
+      "state": "FL",
+      "workers": 23,
+      "city": "MIAMI"
+    },
+    {
+      "date": "09/02/2020",
+      "effective_date": "09/01/2020",
+      "state": "FL",
+      "workers": 11,
+      "city": "AVENTURA"
+    },
+    {
+      "date": "09/02/2020",
+      "effective_date": "09/01/2020",
+      "state": "FL",
+      "workers": 10,
+      "city": "PEMBROKE PINES"
+    },
+    {
+      "date": "09/02/2020",
+      "effective_date": "09/01/2020",
+      "state": "FL",
+      "workers": 10,
+      "city": "SARASOTA"
+    },
+    {
+      "date": "09/02/2020",
+      "effective_date": "09/01/2020",
+      "state": "FL",
+      "workers": 8,
+      "city": "PALM BEACH GARDENS"
+    },
+    {
+      "date": "09/01/2020",
+      "effective_date": "09/01/2020",
+      "state": "CA",
+      "workers": 14,
+      "city": "Thousand Oaks"
+    },
+    {
+      "date": "07/06/2020",
+      "effective_date": "09/01/2020",
+      "state": "NY",
+      "workers": 46,
+      "city": "Yonkers"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "careersource-suncoast",
+      "name": "CareerSource Suncoast",
+      "state": "FL"
+    },
+    {
+      "slug": "alexandriaarlington-lwia-xii",
+      "name": "Alexandria/Arlington LWIA XII",
+      "state": "VA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 1,
+    "continuing_denials": 0,
+    "total_approvals": 1,
+    "by_fy": [
+      {
+        "fy": 2015,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2016,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "slug": "van-pool-transportation",
+  "canonical_name": "Van Pool Transportation LLC",
+  "fein": "26-3476840",
+  "lca_filing_count": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 250000.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 250000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 266775.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 262000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Vice President Human Resources Information Systems ",
+      "count": 2,
+      "median_wage_usd": 250000.0
+    },
+    {
+      "title": "Chief Technology Officer",
+      "count": 1,
+      "median_wage_usd": 293550.0
+    },
+    {
+      "title": "Vice President, Human Resources Information Systems",
+      "count": 1,
+      "median_wage_usd": 240000.0
+    },
+    {
+      "title": "Vice President of Technology \u2013 Business Analysis",
+      "count": 1,
+      "median_wage_usd": 262000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MN",
+      "county": "HENNEPIN",
+      "count": 3
+    },
+    {
+      "state": "MD",
+      "county": "FREDERICK",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "county": "CABARRUS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MN",
+      "count": 3
+    },
+    {
+      "state": "NC",
+      "count": 1
+    },
+    {
+      "state": "MD",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 2,
+    "continuing_denials": 0,
+    "total_approvals": 2,
+    "by_fy": [
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 5,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3021",
+    "soc_title": "Computer and Information Systems Managers",
+    "market_median_usd": 169510.0,
+    "employer_median_usd": 250000.0,
+    "gap_usd": 80490.0
+  }
+}

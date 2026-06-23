@@ -1,0 +1,98 @@
+{
+  "slug": "precision-dynamics",
+  "canonical_name": "Precision Dynamics",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 6,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 3
+    },
+    {
+      "state": "KS",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "04/28/2020",
+      "effective_date": "05/04/2020",
+      "state": "CA",
+      "workers": 112,
+      "city": "Valencia"
+    },
+    {
+      "date": "04/14/2020",
+      "effective_date": "04/14/2020",
+      "state": "CA",
+      "workers": 18,
+      "city": "Valencia"
+    },
+    {
+      "date": "04/10/2020",
+      "effective_date": "04/14/2020",
+      "state": "CA",
+      "workers": 16,
+      "city": "Valencia"
+    },
+    {
+      "date": "02/17/2010",
+      "effective_date": "04/02/2010",
+      "state": "TX",
+      "workers": 17,
+      "city": "Dallas"
+    },
+    {
+      "date": "05/30/2003",
+      "effective_date": "05/30/2003",
+      "state": "KS",
+      "workers": 66,
+      "city": "1 - Workforce Investment Area I"
+    },
+    {
+      "date": "02/11/2003",
+      "effective_date": "02/11/2003",
+      "state": "KS",
+      "workers": 72,
+      "city": "1 - Workforce Investment Area I"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 1,
+    "continuing_denials": 0,
+    "total_approvals": 1,
+    "by_fy": [
+      {
+        "fy": 2016,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  }
+}

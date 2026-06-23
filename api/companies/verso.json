@@ -1,0 +1,69 @@
+{
+  "slug": "verso",
+  "canonical_name": "Verso",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 4,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "WI",
+      "count": 1
+    },
+    {
+      "state": "OH",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "count": 1
+    },
+    {
+      "state": "MD",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "06/10/2020",
+      "effective_date": "07/31/2020",
+      "state": "WI",
+      "workers": 902,
+      "city": "Wisconsin Rapids"
+    },
+    {
+      "date": "05/18/2020",
+      "effective_date": "05/18/2020",
+      "state": "OH",
+      "workers": 59,
+      "city": "Miamisburg/Montgomery"
+    },
+    {
+      "date": "05/10/2019",
+      "effective_date": "05/31/2019",
+      "state": "VA",
+      "workers": 5,
+      "city": "Doswell, VA"
+    },
+    {
+      "date": "04/30/2019",
+      "effective_date": "06/30/2019",
+      "state": "MD",
+      "workers": 675,
+      "city": "Luke"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "western-maryland-wia",
+      "name": "Western Maryland WIA",
+      "state": "MD"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

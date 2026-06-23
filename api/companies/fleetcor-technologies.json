@@ -1,0 +1,216 @@
+{
+  "slug": "fleetcor-technologies",
+  "canonical_name": "Fleetcor Technologies, Inc.",
+  "fein": null,
+  "lca_filing_count": 22,
+  "warn_notice_count": 0,
+  "median_wage_usd": 135100.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 6,
+      "median_wage_usd": 137500.0
+    },
+    {
+      "fy": 2022,
+      "filings": 8,
+      "median_wage_usd": 135500.0
+    },
+    {
+      "fy": 2023,
+      "filings": 7,
+      "median_wage_usd": 135200.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Salesforce Developer",
+      "count": 2,
+      "median_wage_usd": 137500.0
+    },
+    {
+      "title": "Director Data Scientist ",
+      "count": 1,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "title": "Revenue Analyst",
+      "count": 1,
+      "median_wage_usd": 80000.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 145000.0
+    },
+    {
+      "title": "Sr. Java Developer",
+      "count": 1,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "Tool Solution Architect",
+      "count": 1,
+      "median_wage_usd": 135680.0
+    },
+    {
+      "title": "ERP Architect",
+      "count": 1,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "title": "Sr. Customer Engagement Business Analyst",
+      "count": 1,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "title": "Sr. Lead Java Developer",
+      "count": 1,
+      "median_wage_usd": 136000.0
+    },
+    {
+      "title": "SQL Developer",
+      "count": 1,
+      "median_wage_usd": 130000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 6
+    },
+    {
+      "state": "CA",
+      "county": "SAN MATEO",
+      "count": 3
+    },
+    {
+      "state": "GA",
+      "county": "GWINNETT",
+      "count": 3
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "ORANGE",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "county": "SUFFOLK",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    },
+    {
+      "state": "TN",
+      "county": "WILLIAMSON",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "county": "LOUDOUN",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 9
+    },
+    {
+      "state": "CA",
+      "count": 5
+    },
+    {
+      "state": "TX",
+      "count": 4
+    },
+    {
+      "state": "TN",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "count": 1
+    },
+    {
+      "state": "AZ",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 7,
+    "initial_denials": 1,
+    "continuing_approvals": 51,
+    "continuing_denials": 1,
+    "total_approvals": 58,
+    "by_fy": [
+      {
+        "fy": 2020,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 5,
+        "continuing_denials": 1,
+        "total_approvals": 7
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 2,
+        "initial_denials": 1,
+        "continuing_approvals": 21,
+        "continuing_denials": 0,
+        "total_approvals": 23
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 15,
+        "continuing_denials": 0,
+        "total_approvals": 17
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 10,
+        "continuing_denials": 0,
+        "total_approvals": 11
+      }
+    ]
+  },
+  "lca_worker_positions": 22,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 135680.0,
+    "gap_usd": 5520.0
+  }
+}

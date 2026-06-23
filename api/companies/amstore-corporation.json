@@ -1,0 +1,43 @@
+{
+  "slug": "amstore-corporation",
+  "canonical_name": "Amstore Corporation",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "MI",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "04/24/2019",
+      "effective_date": "04/24/2019",
+      "state": "MI",
+      "workers": 107,
+      "city": "Grand Rapids, Michigan"
+    },
+    {
+      "date": "02/25/2019",
+      "effective_date": "02/25/2019",
+      "state": "MI",
+      "workers": 145,
+      "city": "Grand Rapids"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "kent-allegan-michigan-works",
+      "name": "Kent & Allegan Michigan Works!",
+      "state": "MI"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

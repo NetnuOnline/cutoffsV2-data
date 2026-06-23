@@ -1,0 +1,121 @@
+{
+  "slug": "exeliq-consulting",
+  "canonical_name": "Exeliq Consulting Inc.",
+  "fein": "83-1235645",
+  "lca_filing_count": 17,
+  "lca_worker_positions": 17,
+  "warn_notice_count": 0,
+  "median_wage_usd": 127000.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 3,
+      "median_wage_usd": 92000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 6,
+      "median_wage_usd": 145000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 93331.5
+    },
+    {
+      "fy": 2026,
+      "filings": 4,
+      "median_wage_usd": 147000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Cloud Data Engineer",
+      "count": 3,
+      "median_wage_usd": 107000.0
+    },
+    {
+      "title": "Senior Data Engineer",
+      "count": 2,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "Cloud Architect",
+      "count": 2,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "title": "Senior Data Consultant",
+      "count": 2,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "title": "Principal Data Engineer",
+      "count": 2,
+      "median_wage_usd": 144000.0
+    },
+    {
+      "title": "Snowflake Developer",
+      "count": 2,
+      "median_wage_usd": 133500.0
+    },
+    {
+      "title": "Sr. Data Analyst",
+      "count": 1,
+      "median_wage_usd": 95763.0
+    },
+    {
+      "title": "Info Syst & Sol Architect ",
+      "count": 1,
+      "median_wage_usd": 92000.0
+    },
+    {
+      "title": "Information Systems & Solutions ",
+      "count": 1,
+      "median_wage_usd": 92000.0
+    },
+    {
+      "title": "Lead Cloud Data Engineer",
+      "count": 1,
+      "median_wage_usd": 105000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 9
+    },
+    {
+      "state": "CA",
+      "county": "SAN JOAQUIN",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 15
+    },
+    {
+      "state": "CA",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 142000.0,
+    "gap_usd": 11840.0
+  }
+}

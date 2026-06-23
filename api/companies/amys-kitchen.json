@@ -1,0 +1,43 @@
+{
+  "slug": "amys-kitchen",
+  "canonical_name": "Amys Kitchen, Inc.",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "10/02/2024",
+      "effective_date": "12/03/2024",
+      "state": "CA",
+      "workers": 22,
+      "city": "Santa Rosa"
+    },
+    {
+      "date": "10/02/2024",
+      "effective_date": "12/03/2024",
+      "state": "CA",
+      "workers": 283,
+      "city": "Santa Rosa"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "sonoma-county-wib",
+      "name": "Sonoma County WIB",
+      "state": "CA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

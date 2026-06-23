@@ -1,0 +1,46 @@
+{
+  "slug": "sk-c-c-usa",
+  "canonical_name": "SK C&C USA, Inc.",
+  "fein": null,
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 57750.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 57750.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "MES Monitoring Operator",
+      "count": 2,
+      "median_wage_usd": 57750.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "GA",
+      "county": "JACKSON",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1244",
+    "soc_title": "Network and Computer Systems Administrators",
+    "market_median_usd": 95000.0,
+    "employer_median_usd": 57750.0,
+    "gap_usd": -37250.0
+  }
+}

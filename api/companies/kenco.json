@@ -1,0 +1,95 @@
+{
+  "slug": "kenco",
+  "canonical_name": "Kenco",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 5,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "count": 1
+    },
+    {
+      "state": "SC",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    },
+    {
+      "state": "TN",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "04/21/2021",
+      "effective_date": "06/21/2021",
+      "state": "IL",
+      "workers": 190,
+      "city": "Decatur"
+    },
+    {
+      "date": "11/04/2018",
+      "effective_date": "11/04/2018",
+      "state": "MI",
+      "workers": 49,
+      "city": "Dexter, Michigan"
+    },
+    {
+      "date": "08/31/2018",
+      "effective_date": "08/31/2018",
+      "state": "SC",
+      "workers": 100,
+      "city": "Summerville"
+    },
+    {
+      "date": "02/27/2017",
+      "effective_date": "02/27/2017",
+      "state": "GA",
+      "workers": 71,
+      "city": "Fairburn"
+    },
+    {
+      "date": "02/19/2016",
+      "effective_date": "05/09/2016",
+      "state": "TN",
+      "workers": 238,
+      "city": "Chattanooga"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "macon-dewitt-wib",
+      "name": "Macon-Dewitt WIB",
+      "state": "IL"
+    },
+    {
+      "slug": "washtenaw-county-employment-training-and-community-services",
+      "name": "Washtenaw County Employment Training and Community Services",
+      "state": "MI"
+    },
+    {
+      "slug": "trident-wib",
+      "name": "Trident WIB",
+      "state": "SC"
+    },
+    {
+      "slug": "05-local-workforce-investment-area",
+      "name": "05 Local Workforce Investment Area",
+      "state": "TN"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

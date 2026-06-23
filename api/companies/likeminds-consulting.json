@@ -1,0 +1,113 @@
+{
+  "slug": "likeminds-consulting",
+  "canonical_name": "Likeminds Consulting Inc.",
+  "fein": null,
+  "lca_filing_count": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 116230.4,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 122220.8
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 110240.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 110520.6
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Information Security Engineer",
+      "count": 1,
+      "median_wage_usd": 78478.0
+    },
+    {
+      "title": "Software Engineer (PlainID Engineer)",
+      "count": 1,
+      "median_wage_usd": 122220.8
+    },
+    {
+      "title": "Software Engineer (Ping Engineer)",
+      "count": 1,
+      "median_wage_usd": 110240.0
+    },
+    {
+      "title": "Software Engineer (IDM Engineer)",
+      "count": 1,
+      "median_wage_usd": 142563.2
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "VA",
+      "county": "FAIRFAX",
+      "count": 3
+    },
+    {
+      "state": "NJ",
+      "county": "MIDDLESEX",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "VA",
+      "count": 3
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 2,
+    "initial_denials": 0,
+    "continuing_approvals": 4,
+    "continuing_denials": 0,
+    "total_approvals": 6,
+    "by_fy": [
+      {
+        "fy": 2021,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 4
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 126401.6,
+    "gap_usd": -3758.4
+  }
+}

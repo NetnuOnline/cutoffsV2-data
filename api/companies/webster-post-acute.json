@@ -1,0 +1,43 @@
+{
+  "slug": "webster-post-acute",
+  "canonical_name": "Webster Post Acute",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "IA",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "02/07/2023",
+      "effective_date": "03/15/2023",
+      "state": "IA",
+      "workers": 51,
+      "city": "Fort Dodge"
+    },
+    {
+      "date": "02/07/2023",
+      "effective_date": "03/15/2023",
+      "state": "IA",
+      "workers": 26,
+      "city": "Winterset"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "region-5-fort-dodge-wib",
+      "name": "Region 5 - Fort Dodge WIB",
+      "state": "IA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

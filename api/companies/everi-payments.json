@@ -1,0 +1,119 @@
+{
+  "slug": "everi-payments",
+  "canonical_name": "Everi Payments, Inc.",
+  "fein": "94-3309549",
+  "lca_filing_count": 9,
+  "warn_notice_count": 0,
+  "median_wage_usd": 137080.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 125500.0
+    },
+    {
+      "fy": 2025,
+      "filings": 5,
+      "median_wage_usd": 151736.88
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Architect Software IV",
+      "count": 2,
+      "median_wage_usd": 151736.88
+    },
+    {
+      "title": "Engineer Software",
+      "count": 2,
+      "median_wage_usd": 110227.5
+    },
+    {
+      "title": "Manager Quality Engineering",
+      "count": 2,
+      "median_wage_usd": 125500.0
+    },
+    {
+      "title": "Developer SW Principal II",
+      "count": 1,
+      "median_wage_usd": 137080.0
+    },
+    {
+      "title": "Manager, Software Development",
+      "count": 1,
+      "median_wage_usd": 155920.68
+    },
+    {
+      "title": "Manager Software Development",
+      "count": 1,
+      "median_wage_usd": 155920.68
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NV",
+      "county": "CLARK",
+      "count": 3
+    },
+    {
+      "state": "FL",
+      "county": "PASCO",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "county": "OAKLAND",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NV",
+      "count": 3
+    },
+    {
+      "state": "FL",
+      "count": 3
+    },
+    {
+      "state": "MI",
+      "count": 1
+    },
+    {
+      "state": "SC",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 3,
+    "continuing_denials": 0,
+    "total_approvals": 3,
+    "by_fy": [
+      {
+        "fy": 2020,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      }
+    ]
+  },
+  "lca_worker_positions": 8,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 110227.5,
+    "gap_usd": -19932.5
+  }
+}

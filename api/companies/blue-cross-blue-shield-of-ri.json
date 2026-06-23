@@ -1,0 +1,68 @@
+{
+  "slug": "blue-cross-blue-shield-of-ri",
+  "canonical_name": "Blue Cross Blue Shield of RI",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "RI",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "02/01/2016",
+      "effective_date": "01/04/2016",
+      "state": "RI",
+      "workers": 241,
+      "city": "Providence"
+    },
+    {
+      "date": "01/04/2016",
+      "effective_date": "01/04/2016",
+      "state": "RI",
+      "workers": 241,
+      "city": "Providence"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "workforce-solutions-of-providencecranston",
+      "name": "Workforce Solutions of Providence/Cranston",
+      "state": "RI"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 7,
+    "continuing_denials": 0,
+    "total_approvals": 7,
+    "by_fy": [
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 6,
+        "continuing_denials": 0,
+        "total_approvals": 6
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  }
+}

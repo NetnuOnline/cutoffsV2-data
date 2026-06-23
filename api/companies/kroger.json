@@ -1,0 +1,546 @@
+{
+  "slug": "kroger",
+  "canonical_name": "Kroger",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 51,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "OR",
+      "count": 18
+    },
+    {
+      "state": "NC",
+      "count": 14
+    },
+    {
+      "state": "VA",
+      "count": 7
+    },
+    {
+      "state": "IL",
+      "count": 4
+    },
+    {
+      "state": "MI",
+      "count": 3
+    },
+    {
+      "state": "TN",
+      "count": 2
+    },
+    {
+      "state": "OK",
+      "count": 1
+    },
+    {
+      "state": "OH",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "01/29/2026",
+      "effective_date": "04/05/2026",
+      "state": "OR",
+      "workers": 3,
+      "city": "Wood Village"
+    },
+    {
+      "date": "01/29/2026",
+      "effective_date": "04/05/2026",
+      "state": "OR",
+      "workers": 3,
+      "city": "Wilsonville"
+    },
+    {
+      "date": "01/29/2026",
+      "effective_date": "04/05/2026",
+      "state": "OR",
+      "workers": 4,
+      "city": "Portland"
+    },
+    {
+      "date": "01/29/2026",
+      "effective_date": "04/05/2026",
+      "state": "OR",
+      "workers": 3,
+      "city": "Eugene"
+    },
+    {
+      "date": "01/29/2026",
+      "effective_date": "04/05/2026",
+      "state": "OR",
+      "workers": 4,
+      "city": "Portland"
+    },
+    {
+      "date": "01/29/2026",
+      "effective_date": "04/05/2026",
+      "state": "OR",
+      "workers": 4,
+      "city": "Portland"
+    },
+    {
+      "date": "01/29/2026",
+      "effective_date": "04/05/2026",
+      "state": "OR",
+      "workers": 4,
+      "city": "Milwaukie"
+    },
+    {
+      "date": "01/29/2026",
+      "effective_date": "04/05/2026",
+      "state": "OR",
+      "workers": 4,
+      "city": "Happy Valley"
+    },
+    {
+      "date": "01/29/2026",
+      "effective_date": "04/05/2026",
+      "state": "OR",
+      "workers": 4,
+      "city": "Portland"
+    },
+    {
+      "date": "01/29/2026",
+      "effective_date": "04/05/2026",
+      "state": "OR",
+      "workers": 4,
+      "city": "Portland"
+    },
+    {
+      "date": "01/29/2026",
+      "effective_date": "04/05/2026",
+      "state": "OR",
+      "workers": 4,
+      "city": "Portland"
+    },
+    {
+      "date": "01/29/2026",
+      "effective_date": "04/05/2026",
+      "state": "OR",
+      "workers": 4,
+      "city": "Powell Valley"
+    },
+    {
+      "date": "01/29/2026",
+      "effective_date": "04/05/2026",
+      "state": "OR",
+      "workers": 4,
+      "city": "North Tabor"
+    },
+    {
+      "date": "01/29/2026",
+      "effective_date": "04/05/2026",
+      "state": "OR",
+      "workers": 4,
+      "city": "Salem"
+    },
+    {
+      "date": "01/29/2026",
+      "effective_date": "04/05/2026",
+      "state": "OR",
+      "workers": 4,
+      "city": "Portland"
+    },
+    {
+      "date": "01/29/2026",
+      "effective_date": "04/05/2026",
+      "state": "OR",
+      "workers": 4,
+      "city": "Clackamas"
+    },
+    {
+      "date": "01/29/2026",
+      "effective_date": "04/05/2026",
+      "state": "OR",
+      "workers": 4,
+      "city": "Portland"
+    },
+    {
+      "date": "01/29/2026",
+      "effective_date": "04/05/2026",
+      "state": "OR",
+      "workers": 3,
+      "city": "Beaverton"
+    },
+    {
+      "date": "12/03/2025",
+      "effective_date": "12/03/2025",
+      "state": "OK",
+      "workers": 0,
+      "city": "Oklahoma City"
+    },
+    {
+      "date": "11/16/2025",
+      "effective_date": "05/01/2026",
+      "state": "IL",
+      "workers": 1,
+      "city": "Maywood"
+    },
+    {
+      "date": "11/16/2025",
+      "effective_date": "02/01/2026",
+      "state": "IL",
+      "workers": 71,
+      "city": "Maywood"
+    },
+    {
+      "date": "06/20/2025",
+      "effective_date": "08/22/2025",
+      "state": "VA",
+      "workers": 81,
+      "city": "Charlottesville, VA"
+    },
+    {
+      "date": "10/02/2020",
+      "effective_date": "10/02/2020",
+      "state": "MI",
+      "workers": 73,
+      "city": "Sturgis"
+    },
+    {
+      "date": "08/31/2020",
+      "effective_date": "10/30/2020",
+      "state": "OH",
+      "workers": 115,
+      "city": "Kenton/Hardin"
+    },
+    {
+      "date": "08/27/2020",
+      "effective_date": "10/31/2020",
+      "state": "TN",
+      "workers": 80,
+      "city": "Tipton County"
+    },
+    {
+      "date": "05/25/2019",
+      "effective_date": "05/25/2019",
+      "state": "MI",
+      "workers": 91,
+      "city": "Mt. Pleasant, Michigan"
+    },
+    {
+      "date": "03/27/2019",
+      "effective_date": "03/27/2019",
+      "state": "MI",
+      "workers": 91,
+      "city": "Mt Pleasant"
+    },
+    {
+      "date": "10/18/2018",
+      "effective_date": "12/19/2018",
+      "state": "VA",
+      "workers": 102,
+      "city": "Norfolk, VA"
+    },
+    {
+      "date": "06/13/2018",
+      "effective_date": "08/14/2018",
+      "state": "NC",
+      "workers": 118,
+      "city": "940 US 64 Hwy W, Apex"
+    },
+    {
+      "date": "06/13/2018",
+      "effective_date": "08/14/2018",
+      "state": "NC",
+      "workers": 118,
+      "city": "8345 Creedmoor Rd, Raleigh"
+    },
+    {
+      "date": "06/13/2018",
+      "effective_date": "08/14/2018",
+      "state": "NC",
+      "workers": 118,
+      "city": "7905 Falls of Neuse Rd, Raleigh"
+    },
+    {
+      "date": "06/13/2018",
+      "effective_date": "08/14/2018",
+      "state": "NC",
+      "workers": 118,
+      "city": "6300 Creedmoor Rd # 150, Raleigh"
+    },
+    {
+      "date": "06/13/2018",
+      "effective_date": "08/14/2018",
+      "state": "NC",
+      "workers": 118,
+      "city": "350 E Six Forks Rd # A, Raleigh"
+    },
+    {
+      "date": "06/13/2018",
+      "effective_date": "08/14/2018",
+      "state": "NC",
+      "workers": 118,
+      "city": "3420 Southwest Durham Dr, Durham"
+    },
+    {
+      "date": "06/13/2018",
+      "effective_date": "08/14/2018",
+      "state": "NC",
+      "workers": 118,
+      "city": "2680 Timber Dr, Garner"
+    },
+    {
+      "date": "06/13/2018",
+      "effective_date": "08/14/2018",
+      "state": "NC",
+      "workers": 118,
+      "city": "1371 E Broad St, Fuquay Varina"
+    },
+    {
+      "date": "06/13/2018",
+      "effective_date": "08/14/2018",
+      "state": "NC",
+      "workers": 118,
+      "city": "1273 NW Maynard Rd, Cary"
+    },
+    {
+      "date": "06/13/2018",
+      "effective_date": "08/14/2018",
+      "state": "NC",
+      "workers": 118,
+      "city": "5116 N Roxboro St, Durham"
+    },
+    {
+      "date": "06/13/2018",
+      "effective_date": "08/14/2018",
+      "state": "NC",
+      "workers": 118,
+      "city": "3825 S Roxboro St # 101, Durham"
+    },
+    {
+      "date": "06/13/2018",
+      "effective_date": "08/14/2018",
+      "state": "NC",
+      "workers": 118,
+      "city": "3457 Hillsborough Rd, Durham"
+    },
+    {
+      "date": "06/13/2018",
+      "effective_date": "08/14/2018",
+      "state": "NC",
+      "workers": 118,
+      "city": "202 W Nc Highway 54 # 301, Durham"
+    },
+    {
+      "date": "06/13/2018",
+      "effective_date": "08/14/2018",
+      "state": "NC",
+      "workers": 118,
+      "city": "1802 N Pointe Dr, Durham"
+    },
+    {
+      "date": "04/17/2014",
+      "effective_date": "03/04/2014",
+      "state": "TN",
+      "workers": 62,
+      "city": "Sparta"
+    },
+    {
+      "date": "01/17/2014",
+      "effective_date": "03/21/2014",
+      "state": "VA",
+      "workers": 98,
+      "city": "Lynchburg, VA"
+    },
+    {
+      "date": "01/17/2014",
+      "effective_date": "03/21/2014",
+      "state": "VA",
+      "workers": 52,
+      "city": "Galax, VA"
+    },
+    {
+      "date": "03/19/2013",
+      "effective_date": "05/21/2013",
+      "state": "VA",
+      "workers": 80,
+      "city": "Farmville, VA"
+    },
+    {
+      "date": "01/15/2013",
+      "effective_date": "03/01/2013",
+      "state": "IL",
+      "workers": 65,
+      "city": "Du Quoin"
+    },
+    {
+      "date": "01/23/2012",
+      "effective_date": "03/23/2012",
+      "state": "VA",
+      "workers": 62,
+      "city": "Martinsville, VA"
+    },
+    {
+      "date": "09/22/2011",
+      "effective_date": "12/02/2011",
+      "state": "VA",
+      "workers": 101,
+      "city": "Richmond, VA"
+    },
+    {
+      "date": "01/26/2002",
+      "effective_date": "02/01/2001",
+      "state": "IL",
+      "workers": 60,
+      "city": "Sparta"
+    },
+    {
+      "date": "04/19/2000",
+      "effective_date": "04/19/2000",
+      "state": "GA",
+      "workers": 80,
+      "city": "Ft Oglethorpe"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "chicago-cook-wib",
+      "name": "Chicago-Cook WIB",
+      "state": "IL"
+    },
+    {
+      "slug": "career-link",
+      "name": "Career Link",
+      "state": "IL"
+    },
+    {
+      "slug": "land-of-lincoln-wf-alliance",
+      "name": "Land of Lincoln WF Alliance",
+      "state": "IL"
+    },
+    {
+      "slug": "crossroads-wib",
+      "name": "Crossroads WIB",
+      "state": "IL"
+    },
+    {
+      "slug": "southern-il-wib",
+      "name": "Southern IL WIB",
+      "state": "IL"
+    },
+    {
+      "slug": "kalamazoo-st-joseph-michigan-works",
+      "name": "Kalamazoo-St. Joseph Michigan Works!",
+      "state": "MI"
+    },
+    {
+      "slug": "cleveland-wia",
+      "name": "Cleveland WIA",
+      "state": "OK"
+    },
+    {
+      "slug": "portland-metro-wia",
+      "name": "Portland Metro WIA",
+      "state": "OR"
+    },
+    {
+      "slug": "clackamas-wia",
+      "name": "Clackamas WIA",
+      "state": "OR"
+    },
+    {
+      "slug": "mid-valley-wia",
+      "name": "Mid-Valley WIA",
+      "state": "OR"
+    },
+    {
+      "slug": "lane-wia",
+      "name": "Lane WIA",
+      "state": "OR"
+    },
+    {
+      "slug": "piedmont-workforce-network-lwia-vi",
+      "name": "Piedmont Workforce Network LWIA VI",
+      "state": "VA"
+    },
+    {
+      "slug": "region-2000central-va-lwia-vii",
+      "name": "Region 2000/Central VA LWIA VII",
+      "state": "VA"
+    },
+    {
+      "slug": "south-central-lwia-viii",
+      "name": "South Central LWIA VIII",
+      "state": "VA"
+    },
+    {
+      "slug": "west-piedmont-lwia-xvii",
+      "name": "West Piedmont LWIA XVII",
+      "state": "VA"
+    }
+  ],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2025-12-05",
+        "formType": "8-K/A",
+        "accessionNumber": "0001104659-25-118905",
+        "items": [
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000056873&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2025-11-18",
+        "formType": "8-K",
+        "accessionNumber": "0001104659-25-113746",
+        "items": [
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000056873&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2017-04-07",
+        "formType": "8-K",
+        "accessionNumber": "0001104659-17-022180",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000056873&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2013-10-17",
+        "formType": "8-K",
+        "accessionNumber": "0001104659-13-076049",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000056873&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 4,
+    "itemCounts": {
+      "2.06": 2,
+      "5.02": 2
+    },
+    "latestFilingDate": "2025-12-05",
+    "earliestFilingDate": "2013-10-17"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

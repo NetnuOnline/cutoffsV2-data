@@ -1,0 +1,378 @@
+{
+  "slug": "cox-communications",
+  "canonical_name": "Cox Communications, Inc.",
+  "fein": null,
+  "lca_filing_count": 16,
+  "warn_notice_count": 14,
+  "median_wage_usd": 135422.5,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 113275.315
+    },
+    {
+      "fy": 2021,
+      "filings": 9,
+      "median_wage_usd": 132979.0
+    },
+    {
+      "fy": 2022,
+      "filings": 5,
+      "median_wage_usd": 146951.79
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Sr. Tech Product Manager \u2013 Commercial Managed/Hosted Svcs.",
+      "count": 1,
+      "median_wage_usd": 132979.0
+    },
+    {
+      "title": "Marketing Technology Strategist",
+      "count": 1,
+      "median_wage_usd": 153925.2
+    },
+    {
+      "title": "Application Engineer",
+      "count": 1,
+      "median_wage_usd": 130625.0
+    },
+    {
+      "title": "Analytics Engineer",
+      "count": 1,
+      "median_wage_usd": 107941.5
+    },
+    {
+      "title": "Senior Manager, Supply Chain Analytics",
+      "count": 1,
+      "median_wage_usd": 160000.0
+    },
+    {
+      "title": "Data Scientist ",
+      "count": 1,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "Director, Technology",
+      "count": 1,
+      "median_wage_usd": 196937.43
+    },
+    {
+      "title": "Lead Network Engineer",
+      "count": 1,
+      "median_wage_usd": 137866.0
+    },
+    {
+      "title": "SENIOR MANAGER, ENTERPRISE APPLICATIONS",
+      "count": 1,
+      "median_wage_usd": 175489.6
+    },
+    {
+      "title": "LEAD ANALYTICS ENGINEER",
+      "count": 1,
+      "median_wage_usd": 130000.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 14
+    },
+    {
+      "state": "CA",
+      "count": 2
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 14
+    },
+    {
+      "state": "CA",
+      "county": "SANTA BARBARA",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "ORANGE",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "02/27/2015",
+      "effective_date": "08/31/2014",
+      "state": "RI",
+      "workers": 142,
+      "city": "West Warwick"
+    },
+    {
+      "date": "08/31/2014",
+      "effective_date": "08/31/2014",
+      "state": "RI",
+      "workers": 142,
+      "city": "West Warwick"
+    },
+    {
+      "date": "06/01/2014",
+      "effective_date": "06/01/2014",
+      "state": "NE",
+      "workers": 77,
+      "city": "Omaha"
+    },
+    {
+      "date": "05/07/2014",
+      "effective_date": "07/06/2014",
+      "state": "VA",
+      "workers": 172,
+      "city": "Cheseapeake, VA"
+    },
+    {
+      "date": "04/02/2014",
+      "effective_date": "06/01/2014",
+      "state": "LA",
+      "workers": 125,
+      "city": "Metairie"
+    },
+    {
+      "date": "04/02/2014",
+      "effective_date": "04/02/2014",
+      "state": "NE",
+      "workers": 77,
+      "city": "Omaha"
+    },
+    {
+      "date": "03/04/2014",
+      "effective_date": "03/04/2014",
+      "state": "OK",
+      "workers": 84,
+      "city": null
+    },
+    {
+      "date": "03/03/2014",
+      "effective_date": "03/03/2014",
+      "state": "OK",
+      "workers": 240,
+      "city": "05 - CentralRegion"
+    },
+    {
+      "date": "03/03/2014",
+      "effective_date": "03/03/2014",
+      "state": "KS",
+      "workers": 160,
+      "city": "4 - Workforce Investment Area IV"
+    },
+    {
+      "date": "03/03/2014",
+      "effective_date": "03/03/2014",
+      "state": "OK",
+      "workers": 0,
+      "city": "Oklahoma City"
+    },
+    {
+      "date": "02/27/2014",
+      "effective_date": "05/04/2014",
+      "state": "LA",
+      "workers": 58,
+      "city": "Lafayette"
+    },
+    {
+      "date": "02/27/2014",
+      "effective_date": "05/04/2014",
+      "state": "LA",
+      "workers": 63,
+      "city": "Baton Rouge"
+    },
+    {
+      "date": "01/27/2012",
+      "effective_date": "01/27/2012",
+      "state": "GA",
+      "workers": 133,
+      "city": "Atlanta"
+    },
+    {
+      "date": "07/22/2010",
+      "effective_date": "07/22/2010",
+      "state": "GA",
+      "workers": 71,
+      "city": "Macon"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "macon-bibb-wib",
+      "name": "Macon-Bibb WIB",
+      "state": "GA"
+    },
+    {
+      "slug": "east-baton-rouge-parish-wia",
+      "name": "East Baton Rouge Parish WIA",
+      "state": "LA"
+    },
+    {
+      "slug": "jefferson-parish-wia",
+      "name": "Jefferson Parish WIA",
+      "state": "LA"
+    },
+    {
+      "slug": "fourth-planning-district-consortium-wia",
+      "name": "Fourth Planning District Consortium WIA",
+      "state": "LA"
+    },
+    {
+      "slug": "cleveland-wia",
+      "name": "Cleveland WIA",
+      "state": "OK"
+    },
+    {
+      "slug": "workforce-partnership-of-greater-rhode-island",
+      "name": "Workforce Partnership of Greater Rhode Island",
+      "state": "RI"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 15,
+    "initial_denials": 2,
+    "continuing_approvals": 93,
+    "continuing_denials": 1,
+    "total_approvals": 108,
+    "by_fy": [
+      {
+        "fy": 2009,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2010,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2011,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2012,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2013,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2014,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2015,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2016,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2017,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 4,
+        "initial_denials": 2,
+        "continuing_approvals": 17,
+        "continuing_denials": 0,
+        "total_approvals": 21
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 4,
+        "initial_denials": 0,
+        "continuing_approvals": 19,
+        "continuing_denials": 0,
+        "total_approvals": 23
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 6,
+        "initial_denials": 0,
+        "continuing_approvals": 49,
+        "continuing_denials": 0,
+        "total_approvals": 55
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 8,
+        "continuing_denials": 1,
+        "total_approvals": 9
+      }
+    ]
+  },
+  "lca_worker_positions": 16,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3021",
+    "soc_title": "Computer and Information Systems Managers",
+    "market_median_usd": 169510.0,
+    "employer_median_usd": 167744.8,
+    "gap_usd": -1765.2
+  }
+}

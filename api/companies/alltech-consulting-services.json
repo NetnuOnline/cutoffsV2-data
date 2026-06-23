@@ -1,0 +1,113 @@
+{
+  "slug": "alltech-consulting-services",
+  "canonical_name": "Alltech Consulting Services Inc.",
+  "fein": "22-3562933",
+  "lca_filing_count": 20,
+  "lca_worker_positions": 20,
+  "warn_notice_count": 0,
+  "median_wage_usd": 131996.9,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 5,
+      "median_wage_usd": 157476.8
+    },
+    {
+      "fy": 2023,
+      "filings": 7,
+      "median_wage_usd": 169228.8
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 119704.0
+    },
+    {
+      "fy": 2025,
+      "filings": 5,
+      "median_wage_usd": 131996.8
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 127233.6,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Consultant IV",
+      "count": 11,
+      "median_wage_usd": 157476.8
+    },
+    {
+      "title": "Software Consultant III",
+      "count": 5,
+      "median_wage_usd": 110739.2
+    },
+    {
+      "title": "Software Consultant II",
+      "count": 4,
+      "median_wage_usd": 120317.4
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 7
+    },
+    {
+      "state": "NJ",
+      "county": "MIDDLESEX",
+      "count": 3
+    },
+    {
+      "state": "FL",
+      "county": "HILLSBOROUGH",
+      "count": 2
+    },
+    {
+      "state": "NC",
+      "county": "UNION",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SAN MATEO",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 9
+    },
+    {
+      "state": "NJ",
+      "count": 7
+    },
+    {
+      "state": "FL",
+      "count": 2
+    },
+    {
+      "state": "NC",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 157476.8,
+    "gap_usd": 27316.8
+  }
+}

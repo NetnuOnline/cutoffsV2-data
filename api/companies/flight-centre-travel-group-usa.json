@@ -1,0 +1,145 @@
+{
+  "slug": "flight-centre-travel-group-usa",
+  "canonical_name": "Flight Centre Travel Group (USA), Inc.",
+  "fein": null,
+  "lca_filing_count": 3,
+  "warn_notice_count": 2,
+  "median_wage_usd": 230000.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 144000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 263320.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Commercial Financial Director FCM",
+      "count": 1,
+      "median_wage_usd": 144000.0
+    },
+    {
+      "title": "Director of Engineering Profile and Automation ",
+      "count": 1,
+      "median_wage_usd": 230000.0
+    },
+    {
+      "title": "VP Finance Flight Centre Travel Group Americas ",
+      "count": 1,
+      "median_wage_usd": 296640.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NJ",
+      "county": "BERGEN",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "02/28/2024",
+      "effective_date": "06/01/2024",
+      "state": "NJ",
+      "workers": 84,
+      "city": "Montvale"
+    },
+    {
+      "date": "09/30/2020",
+      "effective_date": "09/30/2020",
+      "state": "NJ",
+      "workers": 166,
+      "city": "Montvale"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "bergen-wib",
+      "name": "Bergen WIB",
+      "state": "NJ"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 1,
+    "continuing_approvals": 3,
+    "continuing_denials": 0,
+    "total_approvals": 4,
+    "by_fy": [
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 1,
+        "initial_denials": 1,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      }
+    ]
+  },
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3031",
+    "soc_title": "Financial Managers",
+    "market_median_usd": 156100.0,
+    "employer_median_usd": 296640.0,
+    "gap_usd": 140540.0
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "slug": "my-supply-chain-group",
+  "canonical_name": "My Supply Chain Group, LLC",
+  "fein": "26-3989106",
+  "lca_filing_count": 37,
+  "lca_worker_positions": 37,
+  "warn_notice_count": 0,
+  "median_wage_usd": 149000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 4,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 8,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 7,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 5,
+      "median_wage_usd": 200000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 7,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 5,
+      "median_wage_usd": 160000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SAP-EWM TECHNICAL DEVELOPER",
+      "count": 3,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "title": "SAP SCM/TM Practice Lead and Solution Architect",
+      "count": 2,
+      "median_wage_usd": 200000.0
+    },
+    {
+      "title": "SAP EWM Functional Analyst",
+      "count": 2,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "title": "Senior Technical Analyst ",
+      "count": 2,
+      "median_wage_usd": 147500.0
+    },
+    {
+      "title": "SAP Analyst",
+      "count": 2,
+      "median_wage_usd": 114000.0
+    },
+    {
+      "title": "Principal Solution Architect SAP Transportation Management",
+      "count": 2,
+      "median_wage_usd": 180000.0
+    },
+    {
+      "title": "SAP EWM DEVELOPER",
+      "count": 2,
+      "median_wage_usd": 142000.0
+    },
+    {
+      "title": "SAP EWM System Architect",
+      "count": 2,
+      "median_wage_usd": 180000.0
+    },
+    {
+      "title": "SAP EWM Technical Analyst",
+      "count": 2,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "SAP SCM  Functional Analyst",
+      "count": 2,
+      "median_wage_usd": 121500.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "AL",
+      "county": "SHELBY",
+      "count": 9
+    },
+    {
+      "state": "GA",
+      "county": "COBB",
+      "count": 3
+    },
+    {
+      "state": "MN",
+      "county": "DAKOTA",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 2
+    },
+    {
+      "state": "WI",
+      "county": "WAUKESHA",
+      "count": 1
+    },
+    {
+      "state": "MO",
+      "county": "ST LOUIS",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "FORT BEND",
+      "count": 1
+    },
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "county": "MECKLENBURG",
+      "count": 1
+    },
+    {
+      "state": "MN",
+      "county": "WASHINGTON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "AL",
+      "count": 13
+    },
+    {
+      "state": "TX",
+      "count": 7
+    },
+    {
+      "state": "GA",
+      "count": 4
+    },
+    {
+      "state": "MN",
+      "count": 4
+    },
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "OR",
+      "count": 1
+    },
+    {
+      "state": "AZ",
+      "count": 1
+    },
+    {
+      "state": "DE",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "count": 1
+    },
+    {
+      "state": "MO",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 155000.0,
+    "gap_usd": 24840.0
+  }
+}

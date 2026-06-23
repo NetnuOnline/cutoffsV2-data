@@ -1,0 +1,203 @@
+{
+  "slug": "learnbeyond-consulting",
+  "canonical_name": "LEARNBEYOND CONSULTING, LLC.",
+  "fein": "82-4413710",
+  "lca_filing_count": 21,
+  "warn_notice_count": 0,
+  "median_wage_usd": 96928.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 74817.5
+    },
+    {
+      "fy": 2022,
+      "filings": 4,
+      "median_wage_usd": 92133.5
+    },
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 81640.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 105227.0
+    },
+    {
+      "fy": 2025,
+      "filings": 11,
+      "median_wage_usd": 101899.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SOFTWARE DEVELOPER",
+      "count": 8,
+      "median_wage_usd": 90885.5
+    },
+    {
+      "title": "SOFTWARE ENGINEER",
+      "count": 3,
+      "median_wage_usd": 102877.0
+    },
+    {
+      "title": "JAVA DEVELOPER",
+      "count": 3,
+      "median_wage_usd": 83600.0
+    },
+    {
+      "title": "APPLICATION DEVELOPMENT ANALYST\t",
+      "count": 1,
+      "median_wage_usd": 67392.0
+    },
+    {
+      "title": ".NET DEVELOPER",
+      "count": 1,
+      "median_wage_usd": 101899.0
+    },
+    {
+      "title": "SQL DBA",
+      "count": 1,
+      "median_wage_usd": 85363.0
+    },
+    {
+      "title": "MAINFRAME DEVELOPER",
+      "count": 1,
+      "median_wage_usd": 105227.0
+    },
+    {
+      "title": "COMPUTER PROGRAMMER",
+      "count": 1,
+      "median_wage_usd": 102877.0
+    },
+    {
+      "title": "SOFTWARE ENGINEER \u2013 APPLICATIONS",
+      "count": 1,
+      "median_wage_usd": 98904.0
+    },
+    {
+      "title": "DATA ANALYST",
+      "count": 1,
+      "median_wage_usd": 96928.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NM",
+      "county": "SANTA FE",
+      "count": 6
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 3
+    },
+    {
+      "state": "GA",
+      "county": "DEKALB",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "county": "KENT",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NM",
+      "count": 8
+    },
+    {
+      "state": "TX",
+      "count": 4
+    },
+    {
+      "state": "CA",
+      "count": 3
+    },
+    {
+      "state": "OH",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "count": 1
+    },
+    {
+      "state": "AR",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 41,
+    "initial_denials": 5,
+    "continuing_approvals": 35,
+    "continuing_denials": 3,
+    "total_approvals": 76,
+    "by_fy": [
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 7,
+        "initial_denials": 5,
+        "continuing_approvals": 9,
+        "continuing_denials": 3,
+        "total_approvals": 16
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 17,
+        "initial_denials": 0,
+        "continuing_approvals": 10,
+        "continuing_denials": 0,
+        "total_approvals": 27
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 13,
+        "initial_denials": 0,
+        "continuing_approvals": 6,
+        "continuing_denials": 0,
+        "total_approvals": 19
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 4,
+        "initial_denials": 0,
+        "continuing_approvals": 10,
+        "continuing_denials": 0,
+        "total_approvals": 14
+      }
+    ]
+  },
+  "lca_worker_positions": 21,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 95524.0,
+    "gap_usd": -34636.0
+  }
+}

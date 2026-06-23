@@ -1,0 +1,54 @@
+{
+  "slug": "r-l-carriers-shared-services-l-lc",
+  "canonical_name": "R & L Carriers Shared Services, L.LC.",
+  "fein": "20-0451193",
+  "lca_filing_count": 3,
+  "lca_worker_positions": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 118450.0,
+  "by_fy": [
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 118450.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": ".Net Developer",
+      "count": 2,
+      "median_wage_usd": 133907.5
+    },
+    {
+      "title": "TIBCO EDI Developr",
+      "count": 1,
+      "median_wage_usd": 117832.0
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "OH",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 118450.0,
+    "gap_usd": -11710.0
+  }
+}

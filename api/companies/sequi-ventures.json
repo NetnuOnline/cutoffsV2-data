@@ -1,0 +1,60 @@
+{
+  "slug": "sequi-ventures",
+  "canonical_name": "Sequi Ventures LLC",
+  "fein": "92-2331268",
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 101036.25,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 101036.25
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Data Scientist I",
+      "count": 1,
+      "median_wage_usd": 82072.5
+    },
+    {
+      "title": "Software Engineer II",
+      "count": 1,
+      "median_wage_usd": 120000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "FL",
+      "county": "VOLUSIA",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "HAYS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "FL",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Computer Systems Engineers/Architects",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 82072.5,
+    "gap_usd": -35927.5
+  }
+}

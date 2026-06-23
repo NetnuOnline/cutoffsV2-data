@@ -1,0 +1,57 @@
+{
+  "slug": "winnebago-ind",
+  "canonical_name": "Winnebago Ind",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 4,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "OR",
+      "count": 4
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "02/04/2019",
+      "effective_date": "06/14/2019",
+      "state": "OR",
+      "workers": 45,
+      "city": "Junction City"
+    },
+    {
+      "date": "02/04/2019",
+      "effective_date": "05/10/2019",
+      "state": "OR",
+      "workers": 49,
+      "city": "Junction City"
+    },
+    {
+      "date": "02/04/2019",
+      "effective_date": "04/19/2019",
+      "state": "OR",
+      "workers": 22,
+      "city": "Junction City"
+    },
+    {
+      "date": "02/04/2019",
+      "effective_date": "04/05/2019",
+      "state": "OR",
+      "workers": 22,
+      "city": "Junction City"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "lane-wia",
+      "name": "Lane WIA",
+      "state": "OR"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

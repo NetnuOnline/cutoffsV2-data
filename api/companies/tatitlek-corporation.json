@@ -1,0 +1,54 @@
+{
+  "slug": "tatitlek-corporation",
+  "canonical_name": "Tatitlek Corporation",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 3,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 2
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "08/31/2015",
+      "effective_date": "08/31/2015",
+      "state": "GA",
+      "workers": 22,
+      "city": "Suwanee"
+    },
+    {
+      "date": "09/28/2014",
+      "effective_date": "11/28/2014",
+      "state": "CA",
+      "workers": 125,
+      "city": "Twentynine Palms"
+    },
+    {
+      "date": "07/29/2014",
+      "effective_date": "09/30/2014",
+      "state": "CA",
+      "workers": 2562,
+      "city": "Twentynine Palms"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "san-bernardino-county-wib",
+      "name": "San Bernardino County WIB",
+      "state": "CA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

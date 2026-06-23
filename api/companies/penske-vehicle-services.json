@@ -1,0 +1,138 @@
+{
+  "slug": "penske-vehicle-services",
+  "canonical_name": "Penske Vehicle Services",
+  "fein": "51-0395686",
+  "lca_filing_count": 1,
+  "warn_notice_count": 10,
+  "median_wage_usd": 105000.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 105000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior IT Business Analyst",
+      "count": 1,
+      "median_wage_usd": 105000.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MI",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MI",
+      "county": "OAKLAND",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "07/18/2017",
+      "effective_date": "09/17/2017",
+      "state": "CA",
+      "workers": 15,
+      "city": "Torrance"
+    },
+    {
+      "date": "02/06/2017",
+      "effective_date": "02/06/2017",
+      "state": "MI",
+      "workers": 166,
+      "city": "Statewide"
+    },
+    {
+      "date": "01/31/2017",
+      "effective_date": "04/01/2017",
+      "state": "OH",
+      "workers": 2,
+      "city": "Warren/Trumbull"
+    },
+    {
+      "date": "01/31/2017",
+      "effective_date": "04/01/2017",
+      "state": "KY",
+      "workers": 1,
+      "city": "Warren"
+    },
+    {
+      "date": "01/30/2017",
+      "effective_date": "04/01/2017",
+      "state": "TX",
+      "workers": 4,
+      "city": "Irving"
+    },
+    {
+      "date": "01/30/2017",
+      "effective_date": "04/01/2017",
+      "state": "TX",
+      "workers": 2,
+      "city": "Austin"
+    },
+    {
+      "date": "01/30/2017",
+      "effective_date": "04/01/2017",
+      "state": "NY",
+      "workers": 1,
+      "city": "New York"
+    },
+    {
+      "date": "01/30/2017",
+      "effective_date": "04/01/2017",
+      "state": "NY",
+      "workers": 1,
+      "city": "Buffalo"
+    },
+    {
+      "date": "01/30/2017",
+      "effective_date": "04/01/2017",
+      "state": "CT",
+      "workers": 3,
+      "city": "Danbury"
+    },
+    {
+      "date": "01/30/2017",
+      "effective_date": "04/01/2017",
+      "state": "CA",
+      "workers": 5,
+      "city": "Westlake Village"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 1,
+    "continuing_denials": 0,
+    "total_approvals": 2,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      }
+    ]
+  },
+  "lca_worker_positions": 1,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1211",
+    "soc_title": "Computer Systems Analysts",
+    "market_median_usd": 103800.0,
+    "employer_median_usd": 105000.0,
+    "gap_usd": 1200.0
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "slug": "phidimensions",
+  "canonical_name": "PhiDimensions Inc.",
+  "fein": "83-1704944",
+  "lca_filing_count": 26,
+  "warn_notice_count": 0,
+  "median_wage_usd": 102000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 110500.0
+    },
+    {
+      "fy": 2021,
+      "filings": 7,
+      "median_wage_usd": 105000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 125250.0
+    },
+    {
+      "fy": 2024,
+      "filings": 14,
+      "median_wage_usd": 102000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 80000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SOFTWARE DEVELOPER",
+      "count": 11,
+      "median_wage_usd": 102000.0
+    },
+    {
+      "title": "SYSTEMS ENGINEER",
+      "count": 5,
+      "median_wage_usd": 71000.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 2,
+      "median_wage_usd": 125250.0
+    },
+    {
+      "title": "MULESOFT DEVELOPER",
+      "count": 2,
+      "median_wage_usd": 107500.0
+    },
+    {
+      "title": "MULESOFT ENGINEER",
+      "count": 1,
+      "median_wage_usd": 121000.0
+    },
+    {
+      "title": "Sr. UI DEVELOPER",
+      "count": 1,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "SQL BI (SSIS/SSRS) DEVELOPER",
+      "count": 1,
+      "median_wage_usd": 91000.0
+    },
+    {
+      "title": "DATA PIPELINE ENGINEER",
+      "count": 1,
+      "median_wage_usd": 91000.0
+    },
+    {
+      "title": "COMPUTER PROGRAMMER",
+      "count": 1,
+      "median_wage_usd": 80000.0
+    },
+    {
+      "title": "BUSINESS INTELLIGENCE ANALYST",
+      "count": 1,
+      "median_wage_usd": 92040.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 16
+    },
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 3
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 1
+    },
+    {
+      "state": "OH",
+      "county": "FRANKLIN",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "county": "DUPAGE",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 21
+    },
+    {
+      "state": "GA",
+      "count": 2
+    },
+    {
+      "state": "OH",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 13,
+    "initial_denials": 0,
+    "continuing_approvals": 9,
+    "continuing_denials": 1,
+    "total_approvals": 22,
+    "by_fy": [
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 7,
+        "initial_denials": 0,
+        "continuing_approvals": 5,
+        "continuing_denials": 0,
+        "total_approvals": 12
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 1,
+        "total_approvals": 4
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 3,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 4
+      }
+    ]
+  },
+  "lca_worker_positions": 26,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 102000.0,
+    "gap_usd": -28160.0
+  }
+}

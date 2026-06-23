@@ -1,0 +1,80 @@
+{
+  "slug": "glen-gery",
+  "canonical_name": "Glen-Gery Corporation",
+  "fein": "31-0943426",
+  "lca_filing_count": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 166361.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 300000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 128861.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Regional Production Manager",
+      "count": 1,
+      "median_wage_usd": 182722.0
+    },
+    {
+      "title": "SALES ANALYST",
+      "count": 1,
+      "median_wage_usd": 75000.0
+    },
+    {
+      "title": "Executive Vice President Finance",
+      "count": 1,
+      "median_wage_usd": 300000.0
+    },
+    {
+      "title": "Vice President, Design & Distributor Sales",
+      "count": 1,
+      "median_wage_usd": 150000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "PA",
+      "county": "BERKS",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "county": "PHILADELPHIA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "PA",
+      "count": 3
+    },
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3031",
+    "soc_title": "Financial Managers",
+    "market_median_usd": 156100.0,
+    "employer_median_usd": 300000.0,
+    "gap_usd": 143900.0
+  }
+}

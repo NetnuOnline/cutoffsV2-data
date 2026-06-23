@@ -1,0 +1,64 @@
+{
+  "slug": "rndc-bend-location",
+  "canonical_name": "RNDC - Bend Location",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 5,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "OR",
+      "count": 5
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "01/30/2024",
+      "effective_date": "03/31/2024",
+      "state": "OR",
+      "workers": 4,
+      "city": "Bend"
+    },
+    {
+      "date": "01/30/2024",
+      "effective_date": "03/31/2024",
+      "state": "OR",
+      "workers": 3,
+      "city": "Eugene"
+    },
+    {
+      "date": "01/30/2024",
+      "effective_date": "03/31/2024",
+      "state": "OR",
+      "workers": 1,
+      "city": "Medford"
+    },
+    {
+      "date": "01/30/2024",
+      "effective_date": "03/31/2024",
+      "state": "OR",
+      "workers": 3,
+      "city": "Medford"
+    },
+    {
+      "date": "01/30/2024",
+      "effective_date": "03/31/2024",
+      "state": "OR",
+      "workers": 67,
+      "city": "Portland"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "central-oregoneast-cascades-wia",
+      "name": "Central Oregon/East Cascades WIA",
+      "state": "OR"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

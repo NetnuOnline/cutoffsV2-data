@@ -1,0 +1,65 @@
+{
+  "slug": "western-health-resources",
+  "canonical_name": "Western Health Resources",
+  "fein": null,
+  "lca_filing_count": 1,
+  "warn_notice_count": 3,
+  "median_wage_usd": 117000.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 117000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Physical Therapist (Home Health)",
+      "count": 1,
+      "median_wage_usd": 117000.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "KERN",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "10/22/2018",
+      "effective_date": "12/20/2018",
+      "state": "OR",
+      "workers": 92,
+      "city": "Portland"
+    },
+    {
+      "date": "02/01/2017",
+      "effective_date": "04/03/2017",
+      "state": "CA",
+      "workers": 52,
+      "city": "San Diego"
+    },
+    {
+      "date": "11/07/2016",
+      "effective_date": "01/07/2017",
+      "state": "CA",
+      "workers": 120,
+      "city": "San Diego"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "lca_worker_positions": 1,
+  "top_socs": [],
+  "lca_periods": []
+}

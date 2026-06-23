@@ -1,0 +1,135 @@
+{
+  "slug": "kfc",
+  "canonical_name": "KFC Corporation",
+  "fein": "61-0716732",
+  "lca_filing_count": 11,
+  "lca_worker_positions": 11,
+  "warn_notice_count": 0,
+  "median_wage_usd": 126048.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 120500.0
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 124200.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 113700.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 117635.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 142838.0
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 126048.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Staff Data Engineer",
+      "count": 2,
+      "median_wage_usd": 135262.5
+    },
+    {
+      "title": "Senior Analyst, Marketing",
+      "count": 1,
+      "median_wage_usd": 82400.0
+    },
+    {
+      "title": "Associate Manager, BACK OF HOUSE Quality Engineering",
+      "count": 1,
+      "median_wage_usd": 120500.0
+    },
+    {
+      "title": "Sr. Digital Business Intellgence Architect",
+      "count": 1,
+      "median_wage_usd": 124200.0
+    },
+    {
+      "title": "Manager, Data Engineering",
+      "count": 1,
+      "median_wage_usd": 145200.0
+    },
+    {
+      "title": "Senior Analyst, Customer Segmentation & Loyalty",
+      "count": 1,
+      "median_wage_usd": 87100.0
+    },
+    {
+      "title": "Manager, Strategic Planning",
+      "count": 1,
+      "median_wage_usd": 140476.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 1,
+      "median_wage_usd": 94370.0
+    },
+    {
+      "title": "Technical Product Owner",
+      "count": 1,
+      "median_wage_usd": 140900.0
+    },
+    {
+      "title": "Sr. Software Engineer",
+      "count": 1,
+      "median_wage_usd": 145000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "KY",
+      "county": "JEFFERSON",
+      "count": 5
+    },
+    {
+      "state": "FL",
+      "county": "PASCO",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "KY",
+      "count": 7
+    },
+    {
+      "state": "TX",
+      "count": 3
+    },
+    {
+      "state": "FL",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 145000.0,
+    "gap_usd": 14840.0
+  }
+}

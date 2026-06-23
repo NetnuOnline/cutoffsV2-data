@@ -1,0 +1,36 @@
+{
+  "slug": "associated-couriers",
+  "canonical_name": "Associated Couriers",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 1,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "MO",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "05/11/2021",
+      "effective_date": "07/09/2021",
+      "state": "MO",
+      "workers": 67,
+      "city": "Hazelwood"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "st-louis-county-region-wib",
+      "name": "St. Louis County Region WIB",
+      "state": "MO"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

@@ -1,0 +1,115 @@
+{
+  "slug": "smartdw",
+  "canonical_name": "SmartDW Inc",
+  "fein": "99-4605593",
+  "lca_filing_count": 17,
+  "lca_worker_positions": 16,
+  "warn_notice_count": 0,
+  "median_wage_usd": 103210.0,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 8,
+      "median_wage_usd": 103272.0
+    },
+    {
+      "fy": 2026,
+      "filings": 8,
+      "median_wage_usd": 84157.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Salesforce Developer",
+      "count": 6,
+      "median_wage_usd": 88171.0
+    },
+    {
+      "title": "Java Developer",
+      "count": 3,
+      "median_wage_usd": 76835.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 2,
+      "median_wage_usd": 91322.5
+    },
+    {
+      "title": "Technical Product Owner",
+      "count": 2,
+      "median_wage_usd": 103334.0
+    },
+    {
+      "title": "Salesforce Devops Engineer",
+      "count": 1,
+      "median_wage_usd": 105976.0
+    },
+    {
+      "title": "Guidewire Developer",
+      "count": 1,
+      "median_wage_usd": 106579.0
+    },
+    {
+      "title": "Salesforce Systems Administrator",
+      "count": 1,
+      "median_wage_usd": 107578.0
+    },
+    {
+      "title": "Salesforce Programmer",
+      "count": 1,
+      "median_wage_usd": 71677.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 7
+    },
+    {
+      "state": "TN",
+      "count": 3
+    },
+    {
+      "state": "NH",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "CO",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 103334.0,
+    "gap_usd": -26826.0
+  }
+}

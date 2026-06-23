@@ -1,0 +1,51 @@
+{
+  "slug": "opm-doctors",
+  "canonical_name": "OPM Doctors",
+  "fein": "38-3544524",
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 111170.5,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 112341.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Information Systems Manager",
+      "count": 2,
+      "median_wage_usd": 111170.5
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MI",
+      "county": "OAKLAND",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MI",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3021",
+    "soc_title": "Computer and Information Systems Managers",
+    "market_median_usd": 169510.0,
+    "employer_median_usd": 111170.5,
+    "gap_usd": -58339.5
+  }
+}

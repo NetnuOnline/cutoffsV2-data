@@ -1,0 +1,51 @@
+{
+  "slug": "specialty-rx-mi",
+  "canonical_name": "Specialty RX MI LLC",
+  "fein": "88-0676399",
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 66772.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 66772.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Business Analyst",
+      "count": 1,
+      "median_wage_usd": 63544.0
+    },
+    {
+      "title": "Financial Analyst",
+      "count": 1,
+      "median_wage_usd": 70000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MI",
+      "county": "WAYNE",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MI",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1111",
+    "soc_title": "Management Analysts",
+    "market_median_usd": 99000.0,
+    "employer_median_usd": 63544.0,
+    "gap_usd": -35456.0
+  }
+}

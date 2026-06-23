@@ -1,0 +1,80 @@
+{
+  "slug": "megabus-northeast",
+  "canonical_name": "Megabus Northeast, LLC",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 3,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "PA",
+      "count": 1
+    },
+    {
+      "state": "MD",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "08/09/2024",
+      "effective_date": "08/09/2024",
+      "state": "PA",
+      "workers": 12,
+      "city": "110 Lenzner Court \u200bSewickley, PA 15143\u200b"
+    },
+    {
+      "date": "06/20/2024",
+      "effective_date": "08/09/2024",
+      "state": "MD",
+      "workers": 62,
+      "city": "Hyattsville"
+    },
+    {
+      "date": "06/14/2024",
+      "effective_date": "09/08/2024",
+      "state": "NJ",
+      "workers": 108,
+      "city": "Elizabeth"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "prince-georges-wia",
+      "name": "Prince George's WIA",
+      "state": "MD"
+    },
+    {
+      "slug": "union-wib",
+      "name": "Union WIB",
+      "state": "NJ"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 0,
+    "continuing_denials": 0,
+    "total_approvals": 1,
+    "by_fy": [
+      {
+        "fy": 2020,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  }
+}

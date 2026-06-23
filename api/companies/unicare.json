@@ -1,0 +1,44 @@
+{
+  "slug": "unicare",
+  "canonical_name": "Unicare",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 3,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 3
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "10/29/2009",
+      "effective_date": "01/01/2010",
+      "state": "IL",
+      "workers": 568,
+      "city": "Chicago"
+    },
+    {
+      "date": "06/02/2005",
+      "effective_date": "08/01/2005",
+      "state": "IL",
+      "workers": 35,
+      "city": "Chicago"
+    },
+    {
+      "date": "07/02/2002",
+      "effective_date": "09/01/2002",
+      "state": "IL",
+      "workers": 130,
+      "city": "Bolingbrook"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

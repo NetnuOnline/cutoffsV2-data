@@ -1,0 +1,36 @@
+{
+  "slug": "south-city-hospital",
+  "canonical_name": "South City Hospital",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 1,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "MO",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "08/09/2023",
+      "effective_date": "08/03/2023",
+      "state": "MO",
+      "workers": 563,
+      "city": "St. Louis (city)"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "st-louis-county-region-wib",
+      "name": "St. Louis County Region WIB",
+      "state": "MO"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

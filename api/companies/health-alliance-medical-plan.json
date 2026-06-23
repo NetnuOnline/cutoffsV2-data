@@ -1,0 +1,61 @@
+{
+  "slug": "health-alliance-medical-plan",
+  "canonical_name": "Health Alliance Medical Plan",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 4,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 3
+    },
+    {
+      "state": "NC",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "05/08/2025",
+      "effective_date": "07/08/2025",
+      "state": "IL",
+      "workers": 612,
+      "city": "Champaign"
+    },
+    {
+      "date": "05/08/2025",
+      "effective_date": "07/08/2025",
+      "state": "NC",
+      "workers": 50,
+      "city": "1930 N. Poplar Street, Southern Pines"
+    },
+    {
+      "date": "01/19/2012",
+      "effective_date": "07/01/2012",
+      "state": "IL",
+      "workers": 23,
+      "city": "Peoria"
+    },
+    {
+      "date": "01/19/2012",
+      "effective_date": "06/01/2012",
+      "state": "IL",
+      "workers": 3,
+      "city": "Peoria"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "wib-of-east-central-il",
+      "name": "WIB of East Central IL",
+      "state": "IL"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

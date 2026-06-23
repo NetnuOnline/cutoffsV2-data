@@ -1,0 +1,139 @@
+{
+  "slug": "everbridge",
+  "canonical_name": "Everbridge, Inc.",
+  "fein": "26-2919312",
+  "lca_filing_count": 11,
+  "lca_worker_positions": 10,
+  "warn_notice_count": 0,
+  "median_wage_usd": 144540.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 102349.13
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 150197.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 122258.5
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 144540.0
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 180000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Manager, Engineering [00071000]",
+      "count": 2,
+      "median_wage_usd": 144540.0
+    },
+    {
+      "title": "Principal Software Engineer [00094492]",
+      "count": 1,
+      "median_wage_usd": 180000.0
+    },
+    {
+      "title": "Staff Software Engineer [00045882]",
+      "count": 1,
+      "median_wage_usd": 150197.0
+    },
+    {
+      "title": "Staff Software Engineer [00094493]",
+      "count": 1,
+      "median_wage_usd": 178131.0
+    },
+    {
+      "title": "Senior Software Engineer I",
+      "count": 1,
+      "median_wage_usd": 91000.0
+    },
+    {
+      "title": "Senior Staff Software Engineer [00094492]",
+      "count": 1,
+      "median_wage_usd": 180000.0
+    },
+    {
+      "title": "Sr. Software Engineer II [00056622]",
+      "count": 1,
+      "median_wage_usd": 123295.0
+    },
+    {
+      "title": "Senior Software Engineer I (00054792)",
+      "count": 1,
+      "median_wage_usd": 121222.0
+    },
+    {
+      "title": "Software Engineer II",
+      "count": 1,
+      "median_wage_usd": 113698.26
+    },
+    {
+      "title": "Architect",
+      "count": 1,
+      "median_wage_usd": 140000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MI",
+      "county": "EATON",
+      "count": 4
+    },
+    {
+      "state": "MA",
+      "county": "BURLINGTON",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MI",
+      "count": 4
+    },
+    {
+      "state": "VA",
+      "count": 3
+    },
+    {
+      "state": "CA",
+      "count": 2
+    },
+    {
+      "state": "MA",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 164164.0,
+    "gap_usd": 34004.0
+  }
+}

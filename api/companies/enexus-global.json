@@ -1,0 +1,196 @@
+{
+  "slug": "enexus-global",
+  "canonical_name": "Enexus Global, Inc.",
+  "fein": "47-4528453",
+  "lca_filing_count": 9,
+  "warn_notice_count": 0,
+  "median_wage_usd": 106080.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 120578.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 98956.0
+    },
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 106080.0
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 114795.2
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "QA Engineer",
+      "count": 2,
+      "median_wage_usd": 94040.0
+    },
+    {
+      "title": "Systems Engineer / Analyst ",
+      "count": 1,
+      "median_wage_usd": 99008.0
+    },
+    {
+      "title": "Software Developer / Tester",
+      "count": 1,
+      "median_wage_usd": 120578.0
+    },
+    {
+      "title": "Software Development Engineer in Test",
+      "count": 1,
+      "median_wage_usd": 91520.0
+    },
+    {
+      "title": "Systems Engineer  ",
+      "count": 1,
+      "median_wage_usd": 98904.0
+    },
+    {
+      "title": "Software Engineer (SDET)",
+      "count": 1,
+      "median_wage_usd": 146307.2
+    },
+    {
+      "title": "Scrum Master",
+      "count": 1,
+      "median_wage_usd": 114795.2
+    },
+    {
+      "title": "QA Automation Engineer",
+      "count": 1,
+      "median_wage_usd": 109200.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 3
+    },
+    {
+      "state": "CA",
+      "county": "SAN JOAQUIN",
+      "count": 2
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 6
+    },
+    {
+      "state": "GA",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 13,
+    "initial_denials": 7,
+    "continuing_approvals": 10,
+    "continuing_denials": 2,
+    "total_approvals": 23,
+    "by_fy": [
+      {
+        "fy": 2016,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2017,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 5,
+        "initial_denials": 7,
+        "continuing_approvals": 3,
+        "continuing_denials": 2,
+        "total_approvals": 8
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 4,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 7
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 4,
+        "continuing_denials": 0,
+        "total_approvals": 6
+      }
+    ]
+  },
+  "lca_worker_positions": 9,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1253",
+    "soc_title": "Software Quality Assurance Analysts and Testers",
+    "market_median_usd": 101800.0,
+    "employer_median_usd": 98800.0,
+    "gap_usd": -3000.0
+  }
+}

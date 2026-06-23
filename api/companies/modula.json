@@ -1,0 +1,43 @@
+{
+  "slug": "modula",
+  "canonical_name": "Modula",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "ME",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "02/20/2025",
+      "effective_date": "02/20/2025",
+      "state": "ME",
+      "workers": 15,
+      "city": "Lewiston"
+    },
+    {
+      "date": "11/07/2024",
+      "effective_date": "11/07/2024",
+      "state": "ME",
+      "workers": 0,
+      "city": "Lewiston"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "centralwestern-wia",
+      "name": "Central/Western WIA",
+      "state": "ME"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

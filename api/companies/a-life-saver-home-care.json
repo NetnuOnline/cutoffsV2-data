@@ -1,0 +1,56 @@
+{
+  "slug": "a-life-saver-home-care",
+  "canonical_name": "A Life Saver Home Care LLC",
+  "fein": "82-0655249",
+  "lca_filing_count": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 42500.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 42299.5
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 49316.8
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "MARKETING SPECIALIST",
+      "count": 2,
+      "median_wage_usd": 42299.5
+    },
+    {
+      "title": "Network Specialist",
+      "count": 1,
+      "median_wage_usd": 49316.8
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 5,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1161",
+    "soc_title": "Market Research Analysts and Marketing Specialists",
+    "market_median_usd": 74680.0,
+    "employer_median_usd": 42299.5,
+    "gap_usd": -32380.5
+  }
+}

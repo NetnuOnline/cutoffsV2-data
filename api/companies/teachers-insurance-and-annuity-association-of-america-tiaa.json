@@ -1,0 +1,158 @@
+{
+  "slug": "teachers-insurance-and-annuity-association-of-america-tiaa",
+  "canonical_name": "Teachers Insurance and Annuity Association of America (TIAA)",
+  "fein": "13-1624203",
+  "lca_filing_count": 34,
+  "lca_worker_positions": 34,
+  "warn_notice_count": 0,
+  "median_wage_usd": 129043.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 14,
+      "median_wage_usd": 128232.0
+    },
+    {
+      "fy": 2025,
+      "filings": 11,
+      "median_wage_usd": 112778.0
+    },
+    {
+      "fy": 2026,
+      "filings": 9,
+      "median_wage_usd": 133536.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Lead Systems Analyst",
+      "count": 4,
+      "median_wage_usd": 130468.0
+    },
+    {
+      "title": "Senior Java Developer",
+      "count": 3,
+      "median_wage_usd": 128232.0
+    },
+    {
+      "title": "Technical Lead",
+      "count": 3,
+      "median_wage_usd": 133536.0
+    },
+    {
+      "title": "Lead Data Analyst",
+      "count": 3,
+      "median_wage_usd": 105747.0
+    },
+    {
+      "title": "Sr Data Scientist",
+      "count": 3,
+      "median_wage_usd": 108306.0
+    },
+    {
+      "title": "Senior Asset Modeler",
+      "count": 2,
+      "median_wage_usd": 112778.0
+    },
+    {
+      "title": "SQL Server Developer",
+      "count": 2,
+      "median_wage_usd": 112424.0
+    },
+    {
+      "title": "Sr. Director, Wealth Management Strategy",
+      "count": 2,
+      "median_wage_usd": 247333.0
+    },
+    {
+      "title": "Sr Lead Security Software Engineer",
+      "count": 1,
+      "median_wage_usd": 180000.0
+    },
+    {
+      "title": "IOS Technical Lead",
+      "count": 1,
+      "median_wage_usd": 132679.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NC",
+      "county": "MECKLENBURG",
+      "count": 4
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 3
+    },
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "county": "MIDDLESEX",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SAN MATEO",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "county": "MONTGOMERY",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NC",
+      "count": 19
+    },
+    {
+      "state": "NY",
+      "count": 8
+    },
+    {
+      "state": "CA",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "count": 3
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 128232.0,
+    "gap_usd": -1928.0
+  }
+}

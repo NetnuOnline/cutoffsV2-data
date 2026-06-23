@@ -1,0 +1,131 @@
+{
+  "slug": "darden",
+  "canonical_name": "Darden Corporation",
+  "fein": "59-3378492",
+  "lca_filing_count": 17,
+  "lca_worker_positions": 17,
+  "warn_notice_count": 0,
+  "median_wage_usd": 131000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 142000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 4,
+      "median_wage_usd": 145000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 123000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 6,
+      "median_wage_usd": 126250.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 148550.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 171500.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Sr. Programmer Analyst - POS",
+      "count": 3,
+      "median_wage_usd": 124000.0
+    },
+    {
+      "title": "Sr Systems Engineer, IT - Digital Platform ",
+      "count": 2,
+      "median_wage_usd": 154800.0
+    },
+    {
+      "title": "Sr. Programmer Analyst - Enterprise Data Warehouse",
+      "count": 1,
+      "median_wage_usd": 128500.0
+    },
+    {
+      "title": "Sr. Systems Engineer - SOA",
+      "count": 1,
+      "median_wage_usd": 145000.0
+    },
+    {
+      "title": "Sr. Programmer Analyst - Service Oriented Architecture",
+      "count": 1,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "title": "Sr. Programming Analyst - Identity & Access Management",
+      "count": 1,
+      "median_wage_usd": 132500.0
+    },
+    {
+      "title": "CRM Digital/Analytics Implementation Engineer",
+      "count": 1,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "title": "Sr. Systems Engineer, POS",
+      "count": 1,
+      "median_wage_usd": 131000.0
+    },
+    {
+      "title": "APPLICATIONS ARCHITECT \u2013 DIGITAL PLATFORM",
+      "count": 1,
+      "median_wage_usd": 152500.0
+    },
+    {
+      "title": "Sr. Programmer Analyst - Business Intelligence Team Lead",
+      "count": 1,
+      "median_wage_usd": 142000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "FL",
+      "county": "ORANGE",
+      "count": 13
+    },
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "FL",
+      "count": 16
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 148750.0,
+    "gap_usd": 18590.0
+  }
+}

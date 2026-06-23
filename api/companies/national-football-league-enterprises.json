@@ -1,0 +1,65 @@
+{
+  "slug": "national-football-league-enterprises",
+  "canonical_name": "National Football League Enterprises, LLC",
+  "fein": "90-0105440",
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 153316.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 99632.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 207000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Director \u2013 Fan Engagement Data Science",
+      "count": 1,
+      "median_wage_usd": 207000.0
+    },
+    {
+      "title": "Video Systems Engineer",
+      "count": 1,
+      "median_wage_usd": 99632.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 207000.0,
+    "gap_usd": 98980.0
+  }
+}

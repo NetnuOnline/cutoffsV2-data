@@ -1,0 +1,321 @@
+{
+  "slug": "nationstar-mortgage",
+  "canonical_name": "Nationstar Mortgage, LLC",
+  "fein": "75-2921540",
+  "lca_filing_count": 54,
+  "warn_notice_count": 9,
+  "median_wage_usd": 128315.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 8,
+      "median_wage_usd": 127319.93
+    },
+    {
+      "fy": 2021,
+      "filings": 13,
+      "median_wage_usd": 124603.2
+    },
+    {
+      "fy": 2022,
+      "filings": 6,
+      "median_wage_usd": 119236.0
+    },
+    {
+      "fy": 2023,
+      "filings": 12,
+      "median_wage_usd": 114838.0
+    },
+    {
+      "fy": 2024,
+      "filings": 6,
+      "median_wage_usd": 165000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 4,
+      "median_wage_usd": 168184.47499999998
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Principal Software Development Engineer",
+      "count": 3,
+      "median_wage_usd": 128315.0
+    },
+    {
+      "title": "Sr. Principal Software Developer",
+      "count": 3,
+      "median_wage_usd": 165000.0
+    },
+    {
+      "title": "Principal Systems Developer",
+      "count": 3,
+      "median_wage_usd": 138567.0
+    },
+    {
+      "title": "Sr. Principal Information Systems",
+      "count": 3,
+      "median_wage_usd": 158368.11
+    },
+    {
+      "title": "Principal Database Administrator",
+      "count": 2,
+      "median_wage_usd": 127744.19
+    },
+    {
+      "title": "AVP Systems Architecture",
+      "count": 2,
+      "median_wage_usd": 164003.87
+    },
+    {
+      "title": "VP Portfolio Management",
+      "count": 2,
+      "median_wage_usd": 166992.515
+    },
+    {
+      "title": "Principal Information Systems",
+      "count": 2,
+      "median_wage_usd": 133953.885
+    },
+    {
+      "title": "AVP Product Management",
+      "count": 2,
+      "median_wage_usd": 115076.0
+    },
+    {
+      "title": "VP Information Systems",
+      "count": 2,
+      "median_wage_usd": 182087.17
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 48
+    },
+    {
+      "state": "FL",
+      "count": 4
+    },
+    {
+      "state": "NC",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 30
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 13
+    },
+    {
+      "state": "CA",
+      "county": "ORANGE",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "county": "WAKE",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "county": "MIAMI-DADE",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "01/15/2026",
+      "effective_date": "01/16/2026",
+      "state": "CA",
+      "workers": 110,
+      "city": "25500 Commerce Centre Drive  Lake Forest CA 92630"
+    },
+    {
+      "date": "01/15/2026",
+      "effective_date": "01/16/2026",
+      "state": "CA",
+      "workers": 8,
+      "city": "25500 Commerce Centre Drive  Lake Forest CA 92630"
+    },
+    {
+      "date": "12/08/2025",
+      "effective_date": "01/16/2026",
+      "state": "CA",
+      "workers": 102,
+      "city": "25500 Commerce Centre Drive  Lake Forest CA 92630"
+    },
+    {
+      "date": "12/08/2025",
+      "effective_date": "01/16/2026",
+      "state": "CA",
+      "workers": 14,
+      "city": "25500 Commerce Centre Drive  Lake Forest CA 92630"
+    },
+    {
+      "date": "11/17/2025",
+      "effective_date": "01/16/2026",
+      "state": "CA",
+      "workers": 88,
+      "city": "25500 Commerce Centre Drive  Lake Forest CA 92630"
+    },
+    {
+      "date": "11/04/2022",
+      "effective_date": "01/03/2023",
+      "state": "CA",
+      "workers": 175,
+      "city": "Santa Ana"
+    },
+    {
+      "date": "05/19/2022",
+      "effective_date": "07/18/2022",
+      "state": "CA",
+      "workers": 120,
+      "city": "Santa Ana"
+    },
+    {
+      "date": "11/28/2018",
+      "effective_date": "01/27/2019",
+      "state": "CA",
+      "workers": 109,
+      "city": "Santa Ana"
+    },
+    {
+      "date": "05/23/2017",
+      "effective_date": "08/21/2017",
+      "state": "NY",
+      "workers": 179,
+      "city": "Elma"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 10,
+    "initial_denials": 1,
+    "continuing_approvals": 93,
+    "continuing_denials": 0,
+    "total_approvals": 103,
+    "by_fy": [
+      {
+        "fy": 2010,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2012,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2013,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2014,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2015,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2016,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2017,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 4,
+        "initial_denials": 0,
+        "continuing_approvals": 26,
+        "continuing_denials": 0,
+        "total_approvals": 30
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 4,
+        "initial_denials": 1,
+        "continuing_approvals": 35,
+        "continuing_denials": 0,
+        "total_approvals": 39
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 32,
+        "continuing_denials": 0,
+        "total_approvals": 34
+      }
+    ]
+  },
+  "lca_worker_positions": 49,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 139015.5,
+    "gap_usd": 8855.5
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "comprehend-pt",
+  "canonical_name": "Comprehend PT Inc.",
+  "fein": "93-1697848",
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 76041.5,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 76041.5
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Associate Software Engineer",
+      "count": 2,
+      "median_wage_usd": 76041.5
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "AR",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 76041.5,
+    "gap_usd": -54118.5
+  }
+}

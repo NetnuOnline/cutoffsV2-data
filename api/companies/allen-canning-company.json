@@ -1,0 +1,52 @@
+{
+  "slug": "allen-canning-company",
+  "canonical_name": "Allen Canning Company",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 1
+    },
+    {
+      "state": "LA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "03/29/2011",
+      "effective_date": "03/29/2011",
+      "state": "NY",
+      "workers": 0,
+      "city": "Oakfield"
+    },
+    {
+      "date": "04/26/2010",
+      "effective_date": "04/26/2010",
+      "state": "LA",
+      "workers": 62,
+      "city": "Hessmer"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "sixth-planning-district-consortium-wia",
+      "name": "Sixth Planning District Consortium WIA",
+      "state": "LA"
+    },
+    {
+      "slug": "geneseelivingstonorleanswyoming-lwia",
+      "name": "Genesee/Livingston/Orleans/Wyoming LWIA",
+      "state": "NY"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

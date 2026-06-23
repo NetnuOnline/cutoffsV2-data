@@ -1,0 +1,99 @@
+{
+  "slug": "instellars-global-consulting",
+  "canonical_name": "Instellars Global Consulting Inc",
+  "fein": "35-2673200",
+  "lca_filing_count": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 95500.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 94250.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 124070.92
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "IT Business Systems Manager - CRM",
+      "count": 2,
+      "median_wage_usd": 124070.92
+    },
+    {
+      "title": "Architect",
+      "count": 2,
+      "median_wage_usd": 94250.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "FL",
+      "county": "DUVAL",
+      "count": 2
+    },
+    {
+      "state": "NC",
+      "county": "MECKLENBURG",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "FL",
+      "count": 2
+    },
+    {
+      "state": "NC",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 5,
+    "initial_denials": 0,
+    "continuing_approvals": 0,
+    "continuing_denials": 0,
+    "total_approvals": 5,
+    "by_fy": [
+      {
+        "fy": 2021,
+        "initial_approvals": 3,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      }
+    ]
+  },
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 95500.0,
+    "gap_usd": -34660.0
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "slug": "decide4action-sc",
+  "canonical_name": "Decide4Action SC, Inc.",
+  "fein": "57-0870418",
+  "lca_filing_count": 4,
+  "lca_worker_positions": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 65697.56,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 66820.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 66060.5
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 64575.12,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 2,
+      "median_wage_usd": 67303.5
+    },
+    {
+      "title": "Computer Systems Engineer",
+      "count": 1,
+      "median_wage_usd": 64575.12
+    },
+    {
+      "title": "Data Scientist",
+      "count": 1,
+      "median_wage_usd": 64334.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "SC",
+      "county": "GREENVILLE",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "SC",
+      "count": 4
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 67303.5,
+    "gap_usd": -62856.5
+  }
+}

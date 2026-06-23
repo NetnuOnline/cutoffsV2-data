@@ -1,0 +1,127 @@
+{
+  "slug": "vbj-tech",
+  "canonical_name": "VBJ TECH LLC",
+  "fein": "87-1187519",
+  "lca_filing_count": 11,
+  "lca_worker_positions": 11,
+  "warn_notice_count": 0,
+  "median_wage_usd": 81182.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 4,
+      "median_wage_usd": 80797.5
+    },
+    {
+      "fy": 2025,
+      "filings": 5,
+      "median_wage_usd": 107411.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 102796.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "DevOps Engineer",
+      "count": 2,
+      "median_wage_usd": 137592.0
+    },
+    {
+      "title": "Devops Computer Programmer",
+      "count": 1,
+      "median_wage_usd": 70000.0
+    },
+    {
+      "title": "GIS System Engineer",
+      "count": 1,
+      "median_wage_usd": 107411.0
+    },
+    {
+      "title": "MS DYNAMICS CRM DEVELOPER",
+      "count": 1,
+      "median_wage_usd": 81000.0
+    },
+    {
+      "title": "Data Analytics Engineer",
+      "count": 1,
+      "median_wage_usd": 80413.0
+    },
+    {
+      "title": "Business Systems Analyst",
+      "count": 1,
+      "median_wage_usd": 70000.0
+    },
+    {
+      "title": "Software Development Engineer in Test",
+      "count": 1,
+      "median_wage_usd": 74000.0
+    },
+    {
+      "title": "Data Cloud Engineer",
+      "count": 1,
+      "median_wage_usd": 81182.0
+    },
+    {
+      "title": "GIS Technical Consultant",
+      "count": 1,
+      "median_wage_usd": 124592.0
+    },
+    {
+      "title": "AWS Cloud Engineer",
+      "count": 1,
+      "median_wage_usd": 89960.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TN",
+      "county": "WASHINGTON",
+      "count": 3
+    },
+    {
+      "state": "FL",
+      "county": "MIAMI-DADE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TN",
+      "count": 5
+    },
+    {
+      "state": "CA",
+      "count": 2
+    },
+    {
+      "state": "VA",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 107411.0,
+    "gap_usd": -22749.0
+  }
+}

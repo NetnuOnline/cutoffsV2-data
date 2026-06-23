@@ -1,0 +1,61 @@
+{
+  "slug": "hometap-equity-partners",
+  "canonical_name": "Hometap Equity Partners, LLC",
+  "fein": "82-3844831",
+  "lca_filing_count": 2,
+  "lca_worker_positions": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 109151.5,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 83304.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 134999.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Financial Data Scientist",
+      "count": 1,
+      "median_wage_usd": 83304.0
+    },
+    {
+      "title": "SITE RELIABILITY ENGINEER (SRE)",
+      "count": 1,
+      "median_wage_usd": 134999.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MA",
+      "county": "BOSTON CITY",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MA",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 134999.0,
+    "gap_usd": 4839.0
+  }
+}

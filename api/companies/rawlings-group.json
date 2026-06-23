@@ -1,0 +1,43 @@
+{
+  "slug": "rawlings-group",
+  "canonical_name": "Rawlings Group",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "MO",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "04/02/2020",
+      "effective_date": "04/03/2020",
+      "state": "MO",
+      "workers": 140,
+      "city": "St. Louis"
+    },
+    {
+      "date": "03/31/2020",
+      "effective_date": "03/27/2020",
+      "state": "MO",
+      "workers": 130,
+      "city": "Washington"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "jeffersonfranklin-county-consortium-wib",
+      "name": "Jefferson/Franklin County Consortium WIB",
+      "state": "MO"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

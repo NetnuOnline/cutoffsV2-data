@@ -1,0 +1,57 @@
+{
+  "slug": "hi-crush",
+  "canonical_name": "Hi-Crush",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 4,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "WI",
+      "count": 4
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "04/23/2020",
+      "effective_date": "03/30/2020",
+      "state": "WI",
+      "workers": 32,
+      "city": "Taylor"
+    },
+    {
+      "date": "04/23/2020",
+      "effective_date": "03/30/2020",
+      "state": "WI",
+      "workers": 35,
+      "city": "Whitehall"
+    },
+    {
+      "date": "08/12/2019",
+      "effective_date": "08/30/2019",
+      "state": "WI",
+      "workers": 40,
+      "city": "Whitehall"
+    },
+    {
+      "date": "10/02/2018",
+      "effective_date": "09/28/2018",
+      "state": "WI",
+      "workers": 37,
+      "city": "Whitehall"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "western-wda",
+      "name": "Western WDA",
+      "state": "WI"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

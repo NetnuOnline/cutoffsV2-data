@@ -1,0 +1,114 @@
+{
+  "slug": "estrada-consulting",
+  "canonical_name": "Estrada Consulting Inc.",
+  "fein": "68-0457125",
+  "lca_filing_count": 8,
+  "lca_worker_positions": 8,
+  "warn_notice_count": 0,
+  "median_wage_usd": 102939.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 105384.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 98197.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 102939.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 92144.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 107411.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 5,
+      "median_wage_usd": 102939.0
+    },
+    {
+      "title": "Project Coordinator/Business Systems Analyst",
+      "count": 1,
+      "median_wage_usd": 91750.0
+    },
+    {
+      "title": "Senior Software Developer",
+      "count": 1,
+      "median_wage_usd": 119018.0
+    },
+    {
+      "title": "SOFTWARE TEST ENGINEER",
+      "count": 1,
+      "median_wage_usd": 92144.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "VA",
+      "county": "HENRICO",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "SACRAMENTO",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SAN JOAQUIN",
+      "count": 1
+    },
+    {
+      "state": "MN",
+      "county": "HENNEPIN",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "VA",
+      "count": 3
+    },
+    {
+      "state": "CA",
+      "count": 3
+    },
+    {
+      "state": "GA",
+      "count": 1
+    },
+    {
+      "state": "MN",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 102939.0,
+    "gap_usd": -27221.0
+  }
+}

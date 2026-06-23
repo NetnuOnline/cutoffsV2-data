@@ -1,0 +1,66 @@
+{
+  "slug": "comerica",
+  "canonical_name": "Comerica Management Company",
+  "fein": null,
+  "lca_filing_count": 21,
+  "warn_notice_count": 3,
+  "median_wage_usd": 145725,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 0,
+      "median_wage_usd": null
+    },
+    {
+      "fy": 2026,
+      "filings": 0,
+      "median_wage_usd": null
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Principal Engineer",
+      "count": 0,
+      "median_wage_usd": null
+    },
+    {
+      "title": "Sr. Staff Engineer",
+      "count": 0,
+      "median_wage_usd": null
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 3
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "11/19/2018",
+      "effective_date": "01/25/2019",
+      "state": "TX",
+      "workers": 60,
+      "city": "Dallas"
+    },
+    {
+      "date": "08/16/2011",
+      "effective_date": "10/01/2011",
+      "state": "TX",
+      "workers": 150,
+      "city": "Houston"
+    },
+    {
+      "date": "08/16/2011",
+      "effective_date": "10/01/2011",
+      "state": "TX",
+      "workers": 150,
+      "city": "Houston"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

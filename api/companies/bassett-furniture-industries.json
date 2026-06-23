@@ -1,0 +1,100 @@
+{
+  "slug": "bassett-furniture-industries",
+  "canonical_name": "Bassett Furniture Industries",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "08/03/2004",
+      "effective_date": "08/03/2004",
+      "state": "GA",
+      "workers": 186,
+      "city": "Macon"
+    },
+    {
+      "date": "02/04/2003",
+      "effective_date": "02/04/2003",
+      "state": "GA",
+      "workers": 301,
+      "city": "Dublin"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "macon-bibb-wib",
+      "name": "Macon-Bibb WIB",
+      "state": "GA"
+    },
+    {
+      "slug": "heart-of-georgiaaltamaha-wib",
+      "name": "Heart of Georgia/Altamaha WIB",
+      "state": "GA"
+    }
+  ],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2009-10-20",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-09-210062",
+        "items": [
+          "2.05",
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities",
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000010329&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2007-03-09",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-07-050923",
+        "items": [
+          "2.05",
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities",
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000010329&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2005-10-04",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-05-196340",
+        "items": [
+          "2.05",
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities",
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000010329&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 3,
+    "itemCounts": {
+      "2.05": 3,
+      "2.06": 3
+    },
+    "latestFilingDate": "2009-10-20",
+    "earliestFilingDate": "2005-10-04"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

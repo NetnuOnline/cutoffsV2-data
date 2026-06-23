@@ -1,0 +1,59 @@
+{
+  "slug": "wabtec",
+  "canonical_name": "Wabtec",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 4,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 2
+    },
+    {
+      "state": "NY",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "07/17/2025",
+      "effective_date": "01/01/2026",
+      "state": "NY",
+      "workers": 36,
+      "city": "Plattsburgh"
+    },
+    {
+      "date": "03/22/2022",
+      "effective_date": "12/31/2022",
+      "state": "IL",
+      "workers": 58,
+      "city": "Hanover Park"
+    },
+    {
+      "date": "11/16/2017",
+      "effective_date": "01/01/2018",
+      "state": "IL",
+      "workers": 45,
+      "city": "Bensenville"
+    },
+    {
+      "date": "05/24/2000",
+      "effective_date": "05/24/2000",
+      "state": "GA",
+      "workers": 40,
+      "city": "Ball Ground"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

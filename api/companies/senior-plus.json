@@ -1,0 +1,43 @@
+{
+  "slug": "senior-plus",
+  "canonical_name": "Senior Plus",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "ME",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "03/17/2025",
+      "effective_date": "03/17/2025",
+      "state": "ME",
+      "workers": 30,
+      "city": "Lewiston"
+    },
+    {
+      "date": "03/17/2025",
+      "effective_date": "03/17/2025",
+      "state": "ME",
+      "workers": 0,
+      "city": "Lewiston"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "centralwestern-wia",
+      "name": "Central/Western WIA",
+      "state": "ME"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

@@ -1,0 +1,71 @@
+{
+  "slug": "resolve-systems",
+  "canonical_name": "Resolve Systems, LLC",
+  "fein": "36-4343442",
+  "lca_filing_count": 4,
+  "lca_worker_positions": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 164403.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 90200.0
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 187496.905,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer in Test",
+      "count": 1,
+      "median_wage_usd": 90200.0
+    },
+    {
+      "title": "Head of Machine Learning Engineering",
+      "count": 1,
+      "median_wage_usd": null
+    },
+    {
+      "title": "Computational Linguist",
+      "count": 1,
+      "median_wage_usd": 164403.0
+    },
+    {
+      "title": "Senior Machine Learning Scientist",
+      "count": 1,
+      "median_wage_usd": 210590.81
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SAN BERNARDINO",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 3
+    },
+    {
+      "state": "FL",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 210590.81,
+    "gap_usd": 80430.81
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "slug": "xotech",
+  "canonical_name": "XOTech",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 3,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 3
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "05/06/2022",
+      "effective_date": "05/06/2022",
+      "state": "GA",
+      "workers": 80,
+      "city": "Albany"
+    },
+    {
+      "date": "11/05/2021",
+      "effective_date": "11/05/2021",
+      "state": "GA",
+      "workers": 53,
+      "city": "Albany"
+    },
+    {
+      "date": "10/08/2020",
+      "effective_date": "10/08/2020",
+      "state": "GA",
+      "workers": 70,
+      "city": "Albany"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "southwest-georgia-wib",
+      "name": "Southwest Georgia WIB",
+      "state": "GA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

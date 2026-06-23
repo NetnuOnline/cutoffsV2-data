@@ -1,0 +1,41 @@
+{
+  "slug": "ust",
+  "canonical_name": "UST",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "LA",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "03/31/2009",
+      "effective_date": "06/05/2009",
+      "state": "LA",
+      "workers": 56,
+      "city": "11661 Investor Avenue Baton Rouge, LA 70809"
+    },
+    {
+      "date": "03/31/2009",
+      "effective_date": "06/05/2009",
+      "state": "TX",
+      "workers": 72,
+      "city": "Flower Mound"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

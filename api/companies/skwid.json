@@ -1,0 +1,77 @@
+{
+  "slug": "skwid",
+  "canonical_name": "Skwid Inc.",
+  "fein": "88-4418534",
+  "lca_filing_count": 9,
+  "lca_worker_positions": 8,
+  "warn_notice_count": 0,
+  "median_wage_usd": 240000.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 260000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 6,
+      "median_wage_usd": 239500.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Software Engineer, Core Product",
+      "count": 3,
+      "median_wage_usd": 240000.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 2,
+      "median_wage_usd": 213800.0
+    },
+    {
+      "title": "Full-Stack Engineer",
+      "count": 2,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "title": "Staff Software Engineer - Core Product",
+      "count": 1,
+      "median_wage_usd": 260000.0
+    },
+    {
+      "title": "Senior Software Engineer - Core Product",
+      "count": 1,
+      "median_wage_usd": 239000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 9
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 239500.0,
+    "gap_usd": 109340.0
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "azara-healthcare",
+  "canonical_name": "Azara Healthcare LLC",
+  "fein": "45-2609523",
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 87500.0,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 87500.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Manager, Data Mapping",
+      "count": 1,
+      "median_wage_usd": 80000.0
+    },
+    {
+      "title": "Senior Software & IT Project Manager",
+      "count": 1,
+      "median_wage_usd": 95000.0
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "TN",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Computer Occupations, All Other",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 87500.0,
+    "gap_usd": -30500.0
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "slug": "american-bankers-insurance-company-of-florida-abic",
+  "canonical_name": "American Bankers Insurance Company of Florida (ABIC)",
+  "fein": null,
+  "lca_filing_count": 18,
+  "warn_notice_count": 0,
+  "median_wage_usd": 122722.5,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 6,
+      "median_wage_usd": 122722.5
+    },
+    {
+      "fy": 2022,
+      "filings": 6,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 6,
+      "median_wage_usd": 122720.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Lead Software Engineer",
+      "count": 2,
+      "median_wage_usd": 143500.0
+    },
+    {
+      "title": "SR Software Engineer",
+      "count": 2,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "Release Engineer",
+      "count": 2,
+      "median_wage_usd": 117106.5
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 2,
+      "median_wage_usd": 111500.0
+    },
+    {
+      "title": "SR IT QA Analyst",
+      "count": 1,
+      "median_wage_usd": 97943.0
+    },
+    {
+      "title": "Senior Software Developer",
+      "count": 1,
+      "median_wage_usd": 145000.0
+    },
+    {
+      "title": "Sr Software Engineer",
+      "count": 1,
+      "median_wage_usd": 100069.0
+    },
+    {
+      "title": "Lead Mobile Developer",
+      "count": 1,
+      "median_wage_usd": 125445.0
+    },
+    {
+      "title": "Director, IAS Data Analytics",
+      "count": 1,
+      "median_wage_usd": 151040.0
+    },
+    {
+      "title": "Principal Data Scientist",
+      "count": 1,
+      "median_wage_usd": 114400.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "GA",
+      "county": "COBB",
+      "count": 4
+    },
+    {
+      "state": "PA",
+      "county": "YORK",
+      "count": 3
+    },
+    {
+      "state": "FL",
+      "county": "MIAMI-DADE  (OLD DEF)",
+      "count": 2
+    },
+    {
+      "state": "PA",
+      "county": "CHESTER",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 2
+    },
+    {
+      "state": "FL",
+      "county": "MIAMI-DADE",
+      "count": 2
+    },
+    {
+      "state": "GA",
+      "county": "GWINNETT",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "county": "MONTGOMERY",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "PA",
+      "count": 6
+    },
+    {
+      "state": "GA",
+      "count": 5
+    },
+    {
+      "state": "FL",
+      "count": 4
+    },
+    {
+      "state": "IL",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 10,
+    "continuing_denials": 0,
+    "total_approvals": 10,
+    "by_fy": [
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 10,
+        "continuing_denials": 0,
+        "total_approvals": 10
+      }
+    ]
+  },
+  "lca_worker_positions": 18,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 120000.0,
+    "gap_usd": -10160.0
+  }
+}

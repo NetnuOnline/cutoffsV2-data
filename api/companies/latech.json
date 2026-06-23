@@ -1,0 +1,45 @@
+{
+  "slug": "latech",
+  "canonical_name": "LaTech, LLC",
+  "fein": "72-1493108",
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 65260.0,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 65260.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Field Electrical Engineer",
+      "count": 1,
+      "median_wage_usd": 78624.0
+    },
+    {
+      "title": "Sales and Automation Lead",
+      "count": 1,
+      "median_wage_usd": 51896.0
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "LA",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1161",
+    "soc_title": "Market Research Analysts and Marketing Specialists",
+    "market_median_usd": 74680.0,
+    "employer_median_usd": 51896.0,
+    "gap_usd": -22784.0
+  }
+}

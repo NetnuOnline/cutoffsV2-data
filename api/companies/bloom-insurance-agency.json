@@ -1,0 +1,135 @@
+{
+  "slug": "bloom-insurance-agency",
+  "canonical_name": "Bloom Insurance Agency, LLC",
+  "fein": "26-0640936",
+  "lca_filing_count": 18,
+  "lca_worker_positions": 18,
+  "warn_notice_count": 0,
+  "median_wage_usd": 95789.72,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 89500.0
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 99944.0
+    },
+    {
+      "fy": 2022,
+      "filings": 4,
+      "median_wage_usd": 95323.28
+    },
+    {
+      "fy": 2023,
+      "filings": 5,
+      "median_wage_usd": 95067.44
+    },
+    {
+      "fy": 2025,
+      "filings": 5,
+      "median_wage_usd": 96512.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 109136.82,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Database Engineer",
+      "count": 3,
+      "median_wage_usd": 123050.2
+    },
+    {
+      "title": "Software Developer",
+      "count": 3,
+      "median_wage_usd": 87589.0
+    },
+    {
+      "title": "Business Analyst",
+      "count": 2,
+      "median_wage_usd": 91350.22
+    },
+    {
+      "title": "Manager, Software Engineering",
+      "count": 2,
+      "median_wage_usd": 103164.62
+    },
+    {
+      "title": "Database Engineer I",
+      "count": 1,
+      "median_wage_usd": 84531.0
+    },
+    {
+      "title": "Business Intelligence Engineer",
+      "count": 1,
+      "median_wage_usd": 106817.62
+    },
+    {
+      "title": "Director, Engineering - Ascend",
+      "count": 1,
+      "median_wage_usd": 123527.56
+    },
+    {
+      "title": "Software Engineer II ",
+      "count": 1,
+      "median_wage_usd": 95067.44
+    },
+    {
+      "title": "Database Engineer I ",
+      "count": 1,
+      "median_wage_usd": 96512.0
+    },
+    {
+      "title": "Database Analyst",
+      "count": 1,
+      "median_wage_usd": 92000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IN",
+      "county": "MONROE",
+      "count": 11
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "county": "SOMERVILLE CITY",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IN",
+      "count": 16
+    },
+    {
+      "state": "MA",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 95789.72,
+    "gap_usd": -34370.28
+  }
+}

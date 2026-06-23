@@ -1,0 +1,182 @@
+{
+  "slug": "strategic-education",
+  "canonical_name": "Strategic Education Inc",
+  "fein": "52-1975978",
+  "lca_filing_count": 14,
+  "warn_notice_count": 0,
+  "median_wage_usd": 132982.4,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 127982.4
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 3,
+      "median_wage_usd": 131162.94
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 127764.0
+    },
+    {
+      "fy": 2025,
+      "filings": 6,
+      "median_wage_usd": 153911.755
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Principal Developer",
+      "count": 2,
+      "median_wage_usd": 153911.755
+    },
+    {
+      "title": "Senior Systems Developer",
+      "count": 2,
+      "median_wage_usd": 141455.9
+    },
+    {
+      "title": "Systems Developer Sr.   ",
+      "count": 2,
+      "median_wage_usd": 131162.94
+    },
+    {
+      "title": "UX Designer",
+      "count": 1,
+      "median_wage_usd": 90000.0
+    },
+    {
+      "title": "Sr. Salesforce Developer",
+      "count": 1,
+      "median_wage_usd": 120328.0
+    },
+    {
+      "title": "Enterprise Architect - Artificial Intelligence",
+      "count": 1,
+      "median_wage_usd": 169121.24
+    },
+    {
+      "title": "Systems Developer Sr",
+      "count": 1,
+      "median_wage_usd": 135200.0
+    },
+    {
+      "title": "Senior Systems Developer ",
+      "count": 1,
+      "median_wage_usd": 133000.0
+    },
+    {
+      "title": "Sr. Systems Developer",
+      "count": 1,
+      "median_wage_usd": 123000.0
+    },
+    {
+      "title": "QA Analyst Lead",
+      "count": 1,
+      "median_wage_usd": 125000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MN",
+      "county": "HENNEPIN",
+      "count": 8
+    },
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "county": "MERCER",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MN",
+      "count": 10
+    },
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 24,
+    "continuing_denials": 0,
+    "total_approvals": 25,
+    "by_fy": [
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 5,
+        "continuing_denials": 0,
+        "total_approvals": 5
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 8,
+        "continuing_denials": 0,
+        "total_approvals": 9
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 7,
+        "continuing_denials": 0,
+        "total_approvals": 7
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 4,
+        "continuing_denials": 0,
+        "total_approvals": 4
+      }
+    ]
+  },
+  "lca_worker_positions": 14,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 135200.0,
+    "gap_usd": 5040.0
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "slug": "phl-shanti",
+  "canonical_name": "PHL Shanti LLC",
+  "fein": "46-3316791",
+  "lca_filing_count": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 81000.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 81000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 83660.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "BUSINESS OPERATIONS ANALYST",
+      "count": 3,
+      "median_wage_usd": 81000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "PA",
+      "county": "DELAWARE",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "PA",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1111",
+    "soc_title": "Management Analysts",
+    "market_median_usd": 99000.0,
+    "employer_median_usd": 81000.0,
+    "gap_usd": -18000.0
+  }
+}

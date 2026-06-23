@@ -1,0 +1,146 @@
+{
+  "slug": "platform-science",
+  "canonical_name": "Platform Science, Inc.",
+  "fein": "47-5410676",
+  "lca_filing_count": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 165000.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 4,
+      "median_wage_usd": 174155.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 114358.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 120000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Development Engineer (Mobile)",
+      "count": 1,
+      "median_wage_usd": 165000.0
+    },
+    {
+      "title": "Staff Data Engineer",
+      "count": 1,
+      "median_wage_usd": 210000.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "Sr. Software Development Engineer in Test (Mobile)",
+      "count": 1,
+      "median_wage_usd": 114358.0
+    },
+    {
+      "title": "Staff Software Development Engineer (Backbone)",
+      "count": 1,
+      "median_wage_usd": 183310.0
+    },
+    {
+      "title": "Senior Infrastructure Engineer",
+      "count": 1,
+      "median_wage_usd": 165000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SAN DIEGO",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "VENTURA",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "county": "MECKLENBURG",
+      "count": 1
+    },
+    {
+      "state": "MN",
+      "county": "HENNEPIN",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 3
+    },
+    {
+      "state": "MN",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 11,
+    "continuing_denials": 1,
+    "total_approvals": 11,
+    "by_fy": [
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 4,
+        "continuing_denials": 0,
+        "total_approvals": 4
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 7,
+        "continuing_denials": 1,
+        "total_approvals": 7
+      }
+    ]
+  },
+  "lca_worker_positions": 6,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 165000.0,
+    "gap_usd": 34840.0
+  }
+}

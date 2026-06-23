@@ -1,0 +1,56 @@
+{
+  "slug": "rogers-management",
+  "canonical_name": "Rogers Management, Inc.",
+  "fein": "35-1576900",
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 125528.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 110136.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 140920.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Oracle Application Developer II",
+      "count": 1,
+      "median_wage_usd": 110136.0
+    },
+    {
+      "title": "Oracle EBS Application Developer",
+      "count": 1,
+      "median_wage_usd": 140920.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TN",
+      "county": "DAVIDSON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TN",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 125528.0,
+    "gap_usd": -4632.0
+  }
+}

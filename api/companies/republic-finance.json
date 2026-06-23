@@ -1,0 +1,117 @@
+{
+  "slug": "republic-finance",
+  "canonical_name": "Republic Finance, LLC",
+  "fein": "72-0577012",
+  "lca_filing_count": 37,
+  "lca_worker_positions": 37,
+  "warn_notice_count": 0,
+  "median_wage_usd": 130869.12,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 134742.24
+    },
+    {
+      "fy": 2023,
+      "filings": 4,
+      "median_wage_usd": 113750.0
+    },
+    {
+      "fy": 2024,
+      "filings": 24,
+      "median_wage_usd": 129373.56
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 99404.4
+    },
+    {
+      "fy": 2026,
+      "filings": 5,
+      "median_wage_usd": 140000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "MuleSoft Developer",
+      "count": 4,
+      "median_wage_usd": 127878.0
+    },
+    {
+      "title": "Senior Business Analyst",
+      "count": 4,
+      "median_wage_usd": 98025.0
+    },
+    {
+      "title": "Senior Business Intelligence Engineer",
+      "count": 3,
+      "median_wage_usd": 97455.12
+    },
+    {
+      "title": "Data Engineer",
+      "count": 2,
+      "median_wage_usd": 130869.12
+    },
+    {
+      "title": "Senior Software Architect",
+      "count": 2,
+      "median_wage_usd": 145784.28
+    },
+    {
+      "title": "Manager of Data Science & Analytics",
+      "count": 2,
+      "median_wage_usd": 145000.08
+    },
+    {
+      "title": "SDET Manager",
+      "count": 2,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "title": "Salesforce Senior Developer",
+      "count": 1,
+      "median_wage_usd": 127878.0
+    },
+    {
+      "title": "Senior Credit Risk Analyst",
+      "count": 1,
+      "median_wage_usd": 95005.2
+    },
+    {
+      "title": "IT Data Operations Manager",
+      "count": 1,
+      "median_wage_usd": 180000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 32
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 37
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 134856.62,
+    "gap_usd": 4696.62
+  }
+}

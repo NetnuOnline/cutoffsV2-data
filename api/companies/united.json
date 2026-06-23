@@ -1,0 +1,171 @@
+{
+  "slug": "united",
+  "canonical_name": "UNITED CORPORATION, INC.",
+  "fein": "66-0391237",
+  "lca_filing_count": 1,
+  "warn_notice_count": 10,
+  "median_wage_usd": 36400.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 36400.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "MAINTENANCE TECHNICIAN",
+      "count": 1,
+      "median_wage_usd": 36400.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "VI",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "VI",
+      "county": "ST CROIX",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "03/06/2015",
+      "effective_date": "05/17/2015",
+      "state": "VA",
+      "workers": 64,
+      "city": "Richmond, VA"
+    },
+    {
+      "date": "04/13/2009",
+      "effective_date": "06/16/2009",
+      "state": "IN",
+      "workers": 47,
+      "city": "Indianapolis"
+    },
+    {
+      "date": "10/12/2006",
+      "effective_date": "06/01/2007",
+      "state": "IL",
+      "workers": 6,
+      "city": "Wood Dale"
+    },
+    {
+      "date": "10/12/2006",
+      "effective_date": "05/01/2007",
+      "state": "IL",
+      "workers": 18,
+      "city": "Wood Dale"
+    },
+    {
+      "date": "10/12/2006",
+      "effective_date": "04/01/2007",
+      "state": "IL",
+      "workers": 9,
+      "city": "Wood Dale"
+    },
+    {
+      "date": "10/12/2006",
+      "effective_date": "03/01/2007",
+      "state": "IL",
+      "workers": 26,
+      "city": "Wood Dale"
+    },
+    {
+      "date": "10/12/2006",
+      "effective_date": "02/01/2007",
+      "state": "IL",
+      "workers": 19,
+      "city": "Wood Dale"
+    },
+    {
+      "date": "10/12/2006",
+      "effective_date": "01/01/2007",
+      "state": "IL",
+      "workers": 12,
+      "city": "Wood Dale"
+    },
+    {
+      "date": "10/12/2006",
+      "effective_date": "12/01/2006",
+      "state": "IL",
+      "workers": 6,
+      "city": "Wood Dale"
+    },
+    {
+      "date": "06/01/2006",
+      "effective_date": "06/01/2006",
+      "state": "NJ",
+      "workers": 349,
+      "city": "NEWARK"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2020-10-14",
+        "formType": "8-K/A",
+        "accessionNumber": "0001104659-20-114989",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000100517&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2020-09-02",
+        "formType": "8-K/A",
+        "accessionNumber": "0001104659-20-101912",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000100517&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2020-07-08",
+        "formType": "8-K",
+        "accessionNumber": "0001104659-20-082123",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000100517&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 3,
+    "itemCounts": {
+      "2.05": 3
+    },
+    "latestFilingDate": "2020-10-14",
+    "earliestFilingDate": "2020-07-08"
+  },
+  "bankruptcy_data": {
+    "filings": [
+      {
+        "filingDate": "2006-01-23",
+        "formType": "8-K",
+        "accessionNumber": "0001104659-06-003279",
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000100517&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 1,
+    "latestFilingDate": "2006-01-23",
+    "earliestFilingDate": "2006-01-23"
+  },
+  "source": "warntracker",
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": []
+}

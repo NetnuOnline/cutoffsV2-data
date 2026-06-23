@@ -1,0 +1,132 @@
+{
+  "slug": "alice-tech-solutions",
+  "canonical_name": "Alice Tech Solutions LLC",
+  "fein": "83-4367302",
+  "lca_filing_count": 10,
+  "warn_notice_count": 0,
+  "median_wage_usd": 82056.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 76898.0
+    },
+    {
+      "fy": 2023,
+      "filings": 6,
+      "median_wage_usd": 82056.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 79851.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 98301.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 7,
+      "median_wage_usd": 82056.0
+    },
+    {
+      "title": "Oracle ERP cloud consultant (Software Engineer)",
+      "count": 1,
+      "median_wage_usd": 88774.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 1,
+      "median_wage_usd": 79851.0
+    },
+    {
+      "title": "Data Base Analyst",
+      "count": 1,
+      "median_wage_usd": 98301.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 6
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 1
+    },
+    {
+      "state": "OK",
+      "county": "OKLAHOMA",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 8
+    },
+    {
+      "state": "AL",
+      "count": 1
+    },
+    {
+      "state": "OK",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 13,
+    "initial_denials": 0,
+    "continuing_approvals": 2,
+    "continuing_denials": 0,
+    "total_approvals": 15,
+    "by_fy": [
+      {
+        "fy": 2021,
+        "initial_approvals": 10,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 10
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      }
+    ]
+  },
+  "lca_worker_positions": 10,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 82056.0,
+    "gap_usd": -48104.0
+  }
+}

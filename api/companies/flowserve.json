@@ -1,0 +1,54 @@
+{
+  "slug": "flowserve",
+  "canonical_name": "Flowserve",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 3,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "OK",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "04/29/2021",
+      "effective_date": "04/29/2021",
+      "state": "OK",
+      "workers": 52,
+      "city": "Tulsa"
+    },
+    {
+      "date": "04/29/2021",
+      "effective_date": "04/29/2021",
+      "state": "OK",
+      "workers": 0,
+      "city": "Dallas"
+    },
+    {
+      "date": "08/14/2000",
+      "effective_date": "08/14/2000",
+      "state": "TX",
+      "workers": 22,
+      "city": "Houston"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "tulsa-wia",
+      "name": "Tulsa WIA",
+      "state": "OK"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

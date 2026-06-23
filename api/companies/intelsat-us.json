@@ -1,0 +1,176 @@
+{
+  "slug": "intelsat-us",
+  "canonical_name": "Intelsat US, LLC",
+  "fein": "95-4607698",
+  "lca_filing_count": 19,
+  "warn_notice_count": 0,
+  "median_wage_usd": 150000.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 4,
+      "median_wage_usd": 174850.0
+    },
+    {
+      "fy": 2022,
+      "filings": 4,
+      "median_wage_usd": 136000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 136059.0
+    },
+    {
+      "fy": 2025,
+      "filings": 5,
+      "median_wage_usd": 152683.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Sr. Principal Terminal Development & Design Engineer",
+      "count": 2,
+      "median_wage_usd": 170000.0
+    },
+    {
+      "title": "Business Analyst",
+      "count": 2,
+      "median_wage_usd": 110667.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 2,
+      "median_wage_usd": 132933.5
+    },
+    {
+      "title": "Sr. Software Development Engineer in Test",
+      "count": 2,
+      "median_wage_usd": 139293.5
+    },
+    {
+      "title": "Senior Principal Software Engineer",
+      "count": 1,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "title": "Sr. Business Intelligence Developer",
+      "count": 1,
+      "median_wage_usd": 122300.0
+    },
+    {
+      "title": "Senior Software Engineer - Site Reliability",
+      "count": 1,
+      "median_wage_usd": 152683.0
+    },
+    {
+      "title": "Director, Software Engineering ",
+      "count": 1,
+      "median_wage_usd": 196700.0
+    },
+    {
+      "title": "Principal Software Engineer",
+      "count": 1,
+      "median_wage_usd": 153837.0
+    },
+    {
+      "title": "Lead Engineer, Software",
+      "count": 1,
+      "median_wage_usd": 153000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 11
+    },
+    {
+      "state": "GA",
+      "county": "DEKALB",
+      "count": 2
+    },
+    {
+      "state": "VA",
+      "county": "FAIRFAX",
+      "count": 2
+    },
+    {
+      "state": "AL",
+      "county": "JEFFERSON",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "county": "WILL",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 13
+    },
+    {
+      "state": "VA",
+      "count": 3
+    },
+    {
+      "state": "GA",
+      "count": 2
+    },
+    {
+      "state": "AL",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 31,
+    "continuing_denials": 1,
+    "total_approvals": 31,
+    "by_fy": [
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 9,
+        "continuing_denials": 0,
+        "total_approvals": 9
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 16,
+        "continuing_denials": 1,
+        "total_approvals": 16
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 6,
+        "continuing_denials": 0,
+        "total_approvals": 6
+      }
+    ]
+  },
+  "lca_worker_positions": 19,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 141697.5,
+    "gap_usd": 11537.5
+  }
+}

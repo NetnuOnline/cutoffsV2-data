@@ -1,0 +1,182 @@
+{
+  "slug": "gartner",
+  "canonical_name": "Gartner, Inc.",
+  "fein": "04-3099750",
+  "lca_filing_count": 96,
+  "lca_worker_positions": 96,
+  "warn_notice_count": 0,
+  "median_wage_usd": 134500.5,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 19,
+      "median_wage_usd": 123000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 23,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 18,
+      "median_wage_usd": 137001.0
+    },
+    {
+      "fy": 2023,
+      "filings": 12,
+      "median_wage_usd": 141534.5
+    },
+    {
+      "fy": 2024,
+      "filings": 7,
+      "median_wage_usd": 160200.61
+    },
+    {
+      "fy": 2025,
+      "filings": 7,
+      "median_wage_usd": 158362.5
+    },
+    {
+      "fy": 2026,
+      "filings": 10,
+      "median_wage_usd": 141686.97999999998,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Software Engineer",
+      "count": 9,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "title": "Manager, Software Engineering",
+      "count": 4,
+      "median_wage_usd": 137140.5
+    },
+    {
+      "title": "Lead Software Engineer",
+      "count": 4,
+      "median_wage_usd": 134919.5
+    },
+    {
+      "title": "Director, Software Engineering",
+      "count": 3,
+      "median_wage_usd": 160200.61
+    },
+    {
+      "title": "Principal Analytics Engineer",
+      "count": 3,
+      "median_wage_usd": 127615.0
+    },
+    {
+      "title": "Lead Analytics Engineer",
+      "count": 3,
+      "median_wage_usd": 110274.0
+    },
+    {
+      "title": "Director, Advisory",
+      "count": 3,
+      "median_wage_usd": 160000.0
+    },
+    {
+      "title": "Senior Finance Manager",
+      "count": 2,
+      "median_wage_usd": 141500.0
+    },
+    {
+      "title": "Lead Security Engineer",
+      "count": 2,
+      "median_wage_usd": 162000.0
+    },
+    {
+      "title": "Product Manager",
+      "count": 2,
+      "median_wage_usd": 87817.5
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CT",
+      "county": "FAIRFIELD",
+      "count": 42
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 19
+    },
+    {
+      "state": "VA",
+      "county": "ARLINGTON",
+      "count": 12
+    },
+    {
+      "state": "FL",
+      "county": "LEE",
+      "count": 5
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 2
+    },
+    {
+      "state": "VA",
+      "county": "FAIRFAX",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 1
+    },
+    {
+      "state": "CT",
+      "county": "STAMFORD CITY",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CT",
+      "count": 46
+    },
+    {
+      "state": "TX",
+      "count": 24
+    },
+    {
+      "state": "VA",
+      "count": 16
+    },
+    {
+      "state": "FL",
+      "count": 6
+    },
+    {
+      "state": "NY",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 144631.68,
+    "gap_usd": 14471.68
+  }
+}

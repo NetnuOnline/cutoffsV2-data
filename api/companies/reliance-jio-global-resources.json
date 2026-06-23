@@ -1,0 +1,67 @@
+{
+  "slug": "reliance-jio-global-resources",
+  "canonical_name": "Reliance Jio Global Resources, LLC",
+  "fein": "30-0854210",
+  "lca_filing_count": 3,
+  "lca_worker_positions": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 230000.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 250000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 230000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 112923.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Vice President, Cloud Technology and Infrastructure",
+      "count": 1,
+      "median_wage_usd": 250000.0
+    },
+    {
+      "title": "Lead Data Engineer/Wi-Fi Integration",
+      "count": 1,
+      "median_wage_usd": 230000.0
+    },
+    {
+      "title": "Lead AI Engineer",
+      "count": 1,
+      "median_wage_usd": 112923.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 112923.0,
+    "gap_usd": -17237.0
+  }
+}

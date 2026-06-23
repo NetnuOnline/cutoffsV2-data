@@ -1,0 +1,104 @@
+{
+  "slug": "virtual-instruments",
+  "canonical_name": "Virtual Instruments Corporation",
+  "fein": null,
+  "lca_filing_count": 9,
+  "warn_notice_count": 0,
+  "median_wage_usd": 170872.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 170872.0
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 206482.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 158166.12
+    },
+    {
+      "fy": 2023,
+      "filings": 5,
+      "median_wage_usd": 160000.08
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Engineer Manager",
+      "count": 3,
+      "median_wage_usd": 188406.0
+    },
+    {
+      "title": " Director of Engineering, SAAS",
+      "count": 2,
+      "median_wage_usd": 206482.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 126880.32
+    },
+    {
+      "title": "Sr. Quality Engineer",
+      "count": 1,
+      "median_wage_usd": 133119.84
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 1,
+      "median_wage_usd": 127926.24
+    },
+    {
+      "title": "Staff Engineer",
+      "count": 1,
+      "median_wage_usd": 160000.08
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 6
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 2
+    },
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 6
+    },
+    {
+      "state": "WA",
+      "count": 2
+    },
+    {
+      "state": "AZ",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 9,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3021",
+    "soc_title": "Computer and Information Systems Managers",
+    "market_median_usd": 169510.0,
+    "employer_median_usd": 197444.0,
+    "gap_usd": 27934.0
+  }
+}

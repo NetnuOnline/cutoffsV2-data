@@ -1,0 +1,112 @@
+{
+  "slug": "blue-cross-blue-shield-of-minnesota",
+  "canonical_name": "Blue Cross Blue Shield of Minnesota",
+  "fein": "41-0984460",
+  "lca_filing_count": 15,
+  "lca_worker_positions": 15,
+  "warn_notice_count": 0,
+  "median_wage_usd": 118165.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 3,
+      "median_wage_usd": 105726.0
+    },
+    {
+      "fy": 2023,
+      "filings": 6,
+      "median_wage_usd": 117437.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 127722.5
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 131591.5
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 125798.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Digital Cloud Engineer Senior ",
+      "count": 3,
+      "median_wage_usd": 118165.0
+    },
+    {
+      "title": "Digital Product Engineer Principal ",
+      "count": 2,
+      "median_wage_usd": 117437.0
+    },
+    {
+      "title": "Digital Product Engineer Principal",
+      "count": 2,
+      "median_wage_usd": 125798.0
+    },
+    {
+      "title": "Software Development Engineer Pr",
+      "count": 1,
+      "median_wage_usd": 135200.0
+    },
+    {
+      "title": "Sr Lead Data Engineer",
+      "count": 1,
+      "median_wage_usd": 132704.0
+    },
+    {
+      "title": "Principal Facets Technology Consultant",
+      "count": 1,
+      "median_wage_usd": 145018.0
+    },
+    {
+      "title": "Senior CIAM Engineer",
+      "count": 1,
+      "median_wage_usd": 122741.0
+    },
+    {
+      "title": "Digital Product Engineer (f/k/a Technical Engineer)",
+      "count": 1,
+      "median_wage_usd": 97594.0
+    },
+    {
+      "title": "Application Delivery Lead Sr",
+      "count": 1,
+      "median_wage_usd": 105726.0
+    },
+    {
+      "title": "Director Human Resources Technology & Operations",
+      "count": 1,
+      "median_wage_usd": 131622.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MN",
+      "county": "DAKOTA",
+      "count": 12
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MN",
+      "count": 15
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 118165.0,
+    "gap_usd": -11995.0
+  }
+}

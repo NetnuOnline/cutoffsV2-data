@@ -1,0 +1,78 @@
+{
+  "slug": "reliant-fund-services",
+  "canonical_name": "Reliant Fund Services, LLC",
+  "fein": "85-0756268",
+  "lca_filing_count": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 89000.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 89000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 83000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Staff Accountant II",
+      "count": 1,
+      "median_wage_usd": 83000.0
+    },
+    {
+      "title": "Accounting Supervisor",
+      "count": 1,
+      "median_wage_usd": 89000.0
+    },
+    {
+      "title": "Account anting Supervisor",
+      "count": 1,
+      "median_wage_usd": 89000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 2,
+    "initial_denials": 0,
+    "continuing_approvals": 1,
+    "continuing_denials": 0,
+    "total_approvals": 3,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      }
+    ]
+  },
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-2011",
+    "soc_title": "Accountants and Auditors",
+    "market_median_usd": 79000.0,
+    "employer_median_usd": 83000.0,
+    "gap_usd": 4000.0
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "slug": "appodis",
+  "canonical_name": "APPODIS, INC.",
+  "fein": "81-5417375",
+  "lca_filing_count": 14,
+  "warn_notice_count": 0,
+  "median_wage_usd": 101192.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 102606.5
+    },
+    {
+      "fy": 2024,
+      "filings": 11,
+      "median_wage_usd": 101192.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 112923.2
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 3,
+      "median_wage_usd": 101192.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 3,
+      "median_wage_usd": 101192.0
+    },
+    {
+      "title": "SOFTWARE SYSTEMS ENGINEER",
+      "count": 1,
+      "median_wage_usd": 94037.0
+    },
+    {
+      "title": "SR. DEVOPS CLOUD ENGINEER",
+      "count": 1,
+      "median_wage_usd": 111176.0
+    },
+    {
+      "title": "Java Developer",
+      "count": 1,
+      "median_wage_usd": 84094.0
+    },
+    {
+      "title": "DEVOPS ENGINEER",
+      "count": 1,
+      "median_wage_usd": 104270.0
+    },
+    {
+      "title": "SAP Consultant",
+      "count": 1,
+      "median_wage_usd": 84094.0
+    },
+    {
+      "title": "SOFTWARE DEVELOPER",
+      "count": 1,
+      "median_wage_usd": 98000.0
+    },
+    {
+      "title": "SOFTWARE ENGINEER",
+      "count": 1,
+      "median_wage_usd": 112923.2
+    },
+    {
+      "title": "Sr. Software Developer",
+      "count": 1,
+      "median_wage_usd": 106000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 10
+    },
+    {
+      "state": "CA",
+      "county": "FRESNO",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "county": "FAIRFAX",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 12
+    },
+    {
+      "state": "VA",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 11,
+    "initial_denials": 1,
+    "continuing_approvals": 0,
+    "continuing_denials": 0,
+    "total_approvals": 11,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 3,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 8,
+        "initial_denials": 1,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 8
+      }
+    ]
+  },
+  "lca_worker_positions": 14,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 98000.0,
+    "gap_usd": -32160.0
+  }
+}

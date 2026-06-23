@@ -1,0 +1,79 @@
+{
+  "slug": "vercara",
+  "canonical_name": "Vercara, LLC",
+  "fein": "82-1271209",
+  "lca_filing_count": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 98259.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 98259.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 110188.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Lead Information Security Engineer",
+      "count": 1,
+      "median_wage_usd": 97406.0
+    },
+    {
+      "title": "Software Engineer III",
+      "count": 1,
+      "median_wage_usd": 122970.0
+    },
+    {
+      "title": "Senior Network Automation Engineer",
+      "count": 1,
+      "median_wage_usd": 98259.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MA",
+      "county": "ARLINGTON",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "county": "WAKE",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NC",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Computer Systems Engineers/Architects",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 98259.0,
+    "gap_usd": -19741.0
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "slug": "truist-bank",
+  "canonical_name": "Truist Bank",
+  "fein": "56-0939887",
+  "lca_filing_count": 516,
+  "lca_worker_positions": 595,
+  "warn_notice_count": 0,
+  "median_wage_usd": 126250.5,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 75,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 58,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 85,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 76,
+      "median_wage_usd": 124843.0
+    },
+    {
+      "fy": 2024,
+      "filings": 63,
+      "median_wage_usd": 130675.0
+    },
+    {
+      "fy": 2025,
+      "filings": 79,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 71,
+      "median_wage_usd": 134915.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer III",
+      "count": 90,
+      "median_wage_usd": 132753.5
+    },
+    {
+      "title": "Software Engineer II",
+      "count": 58,
+      "median_wage_usd": 116750.0
+    },
+    {
+      "title": "Software Engineer IV",
+      "count": 27,
+      "median_wage_usd": 145105.0
+    },
+    {
+      "title": "Software Engineering Director",
+      "count": 18,
+      "median_wage_usd": 157858.0
+    },
+    {
+      "title": "Data Scientist II",
+      "count": 16,
+      "median_wage_usd": 111632.0
+    },
+    {
+      "title": "SOFTWARE ENGINEER",
+      "count": 13,
+      "median_wage_usd": 105000.0
+    },
+    {
+      "title": "SENIOR SOFTWARE ENGINEER",
+      "count": 9,
+      "median_wage_usd": 123000.0
+    },
+    {
+      "title": "IT Business Analyst II",
+      "count": 8,
+      "median_wage_usd": 118960.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 8,
+      "median_wage_usd": 113299.5
+    },
+    {
+      "title": "Lead Infrastructure Engineer",
+      "count": 7,
+      "median_wage_usd": 122000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 138
+    },
+    {
+      "state": "NC",
+      "county": "MECKLENBURG",
+      "count": 76
+    },
+    {
+      "state": "NC",
+      "county": "WAKE",
+      "count": 74
+    },
+    {
+      "state": "NC",
+      "county": "FORSYTH",
+      "count": 18
+    },
+    {
+      "state": "VA",
+      "county": "RICHMOND CITY",
+      "count": 14
+    },
+    {
+      "state": "CA",
+      "county": "SAN DIEGO",
+      "count": 10
+    },
+    {
+      "state": "NC",
+      "county": "WILSON",
+      "count": 9
+    },
+    {
+      "state": "NC",
+      "county": "PITT",
+      "count": 5
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 5
+    },
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NC",
+      "count": 265
+    },
+    {
+      "state": "GA",
+      "count": 203
+    },
+    {
+      "state": "VA",
+      "count": 17
+    },
+    {
+      "state": "CA",
+      "count": 11
+    },
+    {
+      "state": "NY",
+      "count": 10
+    },
+    {
+      "state": "FL",
+      "count": 4
+    },
+    {
+      "state": "AZ",
+      "count": 3
+    },
+    {
+      "state": "AL",
+      "count": 1
+    },
+    {
+      "state": "SC",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 131495.5,
+    "gap_usd": 1335.5
+  }
+}

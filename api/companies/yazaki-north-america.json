@@ -1,0 +1,95 @@
+{
+  "slug": "yazaki-north-america",
+  "canonical_name": "Yazaki North America, Inc.",
+  "fein": "36-2606352",
+  "lca_filing_count": 7,
+  "lca_worker_positions": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 105368.38,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 105368.38
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 105000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 101799.48999999999,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SAP TMS Architect",
+      "count": 2,
+      "median_wage_usd": 105000.0
+    },
+    {
+      "title": "Design Release Engineer",
+      "count": 2,
+      "median_wage_usd": 105934.19
+    },
+    {
+      "title": "Embedded Software Engineer",
+      "count": 1,
+      "median_wage_usd": 125598.98
+    },
+    {
+      "title": "Electrical Hardware Design Sr. Engineer",
+      "count": 1,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "title": "Project Coordinator",
+      "count": 1,
+      "median_wage_usd": 78000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MI",
+      "county": "WAYNE",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "county": "EL PASO",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MI",
+      "count": 5
+    },
+    {
+      "state": "TN",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Computer Systems Engineers/Architects",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 105000.0,
+    "gap_usd": -13000.0
+  }
+}

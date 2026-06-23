@@ -1,0 +1,56 @@
+{
+  "slug": "nextgen-tech",
+  "canonical_name": "Nextgen Tech LLC",
+  "fein": null,
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 148189.5,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 155979.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 140400.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Head of Marketing",
+      "count": 2,
+      "median_wage_usd": 148189.5
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-2021",
+    "soc_title": "Marketing Managers",
+    "market_median_usd": 157620.0,
+    "employer_median_usd": 148189.5,
+    "gap_usd": -9430.5
+  }
+}

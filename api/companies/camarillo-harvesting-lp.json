@@ -1,0 +1,43 @@
+{
+  "slug": "camarillo-harvesting-lp",
+  "canonical_name": "Camarillo Harvesting, L.P.",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "07/16/2020",
+      "effective_date": "09/15/2020",
+      "state": "CA",
+      "workers": 161,
+      "city": "Ventura"
+    },
+    {
+      "date": "07/16/2020",
+      "effective_date": "09/14/2020",
+      "state": "CA",
+      "workers": 161,
+      "city": "Spreckels"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "monterey-county-wib",
+      "name": "Monterey County WIB",
+      "state": "CA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

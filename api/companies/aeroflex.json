@@ -1,0 +1,51 @@
+{
+  "slug": "aeroflex",
+  "canonical_name": "Aeroflex",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 1,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "KS",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "09/29/2011",
+      "effective_date": "09/29/2011",
+      "state": "KS",
+      "workers": 3,
+      "city": "4 - Workforce Investment Area IV"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2026-03-18",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-26-113962",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001997350&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 1,
+    "itemCounts": {
+      "5.02": 1
+    },
+    "latestFilingDate": "2026-03-18",
+    "earliestFilingDate": "2026-03-18"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

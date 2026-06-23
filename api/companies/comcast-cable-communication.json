@@ -1,0 +1,80 @@
+{
+  "slug": "comcast-cable-communication",
+  "canonical_name": "Comcast Cable Communication, LLC",
+  "fein": null,
+  "lca_filing_count": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 77397.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 5,
+      "median_wage_usd": 77397.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Engineer 3, Software Development & Engineering ",
+      "count": 1,
+      "median_wage_usd": 71718.0
+    },
+    {
+      "title": "Director 2, Software Development & Engineering ",
+      "count": 1,
+      "median_wage_usd": 186971.0
+    },
+    {
+      "title": "Supervisor, Business Information Systems ",
+      "count": 1,
+      "median_wage_usd": 69971.0
+    },
+    {
+      "title": "Principal Engineer, Digital Experimentation",
+      "count": 1,
+      "median_wage_usd": 108555.0
+    },
+    {
+      "title": "Engineer 3, Engineering OPS",
+      "count": 1,
+      "median_wage_usd": 77397.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "PA",
+      "county": "PHILADELPHIA",
+      "count": 3
+    },
+    {
+      "state": "PA",
+      "county": "CHESTER",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "PA",
+      "count": 4
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 5,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 74557.5,
+    "gap_usd": -55602.5
+  }
+}

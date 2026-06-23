@@ -1,0 +1,118 @@
+{
+  "slug": "janova-solutions",
+  "canonical_name": "Janova Solutions Inc.",
+  "fein": "87-2998484",
+  "lca_filing_count": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 88535.2,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 84020.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 95000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 85030.40000000001
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer (Salesforce Marketing Cloud Journey)",
+      "count": 1,
+      "median_wage_usd": 92040.0
+    },
+    {
+      "title": "QA ENGINEER II",
+      "count": 1,
+      "median_wage_usd": 85030.40000000001
+    },
+    {
+      "title": "Automation Test Engineer (Salesforce Email Marketing)",
+      "count": 1,
+      "median_wage_usd": 76000.0
+    },
+    {
+      "title": "Systems Analyst (Salesforce)",
+      "count": 1,
+      "median_wage_usd": 95000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 1
+    },
+    {
+      "state": "DE",
+      "county": "NEW CASTLE",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "VENTURA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "DE",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 2,
+    "initial_denials": 0,
+    "continuing_approvals": 2,
+    "continuing_denials": 0,
+    "total_approvals": 4,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1253",
+    "soc_title": "Software Quality Assurance Analysts and Testers",
+    "market_median_usd": 101800.0,
+    "employer_median_usd": 80515.2,
+    "gap_usd": -21284.8
+  }
+}

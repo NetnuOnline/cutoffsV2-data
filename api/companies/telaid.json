@@ -1,0 +1,51 @@
+{
+  "slug": "telaid",
+  "canonical_name": "Telaid",
+  "fein": "06-1096415",
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 85982.5,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 85000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 86965.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "ServiceNow Enterprise Administrator ",
+      "count": 2,
+      "median_wage_usd": 85982.5
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1244",
+    "soc_title": "Network and Computer Systems Administrators",
+    "market_median_usd": 95000.0,
+    "employer_median_usd": 85982.5,
+    "gap_usd": -9017.5
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "slug": "traba",
+  "canonical_name": "Traba Inc.",
+  "fein": "86-1735578",
+  "lca_filing_count": 13,
+  "lca_worker_positions": 13,
+  "warn_notice_count": 0,
+  "median_wage_usd": 161090.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 4,
+      "median_wage_usd": 165000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 5,
+      "median_wage_usd": 160805.0
+    },
+    {
+      "fy": 2026,
+      "filings": 4,
+      "median_wage_usd": 174991.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Software Engineer",
+      "count": 3,
+      "median_wage_usd": 161090.0
+    },
+    {
+      "title": "Principal Analytics Lead",
+      "count": 2,
+      "median_wage_usd": 170000.0
+    },
+    {
+      "title": "Founding Revenue Strategy & Operations Lead",
+      "count": 1,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Senior React Native Engineer",
+      "count": 1,
+      "median_wage_usd": 160000.0
+    },
+    {
+      "title": "Strategy & Operations Associate",
+      "count": 1,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "Founding Corporate Development Lead",
+      "count": 1,
+      "median_wage_usd": 230000.0
+    },
+    {
+      "title": "Founding Recruiting Manager",
+      "count": 1,
+      "median_wage_usd": 170000.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 160805.0
+    },
+    {
+      "title": "Strategy & Operations - Senior Manager (Customer Operations)",
+      "count": 1,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "title": "Strategic Finance Lead",
+      "count": 1,
+      "median_wage_usd": 175000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "FL",
+      "county": "MIAMI-DADE",
+      "count": 2
+    },
+    {
+      "state": "NY",
+      "county": "KINGS",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "county": "QUEENS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 11
+    },
+    {
+      "state": "FL",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 161090.0,
+    "gap_usd": 30930.0
+  }
+}

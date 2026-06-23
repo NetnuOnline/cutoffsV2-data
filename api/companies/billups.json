@@ -1,0 +1,92 @@
+{
+  "slug": "billups",
+  "canonical_name": "Billups, LLC",
+  "fein": "54-2128857",
+  "lca_filing_count": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 150100.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 4,
+      "median_wage_usd": 147550.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 165000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "STAFF SCIENTIST",
+      "count": 2,
+      "median_wage_usd": 142500.0
+    },
+    {
+      "title": "Sciences Director",
+      "count": 2,
+      "median_wage_usd": 155050.0
+    },
+    {
+      "title": "Sr. Staff Scientist",
+      "count": 1,
+      "median_wage_usd": 165000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "OR",
+      "county": "CLACKAMAS",
+      "count": 4
+    },
+    {
+      "state": "OR",
+      "county": "WASHINGTON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "OR",
+      "count": 5
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 2,
+    "continuing_denials": 0,
+    "total_approvals": 2,
+    "by_fy": [
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 5,
+  "top_socs": [],
+  "lca_periods": []
+}

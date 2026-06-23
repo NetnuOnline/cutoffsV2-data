@@ -1,0 +1,121 @@
+{
+  "slug": "thales-avionics",
+  "canonical_name": "Thales Avionics, Inc.",
+  "fein": "22-2872365",
+  "lca_filing_count": 19,
+  "lca_worker_positions": 19,
+  "warn_notice_count": 0,
+  "median_wage_usd": 139284.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 134000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 5,
+      "median_wage_usd": 119582.67
+    },
+    {
+      "fy": 2024,
+      "filings": 4,
+      "median_wage_usd": 134642.0
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 155174.82
+    },
+    {
+      "fy": 2026,
+      "filings": 6,
+      "median_wage_usd": 160102.85,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "System Performance Engineer 2",
+      "count": 2,
+      "median_wage_usd": 106872.77
+    },
+    {
+      "title": "Principal Project Engineer",
+      "count": 2,
+      "median_wage_usd": 167067.93
+    },
+    {
+      "title": "Senior Systems Engineer",
+      "count": 2,
+      "median_wage_usd": 119582.67
+    },
+    {
+      "title": "DevSecOps Squad Lead",
+      "count": 2,
+      "median_wage_usd": 161483.85
+    },
+    {
+      "title": "Senior Electrical Engineer",
+      "count": 1,
+      "median_wage_usd": 136552.0
+    },
+    {
+      "title": "Principal Software Engineer",
+      "count": 1,
+      "median_wage_usd": 175624.91
+    },
+    {
+      "title": "Principal DevOps Engineer",
+      "count": 1,
+      "median_wage_usd": 146973.0
+    },
+    {
+      "title": "System Support Engineer III",
+      "count": 1,
+      "median_wage_usd": 139284.0
+    },
+    {
+      "title": "Senior Embedded Software Engineer",
+      "count": 1,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Squad Leader SW Development",
+      "count": 1,
+      "median_wage_usd": 155174.82
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "ORANGE",
+      "count": 8
+    },
+    {
+      "state": "FL",
+      "county": "BREVARD",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 14
+    },
+    {
+      "state": "FL",
+      "count": 5
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 146973.0,
+    "gap_usd": 16813.0
+  }
+}

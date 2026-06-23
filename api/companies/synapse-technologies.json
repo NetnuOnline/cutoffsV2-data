@@ -1,0 +1,198 @@
+{
+  "slug": "synapse-technologies",
+  "canonical_name": "Synapse Technologies, LLC",
+  "fein": null,
+  "lca_filing_count": 10,
+  "warn_notice_count": 0,
+  "median_wage_usd": 88847.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 91250.0
+    },
+    {
+      "fy": 2021,
+      "filings": 3,
+      "median_wage_usd": 85363.0
+    },
+    {
+      "fy": 2022,
+      "filings": 4,
+      "median_wage_usd": 93097.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 122450.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 2,
+      "median_wage_usd": 83283.5
+    },
+    {
+      "title": "Senior Talend ETL Developer",
+      "count": 2,
+      "median_wage_usd": 99000.0
+    },
+    {
+      "title": "Service Now Developer",
+      "count": 1,
+      "median_wage_usd": 92000.0
+    },
+    {
+      "title": "Netezza Developer",
+      "count": 1,
+      "median_wage_usd": 85363.0
+    },
+    {
+      "title": "Mainframe Developer",
+      "count": 1,
+      "median_wage_usd": 87194.0
+    },
+    {
+      "title": "MAINFRAME DEVELOPER",
+      "count": 1,
+      "median_wage_usd": 87006.0
+    },
+    {
+      "title": "Talend ETL Developer",
+      "count": 1,
+      "median_wage_usd": 90500.0
+    },
+    {
+      "title": "Software Developer Lead",
+      "count": 1,
+      "median_wage_usd": 122450.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "OH",
+      "county": "CUYAHOGA",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 1
+    },
+    {
+      "state": "IN",
+      "county": "MARION",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 5
+    },
+    {
+      "state": "OH",
+      "count": 3
+    },
+    {
+      "state": "IN",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 3,
+    "initial_denials": 0,
+    "continuing_approvals": 17,
+    "continuing_denials": 1,
+    "total_approvals": 20,
+    "by_fy": [
+      {
+        "fy": 2017,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 7,
+        "continuing_denials": 1,
+        "total_approvals": 8
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 5
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 4,
+        "continuing_denials": 0,
+        "total_approvals": 4
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      }
+    ]
+  },
+  "lca_worker_positions": 10,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 99000.0,
+    "gap_usd": -31160.0
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "slug": "air-worldwide",
+  "canonical_name": "AIR Worldwide Corporation",
+  "fein": "33-1004254",
+  "lca_filing_count": 37,
+  "lca_worker_positions": 36,
+  "warn_notice_count": 0,
+  "median_wage_usd": 128000.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 3,
+      "median_wage_usd": 125700.0
+    },
+    {
+      "fy": 2022,
+      "filings": 12,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 9,
+      "median_wage_usd": 138386.0
+    },
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 4,
+      "median_wage_usd": 145889.0
+    },
+    {
+      "fy": 2026,
+      "filings": 5,
+      "median_wage_usd": 130000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "DevOps Engineer",
+      "count": 3,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "title": "Research Engineer II",
+      "count": 2,
+      "median_wage_usd": 105000.0
+    },
+    {
+      "title": "Scientist I",
+      "count": 2,
+      "median_wage_usd": 103830.0
+    },
+    {
+      "title": "Senior SQA Engineer I",
+      "count": 2,
+      "median_wage_usd": 111484.5
+    },
+    {
+      "title": "Senior Manager",
+      "count": 2,
+      "median_wage_usd": 173316.0
+    },
+    {
+      "title": "Software Development Engineer in Test for Cloud",
+      "count": 1,
+      "median_wage_usd": 96845.0
+    },
+    {
+      "title": "Principal Database Engineer",
+      "count": 1,
+      "median_wage_usd": 142474.0
+    },
+    {
+      "title": "Manager Quality Assurance",
+      "count": 1,
+      "median_wage_usd": 136571.76
+    },
+    {
+      "title": "Data Scientist II",
+      "count": 1,
+      "median_wage_usd": 128000.0
+    },
+    {
+      "title": "Software Eng. Architect",
+      "count": 1,
+      "median_wage_usd": 157216.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MA",
+      "county": "BOSTON CITY",
+      "count": 17
+    },
+    {
+      "state": "MA",
+      "county": "CAMBRIDGE CITY",
+      "count": 8
+    },
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "county": "ABINGTON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MA",
+      "count": 35
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 141889.5,
+    "gap_usd": 11729.5
+  }
+}

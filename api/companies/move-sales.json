@@ -1,0 +1,107 @@
+{
+  "slug": "move-sales",
+  "canonical_name": "Move Sales, Inc",
+  "fein": "52-2284225",
+  "lca_filing_count": 13,
+  "lca_worker_positions": 13,
+  "warn_notice_count": 0,
+  "median_wage_usd": 155000.0,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 6,
+      "median_wage_usd": 177500.0
+    },
+    {
+      "fy": 2026,
+      "filings": 7,
+      "median_wage_usd": 139050.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Sr Software Engineer",
+      "count": 1,
+      "median_wage_usd": 148411.0
+    },
+    {
+      "title": "Principal Machine Learning Engineer",
+      "count": 1,
+      "median_wage_usd": 285000.0
+    },
+    {
+      "title": "Staff Software Engineer",
+      "count": 1,
+      "median_wage_usd": 215906.0
+    },
+    {
+      "title": "Senior Machine Learning Engineer",
+      "count": 1,
+      "median_wage_usd": 200000.0
+    },
+    {
+      "title": "Machine Learning Engineer, Sr",
+      "count": 1,
+      "median_wage_usd": 155000.0
+    },
+    {
+      "title": "Staff Sourcing Analyst",
+      "count": 1,
+      "median_wage_usd": 135606.0
+    },
+    {
+      "title": "Software Engineer, Staff",
+      "count": 1,
+      "median_wage_usd": 227240.0
+    },
+    {
+      "title": "Data Scientist, Sr",
+      "count": 1,
+      "median_wage_usd": 163937.0
+    },
+    {
+      "title": "Data Engineer",
+      "count": 1,
+      "median_wage_usd": 125169.0
+    },
+    {
+      "title": "Data Engineer, Staff",
+      "count": 1,
+      "median_wage_usd": 210123.0
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 6
+    },
+    {
+      "state": "CA",
+      "count": 4
+    },
+    {
+      "state": "OH",
+      "count": 1
+    },
+    {
+      "state": "AZ",
+      "count": 1
+    },
+    {
+      "state": "AR",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 179267.0,
+    "gap_usd": 49107.0
+  }
+}

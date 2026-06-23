@@ -1,0 +1,51 @@
+{
+  "slug": "ducommun",
+  "canonical_name": "Ducommun",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 1,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "KS",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "01/09/2020",
+      "effective_date": "01/09/2020",
+      "state": "KS",
+      "workers": 88,
+      "city": "5 - Workforce Investment Area V"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2022-11-18",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-22-288988",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000030305&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 1,
+    "itemCounts": {
+      "2.05": 1
+    },
+    "latestFilingDate": "2022-11-18",
+    "earliestFilingDate": "2022-11-18"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

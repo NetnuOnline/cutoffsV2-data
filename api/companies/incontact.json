@@ -1,0 +1,195 @@
+{
+  "slug": "incontact",
+  "canonical_name": "inContact, Inc.",
+  "fein": "87-0528557",
+  "lca_filing_count": 53,
+  "lca_worker_positions": 52,
+  "warn_notice_count": 0,
+  "median_wage_usd": 130000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 4,
+      "median_wage_usd": 112285.0
+    },
+    {
+      "fy": 2022,
+      "filings": 15,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 8,
+      "median_wage_usd": 117533.0
+    },
+    {
+      "fy": 2024,
+      "filings": 9,
+      "median_wage_usd": 135637.0
+    },
+    {
+      "fy": 2025,
+      "filings": 10,
+      "median_wage_usd": 139534.5
+    },
+    {
+      "fy": 2026,
+      "filings": 5,
+      "median_wage_usd": 134971.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Sr. Software Engineer",
+      "count": 9,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Lead Software Engineer",
+      "count": 9,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 8,
+      "median_wage_usd": 121433.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 4,
+      "median_wage_usd": 93748.5
+    },
+    {
+      "title": "Principal Software Engineer",
+      "count": 3,
+      "median_wage_usd": 155000.0
+    },
+    {
+      "title": "DevOps Engineer I",
+      "count": 2,
+      "median_wage_usd": 102533.0
+    },
+    {
+      "title": "Lead DevOps Engineer",
+      "count": 2,
+      "median_wage_usd": 139334.5
+    },
+    {
+      "title": "Software Engineer II",
+      "count": 2,
+      "median_wage_usd": 115341.0
+    },
+    {
+      "title": "Senior Program Manager",
+      "count": 2,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "title": "Software Engineer, CX",
+      "count": 2,
+      "median_wage_usd": 95944.5
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "UT",
+      "county": "SALT LAKE",
+      "count": 29
+    },
+    {
+      "state": "OH",
+      "county": "FRANKLIN",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    },
+    {
+      "state": "NM",
+      "county": "BERNALILLO",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "county": "FAIRFAX",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "county": "DEKALB",
+      "count": 1
+    },
+    {
+      "state": "UT",
+      "county": "SUMMIT",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "UT",
+      "count": 41
+    },
+    {
+      "state": "TX",
+      "count": 4
+    },
+    {
+      "state": "WA",
+      "count": 2
+    },
+    {
+      "state": "OH",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    },
+    {
+      "state": "NM",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 132184.0,
+    "gap_usd": 2024.0
+  }
+}

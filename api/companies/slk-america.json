@@ -1,0 +1,203 @@
+{
+  "slug": "slk-america",
+  "canonical_name": "SLK AMERICA, INC.",
+  "fein": "98-0347939",
+  "lca_filing_count": 331,
+  "lca_worker_positions": 327,
+  "warn_notice_count": 0,
+  "median_wage_usd": 86195.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 52,
+      "median_wage_usd": 77095.0
+    },
+    {
+      "fy": 2021,
+      "filings": 44,
+      "median_wage_usd": 76856.0
+    },
+    {
+      "fy": 2022,
+      "filings": 36,
+      "median_wage_usd": 77438.0
+    },
+    {
+      "fy": 2023,
+      "filings": 63,
+      "median_wage_usd": 90646.0
+    },
+    {
+      "fy": 2024,
+      "filings": 50,
+      "median_wage_usd": 95440.5
+    },
+    {
+      "fy": 2025,
+      "filings": 38,
+      "median_wage_usd": 93257.0
+    },
+    {
+      "fy": 2026,
+      "filings": 44,
+      "median_wage_usd": 97459.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Developer",
+      "count": 19,
+      "median_wage_usd": 75275.0
+    },
+    {
+      "title": "Technical Lead",
+      "count": 18,
+      "median_wage_usd": 98581.5
+    },
+    {
+      "title": "Test Engineer",
+      "count": 14,
+      "median_wage_usd": 72964.0
+    },
+    {
+      "title": "Tech Lead",
+      "count": 12,
+      "median_wage_usd": 102752.0
+    },
+    {
+      "title": "Architect",
+      "count": 9,
+      "median_wage_usd": 95742.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 9,
+      "median_wage_usd": 100547.0
+    },
+    {
+      "title": "Test Lead",
+      "count": 8,
+      "median_wage_usd": 91374.0
+    },
+    {
+      "title": "Business Analyst",
+      "count": 7,
+      "median_wage_usd": 88317.0
+    },
+    {
+      "title": "QA Lead",
+      "count": 6,
+      "median_wage_usd": 75826.5
+    },
+    {
+      "title": "Technical Leader",
+      "count": 5,
+      "median_wage_usd": 101000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "OH",
+      "county": "HAMILTON",
+      "count": 75
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 33
+    },
+    {
+      "state": "NY",
+      "county": "ERIE",
+      "count": 31
+    },
+    {
+      "state": "TN",
+      "county": "SHELBY",
+      "count": 25
+    },
+    {
+      "state": "MN",
+      "county": "HENNEPIN",
+      "count": 16
+    },
+    {
+      "state": "AL",
+      "county": "SHELBY",
+      "count": 11
+    },
+    {
+      "state": "OK",
+      "county": "TULSA",
+      "count": 10
+    },
+    {
+      "state": "AL",
+      "county": "JEFFERSON",
+      "count": 10
+    },
+    {
+      "state": "IN",
+      "county": "HAMILTON",
+      "count": 5
+    },
+    {
+      "state": "CO",
+      "county": "BOULDER",
+      "count": 5
+    }
+  ],
+  "top_states": [
+    {
+      "state": "OH",
+      "count": 111
+    },
+    {
+      "state": "NY",
+      "count": 39
+    },
+    {
+      "state": "TN",
+      "count": 35
+    },
+    {
+      "state": "IL",
+      "count": 34
+    },
+    {
+      "state": "AL",
+      "count": 21
+    },
+    {
+      "state": "MN",
+      "count": 19
+    },
+    {
+      "state": "OK",
+      "count": 13
+    },
+    {
+      "state": "TX",
+      "count": 13
+    },
+    {
+      "state": "FL",
+      "count": 11
+    },
+    {
+      "state": "IN",
+      "count": 5
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 100547.0,
+    "gap_usd": -29613.0
+  }
+}

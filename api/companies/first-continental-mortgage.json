@@ -1,0 +1,51 @@
+{
+  "slug": "first-continental-mortgage",
+  "canonical_name": "FIRST CONTINENTAL MORTGAGE, LTD.",
+  "fein": null,
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 54885.5,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 51771.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 58000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "STAFF ACCOUNTANT",
+      "count": 2,
+      "median_wage_usd": 54885.5
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-2011",
+    "soc_title": "Accountants",
+    "market_median_usd": 79000.0,
+    "employer_median_usd": 51771.0,
+    "gap_usd": -27229.0
+  }
+}

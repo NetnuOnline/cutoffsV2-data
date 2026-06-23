@@ -1,0 +1,203 @@
+{
+  "slug": "ust-global",
+  "canonical_name": "UST Global Inc",
+  "fein": "26-1539797",
+  "lca_filing_count": 1084,
+  "lca_worker_positions": 1071,
+  "warn_notice_count": 0,
+  "median_wage_usd": 100000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 226,
+      "median_wage_usd": 87173.0
+    },
+    {
+      "fy": 2021,
+      "filings": 142,
+      "median_wage_usd": 90754.5
+    },
+    {
+      "fy": 2022,
+      "filings": 101,
+      "median_wage_usd": 96050.0
+    },
+    {
+      "fy": 2023,
+      "filings": 159,
+      "median_wage_usd": 98720.0
+    },
+    {
+      "fy": 2024,
+      "filings": 184,
+      "median_wage_usd": 107858.5
+    },
+    {
+      "fy": 2025,
+      "filings": 145,
+      "median_wage_usd": 114769.0
+    },
+    {
+      "fy": 2026,
+      "filings": 114,
+      "median_wage_usd": 113807.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SENIOR SYSTEMS ANALYST",
+      "count": 77,
+      "median_wage_usd": 87173.0
+    },
+    {
+      "title": "LEAD II - SOFTWARE ENGINEERING",
+      "count": 76,
+      "median_wage_usd": 98658.5
+    },
+    {
+      "title": "SPECIALIST I - SOFTWARE ENGINEERING",
+      "count": 69,
+      "median_wage_usd": 108818.0
+    },
+    {
+      "title": "SYSTEMS ANALYST",
+      "count": 45,
+      "median_wage_usd": 84323.0
+    },
+    {
+      "title": "LEAD II - SOFTWARE ENGINEERING ",
+      "count": 39,
+      "median_wage_usd": 94992.0
+    },
+    {
+      "title": "PROJECT MANAGER II",
+      "count": 29,
+      "median_wage_usd": 114450.0
+    },
+    {
+      "title": "ARCHITECT I - SOFTWARE TESTING",
+      "count": 26,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "title": "SPECIALIST I - SOFTWARE ENGINEERING ",
+      "count": 25,
+      "median_wage_usd": 101982.0
+    },
+    {
+      "title": "SOFTWARE ARCHITECT II",
+      "count": 24,
+      "median_wage_usd": 125247.0
+    },
+    {
+      "title": "Specialist I - Software Engineering",
+      "count": 22,
+      "median_wage_usd": 102271.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 134
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 86
+    },
+    {
+      "state": "VA",
+      "county": "HENRICO",
+      "count": 81
+    },
+    {
+      "state": "AR",
+      "county": "BENTON",
+      "count": 71
+    },
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 61
+    },
+    {
+      "state": "VA",
+      "county": "NORFOLK CITY",
+      "count": 40
+    },
+    {
+      "state": "OH",
+      "county": "WARREN",
+      "count": 34
+    },
+    {
+      "state": "TX",
+      "county": "BEXAR",
+      "count": 29
+    },
+    {
+      "state": "PA",
+      "county": "PHILADELPHIA",
+      "count": 24
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 18
+    }
+  ],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 187
+    },
+    {
+      "state": "VA",
+      "count": 161
+    },
+    {
+      "state": "CA",
+      "count": 132
+    },
+    {
+      "state": "WA",
+      "count": 127
+    },
+    {
+      "state": "AR",
+      "count": 92
+    },
+    {
+      "state": "TX",
+      "count": 87
+    },
+    {
+      "state": "OH",
+      "count": 51
+    },
+    {
+      "state": "PA",
+      "count": 46
+    },
+    {
+      "state": "IL",
+      "count": 36
+    },
+    {
+      "state": "MO",
+      "count": 23
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 113081.0,
+    "gap_usd": -17079.0
+  }
+}

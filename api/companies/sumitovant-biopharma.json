@@ -1,0 +1,147 @@
+{
+  "slug": "sumitovant-biopharma",
+  "canonical_name": "Sumitovant Biopharma, Inc.",
+  "fein": null,
+  "lca_filing_count": 2,
+  "warn_notice_count": 7,
+  "median_wage_usd": 133000.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 133000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Data Engineer",
+      "count": 1,
+      "median_wage_usd": 131000.0
+    },
+    {
+      "title": "Associate Data Engineer",
+      "count": 1,
+      "median_wage_usd": 135000.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "07/03/2023",
+      "effective_date": "10/05/2023",
+      "state": "NY",
+      "workers": 62,
+      "city": "New York"
+    },
+    {
+      "date": "04/21/2023",
+      "effective_date": "07/20/2023",
+      "state": "NY",
+      "workers": 23,
+      "city": "New York"
+    },
+    {
+      "date": "04/20/2023",
+      "effective_date": "10/05/2023",
+      "state": "NY",
+      "workers": 62,
+      "city": "New York"
+    },
+    {
+      "date": "04/20/2023",
+      "effective_date": "10/05/2023",
+      "state": "NY",
+      "workers": 62,
+      "city": null
+    },
+    {
+      "date": "04/20/2023",
+      "effective_date": "07/20/2023",
+      "state": "NY",
+      "workers": 23,
+      "city": "New York"
+    },
+    {
+      "date": "04/20/2023",
+      "effective_date": "07/20/2023",
+      "state": "NY",
+      "workers": 23,
+      "city": "New York"
+    },
+    {
+      "date": "04/20/2023",
+      "effective_date": "07/20/2023",
+      "state": "NY",
+      "workers": 23,
+      "city": null
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 2,
+    "initial_denials": 0,
+    "continuing_approvals": 6,
+    "continuing_denials": 0,
+    "total_approvals": 8,
+    "by_fy": [
+      {
+        "fy": 2020,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 4,
+        "continuing_denials": 0,
+        "total_approvals": 5
+      }
+    ]
+  },
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 131000.0,
+    "gap_usd": 840.0
+  }
+}

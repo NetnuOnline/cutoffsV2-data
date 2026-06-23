@@ -1,0 +1,107 @@
+{
+  "slug": "m-t-bank-corporation",
+  "canonical_name": "M&T Bank Corporation",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 10,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 8
+    },
+    {
+      "state": "CT",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "07/22/2021",
+      "effective_date": "10/01/2021",
+      "state": "CT",
+      "workers": 747,
+      "city": "Hartford, Bridgeport, Farmington, Enfield, East Windsor, Cos Cob, North Haven, New Haven, South Windsor, Southington, Stamford, Wethersfield, Woodbridge"
+    },
+    {
+      "date": "05/08/2020",
+      "effective_date": "05/08/2020",
+      "state": "NJ",
+      "workers": 149,
+      "city": "Buffalo"
+    },
+    {
+      "date": "02/04/2020",
+      "effective_date": "05/08/2020",
+      "state": "NY",
+      "workers": 28,
+      "city": "New York"
+    },
+    {
+      "date": "02/04/2020",
+      "effective_date": "05/08/2020",
+      "state": "NY",
+      "workers": 46,
+      "city": "New City"
+    },
+    {
+      "date": "02/04/2020",
+      "effective_date": "05/08/2020",
+      "state": "NY",
+      "workers": 17,
+      "city": "New York"
+    },
+    {
+      "date": "02/04/2020",
+      "effective_date": "05/08/2020",
+      "state": "NY",
+      "workers": 4,
+      "city": "Staten Island"
+    },
+    {
+      "date": "10/05/2007",
+      "effective_date": "12/31/2007",
+      "state": "NY",
+      "workers": 0,
+      "city": "Syracuse"
+    },
+    {
+      "date": "10/05/2007",
+      "effective_date": "12/31/2007",
+      "state": "NY",
+      "workers": 0,
+      "city": "Utica"
+    },
+    {
+      "date": "10/05/2007",
+      "effective_date": "12/31/2007",
+      "state": "NY",
+      "workers": 0,
+      "city": "New Hartford"
+    },
+    {
+      "date": "10/05/2007",
+      "effective_date": "12/31/2007",
+      "state": "NY",
+      "workers": 0,
+      "city": "Binghamton"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "rockland-county-lwia",
+      "name": "Rockland County LWIA",
+      "state": "NY"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

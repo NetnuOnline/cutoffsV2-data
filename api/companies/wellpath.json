@@ -1,0 +1,171 @@
+{
+  "slug": "wellpath",
+  "canonical_name": "Wellpath",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 12,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 4
+    },
+    {
+      "state": "GA",
+      "count": 4
+    },
+    {
+      "state": "TN",
+      "count": 1
+    },
+    {
+      "state": "NE",
+      "count": 1
+    },
+    {
+      "state": "AZ",
+      "count": 1
+    },
+    {
+      "state": "LA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "10/27/2025",
+      "effective_date": "12/31/2025",
+      "state": "CA",
+      "workers": 72,
+      "city": "Monterey"
+    },
+    {
+      "date": "10/06/2025",
+      "effective_date": "11/07/2025",
+      "state": "TN",
+      "workers": 91,
+      "city": "Davidson County"
+    },
+    {
+      "date": "08/01/2025",
+      "effective_date": "08/01/2025",
+      "state": "GA",
+      "workers": 68,
+      "city": "1825 County Services Pkwy, Marietta, Georgia"
+    },
+    {
+      "date": "06/23/2025",
+      "effective_date": "08/01/2025",
+      "state": "GA",
+      "workers": 68,
+      "city": "1825 County Services Pkwy, Marietta, Georgia"
+    },
+    {
+      "date": "07/10/2024",
+      "effective_date": "07/10/2024",
+      "state": "NE",
+      "workers": 64,
+      "city": null
+    },
+    {
+      "date": "05/20/2024",
+      "effective_date": "05/20/2024",
+      "state": "AZ",
+      "workers": 0,
+      "city": "Nashville"
+    },
+    {
+      "date": "05/03/2024",
+      "effective_date": "06/30/2024",
+      "state": "GA",
+      "workers": 291,
+      "city": "2077 Convention Center Concourse, Atlanta, Georgia"
+    },
+    {
+      "date": "05/02/2024",
+      "effective_date": "05/31/2024",
+      "state": "LA",
+      "workers": 113,
+      "city": "Nashville"
+    },
+    {
+      "date": "05/01/2024",
+      "effective_date": "06/30/2024",
+      "state": "GA",
+      "workers": 291,
+      "city": "2077 Convention Center Concourse, Atlanta, Georgia"
+    },
+    {
+      "date": "04/29/2024",
+      "effective_date": "06/30/2024",
+      "state": "CA",
+      "workers": 26,
+      "city": "Porterville"
+    },
+    {
+      "date": "04/29/2024",
+      "effective_date": "06/30/2024",
+      "state": "CA",
+      "workers": 13,
+      "city": "11200 Avenue 368  Visalia CA 93291"
+    },
+    {
+      "date": "04/29/2024",
+      "effective_date": "06/30/2024",
+      "state": "CA",
+      "workers": 14,
+      "city": "36712 Rd 112  Visalia CA 93291"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "monterey-county-wib",
+      "name": "Monterey County WIB",
+      "state": "CA"
+    },
+    {
+      "slug": "tulare-county-wib",
+      "name": "Tulare County WIB",
+      "state": "CA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 2,
+    "continuing_denials": 0,
+    "total_approvals": 2,
+    "by_fy": [
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  }
+}

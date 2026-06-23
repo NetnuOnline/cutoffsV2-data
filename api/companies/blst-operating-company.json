@@ -1,0 +1,176 @@
+{
+  "slug": "blst-operating-company",
+  "canonical_name": "BLST Operating Company, LLC",
+  "fein": "85-1387944",
+  "lca_filing_count": 11,
+  "warn_notice_count": 0,
+  "median_wage_usd": 100714.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 114233.5
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 109054.0
+    },
+    {
+      "fy": 2022,
+      "filings": 3,
+      "median_wage_usd": 97678.0
+    },
+    {
+      "fy": 2023,
+      "filings": 4,
+      "median_wage_usd": 93328.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 100714.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Data Scientist",
+      "count": 2,
+      "median_wage_usd": 93328.0
+    },
+    {
+      "title": "Sr. Web Analyst- eCommerce",
+      "count": 1,
+      "median_wage_usd": 100714.0
+    },
+    {
+      "title": "SR. TECHNICAL ARCHITECT",
+      "count": 1,
+      "median_wage_usd": 122741.0
+    },
+    {
+      "title": "Sr. Engineer, Big Data",
+      "count": 1,
+      "median_wage_usd": 109054.0
+    },
+    {
+      "title": "Manager, Decision Science",
+      "count": 1,
+      "median_wage_usd": 92539.0
+    },
+    {
+      "title": "Credit Risk Analyst",
+      "count": 1,
+      "median_wage_usd": 76378.0
+    },
+    {
+      "title": "Engineer, SAS",
+      "count": 1,
+      "median_wage_usd": 109429.0
+    },
+    {
+      "title": "Senior Automation Engineer",
+      "count": 1,
+      "median_wage_usd": 105726.0
+    },
+    {
+      "title": "Engineer, Data Warehouse",
+      "count": 1,
+      "median_wage_usd": 130978.0
+    },
+    {
+      "title": "Credit Risk Manager",
+      "count": 1,
+      "median_wage_usd": 97678.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MN",
+      "county": "HENNEPIN",
+      "count": 6
+    },
+    {
+      "state": "FL",
+      "county": "BROWARD",
+      "count": 2
+    },
+    {
+      "state": "FL",
+      "county": "HILLSBOROUGH",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 1
+    },
+    {
+      "state": "KS",
+      "county": "SHAWNEE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MN",
+      "count": 6
+    },
+    {
+      "state": "FL",
+      "count": 3
+    },
+    {
+      "state": "KS",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 5,
+    "initial_denials": 0,
+    "continuing_approvals": 24,
+    "continuing_denials": 0,
+    "total_approvals": 29,
+    "by_fy": [
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 14,
+        "continuing_denials": 0,
+        "total_approvals": 14
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 5,
+        "initial_denials": 0,
+        "continuing_approvals": 6,
+        "continuing_denials": 0,
+        "total_approvals": 11
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 4,
+        "continuing_denials": 0,
+        "total_approvals": 4
+      }
+    ]
+  },
+  "lca_worker_positions": 11,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 92539.0,
+    "gap_usd": -15481.0
+  }
+}

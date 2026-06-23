@@ -1,0 +1,51 @@
+{
+  "slug": "american-remote-health",
+  "canonical_name": "American Remote Health LLC",
+  "fein": null,
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 89481.5,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 89856.0
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 89107.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Chief Information Officer",
+      "count": 2,
+      "median_wage_usd": 89481.5
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "OH",
+      "county": "CUYAHOGA",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "OH",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3021",
+    "soc_title": "Computer and Information Systems Managers",
+    "market_median_usd": 169510.0,
+    "employer_median_usd": 89481.5,
+    "gap_usd": -80028.5
+  }
+}

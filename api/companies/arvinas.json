@@ -1,0 +1,109 @@
+{
+  "slug": "arvinas",
+  "canonical_name": "Arvinas, Inc.",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "CT",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "04/30/2025",
+      "effective_date": "06/29/2025",
+      "state": "CT",
+      "workers": 0,
+      "city": "New Haven"
+    },
+    {
+      "date": "01/01/2025",
+      "effective_date": "06/29/2025",
+      "state": "CT",
+      "workers": 128,
+      "city": "5 Science Park , New Haven CT"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "northwest-wia-ct",
+      "name": "Northwest WIA",
+      "state": "CT"
+    }
+  ],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2025-09-17",
+        "formType": "8-K",
+        "accessionNumber": "0001655759-25-000147",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001655759&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2025-05-01",
+        "formType": "8-K",
+        "accessionNumber": "0001655759-25-000081",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001655759&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 2,
+    "itemCounts": {
+      "2.05": 2
+    },
+    "latestFilingDate": "2025-09-17",
+    "earliestFilingDate": "2025-05-01"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 4,
+    "continuing_denials": 0,
+    "total_approvals": 4,
+    "by_fy": [
+      {
+        "fy": 2015,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      }
+    ]
+  }
+}

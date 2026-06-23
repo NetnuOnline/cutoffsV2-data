@@ -1,0 +1,97 @@
+{
+  "slug": "w-k-kellogg-foundation",
+  "canonical_name": "W.K. Kellogg Foundation",
+  "fein": null,
+  "lca_filing_count": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 129000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 81600.0
+    },
+    {
+      "fy": 2022,
+      "filings": 3,
+      "median_wage_usd": 129000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Business Analyst - Enterprise Systems",
+      "count": 3,
+      "median_wage_usd": 129000.0
+    },
+    {
+      "title": "INVESTMENT ANALYST",
+      "count": 1,
+      "median_wage_usd": 81600.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MI",
+      "county": "CALHOUN",
+      "count": 4
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MI",
+      "count": 4
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 1,
+    "continuing_denials": 0,
+    "total_approvals": 2,
+    "by_fy": [
+      {
+        "fy": 2012,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2013,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1211",
+    "soc_title": "Computer Systems Analysts",
+    "market_median_usd": 103800.0,
+    "employer_median_usd": 129000.0,
+    "gap_usd": 25200.0
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "slug": "tampa-electric-company",
+  "canonical_name": "Tampa Electric Company",
+  "fein": "59-0475140",
+  "lca_filing_count": 26,
+  "lca_worker_positions": 26,
+  "warn_notice_count": 0,
+  "median_wage_usd": 106000.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 123000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 11,
+      "median_wage_usd": 105000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 4,
+      "median_wage_usd": 102000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 4,
+      "median_wage_usd": 117000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 5,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 95000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SAP GRC AND SECURITY LEAD",
+      "count": 2,
+      "median_wage_usd": 129000.0
+    },
+    {
+      "title": "SAP FUNCTIONAL CONSULTANT",
+      "count": 2,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "title": "SYSTEMS ANALYST, SHAREPOINT FOCUS (PROGRESSION)",
+      "count": 2,
+      "median_wage_usd": 87500.0
+    },
+    {
+      "title": "DATA ENGINEER",
+      "count": 2,
+      "median_wage_usd": 101000.0
+    },
+    {
+      "title": "SAP BASIS ARCHITECT",
+      "count": 2,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "Engineer II - Solar & Energy Storage Engineer",
+      "count": 2,
+      "median_wage_usd": 95000.0
+    },
+    {
+      "title": "GIS SOLUTIONS ARCHITECT",
+      "count": 1,
+      "median_wage_usd": 105000.0
+    },
+    {
+      "title": "SAP SECURITY ANALYST",
+      "count": 1,
+      "median_wage_usd": 101000.0
+    },
+    {
+      "title": "MANAGER, CRB FUNCTIONAL & SOLUTION ARCHITECTURE",
+      "count": 1,
+      "median_wage_usd": 123000.0
+    },
+    {
+      "title": "MANAGER IT DATA, ANALYTICS AND REPORTING",
+      "count": 1,
+      "median_wage_usd": 135000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "FL",
+      "county": "HILLSBOROUGH",
+      "count": 20
+    }
+  ],
+  "top_states": [
+    {
+      "state": "FL",
+      "count": 26
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 111000.0,
+    "gap_usd": -19160.0
+  }
+}

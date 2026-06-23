@@ -1,0 +1,127 @@
+{
+  "slug": "geode-capital-management",
+  "canonical_name": "Geode Capital Management LLC",
+  "fein": "04-3537967",
+  "lca_filing_count": 18,
+  "lca_worker_positions": 17,
+  "warn_notice_count": 0,
+  "median_wage_usd": 119933.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 110334.0
+    },
+    {
+      "fy": 2021,
+      "filings": 4,
+      "median_wage_usd": 109938.5
+    },
+    {
+      "fy": 2022,
+      "filings": 3,
+      "median_wage_usd": 108181.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 90688.0
+    },
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 136427.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 131082.0
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 154606.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Technical Project Manager",
+      "count": 3,
+      "median_wage_usd": 119933.0
+    },
+    {
+      "title": "Senior Data Engineer",
+      "count": 2,
+      "median_wage_usd": 127275.0
+    },
+    {
+      "title": "Senior Backend Engineer",
+      "count": 2,
+      "median_wage_usd": 143156.0
+    },
+    {
+      "title": "Software Support Engineer/Developer",
+      "count": 2,
+      "median_wage_usd": 110583.5
+    },
+    {
+      "title": "Index Analyst",
+      "count": 1,
+      "median_wage_usd": 90688.0
+    },
+    {
+      "title": "Senior Quantitative Developer",
+      "count": 1,
+      "median_wage_usd": 135658.0
+    },
+    {
+      "title": "Senior Performance Attribution Analyst",
+      "count": 1,
+      "median_wage_usd": 136427.0
+    },
+    {
+      "title": "Principal Frontend Engineer/Developer",
+      "count": 1,
+      "median_wage_usd": 147846.0
+    },
+    {
+      "title": "Quantitative Analyst",
+      "count": 1,
+      "median_wage_usd": 85010.0
+    },
+    {
+      "title": "Assistant Portfolio Manager",
+      "count": 1,
+      "median_wage_usd": 85925.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MA",
+      "county": "BOSTON CITY",
+      "count": 13
+    },
+    {
+      "state": "MA",
+      "county": "QUINCY CITY",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MA",
+      "count": 18
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 136611.5,
+    "gap_usd": 6451.5
+  }
+}

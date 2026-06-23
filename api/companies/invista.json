@@ -1,0 +1,104 @@
+{
+  "slug": "invista",
+  "canonical_name": "INVISTA",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 7,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "SC",
+      "count": 2
+    },
+    {
+      "state": "GA",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "TN",
+      "count": 1
+    },
+    {
+      "state": "DE",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "09/02/2019",
+      "effective_date": "09/02/2019",
+      "state": "SC",
+      "workers": 51,
+      "city": "Lugoff"
+    },
+    {
+      "date": "04/12/2019",
+      "effective_date": "04/12/2019",
+      "state": "SC",
+      "workers": 62,
+      "city": "Lugoff"
+    },
+    {
+      "date": "12/12/2017",
+      "effective_date": "12/12/2017",
+      "state": "GA",
+      "workers": 52,
+      "city": "Athens"
+    },
+    {
+      "date": "10/20/2015",
+      "effective_date": "12/18/2015",
+      "state": "TX",
+      "workers": 110,
+      "city": "Orange"
+    },
+    {
+      "date": "10/18/2012",
+      "effective_date": "08/01/2012",
+      "state": "TN",
+      "workers": 72,
+      "city": "Chattanooga"
+    },
+    {
+      "date": "12/08/2008",
+      "effective_date": "12/08/2008",
+      "state": "DE",
+      "workers": 400,
+      "city": null
+    },
+    {
+      "date": "12/15/2004",
+      "effective_date": "12/15/2004",
+      "state": "GA",
+      "workers": 33,
+      "city": "Athens"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "northeast-wib-ga",
+      "name": "Northeast WIB",
+      "state": "GA"
+    },
+    {
+      "slug": "santee-lynches-wib",
+      "name": "Santee-Lynches WIB",
+      "state": "SC"
+    },
+    {
+      "slug": "south-east-texas-wda",
+      "name": "South East Texas WDA",
+      "state": "TX"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

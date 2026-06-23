@@ -1,0 +1,60 @@
+{
+  "slug": "tsqs",
+  "canonical_name": "tsQs Inc",
+  "fein": "92-0638853",
+  "lca_filing_count": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 72000.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 77000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 70000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "QA Engineer",
+      "count": 5,
+      "median_wage_usd": 72000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "KS",
+      "county": "JOHNSON",
+      "count": 4
+    },
+    {
+      "state": "CA",
+      "county": "VENTURA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "KS",
+      "count": 4
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 5,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1253",
+    "soc_title": "Software Quality Assurance Analysts and Testers",
+    "market_median_usd": 101800.0,
+    "employer_median_usd": 72000.0,
+    "gap_usd": -29800.0
+  }
+}

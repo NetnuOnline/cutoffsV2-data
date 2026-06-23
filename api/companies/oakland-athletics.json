@@ -1,0 +1,43 @@
+{
+  "slug": "oakland-athletics",
+  "canonical_name": "Oakland Athletics",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "04/10/2020",
+      "effective_date": "03/17/2020",
+      "state": "CA",
+      "workers": 12,
+      "city": "Oakland"
+    },
+    {
+      "date": "04/10/2020",
+      "effective_date": "03/17/2020",
+      "state": "CA",
+      "workers": 796,
+      "city": "Oakland"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "alameda-county-wib",
+      "name": "Alameda County WIB",
+      "state": "CA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

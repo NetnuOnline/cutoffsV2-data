@@ -1,0 +1,90 @@
+{
+  "slug": "tinno-usa",
+  "canonical_name": "TINNO USA INC",
+  "fein": "82-2924922",
+  "lca_filing_count": 4,
+  "lca_worker_positions": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 72758.2,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 72966.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 112070.40000000001
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 72550.40000000001
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 68868.8,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "TEST ENGINEER",
+      "count": 1,
+      "median_wage_usd": 72550.40000000001
+    },
+    {
+      "title": "Computer Systems Architect ",
+      "count": 1,
+      "median_wage_usd": 72966.0
+    },
+    {
+      "title": "Corporate Immigration Counsel ",
+      "count": 1,
+      "median_wage_usd": 112070.40000000001
+    },
+    {
+      "title": "RESEARCH ANALYST",
+      "count": 1,
+      "median_wage_usd": 68868.8
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1253",
+    "soc_title": "Software Quality Assurance Analysts and Testers",
+    "market_median_usd": 101800.0,
+    "employer_median_usd": 72550.4,
+    "gap_usd": -29249.6
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "slug": "aspentech",
+  "canonical_name": "Aspentech Corporation",
+  "fein": "04-2739697",
+  "lca_filing_count": 21,
+  "warn_notice_count": 0,
+  "median_wage_usd": 120000.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 7,
+      "median_wage_usd": 95000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 9,
+      "median_wage_usd": 113123.64
+    },
+    {
+      "fy": 2024,
+      "filings": 4,
+      "median_wage_usd": 136423.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 120000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Principal Systems Analyst",
+      "count": 2,
+      "median_wage_usd": 138500.0
+    },
+    {
+      "title": "Senior Technical Consultant",
+      "count": 2,
+      "median_wage_usd": 85000.0
+    },
+    {
+      "title": "Principal  Professional Services Project Manager",
+      "count": 1,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "Principal Software Developer",
+      "count": 1,
+      "median_wage_usd": 130727.54
+    },
+    {
+      "title": "Product Marketing Specialist ",
+      "count": 1,
+      "median_wage_usd": 85000.0
+    },
+    {
+      "title": "Senior Product Management Specialist",
+      "count": 1,
+      "median_wage_usd": 93381.26
+    },
+    {
+      "title": "Software Developer I",
+      "count": 1,
+      "median_wage_usd": 91611.0
+    },
+    {
+      "title": "Product Manager",
+      "count": 1,
+      "median_wage_usd": 115061.7
+    },
+    {
+      "title": "Sr. Solution Consultant",
+      "count": 1,
+      "median_wage_usd": 113000.0
+    },
+    {
+      "title": "Sr. Data Scientist",
+      "count": 1,
+      "median_wage_usd": 125000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MA",
+      "county": "BEDFORD",
+      "count": 10
+    },
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 9
+    },
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MA",
+      "count": 10
+    },
+    {
+      "state": "TX",
+      "count": 9
+    },
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "MN",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 6,
+    "continuing_denials": 0,
+    "total_approvals": 6,
+    "by_fy": [
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 6,
+        "continuing_denials": 0,
+        "total_approvals": 6
+      }
+    ]
+  },
+  "lca_worker_positions": 21,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 127188.77,
+    "gap_usd": -2971.23
+  }
+}

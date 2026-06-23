@@ -1,0 +1,56 @@
+{
+  "slug": "water-district-no-1-of-johnson-county-kansas",
+  "canonical_name": "Water District No. 1 of Johnson County, Kansas",
+  "fein": "48-6090842",
+  "lca_filing_count": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 125840.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 125840.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 140982.4
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "IT Project Manager",
+      "count": 3,
+      "median_wage_usd": 125840.0
+    },
+    {
+      "title": "Supervisor, I.T. Project Management Office",
+      "count": 2,
+      "median_wage_usd": 140982.4
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "KS",
+      "county": "JOHNSON",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "KS",
+      "count": 5
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Information Technology Project Managers",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 125840.0,
+    "gap_usd": 7840.0
+  }
+}

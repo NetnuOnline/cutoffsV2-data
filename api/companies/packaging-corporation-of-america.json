@@ -1,0 +1,136 @@
+{
+  "slug": "packaging-corporation-of-america",
+  "canonical_name": "Packaging Corporation of America",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 10,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 2
+    },
+    {
+      "state": "WA",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "CO",
+      "count": 1
+    },
+    {
+      "state": "OK",
+      "count": 1
+    },
+    {
+      "state": "ID",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "12/11/2025",
+      "effective_date": "02/09/2026",
+      "state": "WA",
+      "workers": 200,
+      "city": "Wallula"
+    },
+    {
+      "date": "12/01/2025",
+      "effective_date": "12/01/2025",
+      "state": "PA",
+      "workers": 0,
+      "city": "Allentown"
+    },
+    {
+      "date": "10/03/2025",
+      "effective_date": "12/19/2025",
+      "state": "NC",
+      "workers": 108,
+      "city": "1302 North Salisbury Avenue, Salisbury"
+    },
+    {
+      "date": "03/11/2025",
+      "effective_date": "03/11/2025",
+      "state": "GA",
+      "workers": 103,
+      "city": "3200 Lakewood Ave SW, East Point, Georgia"
+    },
+    {
+      "date": "01/09/2025",
+      "effective_date": "03/11/2025",
+      "state": "GA",
+      "workers": 103,
+      "city": "3200 Lakewood Ave SW, East Point, Georgia"
+    },
+    {
+      "date": "02/07/2023",
+      "effective_date": "03/28/2023",
+      "state": "TX",
+      "workers": 65,
+      "city": "Woodway"
+    },
+    {
+      "date": "04/27/2020",
+      "effective_date": "06/30/2020",
+      "state": "CA",
+      "workers": 160,
+      "city": "San Lorenzo"
+    },
+    {
+      "date": "07/25/2016",
+      "effective_date": "07/25/2016",
+      "state": "CO",
+      "workers": 70,
+      "city": "Adams"
+    },
+    {
+      "date": "06/16/2016",
+      "effective_date": "06/16/2016",
+      "state": "OK",
+      "workers": 15,
+      "city": null
+    },
+    {
+      "date": "11/18/2014",
+      "effective_date": "03/01/2015",
+      "state": "ID",
+      "workers": 152,
+      "city": "Boise"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "lehigh-valley-wia",
+      "name": "Lehigh Valley WIA",
+      "state": "PA"
+    },
+    {
+      "slug": "eastern-washington-wib",
+      "name": "Eastern Washington WIB",
+      "state": "WA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

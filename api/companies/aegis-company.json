@@ -1,0 +1,184 @@
+{
+  "slug": "aegis-company",
+  "canonical_name": "Aegis Company",
+  "fein": "27-1520448",
+  "lca_filing_count": 37,
+  "warn_notice_count": 0,
+  "median_wage_usd": 101546.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 36,
+      "median_wage_usd": 101546.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 118414.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Technical Project Manager",
+      "count": 10,
+      "median_wage_usd": 93246.0
+    },
+    {
+      "title": "IT Consultant (Data Engineer)",
+      "count": 7,
+      "median_wage_usd": 115024.0
+    },
+    {
+      "title": "IT Consultant (Data Engineer/Lead)",
+      "count": 5,
+      "median_wage_usd": 101546.0
+    },
+    {
+      "title": "Corporate Financial Analyst",
+      "count": 4,
+      "median_wage_usd": 89003.0
+    },
+    {
+      "title": "Data Analyst",
+      "count": 4,
+      "median_wage_usd": 95056.0
+    },
+    {
+      "title": "Software Architect (Data Migration & Cloud Services)",
+      "count": 2,
+      "median_wage_usd": 115055.0
+    },
+    {
+      "title": ". Net Software Developer ",
+      "count": 2,
+      "median_wage_usd": 106371.5
+    },
+    {
+      "title": "Business Intelligence Analyst",
+      "count": 2,
+      "median_wage_usd": 94006.0
+    },
+    {
+      "title": "IT Consultant (Business Intelligence Analyst)",
+      "count": 1,
+      "median_wage_usd": 118414.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "WA",
+      "county": "THURSTON",
+      "count": 17
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 16
+    },
+    {
+      "state": "MI",
+      "county": "MACOMB",
+      "count": 2
+    },
+    {
+      "state": "VA",
+      "county": "LOUDOUN",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "county": "SNOHOMISH",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "WA",
+      "count": 34
+    },
+    {
+      "state": "MI",
+      "count": 2
+    },
+    {
+      "state": "VA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 6,
+    "initial_denials": 0,
+    "continuing_approvals": 2,
+    "continuing_denials": 0,
+    "total_approvals": 8,
+    "by_fy": [
+      {
+        "fy": 2015,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2016,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2017,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 4,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 4
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 4
+      }
+    ]
+  },
+  "lca_worker_positions": 37,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 101546.0,
+    "gap_usd": -28614.0
+  }
+}

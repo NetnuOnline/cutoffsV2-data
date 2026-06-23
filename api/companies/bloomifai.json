@@ -1,0 +1,56 @@
+{
+  "slug": "bloomifai",
+  "canonical_name": "Bloomifai, LLC",
+  "fein": "99-2573614",
+  "lca_filing_count": 2,
+  "lca_worker_positions": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 130301.7,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 103022.40000000001
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 157581.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 2,
+      "median_wage_usd": 130301.70000000001
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MT",
+      "county": "FLATHEAD",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "MT",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 130301.7,
+    "gap_usd": 141.7
+  }
+}

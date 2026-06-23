@@ -1,0 +1,41 @@
+{
+  "slug": "glendale-community-college-district",
+  "canonical_name": "Glendale Community College District",
+  "fein": "95-2668744",
+  "lca_filing_count": 1,
+  "lca_worker_positions": 1,
+  "warn_notice_count": 0,
+  "median_wage_usd": 87445.08,
+  "by_fy": [
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 87445.08,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Programmer Analyst",
+      "count": 1,
+      "median_wage_usd": 87445.08
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 87445.08,
+    "gap_usd": -42714.92
+  }
+}

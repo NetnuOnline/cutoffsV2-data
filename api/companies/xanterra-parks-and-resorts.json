@@ -1,0 +1,77 @@
+{
+  "slug": "xanterra-parks-and-resorts",
+  "canonical_name": "Xanterra Parks and Resorts",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 5,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 3
+    },
+    {
+      "state": "UT",
+      "count": 1
+    },
+    {
+      "state": "AZ",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "12/31/2024",
+      "effective_date": "12/31/2024",
+      "state": "UT",
+      "workers": 116,
+      "city": "Hurricane"
+    },
+    {
+      "date": "12/08/2020",
+      "effective_date": "12/08/2020",
+      "state": "CA",
+      "workers": 131,
+      "city": "Death Valley"
+    },
+    {
+      "date": "03/24/2020",
+      "effective_date": "04/02/2020",
+      "state": "CA",
+      "workers": 232,
+      "city": "Death Valley"
+    },
+    {
+      "date": "03/24/2020",
+      "effective_date": "03/20/2020",
+      "state": "CA",
+      "workers": 235,
+      "city": "Death Valley"
+    },
+    {
+      "date": "10/29/2014",
+      "effective_date": "10/29/2014",
+      "state": "AZ",
+      "workers": 978,
+      "city": "Grand Canyon"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "coconino-county-lwib",
+      "name": "Coconino County LWIB",
+      "state": "AZ"
+    },
+    {
+      "slug": "kern-inyo-mono-consortium-wib",
+      "name": "Kern, Inyo, Mono Consortium WIB",
+      "state": "CA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

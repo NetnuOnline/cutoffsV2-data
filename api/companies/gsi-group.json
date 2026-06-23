@@ -1,0 +1,60 @@
+{
+  "slug": "gsi-group",
+  "canonical_name": "GSI Group",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 3,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 3
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "11/29/2019",
+      "effective_date": "01/01/2020",
+      "state": "IL",
+      "workers": 89,
+      "city": "Flora"
+    },
+    {
+      "date": "02/17/2006",
+      "effective_date": "04/01/2006",
+      "state": "IL",
+      "workers": 25,
+      "city": "Vandalia"
+    },
+    {
+      "date": "06/15/2001",
+      "effective_date": "06/01/2001",
+      "state": "IL",
+      "workers": 60,
+      "city": "Du Quoin"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "land-of-lincoln-wf-alliance",
+      "name": "Land of Lincoln WF Alliance",
+      "state": "IL"
+    },
+    {
+      "slug": "crossroads-wib",
+      "name": "Crossroads WIB",
+      "state": "IL"
+    },
+    {
+      "slug": "southern-il-wib",
+      "name": "Southern IL WIB",
+      "state": "IL"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

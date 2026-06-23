@@ -1,0 +1,203 @@
+{
+  "slug": "latentview-analytics",
+  "canonical_name": "Latentview Analytics Corporation",
+  "fein": "26-3578254",
+  "lca_filing_count": 159,
+  "lca_worker_positions": 160,
+  "warn_notice_count": 0,
+  "median_wage_usd": 130000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 27,
+      "median_wage_usd": 110926.0
+    },
+    {
+      "fy": 2021,
+      "filings": 27,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 22,
+      "median_wage_usd": 130416.0
+    },
+    {
+      "fy": 2023,
+      "filings": 16,
+      "median_wage_usd": 125221.0
+    },
+    {
+      "fy": 2024,
+      "filings": 24,
+      "median_wage_usd": 130208.0
+    },
+    {
+      "fy": 2025,
+      "filings": 28,
+      "median_wage_usd": 153491.0
+    },
+    {
+      "fy": 2026,
+      "filings": 14,
+      "median_wage_usd": 146821.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Consultant",
+      "count": 57,
+      "median_wage_usd": 130294.0
+    },
+    {
+      "title": "Associate",
+      "count": 26,
+      "median_wage_usd": 119470.0
+    },
+    {
+      "title": "Data Engineer",
+      "count": 18,
+      "median_wage_usd": 121677.0
+    },
+    {
+      "title": "BI Developer",
+      "count": 13,
+      "median_wage_usd": 120578.0
+    },
+    {
+      "title": "Account Manager",
+      "count": 8,
+      "median_wage_usd": 137355.5
+    },
+    {
+      "title": "CONSULTANT",
+      "count": 8,
+      "median_wage_usd": 131224.5
+    },
+    {
+      "title": "ASSOCIATE",
+      "count": 5,
+      "median_wage_usd": 134310.0
+    },
+    {
+      "title": "Principal",
+      "count": 4,
+      "median_wage_usd": 130447.0
+    },
+    {
+      "title": "Data Scientist",
+      "count": 4,
+      "median_wage_usd": 174304.0
+    },
+    {
+      "title": "Senior Account Manager",
+      "count": 3,
+      "median_wage_usd": 155000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 53
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 26
+    },
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 7
+    },
+    {
+      "state": "CA",
+      "county": "SAN MATEO",
+      "count": 6
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 5
+    },
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 4
+    },
+    {
+      "state": "CA",
+      "county": "CONTRA COSTA",
+      "count": 4
+    },
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 4
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 91
+    },
+    {
+      "state": "WA",
+      "count": 29
+    },
+    {
+      "state": "TX",
+      "count": 20
+    },
+    {
+      "state": "AZ",
+      "count": 4
+    },
+    {
+      "state": "HI",
+      "count": 2
+    },
+    {
+      "state": "FL",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "count": 2
+    },
+    {
+      "state": "NC",
+      "count": 2
+    },
+    {
+      "state": "NM",
+      "count": 1
+    },
+    {
+      "state": "CT",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 132825.0,
+    "gap_usd": 24805.0
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "slug": "central-freight-lines",
+  "canonical_name": "Central Freight Lines",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 12,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "SC",
+      "count": 4
+    },
+    {
+      "state": "TX",
+      "count": 4
+    },
+    {
+      "state": "TN",
+      "count": 1
+    },
+    {
+      "state": "AZ",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "12/17/2021",
+      "effective_date": "12/17/2021",
+      "state": "SC",
+      "workers": 8,
+      "city": "Knightsville"
+    },
+    {
+      "date": "12/17/2021",
+      "effective_date": "12/17/2021",
+      "state": "SC",
+      "workers": 7,
+      "city": "Lexington"
+    },
+    {
+      "date": "12/17/2021",
+      "effective_date": "12/17/2021",
+      "state": "SC",
+      "workers": 20,
+      "city": "Greenville"
+    },
+    {
+      "date": "12/17/2021",
+      "effective_date": "12/17/2021",
+      "state": "SC",
+      "workers": 7,
+      "city": "Florence"
+    },
+    {
+      "date": "12/15/2021",
+      "effective_date": "12/13/2021",
+      "state": "TN",
+      "workers": 66,
+      "city": "Wilson County"
+    },
+    {
+      "date": "12/14/2021",
+      "effective_date": "12/14/2021",
+      "state": "AZ",
+      "workers": 0,
+      "city": "Phoenix"
+    },
+    {
+      "date": "12/13/2021",
+      "effective_date": "12/17/2021",
+      "state": "TX",
+      "workers": 66,
+      "city": "San Antonio"
+    },
+    {
+      "date": "12/13/2021",
+      "effective_date": "12/13/2021",
+      "state": "TX",
+      "workers": 292,
+      "city": "Ft. Worth"
+    },
+    {
+      "date": "12/13/2021",
+      "effective_date": "12/13/2021",
+      "state": "TX",
+      "workers": 162,
+      "city": "Houston"
+    },
+    {
+      "date": "12/13/2021",
+      "effective_date": "12/13/2021",
+      "state": "TX",
+      "workers": 153,
+      "city": "Waco"
+    },
+    {
+      "date": "12/13/2021",
+      "effective_date": "12/13/2021",
+      "state": "NC",
+      "workers": 70,
+      "city": "7500 Statesville RD, Charlotte"
+    },
+    {
+      "date": "12/13/2021",
+      "effective_date": "12/13/2021",
+      "state": "GA",
+      "workers": 113,
+      "city": "Conley"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "atlanta-regional-wib",
+      "name": "Atlanta Regional WIB",
+      "state": "GA"
+    },
+    {
+      "slug": "greenville-wib",
+      "name": "Greenville WIB",
+      "state": "SC"
+    },
+    {
+      "slug": "pee-dee-wib",
+      "name": "Pee Dee WIB",
+      "state": "SC"
+    },
+    {
+      "slug": "midlands-wib",
+      "name": "Midlands WIB",
+      "state": "SC"
+    },
+    {
+      "slug": "heart-of-texas-wda",
+      "name": "Heart of Texas WDA",
+      "state": "TX"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

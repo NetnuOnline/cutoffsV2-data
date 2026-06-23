@@ -1,0 +1,107 @@
+{
+  "slug": "hyster-yale-materials-handling",
+  "canonical_name": "Hyster-Yale Materials Handling, Inc.",
+  "fein": "93-0160700",
+  "lca_filing_count": 4,
+  "warn_notice_count": 4,
+  "median_wage_usd": 135698.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 146000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 114213.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "IT Business Analyst Lead",
+      "count": 2,
+      "median_wage_usd": 146000.0
+    },
+    {
+      "title": "IT Internal Auditor III",
+      "count": 1,
+      "median_wage_usd": 114213.0
+    },
+    {
+      "title": "Project Engineer III",
+      "count": 1,
+      "median_wage_usd": 125396.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NC",
+      "count": 2
+    },
+    {
+      "state": "MI",
+      "count": 1
+    },
+    {
+      "state": "OR",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NC",
+      "county": "PITT",
+      "count": 2
+    },
+    {
+      "state": "OR",
+      "county": "MULTNOMAH",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "03/31/2026",
+      "effective_date": "07/27/2026",
+      "state": "IL",
+      "workers": 20,
+      "city": "Danville"
+    },
+    {
+      "date": "03/31/2026",
+      "effective_date": "07/06/2026",
+      "state": "IL",
+      "workers": 36,
+      "city": "Danville"
+    },
+    {
+      "date": "03/31/2026",
+      "effective_date": "06/01/2026",
+      "state": "IL",
+      "workers": 20,
+      "city": "Danville"
+    },
+    {
+      "date": "11/14/2024",
+      "effective_date": "01/23/2025",
+      "state": "NC",
+      "workers": 97,
+      "city": "5200 M.L.K. Jr Hwy, Greenville"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Business Intelligence Analysts",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 146000.0,
+    "gap_usd": 37980.0
+  }
+}

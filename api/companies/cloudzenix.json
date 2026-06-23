@@ -1,0 +1,71 @@
+{
+  "slug": "cloudzenix",
+  "canonical_name": "CloudZenix LLC",
+  "fein": "84-3939667",
+  "lca_filing_count": 9,
+  "lca_worker_positions": 45,
+  "warn_notice_count": 0,
+  "median_wage_usd": 90896.0,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 5,
+      "median_wage_usd": 90896.0
+    },
+    {
+      "fy": 2026,
+      "filings": 4,
+      "median_wage_usd": 101909.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 4,
+      "median_wage_usd": 101909.5
+    },
+    {
+      "title": "DevOps Engineer",
+      "count": 2,
+      "median_wage_usd": 87495.0
+    },
+    {
+      "title": "Data/Business Analyst II",
+      "count": 2,
+      "median_wage_usd": 90896.0
+    },
+    {
+      "title": "End User Computing Operations Manager",
+      "count": 1,
+      "median_wage_usd": 122574.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 8
+    },
+    {
+      "state": "CT",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 90896.0,
+    "gap_usd": -39264.0
+  }
+}

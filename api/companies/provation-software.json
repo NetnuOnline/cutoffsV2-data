@@ -1,0 +1,129 @@
+{
+  "slug": "provation-software",
+  "canonical_name": "Provation Software, Inc.",
+  "fein": "41-1819816",
+  "lca_filing_count": 8,
+  "lca_worker_positions": 8,
+  "warn_notice_count": 0,
+  "median_wage_usd": 122577.5,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 106343.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 123440.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 117320.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 125155.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 130083.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 167024.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Sr. Software Engineer",
+      "count": 2,
+      "median_wage_usd": 121237.5
+    },
+    {
+      "title": "Regional Sales Director",
+      "count": 1,
+      "median_wage_usd": 117686.0
+    },
+    {
+      "title": "Sr. Software QA Analyst",
+      "count": 1,
+      "median_wage_usd": 95000.0
+    },
+    {
+      "title": "Senior DevSecOps Engineer",
+      "count": 1,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "Senior AI/ML Engineer",
+      "count": 1,
+      "median_wage_usd": 167024.0
+    },
+    {
+      "title": "Manager, Engineering",
+      "count": 1,
+      "median_wage_usd": 130083.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 1,
+      "median_wage_usd": 126880.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MN",
+      "county": "HENNEPIN",
+      "count": 3
+    },
+    {
+      "state": "FL",
+      "county": "PASCO",
+      "count": 1
+    },
+    {
+      "state": "UT",
+      "county": "SALT LAKE",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "county": "PINELLAS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MN",
+      "count": 4
+    },
+    {
+      "state": "FL",
+      "count": 2
+    },
+    {
+      "state": "WA",
+      "count": 1
+    },
+    {
+      "state": "UT",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 122577.5,
+    "gap_usd": -7582.5
+  }
+}

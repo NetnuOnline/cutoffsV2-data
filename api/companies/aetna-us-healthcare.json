@@ -1,0 +1,72 @@
+{
+  "slug": "aetna-us-healthcare",
+  "canonical_name": "Aetna US Healthcare",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 5,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 3
+    },
+    {
+      "state": "IL",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "12/12/2003",
+      "effective_date": "12/31/2003",
+      "state": "TX",
+      "workers": 78,
+      "city": "Sugar Land"
+    },
+    {
+      "date": "01/14/2002",
+      "effective_date": "01/31/2002",
+      "state": "TX",
+      "workers": 400,
+      "city": "Sugar Land"
+    },
+    {
+      "date": "11/14/2000",
+      "effective_date": "11/03/2000",
+      "state": "TX",
+      "workers": 109,
+      "city": "Spring"
+    },
+    {
+      "date": "10/27/1997",
+      "effective_date": "10/27/1997",
+      "state": "IL",
+      "workers": 0,
+      "city": "Rockford"
+    },
+    {
+      "date": "01/24/1997",
+      "effective_date": "01/24/1997",
+      "state": "GA",
+      "workers": 280,
+      "city": "Macon"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "macon-bibb-wib",
+      "name": "Macon-Bibb WIB",
+      "state": "GA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

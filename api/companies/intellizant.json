@@ -1,0 +1,114 @@
+{
+  "slug": "intellizant",
+  "canonical_name": "Intellizant LLC",
+  "fein": "26-0672456",
+  "lca_filing_count": 13,
+  "lca_worker_positions": 13,
+  "warn_notice_count": 0,
+  "median_wage_usd": 112000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 111120.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 90000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 5,
+      "median_wage_usd": 110240.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 122187.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Application Developer",
+      "count": 4,
+      "median_wage_usd": 114057.5
+    },
+    {
+      "title": "APPLICATION DEVELOPER ",
+      "count": 2,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "title": ".Net Azure Consultant",
+      "count": 2,
+      "median_wage_usd": 119500.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 2,
+      "median_wage_usd": 90000.0
+    },
+    {
+      "title": "Sr. Applications Programmer / Software Engineer",
+      "count": 1,
+      "median_wage_usd": 112000.0
+    },
+    {
+      "title": "AEM Developer",
+      "count": 1,
+      "median_wage_usd": 104000.0
+    },
+    {
+      "title": "Principal Consultant - Oracle",
+      "count": 1,
+      "median_wage_usd": 80000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "VA",
+      "county": "FAIRFAX",
+      "count": 4
+    },
+    {
+      "state": "MD",
+      "county": "MONTGOMERY",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "VA",
+      "count": 6
+    },
+    {
+      "state": "MD",
+      "count": 5
+    },
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 111120.0,
+    "gap_usd": -19040.0
+  }
+}

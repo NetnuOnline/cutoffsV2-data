@@ -1,0 +1,203 @@
+{
+  "slug": "caremark",
+  "canonical_name": "Caremark, LLC",
+  "fein": "95-3382344",
+  "lca_filing_count": 633,
+  "lca_worker_positions": 623,
+  "warn_notice_count": 0,
+  "median_wage_usd": 132925.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 66,
+      "median_wage_usd": 114507.485
+    },
+    {
+      "fy": 2021,
+      "filings": 82,
+      "median_wage_usd": 122337.3
+    },
+    {
+      "fy": 2022,
+      "filings": 124,
+      "median_wage_usd": 129523.785
+    },
+    {
+      "fy": 2023,
+      "filings": 101,
+      "median_wage_usd": 136998.0
+    },
+    {
+      "fy": 2024,
+      "filings": 97,
+      "median_wage_usd": 135766.7
+    },
+    {
+      "fy": 2025,
+      "filings": 104,
+      "median_wage_usd": 145092.90999999997
+    },
+    {
+      "fy": 2026,
+      "filings": 49,
+      "median_wage_usd": 143342.32,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Data Engineer",
+      "count": 26,
+      "median_wage_usd": 116138.5
+    },
+    {
+      "title": "Sr Software Development Engineer",
+      "count": 23,
+      "median_wage_usd": 135502.0
+    },
+    {
+      "title": "Sr Data Engineer",
+      "count": 23,
+      "median_wage_usd": 143436.04
+    },
+    {
+      "title": "Lead Data Engineer",
+      "count": 22,
+      "median_wage_usd": 157063.75
+    },
+    {
+      "title": "Sr Data Scientist",
+      "count": 18,
+      "median_wage_usd": 151742.5
+    },
+    {
+      "title": "Senior Data Scientist",
+      "count": 15,
+      "median_wage_usd": 150108.0
+    },
+    {
+      "title": "Digital Dev Engineer III",
+      "count": 13,
+      "median_wage_usd": 129706.0
+    },
+    {
+      "title": "Senior Data Engineer",
+      "count": 12,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "title": "Software Development Engineer",
+      "count": 11,
+      "median_wage_usd": 128236.5
+    },
+    {
+      "title": "Data Scientist",
+      "count": 10,
+      "median_wage_usd": 125920.5
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 133
+    },
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 48
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 39
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 32
+    },
+    {
+      "state": "IL",
+      "county": "LAKE",
+      "count": 20
+    },
+    {
+      "state": "RI",
+      "county": "PROVIDENCE CITY",
+      "count": 19
+    },
+    {
+      "state": "RI",
+      "county": "WOONSOCKET CITY",
+      "count": 17
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 15
+    },
+    {
+      "state": "CT",
+      "county": "HARTFORD CITY",
+      "count": 10
+    },
+    {
+      "state": "MA",
+      "county": "WELLESLEY",
+      "count": 8
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 251
+    },
+    {
+      "state": "IL",
+      "count": 77
+    },
+    {
+      "state": "AZ",
+      "count": 56
+    },
+    {
+      "state": "RI",
+      "count": 47
+    },
+    {
+      "state": "NY",
+      "count": 25
+    },
+    {
+      "state": "NC",
+      "count": 20
+    },
+    {
+      "state": "MA",
+      "count": 19
+    },
+    {
+      "state": "GA",
+      "count": 17
+    },
+    {
+      "state": "CA",
+      "count": 16
+    },
+    {
+      "state": "CT",
+      "count": 16
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 137686.95,
+    "gap_usd": 7526.95
+  }
+}

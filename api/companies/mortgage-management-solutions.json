@@ -1,0 +1,115 @@
+{
+  "slug": "mortgage-management-solutions",
+  "canonical_name": "MORTGAGE MANAGEMENT SOLUTIONS, LLC",
+  "fein": "20-0193048",
+  "lca_filing_count": 8,
+  "lca_worker_positions": 8,
+  "warn_notice_count": 0,
+  "median_wage_usd": 143301.5,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 5,
+      "median_wage_usd": 136822.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 149781.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 161775.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Director of Technology",
+      "count": 1,
+      "median_wage_usd": 162261.0
+    },
+    {
+      "title": "Lead Full Stack Engineer",
+      "count": 1,
+      "median_wage_usd": 149781.0
+    },
+    {
+      "title": "Sr. Software Engineer",
+      "count": 1,
+      "median_wage_usd": 128315.0
+    },
+    {
+      "title": "Sr. Data Engineer",
+      "count": 1,
+      "median_wage_usd": 136822.0
+    },
+    {
+      "title": "Software Engineering Manager",
+      "count": 1,
+      "median_wage_usd": 136822.0
+    },
+    {
+      "title": "Senior Full Stack Engineer",
+      "count": 1,
+      "median_wage_usd": 122616.0
+    },
+    {
+      "title": "Senior AI Full Stack Engineer",
+      "count": 1,
+      "median_wage_usd": 163550.0
+    },
+    {
+      "title": "Sr Lead Software Developer",
+      "count": 1,
+      "median_wage_usd": 160000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 3
+    },
+    {
+      "state": "PA",
+      "county": "ALLEGHENY",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 4
+    },
+    {
+      "state": "TX",
+      "count": 3
+    },
+    {
+      "state": "PA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 149781.0,
+    "gap_usd": 19621.0
+  }
+}

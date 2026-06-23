@@ -1,0 +1,120 @@
+{
+  "slug": "glaukos",
+  "canonical_name": "Glaukos Corporation",
+  "fein": "33-0945406",
+  "lca_filing_count": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 120983.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 4,
+      "median_wage_usd": 111529.5
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Statistical Programmer II",
+      "count": 1,
+      "median_wage_usd": 96678.0
+    },
+    {
+      "title": "Senior Statistical Programmer",
+      "count": 1,
+      "median_wage_usd": 111966.0
+    },
+    {
+      "title": "Oracle Cloud Application Specialist ",
+      "count": 1,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Oracle Cloud Application Specialist",
+      "count": 1,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Sr. Business Systems Analyst II",
+      "count": 1,
+      "median_wage_usd": 171600.0
+    },
+    {
+      "title": "Senior Scientist II \u2013 Biocompatibility",
+      "count": 1,
+      "median_wage_usd": 111093.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MA",
+      "county": "WALTHAM CITY",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "ORANGE",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "county": "SOMERSET",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MA",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 3,
+    "continuing_denials": 0,
+    "total_approvals": 4,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 4
+      }
+    ]
+  },
+  "lca_worker_positions": 5,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 104322.0,
+    "gap_usd": -3698.0
+  }
+}

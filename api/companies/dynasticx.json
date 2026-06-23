@@ -1,0 +1,61 @@
+{
+  "slug": "dynasticx",
+  "canonical_name": "Dynasticx LLC",
+  "fein": "86-1181550",
+  "lca_filing_count": 4,
+  "lca_worker_positions": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 90802.5,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 91645.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 90802.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Business Analyst",
+      "count": 3,
+      "median_wage_usd": 89024.0
+    },
+    {
+      "title": "Healthcare Business Analyst",
+      "count": 1,
+      "median_wage_usd": 103272.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 3
+    },
+    {
+      "state": "NC",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1111",
+    "soc_title": "Management Analysts",
+    "market_median_usd": 99000.0,
+    "employer_median_usd": 89024.0,
+    "gap_usd": -9976.0
+  }
+}

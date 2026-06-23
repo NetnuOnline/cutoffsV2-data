@@ -1,0 +1,106 @@
+{
+  "slug": "livemindz-services",
+  "canonical_name": "LiveMindz Services Inc",
+  "fein": "46-3095693",
+  "lca_filing_count": 24,
+  "lca_worker_positions": 60,
+  "warn_notice_count": 0,
+  "median_wage_usd": 86278.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 10,
+      "median_wage_usd": 84094.0
+    },
+    {
+      "fy": 2025,
+      "filings": 4,
+      "median_wage_usd": 91738.5
+    },
+    {
+      "fy": 2026,
+      "filings": 10,
+      "median_wage_usd": 90896.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 9,
+      "median_wage_usd": 90896.0
+    },
+    {
+      "title": "Data Engineer",
+      "count": 6,
+      "median_wage_usd": 73154.0
+    },
+    {
+      "title": "SAP FICO Consultant",
+      "count": 1,
+      "median_wage_usd": 156998.0
+    },
+    {
+      "title": "ETL Talend Developer",
+      "count": 1,
+      "median_wage_usd": 112923.0
+    },
+    {
+      "title": "IT Project Manager",
+      "count": 1,
+      "median_wage_usd": 92581.0
+    },
+    {
+      "title": "Data Architect",
+      "count": 1,
+      "median_wage_usd": 105997.0
+    },
+    {
+      "title": "Business System Analyst",
+      "count": 1,
+      "median_wage_usd": 83658.0
+    },
+    {
+      "title": "Software Developer (Talend)",
+      "count": 1,
+      "median_wage_usd": 82056.0
+    },
+    {
+      "title": "Software Systems Developer",
+      "count": 1,
+      "median_wage_usd": 82056.0
+    },
+    {
+      "title": "Talend Developer",
+      "count": 1,
+      "median_wage_usd": 90896.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 10
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 23
+    },
+    {
+      "state": "VA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 90896.0,
+    "gap_usd": -39264.0
+  }
+}

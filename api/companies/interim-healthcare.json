@@ -1,0 +1,65 @@
+{
+  "slug": "interim-healthcare",
+  "canonical_name": "Interim Healthcare",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 4,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 2
+    },
+    {
+      "state": "WI",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "05/29/2018",
+      "effective_date": "08/01/2018",
+      "state": "WI",
+      "workers": 98,
+      "city": "Madison"
+    },
+    {
+      "date": "01/24/2017",
+      "effective_date": "01/24/2017",
+      "state": "NJ",
+      "workers": 101,
+      "city": "Voorhees"
+    },
+    {
+      "date": "01/24/2017",
+      "effective_date": "01/24/2017",
+      "state": "NJ",
+      "workers": 101,
+      "city": "Hamilton"
+    },
+    {
+      "date": "05/28/2013",
+      "effective_date": "05/28/2013",
+      "state": "GA",
+      "workers": 39,
+      "city": "Atlanta"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "camden-wib",
+      "name": "Camden WIB",
+      "state": "NJ"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

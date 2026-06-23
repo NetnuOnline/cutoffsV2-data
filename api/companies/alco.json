@@ -1,0 +1,78 @@
+{
+  "slug": "alco",
+  "canonical_name": "Alco",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 3,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "KS",
+      "count": 3
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "11/24/2014",
+      "effective_date": "11/24/2014",
+      "state": "KS",
+      "workers": 303,
+      "city": "1 - Workforce Investment Area I"
+    },
+    {
+      "date": "04/09/2013",
+      "effective_date": "04/09/2013",
+      "state": "KS",
+      "workers": 126,
+      "city": "1 - Workforce Investment Area I"
+    },
+    {
+      "date": "02/05/2013",
+      "effective_date": "02/05/2013",
+      "state": "KS",
+      "workers": 9,
+      "city": "1 - Workforce Investment Area I"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2025-01-06",
+        "formType": "8-K",
+        "accessionNumber": "0000003545-25-000014",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000003545&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2013-11-25",
+        "formType": "8-K",
+        "accessionNumber": "0000891092-13-009599",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000003545&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 2,
+    "itemCounts": {
+      "2.05": 1,
+      "5.02": 1
+    },
+    "latestFilingDate": "2025-01-06",
+    "earliestFilingDate": "2013-11-25"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

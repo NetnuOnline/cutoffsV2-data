@@ -1,0 +1,136 @@
+{
+  "slug": "herff-jones",
+  "canonical_name": "Herff Jones",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 6,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "KS",
+      "count": 2
+    },
+    {
+      "state": "UT",
+      "count": 1
+    },
+    {
+      "state": "IN",
+      "count": 1
+    },
+    {
+      "state": "AL",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "06/15/2016",
+      "effective_date": "06/15/2016",
+      "state": "UT",
+      "workers": 180,
+      "city": "Logan"
+    },
+    {
+      "date": "07/08/2015",
+      "effective_date": "07/08/2015",
+      "state": "KS",
+      "workers": 85,
+      "city": "5 - Workforce Investment Area V"
+    },
+    {
+      "date": "07/07/2015",
+      "effective_date": "07/07/2015",
+      "state": "KS",
+      "workers": 117,
+      "city": "5 - Workforce Investment Area V"
+    },
+    {
+      "date": "07/11/2014",
+      "effective_date": "11/14/2014",
+      "state": "IN",
+      "workers": 110,
+      "city": "Indianapolis"
+    },
+    {
+      "date": "06/12/2008",
+      "effective_date": "08/10/2008",
+      "state": "AL",
+      "workers": 43,
+      "city": "Montgomery"
+    },
+    {
+      "date": "06/30/2006",
+      "effective_date": "09/01/2006",
+      "state": "IL",
+      "workers": 93,
+      "city": "Chicago"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "bear-river-wib",
+      "name": "Bear River WIB",
+      "state": "UT"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 2,
+    "continuing_denials": 0,
+    "total_approvals": 2,
+    "by_fy": [
+      {
+        "fy": 2016,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "slug": "union-pacific-railroad-company",
+  "canonical_name": "Union Pacific Railroad Company",
+  "fein": "94-6001323",
+  "lca_filing_count": 23,
+  "warn_notice_count": 0,
+  "median_wage_usd": 125460.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 114228.0
+    },
+    {
+      "fy": 2021,
+      "filings": 5,
+      "median_wage_usd": 100450.0
+    },
+    {
+      "fy": 2022,
+      "filings": 7,
+      "median_wage_usd": 124000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 132960.0
+    },
+    {
+      "fy": 2024,
+      "filings": 4,
+      "median_wage_usd": 153790.0
+    },
+    {
+      "fy": 2025,
+      "filings": 4,
+      "median_wage_usd": 132451.97999999998
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Systems Engineer",
+      "count": 5,
+      "median_wage_usd": 132960.0
+    },
+    {
+      "title": "Associate Systems Engineer",
+      "count": 5,
+      "median_wage_usd": 124000.0
+    },
+    {
+      "title": "Sr. Systems Engineer",
+      "count": 3,
+      "median_wage_usd": 152580.0
+    },
+    {
+      "title": "Sr. Project Engineer",
+      "count": 3,
+      "median_wage_usd": 100450.0
+    },
+    {
+      "title": "Manager II Tech Training",
+      "count": 2,
+      "median_wage_usd": 99696.0
+    },
+    {
+      "title": "Senior Systems Engineer",
+      "count": 1,
+      "median_wage_usd": 159032.04
+    },
+    {
+      "title": "Project Engineer",
+      "count": 1,
+      "median_wage_usd": 93504.0
+    },
+    {
+      "title": "Senior Project Engineer",
+      "count": 1,
+      "median_wage_usd": 125460.0
+    },
+    {
+      "title": "Director",
+      "count": 1,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "title": "Sr. Director Measures & Evaluations",
+      "count": 1,
+      "median_wage_usd": 158520.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NE",
+      "county": "DOUGLAS",
+      "count": 16
+    },
+    {
+      "state": "UT",
+      "county": "SALT LAKE",
+      "count": 2
+    },
+    {
+      "state": "MO",
+      "county": "ST LOUIS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NE",
+      "count": 20
+    },
+    {
+      "state": "UT",
+      "count": 2
+    },
+    {
+      "state": "MO",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 3,
+    "initial_denials": 0,
+    "continuing_approvals": 54,
+    "continuing_denials": 1,
+    "total_approvals": 57,
+    "by_fy": [
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 10,
+        "continuing_denials": 0,
+        "total_approvals": 10
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 14,
+        "continuing_denials": 0,
+        "total_approvals": 16
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 21,
+        "continuing_denials": 0,
+        "total_approvals": 22
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 9,
+        "continuing_denials": 1,
+        "total_approvals": 9
+      }
+    ]
+  },
+  "lca_worker_positions": 23,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 130000.0,
+    "gap_usd": -160.0
+  }
+}

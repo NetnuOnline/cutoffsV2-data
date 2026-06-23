@@ -1,0 +1,159 @@
+{
+  "slug": "dana",
+  "canonical_name": "Dana Limited",
+  "fein": null,
+  "lca_filing_count": 2,
+  "warn_notice_count": 6,
+  "median_wage_usd": 174063,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 0,
+      "median_wage_usd": null
+    },
+    {
+      "fy": 2026,
+      "filings": 0,
+      "median_wage_usd": null
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior IT Manager, SAP Platform",
+      "count": 0,
+      "median_wage_usd": null
+    },
+    {
+      "title": "Senior Manager, ePropulsion Control Systems",
+      "count": 0,
+      "median_wage_usd": null
+    }
+  ],
+  "top_states": [
+    {
+      "state": "KY",
+      "count": 3
+    },
+    {
+      "state": "IL",
+      "count": 1
+    },
+    {
+      "state": "OH",
+      "count": 1
+    },
+    {
+      "state": "OK",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "04/10/2026",
+      "effective_date": "06/15/2026",
+      "state": "IL",
+      "workers": 81,
+      "city": "Robinson"
+    },
+    {
+      "date": "04/30/2025",
+      "effective_date": "06/30/2025",
+      "state": "OH",
+      "workers": 295,
+      "city": "Lima/Allen"
+    },
+    {
+      "date": "03/24/2008",
+      "effective_date": "03/24/2008",
+      "state": "KY",
+      "workers": 100,
+      "city": "Glasgow"
+    },
+    {
+      "date": "02/11/2002",
+      "effective_date": "02/11/2002",
+      "state": "OK",
+      "workers": 200,
+      "city": "05 - CentralRegion"
+    },
+    {
+      "date": "10/27/2001",
+      "effective_date": "10/27/2001",
+      "state": "KY",
+      "workers": 50,
+      "city": "750 Dana Dr.                            Elizabethtown, KY"
+    },
+    {
+      "date": "08/23/2000",
+      "effective_date": "08/23/2000",
+      "state": "KY",
+      "workers": 230,
+      "city": "Glasgow"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "k-barren-river-wib",
+      "name": "K Barren River WIB",
+      "state": "KY"
+    },
+    {
+      "slug": "northwest-ohio",
+      "name": "Northwest Ohio",
+      "state": "OH"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 2,
+    "continuing_denials": 0,
+    "total_approvals": 2,
+    "by_fy": [
+      {
+        "fy": 2009,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2011,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2014,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      }
+    ]
+  }
+}

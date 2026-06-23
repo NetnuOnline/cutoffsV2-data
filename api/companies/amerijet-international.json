@@ -1,0 +1,66 @@
+{
+  "slug": "amerijet-international",
+  "canonical_name": "Amerijet International Inc",
+  "fein": "30-0001551",
+  "lca_filing_count": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 125800.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 96600.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 155000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "MANAGER - DB APPLICATIONS",
+      "count": 2,
+      "median_wage_usd": 96600.0
+    },
+    {
+      "title": "Manager of IT",
+      "count": 1,
+      "median_wage_usd": 155000.0
+    },
+    {
+      "title": "Director -  IT Applications",
+      "count": 1,
+      "median_wage_usd": 155000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "FL",
+      "county": "MIAMI-DADE  (OLD DEF)",
+      "count": 2
+    },
+    {
+      "state": "FL",
+      "county": "MIAMI-DADE",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "FL",
+      "count": 4
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Information Technology Project Managers",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 155000.0,
+    "gap_usd": 37000.0
+  }
+}

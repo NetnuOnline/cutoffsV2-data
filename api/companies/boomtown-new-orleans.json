@@ -1,0 +1,43 @@
+{
+  "slug": "boomtown-new-orleans",
+  "canonical_name": "Boomtown New Orleans",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "LA",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "07/13/2020",
+      "effective_date": "09/15/2020",
+      "state": "LA",
+      "workers": 28,
+      "city": "Harvey"
+    },
+    {
+      "date": "06/12/2020",
+      "effective_date": "08/15/2020",
+      "state": "LA",
+      "workers": 197,
+      "city": "Harvey"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "jefferson-parish-wia",
+      "name": "Jefferson Parish WIA",
+      "state": "LA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

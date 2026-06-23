@@ -1,0 +1,86 @@
+{
+  "slug": "adtech",
+  "canonical_name": "Adtech Corp.",
+  "fein": "38-3971116",
+  "lca_filing_count": 6,
+  "lca_worker_positions": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 120000.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 113173.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 125798.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Lead Software Engineer",
+      "count": 2,
+      "median_wage_usd": 113173.0
+    },
+    {
+      "title": "Senior Engineering Manager",
+      "count": 2,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "Senior Software Engineer ",
+      "count": 1,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "Principal Consultant",
+      "count": 1,
+      "median_wage_usd": 125798.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MN",
+      "county": "HENNEPIN",
+      "count": 3
+    },
+    {
+      "state": "CA",
+      "county": "SAN DIEGO",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MN",
+      "count": 4
+    },
+    {
+      "state": "CA",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 121370.5,
+    "gap_usd": -8789.5
+  }
+}

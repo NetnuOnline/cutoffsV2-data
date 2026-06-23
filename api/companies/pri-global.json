@@ -1,0 +1,55 @@
+{
+  "slug": "pri-global",
+  "canonical_name": "PRI Global Inc.",
+  "fein": "43-1791451",
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 137280.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 137280.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Platform Software Testing Engineer",
+      "count": 2,
+      "median_wage_usd": 137280.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 1
+    },
+    {
+      "state": "MO",
+      "county": "ST LOUIS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "MO",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 1,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1253",
+    "soc_title": "Software Quality Assurance Analysts and Testers",
+    "market_median_usd": 101800.0,
+    "employer_median_usd": 137280.0,
+    "gap_usd": 35480.0
+  }
+}

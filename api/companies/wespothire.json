@@ -1,0 +1,104 @@
+{
+  "slug": "wespothire",
+  "canonical_name": "WESPOTHIRE LLC",
+  "fein": "86-2195710",
+  "lca_filing_count": 6,
+  "lca_worker_positions": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 102500.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 119933.0
+    },
+    {
+      "fy": 2024,
+      "filings": 4,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 113547.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 3,
+      "median_wage_usd": 105000.0
+    },
+    {
+      "title": "LEAD SOFTWARE DEVELOPER",
+      "count": 1,
+      "median_wage_usd": 119933.0
+    },
+    {
+      "title": "Programmer Analyst",
+      "count": 1,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "title": "Software Analyst",
+      "count": 1,
+      "median_wage_usd": 100000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NH",
+      "county": "BEDFORD",
+      "count": 1
+    },
+    {
+      "state": "NH",
+      "county": "NASHUA CITY",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "county": "ANDOVER",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "county": "MIAMI-DADE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NH",
+      "count": 2
+    },
+    {
+      "state": "FL",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 105000.0,
+    "gap_usd": -25160.0
+  }
+}

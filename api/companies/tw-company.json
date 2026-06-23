@@ -1,0 +1,47 @@
+{
+  "slug": "tw-company",
+  "canonical_name": "TW & Company",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 1
+    },
+    {
+      "state": "UT",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "06/18/2010",
+      "effective_date": "06/18/2010",
+      "state": "NY",
+      "workers": 0,
+      "city": "Watertown"
+    },
+    {
+      "date": "07/21/2009",
+      "effective_date": "07/21/2009",
+      "state": "UT",
+      "workers": 100,
+      "city": "Clearfield (HAFB)"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "wasatch-front-north-wib",
+      "name": "Wasatch Front North WIB",
+      "state": "UT"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

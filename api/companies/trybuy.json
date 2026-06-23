@@ -1,0 +1,56 @@
+{
+  "slug": "trybuy",
+  "canonical_name": "TryBuy LLC",
+  "fein": null,
+  "lca_filing_count": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 78645.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 78645.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Data Engineer",
+      "count": 1,
+      "median_wage_usd": 72613.0
+    },
+    {
+      "title": "Senior Java Developer",
+      "count": 1,
+      "median_wage_usd": 86403.0
+    },
+    {
+      "title": "Infrastructure Engineer",
+      "count": 1,
+      "median_wage_usd": 78645.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "UT",
+      "county": "SALT LAKE",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "UT",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 72613.0,
+    "gap_usd": -35407.0
+  }
+}

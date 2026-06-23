@@ -1,0 +1,106 @@
+{
+  "slug": "american-water-works-service-company",
+  "canonical_name": "American Water Works Service Company, Inc.",
+  "fein": "23-1340234",
+  "lca_filing_count": 7,
+  "lca_worker_positions": 7,
+  "warn_notice_count": 0,
+  "median_wage_usd": 133000.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 133195.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 127500.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 110000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Solution Engineer \u2013 SAP Functional Analyst \u2013 ISU CRM",
+      "count": 1,
+      "median_wage_usd": 133000.0
+    },
+    {
+      "title": "IT Project Manager ",
+      "count": 1,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "title": "Principal Software Engineer",
+      "count": 1,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "title": "Principal Solution Engineer",
+      "count": 1,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "Senior Solution Engineer PTP",
+      "count": 1,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "title": "Senior Technologist \u201c Data Governance",
+      "count": 1,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "Senior Solution Engineer, SAP Functional FICO ",
+      "count": 1,
+      "median_wage_usd": 133390.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NJ",
+      "county": "CAMDEN",
+      "count": 4
+    },
+    {
+      "state": "CT",
+      "county": "NEW HAVEN CITY",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 6
+    },
+    {
+      "state": "CT",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 133195.0,
+    "gap_usd": 3035.0
+  }
+}

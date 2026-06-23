@@ -1,0 +1,195 @@
+{
+  "slug": "asml-us",
+  "canonical_name": "ASML US, LP",
+  "fein": "82-2530621",
+  "lca_filing_count": 459,
+  "lca_worker_positions": 452,
+  "warn_notice_count": 0,
+  "median_wage_usd": 121550.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 23,
+      "median_wage_usd": 114375.0
+    },
+    {
+      "fy": 2021,
+      "filings": 37,
+      "median_wage_usd": 114620.0
+    },
+    {
+      "fy": 2022,
+      "filings": 61,
+      "median_wage_usd": 132600.0
+    },
+    {
+      "fy": 2023,
+      "filings": 102,
+      "median_wage_usd": 109647.0
+    },
+    {
+      "fy": 2024,
+      "filings": 76,
+      "median_wage_usd": 121125.0
+    },
+    {
+      "fy": 2025,
+      "filings": 50,
+      "median_wage_usd": 128273.0
+    },
+    {
+      "fy": 2026,
+      "filings": 103,
+      "median_wage_usd": 130187.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Software Engineer 1",
+      "count": 54,
+      "median_wage_usd": 151000.0
+    },
+    {
+      "title": "Software Engineer 3",
+      "count": 15,
+      "median_wage_usd": 123399.0
+    },
+    {
+      "title": "Senior Electrical Engineer 1",
+      "count": 14,
+      "median_wage_usd": 130832.0
+    },
+    {
+      "title": "Senior Mechatronics Engineer 1",
+      "count": 12,
+      "median_wage_usd": 127171.0
+    },
+    {
+      "title": "CS Technical Support Engineer 3",
+      "count": 12,
+      "median_wage_usd": 103040.01999999999
+    },
+    {
+      "title": "Technical Project Lead 2",
+      "count": 12,
+      "median_wage_usd": 120700.0
+    },
+    {
+      "title": "Senior Mechanical Engineer 1",
+      "count": 12,
+      "median_wage_usd": 116417.5
+    },
+    {
+      "title": "Technical Project Manager 1",
+      "count": 11,
+      "median_wage_usd": 133500.0
+    },
+    {
+      "title": "System Industrialisation Engineer 3",
+      "count": 9,
+      "median_wage_usd": 105000.0
+    },
+    {
+      "title": "Senior System Industrialisation Engineer 1",
+      "count": 9,
+      "median_wage_usd": 142293.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CT",
+      "county": "FAIRFIELD",
+      "count": 150
+    },
+    {
+      "state": "CA",
+      "county": "SAN DIEGO",
+      "count": 67
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 43
+    },
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 13
+    },
+    {
+      "state": "OR",
+      "county": "WASHINGTON",
+      "count": 10
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 7
+    },
+    {
+      "state": "ID",
+      "county": "ADA",
+      "count": 7
+    },
+    {
+      "state": "CT",
+      "county": "WILTON",
+      "count": 7
+    },
+    {
+      "state": "NY",
+      "county": "SARATOGA",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "county": "MANASSAS CITY",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CT",
+      "count": 241
+    },
+    {
+      "state": "CA",
+      "count": 171
+    },
+    {
+      "state": "OR",
+      "count": 15
+    },
+    {
+      "state": "AZ",
+      "count": 14
+    },
+    {
+      "state": "TX",
+      "count": 8
+    },
+    {
+      "state": "ID",
+      "count": 7
+    },
+    {
+      "state": "VA",
+      "count": 2
+    },
+    {
+      "state": "NY",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 147475.0,
+    "gap_usd": 17315.0
+  }
+}

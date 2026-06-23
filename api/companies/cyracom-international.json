@@ -1,0 +1,95 @@
+{
+  "slug": "cyracom-international",
+  "canonical_name": "CyraCom International, Inc.",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 5,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "count": 1
+    },
+    {
+      "state": "NM",
+      "count": 1
+    },
+    {
+      "state": "AZ",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "09/04/2025",
+      "effective_date": "12/03/2025",
+      "state": "NY",
+      "workers": 154,
+      "city": "Flushing"
+    },
+    {
+      "date": "09/04/2025",
+      "effective_date": "12/01/2025",
+      "state": "TX",
+      "workers": 327,
+      "city": "Houston"
+    },
+    {
+      "date": "09/04/2025",
+      "effective_date": "11/01/2025",
+      "state": "FL",
+      "workers": 150,
+      "city": "TAMPA"
+    },
+    {
+      "date": "09/04/2025",
+      "effective_date": "09/30/2025",
+      "state": "NM",
+      "workers": 85,
+      "city": "Las Cruces"
+    },
+    {
+      "date": "09/04/2025",
+      "effective_date": "09/04/2025",
+      "state": "AZ",
+      "workers": 500,
+      "city": "Tucson"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "pima-county-lwib",
+      "name": "Pima County LWIB",
+      "state": "AZ"
+    },
+    {
+      "slug": "careersource-tampa-bay",
+      "name": "CareerSource Tampa Bay",
+      "state": "FL"
+    },
+    {
+      "slug": "southwest-area-wib",
+      "name": "Southwest Area WIB",
+      "state": "NM"
+    },
+    {
+      "slug": "gulf-coast-wda",
+      "name": "Gulf Coast WDA",
+      "state": "TX"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

@@ -1,0 +1,141 @@
+{
+  "slug": "coupang-global",
+  "canonical_name": "Coupang Global LLC",
+  "fein": "80-0963568",
+  "lca_filing_count": 141,
+  "lca_worker_positions": 229,
+  "warn_notice_count": 0,
+  "median_wage_usd": 187288.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 8,
+      "median_wage_usd": 177500.0
+    },
+    {
+      "fy": 2021,
+      "filings": 9,
+      "median_wage_usd": 171000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 24,
+      "median_wage_usd": 168709.0
+    },
+    {
+      "fy": 2023,
+      "filings": 19,
+      "median_wage_usd": 168709.0
+    },
+    {
+      "fy": 2024,
+      "filings": 29,
+      "median_wage_usd": 190486.0
+    },
+    {
+      "fy": 2025,
+      "filings": 40,
+      "median_wage_usd": 212202.0
+    },
+    {
+      "fy": 2026,
+      "filings": 9,
+      "median_wage_usd": 255000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Staff Backend Engineer",
+      "count": 10,
+      "median_wage_usd": 180710.0
+    },
+    {
+      "title": "Staff Machine Learning Engineer",
+      "count": 8,
+      "median_wage_usd": 212202.0
+    },
+    {
+      "title": "Staff Back-end Engineer",
+      "count": 8,
+      "median_wage_usd": 190486.0
+    },
+    {
+      "title": "Staff Software Engineer",
+      "count": 8,
+      "median_wage_usd": 191713.5
+    },
+    {
+      "title": "Staff Software Development Engineer",
+      "count": 7,
+      "median_wage_usd": 190486.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 6,
+      "median_wage_usd": 159354.5
+    },
+    {
+      "title": "Senior Staff ML Engineer",
+      "count": 5,
+      "median_wage_usd": 187288.0
+    },
+    {
+      "title": "Senior Backend Engineer",
+      "count": 4,
+      "median_wage_usd": 180710.0
+    },
+    {
+      "title": "Staff Software Engineer I",
+      "count": 4,
+      "median_wage_usd": 190486.0
+    },
+    {
+      "title": "Senior Back-end Engineer",
+      "count": 3,
+      "median_wage_usd": 168709.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 46
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 44
+    },
+    {
+      "state": "CA",
+      "county": "RIVERSIDE",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "WA",
+      "count": 79
+    },
+    {
+      "state": "CA",
+      "count": 62
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 190486.0,
+    "gap_usd": 60326.0
+  }
+}

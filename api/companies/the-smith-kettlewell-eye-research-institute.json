@@ -1,0 +1,77 @@
+{
+  "slug": "the-smith-kettlewell-eye-research-institute",
+  "canonical_name": "The Smith-Kettlewell Eye Research Institute",
+  "fein": "94-6127237",
+  "lca_filing_count": 4,
+  "lca_worker_positions": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 79792.5,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 72696.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 76385.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 93995.2
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 83200.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Medical Scientist (Senior Clinical Researcher)",
+      "count": 1,
+      "median_wage_usd": 93995.2
+    },
+    {
+      "title": "Senior Postdoctoral Researcher",
+      "count": 1,
+      "median_wage_usd": 83200.0
+    },
+    {
+      "title": "Clinical Data Analyst",
+      "count": 1,
+      "median_wage_usd": 76385.0
+    },
+    {
+      "title": "Research Coordinator",
+      "count": 1,
+      "median_wage_usd": 72696.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 4
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Clinical Data Managers",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 76385.0,
+    "gap_usd": -31635.0
+  }
+}

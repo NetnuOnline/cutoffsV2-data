@@ -1,0 +1,61 @@
+{
+  "slug": "world-market-management-services",
+  "canonical_name": "World Market Management Services LLC",
+  "fein": "94-3371692",
+  "lca_filing_count": 2,
+  "lca_worker_positions": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 234466.55,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 234062.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 234871.11,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Engineer, eCommerce",
+      "count": 1,
+      "median_wage_usd": 234062.0
+    },
+    {
+      "title": "Sr. Manager, OMNI Channel Solutions",
+      "count": 1,
+      "median_wage_usd": 234871.11
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3021",
+    "soc_title": "Computer and Information Systems Managers",
+    "market_median_usd": 169510.0,
+    "employer_median_usd": 234871.11,
+    "gap_usd": 65361.11
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "slug": "sunpower-systems",
+  "canonical_name": "Sunpower Corporation, Systems",
+  "fein": "20-8248962",
+  "lca_filing_count": 19,
+  "warn_notice_count": 0,
+  "median_wage_usd": 130000.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 170000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 15,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 130000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Associate, Asset Management",
+      "count": 2,
+      "median_wage_usd": 123323.0
+    },
+    {
+      "title": "Senior Software Development Engineer",
+      "count": 2,
+      "median_wage_usd": 145980.0
+    },
+    {
+      "title": "Staff Software Engineer, Identity and Access Management",
+      "count": 1,
+      "median_wage_usd": 118165.0
+    },
+    {
+      "title": "Field Quality Analytics Engineer",
+      "count": 1,
+      "median_wage_usd": 91080.0
+    },
+    {
+      "title": "Software Engineering Manager",
+      "count": 1,
+      "median_wage_usd": 160000.0
+    },
+    {
+      "title": "System Title Lead Software Development Engineer in Test ",
+      "count": 1,
+      "median_wage_usd": 129687.58
+    },
+    {
+      "title": "Staff Functional Engineer - Supply Chain Management (SCM)",
+      "count": 1,
+      "median_wage_usd": 155000.0
+    },
+    {
+      "title": "Business Procurement Analyst",
+      "count": 1,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "Staff Functional Engineer, Oracle Fusion Finance",
+      "count": 1,
+      "median_wage_usd": 200000.0
+    },
+    {
+      "title": "Lead Software Development Engineer in Test ",
+      "count": 1,
+      "median_wage_usd": 130000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 9
+    },
+    {
+      "state": "CA",
+      "county": "CONTRA COSTA",
+      "count": 6
+    },
+    {
+      "state": "TX",
+      "county": "TARRANT",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "county": "DEKALB",
+      "count": 1
+    },
+    {
+      "state": "TN",
+      "county": "RUTHERFORD",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 11
+    },
+    {
+      "state": "CA",
+      "count": 6
+    },
+    {
+      "state": "TN",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 7,
+    "initial_denials": 0,
+    "continuing_approvals": 57,
+    "continuing_denials": 0,
+    "total_approvals": 64,
+    "by_fy": [
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 5,
+        "initial_denials": 0,
+        "continuing_approvals": 46,
+        "continuing_denials": 0,
+        "total_approvals": 51
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 9,
+        "continuing_denials": 0,
+        "total_approvals": 11
+      }
+    ]
+  },
+  "lca_worker_positions": 19,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 155000.0,
+    "gap_usd": 24840.0
+  }
+}

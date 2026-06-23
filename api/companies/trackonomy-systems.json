@@ -1,0 +1,121 @@
+{
+  "slug": "trackonomy-systems",
+  "canonical_name": "Trackonomy Systems, Inc.",
+  "fein": "82-1270107",
+  "lca_filing_count": 15,
+  "lca_worker_positions": 14,
+  "warn_notice_count": 0,
+  "median_wage_usd": 180000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 105000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 260000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 141000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 5,
+      "median_wage_usd": 181293.0
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 186472.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Firmware Engineer",
+      "count": 3,
+      "median_wage_usd": 180000.0
+    },
+    {
+      "title": "Senior Software  Developer",
+      "count": 2,
+      "median_wage_usd": 184331.5
+    },
+    {
+      "title": "NPI Engineer",
+      "count": 2,
+      "median_wage_usd": 151091.0
+    },
+    {
+      "title": "Senior Technical Program Manager",
+      "count": 1,
+      "median_wage_usd": 230000.0
+    },
+    {
+      "title": "Senior Firmware Engineer",
+      "count": 1,
+      "median_wage_usd": 215000.0
+    },
+    {
+      "title": "Senior Software Developer",
+      "count": 1,
+      "median_wage_usd": 181293.0
+    },
+    {
+      "title": "Manufacturing Engineer",
+      "count": 1,
+      "median_wage_usd": 80000.0
+    },
+    {
+      "title": "Android Programmer/Developer",
+      "count": 1,
+      "median_wage_usd": 141000.0
+    },
+    {
+      "title": "Software Engineer 2",
+      "count": 1,
+      "median_wage_usd": 121000.0
+    },
+    {
+      "title": "Director of Firmware",
+      "count": 1,
+      "median_wage_usd": 260000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 7
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 14
+    },
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Computer Systems Engineers/Architects",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 181293.0,
+    "gap_usd": 63293.0
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "slug": "osram-sylvania",
+  "canonical_name": "OSRAM SYLVANIA, INC.",
+  "fein": "04-3349012",
+  "lca_filing_count": 5,
+  "lca_worker_positions": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 130419.45,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 110718.5
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 132509.205
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 144237.89,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SENIOR STAFF ENGINEER, IT SYSTEM DEVELOPMENT AND SUPPORT",
+      "count": 1,
+      "median_wage_usd": 144237.89
+    },
+    {
+      "title": "IT SPECIALIST - OPERATIONS",
+      "count": 1,
+      "median_wage_usd": 130419.45
+    },
+    {
+      "title": "SYSTEM SPECIALIST - SAP",
+      "count": 1,
+      "median_wage_usd": 134598.96
+    },
+    {
+      "title": "PRINCIPAL SPECIAL TECHNOLOGY ENGINEER I",
+      "count": 1,
+      "median_wage_usd": 118373.0
+    },
+    {
+      "title": "SENIOR PURCHASING ENGINEER II",
+      "count": 1,
+      "median_wage_usd": 103064.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MA",
+      "county": "WILMINGTON",
+      "count": 2
+    },
+    {
+      "state": "MA",
+      "county": "FRAMINGHAM",
+      "count": 1
+    },
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MA",
+      "count": 3
+    },
+    {
+      "state": "AZ",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 139418.42,
+    "gap_usd": 9258.42
+  }
+}

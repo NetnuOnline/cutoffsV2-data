@@ -1,0 +1,62 @@
+{
+  "slug": "children-s-healthcare-of-atlanta",
+  "canonical_name": "Children's Healthcare of Atlanta, Inc.",
+  "fein": "58-2367819",
+  "lca_filing_count": 3,
+  "lca_worker_positions": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 103501.0,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 78000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 115404.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Board Certified Behavior Analyst 2",
+      "count": 1,
+      "median_wage_usd": 78000.0
+    },
+    {
+      "title": "Data Warehouse Engineer",
+      "count": 1,
+      "median_wage_usd": 127308.0
+    },
+    {
+      "title": "Manager Financial Operations",
+      "count": 1,
+      "median_wage_usd": 103501.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "GA",
+      "county": "DEKALB",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3031",
+    "soc_title": "Financial Managers",
+    "market_median_usd": 156100.0,
+    "employer_median_usd": 103501.0,
+    "gap_usd": -52599.0
+  }
+}

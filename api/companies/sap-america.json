@@ -1,0 +1,203 @@
+{
+  "slug": "sap-america",
+  "canonical_name": "SAP America, Inc.",
+  "fein": "36-3556041",
+  "lca_filing_count": 550,
+  "lca_worker_positions": 548,
+  "warn_notice_count": 0,
+  "median_wage_usd": 149963.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 99,
+      "median_wage_usd": 130125.12
+    },
+    {
+      "fy": 2021,
+      "filings": 76,
+      "median_wage_usd": 125687.51999999999
+    },
+    {
+      "fy": 2022,
+      "filings": 67,
+      "median_wage_usd": 152839.0
+    },
+    {
+      "fy": 2023,
+      "filings": 89,
+      "median_wage_usd": 153615.0
+    },
+    {
+      "fy": 2024,
+      "filings": 71,
+      "median_wage_usd": 154846.0
+    },
+    {
+      "fy": 2025,
+      "filings": 75,
+      "median_wage_usd": 166935.0
+    },
+    {
+      "fy": 2026,
+      "filings": 71,
+      "median_wage_usd": 163105.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "IT Technology Services Senior Specialist",
+      "count": 44,
+      "median_wage_usd": 163083.5
+    },
+    {
+      "title": "Business Processes Principal Consultant",
+      "count": 38,
+      "median_wage_usd": 165349.5
+    },
+    {
+      "title": "Business Processes Senior Consultant",
+      "count": 33,
+      "median_wage_usd": 131547.12
+    },
+    {
+      "title": "Services Architecture Expert",
+      "count": 29,
+      "median_wage_usd": 164800.0
+    },
+    {
+      "title": "Senior Support Engineer",
+      "count": 26,
+      "median_wage_usd": 118383.45999999999
+    },
+    {
+      "title": "Expert Support Engineer",
+      "count": 26,
+      "median_wage_usd": 137912.5
+    },
+    {
+      "title": "Developer",
+      "count": 21,
+      "median_wage_usd": 121208.0
+    },
+    {
+      "title": "Technology Senior Consultant",
+      "count": 15,
+      "median_wage_usd": 139999.92
+    },
+    {
+      "title": "Services Engagement Expert",
+      "count": 11,
+      "median_wage_usd": 176974.0
+    },
+    {
+      "title": "Senior Developer",
+      "count": 9,
+      "median_wage_usd": 150000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "PA",
+      "county": "DELAWARE",
+      "count": 181
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 35
+    },
+    {
+      "state": "IL",
+      "county": "DUPAGE",
+      "count": 30
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 26
+    },
+    {
+      "state": "CA",
+      "county": "CONTRA COSTA",
+      "count": 21
+    },
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 19
+    },
+    {
+      "state": "PA",
+      "county": "ALLEGHENY",
+      "count": 16
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 14
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 13
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 13
+    }
+  ],
+  "top_states": [
+    {
+      "state": "PA",
+      "count": 262
+    },
+    {
+      "state": "TX",
+      "count": 71
+    },
+    {
+      "state": "CA",
+      "count": 69
+    },
+    {
+      "state": "IL",
+      "count": 51
+    },
+    {
+      "state": "GA",
+      "count": 23
+    },
+    {
+      "state": "WA",
+      "count": 19
+    },
+    {
+      "state": "NY",
+      "count": 13
+    },
+    {
+      "state": "FL",
+      "count": 10
+    },
+    {
+      "state": "VA",
+      "count": 9
+    },
+    {
+      "state": "MA",
+      "count": 6
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1211",
+    "soc_title": "Computer Systems Analysts",
+    "market_median_usd": 103800.0,
+    "employer_median_usd": 158096.5,
+    "gap_usd": 54296.5
+  }
+}

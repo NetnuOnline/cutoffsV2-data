@@ -1,0 +1,108 @@
+{
+  "slug": "reprise-media",
+  "canonical_name": "Reprise Media, Inc.",
+  "fein": null,
+  "lca_filing_count": 2,
+  "warn_notice_count": 2,
+  "median_wage_usd": 157500.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 155000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 160000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Director, Social",
+      "count": 1,
+      "median_wage_usd": 160000.0
+    },
+    {
+      "title": "VP, Paid Social ",
+      "count": 1,
+      "median_wage_usd": 155000.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 2
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 2
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "03/08/2019",
+      "effective_date": "03/08/2019",
+      "state": "MI",
+      "workers": 92,
+      "city": "Birmingham, Michigan"
+    },
+    {
+      "date": "01/10/2019",
+      "effective_date": "01/10/2019",
+      "state": "MI",
+      "workers": 92,
+      "city": "Birmingham"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 2,
+    "continuing_denials": 0,
+    "total_approvals": 2,
+    "by_fy": [
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-2021",
+    "soc_title": "Marketing Managers",
+    "market_median_usd": 157620.0,
+    "employer_median_usd": 157500.0,
+    "gap_usd": -120.0
+  }
+}

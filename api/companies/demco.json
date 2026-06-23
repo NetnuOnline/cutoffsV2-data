@@ -1,0 +1,58 @@
+{
+  "slug": "demco",
+  "canonical_name": "Demco, Inc.",
+  "fein": null,
+  "lca_filing_count": 1,
+  "warn_notice_count": 1,
+  "median_wage_usd": 105000.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 105000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senor Business Insights Analyst",
+      "count": 1,
+      "median_wage_usd": 105000.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "06/25/2020",
+      "effective_date": "08/03/2020",
+      "state": "WI",
+      "workers": 38,
+      "city": "Madison, Deforest"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "lca_worker_positions": 1,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 105000.0,
+    "gap_usd": -3020.0
+  }
+}

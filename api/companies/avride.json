@@ -1,0 +1,51 @@
+{
+  "slug": "avride",
+  "canonical_name": "Avride, Inc.",
+  "fein": "85-4304382",
+  "lca_filing_count": 8,
+  "lca_worker_positions": 8,
+  "warn_notice_count": 0,
+  "median_wage_usd": 150000.0,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 130008.0
+    },
+    {
+      "fy": 2026,
+      "filings": 6,
+      "median_wage_usd": 150000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 5,
+      "median_wage_usd": 130008.0
+    },
+    {
+      "title": "Technical Project Manager",
+      "count": 3,
+      "median_wage_usd": 150000.0
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 8
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Computer Systems Engineers/Architects",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 130008.0,
+    "gap_usd": 12008.0
+  }
+}

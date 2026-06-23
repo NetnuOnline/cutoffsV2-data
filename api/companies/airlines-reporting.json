@@ -1,0 +1,120 @@
+{
+  "slug": "airlines-reporting",
+  "canonical_name": "Airlines Reporting Corporation",
+  "fein": "52-1367276",
+  "lca_filing_count": 8,
+  "lca_worker_positions": 8,
+  "warn_notice_count": 0,
+  "median_wage_usd": 151479.52,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 160608.27
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 129780.0
+    },
+    {
+      "fy": 2022,
+      "filings": 3,
+      "median_wage_usd": 155000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 139442.36
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 166913.9
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 143819.08,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Microsoft Dynamics Application Architect",
+      "count": 2,
+      "median_wage_usd": 165062.16999999998
+    },
+    {
+      "title": "Software Engineer II",
+      "count": 1,
+      "median_wage_usd": 139442.36
+    },
+    {
+      "title": "Solutions Architect IV",
+      "count": 1,
+      "median_wage_usd": 166913.9
+    },
+    {
+      "title": "Senior Data Engineer",
+      "count": 1,
+      "median_wage_usd": 155000.0
+    },
+    {
+      "title": "Senior Data Reliability Engineer",
+      "count": 1,
+      "median_wage_usd": 129780.0
+    },
+    {
+      "title": "Data Engineer IV",
+      "count": 1,
+      "median_wage_usd": 143819.08
+    },
+    {
+      "title": "Solutions Architect",
+      "count": 1,
+      "median_wage_usd": 147959.04
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "VA",
+      "county": "ARLINGTON",
+      "count": 4
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "county": "HILLSBOROUGH",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "VA",
+      "count": 5
+    },
+    {
+      "state": "FL",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 149409.54,
+    "gap_usd": 19249.54
+  }
+}

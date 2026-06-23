@@ -1,0 +1,55 @@
+{
+  "slug": "genworth",
+  "canonical_name": "Genworth",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 4,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "VA",
+      "count": 3
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "01/26/2021",
+      "effective_date": "03/27/2021",
+      "state": "VA",
+      "workers": 95,
+      "city": "Richmond, VA"
+    },
+    {
+      "date": "08/30/2016",
+      "effective_date": "10/30/2016",
+      "state": "CA",
+      "workers": 58,
+      "city": "San Rafael"
+    },
+    {
+      "date": "06/15/2016",
+      "effective_date": "08/16/2016",
+      "state": "VA",
+      "workers": 42,
+      "city": "Richmon & Lynchburg, VA"
+    },
+    {
+      "date": "02/04/2016",
+      "effective_date": "04/10/2016",
+      "state": "VA",
+      "workers": 336,
+      "city": "Richmond & Lynchburg, VA"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

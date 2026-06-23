@@ -1,0 +1,162 @@
+{
+  "slug": "new-york-times",
+  "canonical_name": "NEW YORK TIMES",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 1,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "03/31/2008",
+      "effective_date": "03/31/2008",
+      "state": "NJ",
+      "workers": 115,
+      "city": "EDISON"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2017-06-07",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-17-196661",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000071691&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2016-04-26",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-16-555323",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000071691&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2008-12-02",
+        "formType": "8-K/A",
+        "accessionNumber": "0001104659-08-074194",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000071691&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2008-09-08",
+        "formType": "8-K",
+        "accessionNumber": "0001157523-08-007308",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000071691&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2007-04-11",
+        "formType": "8-K",
+        "accessionNumber": "0001104659-07-027742",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000071691&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2006-10-19",
+        "formType": "8-K",
+        "accessionNumber": "0001157523-06-010060",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000071691&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2006-07-18",
+        "formType": "8-K",
+        "accessionNumber": "0001157523-06-006944",
+        "items": [
+          "2.05",
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities",
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000071691&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2005-12-08",
+        "formType": "8-K",
+        "accessionNumber": "0001104659-05-059628",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000071691&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2005-10-19",
+        "formType": "8-K",
+        "accessionNumber": "0001104659-05-049074",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000071691&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2005-09-21",
+        "formType": "8-K",
+        "accessionNumber": "0001104659-05-045062",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000071691&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 10,
+    "itemCounts": {
+      "5.02": 2,
+      "2.05": 9
+    },
+    "latestFilingDate": "2017-06-07",
+    "earliestFilingDate": "2005-09-21"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

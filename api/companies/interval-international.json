@@ -1,0 +1,67 @@
+{
+  "slug": "interval-international",
+  "canonical_name": "Interval International, Inc.",
+  "fein": "59-2367254",
+  "lca_filing_count": 4,
+  "lca_worker_positions": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 118178.43,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 112455.58
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 152105.04
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 118178.43,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Manager Data Services Analyst Exchange",
+      "count": 2,
+      "median_wage_usd": 118178.43
+    },
+    {
+      "title": "Associate Director, Solution Engineer",
+      "count": 1,
+      "median_wage_usd": 152105.04
+    },
+    {
+      "title": "Associate Director- Application Engineer",
+      "count": 1,
+      "median_wage_usd": 112455.58
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "FL",
+      "county": "MIAMI-DADE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "FL",
+      "count": 4
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3021",
+    "soc_title": "Computer and Information Systems Managers",
+    "market_median_usd": 169510.0,
+    "employer_median_usd": 112455.58,
+    "gap_usd": -57054.42
+  }
+}

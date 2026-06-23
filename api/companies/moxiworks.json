@@ -1,0 +1,76 @@
+{
+  "slug": "moxiworks",
+  "canonical_name": "MoxiWorks, LLC",
+  "fein": "27-4097516",
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 237500.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 237500.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "VP of Engineering",
+      "count": 1,
+      "median_wage_usd": 220000.0
+    },
+    {
+      "title": "Chief Technology Officer",
+      "count": 1,
+      "median_wage_usd": 255000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "WA",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 1,
+    "continuing_denials": 0,
+    "total_approvals": 2,
+    "by_fy": [
+      {
+        "fy": 2020,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3021",
+    "soc_title": "Computer and Information Systems Managers",
+    "market_median_usd": 169510.0,
+    "employer_median_usd": 237500.0,
+    "gap_usd": 67990.0
+  }
+}

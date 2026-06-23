@@ -1,0 +1,220 @@
+{
+  "slug": "object-experts",
+  "canonical_name": "Object Experts LLC",
+  "fein": "47-5214017",
+  "lca_filing_count": 38,
+  "warn_notice_count": 0,
+  "median_wage_usd": 104052.1,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 90396.8
+    },
+    {
+      "fy": 2022,
+      "filings": 15,
+      "median_wage_usd": 108181.0
+    },
+    {
+      "fy": 2023,
+      "filings": 14,
+      "median_wage_usd": 102877.0
+    },
+    {
+      "fy": 2024,
+      "filings": 7,
+      "median_wage_usd": 105997.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SOFTWARE DEVELOPER",
+      "count": 9,
+      "median_wage_usd": 108992.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 8,
+      "median_wage_usd": 105612.0
+    },
+    {
+      "title": "SOFTWARE ENGINEER",
+      "count": 8,
+      "median_wage_usd": 125330.3
+    },
+    {
+      "title": "Software Engineer",
+      "count": 4,
+      "median_wage_usd": 89263.5
+    },
+    {
+      "title": "Software Developer (Java Full Stack)",
+      "count": 2,
+      "median_wage_usd": 90396.8
+    },
+    {
+      "title": "SOFTWARE DEVELOPER ",
+      "count": 1,
+      "median_wage_usd": 99008.0
+    },
+    {
+      "title": "JAVA DEVELOPER",
+      "count": 1,
+      "median_wage_usd": 132870.0
+    },
+    {
+      "title": "Network Engineer",
+      "count": 1,
+      "median_wage_usd": 86986.0
+    },
+    {
+      "title": "Software Developer ",
+      "count": 1,
+      "median_wage_usd": 101192.0
+    },
+    {
+      "title": "SOFTWARE DEVELOPER (UX)",
+      "count": 1,
+      "median_wage_usd": 132870.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 5
+    },
+    {
+      "state": "CO",
+      "county": "DOUGLAS",
+      "count": 5
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 4
+    },
+    {
+      "state": "GA",
+      "county": "GWINNETT",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 2
+    },
+    {
+      "state": "AR",
+      "county": "BENTON",
+      "count": 2
+    },
+    {
+      "state": "NC",
+      "county": "WAKE",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "county": "COBB",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 7
+    },
+    {
+      "state": "GA",
+      "count": 6
+    },
+    {
+      "state": "CO",
+      "count": 6
+    },
+    {
+      "state": "CA",
+      "count": 4
+    },
+    {
+      "state": "NJ",
+      "count": 3
+    },
+    {
+      "state": "IL",
+      "count": 2
+    },
+    {
+      "state": "AR",
+      "count": 2
+    },
+    {
+      "state": "MI",
+      "count": 1
+    },
+    {
+      "state": "IN",
+      "count": 1
+    },
+    {
+      "state": "OK",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 31,
+    "initial_denials": 2,
+    "continuing_approvals": 30,
+    "continuing_denials": 1,
+    "total_approvals": 61,
+    "by_fy": [
+      {
+        "fy": 2021,
+        "initial_approvals": 17,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 17
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 12,
+        "initial_denials": 0,
+        "continuing_approvals": 14,
+        "continuing_denials": 1,
+        "total_approvals": 26
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 2,
+        "initial_denials": 2,
+        "continuing_approvals": 16,
+        "continuing_denials": 0,
+        "total_approvals": 18
+      }
+    ]
+  },
+  "lca_worker_positions": 38,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 105997.0,
+    "gap_usd": -24163.0
+  }
+}

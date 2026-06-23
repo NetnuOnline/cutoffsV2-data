@@ -1,0 +1,99 @@
+{
+  "slug": "t-rowe-price-group",
+  "canonical_name": "T. Rowe Price Associates, Inc. ",
+  "fein": null,
+  "lca_filing_count": 27,
+  "warn_notice_count": 5,
+  "median_wage_usd": 125772,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 0,
+      "median_wage_usd": null
+    },
+    {
+      "fy": 2026,
+      "filings": 0,
+      "median_wage_usd": null
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Software Engineer",
+      "count": 0,
+      "median_wage_usd": null
+    },
+    {
+      "title": "Senior Infrastructure Engineer",
+      "count": 0,
+      "median_wage_usd": null
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MD",
+      "count": 3
+    },
+    {
+      "state": "CO",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "02/12/2026",
+      "effective_date": "02/06/2026",
+      "state": "MD",
+      "workers": 54,
+      "city": "Baltimore"
+    },
+    {
+      "date": "05/20/2021",
+      "effective_date": "07/31/2021",
+      "state": "MD",
+      "workers": 11,
+      "city": "Owings Mills"
+    },
+    {
+      "date": "05/19/2021",
+      "effective_date": "08/01/2021",
+      "state": "CO",
+      "workers": 287,
+      "city": null
+    },
+    {
+      "date": "04/23/2019",
+      "effective_date": "06/30/2019",
+      "state": "FL",
+      "workers": 169,
+      "city": "TAMPA"
+    },
+    {
+      "date": "06/01/2015",
+      "effective_date": "07/31/2015",
+      "state": "MD",
+      "workers": 211,
+      "city": "Owings Mills"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "baltimore-county-wia",
+      "name": "Baltimore County WIA",
+      "state": "MD"
+    },
+    {
+      "slug": "baltimore-city-wia",
+      "name": "Baltimore City WIA",
+      "state": "MD"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

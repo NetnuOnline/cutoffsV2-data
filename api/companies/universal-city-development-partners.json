@@ -1,0 +1,141 @@
+{
+  "slug": "universal-city-development-partners",
+  "canonical_name": "Universal City Development Partners, Ltd.",
+  "fein": "59-3128514",
+  "lca_filing_count": 4,
+  "warn_notice_count": 6,
+  "median_wage_usd": 127098.6,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 116584.4
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 137612.8
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 121711.5
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Engineer II, Mechanical",
+      "count": 1,
+      "median_wage_usd": 116584.4
+    },
+    {
+      "title": "Manager, Web Solution Engineering & Operations",
+      "count": 1,
+      "median_wage_usd": 141482.0
+    },
+    {
+      "title": "Lead Software Engineer, Mobile",
+      "count": 1,
+      "median_wage_usd": 137612.8
+    },
+    {
+      "title": "Assistant Director, Creative Strategy",
+      "count": 1,
+      "median_wage_usd": 101941.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "FL",
+      "count": 4
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "FL",
+      "county": "ORANGE",
+      "count": 2
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "11/13/2020",
+      "effective_date": "08/24/2020",
+      "state": "FL",
+      "workers": 31,
+      "city": "ORLANDO"
+    },
+    {
+      "date": "11/13/2020",
+      "effective_date": "08/24/2020",
+      "state": "FL",
+      "workers": 7,
+      "city": "ORLANDO"
+    },
+    {
+      "date": "11/13/2020",
+      "effective_date": "08/24/2020",
+      "state": "FL",
+      "workers": 373,
+      "city": "ORLANDO"
+    },
+    {
+      "date": "11/13/2020",
+      "effective_date": "08/24/2020",
+      "state": "FL",
+      "workers": 34,
+      "city": "ORLANDO"
+    },
+    {
+      "date": "11/13/2020",
+      "effective_date": "08/24/2020",
+      "state": "FL",
+      "workers": 678,
+      "city": "ORLANDO"
+    },
+    {
+      "date": "09/04/2020",
+      "effective_date": "05/03/2020",
+      "state": "FL",
+      "workers": 5389,
+      "city": "ORLANDO"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "careersource-central-florida",
+      "name": "CareerSource Central Florida",
+      "state": "FL"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 5,
+    "continuing_denials": 0,
+    "total_approvals": 5,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 5,
+        "continuing_denials": 0,
+        "total_approvals": 5
+      }
+    ]
+  },
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3021",
+    "soc_title": "Computer and Information Systems Managers",
+    "market_median_usd": 169510.0,
+    "employer_median_usd": 141482.0,
+    "gap_usd": -28028.0
+  }
+}

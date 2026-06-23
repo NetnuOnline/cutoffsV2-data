@@ -1,0 +1,203 @@
+{
+  "slug": "nvidia",
+  "canonical_name": "NVIDIA Corporation",
+  "fein": "94-3177549",
+  "lca_filing_count": 1798,
+  "lca_worker_positions": 30607,
+  "warn_notice_count": 0,
+  "median_wage_usd": 184080.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 145,
+      "median_wage_usd": 160611.0
+    },
+    {
+      "fy": 2021,
+      "filings": 113,
+      "median_wage_usd": 172245.0
+    },
+    {
+      "fy": 2022,
+      "filings": 133,
+      "median_wage_usd": 169200.0
+    },
+    {
+      "fy": 2023,
+      "filings": 203,
+      "median_wage_usd": 173971.0
+    },
+    {
+      "fy": 2024,
+      "filings": 282,
+      "median_wage_usd": 189542.0
+    },
+    {
+      "fy": 2025,
+      "filings": 470,
+      "median_wage_usd": 201053.0
+    },
+    {
+      "fy": 2026,
+      "filings": 445,
+      "median_wage_usd": 196000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 335,
+      "median_wage_usd": 184000.0
+    },
+    {
+      "title": "Hardware Engineer, Electronics",
+      "count": 123,
+      "median_wage_usd": 177341.0
+    },
+    {
+      "title": "Engineer Senior Systems Software",
+      "count": 96,
+      "median_wage_usd": 183156.0
+    },
+    {
+      "title": "Architect",
+      "count": 79,
+      "median_wage_usd": 186472.0
+    },
+    {
+      "title": "ASIC Engineer",
+      "count": 43,
+      "median_wage_usd": 196000.0
+    },
+    {
+      "title": "Verification Engineer",
+      "count": 43,
+      "median_wage_usd": 166195.0
+    },
+    {
+      "title": "Research Scientist",
+      "count": 41,
+      "median_wage_usd": 173971.0
+    },
+    {
+      "title": "Engineer Senior ASIC",
+      "count": 39,
+      "median_wage_usd": 196679.0
+    },
+    {
+      "title": "Product Manager",
+      "count": 34,
+      "median_wage_usd": 201046.0
+    },
+    {
+      "title": "Program Manager",
+      "count": 33,
+      "median_wage_usd": 192005.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 573
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 48
+    },
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 46
+    },
+    {
+      "state": "OR",
+      "county": "WASHINGTON",
+      "count": 21
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 19
+    },
+    {
+      "state": "MA",
+      "county": "WESTFORD",
+      "count": 17
+    },
+    {
+      "state": "NC",
+      "county": "DURHAM",
+      "count": 13
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 10
+    },
+    {
+      "state": "CA",
+      "county": "SAN DIEGO",
+      "count": 9
+    },
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 9
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 1267
+    },
+    {
+      "state": "TX",
+      "count": 177
+    },
+    {
+      "state": "WA",
+      "count": 106
+    },
+    {
+      "state": "MA",
+      "count": 37
+    },
+    {
+      "state": "NC",
+      "count": 34
+    },
+    {
+      "state": "OR",
+      "count": 27
+    },
+    {
+      "state": "NY",
+      "count": 24
+    },
+    {
+      "state": "NJ",
+      "count": 19
+    },
+    {
+      "state": "PA",
+      "count": 16
+    },
+    {
+      "state": "IL",
+      "count": 16
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 186197.0,
+    "gap_usd": 56037.0
+  }
+}

@@ -1,0 +1,418 @@
+{
+  "slug": "cerner",
+  "canonical_name": "Cerner Corporation",
+  "fein": null,
+  "lca_filing_count": 223,
+  "warn_notice_count": 14,
+  "median_wage_usd": 86751.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 52,
+      "median_wage_usd": 94452.23999999999
+    },
+    {
+      "fy": 2021,
+      "filings": 104,
+      "median_wage_usd": 76377.375
+    },
+    {
+      "fy": 2022,
+      "filings": 62,
+      "median_wage_usd": 87680.18
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SOFTWARE ENGINEER",
+      "count": 55,
+      "median_wage_usd": 72826.14
+    },
+    {
+      "title": "SENIOR SOFTWARE ENGINEER",
+      "count": 22,
+      "median_wage_usd": 97466.92
+    },
+    {
+      "title": "SOFTWARE ENGINEER II",
+      "count": 19,
+      "median_wage_usd": 91126.7
+    },
+    {
+      "title": "SOFTWARE ENGINEER I",
+      "count": 19,
+      "median_wage_usd": 73000.0
+    },
+    {
+      "title": "Associate Senior Software Engineer",
+      "count": 15,
+      "median_wage_usd": 87295.0
+    },
+    {
+      "title": "ASSOCIATE LEAD SOFTWARE ENGINEER",
+      "count": 12,
+      "median_wage_usd": 120008.185
+    },
+    {
+      "title": "ASSOCIATE SENIOR SOFTWARE ENGINEER",
+      "count": 8,
+      "median_wage_usd": 78695.87
+    },
+    {
+      "title": "Software Engineer II",
+      "count": 8,
+      "median_wage_usd": 85103.5
+    },
+    {
+      "title": "SOFTWARE ENGINEER III",
+      "count": 7,
+      "median_wage_usd": 96406.17
+    },
+    {
+      "title": "Software Engineer IV",
+      "count": 6,
+      "median_wage_usd": 128786.37
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MO",
+      "count": 168
+    },
+    {
+      "state": "PA",
+      "count": 27
+    },
+    {
+      "state": "TX",
+      "count": 13
+    },
+    {
+      "state": "KS",
+      "count": 6
+    },
+    {
+      "state": "CT",
+      "count": 1
+    },
+    {
+      "state": "OH",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "count": 1
+    },
+    {
+      "state": "MD",
+      "count": 1
+    },
+    {
+      "state": "CO",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MO",
+      "county": "JACKSON",
+      "count": 117
+    },
+    {
+      "state": "MO",
+      "county": "CLAY",
+      "count": 50
+    },
+    {
+      "state": "PA",
+      "county": "CHESTER",
+      "count": 27
+    },
+    {
+      "state": "KS",
+      "county": "WYANDOTTE",
+      "count": 6
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 5
+    },
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 4
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "FORT BEND",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "county": "MERCER",
+      "count": 1
+    },
+    {
+      "state": "CT",
+      "county": "NEW HAVEN CITY",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "09/17/2020",
+      "effective_date": "11/18/2020",
+      "state": "NC",
+      "workers": 8,
+      "city": "2525 Meridian Pkwy Suite 150, Durham"
+    },
+    {
+      "date": "06/24/2020",
+      "effective_date": "08/25/2020",
+      "state": "MO",
+      "workers": 94,
+      "city": null
+    },
+    {
+      "date": "06/23/2020",
+      "effective_date": "06/23/2020",
+      "state": "KS",
+      "workers": 4,
+      "city": "3 - Workforce Investment Area III"
+    },
+    {
+      "date": "05/15/2020",
+      "effective_date": "07/15/2020",
+      "state": "VA",
+      "workers": 1,
+      "city": "Reston, VA"
+    },
+    {
+      "date": "11/13/2019",
+      "effective_date": "01/14/2020",
+      "state": "WI",
+      "workers": 1,
+      "city": "Beloit"
+    },
+    {
+      "date": "11/12/2019",
+      "effective_date": "11/12/2019",
+      "state": "KS",
+      "workers": 10,
+      "city": "3 - Workforce Investment Area III"
+    },
+    {
+      "date": "11/12/2019",
+      "effective_date": "11/12/2019",
+      "state": "AZ",
+      "workers": 1,
+      "city": "Phoenix"
+    },
+    {
+      "date": "10/02/2019",
+      "effective_date": "01/14/2020",
+      "state": "MO",
+      "workers": 80,
+      "city": "Multiple Locations"
+    },
+    {
+      "date": "10/02/2019",
+      "effective_date": "12/13/2019",
+      "state": "MO",
+      "workers": 154,
+      "city": null
+    },
+    {
+      "date": "10/01/2019",
+      "effective_date": "12/01/2019",
+      "state": "OR",
+      "workers": 4,
+      "city": "Portland"
+    },
+    {
+      "date": "10/01/2019",
+      "effective_date": "12/01/2019",
+      "state": "CA",
+      "workers": 57,
+      "city": "Simi Valley"
+    },
+    {
+      "date": "10/01/2019",
+      "effective_date": "10/01/2019",
+      "state": "HI",
+      "workers": 0,
+      "city": null
+    },
+    {
+      "date": "03/31/2019",
+      "effective_date": "03/31/2019",
+      "state": "GA",
+      "workers": 129,
+      "city": "Augusta"
+    },
+    {
+      "date": "01/18/2019",
+      "effective_date": "03/17/2019",
+      "state": "CA",
+      "workers": 42,
+      "city": "Paradise"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "richmondburke-wib",
+      "name": "Richmond/Burke WIB",
+      "state": "GA"
+    },
+    {
+      "slug": "southwest-wda",
+      "name": "Southwest WDA",
+      "state": "WI"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 236,
+    "initial_denials": 3,
+    "continuing_approvals": 747,
+    "continuing_denials": 14,
+    "total_approvals": 983,
+    "by_fy": [
+      {
+        "fy": 2009,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2010,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2011,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2012,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2013,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2014,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2015,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2016,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2017,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 120,
+        "initial_denials": 0,
+        "continuing_approvals": 285,
+        "continuing_denials": 2,
+        "total_approvals": 405
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 89,
+        "initial_denials": 1,
+        "continuing_approvals": 289,
+        "continuing_denials": 5,
+        "total_approvals": 378
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 27,
+        "initial_denials": 2,
+        "continuing_approvals": 136,
+        "continuing_denials": 2,
+        "total_approvals": 163
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 37,
+        "continuing_denials": 5,
+        "total_approvals": 37
+      }
+    ]
+  },
+  "lca_worker_positions": 218,
+  "top_socs": [],
+  "lca_periods": []
+}

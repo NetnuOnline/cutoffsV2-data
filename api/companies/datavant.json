@@ -1,0 +1,176 @@
+{
+  "slug": "datavant",
+  "canonical_name": "Datavant, LLC",
+  "fein": "82-3290164",
+  "lca_filing_count": 23,
+  "lca_worker_positions": 23,
+  "warn_notice_count": 0,
+  "median_wage_usd": 155000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 5,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 425000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 5,
+      "median_wage_usd": 155000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 4,
+      "median_wage_usd": 187500.0
+    },
+    {
+      "fy": 2025,
+      "filings": 4,
+      "median_wage_usd": 238767.63
+    },
+    {
+      "fy": 2026,
+      "filings": 4,
+      "median_wage_usd": 162500.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 7,
+      "median_wage_usd": 155000.0
+    },
+    {
+      "title": "Data Operations Engineer",
+      "count": 5,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Senior Manager, Engineering",
+      "count": 2,
+      "median_wage_usd": 327535.26
+    },
+    {
+      "title": "Data Analyst",
+      "count": 1,
+      "median_wage_usd": 109000.0
+    },
+    {
+      "title": "Senior Manager, Data Integration",
+      "count": 1,
+      "median_wage_usd": 256601.28
+    },
+    {
+      "title": "Head of Engineering",
+      "count": 1,
+      "median_wage_usd": 395000.0
+    },
+    {
+      "title": "Head of Life Science Solutions",
+      "count": 1,
+      "median_wage_usd": 255000.0
+    },
+    {
+      "title": "Software Engineer ",
+      "count": 1,
+      "median_wage_usd": 160000.0
+    },
+    {
+      "title": "RPA Analyst",
+      "count": 1,
+      "median_wage_usd": 105598.0
+    },
+    {
+      "title": "Head of Security",
+      "count": 1,
+      "median_wage_usd": 425000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 10
+    },
+    {
+      "state": "TN",
+      "county": "WILLIAMSON",
+      "count": 1
+    },
+    {
+      "state": "CO",
+      "county": "DENVER",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "county": "FAIRFAX",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "county": "HILLSBOROUGH",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "county": "CAMBRIDGE CITY",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "CONTRA COSTA",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 15
+    },
+    {
+      "state": "CO",
+      "count": 2
+    },
+    {
+      "state": "WA",
+      "count": 2
+    },
+    {
+      "state": "TN",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 155000.0,
+    "gap_usd": 24840.0
+  }
+}

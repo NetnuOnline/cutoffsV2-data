@@ -1,0 +1,136 @@
+{
+  "slug": "octoml",
+  "canonical_name": "OctoML, Inc.",
+  "fein": "84-2498045",
+  "lca_filing_count": 8,
+  "warn_notice_count": 0,
+  "median_wage_usd": 182520.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 143998.2
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 180000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 352643.2
+    },
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 185040.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Chief Technologist",
+      "count": 2,
+      "median_wage_usd": 352643.2
+    },
+    {
+      "title": "Chief Technology Officer",
+      "count": 2,
+      "median_wage_usd": 143998.2
+    },
+    {
+      "title": "Staff Engineer",
+      "count": 1,
+      "median_wage_usd": 240000.0
+    },
+    {
+      "title": "Senior Technical Product Manager",
+      "count": 1,
+      "median_wage_usd": 176000.0
+    },
+    {
+      "title": "Machine Learning Systems Engineer",
+      "count": 1,
+      "median_wage_usd": 185040.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 1,
+      "median_wage_usd": 180000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 6
+    },
+    {
+      "state": "PA",
+      "county": "ALLEGHENY",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "WA",
+      "count": 6
+    },
+    {
+      "state": "PA",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 5,
+    "initial_denials": 0,
+    "continuing_approvals": 6,
+    "continuing_denials": 0,
+    "total_approvals": 11,
+    "by_fy": [
+      {
+        "fy": 2020,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 3,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 5
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      }
+    ]
+  },
+  "lca_worker_positions": 8,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3021",
+    "soc_title": "Computer and Information Systems Managers",
+    "market_median_usd": 169510.0,
+    "employer_median_usd": 248320.8,
+    "gap_usd": 78810.8
+  }
+}

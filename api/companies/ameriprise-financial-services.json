@@ -1,0 +1,111 @@
+{
+  "slug": "ameriprise-financial-services",
+  "canonical_name": "Ameriprise Financial Services, LLC",
+  "fein": "41-0973005",
+  "lca_filing_count": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 123277.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 136323.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 109854.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Director - Data Scientist",
+      "count": 1,
+      "median_wage_usd": 137800.0
+    },
+    {
+      "title": "SENIOR BUSINESS SYSTEMS ANALYST - TECH",
+      "count": 1,
+      "median_wage_usd": 111708.0
+    },
+    {
+      "title": "Sr. Data Engineer Manager",
+      "count": 1,
+      "median_wage_usd": 134846.0
+    },
+    {
+      "title": "Manager of Digital Marketing Analytics",
+      "count": 1,
+      "median_wage_usd": 108000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MN",
+      "county": "HENNEPIN",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MN",
+      "count": 3
+    },
+    {
+      "state": "NC",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 4,
+    "continuing_denials": 0,
+    "total_approvals": 5,
+    "by_fy": [
+      {
+        "fy": 2010,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2016,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      }
+    ]
+  },
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 137800.0,
+    "gap_usd": 29780.0
+  }
+}

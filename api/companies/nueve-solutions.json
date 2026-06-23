@@ -1,0 +1,129 @@
+{
+  "slug": "nueve-solutions",
+  "canonical_name": "Nueve Solutions, LLC",
+  "fein": "46-3074688",
+  "lca_filing_count": 9,
+  "lca_worker_positions": 9,
+  "warn_notice_count": 0,
+  "median_wage_usd": 87672.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 90750.0
+    },
+    {
+      "fy": 2023,
+      "filings": 4,
+      "median_wage_usd": 82524.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 108826.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 70242.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 87672.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 2,
+      "median_wage_usd": 90750.0
+    },
+    {
+      "title": "QA AUTOMATION ENGINEER",
+      "count": 1,
+      "median_wage_usd": 79643.0
+    },
+    {
+      "title": "AZURE DEVELOPER (AZURE SYNAPSE ANALYTICS)",
+      "count": 1,
+      "median_wage_usd": 96866.0
+    },
+    {
+      "title": "AZURE ARCHITECT",
+      "count": 1,
+      "median_wage_usd": 85405.0
+    },
+    {
+      "title": "AZURE ARCHITECT ",
+      "count": 1,
+      "median_wage_usd": 77418.0
+    },
+    {
+      "title": "SDET AUTOMATION /QA AUTOMATION",
+      "count": 1,
+      "median_wage_usd": 87672.0
+    },
+    {
+      "title": "SOFTWARE ENGINEER",
+      "count": 1,
+      "median_wage_usd": 108826.0
+    },
+    {
+      "title": "SOFTWARE DEVELOPER IN TEST AUTOMATION",
+      "count": 1,
+      "median_wage_usd": 70242.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 2
+    },
+    {
+      "state": "MO",
+      "county": "COLE",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "county": "OAKLAND",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 6
+    },
+    {
+      "state": "MI",
+      "count": 1
+    },
+    {
+      "state": "MO",
+      "count": 1
+    },
+    {
+      "state": "IA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 91135.5,
+    "gap_usd": -39024.5
+  }
+}

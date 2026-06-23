@@ -1,0 +1,46 @@
+{
+  "slug": "mission-capital",
+  "canonical_name": "Mission Capital LLC",
+  "fein": "82-0887870",
+  "lca_filing_count": 1,
+  "warn_notice_count": 0,
+  "median_wage_usd": 250000.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 250000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SALESFORCE ARCHITECT",
+      "count": 1,
+      "median_wage_usd": 250000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 1,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Computer Systems Engineers/Architects",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 250000.0,
+    "gap_usd": 132000.0
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "slug": "uti",
+  "canonical_name": "UTI",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 9,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "OR",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "count": 2
+    },
+    {
+      "state": "SC",
+      "count": 2
+    },
+    {
+      "state": "WI",
+      "count": 1
+    },
+    {
+      "state": "CO",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "11/16/2016",
+      "effective_date": "12/31/2016",
+      "state": "OR",
+      "workers": 96,
+      "city": "Portland"
+    },
+    {
+      "date": "09/20/2016",
+      "effective_date": "01/15/2017",
+      "state": "WI",
+      "workers": 200,
+      "city": "Sturtevant"
+    },
+    {
+      "date": "02/05/2016",
+      "effective_date": "04/01/2016",
+      "state": "CA",
+      "workers": 64,
+      "city": "Long Beach"
+    },
+    {
+      "date": "02/02/2016",
+      "effective_date": "03/29/2016",
+      "state": "OR",
+      "workers": 41,
+      "city": "Portland"
+    },
+    {
+      "date": "08/24/2015",
+      "effective_date": "08/24/2015",
+      "state": "SC",
+      "workers": 120,
+      "city": "Lugoff"
+    },
+    {
+      "date": "07/31/2015",
+      "effective_date": "07/31/2015",
+      "state": "SC",
+      "workers": 100,
+      "city": "N. Charleston"
+    },
+    {
+      "date": "07/17/2015",
+      "effective_date": "07/17/2015",
+      "state": "CO",
+      "workers": 10,
+      "city": "Pikes Peak/Teller"
+    },
+    {
+      "date": "01/15/2015",
+      "effective_date": "03/31/2015",
+      "state": "CA",
+      "workers": 32,
+      "city": "Anaheim"
+    },
+    {
+      "date": "06/01/2014",
+      "effective_date": "06/01/2014",
+      "state": "GA",
+      "workers": 9,
+      "city": "Braselton"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "northeast-wib-ga",
+      "name": "Northeast WIB",
+      "state": "GA"
+    },
+    {
+      "slug": "santee-lynches-wib",
+      "name": "Santee-Lynches WIB",
+      "state": "SC"
+    },
+    {
+      "slug": "southeast-wda",
+      "name": "Southeast WDA",
+      "state": "WI"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

@@ -1,0 +1,127 @@
+{
+  "slug": "u-s-renal-care",
+  "canonical_name": "U.S. Renal Care, Inc.",
+  "fein": "62-1826478",
+  "lca_filing_count": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 102521.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 91369.5
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 111260.5
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 121524.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Analyst, Clinical Services",
+      "count": 1,
+      "median_wage_usd": 97739.0
+    },
+    {
+      "title": "Manager, Value-Based Care Analytics ",
+      "count": 1,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "Analytics Manager, Special Projects-Clinical Services",
+      "count": 1,
+      "median_wage_usd": 121524.0
+    },
+    {
+      "title": "Backup Systems Administrator, Senior",
+      "count": 1,
+      "median_wage_usd": 102521.0
+    },
+    {
+      "title": "Social Worker",
+      "count": 1,
+      "median_wage_usd": 85000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 3
+    },
+    {
+      "state": "OH",
+      "county": "CUYAHOGA",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 3
+    },
+    {
+      "state": "OH",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 6,
+    "continuing_denials": 0,
+    "total_approvals": 6,
+    "by_fy": [
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      }
+    ]
+  },
+  "lca_worker_positions": 5,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Clinical Data Managers",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 109631.5,
+    "gap_usd": 1611.5
+  }
+}

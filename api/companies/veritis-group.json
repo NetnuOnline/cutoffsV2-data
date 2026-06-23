@@ -1,0 +1,199 @@
+{
+  "slug": "veritis-group",
+  "canonical_name": "Veritis Group, Inc.",
+  "fein": "20-1804066",
+  "lca_filing_count": 26,
+  "lca_worker_positions": 26,
+  "warn_notice_count": 0,
+  "median_wage_usd": 94608.5,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 5,
+      "median_wage_usd": 97406.0
+    },
+    {
+      "fy": 2021,
+      "filings": 8,
+      "median_wage_usd": 94172.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 96449.5
+    },
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 94307.0
+    },
+    {
+      "fy": 2024,
+      "filings": 6,
+      "median_wage_usd": 96678.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 92600.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 105000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "DevOps Engineer",
+      "count": 3,
+      "median_wage_usd": 94016.0
+    },
+    {
+      "title": "SYSTEMS ENGINEER",
+      "count": 2,
+      "median_wage_usd": 102648.0
+    },
+    {
+      "title": "Systems Engineer",
+      "count": 2,
+      "median_wage_usd": 66716.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 2,
+      "median_wage_usd": 96106.0
+    },
+    {
+      "title": "Cloud Engineer",
+      "count": 2,
+      "median_wage_usd": 96054.0
+    },
+    {
+      "title": "AWS Engineering Specialist",
+      "count": 2,
+      "median_wage_usd": 96293.5
+    },
+    {
+      "title": "Cellular Network Engineer",
+      "count": 2,
+      "median_wage_usd": 134202.0
+    },
+    {
+      "title": "Site Reliability Engineer",
+      "count": 1,
+      "median_wage_usd": 92600.0
+    },
+    {
+      "title": "Java API Developer",
+      "count": 1,
+      "median_wage_usd": 94307.0
+    },
+    {
+      "title": "Full Stack .NET Developer",
+      "count": 1,
+      "median_wage_usd": 111176.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 7
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 3
+    },
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 2
+    },
+    {
+      "state": "DC",
+      "county": "DISTRICT OF COLUMBIA",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "TARRANT",
+      "count": 2
+    },
+    {
+      "state": "TN",
+      "county": "DAVIDSON",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "county": "MECKLENBURG",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "county": "BURLINGTON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 15
+    },
+    {
+      "state": "CA",
+      "count": 2
+    },
+    {
+      "state": "DC",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "count": 2
+    },
+    {
+      "state": "MO",
+      "count": 1
+    },
+    {
+      "state": "TN",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Computer Systems Engineers/Architects",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 94016.0,
+    "gap_usd": -23984.0
+  }
+}

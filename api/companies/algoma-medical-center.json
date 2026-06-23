@@ -1,0 +1,57 @@
+{
+  "slug": "algoma-medical-center",
+  "canonical_name": "Algoma Medical Center",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 1,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "WI",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "05/17/2022",
+      "effective_date": "07/01/2022",
+      "state": "WI",
+      "workers": 54,
+      "city": "Algoma"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "bay-area-wda",
+      "name": "Bay Area WDA",
+      "state": "WI"
+    }
+  ],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2015-07-28",
+        "formType": "8-K/A",
+        "accessionNumber": "0001104659-15-053891",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001411579&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 1,
+    "itemCounts": {
+      "5.02": 1
+    },
+    "latestFilingDate": "2015-07-28",
+    "earliestFilingDate": "2015-07-28"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

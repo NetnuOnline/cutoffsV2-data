@@ -1,0 +1,61 @@
+{
+  "slug": "meridiam-services-usa",
+  "canonical_name": "Meridiam Services USA LLC",
+  "fein": "47-1986640",
+  "lca_filing_count": 2,
+  "lca_worker_positions": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 154180.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 102274.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 206086.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Data Analyst",
+      "count": 1,
+      "median_wage_usd": 102274.0
+    },
+    {
+      "title": "Systems Oversight Manager",
+      "count": 1,
+      "median_wage_usd": 206086.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "DC",
+      "county": "DISTRICT OF COLUMBIA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MD",
+      "count": 1
+    },
+    {
+      "state": "DC",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Business Intelligence Analysts",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 102274.0,
+    "gap_usd": -5746.0
+  }
+}

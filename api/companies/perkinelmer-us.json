@@ -1,0 +1,81 @@
+{
+  "slug": "perkinelmer-us",
+  "canonical_name": "PERKINELMER US LLC",
+  "fein": "88-4129178",
+  "lca_filing_count": 3,
+  "warn_notice_count": 1,
+  "median_wage_usd": 88379.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 78353.5
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 90000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "MES Support Analyst",
+      "count": 1,
+      "median_wage_usd": 68328.0
+    },
+    {
+      "title": "Validation and Compliance Specialist",
+      "count": 1,
+      "median_wage_usd": 90000.0
+    },
+    {
+      "title": "Software Development Engineer",
+      "count": 1,
+      "median_wage_usd": 88379.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CT",
+      "count": 2
+    },
+    {
+      "state": "NY",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "ALBANY",
+      "count": 1
+    },
+    {
+      "state": "CT",
+      "county": "SHELTON CITY",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "01/01/2025",
+      "effective_date": "11/24/2025",
+      "state": "CT",
+      "workers": 68,
+      "city": "Shelton"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "northwest-wia-ct",
+      "name": "Northwest WIA",
+      "state": "CT"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": []
+}

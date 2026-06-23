@@ -1,0 +1,43 @@
+{
+  "slug": "dairyland-produce",
+  "canonical_name": "Dairyland Produce, LLC",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "10/23/2025",
+      "effective_date": "12/24/2025",
+      "state": "CA",
+      "workers": 21,
+      "city": "San Jose"
+    },
+    {
+      "date": "10/23/2025",
+      "effective_date": "12/24/2025",
+      "state": "CA",
+      "workers": 22,
+      "city": "Brisbane"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "san-mateo-county-wib",
+      "name": "San Mateo County WIB",
+      "state": "CA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

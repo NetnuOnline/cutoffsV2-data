@@ -1,0 +1,48 @@
+{
+  "slug": "navient-bpo",
+  "canonical_name": "Navient BPO",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "02/05/2024",
+      "effective_date": "05/06/2024",
+      "state": "NY",
+      "workers": 945,
+      "city": "Perry"
+    },
+    {
+      "date": "02/05/2024",
+      "effective_date": "05/06/2024",
+      "state": "NY",
+      "workers": 43,
+      "city": "Horseheads"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "chemungschuylersteuben-lwia",
+      "name": "Chemung/Schuyler/Steuben LWIA",
+      "state": "NY"
+    },
+    {
+      "slug": "geneseelivingstonorleanswyoming-lwia",
+      "name": "Genesee/Livingston/Orleans/Wyoming LWIA",
+      "state": "NY"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

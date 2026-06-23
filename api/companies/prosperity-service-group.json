@@ -1,0 +1,104 @@
+{
+  "slug": "prosperity-service-group",
+  "canonical_name": "Prosperity Service Group, LLC",
+  "fein": "35-2491143",
+  "lca_filing_count": 6,
+  "lca_worker_positions": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 157500.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 275000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 145000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 155000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 105747.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Director, Information Technology (12)",
+      "count": 2,
+      "median_wage_usd": 160000.0
+    },
+    {
+      "title": "Senior Data Analyst",
+      "count": 1,
+      "median_wage_usd": 105747.0
+    },
+    {
+      "title": "IT Business Analyst (11)",
+      "count": 1,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Manager, Business Requirements and Transformation",
+      "count": 1,
+      "median_wage_usd": 155000.0
+    },
+    {
+      "title": "Quantitative Liability Manager",
+      "count": 1,
+      "median_wage_usd": 275000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NJ",
+      "county": "SOMERSET",
+      "count": 2
+    },
+    {
+      "state": "VA",
+      "county": "ROANOKE",
+      "count": 2
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 2
+    },
+    {
+      "state": "VA",
+      "count": 2
+    },
+    {
+      "state": "NY",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3021",
+    "soc_title": "Computer and Information Systems Managers",
+    "market_median_usd": 169510.0,
+    "employer_median_usd": 160000.0,
+    "gap_usd": -9510.0
+  }
+}

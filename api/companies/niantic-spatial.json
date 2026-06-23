@@ -1,0 +1,49 @@
+{
+  "slug": "niantic-spatial",
+  "canonical_name": "Niantic Spatial, Inc.",
+  "fein": "33-3449778",
+  "lca_filing_count": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 176900.0,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 6,
+      "median_wage_usd": 176900.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 4,
+      "median_wage_usd": 162750.0
+    },
+    {
+      "title": "Software Engineer, Machine Learning",
+      "count": 2,
+      "median_wage_usd": 192500.0
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 4
+    },
+    {
+      "state": "WA",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 6,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 176900.0,
+    "gap_usd": 46740.0
+  }
+}

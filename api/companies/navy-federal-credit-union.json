@@ -1,0 +1,203 @@
+{
+  "slug": "navy-federal-credit-union",
+  "canonical_name": "Navy Federal Credit Union",
+  "fein": "53-0116705",
+  "lca_filing_count": 195,
+  "lca_worker_positions": 195,
+  "warn_notice_count": 0,
+  "median_wage_usd": 154241.93,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 6,
+      "median_wage_usd": 132500.0
+    },
+    {
+      "fy": 2021,
+      "filings": 11,
+      "median_wage_usd": 133000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 24,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 22,
+      "median_wage_usd": 132000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 25,
+      "median_wage_usd": 153000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 79,
+      "median_wage_usd": 168230.4
+    },
+    {
+      "fy": 2026,
+      "filings": 28,
+      "median_wage_usd": 162504.58,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Data Engineer",
+      "count": 20,
+      "median_wage_usd": 173771.52000000002
+    },
+    {
+      "title": "ISD Engineer IV",
+      "count": 10,
+      "median_wage_usd": 145500.0
+    },
+    {
+      "title": "Application Engineer",
+      "count": 7,
+      "median_wage_usd": 147534.4
+    },
+    {
+      "title": "AI/ML Engineer",
+      "count": 5,
+      "median_wage_usd": 168230.4
+    },
+    {
+      "title": "ISD Developer IV",
+      "count": 4,
+      "median_wage_usd": 134000.0
+    },
+    {
+      "title": "ISD Analyst III",
+      "count": 4,
+      "median_wage_usd": 101349.655
+    },
+    {
+      "title": "Senior Data Scientist",
+      "count": 3,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "title": "ISD Engineer III",
+      "count": 3,
+      "median_wage_usd": 153500.0
+    },
+    {
+      "title": "Digital Engineer IV",
+      "count": 3,
+      "median_wage_usd": 170000.0
+    },
+    {
+      "title": "Data Analyst III",
+      "count": 3,
+      "median_wage_usd": 125000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "VA",
+      "county": "FAIRFAX",
+      "count": 65
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 3
+    },
+    {
+      "state": "GA",
+      "county": "DEKALB",
+      "count": 3
+    },
+    {
+      "state": "FL",
+      "county": "ESCAMBIA",
+      "count": 3
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 2
+    },
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "SAN DIEGO",
+      "count": 2
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "county": "FAIRFAX CITY",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "county": "MIDDLESEX",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "VA",
+      "count": 152
+    },
+    {
+      "state": "TX",
+      "count": 7
+    },
+    {
+      "state": "NC",
+      "count": 5
+    },
+    {
+      "state": "CA",
+      "count": 5
+    },
+    {
+      "state": "FL",
+      "count": 4
+    },
+    {
+      "state": "MO",
+      "count": 3
+    },
+    {
+      "state": "IL",
+      "count": 3
+    },
+    {
+      "state": "NJ",
+      "count": 3
+    },
+    {
+      "state": "GA",
+      "count": 3
+    },
+    {
+      "state": "WA",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 153522.4,
+    "gap_usd": 23362.4
+  }
+}

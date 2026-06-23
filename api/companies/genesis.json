@@ -1,0 +1,203 @@
+{
+  "slug": "genesis",
+  "canonical_name": "Genesis Corp",
+  "fein": "13-4041496",
+  "lca_filing_count": 144,
+  "lca_worker_positions": 133,
+  "warn_notice_count": 0,
+  "median_wage_usd": 128627.2,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 6,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 4,
+      "median_wage_usd": 140400.0
+    },
+    {
+      "fy": 2022,
+      "filings": 9,
+      "median_wage_usd": 190444.80000000002
+    },
+    {
+      "fy": 2023,
+      "filings": 11,
+      "median_wage_usd": 176800.0
+    },
+    {
+      "fy": 2024,
+      "filings": 32,
+      "median_wage_usd": 112985.6
+    },
+    {
+      "fy": 2025,
+      "filings": 52,
+      "median_wage_usd": 122584.8
+    },
+    {
+      "fy": 2026,
+      "filings": 19,
+      "median_wage_usd": 130603.2,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Application Programmer",
+      "count": 36,
+      "median_wage_usd": 121347.2
+    },
+    {
+      "title": "Network System Engineer",
+      "count": 14,
+      "median_wage_usd": 119038.4
+    },
+    {
+      "title": "Application Architect",
+      "count": 10,
+      "median_wage_usd": 112673.6
+    },
+    {
+      "title": "Java Developer",
+      "count": 7,
+      "median_wage_usd": 128232.0
+    },
+    {
+      "title": "DevOps Engineer",
+      "count": 7,
+      "median_wage_usd": 129584.0
+    },
+    {
+      "title": "Senior Java Developer",
+      "count": 4,
+      "median_wage_usd": 133941.6
+    },
+    {
+      "title": "Senior Java Developer ",
+      "count": 4,
+      "median_wage_usd": 187200.0
+    },
+    {
+      "title": "Hadoop Developer",
+      "count": 3,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "Full Stack Java Developer",
+      "count": 3,
+      "median_wage_usd": 112985.6
+    },
+    {
+      "title": "Software Developer",
+      "count": 3,
+      "median_wage_usd": 107036.8
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NC",
+      "county": "MECKLENBURG",
+      "count": 19
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 10
+    },
+    {
+      "state": "NJ",
+      "county": "MIDDLESEX",
+      "count": 8
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 6
+    },
+    {
+      "state": "NJ",
+      "county": "MERCER",
+      "count": 5
+    },
+    {
+      "state": "NC",
+      "county": "CABARRUS",
+      "count": 4
+    },
+    {
+      "state": "NJ",
+      "county": "SOMERSET",
+      "count": 4
+    },
+    {
+      "state": "NJ",
+      "county": "HUDSON",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 3
+    },
+    {
+      "state": "SC",
+      "county": "YORK",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 42
+    },
+    {
+      "state": "NC",
+      "count": 41
+    },
+    {
+      "state": "TX",
+      "count": 38
+    },
+    {
+      "state": "SC",
+      "count": 6
+    },
+    {
+      "state": "PA",
+      "count": 4
+    },
+    {
+      "state": "GA",
+      "count": 4
+    },
+    {
+      "state": "NY",
+      "count": 2
+    },
+    {
+      "state": "CO",
+      "count": 2
+    },
+    {
+      "state": "AZ",
+      "count": 2
+    },
+    {
+      "state": "FL",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 131601.6,
+    "gap_usd": 1441.6
+  }
+}

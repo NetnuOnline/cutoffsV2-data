@@ -1,0 +1,188 @@
+{
+  "slug": "mufg-bank",
+  "canonical_name": "MUFG Bank, Ltd.",
+  "fein": "13-5611741",
+  "lca_filing_count": 83,
+  "lca_worker_positions": 83,
+  "warn_notice_count": 0,
+  "median_wage_usd": 147000.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 24,
+      "median_wage_usd": 151575.0
+    },
+    {
+      "fy": 2024,
+      "filings": 20,
+      "median_wage_usd": 143342.155
+    },
+    {
+      "fy": 2025,
+      "filings": 26,
+      "median_wage_usd": 149298.0
+    },
+    {
+      "fy": 2026,
+      "filings": 13,
+      "median_wage_usd": 145953.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineering",
+      "count": 19,
+      "median_wage_usd": 148094.0
+    },
+    {
+      "title": "Systems Engineering",
+      "count": 4,
+      "median_wage_usd": 147075.0
+    },
+    {
+      "title": "Data Analysis",
+      "count": 4,
+      "median_wage_usd": 145205.0
+    },
+    {
+      "title": "Security Engineering",
+      "count": 4,
+      "median_wage_usd": 157826.0
+    },
+    {
+      "title": "Middleware Administration",
+      "count": 3,
+      "median_wage_usd": 147000.0
+    },
+    {
+      "title": "Compliance Professional",
+      "count": 3,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "title": "Data Governance & Controls",
+      "count": 2,
+      "median_wage_usd": 183471.5
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 2,
+      "median_wage_usd": 135290.0
+    },
+    {
+      "title": "Technology Project Management",
+      "count": 2,
+      "median_wage_usd": 126000.0
+    },
+    {
+      "title": "DevOps Engineering",
+      "count": 1,
+      "median_wage_usd": 165568.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NJ",
+      "county": "HUDSON",
+      "count": 14
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 10
+    },
+    {
+      "state": "NC",
+      "county": "MECKLENBURG",
+      "count": 6
+    },
+    {
+      "state": "FL",
+      "county": "HILLSBOROUGH",
+      "count": 5
+    },
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 4
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 3
+    },
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 2
+    },
+    {
+      "state": "MD",
+      "county": "MONTGOMERY",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 25
+    },
+    {
+      "state": "CA",
+      "count": 11
+    },
+    {
+      "state": "TX",
+      "count": 11
+    },
+    {
+      "state": "AZ",
+      "count": 10
+    },
+    {
+      "state": "NY",
+      "count": 8
+    },
+    {
+      "state": "FL",
+      "count": 7
+    },
+    {
+      "state": "NC",
+      "count": 7
+    },
+    {
+      "state": "CT",
+      "count": 1
+    },
+    {
+      "state": "OH",
+      "count": 1
+    },
+    {
+      "state": "MD",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 156060.0,
+    "gap_usd": 25900.0
+  }
+}

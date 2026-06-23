@@ -1,0 +1,77 @@
+{
+  "slug": "otc",
+  "canonical_name": "OTC, Inc.",
+  "fein": "13-3575420",
+  "lca_filing_count": 5,
+  "lca_worker_positions": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 140000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 70845.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 100006.4
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 149988.8,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Business Developer",
+      "count": 2,
+      "median_wage_usd": 149988.8
+    },
+    {
+      "title": "Financial Quantitative Analyst",
+      "count": 1,
+      "median_wage_usd": 70845.0
+    },
+    {
+      "title": "Financial Engineer",
+      "count": 1,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "title": "Director \u2013 Business Development",
+      "count": 1,
+      "median_wage_usd": 100006.4
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 5
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1161",
+    "soc_title": "Market Research Analysts and Marketing Specialists",
+    "market_median_usd": 74680.0,
+    "employer_median_usd": 149988.8,
+    "gap_usd": 75308.8
+  }
+}

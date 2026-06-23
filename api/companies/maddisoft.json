@@ -1,0 +1,121 @@
+{
+  "slug": "maddisoft",
+  "canonical_name": "Maddisoft LLC",
+  "fein": "20-2815606",
+  "lca_filing_count": 16,
+  "lca_worker_positions": 16,
+  "warn_notice_count": 0,
+  "median_wage_usd": 134000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 145600.0
+    },
+    {
+      "fy": 2021,
+      "filings": 3,
+      "median_wage_usd": 131040.0
+    },
+    {
+      "fy": 2022,
+      "filings": 4,
+      "median_wage_usd": 134100.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 82500.0
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 140400.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 5,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "title": "SOFTWARE ENGINEER",
+      "count": 4,
+      "median_wage_usd": 121500.0
+    },
+    {
+      "title": "SAP IS-U SOFTWARE ENGINEER",
+      "count": 2,
+      "median_wage_usd": 145600.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 1,
+      "median_wage_usd": 135200.0
+    },
+    {
+      "title": "SOFTWARE DEVELOPER",
+      "count": 1,
+      "median_wage_usd": 98800.0
+    },
+    {
+      "title": "SOFTWARE QUALITY ASSURANCE (QA) AUTOMATION ENGINEER",
+      "count": 1,
+      "median_wage_usd": 95000.0
+    },
+    {
+      "title": "Oracle DBA",
+      "count": 1,
+      "median_wage_usd": 65000.0
+    },
+    {
+      "title": "SAP SOFTWARE ENGINEER",
+      "count": 1,
+      "median_wage_usd": 208000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 11
+    },
+    {
+      "state": "TX",
+      "county": "BEXAR",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 15
+    },
+    {
+      "state": "NY",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 135200.0,
+    "gap_usd": 5040.0
+  }
+}

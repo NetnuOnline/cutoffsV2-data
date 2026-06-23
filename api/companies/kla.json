@@ -1,0 +1,203 @@
+{
+  "slug": "kla",
+  "canonical_name": "KLA Corporation",
+  "fein": "04-2564110",
+  "lca_filing_count": 342,
+  "lca_worker_positions": 386,
+  "warn_notice_count": 0,
+  "median_wage_usd": 142803.5,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 55,
+      "median_wage_usd": 120578.0
+    },
+    {
+      "fy": 2021,
+      "filings": 60,
+      "median_wage_usd": 125944.0
+    },
+    {
+      "fy": 2022,
+      "filings": 50,
+      "median_wage_usd": 145000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 55,
+      "median_wage_usd": 137533.0
+    },
+    {
+      "fy": 2024,
+      "filings": 51,
+      "median_wage_usd": 153727.0
+    },
+    {
+      "fy": 2025,
+      "filings": 42,
+      "median_wage_usd": 165608.5
+    },
+    {
+      "fy": 2026,
+      "filings": 28,
+      "median_wage_usd": 163803.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 69,
+      "median_wage_usd": 144069.0
+    },
+    {
+      "title": "Electrical Design Engineer",
+      "count": 21,
+      "median_wage_usd": 154100.0
+    },
+    {
+      "title": "Product Development Engineer",
+      "count": 20,
+      "median_wage_usd": 139231.0
+    },
+    {
+      "title": "Product Marketing Manager",
+      "count": 17,
+      "median_wage_usd": 151047.0
+    },
+    {
+      "title": "Mechanical Design Engineer",
+      "count": 15,
+      "median_wage_usd": 145302.0
+    },
+    {
+      "title": "Algorithm Engineer",
+      "count": 15,
+      "median_wage_usd": 139990.0
+    },
+    {
+      "title": "Applications Development Engineer",
+      "count": 14,
+      "median_wage_usd": 120217.0
+    },
+    {
+      "title": "Research Scientist",
+      "count": 12,
+      "median_wage_usd": 171153.0
+    },
+    {
+      "title": "Information Systems Analyst",
+      "count": 10,
+      "median_wage_usd": 161389.66
+    },
+    {
+      "title": "Field Applications Engineer",
+      "count": 10,
+      "median_wage_usd": 107261.06
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 189
+    },
+    {
+      "state": "MI",
+      "county": "WASHTENAW",
+      "count": 49
+    },
+    {
+      "state": "OR",
+      "county": "WASHINGTON",
+      "count": 7
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 6
+    },
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 6
+    },
+    {
+      "state": "ID",
+      "county": "ADA",
+      "count": 3
+    },
+    {
+      "state": "NY",
+      "county": "SARATOGA",
+      "count": 3
+    },
+    {
+      "state": "ID",
+      "county": "BOISE",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 3
+    },
+    {
+      "state": "CA",
+      "county": "SAN DIEGO",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 240
+    },
+    {
+      "state": "MI",
+      "count": 59
+    },
+    {
+      "state": "TX",
+      "count": 13
+    },
+    {
+      "state": "OR",
+      "count": 9
+    },
+    {
+      "state": "AZ",
+      "count": 7
+    },
+    {
+      "state": "ID",
+      "count": 6
+    },
+    {
+      "state": "NY",
+      "count": 4
+    },
+    {
+      "state": "PA",
+      "count": 1
+    },
+    {
+      "state": "VT",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 137533.0,
+    "gap_usd": 7373.0
+  }
+}

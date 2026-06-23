@@ -1,0 +1,81 @@
+{
+  "slug": "abc-fitness-solutions",
+  "canonical_name": "ABC Fitness Solutions LLC",
+  "fein": "71-0602737",
+  "lca_filing_count": 5,
+  "lca_worker_positions": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 175000.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": null
+    },
+    {
+      "fy": 2026,
+      "filings": 4,
+      "median_wage_usd": 175000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Director of Product, CRM",
+      "count": 2,
+      "median_wage_usd": null
+    },
+    {
+      "title": "BI Developer",
+      "count": 1,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "Principal Information Security Engineer",
+      "count": 1,
+      "median_wage_usd": 175000.0
+    },
+    {
+      "title": "Senior Manager, Data Engineering",
+      "count": 1,
+      "median_wage_usd": 190962.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "KINGS",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 3
+    },
+    {
+      "state": "NY",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Information Technology Project Managers",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 175000.0,
+    "gap_usd": 57000.0
+  }
+}

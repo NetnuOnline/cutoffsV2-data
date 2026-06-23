@@ -1,0 +1,199 @@
+{
+  "slug": "ariba",
+  "canonical_name": "Ariba, Inc.",
+  "fein": "77-0439730",
+  "lca_filing_count": 159,
+  "lca_worker_positions": 156,
+  "warn_notice_count": 0,
+  "median_wage_usd": 144000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 35,
+      "median_wage_usd": 127270.08
+    },
+    {
+      "fy": 2021,
+      "filings": 28,
+      "median_wage_usd": 141231.0
+    },
+    {
+      "fy": 2022,
+      "filings": 23,
+      "median_wage_usd": 145212.0
+    },
+    {
+      "fy": 2023,
+      "filings": 27,
+      "median_wage_usd": 141194.0
+    },
+    {
+      "fy": 2024,
+      "filings": 23,
+      "median_wage_usd": 149493.0
+    },
+    {
+      "fy": 2025,
+      "filings": 11,
+      "median_wage_usd": 174914.0
+    },
+    {
+      "fy": 2026,
+      "filings": 9,
+      "median_wage_usd": 157000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Developer",
+      "count": 22,
+      "median_wage_usd": 160671.0
+    },
+    {
+      "title": "Business Processes Senior Consultant",
+      "count": 10,
+      "median_wage_usd": 144450.5
+    },
+    {
+      "title": "Quality Specialist",
+      "count": 9,
+      "median_wage_usd": 131625.12
+    },
+    {
+      "title": "Developer",
+      "count": 9,
+      "median_wage_usd": 123000.0
+    },
+    {
+      "title": "Development Expert",
+      "count": 8,
+      "median_wage_usd": 185649.0
+    },
+    {
+      "title": "Senior DevOps Engineer",
+      "count": 7,
+      "median_wage_usd": 171376.08
+    },
+    {
+      "title": "Senior Quality Specialist",
+      "count": 6,
+      "median_wage_usd": 155488.5
+    },
+    {
+      "title": "Business Processes Principal Consultant",
+      "count": 6,
+      "median_wage_usd": 164501.0
+    },
+    {
+      "title": "Development Manager",
+      "count": 5,
+      "median_wage_usd": 198108.0
+    },
+    {
+      "title": "DevOps Engineer",
+      "count": 4,
+      "median_wage_usd": 131468.04
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 81
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 17
+    },
+    {
+      "state": "PA",
+      "county": "ALLEGHENY",
+      "count": 15
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 14
+    },
+    {
+      "state": "IL",
+      "county": "DUPAGE",
+      "count": 3
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 2
+    },
+    {
+      "state": "PA",
+      "county": "DELAWARE",
+      "count": 2
+    },
+    {
+      "state": "VA",
+      "county": "FAIRFAX",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "SAN MATEO",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 90
+    },
+    {
+      "state": "GA",
+      "count": 18
+    },
+    {
+      "state": "PA",
+      "count": 17
+    },
+    {
+      "state": "TX",
+      "count": 16
+    },
+    {
+      "state": "IL",
+      "count": 9
+    },
+    {
+      "state": "WA",
+      "count": 3
+    },
+    {
+      "state": "FL",
+      "count": 2
+    },
+    {
+      "state": "VA",
+      "count": 2
+    },
+    {
+      "state": "NY",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 158994.0,
+    "gap_usd": 28834.0
+  }
+}

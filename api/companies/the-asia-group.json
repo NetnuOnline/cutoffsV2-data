@@ -1,0 +1,86 @@
+{
+  "slug": "the-asia-group",
+  "canonical_name": "The Asia Group, LLC",
+  "fein": "46-1815247",
+  "lca_filing_count": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 210538.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 200000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 292769.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Partner and Chair of the TAG Australia Practice",
+      "count": 1,
+      "median_wage_usd": 375000.0
+    },
+    {
+      "title": "Managing Director",
+      "count": 1,
+      "median_wage_usd": 210538.0
+    },
+    {
+      "title": "Senior VP & Director for Geopolitics & Communications",
+      "count": 1,
+      "median_wage_usd": 200000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "DC",
+      "county": "DISTRICT OF COLUMBIA",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "DC",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 1,
+    "continuing_denials": 0,
+    "total_approvals": 1,
+    "by_fy": [
+      {
+        "fy": 2017,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1111",
+    "soc_title": "Management Analysts",
+    "market_median_usd": 99000.0,
+    "employer_median_usd": 210538.0,
+    "gap_usd": 111538.0
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "slug": "tech-center-of-america",
+  "canonical_name": "Tech Center Of America",
+  "fein": null,
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 48984.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 48984.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "COMPUTER SYSTEM ENGINEEER/ARCHITECT",
+      "count": 1,
+      "median_wage_usd": 48984.0
+    },
+    {
+      "title": "Computer System Engineer/Architect",
+      "count": 1,
+      "median_wage_usd": 48984.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "ERIE",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Computer Systems Engineers/Architects",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 48984.0,
+    "gap_usd": -69016.0
+  }
+}

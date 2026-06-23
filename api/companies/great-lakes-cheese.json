@@ -1,0 +1,121 @@
+{
+  "slug": "great-lakes-cheese",
+  "canonical_name": "Great Lakes Cheese Co. Inc.",
+  "fein": "34-1015620",
+  "lca_filing_count": 20,
+  "lca_worker_positions": 20,
+  "warn_notice_count": 0,
+  "median_wage_usd": 105273.5,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 4,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 93683.0
+    },
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 98000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 5,
+      "median_wage_usd": 100547.0
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 99200.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Human Resources Development Program - Generalist",
+      "count": 2,
+      "median_wage_usd": 62300.0
+    },
+    {
+      "title": "Senior SAP Business Intelligence Analyst",
+      "count": 2,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "ABAP Programmer/Analyst",
+      "count": 2,
+      "median_wage_usd": 81591.5
+    },
+    {
+      "title": "SAP Basis Administrator",
+      "count": 1,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "Manager, Business Intelligence",
+      "count": 1,
+      "median_wage_usd": 122200.0
+    },
+    {
+      "title": "Manager, SAP Plan-to-Produce",
+      "count": 1,
+      "median_wage_usd": 137904.0
+    },
+    {
+      "title": "Senior HRIS Analyst",
+      "count": 1,
+      "median_wage_usd": 84178.0
+    },
+    {
+      "title": "MES Systems Analyst",
+      "count": 1,
+      "median_wage_usd": 100547.0
+    },
+    {
+      "title": "SAP Functional Analyst \u2013 MM/WM",
+      "count": 1,
+      "median_wage_usd": 98000.0
+    },
+    {
+      "title": "Analyst III, Functional Applications \u201c FICO COPA",
+      "count": 1,
+      "median_wage_usd": 99200.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "OH",
+      "county": "GEAUGA",
+      "count": 13
+    }
+  ],
+  "top_states": [
+    {
+      "state": "OH",
+      "count": 19
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 99200.0,
+    "gap_usd": -30960.0
+  }
+}

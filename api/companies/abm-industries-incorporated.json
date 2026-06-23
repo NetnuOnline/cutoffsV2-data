@@ -1,0 +1,97 @@
+{
+  "slug": "abm-industries-incorporated",
+  "canonical_name": "ABM Industries Incorporated",
+  "fein": "94-1369354",
+  "lca_filing_count": 6,
+  "lca_worker_positions": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 137500.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 117115.0
+    },
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 137500.0
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 160000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Data Engineer",
+      "count": 3,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "title": "Senior AI Engineering Lead",
+      "count": 1,
+      "median_wage_usd": 160000.0
+    },
+    {
+      "title": "Salesforce Architect/Developer",
+      "count": 1,
+      "median_wage_usd": 125460.0
+    },
+    {
+      "title": "Database Administrator",
+      "count": 1,
+      "median_wage_usd": 108770.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 2
+    },
+    {
+      "state": "FL",
+      "county": "DUVAL",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "county": "GUILFORD",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 3
+    },
+    {
+      "state": "NC",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": []
+}

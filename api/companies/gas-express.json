@@ -1,0 +1,56 @@
+{
+  "slug": "gas-express",
+  "canonical_name": "GAS EXPRESS LLC",
+  "fein": "58-2638530",
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 74133.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 55266.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 93000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "DATA ANALYST",
+      "count": 1,
+      "median_wage_usd": 93000.0
+    },
+    {
+      "title": "ACCOUNTANT ",
+      "count": 1,
+      "median_wage_usd": 55266.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1211",
+    "soc_title": "Computer Systems Analysts",
+    "market_median_usd": 103800.0,
+    "employer_median_usd": 93000.0,
+    "gap_usd": -10800.0
+  }
+}

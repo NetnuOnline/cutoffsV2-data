@@ -1,0 +1,60 @@
+{
+  "slug": "ensign-united-states-drilling",
+  "canonical_name": "Ensign United States Drilling Inc.",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "03/27/2020",
+      "effective_date": "03/28/2020",
+      "state": "CA",
+      "workers": 150,
+      "city": "Bakersfield"
+    },
+    {
+      "date": "12/18/2014",
+      "effective_date": "12/15/2014",
+      "state": "CA",
+      "workers": 700,
+      "city": "Bakersfield"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "kern-inyo-mono-consortium-wib",
+      "name": "Kern, Inyo, Mono Consortium WIB",
+      "state": "CA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 0,
+    "continuing_denials": 0,
+    "total_approvals": 1,
+    "by_fy": [
+      {
+        "fy": 2020,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  }
+}

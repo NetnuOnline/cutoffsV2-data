@@ -1,0 +1,68 @@
+{
+  "slug": "lyeric",
+  "canonical_name": "Lyeric LLC",
+  "fein": "84-3361390",
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 82180.8,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 82180.8
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Test Engineer",
+      "count": 1,
+      "median_wage_usd": 102710.40000000001
+    },
+    {
+      "title": "Quantitative Analyst",
+      "count": 1,
+      "median_wage_usd": 61651.200000000004
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 2,
+    "initial_denials": 0,
+    "continuing_approvals": 0,
+    "continuing_denials": 0,
+    "total_approvals": 2,
+    "by_fy": [
+      {
+        "fy": 2023,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      }
+    ]
+  },
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1253",
+    "soc_title": "Software Quality Assurance Analysts and Testers",
+    "market_median_usd": 101800.0,
+    "employer_median_usd": 102710.4,
+    "gap_usd": 910.4
+  }
+}

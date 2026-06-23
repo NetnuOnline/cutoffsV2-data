@@ -1,0 +1,139 @@
+{
+  "slug": "adyen-n-v",
+  "canonical_name": "Adyen N.V.",
+  "fein": "98-1289949",
+  "lca_filing_count": 26,
+  "lca_worker_positions": 26,
+  "warn_notice_count": 0,
+  "median_wage_usd": 123614.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 94016.0
+    },
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 123614.0
+    },
+    {
+      "fy": 2024,
+      "filings": 5,
+      "median_wage_usd": 127754.0
+    },
+    {
+      "fy": 2025,
+      "filings": 7,
+      "median_wage_usd": 128814.0
+    },
+    {
+      "fy": 2026,
+      "filings": 9,
+      "median_wage_usd": 108077.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 13,
+      "median_wage_usd": 108077.0
+    },
+    {
+      "title": "Account Manager",
+      "count": 2,
+      "median_wage_usd": 115169.5
+    },
+    {
+      "title": "Kotlin Engineer",
+      "count": 1,
+      "median_wage_usd": 130707.0
+    },
+    {
+      "title": "Team Lead, Implementation",
+      "count": 1,
+      "median_wage_usd": 200304.0
+    },
+    {
+      "title": "Senior Account Manager",
+      "count": 1,
+      "median_wage_usd": 124609.0
+    },
+    {
+      "title": "Software Developers",
+      "count": 1,
+      "median_wage_usd": 108077.0
+    },
+    {
+      "title": "Product Manager, Partnerships",
+      "count": 1,
+      "median_wage_usd": 124030.0
+    },
+    {
+      "title": "Staff AI Research Engineer",
+      "count": 1,
+      "median_wage_usd": 209082.0
+    },
+    {
+      "title": "Staff Software Engineer",
+      "count": 1,
+      "median_wage_usd": 123614.0
+    },
+    {
+      "title": "Product Specialist",
+      "count": 1,
+      "median_wage_usd": 111530.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 5
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 4
+    },
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 1
+    },
+    {
+      "state": "NM",
+      "county": "SANDOVAL",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 17
+    },
+    {
+      "state": "CA",
+      "count": 4
+    },
+    {
+      "state": "NY",
+      "count": 4
+    },
+    {
+      "state": "NM",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 123614.0,
+    "gap_usd": -6546.0
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "slug": "solution-box",
+  "canonical_name": "Solution Box, LLC",
+  "fein": null,
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 77500.8,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 77500.8
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 77500.8
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Marketing Manager",
+      "count": 2,
+      "median_wage_usd": 77500.8
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "FL",
+      "county": "MIAMI-DADE  (OLD DEF)",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "county": "MIAMI-DADE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "FL",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-2021",
+    "soc_title": "Marketing Managers",
+    "market_median_usd": 157620.0,
+    "employer_median_usd": 77500.8,
+    "gap_usd": -80119.2
+  }
+}

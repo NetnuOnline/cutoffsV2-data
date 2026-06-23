@@ -1,0 +1,48 @@
+{
+  "slug": "jo-ann-omni-fulfillment-center",
+  "canonical_name": "Jo Ann Omni Fulfillment Center",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "OH",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "01/27/2025",
+      "effective_date": "03/31/2025",
+      "state": "OH",
+      "workers": 116,
+      "city": "Middlefield/Geauga"
+    },
+    {
+      "date": "01/27/2025",
+      "effective_date": "03/31/2025",
+      "state": "OH",
+      "workers": 116,
+      "city": "West Jefferson/Madison"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "northeast-ohio",
+      "name": "Northeast Ohio",
+      "state": "OH"
+    },
+    {
+      "slug": "central-ohio",
+      "name": "Central Ohio",
+      "state": "OH"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

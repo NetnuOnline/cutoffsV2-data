@@ -1,0 +1,60 @@
+{
+  "slug": "redapt",
+  "canonical_name": "Redapt, Inc.",
+  "fein": "82-4690882",
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 120276.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 120276.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Architect",
+      "count": 1,
+      "median_wage_usd": 132454.0
+    },
+    {
+      "title": "Cloud Engineer",
+      "count": 1,
+      "median_wage_usd": 108098.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "WA",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1211",
+    "soc_title": "Computer Systems Analysts",
+    "market_median_usd": 103800.0,
+    "employer_median_usd": 132454.0,
+    "gap_usd": 28654.0
+  }
+}

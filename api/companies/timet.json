@@ -1,0 +1,63 @@
+{
+  "slug": "timet",
+  "canonical_name": "TIMET",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 3,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "MO",
+      "count": 1
+    },
+    {
+      "state": "NV",
+      "count": 1
+    },
+    {
+      "state": "OH",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "07/15/2021",
+      "effective_date": "09/14/2021",
+      "state": "MO",
+      "workers": 42,
+      "city": "Wentzville"
+    },
+    {
+      "date": "07/28/2020",
+      "effective_date": "07/27/2020",
+      "state": "NV",
+      "workers": 192,
+      "city": "Henderson, Clark County"
+    },
+    {
+      "date": "06/24/2020",
+      "effective_date": "04/12/2020",
+      "state": "OH",
+      "workers": 200,
+      "city": "Toronto/Jefferson"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "st-charles-county-region-wib",
+      "name": "St. Charles County Region WIB",
+      "state": "MO"
+    },
+    {
+      "slug": "southeast-ohio",
+      "name": "Southeast Ohio",
+      "state": "OH"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

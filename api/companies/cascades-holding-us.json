@@ -1,0 +1,57 @@
+{
+  "slug": "cascades-holding-us",
+  "canonical_name": "Cascades Holding US Inc.",
+  "fein": null,
+  "lca_filing_count": 1,
+  "warn_notice_count": 1,
+  "median_wage_usd": 110000.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 110000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Process Lead",
+      "count": 1,
+      "median_wage_usd": 110000.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IA",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IA",
+      "county": "WRIGHT",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "07/08/2025",
+      "effective_date": "10/06/2025",
+      "state": "NY",
+      "workers": 103,
+      "city": "Niagara Falls"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "niagara-county-lwia",
+      "name": "Niagara County LWIA",
+      "state": "NY"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "lca_worker_positions": 1,
+  "top_socs": [],
+  "lca_periods": []
+}

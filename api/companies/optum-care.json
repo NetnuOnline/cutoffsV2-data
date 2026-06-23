@@ -1,0 +1,179 @@
+{
+  "slug": "optum-care",
+  "canonical_name": "Optum Care, Inc.",
+  "fein": "83-1959511",
+  "lca_filing_count": 16,
+  "lca_worker_positions": 16,
+  "warn_notice_count": 0,
+  "median_wage_usd": 132496.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 100505.5
+    },
+    {
+      "fy": 2021,
+      "filings": 3,
+      "median_wage_usd": 180000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 120992.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 120754.0
+    },
+    {
+      "fy": 2025,
+      "filings": 6,
+      "median_wage_usd": 129969.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 331573.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Business Systems Analyst",
+      "count": 2,
+      "median_wage_usd": 103406.5
+    },
+    {
+      "title": "Physician (20012.4673.1)",
+      "count": 1,
+      "median_wage_usd": 220000.0
+    },
+    {
+      "title": "Physician - Radiologist",
+      "count": 1,
+      "median_wage_usd": 520000.0
+    },
+    {
+      "title": "Senior Data Engineer",
+      "count": 1,
+      "median_wage_usd": 121846.0
+    },
+    {
+      "title": "DBA Developer (20012.4117)",
+      "count": 1,
+      "median_wage_usd": 106059.0
+    },
+    {
+      "title": "Manager Healthcare Economics",
+      "count": 1,
+      "median_wage_usd": 120992.0
+    },
+    {
+      "title": "Software Engineer (20012.4089)",
+      "count": 1,
+      "median_wage_usd": 94952.0
+    },
+    {
+      "title": "Senior Healthcare Economics Analyst",
+      "count": 1,
+      "median_wage_usd": 83000.0
+    },
+    {
+      "title": "Senior Quality  Engineer",
+      "count": 1,
+      "median_wage_usd": 143146.0
+    },
+    {
+      "title": "Senior Application Architect Managed Care",
+      "count": 1,
+      "median_wage_usd": 152485.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 2
+    },
+    {
+      "state": "NV",
+      "county": "CLARK",
+      "count": 2
+    },
+    {
+      "state": "WA",
+      "county": "SNOHOMISH",
+      "count": 2
+    },
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 1
+    },
+    {
+      "state": "CT",
+      "county": "HARTFORD CITY",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SAN BERNARDINO",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 6
+    },
+    {
+      "state": "WA",
+      "count": 2
+    },
+    {
+      "state": "NV",
+      "count": 2
+    },
+    {
+      "state": "CT",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "count": 1
+    },
+    {
+      "state": "AZ",
+      "count": 1
+    },
+    {
+      "state": "CO",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "DC",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 138392.5,
+    "gap_usd": 8232.5
+  }
+}

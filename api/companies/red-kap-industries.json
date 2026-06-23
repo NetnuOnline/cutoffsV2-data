@@ -1,0 +1,52 @@
+{
+  "slug": "red-kap-industries",
+  "canonical_name": "Red Kap Industries",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "KY",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "11/16/1998",
+      "effective_date": "11/16/1998",
+      "state": "KY",
+      "workers": 146,
+      "city": "Tompkinsville, KY"
+    },
+    {
+      "date": "01/12/1996",
+      "effective_date": "01/12/1996",
+      "state": "GA",
+      "workers": 107,
+      "city": "Vienna"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "middle-flint-wib",
+      "name": "Middle Flint WIB",
+      "state": "GA"
+    },
+    {
+      "slug": "k-barren-river-wib",
+      "name": "K Barren River WIB",
+      "state": "KY"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

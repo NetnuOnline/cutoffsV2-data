@@ -1,0 +1,82 @@
+{
+  "slug": "m-digital",
+  "canonical_name": "M Digital LLC",
+  "fein": "85-3798891",
+  "lca_filing_count": 9,
+  "lca_worker_positions": 9,
+  "warn_notice_count": 0,
+  "median_wage_usd": 94682.0,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 8,
+      "median_wage_usd": 93631.5
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 94682.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Systems Engineer",
+      "count": 5,
+      "median_wage_usd": 94682.0
+    },
+    {
+      "title": "Security Architect",
+      "count": 1,
+      "median_wage_usd": 86403.0
+    },
+    {
+      "title": "SYSTEMS ENGINEER",
+      "count": 1,
+      "median_wage_usd": 92581.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 103210.0
+    },
+    {
+      "title": "Computer Systems Engineer/ Architect",
+      "count": 1,
+      "median_wage_usd": 94682.0
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 3
+    },
+    {
+      "state": "FL",
+      "count": 2
+    },
+    {
+      "state": "WA",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Computer Systems Engineers/Architects",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 94682.0,
+    "gap_usd": -23318.0
+  }
+}

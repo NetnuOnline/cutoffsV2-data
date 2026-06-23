@@ -1,0 +1,65 @@
+{
+  "slug": "parallon-enterprises",
+  "canonical_name": "Parallon Enterprises, LLC",
+  "fein": "30-0705198",
+  "lca_filing_count": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 89918.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 84947.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 106017.5
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Consulting Manager Strategic Workflow Optimization",
+      "count": 1,
+      "median_wage_usd": 122117.0
+    },
+    {
+      "title": "Business Analyst I",
+      "count": 1,
+      "median_wage_usd": 84947.0
+    },
+    {
+      "title": "Manager DRT Operations",
+      "count": 1,
+      "median_wage_usd": 89918.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CT",
+      "county": "FARMINGTON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TN",
+      "count": 2
+    },
+    {
+      "state": "CT",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 122117.0,
+    "gap_usd": -8043.0
+  }
+}

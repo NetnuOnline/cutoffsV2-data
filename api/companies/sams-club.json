@@ -1,0 +1,592 @@
+{
+  "slug": "sams-club",
+  "canonical_name": "Sam's Club",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 66,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 9
+    },
+    {
+      "state": "MI",
+      "count": 5
+    },
+    {
+      "state": "TX",
+      "count": 5
+    },
+    {
+      "state": "NY",
+      "count": 4
+    },
+    {
+      "state": "CA",
+      "count": 4
+    },
+    {
+      "state": "AZ",
+      "count": 4
+    },
+    {
+      "state": "NJ",
+      "count": 3
+    },
+    {
+      "state": "FL",
+      "count": 3
+    },
+    {
+      "state": "AK",
+      "count": 3
+    },
+    {
+      "state": "WA",
+      "count": 3
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "03/16/2018",
+      "effective_date": "03/16/2018",
+      "state": "GA",
+      "workers": 196,
+      "city": "Lithonia"
+    },
+    {
+      "date": "01/26/2018",
+      "effective_date": "01/26/2018",
+      "state": "NJ",
+      "workers": 196,
+      "city": "Princeton"
+    },
+    {
+      "date": "01/26/2018",
+      "effective_date": "01/26/2018",
+      "state": "MI",
+      "workers": 172,
+      "city": "Lansing, Michigan"
+    },
+    {
+      "date": "01/22/2018",
+      "effective_date": "03/16/2018",
+      "state": "AL",
+      "workers": 136,
+      "city": "Irondale"
+    },
+    {
+      "date": "01/16/2018",
+      "effective_date": "03/16/2018",
+      "state": "WI",
+      "workers": 129,
+      "city": "Madison"
+    },
+    {
+      "date": "01/11/2018",
+      "effective_date": "04/13/2018",
+      "state": "NY",
+      "workers": 114,
+      "city": "Jamestown"
+    },
+    {
+      "date": "01/11/2018",
+      "effective_date": "04/13/2018",
+      "state": "NY",
+      "workers": 151,
+      "city": "Syracuse"
+    },
+    {
+      "date": "01/11/2018",
+      "effective_date": "04/13/2018",
+      "state": "NY",
+      "workers": 148,
+      "city": "Rochester"
+    },
+    {
+      "date": "01/11/2018",
+      "effective_date": "04/13/2018",
+      "state": "NY",
+      "workers": 144,
+      "city": "Rochester"
+    },
+    {
+      "date": "01/11/2018",
+      "effective_date": "04/13/2018",
+      "state": "MD",
+      "workers": 169,
+      "city": "Owings Mills"
+    },
+    {
+      "date": "01/11/2018",
+      "effective_date": "03/16/2018",
+      "state": "WI",
+      "workers": 165,
+      "city": "West Allis"
+    },
+    {
+      "date": "01/11/2018",
+      "effective_date": "03/16/2018",
+      "state": "TX",
+      "workers": 163,
+      "city": "San Antonio"
+    },
+    {
+      "date": "01/11/2018",
+      "effective_date": "03/16/2018",
+      "state": "TX",
+      "workers": 170,
+      "city": "Houston"
+    },
+    {
+      "date": "01/11/2018",
+      "effective_date": "03/16/2018",
+      "state": "TN",
+      "workers": 162,
+      "city": "Shelby County"
+    },
+    {
+      "date": "01/11/2018",
+      "effective_date": "03/16/2018",
+      "state": "TN",
+      "workers": 132,
+      "city": "Davidson County"
+    },
+    {
+      "date": "01/11/2018",
+      "effective_date": "03/16/2018",
+      "state": "OH",
+      "workers": 142,
+      "city": "Loveland/Clermont"
+    },
+    {
+      "date": "01/11/2018",
+      "effective_date": "03/16/2018",
+      "state": "OH",
+      "workers": 143,
+      "city": "Cincinnati/Hamilton"
+    },
+    {
+      "date": "01/11/2018",
+      "effective_date": "03/16/2018",
+      "state": "FL",
+      "workers": 173,
+      "city": "Fern Park"
+    },
+    {
+      "date": "01/11/2018",
+      "effective_date": "03/16/2018",
+      "state": "FL",
+      "workers": 191,
+      "city": "Lantana"
+    },
+    {
+      "date": "01/11/2018",
+      "effective_date": "03/16/2018",
+      "state": "FL",
+      "workers": 148,
+      "city": "Tampa"
+    },
+    {
+      "date": "01/11/2018",
+      "effective_date": "03/16/2018",
+      "state": "CT",
+      "workers": 151,
+      "city": "Manchester"
+    },
+    {
+      "date": "01/11/2018",
+      "effective_date": "03/16/2018",
+      "state": "CT",
+      "workers": 155,
+      "city": "Orange"
+    },
+    {
+      "date": "01/11/2018",
+      "effective_date": "03/16/2018",
+      "state": "CA",
+      "workers": 158,
+      "city": "Rowland Heights"
+    },
+    {
+      "date": "01/11/2018",
+      "effective_date": "03/16/2018",
+      "state": "AK",
+      "workers": 181,
+      "city": "Anchorage on Old Seward Hwy."
+    },
+    {
+      "date": "01/11/2018",
+      "effective_date": "03/16/2018",
+      "state": "AK",
+      "workers": 167,
+      "city": "Anchorage on Muldoon Road"
+    },
+    {
+      "date": "01/11/2018",
+      "effective_date": "03/16/2018",
+      "state": "AK",
+      "workers": 177,
+      "city": "Fairbanks"
+    },
+    {
+      "date": "01/11/2018",
+      "effective_date": "03/16/2018",
+      "state": "WA",
+      "workers": 148,
+      "city": "Seattle"
+    },
+    {
+      "date": "01/11/2018",
+      "effective_date": "03/16/2018",
+      "state": "WA",
+      "workers": 179,
+      "city": "Renton"
+    },
+    {
+      "date": "01/11/2018",
+      "effective_date": "03/16/2018",
+      "state": "WA",
+      "workers": 168,
+      "city": "Auburn"
+    },
+    {
+      "date": "01/11/2018",
+      "effective_date": "03/16/2018",
+      "state": "VA",
+      "workers": 163,
+      "city": "Richmond, VA"
+    },
+    {
+      "date": "01/11/2018",
+      "effective_date": "03/16/2018",
+      "state": "VA",
+      "workers": 140,
+      "city": "Norfolk, VA"
+    },
+    {
+      "date": "01/11/2018",
+      "effective_date": "03/01/2018",
+      "state": "IL",
+      "workers": 167,
+      "city": "Romeoville"
+    },
+    {
+      "date": "01/11/2018",
+      "effective_date": "03/01/2018",
+      "state": "IL",
+      "workers": 155,
+      "city": "Moline"
+    },
+    {
+      "date": "01/11/2018",
+      "effective_date": "03/01/2018",
+      "state": "IL",
+      "workers": 191,
+      "city": "Streamwood"
+    },
+    {
+      "date": "01/11/2018",
+      "effective_date": "03/01/2018",
+      "state": "IL",
+      "workers": 166,
+      "city": "21430 S Cicero Ave.  Matteson, IL 60443"
+    },
+    {
+      "date": "01/11/2018",
+      "effective_date": "03/01/2018",
+      "state": "IL",
+      "workers": 170,
+      "city": "Naperville"
+    },
+    {
+      "date": "01/11/2018",
+      "effective_date": "03/01/2018",
+      "state": "IL",
+      "workers": 150,
+      "city": "Batavia"
+    },
+    {
+      "date": "01/11/2018",
+      "effective_date": "01/26/2018",
+      "state": "IN",
+      "workers": 110,
+      "city": "Goshen"
+    },
+    {
+      "date": "01/11/2018",
+      "effective_date": "01/26/2018",
+      "state": "IN",
+      "workers": 157,
+      "city": "Indianapolis"
+    },
+    {
+      "date": "01/11/2018",
+      "effective_date": "01/26/2018",
+      "state": "IN",
+      "workers": 152,
+      "city": "Indianapolis"
+    },
+    {
+      "date": "01/11/2018",
+      "effective_date": "01/01/2018",
+      "state": "IL",
+      "workers": 103,
+      "city": "Wheeling"
+    },
+    {
+      "date": "01/11/2018",
+      "effective_date": "03/16/2016",
+      "state": "TX",
+      "workers": 155,
+      "city": "New Caney"
+    },
+    {
+      "date": "01/11/2018",
+      "effective_date": "01/11/2018",
+      "state": "MI",
+      "workers": 158,
+      "city": "Farmington Hills"
+    },
+    {
+      "date": "01/11/2018",
+      "effective_date": "01/11/2018",
+      "state": "MI",
+      "workers": 172,
+      "city": "Lansing"
+    },
+    {
+      "date": "01/11/2018",
+      "effective_date": "01/11/2018",
+      "state": "AZ",
+      "workers": 129,
+      "city": "Scottsdale"
+    },
+    {
+      "date": "01/11/2018",
+      "effective_date": "01/11/2018",
+      "state": "AZ",
+      "workers": 137,
+      "city": "Prescott Valley"
+    },
+    {
+      "date": "01/11/2018",
+      "effective_date": "01/11/2018",
+      "state": "AZ",
+      "workers": 152,
+      "city": "2 - Gila-Pinal Local Workforce Investment Board"
+    },
+    {
+      "date": "01/11/2018",
+      "effective_date": "01/11/2018",
+      "state": "AZ",
+      "workers": 150,
+      "city": "Chandler"
+    },
+    {
+      "date": "01/11/2018",
+      "effective_date": "01/11/2018",
+      "state": "NJ",
+      "workers": 144,
+      "city": "Budd Lake"
+    },
+    {
+      "date": "01/11/2018",
+      "effective_date": "01/11/2018",
+      "state": "NJ",
+      "workers": 187,
+      "city": "Linden"
+    },
+    {
+      "date": "01/11/2018",
+      "effective_date": "01/26/2018",
+      "state": "NC",
+      "workers": 149,
+      "city": "5085 Dawn Drive, Lumberton"
+    },
+    {
+      "date": "01/11/2018",
+      "effective_date": "03/16/2018",
+      "state": "CA",
+      "workers": 162,
+      "city": "Sacramento"
+    },
+    {
+      "date": "01/11/2018",
+      "effective_date": "03/16/2018",
+      "state": "CA",
+      "workers": 178,
+      "city": "San Fernando"
+    },
+    {
+      "date": "01/11/2018",
+      "effective_date": "03/16/2018",
+      "state": "CA",
+      "workers": 158,
+      "city": "Stanton"
+    },
+    {
+      "date": "01/11/2018",
+      "effective_date": "01/26/2018",
+      "state": "NC",
+      "workers": 187,
+      "city": "1101 Shiloh Glenn Drive, Morrisville"
+    },
+    {
+      "date": "01/11/2018",
+      "effective_date": "03/16/2018",
+      "state": "LA",
+      "workers": 176,
+      "city": "Baton Rouge"
+    },
+    {
+      "date": "01/11/2018",
+      "effective_date": "01/11/2018",
+      "state": "MI",
+      "workers": 158,
+      "city": "Farmington Hills, Michigan"
+    },
+    {
+      "date": "01/10/2018",
+      "effective_date": "03/16/2018",
+      "state": "TX",
+      "workers": 145,
+      "city": "Houston"
+    },
+    {
+      "date": "06/21/2017",
+      "effective_date": "09/01/2017",
+      "state": "IL",
+      "workers": 158,
+      "city": "Woodridge"
+    },
+    {
+      "date": "04/08/2016",
+      "effective_date": "02/05/2016",
+      "state": "RI",
+      "workers": 131,
+      "city": "Warwick"
+    },
+    {
+      "date": "02/05/2016",
+      "effective_date": "02/05/2016",
+      "state": "RI",
+      "workers": 131,
+      "city": "Warwick"
+    },
+    {
+      "date": "01/15/2016",
+      "effective_date": "01/15/2016",
+      "state": "MI",
+      "workers": 122,
+      "city": "Waterford"
+    },
+    {
+      "date": "01/10/2010",
+      "effective_date": "03/11/2010",
+      "state": "TX",
+      "workers": 130,
+      "city": "Houston"
+    },
+    {
+      "date": "01/10/2010",
+      "effective_date": "03/11/2010",
+      "state": "ID",
+      "workers": 135,
+      "city": "Nampa"
+    },
+    {
+      "date": "01/10/2010",
+      "effective_date": "01/01/2010",
+      "state": "IL",
+      "workers": 146,
+      "city": "Rolling Meadows"
+    },
+    {
+      "date": "12/31/1994",
+      "effective_date": "12/31/1994",
+      "state": "GA",
+      "workers": 119,
+      "city": "Norcross"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "alaska-wib",
+      "name": "Alaska WIB",
+      "state": "AK"
+    },
+    {
+      "slug": "yavapai-county-lwib",
+      "name": "Yavapai County LWIB",
+      "state": "AZ"
+    },
+    {
+      "slug": "dekalb-county-wib",
+      "name": "DeKalb County WIB",
+      "state": "GA"
+    },
+    {
+      "slug": "wdb-of-rock-island-henry-mercer",
+      "name": "WDB of Rock Island-Henry-Mercer",
+      "state": "IL"
+    },
+    {
+      "slug": "economic-growth-region-2",
+      "name": "Economic Growth Region 2",
+      "state": "IN"
+    },
+    {
+      "slug": "baltimore-county-wia",
+      "name": "Baltimore County WIA",
+      "state": "MD"
+    },
+    {
+      "slug": "capital-area-michigan-works",
+      "name": "Capital Area Michigan Works!",
+      "state": "MI"
+    },
+    {
+      "slug": "mercer-wib",
+      "name": "Mercer WIB",
+      "state": "NJ"
+    },
+    {
+      "slug": "union-wib",
+      "name": "Union WIB",
+      "state": "NJ"
+    },
+    {
+      "slug": "onondaga-county-lwia",
+      "name": "Onondaga County LWIA",
+      "state": "NY"
+    },
+    {
+      "slug": "chautauqua-county-lwia",
+      "name": "Chautauqua County LWIA",
+      "state": "NY"
+    },
+    {
+      "slug": "monroe-county-lwia",
+      "name": "Monroe County LWIA",
+      "state": "NY"
+    },
+    {
+      "slug": "southwest-ohio",
+      "name": "Southwest Ohio",
+      "state": "OH"
+    },
+    {
+      "slug": "workforce-partnership-of-greater-rhode-island",
+      "name": "Workforce Partnership of Greater Rhode Island",
+      "state": "RI"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

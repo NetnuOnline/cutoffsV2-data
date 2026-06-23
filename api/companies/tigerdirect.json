@@ -1,0 +1,65 @@
+{
+  "slug": "tigerdirect",
+  "canonical_name": "TigerDirect, Inc.",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 4,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 2
+    },
+    {
+      "state": "GA",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "01/17/2016",
+      "effective_date": "01/17/2016",
+      "state": "GA",
+      "workers": 30,
+      "city": "Jefferson"
+    },
+    {
+      "date": "11/23/2015",
+      "effective_date": "01/17/2016",
+      "state": "FL",
+      "workers": 73,
+      "city": "Miami"
+    },
+    {
+      "date": "03/10/2015",
+      "effective_date": "05/01/2015",
+      "state": "IL",
+      "workers": 38,
+      "city": "Orland Park"
+    },
+    {
+      "date": "03/10/2015",
+      "effective_date": "05/01/2015",
+      "state": "IL",
+      "workers": 41,
+      "city": "Hoffman Estates"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "northeast-wib-ga",
+      "name": "Northeast WIB",
+      "state": "GA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

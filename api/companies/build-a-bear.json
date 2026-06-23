@@ -1,0 +1,91 @@
+{
+  "slug": "build-a-bear",
+  "canonical_name": "Build A Bear",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 1,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "ME",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "01/04/2018",
+      "effective_date": "01/04/2018",
+      "state": "ME",
+      "workers": 10,
+      "city": "1 - Northeastern Workforce Board"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2014-10-14",
+        "formType": "8-K",
+        "accessionNumber": "0001437749-14-018262",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001113809&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2014-09-15",
+        "formType": "8-K",
+        "accessionNumber": "0001437749-14-017028",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001113809&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2008-09-16",
+        "formType": "8-K",
+        "accessionNumber": "0001157523-08-007411",
+        "items": [
+          "2.05",
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities",
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001113809&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2008-03-26",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-08-065936",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001113809&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 4,
+    "itemCounts": {
+      "5.02": 3,
+      "2.05": 1,
+      "2.06": 1
+    },
+    "latestFilingDate": "2014-10-14",
+    "earliestFilingDate": "2008-03-26"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

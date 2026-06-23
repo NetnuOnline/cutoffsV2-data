@@ -1,0 +1,184 @@
+{
+  "slug": "united-parcel-service-general-services",
+  "canonical_name": "United Parcel Service General Services, Co.",
+  "fein": "13-1857959",
+  "lca_filing_count": 106,
+  "lca_worker_positions": 132,
+  "warn_notice_count": 0,
+  "median_wage_usd": 135000.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 20,
+      "median_wage_usd": 118122.0
+    },
+    {
+      "fy": 2024,
+      "filings": 16,
+      "median_wage_usd": 124530.0
+    },
+    {
+      "fy": 2025,
+      "filings": 51,
+      "median_wage_usd": 142800.0
+    },
+    {
+      "fy": 2026,
+      "filings": 18,
+      "median_wage_usd": 132192.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Software Development Engineer",
+      "count": 44,
+      "median_wage_usd": 140100.0
+    },
+    {
+      "title": "Lead Software Development Engineer",
+      "count": 10,
+      "median_wage_usd": 160680.0
+    },
+    {
+      "title": "Senior Applications Developer",
+      "count": 8,
+      "median_wage_usd": 118297.98000000001
+    },
+    {
+      "title": "Senior Software Quality Engineer",
+      "count": 6,
+      "median_wage_usd": 119406.0
+    },
+    {
+      "title": "Manager, Software Engineering",
+      "count": 6,
+      "median_wage_usd": 184515.0
+    },
+    {
+      "title": "Application Architect",
+      "count": 2,
+      "median_wage_usd": 180293.22
+    },
+    {
+      "title": "Senior Database Analyst",
+      "count": 2,
+      "median_wage_usd": 122448.0
+    },
+    {
+      "title": "Senior Systems Programming Analyst",
+      "count": 2,
+      "median_wage_usd": 115488.0
+    },
+    {
+      "title": "Senior Software  Engineer",
+      "count": 2,
+      "median_wage_usd": 145000.0
+    },
+    {
+      "title": "Product Manager",
+      "count": 2,
+      "median_wage_usd": 88296.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 15
+    },
+    {
+      "state": "NJ",
+      "county": "MORRIS",
+      "count": 13
+    },
+    {
+      "state": "NJ",
+      "county": "BERGEN",
+      "count": 4
+    },
+    {
+      "state": "KY",
+      "county": "JEFFERSON",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "county": "DUPAGE",
+      "count": 1
+    },
+    {
+      "state": "MD",
+      "county": "BALTIMORE",
+      "count": 1
+    },
+    {
+      "state": "CO",
+      "county": "ARAPAHOE",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "county": "LACKAWANNA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 64
+    },
+    {
+      "state": "GA",
+      "count": 22
+    },
+    {
+      "state": "TX",
+      "count": 7
+    },
+    {
+      "state": "MD",
+      "count": 4
+    },
+    {
+      "state": "CA",
+      "count": 3
+    },
+    {
+      "state": "KY",
+      "count": 3
+    },
+    {
+      "state": "CO",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 140040.0,
+    "gap_usd": 9880.0
+  }
+}

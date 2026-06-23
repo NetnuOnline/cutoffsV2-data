@@ -1,0 +1,136 @@
+{
+  "slug": "dept-of-corrections",
+  "canonical_name": "Dept. of Corrections",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 1,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "KS",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "02/08/2001",
+      "effective_date": "02/08/2001",
+      "state": "KS",
+      "workers": 21,
+      "city": "2 - Workforce Investment Area II"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2018-01-05",
+        "formType": "8-K",
+        "accessionNumber": "0001628280-18-000148",
+        "items": [
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000765880&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2017-07-11",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-17-225619",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000765880&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2015-09-16",
+        "formType": "8-K",
+        "accessionNumber": "0001104659-15-065441",
+        "items": [
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000765880&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2015-06-24",
+        "formType": "8-K",
+        "accessionNumber": "0001104659-15-047286",
+        "items": [
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000765880&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2015-03-30",
+        "formType": "8-K",
+        "accessionNumber": "0001104659-15-023655",
+        "items": [
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000765880&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2014-12-22",
+        "formType": "8-K",
+        "accessionNumber": "0001104659-14-088083",
+        "items": [
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000765880&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2010-10-14",
+        "formType": "8-K",
+        "accessionNumber": "0001104659-10-052335",
+        "items": [
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000765880&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2010-01-11",
+        "formType": "8-K",
+        "accessionNumber": "0001104659-10-000980",
+        "items": [
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000765880&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 8,
+    "itemCounts": {
+      "2.06": 7,
+      "5.02": 1
+    },
+    "latestFilingDate": "2018-01-05",
+    "earliestFilingDate": "2010-01-11"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

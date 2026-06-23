@@ -1,0 +1,216 @@
+{
+  "slug": "wellsky",
+  "canonical_name": "WellSky Corporation",
+  "fein": "11-2209324",
+  "lca_filing_count": 24,
+  "warn_notice_count": 0,
+  "median_wage_usd": 112397.17,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 133000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 15,
+      "median_wage_usd": 109794.33
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 157000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 108826.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 9,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "title": "Sr. Software Engineer",
+      "count": 3,
+      "median_wage_usd": 109298.41
+    },
+    {
+      "title": "Staff Data Engineer",
+      "count": 2,
+      "median_wage_usd": 157072.0
+    },
+    {
+      "title": "Sr. Data Warehouse Engineer",
+      "count": 2,
+      "median_wage_usd": 123000.14
+    },
+    {
+      "title": "Staff Software Engineer",
+      "count": 2,
+      "median_wage_usd": 131079.0
+    },
+    {
+      "title": "Sr. Data Engineer",
+      "count": 2,
+      "median_wage_usd": 126000.0
+    },
+    {
+      "title": "Principal Database Administrator",
+      "count": 1,
+      "median_wage_usd": 133000.0
+    },
+    {
+      "title": "Database Administrator",
+      "count": 1,
+      "median_wage_usd": 104273.23
+    },
+    {
+      "title": "Data Warehouse Engineer",
+      "count": 1,
+      "median_wage_usd": 109794.33
+    },
+    {
+      "title": "Sr. Integration Engineer",
+      "count": 1,
+      "median_wage_usd": 135000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 7
+    },
+    {
+      "state": "TN",
+      "county": "WILLIAMSON",
+      "count": 5
+    },
+    {
+      "state": "KS",
+      "county": "JOHNSON",
+      "count": 3
+    },
+    {
+      "state": "MA",
+      "county": "BOSTON CITY",
+      "count": 3
+    },
+    {
+      "state": "MO",
+      "county": "ST LOUIS",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "county": "DEKALB",
+      "count": 1
+    },
+    {
+      "state": "CT",
+      "county": "MANCHESTER",
+      "count": 1
+    },
+    {
+      "state": "TN",
+      "county": "MAURY",
+      "count": 1
+    },
+    {
+      "state": "OH",
+      "county": "FRANKLIN",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "county": "WASHTENAW",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 7
+    },
+    {
+      "state": "TN",
+      "count": 6
+    },
+    {
+      "state": "KS",
+      "count": 3
+    },
+    {
+      "state": "MA",
+      "count": 3
+    },
+    {
+      "state": "MO",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "count": 1
+    },
+    {
+      "state": "OH",
+      "count": 1
+    },
+    {
+      "state": "CT",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 22,
+    "continuing_denials": 0,
+    "total_approvals": 23,
+    "by_fy": [
+      {
+        "fy": 2020,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 18,
+        "continuing_denials": 0,
+        "total_approvals": 18
+      }
+    ]
+  },
+  "lca_worker_positions": 20,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Engineers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 109298.41,
+    "gap_usd": -20861.59
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "slug": "cma-cgm-america",
+  "canonical_name": "CMA CGM AMERICA LLC",
+  "fein": "22-3522528",
+  "lca_filing_count": 8,
+  "lca_worker_positions": 8,
+  "warn_notice_count": 0,
+  "median_wage_usd": 105950.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 51200.0
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 96900.0
+    },
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 152110.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 115126.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "LEAD DATA ENGINEER",
+      "count": 1,
+      "median_wage_usd": 148523.0
+    },
+    {
+      "title": "PRICING ANALYST",
+      "count": 1,
+      "median_wage_usd": 51200.0
+    },
+    {
+      "title": "Business Process Manager",
+      "count": 1,
+      "median_wage_usd": 96900.0
+    },
+    {
+      "title": "Maritime Business Development Sr. Director, LATAM Region",
+      "count": 1,
+      "median_wage_usd": 152110.0
+    },
+    {
+      "title": "Sr. Development Analyst",
+      "count": 1,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "title": "Senior Trade Analyst",
+      "count": 1,
+      "median_wage_usd": 70500.0
+    },
+    {
+      "title": "LATAM Corporate Strategy, Sr. Director",
+      "count": 1,
+      "median_wage_usd": 152110.0
+    },
+    {
+      "title": "SENIOR TRADE ANALYST",
+      "count": 1,
+      "median_wage_usd": 81730.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "FL",
+      "county": "MIAMI-DADE",
+      "count": 4
+    },
+    {
+      "state": "VA",
+      "county": "NORFOLK CITY",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "VA",
+      "count": 4
+    },
+    {
+      "state": "FL",
+      "count": 4
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-2021",
+    "soc_title": "Marketing Managers",
+    "market_median_usd": 157620.0,
+    "employer_median_usd": 152110.0,
+    "gap_usd": -5510.0
+  }
+}

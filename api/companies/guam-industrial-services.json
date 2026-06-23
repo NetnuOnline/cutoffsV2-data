@@ -1,0 +1,71 @@
+{
+  "slug": "guam-industrial-services",
+  "canonical_name": "GUAM INDUSTRIAL SERVICES, INC.",
+  "fein": "66-0545500",
+  "lca_filing_count": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 35000.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 35000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 35000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "ACCOUNTANT",
+      "count": 2,
+      "median_wage_usd": 35000.0
+    },
+    {
+      "title": "HAZARDOUS MATERIALS REMOVAL WORKER",
+      "count": 1,
+      "median_wage_usd": 35000.0
+    },
+    {
+      "title": "PROJECT MANAGER",
+      "count": 1,
+      "median_wage_usd": 40000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "GU",
+      "county": "TAMUNING",
+      "count": 2
+    },
+    {
+      "state": "GU",
+      "county": "NAVAL STATION",
+      "count": 1
+    },
+    {
+      "state": "GU",
+      "county": "SUMAY",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "GU",
+      "count": 4
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 10,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-2011",
+    "soc_title": "Accountants and Auditors",
+    "market_median_usd": 79000.0,
+    "employer_median_usd": 35000.0,
+    "gap_usd": -44000.0
+  }
+}

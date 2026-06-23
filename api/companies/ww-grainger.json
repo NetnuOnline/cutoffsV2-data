@@ -1,0 +1,73 @@
+{
+  "slug": "ww-grainger",
+  "canonical_name": "W.W. Grainger, Inc.",
+  "fein": null,
+  "lca_filing_count": 13,
+  "warn_notice_count": 1,
+  "median_wage_usd": 160500,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 0,
+      "median_wage_usd": null
+    },
+    {
+      "fy": 2026,
+      "filings": 0,
+      "median_wage_usd": null
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Data Scientist",
+      "count": 0,
+      "median_wage_usd": null
+    },
+    {
+      "title": "Data Scientist",
+      "count": 0,
+      "median_wage_usd": null
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "04/30/2001",
+      "effective_date": "06/01/2001",
+      "state": "IL",
+      "workers": 100,
+      "city": "Lincolnshire"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2009-02-11",
+        "formType": "8-K",
+        "accessionNumber": "0000277135-09-000003",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000277135&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 1,
+    "itemCounts": {
+      "2.05": 1
+    },
+    "latestFilingDate": "2009-02-11",
+    "earliestFilingDate": "2009-02-11"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

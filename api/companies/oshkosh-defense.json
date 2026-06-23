@@ -1,0 +1,104 @@
+{
+  "slug": "oshkosh-defense",
+  "canonical_name": "Oshkosh Defense LLC",
+  "fein": "47-1133037",
+  "lca_filing_count": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 113235.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 113235.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 147077.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Sr. Chief Engineer",
+      "count": 1,
+      "median_wage_usd": 181813.0
+    },
+    {
+      "title": "Sr. Functional Safety Engineer",
+      "count": 1,
+      "median_wage_usd": 113235.0
+    },
+    {
+      "title": "Project Engineer - Software",
+      "count": 1,
+      "median_wage_usd": 112341.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MI",
+      "county": "OAKLAND",
+      "count": 1
+    },
+    {
+      "state": "SC",
+      "county": "SPARTANBURG",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "county": "CHESTER",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MI",
+      "count": 1
+    },
+    {
+      "state": "SC",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 2,
+    "continuing_denials": 0,
+    "total_approvals": 2,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Information Technology Project Managers",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 112341.0,
+    "gap_usd": -5659.0
+  }
+}

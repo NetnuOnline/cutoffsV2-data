@@ -1,0 +1,55 @@
+{
+  "slug": "avalere-health-us",
+  "canonical_name": "Avalere Health US, Inc",
+  "fein": "03-0452360",
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 118432.5,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 118432.5
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Consultant",
+      "count": 1,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "title": "Consultant I",
+      "count": 1,
+      "median_wage_usd": 96865.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "WA",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1111",
+    "soc_title": "Management Analysts",
+    "market_median_usd": 99000.0,
+    "employer_median_usd": 140000.0,
+    "gap_usd": 41000.0
+  }
+}

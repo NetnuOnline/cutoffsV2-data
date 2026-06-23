@@ -1,0 +1,51 @@
+{
+  "slug": "signova",
+  "canonical_name": "SIGNOVA INC.",
+  "fein": "92-3084984",
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 87500.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 95000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "NETWORK ADMINISTRATOR",
+      "count": 1,
+      "median_wage_usd": 95000.0
+    },
+    {
+      "title": "Network Administrator",
+      "count": 1,
+      "median_wage_usd": 80000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 1,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1244",
+    "soc_title": "Network and Computer Systems Administrators",
+    "market_median_usd": 95000.0,
+    "employer_median_usd": 95000.0,
+    "gap_usd": 0.0
+  }
+}

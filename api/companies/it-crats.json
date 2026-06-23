@@ -1,0 +1,199 @@
+{
+  "slug": "it-crats",
+  "canonical_name": "IT Crats Inc",
+  "fein": "46-4178989",
+  "lca_filing_count": 30,
+  "lca_worker_positions": 30,
+  "warn_notice_count": 0,
+  "median_wage_usd": 95152.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 4,
+      "median_wage_usd": 93558.0
+    },
+    {
+      "fy": 2021,
+      "filings": 3,
+      "median_wage_usd": 93558.0
+    },
+    {
+      "fy": 2022,
+      "filings": 5,
+      "median_wage_usd": 98905.0
+    },
+    {
+      "fy": 2023,
+      "filings": 7,
+      "median_wage_usd": 101192.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 95077.0
+    },
+    {
+      "fy": 2025,
+      "filings": 4,
+      "median_wage_usd": 103553.0
+    },
+    {
+      "fy": 2026,
+      "filings": 5,
+      "median_wage_usd": 107854.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 7,
+      "median_wage_usd": 101192.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 5,
+      "median_wage_usd": 93558.0
+    },
+    {
+      "title": "QA Engineer",
+      "count": 4,
+      "median_wage_usd": 92487.0
+    },
+    {
+      "title": "Data Engineer",
+      "count": 3,
+      "median_wage_usd": 113000.0
+    },
+    {
+      "title": "Data Integration Lead",
+      "count": 2,
+      "median_wage_usd": 86944.0
+    },
+    {
+      "title": "Head of Sales and Marketing",
+      "count": 1,
+      "median_wage_usd": 108098.0
+    },
+    {
+      "title": "ETL Developer",
+      "count": 1,
+      "median_wage_usd": 127878.0
+    },
+    {
+      "title": "SAP Consultant",
+      "count": 1,
+      "median_wage_usd": 111072.0
+    },
+    {
+      "title": "Sr. Software Engineer",
+      "count": 1,
+      "median_wage_usd": 98905.0
+    },
+    {
+      "title": "Advanced Software Developer",
+      "count": 1,
+      "median_wage_usd": 118685.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 9
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 2
+    },
+    {
+      "state": "OR",
+      "county": "WASHINGTON",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "county": "HUDSON",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "BEXAR",
+      "count": 1
+    },
+    {
+      "state": "IN",
+      "county": "MARION",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 1
+    },
+    {
+      "state": "AR",
+      "county": "BENTON",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 20
+    },
+    {
+      "state": "OR",
+      "count": 2
+    },
+    {
+      "state": "GA",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "count": 1
+    },
+    {
+      "state": "IN",
+      "count": 1
+    },
+    {
+      "state": "AR",
+      "count": 1
+    },
+    {
+      "state": "AZ",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 109463.0,
+    "gap_usd": -20697.0
+  }
+}

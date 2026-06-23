@@ -1,0 +1,43 @@
+{
+  "slug": "ridpath-hotel",
+  "canonical_name": "Ridpath Hotel",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "WA",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "01/07/2006",
+      "effective_date": "01/07/2006",
+      "state": "WA",
+      "workers": 74,
+      "city": "Spokane"
+    },
+    {
+      "date": "11/10/2005",
+      "effective_date": "01/07/2006",
+      "state": "WA",
+      "workers": 74,
+      "city": "Spokane"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "spokane-wib",
+      "name": "Spokane WIB",
+      "state": "WA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

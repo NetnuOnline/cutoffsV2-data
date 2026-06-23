@@ -1,0 +1,64 @@
+{
+  "slug": "biglynx",
+  "canonical_name": "Biglynx Inc",
+  "fein": "81-0761957",
+  "lca_filing_count": 3,
+  "lca_worker_positions": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 108222.0,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 98405.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 115876.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Dynamics 365 Developer \u201c Sales Module",
+      "count": 1,
+      "median_wage_usd": 98405.0
+    },
+    {
+      "title": "Data Scientists",
+      "count": 1,
+      "median_wage_usd": 123531.0
+    },
+    {
+      "title": "Microsoft Dynamics 365 Analyst",
+      "count": 1,
+      "median_wage_usd": 108222.0
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 103313.5,
+    "gap_usd": -26846.5
+  }
+}

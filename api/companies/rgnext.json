@@ -1,0 +1,66 @@
+{
+  "slug": "rgnext",
+  "canonical_name": "RGNext",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 4,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "FL",
+      "count": 3
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "10/10/2025",
+      "effective_date": "11/30/2025",
+      "state": "FL",
+      "workers": 22,
+      "city": "MERRITT ISLAND"
+    },
+    {
+      "date": "10/10/2025",
+      "effective_date": "11/30/2025",
+      "state": "FL",
+      "workers": 255,
+      "city": "CAPE CANAVERAL"
+    },
+    {
+      "date": "10/10/2025",
+      "effective_date": "11/30/2025",
+      "state": "FL",
+      "workers": 228,
+      "city": "PATRICK SFB"
+    },
+    {
+      "date": "10/01/2025",
+      "effective_date": "11/30/2025",
+      "state": "CA",
+      "workers": 400,
+      "city": "Lompoc"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "santa-barbara-county-wib",
+      "name": "Santa Barbara County WIB",
+      "state": "CA"
+    },
+    {
+      "slug": "careersource-brevard",
+      "name": "CareerSource Brevard",
+      "state": "FL"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

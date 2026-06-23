@@ -1,0 +1,74 @@
+{
+  "slug": "rig-enterprise",
+  "canonical_name": "RIG Enterprise",
+  "fein": "12-3456789",
+  "lca_filing_count": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 91666.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 91333.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 1,
+      "median_wage_usd": 91000.0
+    },
+    {
+      "title": "Technical Consultant",
+      "count": 1,
+      "median_wage_usd": 99611.2
+    },
+    {
+      "title": "Business Analyst",
+      "count": 1,
+      "median_wage_usd": 91666.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TN",
+      "county": "CANNON",
+      "count": 1
+    },
+    {
+      "state": "MO",
+      "county": "ST LOUIS",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MO",
+      "count": 1
+    },
+    {
+      "state": "TN",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "BusinessIntelligenceAnalysts",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 91666.0,
+    "gap_usd": -16354.0
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "slug": "coca-cola-consolidated",
+  "canonical_name": "Coca-Cola Consolidated, Inc.",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 1,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "IN",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "02/15/2021",
+      "effective_date": "04/18/2021",
+      "state": "IN",
+      "workers": 52,
+      "city": "Lafayette"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "economic-growth-region-4",
+      "name": "Economic Growth Region 4",
+      "state": "IN"
+    }
+  ],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2008-07-18",
+        "formType": "8-K",
+        "accessionNumber": "0000950144-08-005596",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000317540&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2007-02-07",
+        "formType": "8-K",
+        "accessionNumber": "0000950144-07-000923",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000317540&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 2,
+    "itemCounts": {
+      "2.05": 2
+    },
+    "latestFilingDate": "2008-07-18",
+    "earliestFilingDate": "2007-02-07"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 2,
+    "continuing_denials": 0,
+    "total_approvals": 2,
+    "by_fy": [
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      }
+    ]
+  }
+}

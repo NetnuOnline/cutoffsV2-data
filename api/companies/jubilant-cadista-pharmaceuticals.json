@@ -1,0 +1,116 @@
+{
+  "slug": "jubilant-cadista-pharmaceuticals",
+  "canonical_name": "Jubilant Cadista Pharmaceuticals Inc.",
+  "fein": "52-1991329",
+  "lca_filing_count": 2,
+  "warn_notice_count": 2,
+  "median_wage_usd": 145000.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 160000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Principal Scientist",
+      "count": 1,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Manager, Technical Services",
+      "count": 1,
+      "median_wage_usd": 160000.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MD",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MD",
+      "county": "WICOMICO",
+      "count": 1
+    },
+    {
+      "state": "PA",
+      "county": "BUCKS",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "04/17/2024",
+      "effective_date": "06/17/2024",
+      "state": "MD",
+      "workers": 221,
+      "city": "Salisbury"
+    },
+    {
+      "date": "10/06/2022",
+      "effective_date": "11/23/2022",
+      "state": "MD",
+      "workers": 80,
+      "city": "Salisbury"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "lower-shore-wia",
+      "name": "Lower Shore WIA",
+      "state": "MD"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 4,
+    "continuing_denials": 0,
+    "total_approvals": 4,
+    "by_fy": [
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      }
+    ]
+  },
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": []
+}

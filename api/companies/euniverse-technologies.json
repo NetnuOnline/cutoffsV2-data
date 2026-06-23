@@ -1,0 +1,88 @@
+{
+  "slug": "euniverse-technologies",
+  "canonical_name": "Euniverse Technologies LLC",
+  "fein": "86-3239953",
+  "lca_filing_count": 7,
+  "lca_worker_positions": 7,
+  "warn_notice_count": 0,
+  "median_wage_usd": 91291.2,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 5,
+      "median_wage_usd": 96033.6
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 88940.8,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "DotNet Developer",
+      "count": 2,
+      "median_wage_usd": 88940.8
+    },
+    {
+      "title": "Data Engineer",
+      "count": 2,
+      "median_wage_usd": 93662.4
+    },
+    {
+      "title": "Software Application Developer",
+      "count": 1,
+      "median_wage_usd": 87380.8
+    },
+    {
+      "title": "DevOps Engineer",
+      "count": 1,
+      "median_wage_usd": 122699.2
+    },
+    {
+      "title": "Software Developer",
+      "count": 1,
+      "median_wage_usd": 112923.2
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "VA",
+      "county": "FAIRFAX",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "SC",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "AL",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 88940.8,
+    "gap_usd": -41219.2
+  }
+}

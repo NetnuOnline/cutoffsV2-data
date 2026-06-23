@@ -1,0 +1,117 @@
+{
+  "slug": "upmc-presbyterian-shadyside",
+  "canonical_name": "UPMC Presbyterian Shadyside",
+  "fein": "25-0965480",
+  "lca_filing_count": 38,
+  "lca_worker_positions": 33,
+  "warn_notice_count": 0,
+  "median_wage_usd": 130000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 6,
+      "median_wage_usd": 109658.57
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 90000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 7,
+      "median_wage_usd": 131040.0
+    },
+    {
+      "fy": 2023,
+      "filings": 6,
+      "median_wage_usd": 141269.37
+    },
+    {
+      "fy": 2024,
+      "filings": 6,
+      "median_wage_usd": 112496.115
+    },
+    {
+      "fy": 2026,
+      "filings": 7,
+      "median_wage_usd": 130908.36,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer - Senior",
+      "count": 4,
+      "median_wage_usd": 143087.71
+    },
+    {
+      "title": "Software Engineer",
+      "count": 3,
+      "median_wage_usd": 131040.0
+    },
+    {
+      "title": "Cloud Engineer, Senior",
+      "count": 2,
+      "median_wage_usd": 122443.82
+    },
+    {
+      "title": "Biostatistician (Research Program Administrator)",
+      "count": 2,
+      "median_wage_usd": 87922.49
+    },
+    {
+      "title": "Software Product Manager",
+      "count": 2,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Senior Data Analyst",
+      "count": 2,
+      "median_wage_usd": 114857.6
+    },
+    {
+      "title": "Software Engineer \u201c Senior",
+      "count": 2,
+      "median_wage_usd": 143045.685
+    },
+    {
+      "title": "Statistician - Epidemiology",
+      "count": 2,
+      "median_wage_usd": 64625.6
+    },
+    {
+      "title": "Systems Analyst - Expert (Oracle E-Business Suite",
+      "count": 2,
+      "median_wage_usd": 134160.1
+    },
+    {
+      "title": "Systems Analyst - Senior (Health Plan)",
+      "count": 1,
+      "median_wage_usd": 108160.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "PA",
+      "county": "ALLEGHENY",
+      "count": 30
+    }
+  ],
+  "top_states": [
+    {
+      "state": "PA",
+      "count": 38
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 133080.05,
+    "gap_usd": 2920.05
+  }
+}

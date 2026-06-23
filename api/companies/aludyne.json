@@ -1,0 +1,257 @@
+{
+  "slug": "aludyne",
+  "canonical_name": "Aludyne Inc.",
+  "fein": "46-1525728",
+  "lca_filing_count": 14,
+  "warn_notice_count": 11,
+  "median_wage_usd": 92736.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 128636.0
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 82000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 4,
+      "median_wage_usd": 96522.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 100655.0
+    },
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 73424.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 109045.5
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Product Engineer",
+      "count": 4,
+      "median_wage_usd": 98460.5
+    },
+    {
+      "title": "Validation Test Engineer",
+      "count": 3,
+      "median_wage_usd": 73424.0
+    },
+    {
+      "title": "Quality Engineer",
+      "count": 2,
+      "median_wage_usd": 82000.0
+    },
+    {
+      "title": "Director of Quality",
+      "count": 1,
+      "median_wage_usd": 167272.0
+    },
+    {
+      "title": "Senior Quality Engineer",
+      "count": 1,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "title": "Electrical/Controls Engineer",
+      "count": 1,
+      "median_wage_usd": 90000.0
+    },
+    {
+      "title": "Automotive Engineer",
+      "count": 1,
+      "median_wage_usd": 109419.0
+    },
+    {
+      "title": "CAE Engineer",
+      "count": 1,
+      "median_wage_usd": 97572.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MI",
+      "count": 10
+    },
+    {
+      "state": "IN",
+      "count": 2
+    },
+    {
+      "state": "WI",
+      "count": 1
+    },
+    {
+      "state": "TN",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MI",
+      "county": "OAKLAND",
+      "count": 5
+    },
+    {
+      "state": "MI",
+      "county": "MACOMB",
+      "count": 3
+    },
+    {
+      "state": "IN",
+      "county": "DEKALB",
+      "count": 2
+    },
+    {
+      "state": "WI",
+      "county": "KENOSHA",
+      "count": 1
+    },
+    {
+      "state": "TN",
+      "county": "BEDFORD",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "02/05/2026",
+      "effective_date": "01/01/2026",
+      "state": "GA",
+      "workers": 341,
+      "city": "1600 Northside Industrial Blvd, Columbus, Georgia"
+    },
+    {
+      "date": "03/27/2024",
+      "effective_date": "06/30/2024",
+      "state": "GA",
+      "workers": 193,
+      "city": "1558 Northside Industrial Blvd, Columbus, Georgia"
+    },
+    {
+      "date": "03/27/2024",
+      "effective_date": "06/30/2024",
+      "state": "GA",
+      "workers": 193,
+      "city": "1558 Northside Industrial Blvd, Columbus, Georgia"
+    },
+    {
+      "date": "03/05/2024",
+      "effective_date": "04/17/2024",
+      "state": "TN",
+      "workers": 33,
+      "city": "Montgomery County"
+    },
+    {
+      "date": "12/11/2023",
+      "effective_date": "02/01/2024",
+      "state": "TN",
+      "workers": 40,
+      "city": "Montgomery County"
+    },
+    {
+      "date": "05/05/2020",
+      "effective_date": "05/05/2020",
+      "state": "MI",
+      "workers": 82,
+      "city": "Montague"
+    },
+    {
+      "date": "04/30/2020",
+      "effective_date": "04/30/2020",
+      "state": "MI",
+      "workers": 44,
+      "city": "Benton Harbor"
+    },
+    {
+      "date": "04/30/2020",
+      "effective_date": "04/30/2020",
+      "state": "MI",
+      "workers": 40,
+      "city": "Montague, Michigan"
+    },
+    {
+      "date": "04/27/2020",
+      "effective_date": "04/27/2020",
+      "state": "MI",
+      "workers": 44,
+      "city": "Stevensville, Michigan"
+    },
+    {
+      "date": "04/01/2020",
+      "effective_date": "04/01/2020",
+      "state": "MI",
+      "workers": 115,
+      "city": "Warren"
+    },
+    {
+      "date": "03/31/2020",
+      "effective_date": "03/31/2020",
+      "state": "MI",
+      "workers": 115,
+      "city": "Warren, Michigan"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "berrien-cass-van-buren-michigan-works",
+      "name": "Berrien-Cass-Van Buren Michigan Works!",
+      "state": "MI"
+    },
+    {
+      "slug": "muskegon-oceana-consortium",
+      "name": "Muskegon-Oceana Consortium",
+      "state": "MI"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 19,
+    "continuing_denials": 0,
+    "total_approvals": 20,
+    "by_fy": [
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 9,
+        "continuing_denials": 0,
+        "total_approvals": 9
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 7,
+        "continuing_denials": 0,
+        "total_approvals": 8
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      }
+    ]
+  },
+  "lca_worker_positions": 14,
+  "top_socs": [],
+  "lca_periods": []
+}

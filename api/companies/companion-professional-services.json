@@ -1,0 +1,203 @@
+{
+  "slug": "companion-professional-services",
+  "canonical_name": "Companion Professional Services, LLC",
+  "fein": "58-2375610",
+  "lca_filing_count": 12,
+  "warn_notice_count": 0,
+  "median_wage_usd": 113833.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 99424.0
+    },
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 114400.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 110167.20000000001
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 134473.6
+    },
+    {
+      "fy": 2024,
+      "filings": 4,
+      "median_wage_usd": 107000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 145600.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "ETL Operations Specialist",
+      "count": 3,
+      "median_wage_usd": 124800.0
+    },
+    {
+      "title": "Database Developer",
+      "count": 1,
+      "median_wage_usd": 96616.0
+    },
+    {
+      "title": "IT Healthcare Consultant - Software Engineer",
+      "count": 1,
+      "median_wage_usd": 117666.0
+    },
+    {
+      "title": "Lead Systems Support Analyst - DW Control",
+      "count": 1,
+      "median_wage_usd": 99632.0
+    },
+    {
+      "title": "Senio Network Analyst",
+      "count": 1,
+      "median_wage_usd": 104000.0
+    },
+    {
+      "title": "Senior App Dev Systems Analyst - Data Engineer",
+      "count": 1,
+      "median_wage_usd": 104000.0
+    },
+    {
+      "title": "BX Business Analyst",
+      "count": 1,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "Mainframe Programmer",
+      "count": 1,
+      "median_wage_usd": 99424.0
+    },
+    {
+      "title": "Project Manager",
+      "count": 1,
+      "median_wage_usd": 145000.0
+    },
+    {
+      "title": "Senior Programmer Analyst",
+      "count": 1,
+      "median_wage_usd": 123947.20000000001
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "SC",
+      "county": "RICHLAND",
+      "count": 5
+    },
+    {
+      "state": "NC",
+      "county": "CABARRUS",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "county": "HANOVER",
+      "count": 1
+    },
+    {
+      "state": "SC",
+      "county": "LEXINGTON",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "county": "RAYNHAM",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "county": "MECKLENBURG",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "SC",
+      "count": 6
+    },
+    {
+      "state": "NC",
+      "count": 3
+    },
+    {
+      "state": "MA",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 12,
+    "continuing_denials": 0,
+    "total_approvals": 13,
+    "by_fy": [
+      {
+        "fy": 2011,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 7,
+        "continuing_denials": 0,
+        "total_approvals": 8
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      }
+    ]
+  },
+  "lca_worker_positions": 12,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1211",
+    "soc_title": "Computer Systems Analysts",
+    "market_median_usd": 103800.0,
+    "employer_median_usd": 110000.0,
+    "gap_usd": 6200.0
+  }
+}

@@ -1,0 +1,502 @@
+{
+  "slug": "jp-morgan-chase",
+  "canonical_name": "JP Morgan Chase & Co.",
+  "fein": null,
+  "lca_filing_count": 6,
+  "warn_notice_count": 55,
+  "median_wage_usd": 112500.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 6,
+      "median_wage_usd": 112500.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 2,
+      "median_wage_usd": 109000.0
+    },
+    {
+      "title": "ASSOCIATE, SOFTWARE ENGINEER",
+      "count": 1,
+      "median_wage_usd": 108000.0
+    },
+    {
+      "title": "Software Engineering ",
+      "count": 1,
+      "median_wage_usd": 136500.0
+    },
+    {
+      "title": "Software Engineering",
+      "count": 1,
+      "median_wage_usd": 112000.0
+    },
+    {
+      "title": "Associate, Public Finance - Infrastructure",
+      "count": 1,
+      "median_wage_usd": 125000.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "OH",
+      "count": 3
+    },
+    {
+      "state": "FL",
+      "count": 1
+    },
+    {
+      "state": "DE",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "OH",
+      "county": "DELAWARE",
+      "count": 2
+    },
+    {
+      "state": "OH",
+      "county": "FRANKLIN",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "county": "HILLSBOROUGH",
+      "count": 1
+    },
+    {
+      "state": "DE",
+      "county": "NEW CASTLE",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "08/03/2026",
+      "effective_date": "08/03/2026",
+      "state": "NJ",
+      "workers": 51,
+      "city": "Jersey City"
+    },
+    {
+      "date": "06/20/2026",
+      "effective_date": "06/20/2026",
+      "state": "NJ",
+      "workers": 134,
+      "city": "Jersey City"
+    },
+    {
+      "date": "05/03/2026",
+      "effective_date": "05/03/2026",
+      "state": "NJ",
+      "workers": 120,
+      "city": "Jersey City"
+    },
+    {
+      "date": "03/23/2026",
+      "effective_date": "05/21/2026",
+      "state": "CA",
+      "workers": 53,
+      "city": "San Francisco"
+    },
+    {
+      "date": "11/24/2025",
+      "effective_date": "11/24/2025",
+      "state": "NJ",
+      "workers": 58,
+      "city": "Jersey City"
+    },
+    {
+      "date": "08/27/2025",
+      "effective_date": "08/27/2025",
+      "state": "CA",
+      "workers": 99,
+      "city": "San Francisco"
+    },
+    {
+      "date": "08/04/2025",
+      "effective_date": "08/04/2025",
+      "state": "NJ",
+      "workers": 63,
+      "city": "Jersey City"
+    },
+    {
+      "date": "06/23/2025",
+      "effective_date": "06/23/2025",
+      "state": "NJ",
+      "workers": 145,
+      "city": "Jersey City"
+    },
+    {
+      "date": "05/05/2025",
+      "effective_date": "05/05/2025",
+      "state": "NJ",
+      "workers": 121,
+      "city": "Jersey City"
+    },
+    {
+      "date": "12/22/2024",
+      "effective_date": "12/22/2024",
+      "state": "NJ",
+      "workers": 56,
+      "city": "Jersey City"
+    },
+    {
+      "date": "11/15/2024",
+      "effective_date": "01/10/2025",
+      "state": "CA",
+      "workers": 255,
+      "city": "San Francisco"
+    },
+    {
+      "date": "11/15/2024",
+      "effective_date": "01/10/2025",
+      "state": "CA",
+      "workers": 80,
+      "city": "San Francisco"
+    },
+    {
+      "date": "07/11/2023",
+      "effective_date": "06/24/2024",
+      "state": "NJ",
+      "workers": 91,
+      "city": "Jersey City"
+    },
+    {
+      "date": "07/28/2020",
+      "effective_date": "09/01/2020",
+      "state": "IL",
+      "workers": 70,
+      "city": "Chicago"
+    },
+    {
+      "date": "07/01/2019",
+      "effective_date": "09/30/2019",
+      "state": "NY",
+      "workers": 52,
+      "city": "New York"
+    },
+    {
+      "date": "03/18/2019",
+      "effective_date": "03/14/2019",
+      "state": "TX",
+      "workers": 368,
+      "city": "Arlington"
+    },
+    {
+      "date": "10/02/2018",
+      "effective_date": "12/01/2018",
+      "state": "TX",
+      "workers": 107,
+      "city": "San Antonio"
+    },
+    {
+      "date": "09/13/2018",
+      "effective_date": "11/12/2018",
+      "state": "TX",
+      "workers": 102,
+      "city": "Houston"
+    },
+    {
+      "date": "08/12/2018",
+      "effective_date": "08/12/2018",
+      "state": "NJ",
+      "workers": 58,
+      "city": "Jersey City"
+    },
+    {
+      "date": "07/25/2018",
+      "effective_date": "09/01/2018",
+      "state": "IL",
+      "workers": 53,
+      "city": "Downers Grove"
+    },
+    {
+      "date": "06/05/2016",
+      "effective_date": "08/07/2016",
+      "state": "TX",
+      "workers": 90,
+      "city": "Houston"
+    },
+    {
+      "date": "03/09/2016",
+      "effective_date": "03/01/2017",
+      "state": "IL",
+      "workers": 63,
+      "city": "Elgin"
+    },
+    {
+      "date": "03/09/2016",
+      "effective_date": "05/01/2016",
+      "state": "IL",
+      "workers": 44,
+      "city": "Elgin"
+    },
+    {
+      "date": "01/26/2016",
+      "effective_date": "03/26/2016",
+      "state": "WI",
+      "workers": 135,
+      "city": "Milwaukee"
+    },
+    {
+      "date": "03/27/2015",
+      "effective_date": "05/25/2015",
+      "state": "FL",
+      "workers": 65,
+      "city": "Tampa"
+    },
+    {
+      "date": "03/26/2015",
+      "effective_date": "05/25/2015",
+      "state": "IN",
+      "workers": 73,
+      "city": "Indianapolis"
+    },
+    {
+      "date": "01/30/2015",
+      "effective_date": "03/30/2015",
+      "state": "CA",
+      "workers": 63,
+      "city": "Pleasanton"
+    },
+    {
+      "date": "11/05/2014",
+      "effective_date": "11/05/2014",
+      "state": "DE",
+      "workers": 58,
+      "city": null
+    },
+    {
+      "date": "09/25/2013",
+      "effective_date": "11/22/2013",
+      "state": "TX",
+      "workers": 14,
+      "city": "Coppell"
+    },
+    {
+      "date": "09/23/2013",
+      "effective_date": "11/22/2013",
+      "state": "IN",
+      "workers": 7,
+      "city": "Indianapolis"
+    },
+    {
+      "date": "09/23/2013",
+      "effective_date": "11/01/2013",
+      "state": "IL",
+      "workers": 145,
+      "city": "Chicago"
+    },
+    {
+      "date": "08/12/2013",
+      "effective_date": "10/11/2013",
+      "state": "TX",
+      "workers": 451,
+      "city": "Ft. Worth"
+    },
+    {
+      "date": "08/12/2013",
+      "effective_date": "10/11/2013",
+      "state": "TX",
+      "workers": 52,
+      "city": "Coppell"
+    },
+    {
+      "date": "06/06/2013",
+      "effective_date": "07/06/2013",
+      "state": "VA",
+      "workers": 84,
+      "city": "Falls Church, VA"
+    },
+    {
+      "date": "03/14/2013",
+      "effective_date": "06/04/2013",
+      "state": "TX",
+      "workers": 103,
+      "city": "Arlington"
+    },
+    {
+      "date": "01/14/2013",
+      "effective_date": "03/10/2013",
+      "state": "TX",
+      "workers": 121,
+      "city": "Coppell"
+    },
+    {
+      "date": "07/27/2010",
+      "effective_date": "09/27/2010",
+      "state": "MD",
+      "workers": 561,
+      "city": "5202 Presidents Court, Frederick, MD"
+    },
+    {
+      "date": "03/02/2010",
+      "effective_date": "03/02/2010",
+      "state": "NY",
+      "workers": 0,
+      "city": "Syracuse"
+    },
+    {
+      "date": "02/25/2010",
+      "effective_date": "04/25/2010",
+      "state": "LA",
+      "workers": 239,
+      "city": "Baton Rouge"
+    },
+    {
+      "date": "05/22/2009",
+      "effective_date": "07/31/2009",
+      "state": "TX",
+      "workers": 4,
+      "city": "Irving"
+    },
+    {
+      "date": "05/22/2009",
+      "effective_date": "07/31/2009",
+      "state": "TX",
+      "workers": 11,
+      "city": "Houston"
+    },
+    {
+      "date": "04/07/2009",
+      "effective_date": "06/15/2009",
+      "state": "WA",
+      "workers": 45,
+      "city": "Tukwila"
+    },
+    {
+      "date": "03/31/2009",
+      "effective_date": "06/05/2009",
+      "state": "OR",
+      "workers": 19,
+      "city": "Portland"
+    },
+    {
+      "date": "02/03/2009",
+      "effective_date": "04/04/2009",
+      "state": "TX",
+      "workers": 75,
+      "city": "Ft. Worth"
+    },
+    {
+      "date": "12/08/2008",
+      "effective_date": "01/31/2009",
+      "state": "NY",
+      "workers": 0,
+      "city": "New York"
+    },
+    {
+      "date": "08/29/2008",
+      "effective_date": "10/31/2008",
+      "state": "NY",
+      "workers": 0,
+      "city": "Syracuse"
+    },
+    {
+      "date": "08/07/2008",
+      "effective_date": "08/07/2008",
+      "state": "NJ",
+      "workers": 0,
+      "city": "SOMERSET"
+    },
+    {
+      "date": "06/02/2008",
+      "effective_date": "07/29/2008",
+      "state": "NY",
+      "workers": 0,
+      "city": "383 Madison Avenue  New York, NY,"
+    },
+    {
+      "date": "06/01/2008",
+      "effective_date": "06/01/2008",
+      "state": "NJ",
+      "workers": 33,
+      "city": "WOODCLIFF LAKE"
+    },
+    {
+      "date": "05/18/2008",
+      "effective_date": "05/18/2008",
+      "state": "NJ",
+      "workers": 42,
+      "city": "WOODCLIFF LAKE"
+    },
+    {
+      "date": "03/19/2008",
+      "effective_date": "05/01/2008",
+      "state": "IL",
+      "workers": 35,
+      "city": "Westmont"
+    },
+    {
+      "date": "03/19/2008",
+      "effective_date": "04/01/2008",
+      "state": "IL",
+      "workers": 24,
+      "city": "Westmont"
+    },
+    {
+      "date": "01/09/2008",
+      "effective_date": "01/09/2008",
+      "state": "NJ",
+      "workers": 70,
+      "city": "WOODCLIFF LAKE"
+    },
+    {
+      "date": "01/25/2007",
+      "effective_date": "01/25/2007",
+      "state": "NJ",
+      "workers": 160,
+      "city": "MAYWOOD"
+    },
+    {
+      "date": "10/24/2005",
+      "effective_date": "11/01/2005",
+      "state": "TX",
+      "workers": 325,
+      "city": "Houston"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "san-francisco-citycounty-wib",
+      "name": "San Francisco City/County WIB",
+      "state": "CA"
+    },
+    {
+      "slug": "east-baton-rouge-parish-wia",
+      "name": "East Baton Rouge Parish WIA",
+      "state": "LA"
+    },
+    {
+      "slug": "hudson-jersey-city-wib",
+      "name": "Hudson-Jersey City WIB",
+      "state": "NJ"
+    },
+    {
+      "slug": "tarrant-county-wda",
+      "name": "Tarrant County WDA",
+      "state": "TX"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "lca_worker_positions": 6,
+  "top_socs": [],
+  "lca_periods": []
+}

@@ -1,0 +1,154 @@
+{
+  "slug": "priceline-com",
+  "canonical_name": "PRICELINE.COM LLC",
+  "fein": "46-4502396",
+  "lca_filing_count": 42,
+  "lca_worker_positions": 42,
+  "warn_notice_count": 0,
+  "median_wage_usd": 123312.5,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 6,
+      "median_wage_usd": 98716.5
+    },
+    {
+      "fy": 2021,
+      "filings": 10,
+      "median_wage_usd": 118529.0
+    },
+    {
+      "fy": 2022,
+      "filings": 9,
+      "median_wage_usd": 118518.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 125890.0
+    },
+    {
+      "fy": 2024,
+      "filings": 8,
+      "median_wage_usd": 153046.0
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 192275.0
+    },
+    {
+      "fy": 2026,
+      "filings": 4,
+      "median_wage_usd": 204791.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Software Engineer",
+      "count": 7,
+      "median_wage_usd": 120390.0
+    },
+    {
+      "title": "Senior Business Analyst",
+      "count": 3,
+      "median_wage_usd": 91811.0
+    },
+    {
+      "title": "Senior Development Manager",
+      "count": 2,
+      "median_wage_usd": 197500.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 2,
+      "median_wage_usd": 98716.5
+    },
+    {
+      "title": "Senior Quality Assurance Manager",
+      "count": 2,
+      "median_wage_usd": 118518.0
+    },
+    {
+      "title": "SENIOR SOFTWARE ENGINEER",
+      "count": 2,
+      "median_wage_usd": 128200.5
+    },
+    {
+      "title": "Senior Analyst, Product Care",
+      "count": 1,
+      "median_wage_usd": 97094.0
+    },
+    {
+      "title": "Development Manager",
+      "count": 1,
+      "median_wage_usd": 117728.0
+    },
+    {
+      "title": "Manager, Contact Center Technology",
+      "count": 1,
+      "median_wage_usd": 110302.0
+    },
+    {
+      "title": "Director, Marketing Science & Online Marketing Technology",
+      "count": 1,
+      "median_wage_usd": 153046.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CT",
+      "county": "NORWALK CITY",
+      "count": 12
+    },
+    {
+      "state": "CT",
+      "county": "FAIRFIELD",
+      "count": 11
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 11
+    },
+    {
+      "state": "NJ",
+      "county": "ESSEX",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "county": "HUDSON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CT",
+      "count": 26
+    },
+    {
+      "state": "NY",
+      "count": 13
+    },
+    {
+      "state": "NJ",
+      "count": 2
+    },
+    {
+      "state": "MD",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 163212.0,
+    "gap_usd": 33052.0
+  }
+}

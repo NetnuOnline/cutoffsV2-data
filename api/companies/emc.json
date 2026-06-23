@@ -1,0 +1,203 @@
+{
+  "slug": "emc",
+  "canonical_name": "EMC Corporation",
+  "fein": "04-2680009",
+  "lca_filing_count": 460,
+  "lca_worker_positions": 451,
+  "warn_notice_count": 0,
+  "median_wage_usd": 143633.84,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 70,
+      "median_wage_usd": 116415.53
+    },
+    {
+      "fy": 2021,
+      "filings": 79,
+      "median_wage_usd": 132080.0
+    },
+    {
+      "fy": 2022,
+      "filings": 41,
+      "median_wage_usd": 158000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 103,
+      "median_wage_usd": 141398.4
+    },
+    {
+      "fy": 2024,
+      "filings": 67,
+      "median_wage_usd": 153196.5
+    },
+    {
+      "fy": 2025,
+      "filings": 61,
+      "median_wage_usd": 162915.66
+    },
+    {
+      "fy": 2026,
+      "filings": 30,
+      "median_wage_usd": 189764.66499999998,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Senior Engineer",
+      "count": 88,
+      "median_wage_usd": 147580.0
+    },
+    {
+      "title": "Software Principal Engineer",
+      "count": 41,
+      "median_wage_usd": 174273.63
+    },
+    {
+      "title": "Software Engineer 2",
+      "count": 41,
+      "median_wage_usd": 126486.53
+    },
+    {
+      "title": "Software Senior Principal Engineer",
+      "count": 21,
+      "median_wage_usd": 215393.87
+    },
+    {
+      "title": "Principal Engineer, Technical Support",
+      "count": 12,
+      "median_wage_usd": 113450.35
+    },
+    {
+      "title": "Principal Engineer, Service Delivery",
+      "count": 9,
+      "median_wage_usd": 117567.38
+    },
+    {
+      "title": "Senior Principal Software Engineer - IT",
+      "count": 6,
+      "median_wage_usd": 160644.91999999998
+    },
+    {
+      "title": "SOFTWARE ENGINEER 2",
+      "count": 6,
+      "median_wage_usd": 102225.0
+    },
+    {
+      "title": "Advisory Systems Engineer",
+      "count": 5,
+      "median_wage_usd": 162400.0
+    },
+    {
+      "title": "Software Engineer 2 - IT",
+      "count": 5,
+      "median_wage_usd": 89414.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MA",
+      "county": "HOPKINTON",
+      "count": 85
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 38
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 36
+    },
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 28
+    },
+    {
+      "state": "NC",
+      "county": "DURHAM",
+      "count": 22
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 18
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 9
+    },
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 9
+    },
+    {
+      "state": "NC",
+      "county": "WAKE",
+      "count": 6
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 6
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MA",
+      "count": 127
+    },
+    {
+      "state": "TX",
+      "count": 95
+    },
+    {
+      "state": "CA",
+      "count": 66
+    },
+    {
+      "state": "WA",
+      "count": 50
+    },
+    {
+      "state": "NC",
+      "count": 35
+    },
+    {
+      "state": "GA",
+      "count": 9
+    },
+    {
+      "state": "IL",
+      "count": 8
+    },
+    {
+      "state": "NJ",
+      "count": 7
+    },
+    {
+      "state": "OH",
+      "count": 7
+    },
+    {
+      "state": "MI",
+      "count": 5
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 160000.0,
+    "gap_usd": 29840.0
+  }
+}

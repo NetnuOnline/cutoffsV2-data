@@ -1,0 +1,137 @@
+{
+  "slug": "capital-rx",
+  "canonical_name": "Capital Rx LLC",
+  "fein": "35-2612946",
+  "lca_filing_count": 11,
+  "lca_worker_positions": 11,
+  "warn_notice_count": 0,
+  "median_wage_usd": 150000.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 5,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 160000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 130000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Salesforce Development Manager",
+      "count": 2,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "title": "Manager Analytics",
+      "count": 1,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Lead Senior Frontend Software Developer",
+      "count": 1,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "title": "Lead Senior Quality Assurance Developer   ",
+      "count": 1,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "title": "Quality Assurance Manager",
+      "count": 1,
+      "median_wage_usd": 160000.0
+    },
+    {
+      "title": "Senior Analyst, Analytics-Business Reporting",
+      "count": 1,
+      "median_wage_usd": 109491.0
+    },
+    {
+      "title": "Senior Frontend Developer",
+      "count": 1,
+      "median_wage_usd": 155000.0
+    },
+    {
+      "title": "Senior Backend Developer",
+      "count": 1,
+      "median_wage_usd": 165000.0
+    },
+    {
+      "title": "Customer Care Analytics and Reporting Manager",
+      "count": 1,
+      "median_wage_usd": 77000.0
+    },
+    {
+      "title": "Senior Machine Learning Engineer II",
+      "count": 1,
+      "median_wage_usd": 195000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "DE",
+      "county": "NEW CASTLE",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 1
+    },
+    {
+      "state": "NE",
+      "county": "DOUGLAS",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "county": "HUDSON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 3
+    },
+    {
+      "state": "DE",
+      "count": 3
+    },
+    {
+      "state": "NJ",
+      "count": 2
+    },
+    {
+      "state": "NY",
+      "count": 1
+    },
+    {
+      "state": "NE",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 130000.0,
+    "gap_usd": 21980.0
+  }
+}

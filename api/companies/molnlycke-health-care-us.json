@@ -1,0 +1,51 @@
+{
+  "slug": "molnlycke-health-care-us",
+  "canonical_name": "Molnlycke Health Care US, LLC",
+  "fein": "54-2153401",
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 108000.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 116000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Regional Internal Control Manager, Americas",
+      "count": 2,
+      "median_wage_usd": 108000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-2011",
+    "soc_title": "Accountants and Auditors",
+    "market_median_usd": 79000.0,
+    "employer_median_usd": 108000.0,
+    "gap_usd": 29000.0
+  }
+}

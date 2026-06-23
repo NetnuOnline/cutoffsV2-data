@@ -1,0 +1,56 @@
+{
+  "slug": "the-healthcare-authority-for-baptist-health-an-affiliate-of-uab-health",
+  "canonical_name": "THE HEALTHCARE AUTHORITY FOR BAPTIST HEALTH AN AFFILIATE OF UAB HEALTH",
+  "fein": null,
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 225000.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 80000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 370000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "NEUROINTENSIVIST",
+      "count": 1,
+      "median_wage_usd": 370000.0
+    },
+    {
+      "title": "Information Security Engineer II",
+      "count": 1,
+      "median_wage_usd": 80000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "AL",
+      "county": "MONTGOMERY",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "AL",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Information Security Engineers",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 80000.0,
+    "gap_usd": -38000.0
+  }
+}

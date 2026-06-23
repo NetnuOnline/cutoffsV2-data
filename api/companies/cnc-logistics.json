@@ -1,0 +1,77 @@
+{
+  "slug": "cnc-logistics",
+  "canonical_name": "CNC Logistics, Inc.",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 5,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 3
+    },
+    {
+      "state": "NC",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "09/30/2025",
+      "effective_date": "09/23/2025",
+      "state": "IL",
+      "workers": 53,
+      "city": "West Chicago"
+    },
+    {
+      "date": "09/23/2025",
+      "effective_date": "08/27/2025",
+      "state": "IL",
+      "workers": 57,
+      "city": "Palatine"
+    },
+    {
+      "date": "09/17/2025",
+      "effective_date": "09/26/2025",
+      "state": "NC",
+      "workers": 75,
+      "city": "1275 Person St., Durham"
+    },
+    {
+      "date": "09/17/2025",
+      "effective_date": "08/27/2025",
+      "state": "MI",
+      "workers": 75,
+      "city": "Walker, Michigan"
+    },
+    {
+      "date": "02/24/2020",
+      "effective_date": "04/01/2020",
+      "state": "IL",
+      "workers": 93,
+      "city": "Elgin"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "dupage-county-wib",
+      "name": "DuPage County WIB",
+      "state": "IL"
+    },
+    {
+      "slug": "chicago-cook-wib",
+      "name": "Chicago-Cook WIB",
+      "state": "IL"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

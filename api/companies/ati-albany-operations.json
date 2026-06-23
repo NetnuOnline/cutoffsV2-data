@@ -1,0 +1,43 @@
+{
+  "slug": "ati-albany-operations",
+  "canonical_name": "ATI Albany Operations",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "OR",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "06/10/2020",
+      "effective_date": "12/07/2020",
+      "state": "OR",
+      "workers": 76,
+      "city": "Albany"
+    },
+    {
+      "date": "06/10/2020",
+      "effective_date": "10/26/2020",
+      "state": "OR",
+      "workers": 135,
+      "city": "Albany"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "mid-valley-wia",
+      "name": "Mid-Valley WIA",
+      "state": "OR"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

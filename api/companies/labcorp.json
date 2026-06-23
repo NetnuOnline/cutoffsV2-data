@@ -1,0 +1,141 @@
+{
+  "slug": "labcorp",
+  "canonical_name": "LabCorp",
+  "fein": null,
+  "lca_filing_count": 1,
+  "warn_notice_count": 4,
+  "median_wage_usd": 113000.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 113000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Manager, Statistical Programming",
+      "count": 1,
+      "median_wage_usd": 113000.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NC",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NC",
+      "county": "WAKE",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "09/16/2024",
+      "effective_date": "11/22/2024",
+      "state": "FL",
+      "workers": 65,
+      "city": "MELBOURNE"
+    },
+    {
+      "date": "09/16/2024",
+      "effective_date": "09/16/2024",
+      "state": "FL",
+      "workers": 65,
+      "city": "MELBOURNE"
+    },
+    {
+      "date": "11/08/2023",
+      "effective_date": "01/02/2024",
+      "state": "NJ",
+      "workers": 239,
+      "city": "Somerset"
+    },
+    {
+      "date": "08/13/2014",
+      "effective_date": "10/15/2014",
+      "state": "AL",
+      "workers": 57,
+      "city": "Birmingham"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "careersource-brevard",
+      "name": "CareerSource Brevard",
+      "state": "FL"
+    },
+    {
+      "slug": "greater-raritan-wib",
+      "name": "Greater Raritan WIB",
+      "state": "NJ"
+    }
+  ],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2017-04-25",
+        "formType": "8-K",
+        "accessionNumber": "0000920148-17-000040",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000920148&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2013-10-18",
+        "formType": "8-K",
+        "accessionNumber": "0000920148-13-000091",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000920148&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2012-04-27",
+        "formType": "8-K",
+        "accessionNumber": "0000920148-12-000059",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000920148&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2005-12-02",
+        "formType": "8-K/A",
+        "accessionNumber": "0000920148-05-000207",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000920148&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 4,
+    "itemCounts": {
+      "2.05": 1,
+      "5.02": 3
+    },
+    "latestFilingDate": "2017-04-25",
+    "earliestFilingDate": "2005-12-02"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "lca_worker_positions": 1,
+  "top_socs": [],
+  "lca_periods": []
+}

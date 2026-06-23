@@ -1,0 +1,112 @@
+{
+  "slug": "atkore",
+  "canonical_name": "Atkore",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "FL",
+      "count": 1
+    },
+    {
+      "state": "AZ",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "09/20/2018",
+      "effective_date": "11/20/2018",
+      "state": "FL",
+      "workers": 101,
+      "city": "Largo"
+    },
+    {
+      "date": "08/06/2015",
+      "effective_date": "08/06/2015",
+      "state": "AZ",
+      "workers": 60,
+      "city": "Phoenix"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2025-10-03",
+        "formType": "8-K",
+        "accessionNumber": "0001666138-25-000192",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001666138&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2025-04-21",
+        "formType": "8-K",
+        "accessionNumber": "0001666138-25-000095",
+        "items": [
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001666138&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2023-01-31",
+        "formType": "8-K/A",
+        "accessionNumber": "0001666138-23-000029",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001666138&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2018-11-20",
+        "formType": "8-K/A",
+        "accessionNumber": "0001666138-18-000122",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001666138&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2017-12-04",
+        "formType": "8-K/A",
+        "accessionNumber": "0001666138-17-000124",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001666138&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 5,
+    "itemCounts": {
+      "2.05": 1,
+      "2.06": 1,
+      "5.02": 3
+    },
+    "latestFilingDate": "2025-10-03",
+    "earliestFilingDate": "2017-12-04"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

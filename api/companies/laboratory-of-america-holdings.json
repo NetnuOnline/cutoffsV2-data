@@ -1,0 +1,203 @@
+{
+  "slug": "laboratory-of-america-holdings",
+  "canonical_name": "Laboratory Corporation of America Holdings, Inc.",
+  "fein": "13-3757370",
+  "lca_filing_count": 139,
+  "lca_worker_positions": 137,
+  "warn_notice_count": 0,
+  "median_wage_usd": 125491.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 7,
+      "median_wage_usd": 127000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 12,
+      "median_wage_usd": 119367.0
+    },
+    {
+      "fy": 2022,
+      "filings": 23,
+      "median_wage_usd": 123600.0
+    },
+    {
+      "fy": 2023,
+      "filings": 26,
+      "median_wage_usd": 115500.0
+    },
+    {
+      "fy": 2024,
+      "filings": 17,
+      "median_wage_usd": 122853.0
+    },
+    {
+      "fy": 2025,
+      "filings": 34,
+      "median_wage_usd": 127618.5
+    },
+    {
+      "fy": 2026,
+      "filings": 18,
+      "median_wage_usd": 136042.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "IT Senior Technical Specialist",
+      "count": 8,
+      "median_wage_usd": 148766.275
+    },
+    {
+      "title": "Software Engineer",
+      "count": 5,
+      "median_wage_usd": 125537.96
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 5,
+      "median_wage_usd": 133536.0
+    },
+    {
+      "title": "Senior QA Analyst",
+      "count": 5,
+      "median_wage_usd": 105172.0
+    },
+    {
+      "title": "Senior Programmer Analyst",
+      "count": 5,
+      "median_wage_usd": 120765.0
+    },
+    {
+      "title": "Technologist",
+      "count": 4,
+      "median_wage_usd": 79705.6
+    },
+    {
+      "title": "Medical Laboratory Technologist",
+      "count": 4,
+      "median_wage_usd": 69680.0
+    },
+    {
+      "title": "Senior IT Technical Specialist",
+      "count": 3,
+      "median_wage_usd": 116709.0
+    },
+    {
+      "title": "Senior IT Technical Specialist (Senior Hadoop Developer)",
+      "count": 3,
+      "median_wage_usd": 127000.0
+    },
+    {
+      "title": "Sr. Programmer/Analyst",
+      "count": 3,
+      "median_wage_usd": 123600.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NC",
+      "county": "DURHAM",
+      "count": 26
+    },
+    {
+      "state": "NC",
+      "county": "ALAMANCE",
+      "count": 21
+    },
+    {
+      "state": "OR",
+      "county": "MULTNOMAH",
+      "count": 5
+    },
+    {
+      "state": "NC",
+      "county": "WAKE",
+      "count": 4
+    },
+    {
+      "state": "MA",
+      "county": "WESTBOROUGH",
+      "count": 3
+    },
+    {
+      "state": "MN",
+      "county": "RAMSEY",
+      "count": 3
+    },
+    {
+      "state": "CA",
+      "county": "SAN DIEGO",
+      "count": 3
+    },
+    {
+      "state": "FL",
+      "county": "SEMINOLE",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NC",
+      "count": 90
+    },
+    {
+      "state": "CA",
+      "count": 10
+    },
+    {
+      "state": "TX",
+      "count": 8
+    },
+    {
+      "state": "MN",
+      "count": 5
+    },
+    {
+      "state": "OR",
+      "count": 5
+    },
+    {
+      "state": "FL",
+      "count": 5
+    },
+    {
+      "state": "NJ",
+      "count": 4
+    },
+    {
+      "state": "MA",
+      "count": 4
+    },
+    {
+      "state": "MI",
+      "count": 3
+    },
+    {
+      "state": "PA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 133536.0,
+    "gap_usd": 3376.0
+  }
+}

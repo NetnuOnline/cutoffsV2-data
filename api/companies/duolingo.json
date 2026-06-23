@@ -1,0 +1,126 @@
+{
+  "slug": "duolingo",
+  "canonical_name": "Duolingo, Inc.",
+  "fein": "45-3055872",
+  "lca_filing_count": 42,
+  "lca_worker_positions": 40,
+  "warn_notice_count": 0,
+  "median_wage_usd": 155800.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 6,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 5,
+      "median_wage_usd": 180000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 10,
+      "median_wage_usd": 135950.0
+    },
+    {
+      "fy": 2024,
+      "filings": 5,
+      "median_wage_usd": 200400.0
+    },
+    {
+      "fy": 2025,
+      "filings": 4,
+      "median_wage_usd": 159100.0
+    },
+    {
+      "fy": 2026,
+      "filings": 10,
+      "median_wage_usd": 180000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 10,
+      "median_wage_usd": 132500.0
+    },
+    {
+      "title": "Software Engineer, Data Engineering",
+      "count": 4,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "title": "Software Engineer, iOS",
+      "count": 2,
+      "median_wage_usd": 190000.0
+    },
+    {
+      "title": "Software Engineer, Mobile Applications",
+      "count": 2,
+      "median_wage_usd": 132500.0
+    },
+    {
+      "title": "Senior Technical Program Manager",
+      "count": 2,
+      "median_wage_usd": 184500.0
+    },
+    {
+      "title": "Operations Engineer",
+      "count": 2,
+      "median_wage_usd": 117500.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 2,
+      "median_wage_usd": 211500.0
+    },
+    {
+      "title": "Senior Data Scientist, Language Learning",
+      "count": 1,
+      "median_wage_usd": 220000.0
+    },
+    {
+      "title": "Product Designer/App Software Designer, International Growth",
+      "count": 1,
+      "median_wage_usd": 155800.0
+    },
+    {
+      "title": "Product Manager, User Engagement",
+      "count": 1,
+      "median_wage_usd": 145000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "PA",
+      "county": "ALLEGHENY",
+      "count": 22
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 6
+    }
+  ],
+  "top_states": [
+    {
+      "state": "PA",
+      "count": 27
+    },
+    {
+      "state": "NY",
+      "count": 15
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 159100.0,
+    "gap_usd": 28940.0
+  }
+}

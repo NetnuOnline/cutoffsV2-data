@@ -1,0 +1,41 @@
+{
+  "slug": "reneuanatar",
+  "canonical_name": "RENEUANATAR Corporation",
+  "fein": "35-2836309",
+  "lca_filing_count": 2,
+  "lca_worker_positions": 1,
+  "warn_notice_count": 0,
+  "median_wage_usd": 130000.0,
+  "by_fy": [
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 140000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Data Scientist",
+      "count": 2,
+      "median_wage_usd": 130000.0
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 140000.0,
+    "gap_usd": 31980.0
+  }
+}

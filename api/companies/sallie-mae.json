@@ -1,0 +1,74 @@
+{
+  "slug": "sallie-mae",
+  "canonical_name": "Sallie Mae",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 5,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "DE",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "count": 1
+    },
+    {
+      "state": "KS",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "09/30/2020",
+      "effective_date": "09/30/2020",
+      "state": "DE",
+      "workers": 100,
+      "city": null
+    },
+    {
+      "date": "05/18/2010",
+      "effective_date": "07/19/2010",
+      "state": "TX",
+      "workers": 127,
+      "city": "Killeen"
+    },
+    {
+      "date": "07/01/2008",
+      "effective_date": "07/01/2008",
+      "state": "NJ",
+      "workers": 163,
+      "city": "MT. LAUREL"
+    },
+    {
+      "date": "02/01/2005",
+      "effective_date": "03/28/2005",
+      "state": "WA",
+      "workers": 74,
+      "city": "Seattle"
+    },
+    {
+      "date": "01/28/1999",
+      "effective_date": "01/28/1999",
+      "state": "KS",
+      "workers": 275,
+      "city": "2 - Workforce Investment Area II"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

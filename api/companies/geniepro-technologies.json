@@ -1,0 +1,65 @@
+{
+  "slug": "geniepro-technologies",
+  "canonical_name": "GeniePro Technologies Inc",
+  "fein": "93-4126022",
+  "lca_filing_count": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 87859.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 82035.0
+    },
+    {
+      "fy": 2025,
+      "filings": 4,
+      "median_wage_usd": 87859.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 3,
+      "median_wage_usd": 82971.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 3,
+      "median_wage_usd": 87859.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "ORANGE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 5
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 6,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 87859.0,
+    "gap_usd": -42301.0
+  }
+}

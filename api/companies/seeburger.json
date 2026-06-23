@@ -1,0 +1,125 @@
+{
+  "slug": "seeburger",
+  "canonical_name": "Seeburger Inc.",
+  "fein": "58-2412241",
+  "lca_filing_count": 17,
+  "lca_worker_positions": 17,
+  "warn_notice_count": 0,
+  "median_wage_usd": 124000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 6,
+      "median_wage_usd": 92554.5
+    },
+    {
+      "fy": 2022,
+      "filings": 3,
+      "median_wage_usd": 99008.0
+    },
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 143541.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 4,
+      "median_wage_usd": 125750.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Solution Architect",
+      "count": 4,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "VP Solutions Engineering",
+      "count": 2,
+      "median_wage_usd": 143541.0
+    },
+    {
+      "title": "Senior Integration Architect",
+      "count": 2,
+      "median_wage_usd": 111504.0
+    },
+    {
+      "title": "PROJECT MANAGER",
+      "count": 2,
+      "median_wage_usd": 121128.5
+    },
+    {
+      "title": "Senior Solution Architect",
+      "count": 2,
+      "median_wage_usd": 113500.0
+    },
+    {
+      "title": "Solutions Architect",
+      "count": 2,
+      "median_wage_usd": 80000.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 81000.0
+    },
+    {
+      "title": "LEAD ARCHITECT",
+      "count": 1,
+      "median_wage_usd": 101109.0
+    },
+    {
+      "title": "Senior Solutions Engineer",
+      "count": 1,
+      "median_wage_usd": 127500.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 6
+    },
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 5
+    },
+    {
+      "state": "MA",
+      "county": "FRAMINGHAM",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 10
+    },
+    {
+      "state": "AZ",
+      "count": 6
+    },
+    {
+      "state": "MA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 130000.0,
+    "gap_usd": -160.0
+  }
+}

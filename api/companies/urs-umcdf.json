@@ -1,0 +1,36 @@
+{
+  "slug": "urs-umcdf",
+  "canonical_name": "URS-UMCDF",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 1,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "OR",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "08/22/2013",
+      "effective_date": "10/24/2013",
+      "state": "OR",
+      "workers": 4,
+      "city": "Hermiston"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "eastern-oregon-wia",
+      "name": "Eastern Oregon WIA",
+      "state": "OR"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

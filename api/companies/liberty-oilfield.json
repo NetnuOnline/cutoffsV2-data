@@ -1,0 +1,52 @@
+{
+  "slug": "liberty-oilfield",
+  "canonical_name": "Liberty Oilfield",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 3,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "CO",
+      "count": 1
+    },
+    {
+      "state": "ND",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "04/24/2020",
+      "effective_date": "04/27/2020",
+      "state": "TX",
+      "workers": 89,
+      "city": "Cibolo"
+    },
+    {
+      "date": "04/02/2020",
+      "effective_date": "04/02/2020",
+      "state": "CO",
+      "workers": 183,
+      "city": "Adams"
+    },
+    {
+      "date": "04/02/2020",
+      "effective_date": "04/02/2020",
+      "state": "ND",
+      "workers": 204,
+      "city": "Williston, ND"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

@@ -1,0 +1,158 @@
+{
+  "slug": "core-bts",
+  "canonical_name": "Core BTS, Inc.",
+  "fein": "20-3873764",
+  "lca_filing_count": 11,
+  "warn_notice_count": 0,
+  "median_wage_usd": 130400.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 4,
+      "median_wage_usd": 122832.0
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 130400.0
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 99632.0
+    },
+    {
+      "fy": 2025,
+      "filings": 4,
+      "median_wage_usd": 115558.23
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Systems/Data Analyst, Business Development",
+      "count": 2,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "title": "Senior Sales Engineer",
+      "count": 2,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "title": "Consultant II, Portals",
+      "count": 2,
+      "median_wage_usd": 99641.1
+    },
+    {
+      "title": "Solutions Engineer",
+      "count": 1,
+      "median_wage_usd": 130400.0
+    },
+    {
+      "title": "Solution Architect, Architect & Development",
+      "count": 1,
+      "median_wage_usd": 131116.46
+    },
+    {
+      "title": "Solution Architect \u201c Azure Data Analytics/Data Platform",
+      "count": 1,
+      "median_wage_usd": 176748.0
+    },
+    {
+      "title": "Infrastructure Engineer",
+      "count": 1,
+      "median_wage_usd": 105664.0
+    },
+    {
+      "title": "Senior Consultant II",
+      "count": 1,
+      "median_wage_usd": 150024.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 6
+    },
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 7
+    },
+    {
+      "state": "TX",
+      "count": 3
+    },
+    {
+      "state": "OK",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 18,
+    "continuing_denials": 0,
+    "total_approvals": 19,
+    "by_fy": [
+      {
+        "fy": 2013,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 13,
+        "continuing_denials": 0,
+        "total_approvals": 13
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 10,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 100000.0,
+    "gap_usd": -8020.0
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "fila-u-s-a",
+  "canonical_name": "FILA U.S.A., Inc.",
+  "fein": "52-1695992",
+  "lca_filing_count": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 190000.04,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 124999.9
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 190000.03999999998
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Enterprise Resource Planning (ERP) Manager",
+      "count": 3,
+      "median_wage_usd": 190000.08
+    },
+    {
+      "title": "Manager, Footwear ",
+      "count": 1,
+      "median_wage_usd": 124999.9
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MD",
+      "county": "BALTIMORE",
+      "count": 3
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MD",
+      "count": 3
+    },
+    {
+      "state": "NY",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 190000.04,
+    "gap_usd": 59840.04
+  }
+}

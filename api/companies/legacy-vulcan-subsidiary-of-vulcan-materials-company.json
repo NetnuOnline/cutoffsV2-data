@@ -1,0 +1,71 @@
+{
+  "slug": "legacy-vulcan-subsidiary-of-vulcan-materials-company",
+  "canonical_name": "Legacy Vulcan, LLC - Subsidiary of Vulcan Materials Company",
+  "fein": "63-0366371",
+  "lca_filing_count": 3,
+  "lca_worker_positions": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 105602.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 110801.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 93475.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Full Stack Developer and Report Designer",
+      "count": 1,
+      "median_wage_usd": 93475.0
+    },
+    {
+      "title": "RMC Developer Analyst",
+      "count": 1,
+      "median_wage_usd": 116000.0
+    },
+    {
+      "title": "Oracle BI Reports Developer",
+      "count": 1,
+      "median_wage_usd": 105602.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "FL",
+      "county": "DUVAL",
+      "count": 1
+    },
+    {
+      "state": "AL",
+      "county": "SHELBY",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "AL",
+      "count": 2
+    },
+    {
+      "state": "FL",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 104737.5,
+    "gap_usd": -25422.5
+  }
+}

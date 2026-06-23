@@ -1,0 +1,126 @@
+{
+  "slug": "amount",
+  "canonical_name": "Amount, Inc.",
+  "fein": "83-3090819",
+  "lca_filing_count": 12,
+  "lca_worker_positions": 12,
+  "warn_notice_count": 0,
+  "median_wage_usd": 121250.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 3,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 103500.0
+    },
+    {
+      "fy": 2022,
+      "filings": 3,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 137725.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 156500.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 110000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Prod Dev Associate",
+      "count": 2,
+      "median_wage_usd": 137725.0
+    },
+    {
+      "title": "Senior Legal Counsel",
+      "count": 1,
+      "median_wage_usd": 190500.0
+    },
+    {
+      "title": "Automation Engineer",
+      "count": 1,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "Product Manager & Business Development Operations Manager",
+      "count": 1,
+      "median_wage_usd": 90000.0
+    },
+    {
+      "title": "Software Engineering Manager",
+      "count": 1,
+      "median_wage_usd": 160000.0
+    },
+    {
+      "title": "Fraud Sr Associate",
+      "count": 1,
+      "median_wage_usd": 103500.0
+    },
+    {
+      "title": "Senior Product Manager",
+      "count": 1,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "title": "Sr. Product Manager",
+      "count": 1,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "Sr. Product Support Analyst",
+      "count": 1,
+      "median_wage_usd": 82700.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 8
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 11
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 118862.5,
+    "gap_usd": -11297.5
+  }
+}

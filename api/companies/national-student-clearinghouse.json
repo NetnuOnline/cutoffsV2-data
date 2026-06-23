@@ -1,0 +1,152 @@
+{
+  "slug": "national-student-clearinghouse",
+  "canonical_name": "National Student Clearinghouse",
+  "fein": "52-1836384",
+  "lca_filing_count": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 168377.77,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 102285.77
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 134669.38
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 175402.42
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 161353.12
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 190627.34
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Engineer Tableau & Cloud Administration",
+      "count": 2,
+      "median_wage_usd": 175402.42
+    },
+    {
+      "title": "Senior Engineer, Tableau and Cloud Administration",
+      "count": 1,
+      "median_wage_usd": 190627.34
+    },
+    {
+      "title": "Senior Engineer, Software",
+      "count": 1,
+      "median_wage_usd": 134669.38
+    },
+    {
+      "title": "Technical Lead",
+      "count": 1,
+      "median_wage_usd": 161353.12
+    },
+    {
+      "title": "Senior Developer, Production Support",
+      "count": 1,
+      "median_wage_usd": 102285.77
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "VA",
+      "county": "FAIRFAX",
+      "count": 4
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "VA",
+      "count": 4
+    },
+    {
+      "state": "TX",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 15,
+    "continuing_denials": 0,
+    "total_approvals": 16,
+    "by_fy": [
+      {
+        "fy": 2010,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2011,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 6,
+        "continuing_denials": 0,
+        "total_approvals": 7
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 5,
+        "continuing_denials": 0,
+        "total_approvals": 5
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      }
+    ]
+  },
+  "lca_worker_positions": 6,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 175402.42,
+    "gap_usd": 45242.42
+  }
+}

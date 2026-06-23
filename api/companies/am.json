@@ -1,0 +1,43 @@
+{
+  "slug": "am",
+  "canonical_name": "AM LLC",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "VA",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "10/31/2022",
+      "effective_date": "12/30/2022",
+      "state": "VA",
+      "workers": 25,
+      "city": "Leesburg, VA"
+    },
+    {
+      "date": "05/05/2022",
+      "effective_date": "05/04/2022",
+      "state": "VA",
+      "workers": 175,
+      "city": "Leesburg, VA"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "northern-virginia-lwia-xi",
+      "name": "Northern Virginia LWIA XI",
+      "state": "VA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

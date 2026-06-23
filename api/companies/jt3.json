@@ -1,0 +1,47 @@
+{
+  "slug": "jt3",
+  "canonical_name": "JT3",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "NV",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "05/16/2018",
+      "effective_date": "07/15/2018",
+      "state": "NV",
+      "workers": 1526,
+      "city": "Las Vegas, Clark County"
+    },
+    {
+      "date": "05/07/2018",
+      "effective_date": "07/15/2018",
+      "state": "CA",
+      "workers": 746,
+      "city": "Edwards"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "kern-inyo-mono-consortium-wib",
+      "name": "Kern, Inyo, Mono Consortium WIB",
+      "state": "CA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

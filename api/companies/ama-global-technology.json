@@ -1,0 +1,65 @@
+{
+  "slug": "ama-global-technology",
+  "canonical_name": "AMA Global Technology Inc.",
+  "fein": "20-4521883",
+  "lca_filing_count": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 147820.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 172640.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 123000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Machine Learning Engineer (Software Developer)",
+      "count": 2,
+      "median_wage_usd": 172640.0
+    },
+    {
+      "title": "Data Scientist",
+      "count": 1,
+      "median_wage_usd": 123000.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 1,
+      "median_wage_usd": 123000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NV",
+      "count": 2
+    },
+    {
+      "state": "AZ",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 172640.0,
+    "gap_usd": 42480.0
+  }
+}

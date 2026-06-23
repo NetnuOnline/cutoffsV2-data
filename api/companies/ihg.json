@@ -1,0 +1,54 @@
+{
+  "slug": "ihg",
+  "canonical_name": "IHG",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 3,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 2
+    },
+    {
+      "state": "SC",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "09/30/2020",
+      "effective_date": "11/30/2020",
+      "state": "CA",
+      "workers": 19,
+      "city": "Anaheim"
+    },
+    {
+      "date": "09/30/2020",
+      "effective_date": "11/30/2020",
+      "state": "CA",
+      "workers": 58,
+      "city": "Anaheim"
+    },
+    {
+      "date": "11/02/2018",
+      "effective_date": "11/02/2018",
+      "state": "SC",
+      "workers": 626,
+      "city": "North Charleston"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "trident-wib",
+      "name": "Trident WIB",
+      "state": "SC"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

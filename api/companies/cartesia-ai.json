@@ -1,0 +1,67 @@
+{
+  "slug": "cartesia-ai",
+  "canonical_name": "Cartesia AI, Inc.",
+  "fein": "93-2768582",
+  "lca_filing_count": 8,
+  "lca_worker_positions": 8,
+  "warn_notice_count": 0,
+  "median_wage_usd": 235000.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 215000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 4,
+      "median_wage_usd": 235000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 310000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Member of Technical Staff",
+      "count": 5,
+      "median_wage_usd": 320000.0
+    },
+    {
+      "title": "Business Operations",
+      "count": 2,
+      "median_wage_usd": 222500.0
+    },
+    {
+      "title": "Founding Member of Technical Staff",
+      "count": 1,
+      "median_wage_usd": 215000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 8
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 310000.0,
+    "gap_usd": 179840.0
+  }
+}

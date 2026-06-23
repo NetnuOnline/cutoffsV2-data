@@ -1,0 +1,130 @@
+{
+  "slug": "medeanalytics",
+  "canonical_name": "MedeAnalytics, Inc.",
+  "fein": "94-3189331",
+  "lca_filing_count": 12,
+  "lca_worker_positions": 12,
+  "warn_notice_count": 0,
+  "median_wage_usd": 104880.08,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 3,
+      "median_wage_usd": 103330.0
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 81350.0
+    },
+    {
+      "fy": 2022,
+      "filings": 4,
+      "median_wage_usd": 84954.08
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 185400.0
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 147900.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Test Engineer",
+      "count": 2,
+      "median_wage_usd": 88452.5
+    },
+    {
+      "title": "Sr. Cloud Network Engineer",
+      "count": 2,
+      "median_wage_usd": 162700.0
+    },
+    {
+      "title": "Senior Database Administrator",
+      "count": 1,
+      "median_wage_usd": 103330.0
+    },
+    {
+      "title": "Sr. Test Engineer",
+      "count": 1,
+      "median_wage_usd": 84908.16
+    },
+    {
+      "title": "Senior BI Engineer",
+      "count": 1,
+      "median_wage_usd": 106430.16
+    },
+    {
+      "title": "Senior Test Engineer",
+      "count": 1,
+      "median_wage_usd": 75873.0
+    },
+    {
+      "title": "Manager, Software Engineering",
+      "count": 1,
+      "median_wage_usd": 161637.0
+    },
+    {
+      "title": "Test Automation Engineer",
+      "count": 1,
+      "median_wage_usd": 85000.0
+    },
+    {
+      "title": "Senior Data Engineer",
+      "count": 1,
+      "median_wage_usd": 147900.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 120931.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 5
+    },
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 8
+    },
+    {
+      "state": "CA",
+      "count": 3
+    },
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1253",
+    "soc_title": "Software Quality Assurance Analysts and Testers",
+    "market_median_usd": 101800.0,
+    "employer_median_usd": 84908.16,
+    "gap_usd": -16891.84
+  }
+}

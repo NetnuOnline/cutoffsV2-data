@@ -1,0 +1,44 @@
+{
+  "slug": "simmons",
+  "canonical_name": "Simmons",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 3,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 3
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "09/10/2008",
+      "effective_date": "09/10/2008",
+      "state": "GA",
+      "workers": 103,
+      "city": "Mableton"
+    },
+    {
+      "date": "05/01/2006",
+      "effective_date": "05/01/2006",
+      "state": "GA",
+      "workers": 56,
+      "city": "Atlanta"
+    },
+    {
+      "date": "06/15/2005",
+      "effective_date": "06/15/2005",
+      "state": "GA",
+      "workers": 0,
+      "city": "Atlanta"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

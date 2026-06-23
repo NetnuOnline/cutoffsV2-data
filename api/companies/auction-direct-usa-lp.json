@@ -1,0 +1,50 @@
+{
+  "slug": "auction-direct-usa-lp",
+  "canonical_name": "Auction Direct USA LP",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 3,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 3
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "12/21/2023",
+      "effective_date": "12/21/2023",
+      "state": "NY",
+      "workers": 57,
+      "city": "Victor"
+    },
+    {
+      "date": "12/20/2023",
+      "effective_date": "03/19/2024",
+      "state": "NY",
+      "workers": 57,
+      "city": "Victor"
+    },
+    {
+      "date": "12/20/2023",
+      "effective_date": "03/19/2024",
+      "state": "NY",
+      "workers": 57,
+      "city": null
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "ontariosenecawayneyates-lwia",
+      "name": "Ontario/Seneca/Wayne/Yates LWIA",
+      "state": "NY"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

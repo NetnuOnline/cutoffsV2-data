@@ -1,0 +1,89 @@
+{
+  "slug": "keystone-rv-company",
+  "canonical_name": "Keystone RV Company",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "IN",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "07/18/2022",
+      "effective_date": "09/23/2022",
+      "state": "IN",
+      "workers": 334,
+      "city": "Goshen"
+    },
+    {
+      "date": "02/02/2009",
+      "effective_date": "04/03/2009",
+      "state": "IN",
+      "workers": 265,
+      "city": "Goshen Howe"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "economic-growth-region-2",
+      "name": "Economic Growth Region 2",
+      "state": "IN"
+    }
+  ],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2014-12-03",
+        "formType": "8-K",
+        "accessionNumber": "0001144204-14-072098",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000730263&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2013-05-06",
+        "formType": "8-K",
+        "accessionNumber": "0001144204-13-026441",
+        "items": [
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000730263&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2011-06-13",
+        "formType": "8-K/A",
+        "accessionNumber": "0000950123-11-058649",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000730263&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 3,
+    "itemCounts": {
+      "5.02": 2,
+      "2.06": 1
+    },
+    "latestFilingDate": "2014-12-03",
+    "earliestFilingDate": "2011-06-13"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

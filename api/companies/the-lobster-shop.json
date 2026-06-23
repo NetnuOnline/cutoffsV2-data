@@ -1,0 +1,43 @@
+{
+  "slug": "the-lobster-shop",
+  "canonical_name": "The Lobster Shop",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "WA",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "12/02/2022",
+      "effective_date": "01/15/2023",
+      "state": "WA",
+      "workers": 70,
+      "city": "Tacoma"
+    },
+    {
+      "date": "12/01/2022",
+      "effective_date": "01/15/2023",
+      "state": "WA",
+      "workers": 70,
+      "city": "Tacoma"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "tacomapierce-county-wib",
+      "name": "Tacoma/Pierce County WIB",
+      "state": "WA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

@@ -1,0 +1,134 @@
+{
+  "slug": "css-payroll-l-p",
+  "canonical_name": "CSS PAYROLL CO, L.P.",
+  "fein": "37-1900386",
+  "lca_filing_count": 31,
+  "lca_worker_positions": 31,
+  "warn_notice_count": 0,
+  "median_wage_usd": 195000.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 9,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 6,
+      "median_wage_usd": 200000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 12,
+      "median_wage_usd": 215000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 4,
+      "median_wage_usd": 195000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 11,
+      "median_wage_usd": 210000.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 4,
+      "median_wage_usd": 215000.0
+    },
+    {
+      "title": "Product Design Manager",
+      "count": 3,
+      "median_wage_usd": 190000.0
+    },
+    {
+      "title": "Product Designer",
+      "count": 2,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "title": "Customer Operations, Product Program Manager",
+      "count": 1,
+      "median_wage_usd": 147000.0
+    },
+    {
+      "title": "Product Program Manager",
+      "count": 1,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "title": "Head of Enterprise Onboardings ",
+      "count": 1,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "title": "Frontend Engineer",
+      "count": 1,
+      "median_wage_usd": 188000.0
+    },
+    {
+      "title": "Mechanical Simulation Engineer",
+      "count": 1,
+      "median_wage_usd": 170000.0
+    },
+    {
+      "title": "Operations and Analytics Associate I",
+      "count": 1,
+      "median_wage_usd": 90000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 7
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 5
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 4
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 19
+    },
+    {
+      "state": "WA",
+      "count": 8
+    },
+    {
+      "state": "NY",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 207500.0,
+    "gap_usd": 77340.0
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "slug": "cogent-data-solutions",
+  "canonical_name": "Cogent Data Solutions, LLC",
+  "fein": "51-0652712",
+  "lca_filing_count": 8,
+  "lca_worker_positions": 8,
+  "warn_notice_count": 0,
+  "median_wage_usd": 94723.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 92955.0
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 95472.0
+    },
+    {
+      "fy": 2022,
+      "filings": 3,
+      "median_wage_usd": 92040.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 93974.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 101899.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 104187.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 5,
+      "median_wage_usd": 92955.0
+    },
+    {
+      "title": "Data Analyst",
+      "count": 1,
+      "median_wage_usd": 93974.0
+    },
+    {
+      "title": "Data Architect",
+      "count": 1,
+      "median_wage_usd": 95472.0
+    },
+    {
+      "title": "Data Scientist",
+      "count": 1,
+      "median_wage_usd": 104187.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 2
+    },
+    {
+      "state": "MA",
+      "county": "WESTBOROUGH",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MA",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "count": 2
+    },
+    {
+      "state": "OH",
+      "count": 1
+    },
+    {
+      "state": "OR",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 95711.0,
+    "gap_usd": -34449.0
+  }
+}

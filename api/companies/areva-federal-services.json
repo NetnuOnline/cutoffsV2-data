@@ -1,0 +1,54 @@
+{
+  "slug": "areva-federal-services",
+  "canonical_name": "AREVA Federal Services LLC",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 3,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "WA",
+      "count": 2
+    },
+    {
+      "state": "SC",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "08/06/2013",
+      "effective_date": "08/06/2013",
+      "state": "SC",
+      "workers": 0,
+      "city": "Aiken"
+    },
+    {
+      "date": "08/01/2013",
+      "effective_date": "07/31/2013",
+      "state": "WA",
+      "workers": 3,
+      "city": "Richland"
+    },
+    {
+      "date": "08/21/2012",
+      "effective_date": "08/15/2012",
+      "state": "WA",
+      "workers": 5,
+      "city": "Richland"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "benton-franklin-wib",
+      "name": "Benton-Franklin WIB",
+      "state": "WA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

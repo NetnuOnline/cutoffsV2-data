@@ -1,0 +1,129 @@
+{
+  "slug": "eclinical-solutions",
+  "canonical_name": "ECLINICAL SOLUTIONS LLC",
+  "fein": "46-1093068",
+  "lca_filing_count": 11,
+  "lca_worker_positions": 10,
+  "warn_notice_count": 0,
+  "median_wage_usd": 97341.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 127500.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 85000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 93168.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 117354.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 141963.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "BUSINESS ANALYST",
+      "count": 3,
+      "median_wage_usd": 85000.0
+    },
+    {
+      "title": "DATA ENGINEER",
+      "count": 2,
+      "median_wage_usd": 97341.0
+    },
+    {
+      "title": "CLINICAL DATA MANAGER II",
+      "count": 1,
+      "median_wage_usd": 88995.0
+    },
+    {
+      "title": "MANAGER, MEDICAL CODING",
+      "count": 1,
+      "median_wage_usd": 137367.0
+    },
+    {
+      "title": "PRINCIPAL PERFORMANCE TEST ENGINEER",
+      "count": 1,
+      "median_wage_usd": 163927.0
+    },
+    {
+      "title": "PRODUCT MANAGER",
+      "count": 1,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "RELEASE ENGINEER ",
+      "count": 1,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "title": "SR. PERFORMANCE TEST ENGINEER ",
+      "count": 1,
+      "median_wage_usd": 130000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IL",
+      "county": "DUPAGE",
+      "count": 3
+    },
+    {
+      "state": "MA",
+      "county": "MANSFIELD",
+      "count": 2
+    },
+    {
+      "state": "AR",
+      "county": "BENTON",
+      "count": 2
+    },
+    {
+      "state": "PA",
+      "county": "BUCKS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MA",
+      "count": 5
+    },
+    {
+      "state": "IL",
+      "count": 3
+    },
+    {
+      "state": "AR",
+      "count": 2
+    },
+    {
+      "state": "PA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 97341.0,
+    "gap_usd": -10679.0
+  }
+}

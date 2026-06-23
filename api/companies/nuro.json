@@ -1,0 +1,145 @@
+{
+  "slug": "nuro",
+  "canonical_name": "Nuro, Inc.",
+  "fein": "81-3134259",
+  "lca_filing_count": 111,
+  "lca_worker_positions": 110,
+  "warn_notice_count": 0,
+  "median_wage_usd": 177200.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 7,
+      "median_wage_usd": 131726.0
+    },
+    {
+      "fy": 2021,
+      "filings": 21,
+      "median_wage_usd": 165000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 22,
+      "median_wage_usd": 181500.0
+    },
+    {
+      "fy": 2023,
+      "filings": 31,
+      "median_wage_usd": 167000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 14,
+      "median_wage_usd": 190092.5
+    },
+    {
+      "fy": 2025,
+      "filings": 9,
+      "median_wage_usd": 215000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 6,
+      "median_wage_usd": 207500.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 27,
+      "median_wage_usd": 175000.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 5,
+      "median_wage_usd": 200000.0
+    },
+    {
+      "title": "Mechanical Engineer",
+      "count": 4,
+      "median_wage_usd": 130378.5
+    },
+    {
+      "title": "Software Engineer ",
+      "count": 3,
+      "median_wage_usd": 180000.0
+    },
+    {
+      "title": "Systems Engineer",
+      "count": 3,
+      "median_wage_usd": 192000.0
+    },
+    {
+      "title": "AUX Lead/Body System Electrical Engineer",
+      "count": 2,
+      "median_wage_usd": 271000.0
+    },
+    {
+      "title": "Software Engineer, Mapping & Localization",
+      "count": 2,
+      "median_wage_usd": 170000.0
+    },
+    {
+      "title": "Electrical Engineer",
+      "count": 2,
+      "median_wage_usd": 152578.0
+    },
+    {
+      "title": "Mechanical Engineer ",
+      "count": 2,
+      "median_wage_usd": 152826.5
+    },
+    {
+      "title": "Software Engineer, Perception",
+      "count": 2,
+      "median_wage_usd": 185000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 91
+    },
+    {
+      "state": "CA",
+      "county": "ORANGE",
+      "count": 2
+    },
+    {
+      "state": "NV",
+      "county": "CLARK",
+      "count": 2
+    },
+    {
+      "state": "PA",
+      "county": "ALLEGHENY",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 108
+    },
+    {
+      "state": "NV",
+      "count": 2
+    },
+    {
+      "state": "PA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 199652.5,
+    "gap_usd": 69492.5
+  }
+}

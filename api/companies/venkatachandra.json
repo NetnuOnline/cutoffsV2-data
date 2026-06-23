@@ -1,0 +1,75 @@
+{
+  "slug": "venkatachandra",
+  "canonical_name": "VenkataChandra, LLC",
+  "fein": "86-1783729",
+  "lca_filing_count": 3,
+  "lca_worker_positions": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 94848.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 127754.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 82347.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 94848.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "AWS DevOps Engineer",
+      "count": 1,
+      "median_wage_usd": 82347.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 1,
+      "median_wage_usd": 127754.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 94848.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 127754.0,
+    "gap_usd": -2406.0
+  }
+}

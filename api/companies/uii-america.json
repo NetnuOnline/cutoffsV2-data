@@ -1,0 +1,127 @@
+{
+  "slug": "uii-america",
+  "canonical_name": "UII America, Inc.",
+  "fein": "82-4452526",
+  "lca_filing_count": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 154531.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 160000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 133375.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 237497.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 171588.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Expert Software Engineer",
+      "count": 2,
+      "median_wage_usd": 141218.5
+    },
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "Senior Research Scientist",
+      "count": 1,
+      "median_wage_usd": 160000.0
+    },
+    {
+      "title": "Sr. Principal Software Architect",
+      "count": 1,
+      "median_wage_usd": 237497.0
+    },
+    {
+      "title": "Expert Research Scientist",
+      "count": 1,
+      "median_wage_usd": 171588.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MA",
+      "county": "BURLINGTON",
+      "count": 4
+    },
+    {
+      "state": "MA",
+      "county": "CAMBRIDGE CITY",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MA",
+      "count": 6
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 3,
+    "initial_denials": 0,
+    "continuing_approvals": 2,
+    "continuing_denials": 0,
+    "total_approvals": 5,
+    "by_fy": [
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      }
+    ]
+  },
+  "lca_worker_positions": 6,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 141218.5,
+    "gap_usd": 11058.5
+  }
+}

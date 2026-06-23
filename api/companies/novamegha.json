@@ -1,0 +1,135 @@
+{
+  "slug": "novamegha",
+  "canonical_name": "Novamegha LLC",
+  "fein": "84-1793122",
+  "lca_filing_count": 19,
+  "lca_worker_positions": 19,
+  "warn_notice_count": 0,
+  "median_wage_usd": 88837.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 88837.0
+    },
+    {
+      "fy": 2023,
+      "filings": 4,
+      "median_wage_usd": 67367.0
+    },
+    {
+      "fy": 2026,
+      "filings": 14,
+      "median_wage_usd": 92196.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "DevOps Engineer",
+      "count": 3,
+      "median_wage_usd": 85800.0
+    },
+    {
+      "title": "QUALITY ANALYST",
+      "count": 3,
+      "median_wage_usd": 74734.0
+    },
+    {
+      "title": "SOFTWARE DEVELOPER",
+      "count": 2,
+      "median_wage_usd": 122460.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 2,
+      "median_wage_usd": 79882.5
+    },
+    {
+      "title": "SOFTWARE ENGINEER",
+      "count": 2,
+      "median_wage_usd": 70882.5
+    },
+    {
+      "title": "Mechanical Engineer",
+      "count": 2,
+      "median_wage_usd": 99580.0
+    },
+    {
+      "title": "DATA ARCHITECT",
+      "count": 2,
+      "median_wage_usd": 118105.0
+    },
+    {
+      "title": "Quality Analyst",
+      "count": 2,
+      "median_wage_usd": 86860.5
+    },
+    {
+      "title": "BUSINESS ANALYST",
+      "count": 1,
+      "median_wage_usd": 88837.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IN",
+      "county": "BARTHOLOMEW",
+      "count": 2
+    },
+    {
+      "state": "NH",
+      "county": "DOVER CITY",
+      "count": 2
+    },
+    {
+      "state": "CO",
+      "county": "ARAPAHOE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 5
+    },
+    {
+      "state": "TX",
+      "count": 4
+    },
+    {
+      "state": "NJ",
+      "count": 2
+    },
+    {
+      "state": "CT",
+      "count": 2
+    },
+    {
+      "state": "NH",
+      "count": 2
+    },
+    {
+      "state": "IN",
+      "count": 2
+    },
+    {
+      "state": "CO",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1253",
+    "soc_title": "Software Quality Assurance Analysts and Testers",
+    "market_median_usd": 101800.0,
+    "employer_median_usd": 82347.0,
+    "gap_usd": -19453.0
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "slug": "xto-energy",
+  "canonical_name": "XTO Energy Inc.",
+  "fein": "75-2347769",
+  "lca_filing_count": 3,
+  "warn_notice_count": 11,
+  "median_wage_usd": 187210.0,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 187210.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Sr Software Developer",
+      "count": 1,
+      "median_wage_usd": 211430.0
+    },
+    {
+      "title": "Business Architect",
+      "count": 1,
+      "median_wage_usd": 183100.0
+    },
+    {
+      "title": "Analyst",
+      "count": 1,
+      "median_wage_usd": 187210.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 3
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "10/23/2023",
+      "effective_date": "12/20/2023",
+      "state": "TX",
+      "workers": 46,
+      "city": "Donie"
+    },
+    {
+      "date": "10/23/2023",
+      "effective_date": "12/20/2023",
+      "state": "TX",
+      "workers": 11,
+      "city": "Teague"
+    },
+    {
+      "date": "10/23/2023",
+      "effective_date": "12/20/2023",
+      "state": "TX",
+      "workers": 9,
+      "city": "Jewett"
+    },
+    {
+      "date": "10/23/2023",
+      "effective_date": "12/20/2023",
+      "state": "TX",
+      "workers": 1,
+      "city": "Tyler"
+    },
+    {
+      "date": "10/20/2023",
+      "effective_date": "12/20/2023",
+      "state": "TX",
+      "workers": 20,
+      "city": "Donie"
+    },
+    {
+      "date": "10/20/2023",
+      "effective_date": "12/20/2023",
+      "state": "TX",
+      "workers": 18,
+      "city": "Jewett"
+    },
+    {
+      "date": "10/20/2023",
+      "effective_date": "12/20/2023",
+      "state": "TX",
+      "workers": 15,
+      "city": "Franklin"
+    },
+    {
+      "date": "05/09/2018",
+      "effective_date": "07/01/2018",
+      "state": "TX",
+      "workers": 66,
+      "city": "Ft. Worth"
+    },
+    {
+      "date": "01/24/2018",
+      "effective_date": "03/29/2018",
+      "state": "NM",
+      "workers": 232,
+      "city": "Aztec"
+    },
+    {
+      "date": "06/20/2017",
+      "effective_date": "06/20/2017",
+      "state": "CO",
+      "workers": 113,
+      "city": "Arapahoe Douglas"
+    },
+    {
+      "date": "06/02/2017",
+      "effective_date": "08/02/2017",
+      "state": "TX",
+      "workers": 67,
+      "city": "Ft. Worth"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "northern-area-wib",
+      "name": "Northern Area WIB",
+      "state": "NM"
+    },
+    {
+      "slug": "east-texas-wda",
+      "name": "East Texas WDA",
+      "state": "TX"
+    },
+    {
+      "slug": "heart-of-texas-wda",
+      "name": "Heart of Texas WDA",
+      "state": "TX"
+    },
+    {
+      "slug": "brazos-valley-wda",
+      "name": "Brazos Valley WDA",
+      "state": "TX"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 197265.0,
+    "gap_usd": 67105.0
+  }
+}

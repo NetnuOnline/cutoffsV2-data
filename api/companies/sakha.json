@@ -1,0 +1,64 @@
+{
+  "slug": "sakha",
+  "canonical_name": "Sakha, Inc.",
+  "fein": "92-2787741",
+  "lca_filing_count": 5,
+  "lca_worker_positions": 9,
+  "warn_notice_count": 0,
+  "median_wage_usd": 119899.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 104967.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 130300.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 124899.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Computer Programmer",
+      "count": 3,
+      "median_wage_usd": 114899.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": null
+    },
+    {
+      "title": "Software Developer",
+      "count": 1,
+      "median_wage_usd": 130300.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 3
+    },
+    {
+      "state": "NY",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": []
+}

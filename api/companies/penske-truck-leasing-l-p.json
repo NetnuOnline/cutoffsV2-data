@@ -1,0 +1,134 @@
+{
+  "slug": "penske-truck-leasing-l-p",
+  "canonical_name": "Penske Truck Leasing, Co., L.P.",
+  "fein": "23-2518618",
+  "lca_filing_count": 49,
+  "warn_notice_count": 0,
+  "median_wage_usd": 111374.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 6,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 6,
+      "median_wage_usd": 107500.0
+    },
+    {
+      "fy": 2022,
+      "filings": 8,
+      "median_wage_usd": 105000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 14,
+      "median_wage_usd": 111500.0
+    },
+    {
+      "fy": 2024,
+      "filings": 13,
+      "median_wage_usd": 120120.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer I",
+      "count": 13,
+      "median_wage_usd": 113000.0
+    },
+    {
+      "title": "Associate Software Engineer III",
+      "count": 6,
+      "median_wage_usd": 96000.0
+    },
+    {
+      "title": "Software Engineer II",
+      "count": 3,
+      "median_wage_usd": 105000.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 3,
+      "median_wage_usd": 145000.0
+    },
+    {
+      "title": "Associate Data Platform Engineer II",
+      "count": 2,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "title": "Electrical Engineer",
+      "count": 2,
+      "median_wage_usd": 108197.5
+    },
+    {
+      "title": "Lead RPA Developer (Senior Software Engineer)",
+      "count": 2,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "Data Scientist",
+      "count": 2,
+      "median_wage_usd": 95000.0
+    },
+    {
+      "title": "Associate Data Platform Engineer III",
+      "count": 1,
+      "median_wage_usd": 105000.0
+    },
+    {
+      "title": "Digital Product Manager",
+      "count": 1,
+      "median_wage_usd": 119000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "PA",
+      "county": "BERKS",
+      "count": 29
+    },
+    {
+      "state": "FL",
+      "county": "HILLSBOROUGH",
+      "count": 18
+    },
+    {
+      "state": "FL",
+      "county": "ST JOHNS",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "county": "BERGEN",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "PA",
+      "count": 29
+    },
+    {
+      "state": "FL",
+      "count": 19
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 47,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 114000.0,
+    "gap_usd": -16160.0
+  }
+}

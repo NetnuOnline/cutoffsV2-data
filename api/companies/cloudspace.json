@@ -1,0 +1,159 @@
+{
+  "slug": "cloudspace",
+  "canonical_name": "Cloudspace LLC",
+  "fein": "86-1564085",
+  "lca_filing_count": 13,
+  "lca_worker_positions": 13,
+  "warn_notice_count": 0,
+  "median_wage_usd": 91291.2,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 78520.0
+    },
+    {
+      "fy": 2023,
+      "filings": 4,
+      "median_wage_usd": 87921.6
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 105996.8
+    },
+    {
+      "fy": 2025,
+      "filings": 5,
+      "median_wage_usd": 92206.4
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 101909.6,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 3,
+      "median_wage_usd": 90896.0
+    },
+    {
+      "title": "Data Analyst",
+      "count": 2,
+      "median_wage_usd": 95596.79999999999
+    },
+    {
+      "title": "Software Developer",
+      "count": 2,
+      "median_wage_usd": 103708.8
+    },
+    {
+      "title": "Java Developer",
+      "count": 1,
+      "median_wage_usd": 78520.0
+    },
+    {
+      "title": "Front End Developer",
+      "count": 1,
+      "median_wage_usd": 98904.0
+    },
+    {
+      "title": ".Net developer",
+      "count": 1,
+      "median_wage_usd": 92206.4
+    },
+    {
+      "title": "Data Engineer",
+      "count": 1,
+      "median_wage_usd": 91291.2
+    },
+    {
+      "title": "AWS Data Engineer",
+      "count": 1,
+      "median_wage_usd": 88441.6
+    },
+    {
+      "title": "DevOps Engineer",
+      "count": 1,
+      "median_wage_usd": 87401.6
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 1
+    },
+    {
+      "state": "KS",
+      "county": "JOHNSON",
+      "count": 1
+    },
+    {
+      "state": "OH",
+      "county": "MONTGOMERY",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "county": "FAIRFAX CITY",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 3
+    },
+    {
+      "state": "OH",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "count": 2
+    },
+    {
+      "state": "DC",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "count": 1
+    },
+    {
+      "state": "CO",
+      "count": 1
+    },
+    {
+      "state": "KS",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 92206.4,
+    "gap_usd": -37953.6
+  }
+}

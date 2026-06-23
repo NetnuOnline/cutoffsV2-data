@@ -1,0 +1,122 @@
+{
+  "slug": "msys",
+  "canonical_name": "MSYS INC",
+  "fein": "56-1862003",
+  "lca_filing_count": 7,
+  "lca_worker_positions": 7,
+  "warn_notice_count": 0,
+  "median_wage_usd": 103209.6,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 80690.5
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 87765.7
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 106527.2
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 108430.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SOFTWARE DEVELOPER",
+      "count": 2,
+      "median_wage_usd": 107525.6
+    },
+    {
+      "title": "QA AUTOMATION LEAD",
+      "count": 1,
+      "median_wage_usd": 74381.0
+    },
+    {
+      "title": "SYSTEMS ENGINEER",
+      "count": 1,
+      "median_wage_usd": 70325.0
+    },
+    {
+      "title": "PROJECT MANAGER - QE",
+      "count": 1,
+      "median_wage_usd": 87000.0
+    },
+    {
+      "title": "SENIOR PROGRAMMER",
+      "count": 1,
+      "median_wage_usd": 108430.0
+    },
+    {
+      "title": ".NET DEVELOPER",
+      "count": 1,
+      "median_wage_usd": 103209.59999999999
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "PA",
+      "county": "PHILADELPHIA",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "county": "PEORIA",
+      "count": 1
+    },
+    {
+      "state": "SC",
+      "county": "LEXINGTON",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "PA",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "SC",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 105206.4,
+    "gap_usd": -24953.6
+  }
+}

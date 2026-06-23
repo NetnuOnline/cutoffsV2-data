@@ -1,0 +1,228 @@
+{
+  "slug": "proterra",
+  "canonical_name": "Proterra Inc.",
+  "fein": null,
+  "lca_filing_count": 9,
+  "warn_notice_count": 3,
+  "median_wage_usd": 113173.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 3,
+      "median_wage_usd": 117023.0
+    },
+    {
+      "fy": 2022,
+      "filings": 5,
+      "median_wage_usd": 113173.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Sr. Systems Engineer",
+      "count": 1,
+      "median_wage_usd": 104062.0
+    },
+    {
+      "title": "SOFTWARE TECHNICAL PROJECT MANAGER, BATTERY TECHNOLOGY",
+      "count": 1,
+      "median_wage_usd": 82514.0
+    },
+    {
+      "title": "Sr. Manager - Project Management",
+      "count": 1,
+      "median_wage_usd": 138237.0
+    },
+    {
+      "title": "Sr. IT Support Engineer",
+      "count": 1,
+      "median_wage_usd": 128079.0
+    },
+    {
+      "title": "Staff Thermal Systems Engineer",
+      "count": 1,
+      "median_wage_usd": 105186.0
+    },
+    {
+      "title": "Staff Safety & Reliability Engineer",
+      "count": 1,
+      "median_wage_usd": 148096.0
+    },
+    {
+      "title": "Sr. Enterprise Quality Manager",
+      "count": 1,
+      "median_wage_usd": 113173.0
+    },
+    {
+      "title": "Sr. Quality Engineer",
+      "count": 1,
+      "median_wage_usd": 117023.0
+    },
+    {
+      "title": "Senior Quality Engineer",
+      "count": 1,
+      "median_wage_usd": 90646.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 5
+    },
+    {
+      "state": "SC",
+      "count": 3
+    },
+    {
+      "state": "IN",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SAN MATEO",
+      "count": 4
+    },
+    {
+      "state": "SC",
+      "county": "GREENVILLE",
+      "count": 3
+    },
+    {
+      "state": "IN",
+      "county": "BARTHOLOMEW",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "03/10/2025",
+      "effective_date": "03/10/2025",
+      "state": "SC",
+      "workers": 7,
+      "city": "Greer"
+    },
+    {
+      "date": "03/06/2025",
+      "effective_date": "03/06/2025",
+      "state": "SC",
+      "workers": 85,
+      "city": "Greer"
+    },
+    {
+      "date": "11/27/2023",
+      "effective_date": "01/26/2024",
+      "state": "SC",
+      "workers": 290,
+      "city": "Greenville"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "greenville-wib",
+      "name": "Greenville WIB",
+      "state": "SC"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 9,
+    "initial_denials": 0,
+    "continuing_approvals": 42,
+    "continuing_denials": 0,
+    "total_approvals": 51,
+    "by_fy": [
+      {
+        "fy": 2012,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2013,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2016,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2017,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 5,
+        "initial_denials": 0,
+        "continuing_approvals": 6,
+        "continuing_denials": 0,
+        "total_approvals": 11
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 8,
+        "continuing_denials": 0,
+        "total_approvals": 8
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 3,
+        "initial_denials": 0,
+        "continuing_approvals": 20,
+        "continuing_denials": 0,
+        "total_approvals": 23
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 8,
+        "continuing_denials": 0,
+        "total_approvals": 9
+      }
+    ]
+  },
+  "lca_worker_positions": 8,
+  "top_socs": [],
+  "lca_periods": []
+}

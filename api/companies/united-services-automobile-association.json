@@ -1,0 +1,198 @@
+{
+  "slug": "united-services-automobile-association",
+  "canonical_name": "United Services Automobile Association",
+  "fein": "74-0959140",
+  "lca_filing_count": 168,
+  "lca_worker_positions": 168,
+  "warn_notice_count": 0,
+  "median_wage_usd": 134985.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 8,
+      "median_wage_usd": 131500.0
+    },
+    {
+      "fy": 2022,
+      "filings": 51,
+      "median_wage_usd": 123600.0
+    },
+    {
+      "fy": 2023,
+      "filings": 21,
+      "median_wage_usd": 132355.0
+    },
+    {
+      "fy": 2024,
+      "filings": 46,
+      "median_wage_usd": 131837.065
+    },
+    {
+      "fy": 2025,
+      "filings": 22,
+      "median_wage_usd": 149890.5
+    },
+    {
+      "fy": 2026,
+      "filings": 20,
+      "median_wage_usd": 139304.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer I",
+      "count": 35,
+      "median_wage_usd": 125580.0
+    },
+    {
+      "title": "Software Engineer Senior",
+      "count": 28,
+      "median_wage_usd": 145508.0
+    },
+    {
+      "title": "Data Engineer I",
+      "count": 17,
+      "median_wage_usd": 120510.0
+    },
+    {
+      "title": "Data Engineer Senior",
+      "count": 10,
+      "median_wage_usd": 144024.74
+    },
+    {
+      "title": "Software Engineer II",
+      "count": 8,
+      "median_wage_usd": 106007.2
+    },
+    {
+      "title": "Software Engineer Lead",
+      "count": 7,
+      "median_wage_usd": 175000.0
+    },
+    {
+      "title": "Infrastructure Engineer I",
+      "count": 5,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "Business Intelligence Analyst Senior",
+      "count": 4,
+      "median_wage_usd": 128843.83
+    },
+    {
+      "title": "VP, Application Development",
+      "count": 3,
+      "median_wage_usd": 340000.0
+    },
+    {
+      "title": "Infrastructure Engineer Senior",
+      "count": 3,
+      "median_wage_usd": 145000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "BEXAR",
+      "count": 66
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 39
+    },
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 4
+    },
+    {
+      "state": "NC",
+      "county": "MECKLENBURG",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 2
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 1
+    },
+    {
+      "state": "TN",
+      "county": "MADISON",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "TARRANT",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 139
+    },
+    {
+      "state": "AZ",
+      "count": 6
+    },
+    {
+      "state": "NC",
+      "count": 6
+    },
+    {
+      "state": "IL",
+      "count": 3
+    },
+    {
+      "state": "GA",
+      "count": 3
+    },
+    {
+      "state": "TN",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "count": 2
+    },
+    {
+      "state": "WI",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "count": 1
+    },
+    {
+      "state": "LA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 132552.0,
+    "gap_usd": 2392.0
+  }
+}

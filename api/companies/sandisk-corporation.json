@@ -1,0 +1,80 @@
+{
+  "slug": "sandisk-corporation",
+  "canonical_name": "Sandisk Technologies, Inc.",
+  "fein": null,
+  "lca_filing_count": 67,
+  "warn_notice_count": 2,
+  "median_wage_usd": 164278,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 0,
+      "median_wage_usd": null
+    },
+    {
+      "fy": 2026,
+      "filings": 0,
+      "median_wage_usd": null
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Principal Engineer, Product Development Engineering",
+      "count": 0,
+      "median_wage_usd": null
+    },
+    {
+      "title": "Analyst 4, Business Marketing",
+      "count": 0,
+      "median_wage_usd": null
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "05/20/2015",
+      "effective_date": "07/19/2015",
+      "state": "CA",
+      "workers": 27,
+      "city": "Milpitas"
+    },
+    {
+      "date": "04/21/2015",
+      "effective_date": "06/20/2015",
+      "state": "CA",
+      "workers": 61,
+      "city": "Milpitas"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2025-02-24",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-25-033433",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002023554&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 1,
+    "itemCounts": {
+      "5.02": 1
+    },
+    "latestFilingDate": "2025-02-24",
+    "earliestFilingDate": "2025-02-24"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

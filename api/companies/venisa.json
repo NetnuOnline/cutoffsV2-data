@@ -1,0 +1,61 @@
+{
+  "slug": "venisa",
+  "canonical_name": "VENISA INC",
+  "fein": "82-1505776",
+  "lca_filing_count": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 93000.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 93000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 96500.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "BUSINESS ANALYST",
+      "count": 2,
+      "median_wage_usd": 93000.0
+    },
+    {
+      "title": "SENIOR IT PROJECT MANAGER",
+      "count": 1,
+      "median_wage_usd": 100000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MA",
+      "county": "GRAFTON",
+      "count": 2
+    },
+    {
+      "state": "MA",
+      "county": "WORCESTER CITY",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MA",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1111",
+    "soc_title": "Management Analysts",
+    "market_median_usd": 99000.0,
+    "employer_median_usd": 93000.0,
+    "gap_usd": -6000.0
+  }
+}

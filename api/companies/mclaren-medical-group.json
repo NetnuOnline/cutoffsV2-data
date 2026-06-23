@@ -1,0 +1,163 @@
+{
+  "slug": "mclaren-medical-group",
+  "canonical_name": "McLaren Medical Group",
+  "fein": "38-2988086",
+  "lca_filing_count": 7,
+  "warn_notice_count": 1,
+  "median_wage_usd": 240000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 198000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 240000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 240000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 480000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Internal Medicine Physician",
+      "count": 3,
+      "median_wage_usd": 240000.0
+    },
+    {
+      "title": "Physician of Internal Medicine",
+      "count": 1,
+      "median_wage_usd": 198000.0
+    },
+    {
+      "title": "Core Faculty",
+      "count": 1,
+      "median_wage_usd": 312000.0
+    },
+    {
+      "title": "Physician of Family Medicine",
+      "count": 1,
+      "median_wage_usd": 240000.0
+    },
+    {
+      "title": "Interventional Radiologist",
+      "count": 1,
+      "median_wage_usd": 700000.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MI",
+      "count": 7
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MI",
+      "county": "ST CLAIR",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "county": "ISABELLA",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "county": "MACOMB",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "county": "HURON",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "county": "INGHAM",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "02/02/2016",
+      "effective_date": "02/02/2016",
+      "state": "MI",
+      "workers": 63,
+      "city": "Statewide"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 10,
+    "initial_denials": 0,
+    "continuing_approvals": 7,
+    "continuing_denials": 0,
+    "total_approvals": 17,
+    "by_fy": [
+      {
+        "fy": 2013,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2017,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 3,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 6
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 5,
+        "initial_denials": 0,
+        "continuing_approvals": 3,
+        "continuing_denials": 0,
+        "total_approvals": 8
+      }
+    ]
+  },
+  "lca_worker_positions": 7,
+  "top_socs": [],
+  "lca_periods": []
+}

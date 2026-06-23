@@ -1,0 +1,69 @@
+{
+  "slug": "meijer-stores-limited-partnership",
+  "canonical_name": "Meijer Stores Limited Partnership",
+  "fein": "38-3496076",
+  "lca_filing_count": 5,
+  "lca_worker_positions": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 150060.0,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 4,
+      "median_wage_usd": 156056.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 139725.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Platform Architect",
+      "count": 2,
+      "median_wage_usd": 162052.0
+    },
+    {
+      "title": "Engineer, Sr. EDW Systems",
+      "count": 1,
+      "median_wage_usd": 139725.0
+    },
+    {
+      "title": "Sr. Technical Engineer",
+      "count": 1,
+      "median_wage_usd": 149971.5
+    },
+    {
+      "title": "Sr.  Database Administrator",
+      "count": 1,
+      "median_wage_usd": 150060.0
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 2
+    },
+    {
+      "state": "MI",
+      "count": 2
+    },
+    {
+      "state": "KY",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 162052.0,
+    "gap_usd": 31892.0
+  }
+}

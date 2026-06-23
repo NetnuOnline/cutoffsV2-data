@@ -1,0 +1,90 @@
+{
+  "slug": "memorial-health-services",
+  "canonical_name": "Memorial Health Services",
+  "fein": "95-1643381",
+  "lca_filing_count": 3,
+  "warn_notice_count": 3,
+  "median_wage_usd": 130957.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 130957.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 101920.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 153774.4
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Systems Engineer",
+      "count": 1,
+      "median_wage_usd": 130957.0
+    },
+    {
+      "title": "Clinical Laboratory Scientist - Chemistry/Hematology",
+      "count": 1,
+      "median_wage_usd": 101920.0
+    },
+    {
+      "title": "Systems Architect",
+      "count": 1,
+      "median_wage_usd": 153774.4
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 3
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "ORANGE",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "08/20/2020",
+      "effective_date": "08/20/2020",
+      "state": "CA",
+      "workers": 30,
+      "city": "Fountain Valley"
+    },
+    {
+      "date": "01/26/2017",
+      "effective_date": "03/28/2017",
+      "state": "CA",
+      "workers": 422,
+      "city": "Long Beach"
+    },
+    {
+      "date": "03/01/2016",
+      "effective_date": "05/31/2016",
+      "state": "CA",
+      "workers": 194,
+      "city": "San Clemente"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": []
+}

@@ -1,0 +1,96 @@
+{
+  "slug": "straumann-usa",
+  "canonical_name": "Straumann USA, LLC",
+  "fein": "04-3068495",
+  "lca_filing_count": 7,
+  "lca_worker_positions": 7,
+  "warn_notice_count": 0,
+  "median_wage_usd": 162342.18,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 148199.09
+    },
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 141161.445
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 230000.16
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 165728.94,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Director, Supply Chain & Logistics",
+      "count": 1,
+      "median_wage_usd": 211150.16
+    },
+    {
+      "title": "Senior Manager, Warehouse and Logistics ",
+      "count": 1,
+      "median_wage_usd": 134056.0
+    },
+    {
+      "title": "e-Channel Manager",
+      "count": 1,
+      "median_wage_usd": 105000.0
+    },
+    {
+      "title": "Sr. Director Operational Excellence & Supply Chain ",
+      "count": 1,
+      "median_wage_usd": 162342.18
+    },
+    {
+      "title": "eChannel Manager",
+      "count": 1,
+      "median_wage_usd": 120307.72
+    },
+    {
+      "title": "Sr. Director Operational Excellence & Supply Chain",
+      "count": 1,
+      "median_wage_usd": 177322.89
+    },
+    {
+      "title": "Head of Global Supply Chain Excellence",
+      "count": 1,
+      "median_wage_usd": 230000.16
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MA",
+      "county": "ANDOVER",
+      "count": 5
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MA",
+      "count": 6
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1111",
+    "soc_title": "Management Analysts",
+    "market_median_usd": 99000.0,
+    "employer_median_usd": 177322.89,
+    "gap_usd": 78322.89
+  }
+}

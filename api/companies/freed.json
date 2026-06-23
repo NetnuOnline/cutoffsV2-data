@@ -1,0 +1,49 @@
+{
+  "slug": "freed",
+  "canonical_name": "Freed, Inc.",
+  "fein": "93-4203770",
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 282500.0,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 282500.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Chief Financial Officer",
+      "count": 1,
+      "median_wage_usd": 305000.0
+    },
+    {
+      "title": "Engineering Manager",
+      "count": 1,
+      "median_wage_usd": 260000.0
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "CO",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3021",
+    "soc_title": "Computer and Information Systems Managers",
+    "market_median_usd": 169510.0,
+    "employer_median_usd": 260000.0,
+    "gap_usd": 90490.0
+  }
+}

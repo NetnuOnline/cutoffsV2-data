@@ -1,0 +1,203 @@
+{
+  "slug": "amdocs",
+  "canonical_name": "Amdocs, Inc.",
+  "fein": "43-1339487",
+  "lca_filing_count": 179,
+  "lca_worker_positions": 174,
+  "warn_notice_count": 0,
+  "median_wage_usd": 120000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 46,
+      "median_wage_usd": 106984.8
+    },
+    {
+      "fy": 2021,
+      "filings": 35,
+      "median_wage_usd": 116400.0
+    },
+    {
+      "fy": 2022,
+      "filings": 30,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 18,
+      "median_wage_usd": 121118.5
+    },
+    {
+      "fy": 2024,
+      "filings": 17,
+      "median_wage_usd": 127504.0
+    },
+    {
+      "fy": 2025,
+      "filings": 18,
+      "median_wage_usd": 145895.0
+    },
+    {
+      "fy": 2026,
+      "filings": 10,
+      "median_wage_usd": 118700.16,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 14,
+      "median_wage_usd": 101400.0
+    },
+    {
+      "title": "Software Development Specialist",
+      "count": 14,
+      "median_wage_usd": 134819.99
+    },
+    {
+      "title": "Software Development Manager",
+      "count": 12,
+      "median_wage_usd": 128933.5
+    },
+    {
+      "title": "Software Development Team Lead",
+      "count": 9,
+      "median_wage_usd": 117249.04
+    },
+    {
+      "title": "RF Engineering Manager",
+      "count": 7,
+      "median_wage_usd": 132982.8
+    },
+    {
+      "title": "Business Analyst",
+      "count": 5,
+      "median_wage_usd": 110594.0
+    },
+    {
+      "title": "Sr. RF Engineer",
+      "count": 4,
+      "median_wage_usd": 87850.0
+    },
+    {
+      "title": "Solution Manager",
+      "count": 4,
+      "median_wage_usd": 162500.0
+    },
+    {
+      "title": "Software Test Manager",
+      "count": 4,
+      "median_wage_usd": 110621.0
+    },
+    {
+      "title": "DB Specialist",
+      "count": 3,
+      "median_wage_usd": 100553.04
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 46
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 25
+    },
+    {
+      "state": "VA",
+      "county": "FAIRFAX",
+      "count": 15
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 15
+    },
+    {
+      "state": "IL",
+      "county": "CHAMPAIGN",
+      "count": 10
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 6
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 6
+    },
+    {
+      "state": "PA",
+      "county": "PHILADELPHIA",
+      "count": 5
+    },
+    {
+      "state": "NJ",
+      "county": "BURLINGTON",
+      "count": 5
+    },
+    {
+      "state": "MO",
+      "county": "ST LOUIS",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 67
+    },
+    {
+      "state": "GA",
+      "count": 32
+    },
+    {
+      "state": "IL",
+      "count": 21
+    },
+    {
+      "state": "VA",
+      "count": 18
+    },
+    {
+      "state": "PA",
+      "count": 9
+    },
+    {
+      "state": "NJ",
+      "count": 9
+    },
+    {
+      "state": "WA",
+      "count": 8
+    },
+    {
+      "state": "NY",
+      "count": 3
+    },
+    {
+      "state": "MO",
+      "count": 3
+    },
+    {
+      "state": "CA",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 128190.0,
+    "gap_usd": -1970.0
+  }
+}

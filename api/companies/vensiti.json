@@ -1,0 +1,148 @@
+{
+  "slug": "vensiti",
+  "canonical_name": "Vensiti, Inc.",
+  "fein": "20-0619175",
+  "lca_filing_count": 10,
+  "lca_worker_positions": 10,
+  "warn_notice_count": 0,
+  "median_wage_usd": 96250.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 93558.0
+    },
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 79000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 98837.6
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 95000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 101750.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 110900.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Business Enterprise Architect",
+      "count": 2,
+      "median_wage_usd": 95000.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 2,
+      "median_wage_usd": 101750.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 1,
+      "median_wage_usd": 93558.0
+    },
+    {
+      "title": "SharePoint Developer",
+      "count": 1,
+      "median_wage_usd": 99000.0
+    },
+    {
+      "title": ".Net Developer",
+      "count": 1,
+      "median_wage_usd": 63000.0
+    },
+    {
+      "title": "Database Developer IV",
+      "count": 1,
+      "median_wage_usd": 95000.0
+    },
+    {
+      "title": "Java Developer",
+      "count": 1,
+      "median_wage_usd": 98675.2
+    },
+    {
+      "title": "Sr. Oracle Database Administrator",
+      "count": 1,
+      "median_wage_usd": 110900.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "county": "BEXAR",
+      "count": 2
+    },
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 1
+    },
+    {
+      "state": "WI",
+      "county": "LA CROSSE",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "county": "WAYNE",
+      "count": 1
+    },
+    {
+      "state": "UT",
+      "county": "SALT LAKE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 6
+    },
+    {
+      "state": "AZ",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "count": 1
+    },
+    {
+      "state": "UT",
+      "count": 1
+    },
+    {
+      "state": "WI",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 98087.6,
+    "gap_usd": -32072.4
+  }
+}

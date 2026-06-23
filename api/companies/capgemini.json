@@ -1,0 +1,128 @@
+{
+  "slug": "capgemini",
+  "canonical_name": "Capgemini America Inc",
+  "fein": null,
+  "lca_filing_count": 1111,
+  "warn_notice_count": 10,
+  "median_wage_usd": 130854,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 0,
+      "median_wage_usd": null
+    },
+    {
+      "fy": 2026,
+      "filings": 0,
+      "median_wage_usd": null
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Applications Consultant 3",
+      "count": 0,
+      "median_wage_usd": null
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 7
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "count": 1
+    },
+    {
+      "state": "KS",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "09/01/2009",
+      "effective_date": "11/02/2009",
+      "state": "TX",
+      "workers": 190,
+      "city": "Dallas"
+    },
+    {
+      "date": "02/20/2009",
+      "effective_date": "04/30/2009",
+      "state": "TX",
+      "workers": 1,
+      "city": "Irving"
+    },
+    {
+      "date": "02/10/2009",
+      "effective_date": "04/17/2009",
+      "state": "TX",
+      "workers": 118,
+      "city": "Irving"
+    },
+    {
+      "date": "02/10/2009",
+      "effective_date": "04/17/2009",
+      "state": "TX",
+      "workers": 56,
+      "city": "Irving"
+    },
+    {
+      "date": "01/23/2006",
+      "effective_date": "03/31/2006",
+      "state": "TX",
+      "workers": 153,
+      "city": "Irving"
+    },
+    {
+      "date": "12/02/2005",
+      "effective_date": "02/07/2006",
+      "state": "TX",
+      "workers": 65,
+      "city": "Irving"
+    },
+    {
+      "date": "01/31/2005",
+      "effective_date": "01/31/2005",
+      "state": "NJ",
+      "workers": 133,
+      "city": "SECAUCUS"
+    },
+    {
+      "date": "12/16/2004",
+      "effective_date": "02/14/2005",
+      "state": "TX",
+      "workers": 286,
+      "city": "Waco"
+    },
+    {
+      "date": "11/18/2004",
+      "effective_date": "01/01/2005",
+      "state": "IL",
+      "workers": 66,
+      "city": "Chicago"
+    },
+    {
+      "date": "11/18/2004",
+      "effective_date": "11/18/2004",
+      "state": "KS",
+      "workers": 51,
+      "city": "3 - Workforce Investment Area III"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "heart-of-texas-wda",
+      "name": "Heart of Texas WDA",
+      "state": "TX"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

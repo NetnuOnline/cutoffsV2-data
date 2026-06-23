@@ -1,0 +1,43 @@
+{
+  "slug": "hgi-mark-twain",
+  "canonical_name": "HGI - Mark Twain LLC",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "MO",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "03/31/2020",
+      "effective_date": "04/01/2020",
+      "state": "MO",
+      "workers": 150,
+      "city": "St. Joseph"
+    },
+    {
+      "date": "03/30/2020",
+      "effective_date": "04/01/2020",
+      "state": "MO",
+      "workers": 139,
+      "city": "La Grange"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "northeast-region-wib",
+      "name": "Northeast Region WIB",
+      "state": "MO"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

@@ -1,0 +1,191 @@
+{
+  "slug": "american-eagle-outfitters",
+  "canonical_name": "American Eagle Outfitters, Inc.",
+  "fein": "13-2721761",
+  "lca_filing_count": 48,
+  "lca_worker_positions": 47,
+  "warn_notice_count": 0,
+  "median_wage_usd": 140000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 6,
+      "median_wage_usd": 112500.0
+    },
+    {
+      "fy": 2021,
+      "filings": 11,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 10,
+      "median_wage_usd": 169414.5
+    },
+    {
+      "fy": 2023,
+      "filings": 7,
+      "median_wage_usd": 145660.0
+    },
+    {
+      "fy": 2024,
+      "filings": 6,
+      "median_wage_usd": 124977.5
+    },
+    {
+      "fy": 2025,
+      "filings": 5,
+      "median_wage_usd": 180400.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 128392.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SENIOR SOFTWARE ENGINEER",
+      "count": 2,
+      "median_wage_usd": 179142.5
+    },
+    {
+      "title": "MANAGER - ENGINEERING",
+      "count": 2,
+      "median_wage_usd": 186810.0
+    },
+    {
+      "title": "Associate Manager of Stability",
+      "count": 1,
+      "median_wage_usd": 120150.0
+    },
+    {
+      "title": "LEAD - PLANNING & FORECASTING",
+      "count": 1,
+      "median_wage_usd": 114955.0
+    },
+    {
+      "title": "UI Engineer",
+      "count": 1,
+      "median_wage_usd": 100545.0
+    },
+    {
+      "title": "Manager - Quality Engineering (QA)",
+      "count": 1,
+      "median_wage_usd": 156255.0
+    },
+    {
+      "title": "DESIGNER",
+      "count": 1,
+      "median_wage_usd": 100525.0
+    },
+    {
+      "title": "ANALYST - CUSTOMER INSIGHTS",
+      "count": 1,
+      "median_wage_usd": 85000.0
+    },
+    {
+      "title": "STAFF ENGINEER",
+      "count": 1,
+      "median_wage_usd": 136635.0
+    },
+    {
+      "title": "PRINCIPAL ENGINEER",
+      "count": 1,
+      "median_wage_usd": 300000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "PA",
+      "county": "ALLEGHENY",
+      "count": 19
+    },
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 8
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 3
+    },
+    {
+      "state": "PA",
+      "county": "BUTLER",
+      "count": 2
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 2
+    },
+    {
+      "state": "VA",
+      "county": "FAIRFAX",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SAN MATEO",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 1
+    },
+    {
+      "state": "OH",
+      "county": "LORAIN",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SAN DIEGO",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "PA",
+      "count": 26
+    },
+    {
+      "state": "CA",
+      "count": 13
+    },
+    {
+      "state": "WA",
+      "count": 4
+    },
+    {
+      "state": "NY",
+      "count": 2
+    },
+    {
+      "state": "VA",
+      "count": 1
+    },
+    {
+      "state": "OH",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 168829.0,
+    "gap_usd": 38669.0
+  }
+}

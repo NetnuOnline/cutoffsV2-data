@@ -1,0 +1,111 @@
+{
+  "slug": "the-logistics-company",
+  "canonical_name": "The Logistics Company",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 8,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "VA",
+      "count": 4
+    },
+    {
+      "state": "GA",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "OK",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "03/09/2022",
+      "effective_date": "03/09/2022",
+      "state": "GA",
+      "workers": 170,
+      "city": "Ft. Benning"
+    },
+    {
+      "date": "01/31/2022",
+      "effective_date": "03/31/2022",
+      "state": "NC",
+      "workers": 44,
+      "city": "4710 Knox Street, Fort Bragg"
+    },
+    {
+      "date": "01/07/2022",
+      "effective_date": "03/11/2022",
+      "state": "VA",
+      "workers": 47,
+      "city": "Fort Eustis, VA"
+    },
+    {
+      "date": "10/08/2021",
+      "effective_date": "12/07/2021",
+      "state": "VA",
+      "workers": 45,
+      "city": "Ft Eustis, VA"
+    },
+    {
+      "date": "07/09/2021",
+      "effective_date": "09/07/2021",
+      "state": "VA",
+      "workers": 119,
+      "city": "Fort Lee, VA"
+    },
+    {
+      "date": "07/09/2021",
+      "effective_date": "09/07/2021",
+      "state": "VA",
+      "workers": 41,
+      "city": "Fort Eustis, VA"
+    },
+    {
+      "date": "09/06/2013",
+      "effective_date": "09/29/2013",
+      "state": "TX",
+      "workers": 66,
+      "city": "Fort Bliss"
+    },
+    {
+      "date": "07/20/2011",
+      "effective_date": "07/20/2011",
+      "state": "OK",
+      "workers": 23,
+      "city": "06 - SouthCentralRegion"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "lower-chattahoochee-wib",
+      "name": "Lower Chattahoochee WIB",
+      "state": "GA"
+    },
+    {
+      "slug": "greater-peninsula-lwia-xiv",
+      "name": "Greater Peninsula LWIA XIV",
+      "state": "VA"
+    },
+    {
+      "slug": "crater-area-lwia-xv",
+      "name": "Crater Area LWIA XV",
+      "state": "VA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

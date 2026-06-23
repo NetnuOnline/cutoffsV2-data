@@ -1,0 +1,91 @@
+{
+  "slug": "aurora-energy-research",
+  "canonical_name": "Aurora Energy Research LLC",
+  "fein": "86-2357836",
+  "lca_filing_count": 6,
+  "lca_worker_positions": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 97500.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 105000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 77700.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 134600.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 111050.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Commercial Associate",
+      "count": 2,
+      "median_wage_usd": 90000.0
+    },
+    {
+      "title": "Senior Associate",
+      "count": 1,
+      "median_wage_usd": 134600.0
+    },
+    {
+      "title": "Commercial Manager ",
+      "count": 1,
+      "median_wage_usd": 105000.0
+    },
+    {
+      "title": "Associate",
+      "count": 1,
+      "median_wage_usd": 111050.0
+    },
+    {
+      "title": "Commercial Associate",
+      "count": 1,
+      "median_wage_usd": 77700.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 4
+    },
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 5
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 111050.0,
+    "gap_usd": 3030.0
+  }
+}

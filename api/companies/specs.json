@@ -1,0 +1,94 @@
+{
+  "slug": "specs",
+  "canonical_name": "Specs Inc.",
+  "fein": "39-4720355",
+  "lca_filing_count": 22,
+  "lca_worker_positions": 21,
+  "warn_notice_count": 0,
+  "median_wage_usd": 157581.0,
+  "by_fy": [
+    {
+      "fy": 2026,
+      "filings": 21,
+      "median_wage_usd": 157581.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer (4)",
+      "count": 8,
+      "median_wage_usd": 157581.0
+    },
+    {
+      "title": "Software Engineer (5)",
+      "count": 4,
+      "median_wage_usd": 198588.0
+    },
+    {
+      "title": "DFT Engineer (4)",
+      "count": 1,
+      "median_wage_usd": 167606.0
+    },
+    {
+      "title": "Security Engineer (4)",
+      "count": 1,
+      "median_wage_usd": 157581.0
+    },
+    {
+      "title": "Electrical Engineer (5)",
+      "count": 1,
+      "median_wage_usd": 162011.0
+    },
+    {
+      "title": "Technical Program Manager, Hardware (5)",
+      "count": 1,
+      "median_wage_usd": 131186.0
+    },
+    {
+      "title": "Software Engineer (3)",
+      "count": 1,
+      "median_wage_usd": 129667.0
+    },
+    {
+      "title": "Staff Product Manager (6)",
+      "count": 1,
+      "median_wage_usd": 145246.0
+    },
+    {
+      "title": "Visual Designer (5)",
+      "count": 1,
+      "median_wage_usd": 152734.0
+    },
+    {
+      "title": "Custom IC Layout Engineer (4)",
+      "count": 1,
+      "median_wage_usd": 148866.0
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 17
+    },
+    {
+      "state": "WA",
+      "count": 4
+    },
+    {
+      "state": "NV",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 157581.0,
+    "gap_usd": 27421.0
+  }
+}

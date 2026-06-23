@@ -1,0 +1,203 @@
+{
+  "slug": "paypal",
+  "canonical_name": "PayPal, Inc.",
+  "fein": "77-0510487",
+  "lca_filing_count": 1444,
+  "lca_worker_positions": 1429,
+  "warn_notice_count": 0,
+  "median_wage_usd": 170000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 203,
+      "median_wage_usd": 157188.0
+    },
+    {
+      "fy": 2021,
+      "filings": 230,
+      "median_wage_usd": 157162.5
+    },
+    {
+      "fy": 2022,
+      "filings": 198,
+      "median_wage_usd": 165000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 165,
+      "median_wage_usd": 157954.5
+    },
+    {
+      "fy": 2024,
+      "filings": 213,
+      "median_wage_usd": 173723.0
+    },
+    {
+      "fy": 2025,
+      "filings": 221,
+      "median_wage_usd": 190000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 199,
+      "median_wage_usd": 194178.255,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer 3",
+      "count": 138,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "title": "MTS 1, Software Engineer",
+      "count": 108,
+      "median_wage_usd": 174687.815
+    },
+    {
+      "title": "Software Engineer 2",
+      "count": 72,
+      "median_wage_usd": 128025.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 63,
+      "median_wage_usd": 181000.0
+    },
+    {
+      "title": "Sr Software Engineer",
+      "count": 50,
+      "median_wage_usd": 180636.24
+    },
+    {
+      "title": "MTS 2, Software Engineer",
+      "count": 47,
+      "median_wage_usd": 198886.63
+    },
+    {
+      "title": "Staff Software Engineer",
+      "count": 38,
+      "median_wage_usd": 205660.485
+    },
+    {
+      "title": "Software Engineer",
+      "count": 29,
+      "median_wage_usd": 145000.0
+    },
+    {
+      "title": "Manager, Software Development 2",
+      "count": 28,
+      "median_wage_usd": 202426.245
+    },
+    {
+      "title": "Manager, Software Engineering",
+      "count": 20,
+      "median_wage_usd": 224600.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 663
+    },
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 68
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 59
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 46
+    },
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 45
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 41
+    },
+    {
+      "state": "NE",
+      "county": "SARPY",
+      "count": 24
+    },
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 23
+    },
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 15
+    },
+    {
+      "state": "MD",
+      "county": "BALTIMORE",
+      "count": 10
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 961
+    },
+    {
+      "state": "TX",
+      "count": 148
+    },
+    {
+      "state": "AZ",
+      "count": 88
+    },
+    {
+      "state": "IL",
+      "count": 73
+    },
+    {
+      "state": "NY",
+      "count": 63
+    },
+    {
+      "state": "NE",
+      "count": 25
+    },
+    {
+      "state": "WA",
+      "count": 15
+    },
+    {
+      "state": "MD",
+      "count": 13
+    },
+    {
+      "state": "NJ",
+      "count": 8
+    },
+    {
+      "state": "GA",
+      "count": 7
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 178844.7,
+    "gap_usd": 48684.7
+  }
+}

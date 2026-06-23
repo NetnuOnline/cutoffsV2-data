@@ -1,0 +1,131 @@
+{
+  "slug": "discord",
+  "canonical_name": "Discord, Inc.",
+  "fein": "45-4908598",
+  "lca_filing_count": 58,
+  "lca_worker_positions": 56,
+  "warn_notice_count": 0,
+  "median_wage_usd": 220526.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 205000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 4,
+      "median_wage_usd": 190000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 5,
+      "median_wage_usd": 220000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 7,
+      "median_wage_usd": 198900.0
+    },
+    {
+      "fy": 2024,
+      "filings": 12,
+      "median_wage_usd": 235280.0
+    },
+    {
+      "fy": 2025,
+      "filings": 16,
+      "median_wage_usd": 227500.0
+    },
+    {
+      "fy": 2026,
+      "filings": 10,
+      "median_wage_usd": 242128.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Data Scientist",
+      "count": 12,
+      "median_wage_usd": 218026.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 9,
+      "median_wage_usd": 190000.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 9,
+      "median_wage_usd": 239256.0
+    },
+    {
+      "title": "Staff Data Scientist",
+      "count": 3,
+      "median_wage_usd": 250000.0
+    },
+    {
+      "title": "Software Engineer, Machine Learning",
+      "count": 3,
+      "median_wage_usd": 205000.0
+    },
+    {
+      "title": "Engineering Manager",
+      "count": 3,
+      "median_wage_usd": 285000.0
+    },
+    {
+      "title": "Senior Data Scientist, Analytics",
+      "count": 2,
+      "median_wage_usd": 198900.0
+    },
+    {
+      "title": "Outsourcing Manager, Scaled Programs",
+      "count": 2,
+      "median_wage_usd": 134000.0
+    },
+    {
+      "title": "Senior Data Engineer",
+      "count": 2,
+      "median_wage_usd": 236334.5
+    },
+    {
+      "title": "Senior Product Designer",
+      "count": 2,
+      "median_wage_usd": 215562.5
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 47
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 56
+    },
+    {
+      "state": "TX",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 220526.0,
+    "gap_usd": 112506.0
+  }
+}

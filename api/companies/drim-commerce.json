@@ -1,0 +1,81 @@
+{
+  "slug": "drim-commerce",
+  "canonical_name": "Drim Commerce LLC",
+  "fein": "80-0663016",
+  "lca_filing_count": 6,
+  "lca_worker_positions": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 80000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 79500.0
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 64999.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 80000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 107500.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "PROJECT MANAGER",
+      "count": 3,
+      "median_wage_usd": 82500.0
+    },
+    {
+      "title": "Operation Manager",
+      "count": 1,
+      "median_wage_usd": 64999.0
+    },
+    {
+      "title": "SOFTWARE DEVELOPER",
+      "count": 1,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 79500.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "GA",
+      "county": "GWINNETT",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 4
+    },
+    {
+      "state": "OH",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Information Technology Project Managers",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 82500.0,
+    "gap_usd": -35500.0
+  }
+}

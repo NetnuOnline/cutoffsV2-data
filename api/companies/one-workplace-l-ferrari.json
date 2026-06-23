@@ -1,0 +1,142 @@
+{
+  "slug": "one-workplace-l-ferrari",
+  "canonical_name": "One Workplace L. Ferrari, LLC",
+  "fein": "77-0516002",
+  "lca_filing_count": 5,
+  "warn_notice_count": 1,
+  "median_wage_usd": 100000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 90000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 105000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 100000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SALESFORCE ADMINISTRATOR ",
+      "count": 2,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "title": "SALESFORCE ADMINISTRATOR",
+      "count": 1,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "title": "Designer (Interior)",
+      "count": 1,
+      "median_wage_usd": 90000.0
+    },
+    {
+      "title": "Design Consultant III",
+      "count": 1,
+      "median_wage_usd": 105000.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 5
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SAN JOAQUIN",
+      "count": 3
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 2
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "04/03/2020",
+      "effective_date": "04/07/2020",
+      "state": "CA",
+      "workers": 114,
+      "city": "Santa Clara"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 1,
+    "continuing_denials": 0,
+    "total_approvals": 2,
+    "by_fy": [
+      {
+        "fy": 2009,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2017,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 5,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1211",
+    "soc_title": "Computer Systems Analysts",
+    "market_median_usd": 103800.0,
+    "employer_median_usd": 100000.0,
+    "gap_usd": -3800.0
+  }
+}

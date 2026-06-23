@@ -1,0 +1,84 @@
+{
+  "slug": "yanfeng",
+  "canonical_name": "Yanfeng",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 6,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "MI",
+      "count": 4
+    },
+    {
+      "state": "MO",
+      "count": 1
+    },
+    {
+      "state": "OH",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "01/05/2026",
+      "effective_date": "01/05/2026",
+      "state": "MI",
+      "workers": 192,
+      "city": "Romulus, Michigan"
+    },
+    {
+      "date": "09/17/2024",
+      "effective_date": "11/15/2024",
+      "state": "MO",
+      "workers": 444,
+      "city": "Riverside"
+    },
+    {
+      "date": "11/27/2017",
+      "effective_date": "11/27/2017",
+      "state": "MI",
+      "workers": 345,
+      "city": "Highland Park"
+    },
+    {
+      "date": "02/17/2017",
+      "effective_date": "02/17/2017",
+      "state": "MI",
+      "workers": 285,
+      "city": "Delta Twp."
+    },
+    {
+      "date": "01/26/2017",
+      "effective_date": "01/26/2017",
+      "state": "MI",
+      "workers": 321,
+      "city": "Monroe"
+    },
+    {
+      "date": "01/24/2017",
+      "effective_date": "04/07/2017",
+      "state": "OH",
+      "workers": 185,
+      "city": "Northwood/Wood"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "detroit-workforce-development-department",
+      "name": "Detroit Workforce Development Department",
+      "state": "MI"
+    },
+    {
+      "slug": "southeast-michigan-community-alliance",
+      "name": "Southeast Michigan Community Alliance",
+      "state": "MI"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

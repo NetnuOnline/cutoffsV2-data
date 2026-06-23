@@ -1,0 +1,106 @@
+{
+  "slug": "datavisor",
+  "canonical_name": "Datavisor, Inc.",
+  "fein": "46-4410936",
+  "lca_filing_count": 9,
+  "lca_worker_positions": 9,
+  "warn_notice_count": 0,
+  "median_wage_usd": 135283.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 3,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 211536.0
+    },
+    {
+      "fy": 2026,
+      "filings": 4,
+      "median_wage_usd": 135283.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 2,
+      "median_wage_usd": 135283.0
+    },
+    {
+      "title": "Software Engineer- System",
+      "count": 1,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "title": "Solutions Engineer",
+      "count": 1,
+      "median_wage_usd": 115544.0
+    },
+    {
+      "title": "Engineering Manager",
+      "count": 1,
+      "median_wage_usd": 210000.0
+    },
+    {
+      "title": "Operation Data Analyst",
+      "count": 1,
+      "median_wage_usd": 63294.0
+    },
+    {
+      "title": "VP of Product",
+      "count": 1,
+      "median_wage_usd": 211536.0
+    },
+    {
+      "title": "Technical Account Manager",
+      "count": 1,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Tech Lead",
+      "count": 1,
+      "median_wage_usd": 170186.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 8
+    },
+    {
+      "state": "PA",
+      "county": "ALLEGHENY",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 8
+    },
+    {
+      "state": "PA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 135283.0,
+    "gap_usd": 5123.0
+  }
+}

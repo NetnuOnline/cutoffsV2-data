@@ -1,0 +1,125 @@
+{
+  "slug": "mcfadyen-consulting-group",
+  "canonical_name": "McFadyen Consulting Group, Inc.",
+  "fein": "54-1536037",
+  "lca_filing_count": 12,
+  "lca_worker_positions": 12,
+  "warn_notice_count": 0,
+  "median_wage_usd": 127250.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 5,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 169000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 153980.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 154500.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 154500.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "ATG Developer",
+      "count": 2,
+      "median_wage_usd": 125953.0
+    },
+    {
+      "title": "Technical Architect",
+      "count": 2,
+      "median_wage_usd": 165230.0
+    },
+    {
+      "title": "OCC Architect",
+      "count": 2,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "title": "Magento/Mirakl Technical Lead",
+      "count": 1,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "title": "Business Architect",
+      "count": 1,
+      "median_wage_usd": 122500.0
+    },
+    {
+      "title": "Associate Director of Product Management",
+      "count": 1,
+      "median_wage_usd": 169000.0
+    },
+    {
+      "title": "Senior Vice President of Global Delivery",
+      "count": 1,
+      "median_wage_usd": 275000.0
+    },
+    {
+      "title": "Senior ATG Developer",
+      "count": 1,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "Magento Technical Lead",
+      "count": 1,
+      "median_wage_usd": 132000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "VA",
+      "county": "FAIRFAX",
+      "count": 7
+    },
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 2
+    },
+    {
+      "state": "MA",
+      "county": "MANSFIELD",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "VA",
+      "count": 9
+    },
+    {
+      "state": "CA",
+      "count": 2
+    },
+    {
+      "state": "MA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 143250.0,
+    "gap_usd": 13090.0
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "slug": "may-mobility",
+  "canonical_name": "May Mobility, Inc.",
+  "fein": "81-4997501",
+  "lca_filing_count": 16,
+  "lca_worker_positions": 16,
+  "warn_notice_count": 0,
+  "median_wage_usd": 143500.04,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 136000.03999999998
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 246800.0
+    },
+    {
+      "fy": 2023,
+      "filings": 4,
+      "median_wage_usd": 122500.0
+    },
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 145000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 167750.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 265000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer II",
+      "count": 1,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "title": "Senior Electrical Engineer",
+      "count": 1,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "title": "Senior Software Quality Engineer",
+      "count": 1,
+      "median_wage_usd": 142000.0
+    },
+    {
+      "title": "Autonomy Engineer",
+      "count": 1,
+      "median_wage_usd": 145000.0
+    },
+    {
+      "title": "Manager, Autonomy Engineering",
+      "count": 1,
+      "median_wage_usd": 275000.0
+    },
+    {
+      "title": "Field Autonomy Applications Engineer II",
+      "count": 1,
+      "median_wage_usd": 90000.0
+    },
+    {
+      "title": "Web Engineer",
+      "count": 1,
+      "median_wage_usd": 353600.0
+    },
+    {
+      "title": "Senior Autonomy Technical Project Manager",
+      "count": 1,
+      "median_wage_usd": 205000.0
+    },
+    {
+      "title": "Senior Manager, Test and Validation",
+      "count": 1,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Autonomy Behavior Engineer II",
+      "count": 1,
+      "median_wage_usd": 130000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MI",
+      "county": "WASHTENAW",
+      "count": 9
+    },
+    {
+      "state": "FL",
+      "county": "ORANGE",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "county": "WAYNE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MI",
+      "count": 12
+    },
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 168375.0,
+    "gap_usd": 38215.0
+  }
+}

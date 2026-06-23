@@ -1,0 +1,64 @@
+{
+  "slug": "link-snacks",
+  "canonical_name": "Link Snacks Inc.",
+  "fein": "31-1222037",
+  "lca_filing_count": 1,
+  "warn_notice_count": 1,
+  "median_wage_usd": 142000.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 142000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior SAP Developer",
+      "count": 1,
+      "median_wage_usd": 142000.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MN",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MN",
+      "county": "HENNEPIN",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "12/08/2017",
+      "effective_date": "02/09/2018",
+      "state": "IA",
+      "workers": 36,
+      "city": "Laurens"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "region-5-fort-dodge-wib",
+      "name": "Region 5 - Fort Dodge WIB",
+      "state": "IA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "lca_worker_positions": 1,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 142000.0,
+    "gap_usd": 11840.0
+  }
+}

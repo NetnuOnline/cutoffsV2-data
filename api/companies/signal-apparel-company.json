@@ -1,0 +1,43 @@
+{
+  "slug": "signal-apparel-company",
+  "canonical_name": "Signal Apparel Company",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "03/13/2000",
+      "effective_date": "03/13/2000",
+      "state": "GA",
+      "workers": 265,
+      "city": "Griffin"
+    },
+    {
+      "date": "03/13/1997",
+      "effective_date": "03/13/1997",
+      "state": "GA",
+      "workers": 170,
+      "city": "Lagrange"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "west-central-wib-ga",
+      "name": "West Central WIB",
+      "state": "GA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

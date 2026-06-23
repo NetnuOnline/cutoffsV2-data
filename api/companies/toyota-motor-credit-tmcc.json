@@ -1,0 +1,104 @@
+{
+  "slug": "toyota-motor-credit-tmcc",
+  "canonical_name": "Toyota Motor Credit Corporation (TMCC)",
+  "fein": "95-3775816",
+  "lca_filing_count": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 137735.44,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 137735.44
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 138350.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Analyst Operations",
+      "count": 1,
+      "median_wage_usd": 137735.44
+    },
+    {
+      "title": "Manager, Data Engineering",
+      "count": 1,
+      "median_wage_usd": 155000.0
+    },
+    {
+      "title": "Data Engineer, Senior",
+      "count": 1,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "title": "Manager, Data Analysis",
+      "count": 1,
+      "median_wage_usd": 153700.0
+    },
+    {
+      "title": "Sr. Treasury ALM & Analytics Analyst",
+      "count": 1,
+      "median_wage_usd": 123000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 5
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 5
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 2,
+    "continuing_denials": 0,
+    "total_approvals": 2,
+    "by_fy": [
+      {
+        "fy": 2015,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2016,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      }
+    ]
+  },
+  "lca_worker_positions": 5,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Computer Occupations, All Other",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 141850.0,
+    "gap_usd": 23850.0
+  }
+}

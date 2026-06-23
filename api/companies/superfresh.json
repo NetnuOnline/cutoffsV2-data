@@ -1,0 +1,50 @@
+{
+  "slug": "superfresh",
+  "canonical_name": "Superfresh",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 3,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 3
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "01/11/2013",
+      "effective_date": "01/11/2013",
+      "state": "NJ",
+      "workers": 98,
+      "city": "Westmont"
+    },
+    {
+      "date": "01/11/2013",
+      "effective_date": "01/11/2013",
+      "state": "NJ",
+      "workers": 48,
+      "city": "Marlton"
+    },
+    {
+      "date": "01/11/2013",
+      "effective_date": "01/11/2013",
+      "state": "NJ",
+      "workers": 89,
+      "city": "Plainsboro"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "burlington-wib",
+      "name": "Burlington WIB",
+      "state": "NJ"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

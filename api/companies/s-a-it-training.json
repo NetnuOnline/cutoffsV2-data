@@ -1,0 +1,85 @@
+{
+  "slug": "s-a-it-training",
+  "canonical_name": "S&A IT Training Corporation",
+  "fein": "81-3197209",
+  "lca_filing_count": 8,
+  "warn_notice_count": 0,
+  "median_wage_usd": 90917.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 7,
+      "median_wage_usd": 87069.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 95306.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Business Analyst",
+      "count": 3,
+      "median_wage_usd": 94765.0
+    },
+    {
+      "title": "IT Project Manager",
+      "count": 2,
+      "median_wage_usd": 82711.5
+    },
+    {
+      "title": "Network Engineer",
+      "count": 1,
+      "median_wage_usd": 78354.0
+    },
+    {
+      "title": "SAP Consultant",
+      "count": 1,
+      "median_wage_usd": 102690.0
+    },
+    {
+      "title": "Database Administrator",
+      "count": 1,
+      "median_wage_usd": 86694.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 5
+    },
+    {
+      "state": "IL",
+      "county": "DUPAGE",
+      "count": 2
+    },
+    {
+      "state": "IA",
+      "county": "DALLAS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IL",
+      "count": 7
+    },
+    {
+      "state": "IA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 8,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1111",
+    "soc_title": "Management Analysts",
+    "market_median_usd": 99000.0,
+    "employer_median_usd": 94765.0,
+    "gap_usd": -4235.0
+  }
+}

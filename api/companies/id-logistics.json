@@ -1,0 +1,84 @@
+{
+  "slug": "id-logistics",
+  "canonical_name": "ID Logistics",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 6,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "FL",
+      "count": 3
+    },
+    {
+      "state": "NJ",
+      "count": 2
+    },
+    {
+      "state": "PA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "10/02/2025",
+      "effective_date": "12/14/2025",
+      "state": "FL",
+      "workers": 81,
+      "city": "SAINT PETERSBURG"
+    },
+    {
+      "date": "10/02/2025",
+      "effective_date": "12/14/2025",
+      "state": "FL",
+      "workers": 119,
+      "city": "SAINT PETERSBURG"
+    },
+    {
+      "date": "10/02/2025",
+      "effective_date": "12/14/2025",
+      "state": "FL",
+      "workers": 55,
+      "city": "SAINT PETERSBURG"
+    },
+    {
+      "date": "12/31/2024",
+      "effective_date": "12/31/2024",
+      "state": "PA",
+      "workers": 108,
+      "city": "Taylor"
+    },
+    {
+      "date": "10/12/2023",
+      "effective_date": "01/11/2024",
+      "state": "NJ",
+      "workers": 108,
+      "city": "Avenel"
+    },
+    {
+      "date": "04/24/2023",
+      "effective_date": "07/14/2023",
+      "state": "NJ",
+      "workers": 67,
+      "city": "Avenel"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "careersource-pinellas",
+      "name": "CareerSource Pinellas",
+      "state": "FL"
+    },
+    {
+      "slug": "middlesex-wib",
+      "name": "Middlesex WIB",
+      "state": "NJ"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

@@ -1,0 +1,56 @@
+{
+  "slug": "seis",
+  "canonical_name": "Seis, Inc.",
+  "fein": "86-2657682",
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 39114.5,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 32469.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 45760.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Account Executive",
+      "count": 1,
+      "median_wage_usd": 32469.0
+    },
+    {
+      "title": "Product & Customer Research Specialist",
+      "count": 1,
+      "median_wage_usd": 45760.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "UT",
+      "county": "UTAH",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "UT",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1161",
+    "soc_title": "Market Research Analysts and Marketing Specialists",
+    "market_median_usd": 74680.0,
+    "employer_median_usd": 39114.5,
+    "gap_usd": -35565.5
+  }
+}

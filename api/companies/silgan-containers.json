@@ -1,0 +1,509 @@
+{
+  "slug": "silgan-containers",
+  "canonical_name": "Silgan Containers",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 61,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 46
+    },
+    {
+      "state": "WI",
+      "count": 4
+    },
+    {
+      "state": "IL",
+      "count": 3
+    },
+    {
+      "state": "NY",
+      "count": 2
+    },
+    {
+      "state": "IN",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "TN",
+      "count": 1
+    },
+    {
+      "state": "MO",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "08/25/2025",
+      "effective_date": "10/27/2025",
+      "state": "CA",
+      "workers": 180,
+      "city": "Riverbank"
+    },
+    {
+      "date": "08/19/2025",
+      "effective_date": "10/19/2025",
+      "state": "CA",
+      "workers": 72,
+      "city": "Modesto"
+    },
+    {
+      "date": "08/14/2025",
+      "effective_date": "10/13/2025",
+      "state": "CA",
+      "workers": 78,
+      "city": "Modesto"
+    },
+    {
+      "date": "05/21/2025",
+      "effective_date": "07/21/2025",
+      "state": "WI",
+      "workers": 56,
+      "city": "Oconomowoc"
+    },
+    {
+      "date": "10/02/2023",
+      "effective_date": "12/02/2023",
+      "state": "IL",
+      "workers": 70,
+      "city": "Hoopeston"
+    },
+    {
+      "date": "09/28/2023",
+      "effective_date": "11/27/2023",
+      "state": "TN",
+      "workers": 21,
+      "city": "Gibson County"
+    },
+    {
+      "date": "06/22/2022",
+      "effective_date": "10/20/2024",
+      "state": "CA",
+      "workers": 70,
+      "city": "Modesto"
+    },
+    {
+      "date": "06/22/2022",
+      "effective_date": "10/14/2024",
+      "state": "CA",
+      "workers": 44,
+      "city": "Antioch"
+    },
+    {
+      "date": "06/22/2022",
+      "effective_date": "10/13/2024",
+      "state": "CA",
+      "workers": 72,
+      "city": "Modesto"
+    },
+    {
+      "date": "06/22/2022",
+      "effective_date": "12/26/2022",
+      "state": "CA",
+      "workers": 35,
+      "city": "Modesto"
+    },
+    {
+      "date": "06/22/2022",
+      "effective_date": "12/26/2022",
+      "state": "CA",
+      "workers": 51,
+      "city": "Modesto"
+    },
+    {
+      "date": "06/22/2022",
+      "effective_date": "11/28/2022",
+      "state": "CA",
+      "workers": 35,
+      "city": "Modesto"
+    },
+    {
+      "date": "06/22/2022",
+      "effective_date": "10/31/2022",
+      "state": "CA",
+      "workers": 35,
+      "city": "Modesto"
+    },
+    {
+      "date": "06/22/2022",
+      "effective_date": "10/31/2022",
+      "state": "CA",
+      "workers": 51,
+      "city": "Modesto"
+    },
+    {
+      "date": "06/22/2022",
+      "effective_date": "10/03/2022",
+      "state": "CA",
+      "workers": 47,
+      "city": "Modesto"
+    },
+    {
+      "date": "06/22/2022",
+      "effective_date": "10/03/2022",
+      "state": "CA",
+      "workers": 51,
+      "city": "Modesto"
+    },
+    {
+      "date": "06/02/2022",
+      "effective_date": "10/24/2022",
+      "state": "CA",
+      "workers": 120,
+      "city": "Riverbank"
+    },
+    {
+      "date": "06/02/2022",
+      "effective_date": "10/17/2022",
+      "state": "CA",
+      "workers": 120,
+      "city": "Riverbank"
+    },
+    {
+      "date": "06/02/2022",
+      "effective_date": "10/10/2022",
+      "state": "CA",
+      "workers": 110,
+      "city": "Riverbank"
+    },
+    {
+      "date": "06/02/2022",
+      "effective_date": "10/03/2022",
+      "state": "CA",
+      "workers": 110,
+      "city": "Riverbank"
+    },
+    {
+      "date": "06/02/2022",
+      "effective_date": "09/26/2022",
+      "state": "CA",
+      "workers": 80,
+      "city": "Riverbank"
+    },
+    {
+      "date": "06/02/2022",
+      "effective_date": "09/19/2022",
+      "state": "CA",
+      "workers": 80,
+      "city": "Riverbank"
+    },
+    {
+      "date": "06/02/2022",
+      "effective_date": "09/12/2022",
+      "state": "CA",
+      "workers": 80,
+      "city": "Riverbank"
+    },
+    {
+      "date": "06/02/2022",
+      "effective_date": "09/05/2022",
+      "state": "CA",
+      "workers": 164,
+      "city": "Riverbank"
+    },
+    {
+      "date": "06/02/2022",
+      "effective_date": "09/02/2022",
+      "state": "NY",
+      "workers": 65,
+      "city": "Lyons"
+    },
+    {
+      "date": "06/02/2022",
+      "effective_date": "09/02/2022",
+      "state": "NY",
+      "workers": 0,
+      "city": "Lyons"
+    },
+    {
+      "date": "06/02/2022",
+      "effective_date": "08/29/2022",
+      "state": "CA",
+      "workers": 80,
+      "city": "Riverbank"
+    },
+    {
+      "date": "06/02/2022",
+      "effective_date": "08/22/2022",
+      "state": "CA",
+      "workers": 80,
+      "city": "Riverbank"
+    },
+    {
+      "date": "05/23/2022",
+      "effective_date": "08/15/2022",
+      "state": "CA",
+      "workers": 58,
+      "city": "Sacramento"
+    },
+    {
+      "date": "10/14/2021",
+      "effective_date": "01/17/2022",
+      "state": "CA",
+      "workers": 80,
+      "city": "Riverbank"
+    },
+    {
+      "date": "10/14/2021",
+      "effective_date": "01/10/2022",
+      "state": "CA",
+      "workers": 131,
+      "city": "Riverbank"
+    },
+    {
+      "date": "10/14/2021",
+      "effective_date": "12/27/2021",
+      "state": "CA",
+      "workers": 131,
+      "city": "Riverbank"
+    },
+    {
+      "date": "10/14/2021",
+      "effective_date": "12/20/2021",
+      "state": "CA",
+      "workers": 80,
+      "city": "Riverbank"
+    },
+    {
+      "date": "09/09/2020",
+      "effective_date": "11/09/2020",
+      "state": "CA",
+      "workers": 150,
+      "city": "Riverbank"
+    },
+    {
+      "date": "08/24/2020",
+      "effective_date": "11/11/2020",
+      "state": "CA",
+      "workers": 69,
+      "city": "Modesto"
+    },
+    {
+      "date": "08/24/2020",
+      "effective_date": "10/11/2020",
+      "state": "CA",
+      "workers": 75,
+      "city": "Modesto"
+    },
+    {
+      "date": "11/04/2019",
+      "effective_date": "11/15/2019",
+      "state": "WI",
+      "workers": 70,
+      "city": "Waupun"
+    },
+    {
+      "date": "10/21/2019",
+      "effective_date": "11/18/2019",
+      "state": "WI",
+      "workers": 22,
+      "city": "Menomonee Falls"
+    },
+    {
+      "date": "09/06/2019",
+      "effective_date": "11/11/2019",
+      "state": "CA",
+      "workers": 153,
+      "city": "Riverbank"
+    },
+    {
+      "date": "08/15/2019",
+      "effective_date": "10/14/2019",
+      "state": "CA",
+      "workers": 64,
+      "city": "Modesto"
+    },
+    {
+      "date": "08/06/2019",
+      "effective_date": "10/06/2019",
+      "state": "CA",
+      "workers": 87,
+      "city": "Modesto"
+    },
+    {
+      "date": "08/06/2019",
+      "effective_date": "10/06/2019",
+      "state": "CA",
+      "workers": 86,
+      "city": "Modesto"
+    },
+    {
+      "date": "07/29/2019",
+      "effective_date": "10/04/2019",
+      "state": "MO",
+      "workers": 20,
+      "city": "Mount Vernon"
+    },
+    {
+      "date": "09/20/2018",
+      "effective_date": "11/24/2018",
+      "state": "WI",
+      "workers": 30,
+      "city": "Plover"
+    },
+    {
+      "date": "09/07/2018",
+      "effective_date": "11/12/2018",
+      "state": "CA",
+      "workers": 49,
+      "city": "Sacramento"
+    },
+    {
+      "date": "08/21/2018",
+      "effective_date": "10/22/2018",
+      "state": "CA",
+      "workers": 157,
+      "city": "Riverbank"
+    },
+    {
+      "date": "08/20/2018",
+      "effective_date": "10/22/2018",
+      "state": "CA",
+      "workers": 62,
+      "city": "Modesto"
+    },
+    {
+      "date": "08/20/2018",
+      "effective_date": "10/21/2018",
+      "state": "CA",
+      "workers": 95,
+      "city": "Modesto"
+    },
+    {
+      "date": "08/20/2018",
+      "effective_date": "10/21/2018",
+      "state": "CA",
+      "workers": 86,
+      "city": "Modesto"
+    },
+    {
+      "date": "09/13/2017",
+      "effective_date": "11/13/2017",
+      "state": "CA",
+      "workers": 162,
+      "city": "Riverbank"
+    },
+    {
+      "date": "08/16/2016",
+      "effective_date": "10/16/2016",
+      "state": "CA",
+      "workers": 30,
+      "city": "Modesto"
+    },
+    {
+      "date": "08/16/2016",
+      "effective_date": "10/16/2016",
+      "state": "CA",
+      "workers": 177,
+      "city": "Riverbank"
+    },
+    {
+      "date": "08/02/2016",
+      "effective_date": "09/01/2016",
+      "state": "CA",
+      "workers": 60,
+      "city": "Modesto"
+    },
+    {
+      "date": "02/01/2016",
+      "effective_date": "04/02/2016",
+      "state": "IN",
+      "workers": 62,
+      "city": "LaPorte"
+    },
+    {
+      "date": "02/01/2016",
+      "effective_date": "04/02/2016",
+      "state": "IN",
+      "workers": 62,
+      "city": "LaPorte"
+    },
+    {
+      "date": "08/20/2015",
+      "effective_date": "10/25/2015",
+      "state": "CA",
+      "workers": 180,
+      "city": "Riverbank"
+    },
+    {
+      "date": "09/22/2014",
+      "effective_date": "11/23/2014",
+      "state": "CA",
+      "workers": 178,
+      "city": "Riverbank"
+    },
+    {
+      "date": "03/14/2013",
+      "effective_date": "05/08/2013",
+      "state": "TX",
+      "workers": 19,
+      "city": "Crystal City"
+    },
+    {
+      "date": "01/28/2010",
+      "effective_date": "03/31/2010",
+      "state": "TX",
+      "workers": 16,
+      "city": "Crystal City"
+    },
+    {
+      "date": "11/07/1996",
+      "effective_date": "11/07/1996",
+      "state": "IL",
+      "workers": 0,
+      "city": "Rochelle"
+    },
+    {
+      "date": "09/24/1996",
+      "effective_date": "09/24/1996",
+      "state": "IL",
+      "workers": 0,
+      "city": "Hoopeston"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "stanislaus-county-wib",
+      "name": "Stanislaus County WIB",
+      "state": "CA"
+    },
+    {
+      "slug": "vermilion-county-wib",
+      "name": "Vermilion County WIB",
+      "state": "IL"
+    },
+    {
+      "slug": "southwest-region-wib",
+      "name": "Southwest Region WIB",
+      "state": "MO"
+    },
+    {
+      "slug": "ontariosenecawayneyates-lwia",
+      "name": "Ontario/Seneca/Wayne/Yates LWIA",
+      "state": "NY"
+    },
+    {
+      "slug": "middle-rio-grande-wda",
+      "name": "Middle Rio Grande WDA",
+      "state": "TX"
+    },
+    {
+      "slug": "north-central-wda-wi",
+      "name": "North Central WDA",
+      "state": "WI"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

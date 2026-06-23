@@ -1,0 +1,111 @@
+{
+  "slug": "priority-health",
+  "canonical_name": "Priority Health",
+  "fein": "38-2715520",
+  "lca_filing_count": 8,
+  "lca_worker_positions": 7,
+  "warn_notice_count": 0,
+  "median_wage_usd": 88784.5,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 65530.0
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 80267.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 94120.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 128502.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 118984.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Business Intelligence Analyst",
+      "count": 2,
+      "median_wage_usd": 61016.5
+    },
+    {
+      "title": "Lead Business System Analyst",
+      "count": 1,
+      "median_wage_usd": 99965.0
+    },
+    {
+      "title": "Supervisor, Business Systems Analyst",
+      "count": 1,
+      "median_wage_usd": 128502.0
+    },
+    {
+      "title": "Business Intelligence Developer",
+      "count": 1,
+      "median_wage_usd": 88275.0
+    },
+    {
+      "title": "Business Systems Analyst",
+      "count": 1,
+      "median_wage_usd": 80912.0
+    },
+    {
+      "title": "Analyst, Business Systems Lead",
+      "count": 1,
+      "median_wage_usd": 89294.0
+    },
+    {
+      "title": "Sr. Business Systems Analyst - Agile Product Owner",
+      "count": 1,
+      "median_wage_usd": 118984.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MI",
+      "county": "KENT",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MI",
+      "count": 4
+    },
+    {
+      "state": "TX",
+      "count": 4
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1211",
+    "soc_title": "Computer Systems Analysts",
+    "market_median_usd": 103800.0,
+    "employer_median_usd": 109474.5,
+    "gap_usd": 5674.5
+  }
+}

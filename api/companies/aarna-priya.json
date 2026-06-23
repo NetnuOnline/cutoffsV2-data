@@ -1,0 +1,169 @@
+{
+  "slug": "aarna-priya",
+  "canonical_name": "Aarna Priya Inc",
+  "fein": "81-4150067",
+  "lca_filing_count": 29,
+  "warn_notice_count": 0,
+  "median_wage_usd": 108000.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 12,
+      "median_wage_usd": 98500.0
+    },
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 102000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 14,
+      "median_wage_usd": 121500.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer",
+      "count": 6,
+      "median_wage_usd": 106750.0
+    },
+    {
+      "title": "SOFTWARE DEVELOPER",
+      "count": 5,
+      "median_wage_usd": 118000.0
+    },
+    {
+      "title": "Quality Analyst",
+      "count": 2,
+      "median_wage_usd": 119000.0
+    },
+    {
+      "title": "BUSINESS SYSTEMS ANALYST",
+      "count": 2,
+      "median_wage_usd": 119000.0
+    },
+    {
+      "title": "BUSINESS ANALYST",
+      "count": 2,
+      "median_wage_usd": 130500.0
+    },
+    {
+      "title": "Full Stack Developer",
+      "count": 2,
+      "median_wage_usd": 107500.0
+    },
+    {
+      "title": "\tTest Lead",
+      "count": 2,
+      "median_wage_usd": 98000.0
+    },
+    {
+      "title": "\tSr. Automation Engineer/Test Lead",
+      "count": 1,
+      "median_wage_usd": 98000.0
+    },
+    {
+      "title": "SALESFORCE DEVELOPER",
+      "count": 1,
+      "median_wage_usd": 98500.0
+    },
+    {
+      "title": "INTEGRATION DEVELOPER - SOLUTION ARCHITECT",
+      "count": 1,
+      "median_wage_usd": 102000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "VA",
+      "county": "FAIRFAX",
+      "count": 11
+    },
+    {
+      "state": "NC",
+      "county": "MECKLENBURG",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "county": "OAKLAND",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "VA",
+      "count": 21
+    },
+    {
+      "state": "NC",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "DC",
+      "count": 1
+    },
+    {
+      "state": "AR",
+      "count": 1
+    },
+    {
+      "state": "MI",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 30,
+    "initial_denials": 1,
+    "continuing_approvals": 0,
+    "continuing_denials": 0,
+    "total_approvals": 30,
+    "by_fy": [
+      {
+        "fy": 2021,
+        "initial_approvals": 10,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 10
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 9,
+        "initial_denials": 1,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 9
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 11,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 11
+      }
+    ]
+  },
+  "lca_worker_positions": 29,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 101750.0,
+    "gap_usd": -28410.0
+  }
+}

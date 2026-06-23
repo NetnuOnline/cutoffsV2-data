@@ -1,0 +1,201 @@
+{
+  "slug": "moore-infotech",
+  "canonical_name": "Moore Infotech inc",
+  "fein": "83-4001546",
+  "lca_filing_count": 20,
+  "warn_notice_count": 0,
+  "median_wage_usd": 90302.5,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 66500.0
+    },
+    {
+      "fy": 2022,
+      "filings": 9,
+      "median_wage_usd": 90605.0
+    },
+    {
+      "fy": 2023,
+      "filings": 6,
+      "median_wage_usd": 91750.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 92000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 93773.5
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Business Intelligence Developer",
+      "count": 2,
+      "median_wage_usd": 94806.5
+    },
+    {
+      "title": "Software Engineer  SAP Security",
+      "count": 2,
+      "median_wage_usd": 103400.0
+    },
+    {
+      "title": "NOSQL Data Base Administrator ",
+      "count": 1,
+      "median_wage_usd": 89000.0
+    },
+    {
+      "title": "Python Developer",
+      "count": 1,
+      "median_wage_usd": 82700.0
+    },
+    {
+      "title": "SAP Security Engineer",
+      "count": 1,
+      "median_wage_usd": 90000.0
+    },
+    {
+      "title": "IT Consultant (JAVA Developer)",
+      "count": 1,
+      "median_wage_usd": 100547.0
+    },
+    {
+      "title": "Java Developer ",
+      "count": 1,
+      "median_wage_usd": 90000.0
+    },
+    {
+      "title": "SAP Security & Authorization Consultant",
+      "count": 1,
+      "median_wage_usd": 87000.0
+    },
+    {
+      "title": "Salesforce CRM Developer ",
+      "count": 1,
+      "median_wage_usd": 98000.0
+    },
+    {
+      "title": "SAP Administrator",
+      "count": 1,
+      "median_wage_usd": 92000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TN",
+      "county": "SHELBY",
+      "count": 13
+    },
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "county": "BROWARD",
+      "count": 1
+    },
+    {
+      "state": "OH",
+      "county": "HAMILTON",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "county": "MARLBOROUGH CITY",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TN",
+      "count": 13
+    },
+    {
+      "state": "OH",
+      "count": 2
+    },
+    {
+      "state": "GA",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "AZ",
+      "count": 1
+    },
+    {
+      "state": "FL",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 41,
+    "initial_denials": 3,
+    "continuing_approvals": 1,
+    "continuing_denials": 0,
+    "total_approvals": 42,
+    "by_fy": [
+      {
+        "fy": 2020,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 17,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 17
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 10,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 10
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 13,
+        "initial_denials": 3,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 14
+      }
+    ]
+  },
+  "lca_worker_positions": 20,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 98000.0,
+    "gap_usd": -32160.0
+  }
+}

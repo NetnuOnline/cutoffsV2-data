@@ -1,0 +1,97 @@
+{
+  "slug": "us-tech-systems",
+  "canonical_name": "US TECH SYSTEMS, INC",
+  "fein": "83-2896158",
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 100651.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 102294.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 99008.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Technology Architect",
+      "count": 1,
+      "median_wage_usd": 102294.0
+    },
+    {
+      "title": "Java Developer",
+      "count": 1,
+      "median_wage_usd": 99008.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "AZ",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 10,
+    "initial_denials": 2,
+    "continuing_approvals": 3,
+    "continuing_denials": 1,
+    "total_approvals": 13,
+    "by_fy": [
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 1,
+        "total_approvals": 3
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 4,
+        "initial_denials": 2,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 4
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 4,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 6
+      }
+    ]
+  },
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 99008.0,
+    "gap_usd": -31152.0
+  }
+}

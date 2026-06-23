@@ -1,0 +1,41 @@
+{
+  "slug": "paperworks",
+  "canonical_name": "PaperWorks",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "NC",
+      "count": 1
+    },
+    {
+      "state": "AZ",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "01/04/2024",
+      "effective_date": "03/31/2024",
+      "state": "NC",
+      "workers": 74,
+      "city": "5465 NC-73, Mount Gilead"
+    },
+    {
+      "date": "01/31/2014",
+      "effective_date": "01/31/2014",
+      "state": "AZ",
+      "workers": 100,
+      "city": "Phoenix"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

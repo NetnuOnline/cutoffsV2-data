@@ -1,0 +1,48 @@
+{
+  "slug": "bucks-shoes",
+  "canonical_name": "Buck's Shoes",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "NE",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "04/09/2019",
+      "effective_date": "04/09/2019",
+      "state": "NE",
+      "workers": 2,
+      "city": "Fremont"
+    },
+    {
+      "date": "04/09/2019",
+      "effective_date": "04/09/2019",
+      "state": "NE",
+      "workers": 6,
+      "city": "Omaha"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "omaha-consortium",
+      "name": "Omaha Consortium",
+      "state": "NE"
+    },
+    {
+      "slug": "northeast-economic-region",
+      "name": "Northeast Economic Region",
+      "state": "NE"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

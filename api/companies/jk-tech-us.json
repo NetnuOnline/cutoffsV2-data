@@ -1,0 +1,114 @@
+{
+  "slug": "jk-tech-us",
+  "canonical_name": "JK Tech US Inc",
+  "fein": "13-4055542",
+  "lca_filing_count": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 83965.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 84156.5
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 83834.5
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 83965.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Technical Lead",
+      "count": 2,
+      "median_wage_usd": 83834.5
+    },
+    {
+      "title": "Programmer Analyst",
+      "count": 1,
+      "median_wage_usd": 86400.0
+    },
+    {
+      "title": "Data Analyst",
+      "count": 1,
+      "median_wage_usd": 83965.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 81913.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TN",
+      "county": "SHELBY",
+      "count": 3
+    },
+    {
+      "state": "GA",
+      "county": "HALL",
+      "count": 1
+    },
+    {
+      "state": "MO",
+      "county": "ST LOUIS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TN",
+      "count": 3
+    },
+    {
+      "state": "MO",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 10,
+    "initial_denials": 0,
+    "continuing_approvals": 5,
+    "continuing_denials": 1,
+    "total_approvals": 15,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 6,
+        "initial_denials": 0,
+        "continuing_approvals": 5,
+        "continuing_denials": 0,
+        "total_approvals": 11
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 4,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 1,
+        "total_approvals": 4
+      }
+    ]
+  },
+  "lca_worker_positions": 5,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 87621.5,
+    "gap_usd": -42538.5
+  }
+}

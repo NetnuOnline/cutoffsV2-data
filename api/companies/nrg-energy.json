@@ -1,0 +1,146 @@
+{
+  "slug": "nrg-energy",
+  "canonical_name": "NRG Energy, Inc.",
+  "fein": "41-1724239",
+  "lca_filing_count": 26,
+  "lca_worker_positions": 26,
+  "warn_notice_count": 0,
+  "median_wage_usd": 130302.5,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 3,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 5,
+      "median_wage_usd": 112750.0
+    },
+    {
+      "fy": 2022,
+      "filings": 3,
+      "median_wage_usd": 105186.0
+    },
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 12,
+      "median_wage_usd": 150071.09000000003,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Digital Application Developer",
+      "count": 2,
+      "median_wage_usd": 153268.88
+    },
+    {
+      "title": "Site Reliability Engineer",
+      "count": 2,
+      "median_wage_usd": 110261.0
+    },
+    {
+      "title": "Team Lead II - Applications",
+      "count": 1,
+      "median_wage_usd": 161480.54
+    },
+    {
+      "title": "Sales Engineer",
+      "count": 1,
+      "median_wage_usd": 70854.0
+    },
+    {
+      "title": "Application Developer ",
+      "count": 1,
+      "median_wage_usd": 124971.0
+    },
+    {
+      "title": "Sr. Business Intelligence Developer",
+      "count": 1,
+      "median_wage_usd": 112750.0
+    },
+    {
+      "title": "Manager, Financial Systems",
+      "count": 1,
+      "median_wage_usd": 159650.0
+    },
+    {
+      "title": "Senior Software Engineering Manager",
+      "count": 1,
+      "median_wage_usd": 175000.0
+    },
+    {
+      "title": "Senior SAP Architect",
+      "count": 1,
+      "median_wage_usd": 130686.0
+    },
+    {
+      "title": "Analytics & Customer Insights Analyst",
+      "count": 1,
+      "median_wage_usd": 95399.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 11
+    },
+    {
+      "state": "NJ",
+      "county": "MERCER",
+      "count": 2
+    },
+    {
+      "state": "NY",
+      "county": "ERIE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 14
+    },
+    {
+      "state": "UT",
+      "count": 6
+    },
+    {
+      "state": "NJ",
+      "count": 2
+    },
+    {
+      "state": "FL",
+      "count": 1
+    },
+    {
+      "state": "CO",
+      "count": 1
+    },
+    {
+      "state": "NY",
+      "count": 1
+    },
+    {
+      "state": "OK",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 158604.42,
+    "gap_usd": 28444.42
+  }
+}

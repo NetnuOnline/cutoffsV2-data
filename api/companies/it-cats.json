@@ -1,0 +1,203 @@
+{
+  "slug": "it-cats",
+  "canonical_name": "IT CATS LLC",
+  "fein": "32-0131107",
+  "lca_filing_count": 61,
+  "lca_worker_positions": 57,
+  "warn_notice_count": 0,
+  "median_wage_usd": 105000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 7,
+      "median_wage_usd": 95000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 13,
+      "median_wage_usd": 102000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 12,
+      "median_wage_usd": 119940.0
+    },
+    {
+      "fy": 2023,
+      "filings": 4,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 8,
+      "median_wage_usd": 94120.0
+    },
+    {
+      "fy": 2025,
+      "filings": 9,
+      "median_wage_usd": 99840.0
+    },
+    {
+      "fy": 2026,
+      "filings": 4,
+      "median_wage_usd": 115000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SOFTWARE DEVELOPER",
+      "count": 8,
+      "median_wage_usd": 107500.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 5,
+      "median_wage_usd": 102000.0
+    },
+    {
+      "title": "QA Analyst",
+      "count": 3,
+      "median_wage_usd": 83000.0
+    },
+    {
+      "title": "JAVA DEVELOPER",
+      "count": 3,
+      "median_wage_usd": 80000.0
+    },
+    {
+      "title": "PRODUCT MANAGER",
+      "count": 3,
+      "median_wage_usd": 99840.0
+    },
+    {
+      "title": "Java Developer",
+      "count": 3,
+      "median_wage_usd": 90480.0
+    },
+    {
+      "title": "Integration Developer",
+      "count": 3,
+      "median_wage_usd": 114400.0
+    },
+    {
+      "title": "UI DEVELOPER",
+      "count": 2,
+      "median_wage_usd": 101920.0
+    },
+    {
+      "title": "DevOps Engineer",
+      "count": 2,
+      "median_wage_usd": 136656.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 2,
+      "median_wage_usd": 116560.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "AR",
+      "county": "BENTON",
+      "count": 11
+    },
+    {
+      "state": "NJ",
+      "county": "MIDDLESEX",
+      "count": 6
+    },
+    {
+      "state": "NC",
+      "county": "CABARRUS",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 3
+    },
+    {
+      "state": "KY",
+      "county": "JEFFERSON",
+      "count": 3
+    },
+    {
+      "state": "IN",
+      "county": "ALLEN",
+      "count": 3
+    },
+    {
+      "state": "MD",
+      "county": "MONTGOMERY",
+      "count": 2
+    },
+    {
+      "state": "NC",
+      "county": "MECKLENBURG",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 2
+    },
+    {
+      "state": "MD",
+      "county": "HOWARD",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "AR",
+      "count": 11
+    },
+    {
+      "state": "NJ",
+      "count": 8
+    },
+    {
+      "state": "TX",
+      "count": 7
+    },
+    {
+      "state": "NC",
+      "count": 6
+    },
+    {
+      "state": "OH",
+      "count": 5
+    },
+    {
+      "state": "IN",
+      "count": 3
+    },
+    {
+      "state": "KY",
+      "count": 3
+    },
+    {
+      "state": "NY",
+      "count": 3
+    },
+    {
+      "state": "MD",
+      "count": 3
+    },
+    {
+      "state": "CA",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 120000.0,
+    "gap_usd": -10160.0
+  }
+}

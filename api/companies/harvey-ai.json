@@ -1,0 +1,60 @@
+{
+  "slug": "harvey-ai",
+  "canonical_name": "HARVEY AI CORPORATION",
+  "fein": "88-3448544",
+  "lca_filing_count": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 215000.0,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 6,
+      "median_wage_usd": 215000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 4,
+      "median_wage_usd": 203787.0
+    },
+    {
+      "title": "Senior Data Analyst",
+      "count": 1,
+      "median_wage_usd": 210000.0
+    },
+    {
+      "title": "Senior Employment Counsel",
+      "count": 1,
+      "median_wage_usd": 275000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 5
+    },
+    {
+      "state": "NY",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 6,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 203787.0,
+    "gap_usd": 73627.0
+  }
+}

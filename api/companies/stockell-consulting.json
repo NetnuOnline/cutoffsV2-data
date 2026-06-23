@@ -1,0 +1,77 @@
+{
+  "slug": "stockell-consulting",
+  "canonical_name": "Stockell Consulting",
+  "fein": "43-1409673",
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 108005.6,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 132000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 84011.2
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Product Specialist",
+      "count": 1,
+      "median_wage_usd": 84011.2
+    },
+    {
+      "title": "Data Scientist (Expert)-Data & Analytics-IT-CS-US",
+      "count": 1,
+      "median_wage_usd": 132000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MS",
+      "county": "FORREST",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "IA",
+      "count": 1
+    },
+    {
+      "state": "MS",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 1,
+    "continuing_denials": 0,
+    "total_approvals": 1,
+    "by_fy": [
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 132000.0,
+    "gap_usd": 23980.0
+  }
+}

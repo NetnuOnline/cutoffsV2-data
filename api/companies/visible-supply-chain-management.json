@@ -1,0 +1,88 @@
+{
+  "slug": "visible-supply-chain-management",
+  "canonical_name": "Visible Supply Chain Management, LLC",
+  "fein": null,
+  "lca_filing_count": 1,
+  "warn_notice_count": 2,
+  "median_wage_usd": 80000.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 80000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Pricing Analyst",
+      "count": 1,
+      "median_wage_usd": 80000.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "UT",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "UT",
+      "county": "SALT LAKE",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "04/03/2023",
+      "effective_date": "06/06/2023",
+      "state": "KY",
+      "workers": 2,
+      "city": "Woodford"
+    },
+    {
+      "date": "04/03/2023",
+      "effective_date": "06/02/2023",
+      "state": "OH",
+      "workers": 37,
+      "city": "West Chester/Butler"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "southwest-ohio",
+      "name": "Southwest Ohio",
+      "state": "OH"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 1,
+    "continuing_denials": 0,
+    "total_approvals": 1,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 1,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 80000.0,
+    "gap_usd": -28020.0
+  }
+}

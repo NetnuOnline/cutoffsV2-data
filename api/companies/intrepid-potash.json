@@ -1,0 +1,60 @@
+{
+  "slug": "intrepid-potash",
+  "canonical_name": "INTREPID POTASH",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 1,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "NM",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "05/09/2016",
+      "effective_date": "05/11/2016",
+      "state": "NM",
+      "workers": 300,
+      "city": "Carlsbad"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "eastern-area-wib",
+      "name": "Eastern Area WIB",
+      "state": "NM"
+    }
+  ],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2016-05-09",
+        "formType": "8-K",
+        "accessionNumber": "0001104659-16-118944",
+        "items": [
+          "2.05",
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities",
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001421461&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 1,
+    "itemCounts": {
+      "2.05": 1,
+      "5.02": 1
+    },
+    "latestFilingDate": "2016-05-09",
+    "earliestFilingDate": "2016-05-09"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

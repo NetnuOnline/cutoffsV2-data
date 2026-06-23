@@ -1,0 +1,140 @@
+{
+  "slug": "commonwealth-equity-services",
+  "canonical_name": "Commonwealth Equity Services, LLC",
+  "fein": "04-2675571",
+  "lca_filing_count": 10,
+  "lca_worker_positions": 10,
+  "warn_notice_count": 0,
+  "median_wage_usd": 147681.4,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 130000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 180000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 186234.3
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 148958.6
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 146404.2,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior RPA Engineer",
+      "count": 2,
+      "median_wage_usd": 150505.1
+    },
+    {
+      "title": "Data QA Engineer",
+      "count": 1,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "title": "Senior Systems Engineer",
+      "count": 1,
+      "median_wage_usd": 144200.0
+    },
+    {
+      "title": "Lead Cloud Engineer",
+      "count": 1,
+      "median_wage_usd": 180000.0
+    },
+    {
+      "title": "Supervisor, API Platform Architect",
+      "count": 1,
+      "median_wage_usd": 186234.3
+    },
+    {
+      "title": "Data Engineer",
+      "count": 1,
+      "median_wage_usd": 148958.6
+    },
+    {
+      "title": "Senior API Developer",
+      "count": 1,
+      "median_wage_usd": 187624.8
+    },
+    {
+      "title": "Mulesoft Platform Support Administrator",
+      "count": 1,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "title": "Full Stack Developer, Cloud Solutions",
+      "count": 1,
+      "median_wage_usd": 130000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MA",
+      "county": "WALTHAM CITY",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "FORT BEND",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 5
+    },
+    {
+      "state": "MA",
+      "count": 3
+    },
+    {
+      "state": "NC",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 154606.0,
+    "gap_usd": 24446.0
+  }
+}

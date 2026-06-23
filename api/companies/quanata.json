@@ -1,0 +1,71 @@
+{
+  "slug": "quanata",
+  "canonical_name": "Quanata, LLC",
+  "fein": "81-2481556",
+  "lca_filing_count": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 213650.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 233640.0
+    },
+    {
+      "fy": 2025,
+      "filings": 4,
+      "median_wage_usd": 201825.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Designer",
+      "count": 1,
+      "median_wage_usd": 187116.8
+    },
+    {
+      "title": "Senior Finance Systems Analyst",
+      "count": 1,
+      "median_wage_usd": 235003.64
+    },
+    {
+      "title": "SDET, Back End",
+      "count": 1,
+      "median_wage_usd": 213650.0
+    },
+    {
+      "title": "Senior Business Analyst",
+      "count": 1,
+      "median_wage_usd": 190000.0
+    },
+    {
+      "title": "SDET Engineer",
+      "count": 1,
+      "median_wage_usd": 233640.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 5
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 5,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 223645.0,
+    "gap_usd": 93485.0
+  }
+}

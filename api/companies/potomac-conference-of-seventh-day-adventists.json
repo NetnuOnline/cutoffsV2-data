@@ -1,0 +1,101 @@
+{
+  "slug": "potomac-conference-of-seventh-day-adventists",
+  "canonical_name": "Potomac Corporation Conference of Seventh-day Adventists",
+  "fein": "23-7229478",
+  "lca_filing_count": 8,
+  "lca_worker_positions": 8,
+  "warn_notice_count": 0,
+  "median_wage_usd": 73011.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 54537.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 62914.729999999996
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 77556.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 84355.22
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 75042.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Accountant",
+      "count": 4,
+      "median_wage_usd": 68886.0
+    },
+    {
+      "title": "Pastor",
+      "count": 2,
+      "median_wage_usd": 79167.0
+    },
+    {
+      "title": "School Teacher",
+      "count": 1,
+      "median_wage_usd": 84355.22
+    },
+    {
+      "title": "Teacher",
+      "count": 1,
+      "median_wage_usd": 57363.46
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MD",
+      "county": "MONTGOMERY",
+      "count": 2
+    },
+    {
+      "state": "VA",
+      "county": "STAUNTON CITY",
+      "count": 2
+    },
+    {
+      "state": "VA",
+      "county": "CHESAPEAKE CITY",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "county": "FAIRFAX CITY",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "VA",
+      "count": 6
+    },
+    {
+      "state": "MD",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-2011",
+    "soc_title": "Accountants and Auditors",
+    "market_median_usd": 79000.0,
+    "employer_median_usd": 68886.0,
+    "gap_usd": -10114.0
+  }
+}

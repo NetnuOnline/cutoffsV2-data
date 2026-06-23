@@ -1,0 +1,182 @@
+{
+  "slug": "everi",
+  "canonical_name": "Everi",
+  "fein": null,
+  "lca_filing_count": 5,
+  "warn_notice_count": 6,
+  "median_wage_usd": 99323.09,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 93286.545
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 115085.05
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 100000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Developer IV",
+      "count": 1,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "title": "Engineer Software II",
+      "count": 1,
+      "median_wage_usd": 95000.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 87250.0
+    },
+    {
+      "title": "Developer Applications Lead (IT)",
+      "count": 1,
+      "median_wage_usd": 99323.09
+    },
+    {
+      "title": "Software Development Project Manager",
+      "count": 1,
+      "median_wage_usd": 135170.1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NV",
+      "count": 4
+    },
+    {
+      "state": "MI",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NV",
+      "county": "CLARK",
+      "count": 4
+    },
+    {
+      "state": "MI",
+      "county": "OAKLAND",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "03/25/2020",
+      "effective_date": "03/23/2020",
+      "state": "NV",
+      "workers": 143,
+      "city": "Las Vegas, Clark County"
+    },
+    {
+      "date": "03/25/2020",
+      "effective_date": "03/23/2020",
+      "state": "NV",
+      "workers": 106,
+      "city": "Las Vegas, Clark County"
+    },
+    {
+      "date": "03/25/2020",
+      "effective_date": "03/23/2020",
+      "state": "NV",
+      "workers": 37,
+      "city": "Reno, Washoe County"
+    },
+    {
+      "date": "03/25/2020",
+      "effective_date": "03/23/2020",
+      "state": "NV",
+      "workers": 19,
+      "city": "Las Vegas, Clark County"
+    },
+    {
+      "date": "03/23/2020",
+      "effective_date": "03/01/2020",
+      "state": "IL",
+      "workers": 41,
+      "city": "Chicago"
+    },
+    {
+      "date": "03/23/2020",
+      "effective_date": "03/23/2020",
+      "state": "OK",
+      "workers": 4,
+      "city": null
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 18,
+    "continuing_denials": 0,
+    "total_approvals": 18,
+    "by_fy": [
+      {
+        "fy": 2017,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2018,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 5,
+        "continuing_denials": 0,
+        "total_approvals": 5
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 6,
+        "continuing_denials": 0,
+        "total_approvals": 6
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 7,
+        "continuing_denials": 0,
+        "total_approvals": 7
+      }
+    ]
+  },
+  "lca_worker_positions": 5,
+  "top_socs": [],
+  "lca_periods": []
+}

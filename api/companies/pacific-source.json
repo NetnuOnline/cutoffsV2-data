@@ -1,0 +1,82 @@
+{
+  "slug": "pacific-source",
+  "canonical_name": "Pacific Source",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 7,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "OR",
+      "count": 6
+    },
+    {
+      "state": "MT",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "10/29/2025",
+      "effective_date": "10/29/2025",
+      "state": "MT",
+      "workers": 3,
+      "city": "Lewis & Clark"
+    },
+    {
+      "date": "10/24/2025",
+      "effective_date": "12/31/2025",
+      "state": "OR",
+      "workers": 153,
+      "city": "Springfield"
+    },
+    {
+      "date": "10/24/2025",
+      "effective_date": "12/31/2025",
+      "state": "OR",
+      "workers": 52,
+      "city": "Bend"
+    },
+    {
+      "date": "10/24/2025",
+      "effective_date": "12/31/2025",
+      "state": "OR",
+      "workers": 1,
+      "city": "Medford"
+    },
+    {
+      "date": "10/24/2025",
+      "effective_date": "12/31/2025",
+      "state": "OR",
+      "workers": 38,
+      "city": "Portland"
+    },
+    {
+      "date": "10/24/2025",
+      "effective_date": "12/31/2025",
+      "state": "OR",
+      "workers": 21,
+      "city": "Salem"
+    },
+    {
+      "date": "09/17/2025",
+      "effective_date": "12/31/2025",
+      "state": "OR",
+      "workers": 56,
+      "city": "Springfield"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "lane-wia",
+      "name": "Lane WIA",
+      "state": "OR"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

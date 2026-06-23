@@ -1,0 +1,113 @@
+{
+  "slug": "health-payroll-services",
+  "canonical_name": "Health Payroll Services, LLC",
+  "fein": "87-2744517",
+  "lca_filing_count": 6,
+  "lca_worker_positions": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 204250.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 162420.03999999998
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 239874.95
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 172317.46000000002,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Manager, Software Engineering",
+      "count": 1,
+      "median_wage_usd": 246249.9
+    },
+    {
+      "title": "Staff Data Engineer",
+      "count": 1,
+      "median_wage_usd": 175000.0
+    },
+    {
+      "title": "Data Analyst",
+      "count": 1,
+      "median_wage_usd": 101745.0
+    },
+    {
+      "title": "Staff Software Engineer",
+      "count": 1,
+      "median_wage_usd": 242889.92
+    },
+    {
+      "title": "Director of Data Product Management",
+      "count": 1,
+      "median_wage_usd": 233500.0
+    },
+    {
+      "title": "Senior Data Analyst",
+      "count": 1,
+      "median_wage_usd": 149840.08
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NC",
+      "county": "WAKE",
+      "count": 1
+    },
+    {
+      "state": "SC",
+      "county": "YORK",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "county": "MIDDLESEX",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 2
+    },
+    {
+      "state": "NC",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "SC",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3021",
+    "soc_title": "Computer and Information Systems Managers",
+    "market_median_usd": 169510.0,
+    "employer_median_usd": 239874.95,
+    "gap_usd": 70364.95
+  }
+}

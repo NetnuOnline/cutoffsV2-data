@@ -1,0 +1,57 @@
+{
+  "slug": "emft",
+  "canonical_name": "EMFT LLC",
+  "fein": "82-1374797",
+  "lca_filing_count": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 96366.4,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 4,
+      "median_wage_usd": 96366.4
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Research Analyst",
+      "count": 4,
+      "median_wage_usd": 96366.4
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 4
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 0,
+    "continuing_denials": 0,
+    "total_approvals": 1,
+    "by_fy": [
+      {
+        "fy": 2023,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1111",
+    "soc_title": "Management Analysts",
+    "market_median_usd": 99000.0,
+    "employer_median_usd": 96366.4,
+    "gap_usd": -2633.6
+  }
+}

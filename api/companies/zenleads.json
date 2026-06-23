@@ -1,0 +1,115 @@
+{
+  "slug": "zenleads",
+  "canonical_name": "Zenleads,Inc.",
+  "fein": "47-3785193",
+  "lca_filing_count": 9,
+  "lca_worker_positions": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 200000.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 186846.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 220901.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 215000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 215000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Business Operations Manager",
+      "count": 3,
+      "median_wage_usd": 176800.0
+    },
+    {
+      "title": "Principal Product Manager",
+      "count": 1,
+      "median_wage_usd": 305000.0
+    },
+    {
+      "title": "Senior Analytics Engineer",
+      "count": 1,
+      "median_wage_usd": 215000.0
+    },
+    {
+      "title": "Senior Manager, Business Systems",
+      "count": 1,
+      "median_wage_usd": 223300.0
+    },
+    {
+      "title": "Sr. UX Researcher",
+      "count": 1,
+      "median_wage_usd": 136802.0
+    },
+    {
+      "title": "Staff Data Scientist",
+      "count": 1,
+      "median_wage_usd": 230000.0
+    },
+    {
+      "title": "Senior Machine Learning Engineer",
+      "count": 1,
+      "median_wage_usd": 186846.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SAN MATEO",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 7
+    },
+    {
+      "state": "NY",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 208423.0,
+    "gap_usd": 100403.0
+  }
+}

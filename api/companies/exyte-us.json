@@ -1,0 +1,65 @@
+{
+  "slug": "exyte-us",
+  "canonical_name": "Exyte U.S. Inc.",
+  "fein": null,
+  "lca_filing_count": 2,
+  "warn_notice_count": 2,
+  "median_wage_usd": 115000,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 0,
+      "median_wage_usd": null
+    },
+    {
+      "fy": 2026,
+      "filings": 0,
+      "median_wage_usd": null
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Construction Coordinator",
+      "count": 0,
+      "median_wage_usd": null
+    },
+    {
+      "title": "Construction Manager",
+      "count": 0,
+      "median_wage_usd": null
+    }
+  ],
+  "top_states": [
+    {
+      "state": "ID",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "10/02/2025",
+      "effective_date": "09/02/2025",
+      "state": "ID",
+      "workers": 201,
+      "city": "Boise"
+    },
+    {
+      "date": "09/02/2025",
+      "effective_date": "09/02/2025",
+      "state": "ID",
+      "workers": 201,
+      "city": "Boise"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "southwest-wib-id",
+      "name": "Southwest WIB",
+      "state": "ID"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

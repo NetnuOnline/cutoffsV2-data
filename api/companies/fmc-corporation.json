@@ -1,0 +1,70 @@
+{
+  "slug": "fmc-corporation",
+  "canonical_name": "FMC Technologies, Inc. ",
+  "fein": null,
+  "lca_filing_count": 2,
+  "warn_notice_count": 3,
+  "median_wage_usd": 124102,
+  "by_fy": [
+    {
+      "fy": 2026,
+      "filings": 0,
+      "median_wage_usd": null
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Quality Engineer",
+      "count": 0,
+      "median_wage_usd": null
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "09/30/2018",
+      "effective_date": "09/30/2018",
+      "state": "NJ",
+      "workers": 53,
+      "city": "Philadelphia"
+    },
+    {
+      "date": "04/26/2000",
+      "effective_date": "04/26/2000",
+      "state": "IL",
+      "workers": 0,
+      "city": "Hoopeston"
+    },
+    {
+      "date": "03/01/1999",
+      "effective_date": "06/01/1999",
+      "state": "TX",
+      "workers": 350,
+      "city": "Stephenville"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "vermilion-county-wib",
+      "name": "Vermilion County WIB",
+      "state": "IL"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

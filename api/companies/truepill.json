@@ -1,0 +1,146 @@
+{
+  "slug": "truepill",
+  "canonical_name": "Truepill, Inc.",
+  "fein": "84-3676147",
+  "lca_filing_count": 6,
+  "warn_notice_count": 1,
+  "median_wage_usd": 139750.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 225000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 121000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 139750.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 169950.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 110854.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Strategic Finance Manager",
+      "count": 1,
+      "median_wage_usd": 149500.0
+    },
+    {
+      "title": "Product Manager",
+      "count": 1,
+      "median_wage_usd": 110854.0
+    },
+    {
+      "title": "Vice President, Finance",
+      "count": 1,
+      "median_wage_usd": 225000.0
+    },
+    {
+      "title": "Senior Analyst, Strategic Finance ",
+      "count": 1,
+      "median_wage_usd": 121000.0
+    },
+    {
+      "title": "Technical Project Manager",
+      "count": 1,
+      "median_wage_usd": 169950.0
+    },
+    {
+      "title": "Senior Product Designer",
+      "count": 1,
+      "median_wage_usd": 130000.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 3
+    },
+    {
+      "state": "MA",
+      "count": 2
+    },
+    {
+      "state": "VA",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SAN MATEO",
+      "count": 3
+    },
+    {
+      "state": "VA",
+      "county": "NORFOLK CITY",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "county": "FRAMINGHAM",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "02/17/2023",
+      "effective_date": "04/14/2023",
+      "state": "CA",
+      "workers": 11,
+      "city": "Alhambra"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 6,
+    "continuing_denials": 0,
+    "total_approvals": 7,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 6,
+        "continuing_denials": 0,
+        "total_approvals": 6
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 6,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3031",
+    "soc_title": "Financial Managers",
+    "market_median_usd": 156100.0,
+    "employer_median_usd": 149500.0,
+    "gap_usd": -6600.0
+  }
+}

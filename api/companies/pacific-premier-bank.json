@@ -1,0 +1,106 @@
+{
+  "slug": "pacific-premier-bank",
+  "canonical_name": "Pacific Premier Bank",
+  "fein": null,
+  "lca_filing_count": 4,
+  "warn_notice_count": 1,
+  "median_wage_usd": 195522.6,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 3,
+      "median_wage_usd": 235000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Corporate Treasurer ",
+      "count": 1,
+      "median_wage_usd": 235000.0
+    },
+    {
+      "title": "Asset/Liability Manager",
+      "count": 1,
+      "median_wage_usd": 138700.12
+    },
+    {
+      "title": "Strategic Initiatives Manager",
+      "count": 1,
+      "median_wage_usd": 156045.2
+    },
+    {
+      "title": "Corporate Treasurer",
+      "count": 1,
+      "median_wage_usd": 235000.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 4
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "ORANGE",
+      "count": 4
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "06/24/2025",
+      "effective_date": "08/01/2025",
+      "state": "CA",
+      "workers": 78,
+      "city": "17900 Von Karman Avenue, Suite 1200  Irvine CA 92614"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 3,
+    "continuing_denials": 0,
+    "total_approvals": 3,
+    "by_fy": [
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3031",
+    "soc_title": "Treasurers and Controllers",
+    "market_median_usd": 156100.0,
+    "employer_median_usd": 235000.0,
+    "gap_usd": 78900.0
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "slug": "ahtap",
+  "canonical_name": "Ahtap LLC",
+  "fein": "85-1771165",
+  "lca_filing_count": 9,
+  "lca_worker_positions": 8,
+  "warn_notice_count": 0,
+  "median_wage_usd": 96000.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 104720.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 105500.0
+    },
+    {
+      "fy": 2026,
+      "filings": 4,
+      "median_wage_usd": 103000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Cybersecurity Automation Engineer",
+      "count": 2,
+      "median_wage_usd": 105500.0
+    },
+    {
+      "title": "Senior Software Developer",
+      "count": 2,
+      "median_wage_usd": 96000.0
+    },
+    {
+      "title": "Mobile Automation Developer",
+      "count": 2,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "Big Data Architect",
+      "count": 1,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 1,
+      "median_wage_usd": 89440.0
+    },
+    {
+      "title": "Data Engineer",
+      "count": 1,
+      "median_wage_usd": 96000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "BEXAR",
+      "count": 1
+    },
+    {
+      "state": "TN",
+      "county": "WILLIAMSON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "AR",
+      "count": 2
+    },
+    {
+      "state": "NC",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "TN",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 103000.0,
+    "gap_usd": -27160.0
+  }
+}

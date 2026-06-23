@@ -1,0 +1,86 @@
+{
+  "slug": "ctis",
+  "canonical_name": "CTIS, Inc.",
+  "fein": "52-1618917",
+  "lca_filing_count": 5,
+  "lca_worker_positions": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 100293.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 95012.88
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 130196.64
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 114834.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 98000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Java Developer",
+      "count": 2,
+      "median_wage_usd": 114098.32
+    },
+    {
+      "title": "Business Analyst",
+      "count": 1,
+      "median_wage_usd": 95012.88
+    },
+    {
+      "title": "Software Developer",
+      "count": 1,
+      "median_wage_usd": 129375.0
+    },
+    {
+      "title": "Database Management \u2013 Analyst III",
+      "count": 1,
+      "median_wage_usd": 100293.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MD",
+      "county": "MONTGOMERY",
+      "count": 3
+    },
+    {
+      "state": "NC",
+      "county": "WAKE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MD",
+      "count": 4
+    },
+    {
+      "state": "NC",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 129375.0,
+    "gap_usd": -785.0
+  }
+}

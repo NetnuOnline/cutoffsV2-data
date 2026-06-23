@@ -1,0 +1,36 @@
+{
+  "slug": "challenge-manufacturing-company",
+  "canonical_name": "Challenge Manufacturing Company",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 1,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "MO",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "10/04/2021",
+      "effective_date": "12/01/2021",
+      "state": "MO",
+      "workers": 52,
+      "city": "Bridgeton"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "st-louis-county-region-wib",
+      "name": "St. Louis County Region WIB",
+      "state": "MO"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

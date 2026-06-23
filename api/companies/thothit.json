@@ -1,0 +1,60 @@
+{
+  "slug": "thothit",
+  "canonical_name": "ThothIT LLC",
+  "fein": "85-3897350",
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 94026.4,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 97156.8
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 90896.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Java Fullstack Developer",
+      "count": 1,
+      "median_wage_usd": 97156.8
+    },
+    {
+      "title": "Software Engineer/Developer",
+      "count": 1,
+      "median_wage_usd": 90896.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "VA",
+      "county": "PRINCE WILLIAM",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "VA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 94026.4,
+    "gap_usd": -36133.6
+  }
+}

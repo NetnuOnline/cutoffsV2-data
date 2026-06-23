@@ -1,0 +1,47 @@
+{
+  "slug": "grand-canyon-scenic-airlines",
+  "canonical_name": "Grand Canyon Scenic Airlines",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "NV",
+      "count": 1
+    },
+    {
+      "state": "AZ",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "09/03/2020",
+      "effective_date": "03/18/2020",
+      "state": "NV",
+      "workers": 105,
+      "city": "Boulder City, Clark County"
+    },
+    {
+      "date": "09/03/2020",
+      "effective_date": "09/03/2020",
+      "state": "AZ",
+      "workers": 105,
+      "city": "Grand Canyon"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "coconino-county-lwib",
+      "name": "Coconino County LWIB",
+      "state": "AZ"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

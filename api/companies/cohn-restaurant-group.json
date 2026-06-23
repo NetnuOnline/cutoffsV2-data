@@ -1,0 +1,43 @@
+{
+  "slug": "cohn-restaurant-group",
+  "canonical_name": "Cohn Restaurant Group",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "12/15/2020",
+      "effective_date": "12/08/2020",
+      "state": "CA",
+      "workers": 758,
+      "city": "San Diego"
+    },
+    {
+      "date": "03/25/2020",
+      "effective_date": "03/19/2020",
+      "state": "CA",
+      "workers": 1358,
+      "city": "San Diego"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "san-diego-county-wib",
+      "name": "San Diego County WIB",
+      "state": "CA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

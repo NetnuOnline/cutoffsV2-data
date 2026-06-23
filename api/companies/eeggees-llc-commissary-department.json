@@ -1,0 +1,43 @@
+{
+  "slug": "eeggees-llc-commissary-department",
+  "canonical_name": "eeggee's LLC Commissary Department",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "AZ",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "04/19/2023",
+      "effective_date": "04/19/2023",
+      "state": "AZ",
+      "workers": 44,
+      "city": "Tucson"
+    },
+    {
+      "date": "04/19/2023",
+      "effective_date": "04/19/2023",
+      "state": "AZ",
+      "workers": 0,
+      "city": "Tucson"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "pima-county-lwib",
+      "name": "Pima County LWIB",
+      "state": "AZ"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

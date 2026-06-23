@@ -1,0 +1,56 @@
+{
+  "slug": "boxc-logistics",
+  "canonical_name": "BoxC Logistics Inc.",
+  "fein": "46-2006274",
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 130500.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 96000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 165000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Business Development and Marketing Analyst",
+      "count": 1,
+      "median_wage_usd": 165000.0
+    },
+    {
+      "title": "BUSINESS DEVELOPMENT AND MARKETING ANALYST",
+      "count": 1,
+      "median_wage_usd": 96000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1161",
+    "soc_title": "Market Research Analysts and Marketing Specialists",
+    "market_median_usd": 74680.0,
+    "employer_median_usd": 130500.0,
+    "gap_usd": 55820.0
+  }
+}

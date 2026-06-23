@@ -1,0 +1,77 @@
+{
+  "slug": "columbia-brands-usa",
+  "canonical_name": "Columbia Brands USA, LLC",
+  "fein": "20-0331257",
+  "lca_filing_count": 4,
+  "lca_worker_positions": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 138360.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 164220.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 112500.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 112187.27
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 177928.99,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Principal Full Stack Engineer",
+      "count": 1,
+      "median_wage_usd": 112500.0
+    },
+    {
+      "title": "Senior Solutions Architecture Manager",
+      "count": 1,
+      "median_wage_usd": 164220.0
+    },
+    {
+      "title": "Senior Configuration Engineer",
+      "count": 1,
+      "median_wage_usd": 112187.27
+    },
+    {
+      "title": "Lead Software Engineer for Dynamics365 Finance and Operation",
+      "count": 1,
+      "median_wage_usd": 177928.99
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "OR",
+      "county": "WASHINGTON",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "OR",
+      "count": 4
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 145058.13,
+    "gap_usd": 14898.13
+  }
+}

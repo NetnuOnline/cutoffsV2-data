@@ -1,0 +1,70 @@
+{
+  "slug": "bright-market",
+  "canonical_name": "Bright Market, LLC",
+  "fein": "51-0546893",
+  "lca_filing_count": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 108700.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 3,
+      "median_wage_usd": 106000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 126878.58
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Payment Operations Analyst",
+      "count": 2,
+      "median_wage_usd": 106000.0
+    },
+    {
+      "title": "DevOps Engineer I",
+      "count": 1,
+      "median_wage_usd": 126878.58
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 1,
+      "median_wage_usd": 111400.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SANTA BARBARA",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1111",
+    "soc_title": "Management Analysts",
+    "market_median_usd": 99000.0,
+    "employer_median_usd": 106000.0,
+    "gap_usd": 7000.0
+  }
+}

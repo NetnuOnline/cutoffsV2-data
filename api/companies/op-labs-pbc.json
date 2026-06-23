@@ -1,0 +1,91 @@
+{
+  "slug": "op-labs-pbc",
+  "canonical_name": "OP Labs PBC",
+  "fein": "84-3943367",
+  "lca_filing_count": 6,
+  "lca_worker_positions": 6,
+  "warn_notice_count": 0,
+  "median_wage_usd": 197338.5,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 214677.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 230000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 155000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Head of Cryptoeconomics",
+      "count": 2,
+      "median_wage_usd": 214677.0
+    },
+    {
+      "title": "Head of Data",
+      "count": 1,
+      "median_wage_usd": 280000.0
+    },
+    {
+      "title": "Protocol Security Engineer",
+      "count": 1,
+      "median_wage_usd": 165000.0
+    },
+    {
+      "title": "Solutions Engineer",
+      "count": 1,
+      "median_wage_usd": 145000.0
+    },
+    {
+      "title": "Senior Data Analyst",
+      "count": 1,
+      "median_wage_usd": 180000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "KINGS",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "MARIN",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 4
+    },
+    {
+      "state": "CA",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3031",
+    "soc_title": "Treasurers and Controllers",
+    "market_median_usd": 156100.0,
+    "employer_median_usd": 214677.0,
+    "gap_usd": 58577.0
+  }
+}

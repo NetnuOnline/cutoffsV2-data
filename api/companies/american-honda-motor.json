@@ -1,0 +1,140 @@
+{
+  "slug": "american-honda-motor",
+  "canonical_name": "American Honda Motor Co., Inc.",
+  "fein": "95-2041006",
+  "lca_filing_count": 29,
+  "lca_worker_positions": 28,
+  "warn_notice_count": 0,
+  "median_wage_usd": 110000.0,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 100330.0
+    },
+    {
+      "fy": 2022,
+      "filings": 4,
+      "median_wage_usd": 101000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 91000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 9,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 6,
+      "median_wage_usd": 123004.0
+    },
+    {
+      "fy": 2026,
+      "filings": 5,
+      "median_wage_usd": 115000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Development Systems Engineer III",
+      "count": 3,
+      "median_wage_usd": 101000.0
+    },
+    {
+      "title": "SENIOR ENGINEER I",
+      "count": 2,
+      "median_wage_usd": 100330.0
+    },
+    {
+      "title": "Applications Sr. Engineer",
+      "count": 2,
+      "median_wage_usd": 97954.5
+    },
+    {
+      "title": "Assistant Manager, Mobile & Security Architecture",
+      "count": 1,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "title": "Senior Supply Chain Innovation Lead",
+      "count": 1,
+      "median_wage_usd": 105000.0
+    },
+    {
+      "title": "Assistant Manager - Software & System Design Engineering",
+      "count": 1,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "title": "Interior Designer",
+      "count": 1,
+      "median_wage_usd": 110000.0
+    },
+    {
+      "title": "Energy Business and Technology Engineer",
+      "count": 1,
+      "median_wage_usd": 91000.0
+    },
+    {
+      "title": "Power Performance Design Sr. Engineer",
+      "count": 1,
+      "median_wage_usd": 90000.0
+    },
+    {
+      "title": "Data Management Lead Manufacturing Equipment Design",
+      "count": 1,
+      "median_wage_usd": 113000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 9
+    },
+    {
+      "state": "OH",
+      "county": "UNION",
+      "count": 8
+    },
+    {
+      "state": "OH",
+      "county": "LOGAN",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "county": "ALAMANCE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "OH",
+      "count": 14
+    },
+    {
+      "state": "CA",
+      "count": 14
+    },
+    {
+      "state": "NC",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 118000.0,
+    "gap_usd": -12160.0
+  }
+}

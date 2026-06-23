@@ -1,0 +1,52 @@
+{
+  "slug": "chasetech-solz",
+  "canonical_name": "CHASETECH SOLZ LLC",
+  "fein": "93-3395642",
+  "lca_filing_count": 2,
+  "lca_worker_positions": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 85086.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 85072.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 85100.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Cloud Engineer",
+      "count": 2,
+      "median_wage_usd": 85086.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "PA",
+      "county": "DELAWARE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "PA",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1244",
+    "soc_title": "Network and Computer Systems Administrators",
+    "market_median_usd": 95000.0,
+    "employer_median_usd": 85086.0,
+    "gap_usd": -9914.0
+  }
+}

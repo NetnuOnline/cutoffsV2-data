@@ -1,0 +1,153 @@
+{
+  "slug": "coursera",
+  "canonical_name": "Coursera, Inc.",
+  "fein": "45-3560292",
+  "lca_filing_count": 19,
+  "lca_worker_positions": 19,
+  "warn_notice_count": 0,
+  "median_wage_usd": 170040.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 5,
+      "median_wage_usd": 169603.0
+    },
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 157882.5
+    },
+    {
+      "fy": 2022,
+      "filings": 4,
+      "median_wage_usd": 146950.0
+    },
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 201096.0
+    },
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 184140.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 207155.2,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 2,
+      "median_wage_usd": 157862.5
+    },
+    {
+      "title": "Content Strategy Manager",
+      "count": 2,
+      "median_wage_usd": 128900.0
+    },
+    {
+      "title": "Manager, Software Engineering",
+      "count": 2,
+      "median_wage_usd": 201096.0
+    },
+    {
+      "title": "Senior Product Designer",
+      "count": 2,
+      "median_wage_usd": 159801.5
+    },
+    {
+      "title": "Manager, Partner Services",
+      "count": 1,
+      "median_wage_usd": 128000.0
+    },
+    {
+      "title": "Sr. Software Engineer",
+      "count": 1,
+      "median_wage_usd": 184140.0
+    },
+    {
+      "title": "Senior Director, Software Engineering",
+      "count": 1,
+      "median_wage_usd": 280000.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 1,
+      "median_wage_usd": 170040.0
+    },
+    {
+      "title": "Director of Machine Learning",
+      "count": 1,
+      "median_wage_usd": 263000.0
+    },
+    {
+      "title": "Senior Product Manager",
+      "count": 1,
+      "median_wage_usd": 178069.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 12
+    },
+    {
+      "state": "TX",
+      "county": "WILLIAMSON",
+      "count": 2
+    },
+    {
+      "state": "GA",
+      "county": "DEKALB",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "county": "HUDSON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 13
+    },
+    {
+      "state": "TX",
+      "count": 2
+    },
+    {
+      "state": "WA",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3021",
+    "soc_title": "Computer and Information Systems Managers",
+    "market_median_usd": 169510.0,
+    "employer_median_usd": 201096.0,
+    "gap_usd": 31586.0
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "slug": "sigma-resources",
+  "canonical_name": "Sigma Resources LLC",
+  "fein": "25-1829581",
+  "lca_filing_count": 21,
+  "lca_worker_positions": 18,
+  "warn_notice_count": 0,
+  "median_wage_usd": 82000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 5,
+      "median_wage_usd": 80000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 70000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 3,
+      "median_wage_usd": 84822.0
+    },
+    {
+      "fy": 2023,
+      "filings": 4,
+      "median_wage_usd": 102750.1
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 90851.0
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 90896.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Tester",
+      "count": 3,
+      "median_wage_usd": 68702.0
+    },
+    {
+      "title": ".NET Developer ",
+      "count": 3,
+      "median_wage_usd": 63744.0
+    },
+    {
+      "title": ".NET Developer",
+      "count": 3,
+      "median_wage_usd": 82000.0
+    },
+    {
+      "title": "Senior Java Developer ",
+      "count": 2,
+      "median_wage_usd": 113000.0
+    },
+    {
+      "title": "Software Application Tester",
+      "count": 2,
+      "median_wage_usd": 76200.0
+    },
+    {
+      "title": "Software Application Tester ",
+      "count": 1,
+      "median_wage_usd": 72000.0
+    },
+    {
+      "title": "Java/Microservices Developer",
+      "count": 1,
+      "median_wage_usd": 103587.84
+    },
+    {
+      "title": "DevOps Engineer",
+      "count": 1,
+      "median_wage_usd": 94000.0
+    },
+    {
+      "title": ".NET Developer - ASP.NET",
+      "count": 1,
+      "median_wage_usd": 84822.0
+    },
+    {
+      "title": "Informatica/Oracle Developer",
+      "count": 1,
+      "median_wage_usd": 92500.2
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "PA",
+      "county": "CUMBERLAND",
+      "count": 11
+    },
+    {
+      "state": "PA",
+      "county": "DAUPHIN",
+      "count": 4
+    },
+    {
+      "state": "PA",
+      "county": "ALLEGHENY",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "PA",
+      "count": 17
+    },
+    {
+      "state": "TX",
+      "count": 3
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 92643.0,
+    "gap_usd": -37517.0
+  }
+}

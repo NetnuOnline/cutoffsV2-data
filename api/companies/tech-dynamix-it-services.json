@@ -1,0 +1,82 @@
+{
+  "slug": "tech-dynamix-it-services",
+  "canonical_name": "Tech Dynamix IT Services LLC",
+  "fein": "84-2365633",
+  "lca_filing_count": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 80000.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 80000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 86233.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Salesforce Developer",
+      "count": 1,
+      "median_wage_usd": 99000.0
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 1,
+      "median_wage_usd": 80000.0
+    },
+    {
+      "title": "WorkDay Analyst.",
+      "count": 1,
+      "median_wage_usd": 73466.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MA",
+      "county": "WORCESTER CITY",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MA",
+      "count": 2
+    },
+    {
+      "state": "PA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 0,
+    "continuing_denials": 0,
+    "total_approvals": 1,
+    "by_fy": [
+      {
+        "fy": 2023,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 89500.0,
+    "gap_usd": -40660.0
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "slug": "standard-cognition",
+  "canonical_name": "Standard Cognition, Corp.",
+  "fein": "81-5472130",
+  "lca_filing_count": 11,
+  "lca_worker_positions": 10,
+  "warn_notice_count": 0,
+  "median_wage_usd": 220000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 3,
+      "median_wage_usd": 200000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 256782.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 164000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 223300.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Manager, Engineering",
+      "count": 3,
+      "median_wage_usd": 256880.0
+    },
+    {
+      "title": "Staff Software Engineer",
+      "count": 2,
+      "median_wage_usd": 223300.0
+    },
+    {
+      "title": "Engineering Manager - ML",
+      "count": 2,
+      "median_wage_usd": 200000.0
+    },
+    {
+      "title": "Deep Learning Researcher",
+      "count": 1,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 158000.0
+    },
+    {
+      "title": "Data Analyst, Systems",
+      "count": 1,
+      "median_wage_usd": 170000.0
+    },
+    {
+      "title": "Principal Engineer",
+      "count": 1,
+      "median_wage_usd": 240000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 6
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 10
+    },
+    {
+      "state": "WA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3021",
+    "soc_title": "Computer and Information Systems Managers",
+    "market_median_usd": 169510.0,
+    "employer_median_usd": 228342.0,
+    "gap_usd": 58832.0
+  }
+}

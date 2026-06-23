@@ -1,0 +1,178 @@
+{
+  "slug": "param-technologies",
+  "canonical_name": "PARAM TECHNOLOGIES INC",
+  "fein": "82-3046495",
+  "lca_filing_count": 24,
+  "lca_worker_positions": 24,
+  "warn_notice_count": 0,
+  "median_wage_usd": 89500.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 3,
+      "median_wage_usd": 89000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 95600.0
+    },
+    {
+      "fy": 2023,
+      "filings": 10,
+      "median_wage_usd": 90000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 5,
+      "median_wage_usd": 84000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 70000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 88000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SOFTWARE DEVELOPER",
+      "count": 5,
+      "median_wage_usd": 94000.0
+    },
+    {
+      "title": "SYSTEMS ENGINEER",
+      "count": 4,
+      "median_wage_usd": 82200.0
+    },
+    {
+      "title": "DATA ENGINEER",
+      "count": 3,
+      "median_wage_usd": 90000.0
+    },
+    {
+      "title": "SOFTWARE (RPA) DEVELOPER",
+      "count": 2,
+      "median_wage_usd": 98600.0
+    },
+    {
+      "title": "SOFTWARE (JAVA) DEVELOPER",
+      "count": 2,
+      "median_wage_usd": 98200.0
+    },
+    {
+      "title": "SOFTWARE (FULL STACK ) DEVELOPER",
+      "count": 2,
+      "median_wage_usd": 82000.0
+    },
+    {
+      "title": "COMPUTER PROGRAMMER",
+      "count": 2,
+      "median_wage_usd": 70000.0
+    },
+    {
+      "title": "SOFTWARE (AWS/DEVOPS) ENGINEER",
+      "count": 1,
+      "median_wage_usd": 89000.0
+    },
+    {
+      "title": "SOFTWARE (FULL STACK) DEVELOPER",
+      "count": 1,
+      "median_wage_usd": 88000.0
+    },
+    {
+      "title": "SOFTWARE (JAVA FULL STACK) DEVELOPER",
+      "count": 1,
+      "median_wage_usd": 80000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MN",
+      "county": "HENNEPIN",
+      "count": 7
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 3
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 2
+    },
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 2
+    },
+    {
+      "state": "MN",
+      "county": "ANOKA",
+      "count": 1
+    },
+    {
+      "state": "MN",
+      "county": "RAMSEY",
+      "count": 1
+    },
+    {
+      "state": "MN",
+      "county": "CARVER",
+      "count": 1
+    },
+    {
+      "state": "NH",
+      "county": "HILLSBOROUGH",
+      "count": 1
+    },
+    {
+      "state": "CT",
+      "county": "ESSEX",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "DENTON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MN",
+      "count": 10
+    },
+    {
+      "state": "AZ",
+      "count": 6
+    },
+    {
+      "state": "TX",
+      "count": 6
+    },
+    {
+      "state": "CT",
+      "count": 1
+    },
+    {
+      "state": "NH",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 92650.0,
+    "gap_usd": -37510.0
+  }
+}

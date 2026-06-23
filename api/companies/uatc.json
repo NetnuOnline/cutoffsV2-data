@@ -1,0 +1,125 @@
+{
+  "slug": "uatc",
+  "canonical_name": "UATC, LLC.",
+  "fein": null,
+  "lca_filing_count": 12,
+  "warn_notice_count": 0,
+  "median_wage_usd": 148580.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 9,
+      "median_wage_usd": 140600.0
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 156560.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 149125.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SOFTWARE ENGINEER",
+      "count": 7,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "title": "USER EXPERIENCE RESEARCHER ",
+      "count": 1,
+      "median_wage_usd": 122800.0
+    },
+    {
+      "title": "AUTONOMY ENGINEER",
+      "count": 1,
+      "median_wage_usd": 177800.0
+    },
+    {
+      "title": "FINANCE BUSINESS PARTNER",
+      "count": 1,
+      "median_wage_usd": 173600.0
+    },
+    {
+      "title": "SENIOR SOFTWARE ENGINEER",
+      "count": 1,
+      "median_wage_usd": 185400.0
+    },
+    {
+      "title": "SENIOR AUTONOMY HARDWARE ENGINEER",
+      "count": 1,
+      "median_wage_usd": 170000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "PA",
+      "county": "ALLEGHENY",
+      "count": 10
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "PA",
+      "count": 10
+    },
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 54,
+    "initial_denials": 2,
+    "continuing_approvals": 74,
+    "continuing_denials": 7,
+    "total_approvals": 128,
+    "by_fy": [
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2020,
+        "initial_approvals": 44,
+        "initial_denials": 1,
+        "continuing_approvals": 70,
+        "continuing_denials": 5,
+        "total_approvals": 114
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 10,
+        "initial_denials": 1,
+        "continuing_approvals": 4,
+        "continuing_denials": 2,
+        "total_approvals": 14
+      }
+    ]
+  },
+  "lca_worker_positions": 12,
+  "top_socs": [],
+  "lca_periods": []
+}

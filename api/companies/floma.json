@@ -1,0 +1,65 @@
+{
+  "slug": "floma",
+  "canonical_name": "Floma, Inc.",
+  "fein": "93-2665170",
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 106972.8,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 98945.6
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 115000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Chief Technology Officer",
+      "count": 1,
+      "median_wage_usd": 98945.6
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 1,
+      "median_wage_usd": 115000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CT",
+      "county": "NEW HAVEN CITY",
+      "count": 1
+    },
+    {
+      "state": "MA",
+      "county": "WOBURN CITY",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MA",
+      "count": 1
+    },
+    {
+      "state": "CT",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 106972.8,
+    "gap_usd": -23187.2
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "slug": "branat-construction",
+  "canonical_name": "Branat Construction, Inc.",
+  "fein": "87-3762767",
+  "lca_filing_count": 4,
+  "lca_worker_positions": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 90679.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 76960.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 90679.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 103500.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Finance Manager",
+      "count": 3,
+      "median_wage_usd": 95600.0
+    },
+    {
+      "title": "Financial Manager",
+      "count": 1,
+      "median_wage_usd": 76960.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NC",
+      "county": "WAKE",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NC",
+      "count": 4
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3031",
+    "soc_title": "Financial Managers",
+    "market_median_usd": 156100.0,
+    "employer_median_usd": 90679.0,
+    "gap_usd": -65421.0
+  }
+}

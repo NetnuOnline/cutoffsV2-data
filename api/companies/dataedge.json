@@ -1,0 +1,168 @@
+{
+  "slug": "dataedge",
+  "canonical_name": "DataEdge, Inc",
+  "fein": "47-1042295",
+  "lca_filing_count": 109,
+  "lca_worker_positions": 109,
+  "warn_notice_count": 0,
+  "median_wage_usd": 95000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 27,
+      "median_wage_usd": 90000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 27,
+      "median_wage_usd": 94000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 7,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 13,
+      "median_wage_usd": 100000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 8,
+      "median_wage_usd": 102000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 13,
+      "median_wage_usd": 114000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 14,
+      "median_wage_usd": 110000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SOFTWARE DEVELOPER",
+      "count": 105,
+      "median_wage_usd": 95000.0
+    },
+    {
+      "title": "Software Developer",
+      "count": 3,
+      "median_wage_usd": 105146.0
+    },
+    {
+      "title": "SYSTEMS ANALYST",
+      "count": 1,
+      "median_wage_usd": 90000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "PA",
+      "county": "CHESTER",
+      "count": 9
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 6
+    },
+    {
+      "state": "KY",
+      "county": "FRANKLIN",
+      "count": 5
+    },
+    {
+      "state": "TX",
+      "county": "BEXAR",
+      "count": 3
+    },
+    {
+      "state": "WI",
+      "county": "WAUKESHA",
+      "count": 3
+    },
+    {
+      "state": "SC",
+      "county": "RICHLAND",
+      "count": 3
+    },
+    {
+      "state": "OH",
+      "county": "FRANKLIN",
+      "count": 3
+    },
+    {
+      "state": "MO",
+      "county": "JACKSON",
+      "count": 2
+    },
+    {
+      "state": "RI",
+      "county": "PROVIDENCE CITY",
+      "count": 2
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 21
+    },
+    {
+      "state": "PA",
+      "count": 12
+    },
+    {
+      "state": "NC",
+      "count": 8
+    },
+    {
+      "state": "KY",
+      "count": 7
+    },
+    {
+      "state": "OH",
+      "count": 6
+    },
+    {
+      "state": "WI",
+      "count": 6
+    },
+    {
+      "state": "NY",
+      "count": 5
+    },
+    {
+      "state": "VA",
+      "count": 5
+    },
+    {
+      "state": "MO",
+      "count": 4
+    },
+    {
+      "state": "MN",
+      "count": 4
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 105573.0,
+    "gap_usd": -24587.0
+  }
+}

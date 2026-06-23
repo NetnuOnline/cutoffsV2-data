@@ -1,0 +1,136 @@
+{
+  "slug": "automobile-club-of-southern-california",
+  "canonical_name": "Automobile Club of Southern California",
+  "fein": "95-0514585",
+  "lca_filing_count": 17,
+  "lca_worker_positions": 16,
+  "warn_notice_count": 0,
+  "median_wage_usd": 124987.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 109146.0
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 99771.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 102554.5
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 123104.5
+    },
+    {
+      "fy": 2024,
+      "filings": 5,
+      "median_wage_usd": 120106.0
+    },
+    {
+      "fy": 2025,
+      "filings": 4,
+      "median_wage_usd": 150501.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 150000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "DEVOPS ENGINEER",
+      "count": 2,
+      "median_wage_usd": 120106.0
+    },
+    {
+      "title": "SOFTWARE ENGINEER, EBUSINESS",
+      "count": 2,
+      "median_wage_usd": 127452.0
+    },
+    {
+      "title": "SOFTWARE ENGINEER",
+      "count": 1,
+      "median_wage_usd": 124987.0
+    },
+    {
+      "title": "Lead SDET",
+      "count": 1,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "title": "SOFTWARE IS DEVOPS ENGINEER",
+      "count": 1,
+      "median_wage_usd": 142100.0
+    },
+    {
+      "title": "APPLICATION DEVELOPER",
+      "count": 1,
+      "median_wage_usd": 107865.0
+    },
+    {
+      "title": "SENIOR DEVOPS ENGINEER, IS",
+      "count": 1,
+      "median_wage_usd": 124987.0
+    },
+    {
+      "title": "SENIOR SOFTWARE ENGINEER, EBUSINESS",
+      "count": 1,
+      "median_wage_usd": 142158.0
+    },
+    {
+      "title": "DATA ENGINEER II",
+      "count": 1,
+      "median_wage_usd": 97394.0
+    },
+    {
+      "title": "SENIOR QA ANALYST, EBIZ",
+      "count": 1,
+      "median_wage_usd": 121222.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "ORANGE",
+      "count": 8
+    },
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 3
+    },
+    {
+      "state": "PA",
+      "county": "ALLEGHENY",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 16
+    },
+    {
+      "state": "PA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 124987.0,
+    "gap_usd": -5173.0
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "slug": "keurig-dr-pepper",
+  "canonical_name": " Keurig Dr Pepper",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 13,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "VT",
+      "count": 7
+    },
+    {
+      "state": "NJ",
+      "count": 3
+    },
+    {
+      "state": "VA",
+      "count": 1
+    },
+    {
+      "state": "IL",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "07/16/2024",
+      "effective_date": "12/31/2024",
+      "state": "VA",
+      "workers": 379,
+      "city": "Windsor, VA"
+    },
+    {
+      "date": "06/09/2021",
+      "effective_date": "06/09/2021",
+      "state": "NJ",
+      "workers": 137,
+      "city": "Carteret"
+    },
+    {
+      "date": "03/05/2021",
+      "effective_date": "03/05/2021",
+      "state": "VT",
+      "workers": 78,
+      "city": "Essex Junction"
+    },
+    {
+      "date": "08/28/2020",
+      "effective_date": "10/01/2020",
+      "state": "IL",
+      "workers": 87,
+      "city": "Montrose"
+    },
+    {
+      "date": "07/31/2020",
+      "effective_date": "07/31/2020",
+      "state": "NJ",
+      "workers": 69,
+      "city": "Plano"
+    },
+    {
+      "date": "04/30/2020",
+      "effective_date": "04/30/2020",
+      "state": "NJ",
+      "workers": 73,
+      "city": "Plano"
+    },
+    {
+      "date": "10/25/2018",
+      "effective_date": "10/25/2018",
+      "state": "VT",
+      "workers": 118,
+      "city": "Waterbury"
+    },
+    {
+      "date": "06/01/2018",
+      "effective_date": "06/01/2018",
+      "state": "VT",
+      "workers": 34,
+      "city": "00 - Vermont Workforce Investment Area"
+    },
+    {
+      "date": "06/15/2017",
+      "effective_date": "06/15/2017",
+      "state": "VT",
+      "workers": 40,
+      "city": "00 - Vermont Workforce Investment Area"
+    },
+    {
+      "date": "05/04/2017",
+      "effective_date": "07/03/2017",
+      "state": "CA",
+      "workers": 183,
+      "city": "Castroville"
+    },
+    {
+      "date": "06/07/2016",
+      "effective_date": "06/07/2016",
+      "state": "VT",
+      "workers": 110,
+      "city": "00 - Vermont Workforce Investment Area"
+    },
+    {
+      "date": "08/06/2015",
+      "effective_date": "08/06/2015",
+      "state": "VT",
+      "workers": 125,
+      "city": "00 - Vermont Workforce Investment Area"
+    },
+    {
+      "date": "08/06/2015",
+      "effective_date": "08/06/2015",
+      "state": "VT",
+      "workers": 30,
+      "city": "00 - Vermont Workforce Investment Area"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "crossroads-wib",
+      "name": "Crossroads WIB",
+      "state": "IL"
+    },
+    {
+      "slug": "middlesex-wib",
+      "name": "Middlesex WIB",
+      "state": "NJ"
+    },
+    {
+      "slug": "central-vermont-wib",
+      "name": "Central Vermont WIB",
+      "state": "VT"
+    },
+    {
+      "slug": "lake-champlain-regional-wib",
+      "name": "Lake Champlain Regional WIB",
+      "state": "VT"
+    },
+    {
+      "slug": "hampton-roads-lwia-xvi",
+      "name": "Hampton Roads LWIA XVI",
+      "state": "VA"
+    }
+  ],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2024-04-25",
+        "formType": "8-K",
+        "accessionNumber": "0001418135-24-000052",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001418135&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2009-05-21",
+        "formType": "8-K",
+        "accessionNumber": "0001299933-09-002274",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001418135&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 2,
+    "itemCounts": {
+      "5.02": 2
+    },
+    "latestFilingDate": "2024-04-25",
+    "earliestFilingDate": "2009-05-21"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

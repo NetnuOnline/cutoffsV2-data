@@ -1,0 +1,142 @@
+{
+  "slug": "freeport-mcmoran",
+  "canonical_name": "Freeport-McMoRan",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 10,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "CT",
+      "count": 7
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    },
+    {
+      "state": "NM",
+      "count": 1
+    },
+    {
+      "state": "AZ",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "12/08/2020",
+      "effective_date": "12/18/2020",
+      "state": "CT",
+      "workers": 5,
+      "city": "Norwich"
+    },
+    {
+      "date": "11/24/2020",
+      "effective_date": "01/18/2021",
+      "state": "CT",
+      "workers": 1,
+      "city": "Norwich"
+    },
+    {
+      "date": "10/16/2020",
+      "effective_date": "10/16/2020",
+      "state": "NJ",
+      "workers": 48,
+      "city": "Elizabeth"
+    },
+    {
+      "date": "09/21/2020",
+      "effective_date": "08/17/2020",
+      "state": "CT",
+      "workers": 99,
+      "city": "Norwich"
+    },
+    {
+      "date": "08/28/2020",
+      "effective_date": "08/17/2020",
+      "state": "CT",
+      "workers": 90,
+      "city": "Norwich"
+    },
+    {
+      "date": "08/05/2020",
+      "effective_date": "08/17/2020",
+      "state": "CT",
+      "workers": 105,
+      "city": "Norwich"
+    },
+    {
+      "date": "06/22/2020",
+      "effective_date": "05/03/2020",
+      "state": "CT",
+      "workers": 2,
+      "city": "Norwich"
+    },
+    {
+      "date": "04/26/2020",
+      "effective_date": "04/26/2020",
+      "state": "NM",
+      "workers": 825,
+      "city": "Silver City"
+    },
+    {
+      "date": "01/01/2020",
+      "effective_date": "08/30/2020",
+      "state": "CT",
+      "workers": 0,
+      "city": "08/17/2020"
+    },
+    {
+      "date": "08/27/2015",
+      "effective_date": "08/27/2015",
+      "state": "AZ",
+      "workers": 170,
+      "city": "Claypool"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "eastern-wia-ct",
+      "name": "Eastern WIA",
+      "state": "CT"
+    },
+    {
+      "slug": "union-wib",
+      "name": "Union WIB",
+      "state": "NJ"
+    },
+    {
+      "slug": "southwest-area-wib",
+      "name": "Southwest Area WIB",
+      "state": "NM"
+    }
+  ],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2004-12-08",
+        "formType": "8-K",
+        "accessionNumber": "0000831259-04-000041",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000831259&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 1,
+    "itemCounts": {
+      "2.05": 1
+    },
+    "latestFilingDate": "2004-12-08",
+    "earliestFilingDate": "2004-12-08"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

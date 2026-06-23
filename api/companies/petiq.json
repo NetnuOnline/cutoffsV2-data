@@ -1,0 +1,47 @@
+{
+  "slug": "petiq",
+  "canonical_name": "PetIQ, LLC",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "FL",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "07/31/2020",
+      "effective_date": "09/30/2020",
+      "state": "FL",
+      "workers": 63,
+      "city": "DAYTONA BEACH"
+    },
+    {
+      "date": "07/30/2020",
+      "effective_date": "09/30/2020",
+      "state": "CA",
+      "workers": 55,
+      "city": "Windsor"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "sonoma-county-wib",
+      "name": "Sonoma County WIB",
+      "state": "CA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

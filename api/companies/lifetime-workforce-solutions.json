@@ -1,0 +1,86 @@
+{
+  "slug": "lifetime-workforce-solutions",
+  "canonical_name": "Lifetime Workforce Solutions, LLC",
+  "fein": "99-2613307",
+  "lca_filing_count": 8,
+  "lca_worker_positions": 8,
+  "warn_notice_count": 0,
+  "median_wage_usd": 146998.26,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 4,
+      "median_wage_usd": 132532.495
+    },
+    {
+      "fy": 2026,
+      "filings": 4,
+      "median_wage_usd": 156309.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Pega Developer",
+      "count": 2,
+      "median_wage_usd": 156309.0
+    },
+    {
+      "title": "Principal Software Engineer",
+      "count": 1,
+      "median_wage_usd": 163761.52
+    },
+    {
+      "title": "IT Platform Admin",
+      "count": 1,
+      "median_wage_usd": 107997.96
+    },
+    {
+      "title": "Test Engineer IV",
+      "count": 1,
+      "median_wage_usd": 127377.48
+    },
+    {
+      "title": "Solutions Architect III",
+      "count": 1,
+      "median_wage_usd": 157181.0
+    },
+    {
+      "title": "Accountant II",
+      "count": 1,
+      "median_wage_usd": 83481.12
+    },
+    {
+      "title": "Info Security & Cybersecurity Engineer III",
+      "count": 1,
+      "median_wage_usd": 137687.51
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NY",
+      "county": "MONROE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 7
+    },
+    {
+      "state": "CT",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 156309.0,
+    "gap_usd": 26149.0
+  }
+}

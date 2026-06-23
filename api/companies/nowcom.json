@@ -1,0 +1,111 @@
+{
+  "slug": "nowcom",
+  "canonical_name": "Nowcom, LLC",
+  "fein": "95-4576858",
+  "lca_filing_count": 16,
+  "lca_worker_positions": 16,
+  "warn_notice_count": 0,
+  "median_wage_usd": 140000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 3,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 3,
+      "median_wage_usd": 168000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 135000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 4,
+      "median_wage_usd": 131062.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Development Manager",
+      "count": 5,
+      "median_wage_usd": 168000.0
+    },
+    {
+      "title": "Sr. Software Engineer II",
+      "count": 4,
+      "median_wage_usd": 142500.0
+    },
+    {
+      "title": "Sr. Software Engineer I",
+      "count": 2,
+      "median_wage_usd": 123500.0
+    },
+    {
+      "title": "Information Security Analyst",
+      "count": 1,
+      "median_wage_usd": 105000.0
+    },
+    {
+      "title": "Sr. Software Engineer",
+      "count": 1,
+      "median_wage_usd": 157125.0
+    },
+    {
+      "title": "SR. QA Engineer I",
+      "count": 1,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "title": "Associated Software Development Manager",
+      "count": 1,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 102232.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 8
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 13
+    },
+    {
+      "state": "TX",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 135000.0,
+    "gap_usd": 4840.0
+  }
+}

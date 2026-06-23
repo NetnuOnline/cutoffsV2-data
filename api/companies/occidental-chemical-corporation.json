@@ -1,0 +1,65 @@
+{
+  "slug": "occidental-chemical-corporation",
+  "canonical_name": "Occidental Chemical Corporation",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 4,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 2
+    },
+    {
+      "state": "KY",
+      "count": 1
+    },
+    {
+      "state": "AL",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "11/30/2021",
+      "effective_date": "11/18/2021",
+      "state": "NY",
+      "workers": 128,
+      "city": "Niagara Falls"
+    },
+    {
+      "date": "08/19/2021",
+      "effective_date": "11/18/2021",
+      "state": "NY",
+      "workers": 128,
+      "city": "Niagara Falls"
+    },
+    {
+      "date": "06/16/2009",
+      "effective_date": "06/16/2009",
+      "state": "KY",
+      "workers": 55,
+      "city": "4014 Bells Lane                     Louisville, KY 40221"
+    },
+    {
+      "date": "06/03/2008",
+      "effective_date": "08/19/2008",
+      "state": "AL",
+      "workers": 47,
+      "city": "Muscle Shoals"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "niagara-county-lwia",
+      "name": "Niagara County LWIA",
+      "state": "NY"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

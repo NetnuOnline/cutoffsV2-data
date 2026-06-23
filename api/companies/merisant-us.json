@@ -1,0 +1,64 @@
+{
+  "slug": "merisant-us",
+  "canonical_name": "MERISANT US, INC.",
+  "fein": null,
+  "lca_filing_count": 1,
+  "warn_notice_count": 1,
+  "median_wage_usd": 220000.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 220000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "DIRECTOR OF MARKETING",
+      "count": 1,
+      "median_wage_usd": 220000.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "FORT BEND",
+      "count": 1
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "10/03/2016",
+      "effective_date": "12/01/2016",
+      "state": "IL",
+      "workers": 77,
+      "city": "Manteno"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "grundy-livingston-kankakee-wib",
+      "name": "Grundy-Livingston-Kankakee WIB",
+      "state": "IL"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "lca_worker_positions": 1,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-2021",
+    "soc_title": "Marketing Managers",
+    "market_median_usd": 157620.0,
+    "employer_median_usd": 220000.0,
+    "gap_usd": 62380.0
+  }
+}

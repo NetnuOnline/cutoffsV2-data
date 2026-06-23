@@ -1,0 +1,80 @@
+{
+  "slug": "istream-infotech",
+  "canonical_name": "iStream Infotech, Inc.",
+  "fein": "81-1326071",
+  "lca_filing_count": 6,
+  "lca_worker_positions": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 119912.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 2,
+      "median_wage_usd": 118102.0
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 121722.0
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 118102.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 126960.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Software Engineer",
+      "count": 4,
+      "median_wage_usd": 118102.0
+    },
+    {
+      "title": "Information Technology Project Manager",
+      "count": 2,
+      "median_wage_usd": 121722.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "VA",
+      "county": "FAIRFAX",
+      "count": 4
+    },
+    {
+      "state": "TX",
+      "county": "COLLIN",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "VA",
+      "count": 4
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "CT",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 122531.0,
+    "gap_usd": -7629.0
+  }
+}

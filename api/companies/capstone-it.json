@@ -1,0 +1,156 @@
+{
+  "slug": "capstone-it",
+  "canonical_name": "Capstone IT, Inc.",
+  "fein": "47-0817498",
+  "lca_filing_count": 8,
+  "warn_notice_count": 0,
+  "median_wage_usd": 107775.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 90000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 104000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 105310.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 131040.0
+    },
+    {
+      "fy": 2025,
+      "filings": 4,
+      "median_wage_usd": 112620.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Java Developer",
+      "count": 2,
+      "median_wage_usd": 117520.0
+    },
+    {
+      "title": "Senior Automation Tester",
+      "count": 1,
+      "median_wage_usd": 90000.0
+    },
+    {
+      "title": "Data Science Developer",
+      "count": 1,
+      "median_wage_usd": 97760.0
+    },
+    {
+      "title": "Scrum Master",
+      "count": 1,
+      "median_wage_usd": 105310.0
+    },
+    {
+      "title": "Solutions Engineer",
+      "count": 1,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "title": "Project Manager",
+      "count": 1,
+      "median_wage_usd": 110240.0
+    },
+    {
+      "title": "Systems Architect",
+      "count": 1,
+      "median_wage_usd": 160160.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NE",
+      "county": "DOUGLAS",
+      "count": 4
+    },
+    {
+      "state": "TX",
+      "county": "DALLAS",
+      "count": 1
+    },
+    {
+      "state": "TN",
+      "county": "SHELBY",
+      "count": 1
+    },
+    {
+      "state": "KS",
+      "county": "JOHNSON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NE",
+      "count": 5
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "KS",
+      "count": 1
+    },
+    {
+      "state": "TN",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 1,
+    "initial_denials": 0,
+    "continuing_approvals": 6,
+    "continuing_denials": 1,
+    "total_approvals": 7,
+    "by_fy": [
+      {
+        "fy": 2020,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 4,
+        "continuing_denials": 1,
+        "total_approvals": 4
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      }
+    ]
+  },
+  "lca_worker_positions": 8,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 115000.0,
+    "gap_usd": -15160.0
+  }
+}

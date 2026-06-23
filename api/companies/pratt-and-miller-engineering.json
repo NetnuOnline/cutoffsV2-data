@@ -1,0 +1,51 @@
+{
+  "slug": "pratt-and-miller-engineering",
+  "canonical_name": "Pratt and Miller Engineering",
+  "fein": "36-3681684",
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 132638.5,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 132638.5
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Systems Lead",
+      "count": 1,
+      "median_wage_usd": 147729.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 117548.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NC",
+      "county": "MECKLENBURG",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NC",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 132638.5,
+    "gap_usd": 2478.5
+  }
+}

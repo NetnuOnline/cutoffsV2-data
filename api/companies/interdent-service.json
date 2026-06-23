@@ -1,0 +1,52 @@
+{
+  "slug": "interdent-service",
+  "canonical_name": "InterDent Service Corporation",
+  "fein": "91-1577891",
+  "lca_filing_count": 2,
+  "lca_worker_positions": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 144805.31,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 140500.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 149110.62,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Network Engineer VoIP",
+      "count": 2,
+      "median_wage_usd": 144805.31
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "WA",
+      "county": "CLARK",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "WA",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1244",
+    "soc_title": "Network and Computer Systems Administrators",
+    "market_median_usd": 95000.0,
+    "employer_median_usd": 144805.31,
+    "gap_usd": 49805.31
+  }
+}

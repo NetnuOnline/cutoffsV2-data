@@ -1,0 +1,203 @@
+{
+  "slug": "affirm",
+  "canonical_name": "Affirm, Inc.",
+  "fein": "45-5413534",
+  "lca_filing_count": 146,
+  "lca_worker_positions": 146,
+  "warn_notice_count": 0,
+  "median_wage_usd": 180000.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 8,
+      "median_wage_usd": 164801.5
+    },
+    {
+      "fy": 2021,
+      "filings": 39,
+      "median_wage_usd": 170000.0
+    },
+    {
+      "fy": 2022,
+      "filings": 36,
+      "median_wage_usd": 200000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 19,
+      "median_wage_usd": 193000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 18,
+      "median_wage_usd": 183581.0
+    },
+    {
+      "fy": 2025,
+      "filings": 15,
+      "median_wage_usd": 142000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 11,
+      "median_wage_usd": 190000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Software Engineer",
+      "count": 24,
+      "median_wage_usd": 190000.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 10,
+      "median_wage_usd": 158500.0
+    },
+    {
+      "title": "Software Engineer II",
+      "count": 7,
+      "median_wage_usd": 151000.0
+    },
+    {
+      "title": "Staff Software Engineer",
+      "count": 6,
+      "median_wage_usd": 230000.0
+    },
+    {
+      "title": "Analytics Lead",
+      "count": 6,
+      "median_wage_usd": 167500.0
+    },
+    {
+      "title": "Senior Product Manager",
+      "count": 4,
+      "median_wage_usd": 207500.0
+    },
+    {
+      "title": "Sr. Analyst",
+      "count": 4,
+      "median_wage_usd": 132000.0
+    },
+    {
+      "title": "Senior Machine Learning Engineer",
+      "count": 4,
+      "median_wage_usd": 196000.0
+    },
+    {
+      "title": "Manager, Software Engineering",
+      "count": 4,
+      "median_wage_usd": 220000.0
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "count": 3,
+      "median_wage_usd": 160000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 73
+    },
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 15
+    },
+    {
+      "state": "NY",
+      "county": "NEW YORK",
+      "count": 10
+    },
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 3
+    },
+    {
+      "state": "IL",
+      "county": "COOK",
+      "count": 3
+    },
+    {
+      "state": "PA",
+      "county": "ALLEGHENY",
+      "count": 2
+    },
+    {
+      "state": "WA",
+      "county": "SNOHOMISH",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 2
+    },
+    {
+      "state": "CT",
+      "county": "WINDHAM",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 94
+    },
+    {
+      "state": "WA",
+      "count": 20
+    },
+    {
+      "state": "NY",
+      "count": 12
+    },
+    {
+      "state": "TX",
+      "count": 7
+    },
+    {
+      "state": "IL",
+      "count": 5
+    },
+    {
+      "state": "NJ",
+      "count": 3
+    },
+    {
+      "state": "PA",
+      "count": 2
+    },
+    {
+      "state": "GA",
+      "count": 1
+    },
+    {
+      "state": "CT",
+      "count": 1
+    },
+    {
+      "state": "KS",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 190000.0,
+    "gap_usd": 59840.0
+  }
+}

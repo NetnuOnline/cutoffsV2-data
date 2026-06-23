@@ -1,0 +1,192 @@
+{
+  "slug": "prudential-financial",
+  "canonical_name": "Prudential Financial",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 10,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "NJ",
+      "count": 8
+    },
+    {
+      "state": "NY",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "01/09/2026",
+      "effective_date": "01/09/2026",
+      "state": "NJ",
+      "workers": 63,
+      "city": "Newark"
+    },
+    {
+      "date": "01/07/2026",
+      "effective_date": "01/07/2026",
+      "state": "NJ",
+      "workers": 54,
+      "city": "Newark"
+    },
+    {
+      "date": "04/16/2025",
+      "effective_date": "04/16/2025",
+      "state": "NJ",
+      "workers": 238,
+      "city": "Newark"
+    },
+    {
+      "date": "01/31/2025",
+      "effective_date": "01/31/2025",
+      "state": "NJ",
+      "workers": 57,
+      "city": "Newark"
+    },
+    {
+      "date": "01/16/2025",
+      "effective_date": "01/16/2025",
+      "state": "NJ",
+      "workers": 63,
+      "city": "Newark"
+    },
+    {
+      "date": "01/27/2024",
+      "effective_date": "01/27/2024",
+      "state": "NJ",
+      "workers": 108,
+      "city": "Newark"
+    },
+    {
+      "date": "08/03/2023",
+      "effective_date": "01/16/2024",
+      "state": "NJ",
+      "workers": 146,
+      "city": "Newark"
+    },
+    {
+      "date": "06/07/2007",
+      "effective_date": "08/14/2007",
+      "state": "NY",
+      "workers": 0,
+      "city": "One New York Plaza, 13th Floor  New York, NY,"
+    },
+    {
+      "date": "09/12/2005",
+      "effective_date": "09/12/2005",
+      "state": "NJ",
+      "workers": 48,
+      "city": "HOLMDEL"
+    },
+    {
+      "date": "07/02/2004",
+      "effective_date": "07/02/2004",
+      "state": "GA",
+      "workers": 25,
+      "city": "Atlanta"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "essex-wib",
+      "name": "Essex WIB",
+      "state": "NJ"
+    }
+  ],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2010-03-29",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-10-070152",
+        "items": [
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001137774&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2008-09-17",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-08-197458",
+        "items": [
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001137774&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2007-06-06",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-07-130430",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001137774&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2005-06-30",
+        "formType": "8-K/A",
+        "accessionNumber": "0001193125-05-135384",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001137774&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2005-06-09",
+        "formType": "8-K/A",
+        "accessionNumber": "0001193125-05-122984",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001137774&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2005-02-04",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-05-019882",
+        "items": [
+          "2.05",
+          "2.06"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities",
+          "Material Impairments"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001137774&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 6,
+    "itemCounts": {
+      "2.06": 3,
+      "2.05": 3,
+      "5.02": 1
+    },
+    "latestFilingDate": "2010-03-29",
+    "earliestFilingDate": "2005-02-04"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

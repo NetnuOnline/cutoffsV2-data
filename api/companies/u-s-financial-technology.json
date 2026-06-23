@@ -1,0 +1,51 @@
+{
+  "slug": "u-s-financial-technology",
+  "canonical_name": "U.S. Financial Technology, LLC",
+  "fein": "46-3967230",
+  "lca_filing_count": 2,
+  "lca_worker_positions": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 125801.32,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 131912.52
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 119690.12,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Application Support Analyst III",
+      "count": 1,
+      "median_wage_usd": 119690.12
+    },
+    {
+      "title": "Quality Assurance Analyst III",
+      "count": 1,
+      "median_wage_usd": 131912.52
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "MD",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 119690.12,
+    "gap_usd": -10469.88
+  }
+}

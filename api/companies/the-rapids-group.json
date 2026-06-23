@@ -1,0 +1,160 @@
+{
+  "slug": "the-rapids-group",
+  "canonical_name": "The Rapids Group Inc",
+  "fein": "46-3342516",
+  "lca_filing_count": 22,
+  "lca_worker_positions": 22,
+  "warn_notice_count": 0,
+  "median_wage_usd": 105250.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 4,
+      "median_wage_usd": 116000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 4,
+      "median_wage_usd": 109300.0
+    },
+    {
+      "fy": 2025,
+      "filings": 7,
+      "median_wage_usd": 94682.0
+    },
+    {
+      "fy": 2026,
+      "filings": 7,
+      "median_wage_usd": 82000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Data Analytics Engineer",
+      "count": 3,
+      "median_wage_usd": 105250.0
+    },
+    {
+      "title": "Agile Scrum Master, PO",
+      "count": 3,
+      "median_wage_usd": 94682.0
+    },
+    {
+      "title": "Technical Lead, Application Development",
+      "count": 3,
+      "median_wage_usd": 116000.0
+    },
+    {
+      "title": "CCM Application Programmer",
+      "count": 2,
+      "median_wage_usd": 80000.0
+    },
+    {
+      "title": "IT Specialist (CyberArk)",
+      "count": 2,
+      "median_wage_usd": 110535.0
+    },
+    {
+      "title": "Full Stack Application Developer",
+      "count": 1,
+      "median_wage_usd": 109300.0
+    },
+    {
+      "title": "Cloud Systems Engineer",
+      "count": 1,
+      "median_wage_usd": 116000.0
+    },
+    {
+      "title": "UI Designer",
+      "count": 1,
+      "median_wage_usd": 76000.0
+    },
+    {
+      "title": "Full Stack Cloud Automation Engineer",
+      "count": 1,
+      "median_wage_usd": 116000.0
+    },
+    {
+      "title": "ERP Application Programmer",
+      "count": 1,
+      "median_wage_usd": 98301.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NJ",
+      "county": "MIDDLESEX",
+      "count": 4
+    },
+    {
+      "state": "AZ",
+      "county": "MARICOPA",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "county": "FULTON",
+      "count": 1
+    },
+    {
+      "state": "GA",
+      "county": "DEKALB",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 1
+    },
+    {
+      "state": "OH",
+      "county": "CUYAHOGA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 5
+    },
+    {
+      "state": "NJ",
+      "count": 5
+    },
+    {
+      "state": "NY",
+      "count": 3
+    },
+    {
+      "state": "OH",
+      "count": 3
+    },
+    {
+      "state": "NC",
+      "count": 2
+    },
+    {
+      "state": "GA",
+      "count": 2
+    },
+    {
+      "state": "AZ",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 116000.0,
+    "gap_usd": -14160.0
+  }
+}

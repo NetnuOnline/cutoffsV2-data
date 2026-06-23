@@ -1,0 +1,65 @@
+{
+  "slug": "omniva",
+  "canonical_name": "Omniva LLC",
+  "fein": null,
+  "lca_filing_count": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 300000.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 3,
+      "median_wage_usd": 300000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Technical Program Manager, Test & Reliability",
+      "count": 1,
+      "median_wage_usd": 240000.0
+    },
+    {
+      "title": "Tech Lead",
+      "count": 1,
+      "median_wage_usd": 300000.0
+    },
+    {
+      "title": "Director, Technical Program Manager",
+      "count": 1,
+      "median_wage_usd": 350000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "WA",
+      "county": "KING",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "WA",
+      "count": 2
+    },
+    {
+      "state": "CA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1299",
+    "soc_title": "Information Technology Project Managers",
+    "market_median_usd": 118000.0,
+    "employer_median_usd": 295000.0,
+    "gap_usd": 177000.0
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "slug": "monaco-coach",
+  "canonical_name": "Monaco Coach",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 5,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "IN",
+      "count": 3
+    },
+    {
+      "state": "OR",
+      "count": 2
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "03/03/2009",
+      "effective_date": "03/02/2009",
+      "state": "IN",
+      "workers": 515,
+      "city": "Wakarusa, Milford, Warsaw"
+    },
+    {
+      "date": "03/02/2009",
+      "effective_date": "03/02/2009",
+      "state": "OR",
+      "workers": 1396,
+      "city": "Coburg"
+    },
+    {
+      "date": "07/17/2008",
+      "effective_date": "09/17/2008",
+      "state": "IN",
+      "workers": 1430,
+      "city": "Elkhart & Napanee"
+    },
+    {
+      "date": "07/17/2008",
+      "effective_date": "09/17/2008",
+      "state": "IN",
+      "workers": 1430,
+      "city": "Elkhart & Nappanee"
+    },
+    {
+      "date": "04/15/2005",
+      "effective_date": "06/15/2005",
+      "state": "OR",
+      "workers": 500,
+      "city": "Bend"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2009-04-02",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-09-071618",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001059556&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2008-01-07",
+        "formType": "8-K",
+        "accessionNumber": "0001193125-08-002520",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001059556&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2005-05-13",
+        "formType": "8-K",
+        "accessionNumber": "0000950123-05-006319",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001059556&type=8-K&dateb=&owner=include&count=40"
+      },
+      {
+        "filingDate": "2004-11-01",
+        "formType": "8-K",
+        "accessionNumber": "0000950123-04-012796",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001059556&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 4,
+    "itemCounts": {
+      "2.05": 2,
+      "5.02": 2
+    },
+    "latestFilingDate": "2009-04-02",
+    "earliestFilingDate": "2004-11-01"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

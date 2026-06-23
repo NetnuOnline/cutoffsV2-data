@@ -1,0 +1,76 @@
+{
+  "slug": "pinnacle-foods",
+  "canonical_name": "Pinnacle Foods",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 5,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "NY",
+      "count": 2
+    },
+    {
+      "state": "CO",
+      "count": 1
+    },
+    {
+      "state": "DE",
+      "count": 1
+    },
+    {
+      "state": "WA",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "01/05/2017",
+      "effective_date": "01/05/2017",
+      "state": "CO",
+      "workers": 27,
+      "city": "Boulder"
+    },
+    {
+      "date": "07/31/2012",
+      "effective_date": "07/31/2012",
+      "state": "DE",
+      "workers": 426,
+      "city": null
+    },
+    {
+      "date": "09/20/2011",
+      "effective_date": "09/20/2011",
+      "state": "NY",
+      "workers": 0,
+      "city": "Fulton"
+    },
+    {
+      "date": "08/22/2011",
+      "effective_date": "11/23/2011",
+      "state": "NY",
+      "workers": 0,
+      "city": "Fulton"
+    },
+    {
+      "date": "04/26/2011",
+      "effective_date": "06/23/2011",
+      "state": "WA",
+      "workers": 139,
+      "city": "Tacoma"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "boulder-wib",
+      "name": "Boulder WIB",
+      "state": "CO"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

@@ -1,0 +1,75 @@
+{
+  "slug": "simpletire",
+  "canonical_name": "SimpleTire LLC",
+  "fein": "27-4249945",
+  "lca_filing_count": 4,
+  "lca_worker_positions": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 122823.48,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 120037.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 125609.96
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 77619.69,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Manager, Digital Analytics",
+      "count": 2,
+      "median_wage_usd": 125609.96
+    },
+    {
+      "title": "TECHNICAL PRODUCT MANAGER, DATA PLATFORM",
+      "count": 1,
+      "median_wage_usd": 120037.0
+    },
+    {
+      "title": "Customer Insights Coordinator",
+      "count": 1,
+      "median_wage_usd": 77619.69
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "OH",
+      "county": "DELAWARE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "SC",
+      "count": 2
+    },
+    {
+      "state": "PA",
+      "count": 1
+    },
+    {
+      "state": "OH",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 125609.96,
+    "gap_usd": 17589.96
+  }
+}

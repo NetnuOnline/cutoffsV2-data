@@ -1,0 +1,116 @@
+{
+  "slug": "sirona-medical",
+  "canonical_name": "Sirona Medical, Inc.",
+  "fein": "32-0567454",
+  "lca_filing_count": 12,
+  "lca_worker_positions": 12,
+  "warn_notice_count": 0,
+  "median_wage_usd": 170102.5,
+  "by_fy": [
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 120442.5
+    },
+    {
+      "fy": 2022,
+      "filings": 3,
+      "median_wage_usd": 173451.0
+    },
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 187533.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 112299.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 156106.5
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 167500.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Product Manager",
+      "count": 3,
+      "median_wage_usd": 187533.0
+    },
+    {
+      "title": "Senior Network Engineer",
+      "count": 2,
+      "median_wage_usd": 188606.5
+    },
+    {
+      "title": "Sr. QA Engineer",
+      "count": 1,
+      "median_wage_usd": 120000.0
+    },
+    {
+      "title": "Engineering Manager",
+      "count": 1,
+      "median_wage_usd": 166754.0
+    },
+    {
+      "title": "Senior Integration Engineer",
+      "count": 1,
+      "median_wage_usd": 121763.0
+    },
+    {
+      "title": "Senior NLP Data Scientist",
+      "count": 1,
+      "median_wage_usd": 150000.0
+    },
+    {
+      "title": "Head of Engineering, Workspace",
+      "count": 1,
+      "median_wage_usd": 227677.0
+    },
+    {
+      "title": "Head of Product",
+      "count": 1,
+      "median_wage_usd": 119122.0
+    },
+    {
+      "title": "Senior Quality Assurance Engineer",
+      "count": 1,
+      "median_wage_usd": 112299.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SAN FRANCISCO",
+      "count": 8
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 11
+    },
+    {
+      "state": "WA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3021",
+    "soc_title": "Computer and Information Systems Managers",
+    "market_median_usd": 169510.0,
+    "employer_median_usd": 187533.0,
+    "gap_usd": 18023.0
+  }
+}

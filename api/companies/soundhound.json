@@ -1,0 +1,130 @@
+{
+  "slug": "soundhound",
+  "canonical_name": "Soundhound, Inc",
+  "fein": "20-3516450",
+  "lca_filing_count": 11,
+  "lca_worker_positions": 11,
+  "warn_notice_count": 0,
+  "median_wage_usd": 128814.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 146000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 2,
+      "median_wage_usd": 129854.0
+    },
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 100297.5
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 117083.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 126672.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 131997.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 128887.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior QA Automation Engineer",
+      "count": 2,
+      "median_wage_usd": 130343.0
+    },
+    {
+      "title": "Product Designer II",
+      "count": 2,
+      "median_wage_usd": 120421.5
+    },
+    {
+      "title": "Senior Software Engineer",
+      "count": 2,
+      "median_wage_usd": 131997.0
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "count": 1,
+      "median_wage_usd": 130894.0
+    },
+    {
+      "title": "Software Engineer",
+      "count": 1,
+      "median_wage_usd": 146000.0
+    },
+    {
+      "title": "Technical Program Manager, ASR Systems",
+      "count": 1,
+      "median_wage_usd": 124800.0
+    },
+    {
+      "title": "Business Development Manager",
+      "count": 1,
+      "median_wage_usd": 128814.0
+    },
+    {
+      "title": "Senior Project Manager, Data Programs",
+      "count": 1,
+      "median_wage_usd": 75795.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "SANTA CLARA",
+      "count": 5
+    },
+    {
+      "state": "CO",
+      "county": "BOULDER",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "county": "SAN DIEGO",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 8
+    },
+    {
+      "state": "NY",
+      "count": 2
+    },
+    {
+      "state": "CO",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 131997.0,
+    "gap_usd": 1837.0
+  }
+}

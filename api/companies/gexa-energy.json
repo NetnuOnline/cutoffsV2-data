@@ -1,0 +1,92 @@
+{
+  "slug": "gexa-energy",
+  "canonical_name": "Gexa Energy, LP",
+  "fein": "42-1674923",
+  "lca_filing_count": 8,
+  "lca_worker_positions": 8,
+  "warn_notice_count": 0,
+  "median_wage_usd": 146091.33,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 115480.64
+    },
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 141015.3
+    },
+    {
+      "fy": 2023,
+      "filings": 4,
+      "median_wage_usd": 206945.66499999998
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 155000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": null,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Vice President and General Manager Power Wizard",
+      "count": 2,
+      "median_wage_usd": 267800.0
+    },
+    {
+      "title": "Senior IT Programmer Analyst",
+      "count": 2,
+      "median_wage_usd": 120681.58499999999
+    },
+    {
+      "title": "IT Programmer Analyst",
+      "count": 1,
+      "median_wage_usd": null
+    },
+    {
+      "title": "Principal IT Architect",
+      "count": 1,
+      "median_wage_usd": 155000.0
+    },
+    {
+      "title": "IT Technology Leader",
+      "count": 1,
+      "median_wage_usd": 146091.33
+    },
+    {
+      "title": "Principal IT Programmer Analyst",
+      "count": 1,
+      "median_wage_usd": 141015.3
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "HARRIS",
+      "count": 6
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 8
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 140441.27,
+    "gap_usd": 10281.27
+  }
+}

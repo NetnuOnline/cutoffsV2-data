@@ -1,0 +1,47 @@
+{
+  "slug": "dayco",
+  "canonical_name": "DAYCO",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 2,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "SC",
+      "count": 1
+    },
+    {
+      "state": "NC",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "06/30/2017",
+      "effective_date": "06/30/2017",
+      "state": "SC",
+      "workers": 122,
+      "city": "Walterboro"
+    },
+    {
+      "date": "06/12/2015",
+      "effective_date": "10/01/2015",
+      "state": "NC",
+      "workers": 135,
+      "city": "Fayetteville and Red Springs"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "lowcountry-wib",
+      "name": "Lowcountry WIB",
+      "state": "SC"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

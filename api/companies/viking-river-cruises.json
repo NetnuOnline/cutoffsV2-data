@@ -1,0 +1,81 @@
+{
+  "slug": "viking-river-cruises",
+  "canonical_name": "Viking River Cruises Inc.",
+  "fein": "95-4788283",
+  "lca_filing_count": 5,
+  "lca_worker_positions": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 133951.5,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 121160.0
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 133951.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Marketing Data Analyst",
+      "count": 1,
+      "median_wage_usd": 122400.0
+    },
+    {
+      "title": "CRM Developer II",
+      "count": 1,
+      "median_wage_usd": 140000.0
+    },
+    {
+      "title": "Sr. Manager, Strategic Planning & Business Operations",
+      "count": 1,
+      "median_wage_usd": 133951.5
+    },
+    {
+      "title": "Data Engineer, IDR",
+      "count": 1,
+      "median_wage_usd": 155000.0
+    },
+    {
+      "title": "Data Analytics Engineer",
+      "count": 1,
+      "median_wage_usd": 121160.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "LOS ANGELES",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 4
+    },
+    {
+      "state": "MA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1161",
+    "soc_title": "Market Research Analysts and Marketing Specialists",
+    "market_median_usd": 74680.0,
+    "employer_median_usd": 122400.0,
+    "gap_usd": 47720.0
+  }
+}

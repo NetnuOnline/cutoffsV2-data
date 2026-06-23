@@ -1,0 +1,61 @@
+{
+  "slug": "quanta-health",
+  "canonical_name": "Quanta Health, LLC",
+  "fein": "99-3940467",
+  "lca_filing_count": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 102731.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 102731.0
+    },
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 107307.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Director of Analytics",
+      "count": 2,
+      "median_wage_usd": 102731.0
+    },
+    {
+      "title": "Director of Product & Interoperability",
+      "count": 1,
+      "median_wage_usd": 111883.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "NE",
+      "county": "LANCASTER",
+      "count": 2
+    },
+    {
+      "state": "NE",
+      "county": "DOUGLAS",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "NE",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 3,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-2051",
+    "soc_title": "Data Scientists",
+    "market_median_usd": 108020.0,
+    "employer_median_usd": 102731.0,
+    "gap_usd": -5289.0
+  }
+}

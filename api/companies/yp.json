@@ -1,0 +1,87 @@
+{
+  "slug": "yp",
+  "canonical_name": "YP, LLC",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 6,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "GA",
+      "count": 2
+    },
+    {
+      "state": "FL",
+      "count": 1
+    },
+    {
+      "state": "CA",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "TN",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "07/31/2017",
+      "effective_date": "09/29/2017",
+      "state": "FL",
+      "workers": 105,
+      "city": "Jacksonville"
+    },
+    {
+      "date": "07/14/2017",
+      "effective_date": "08/29/2017",
+      "state": "CA",
+      "workers": 35,
+      "city": "Glendale"
+    },
+    {
+      "date": "07/14/2017",
+      "effective_date": "07/14/2017",
+      "state": "GA",
+      "workers": 50,
+      "city": "Tucker"
+    },
+    {
+      "date": "12/01/2015",
+      "effective_date": "01/30/2016",
+      "state": "TX",
+      "workers": 100,
+      "city": "Dallas"
+    },
+    {
+      "date": "01/15/2014",
+      "effective_date": "01/15/2014",
+      "state": "GA",
+      "workers": 54,
+      "city": "Roswell"
+    },
+    {
+      "date": "03/27/2013",
+      "effective_date": "05/31/2013",
+      "state": "TN",
+      "workers": 34,
+      "city": "Nashville"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "dekalb-county-wib",
+      "name": "DeKalb County WIB",
+      "state": "GA"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

@@ -1,0 +1,104 @@
+{
+  "slug": "sesco-pjm-strategy",
+  "canonical_name": "SESCO PJM Strategy LLC",
+  "fein": "43-1987003",
+  "lca_filing_count": 7,
+  "lca_worker_positions": 7,
+  "warn_notice_count": 0,
+  "median_wage_usd": 119475.0,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 1,
+      "median_wage_usd": 85000.0
+    },
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 87984.0
+    },
+    {
+      "fy": 2026,
+      "filings": 4,
+      "median_wage_usd": 132500.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior Software Engineer",
+      "count": 2,
+      "median_wage_usd": 102237.5
+    },
+    {
+      "title": "Software Developer",
+      "count": 1,
+      "median_wage_usd": 115000.0
+    },
+    {
+      "title": "Portfolio Manager,  Quantitative Strategies",
+      "count": 1,
+      "median_wage_usd": 225000.0
+    },
+    {
+      "title": "Quantitative Analyst",
+      "count": 1,
+      "median_wage_usd": 87984.0
+    },
+    {
+      "title": "Quantitative Analyst, Simulation Modeling",
+      "count": 1,
+      "median_wage_usd": 125000.0
+    },
+    {
+      "title": "Quantitative Associate,  Quantitative Strategies",
+      "count": 1,
+      "median_wage_usd": 140000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "PA",
+      "county": "ALLEGHENY",
+      "count": 2
+    },
+    {
+      "state": "NJ",
+      "county": "HUDSON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "PA",
+      "count": 3
+    },
+    {
+      "state": "NY",
+      "count": 2
+    },
+    {
+      "state": "TX",
+      "count": 1
+    },
+    {
+      "state": "NJ",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 102237.5,
+    "gap_usd": -27922.5
+  }
+}

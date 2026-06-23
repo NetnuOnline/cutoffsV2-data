@@ -1,0 +1,92 @@
+{
+  "slug": "warehouse-services",
+  "canonical_name": "Warehouse Services, Inc.",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 3,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "SC",
+      "count": 2
+    },
+    {
+      "state": "IL",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "08/08/2021",
+      "effective_date": "08/08/2021",
+      "state": "SC",
+      "workers": 176,
+      "city": "Greenville"
+    },
+    {
+      "date": "05/11/2020",
+      "effective_date": "05/01/2020",
+      "state": "IL",
+      "workers": 89,
+      "city": "29900 Graaskamp Blvd  Wilmington, IL 60481"
+    },
+    {
+      "date": "06/12/2018",
+      "effective_date": "06/12/2018",
+      "state": "SC",
+      "workers": 180,
+      "city": "Graniteville"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "greenville-wib",
+      "name": "Greenville WIB",
+      "state": "SC"
+    },
+    {
+      "slug": "lower-savannah-wib",
+      "name": "Lower Savannah WIB",
+      "state": "SC"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 2,
+    "initial_denials": 0,
+    "continuing_approvals": 0,
+    "continuing_denials": 0,
+    "total_approvals": 2,
+    "by_fy": [
+      {
+        "fy": 2009,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2019,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 0
+      },
+      {
+        "fy": 2021,
+        "initial_approvals": 2,
+        "initial_denials": 0,
+        "continuing_approvals": 0,
+        "continuing_denials": 0,
+        "total_approvals": 2
+      }
+    ]
+  }
+}

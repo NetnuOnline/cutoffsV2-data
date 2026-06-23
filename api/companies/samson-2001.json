@@ -1,0 +1,51 @@
+{
+  "slug": "samson-2001",
+  "canonical_name": "SAMSON 2001 INC.",
+  "fein": "93-2227332",
+  "lca_filing_count": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 520000.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 1,
+      "median_wage_usd": 520000.0
+    },
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 520000.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "STRATEGIC ADVISOR",
+      "count": 2,
+      "median_wage_usd": 520000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "SC",
+      "county": "CHARLESTON",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "SC",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "13-1111",
+    "soc_title": "Management Analysts",
+    "market_median_usd": 99000.0,
+    "employer_median_usd": 520000.0,
+    "gap_usd": 421000.0
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "slug": "irvine-management-company-a-delaware",
+  "canonical_name": "Irvine Management Company, a Delaware Corporation",
+  "fein": "82-1749352",
+  "lca_filing_count": 3,
+  "warn_notice_count": 0,
+  "median_wage_usd": 156385.0,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 2,
+      "median_wage_usd": 170471.5
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Senior SAP Solutions Architect - Finance",
+      "count": 1,
+      "median_wage_usd": 184558.0
+    },
+    {
+      "title": "Manager, Cloud Development",
+      "count": 1,
+      "median_wage_usd": 156385.0
+    },
+    {
+      "title": "FICO Lead - SAP Financial Systems",
+      "count": 1,
+      "median_wage_usd": 147410.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "ORANGE",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 3
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 5,
+    "continuing_denials": 0,
+    "total_approvals": 5,
+    "by_fy": [
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 5,
+        "continuing_denials": 0,
+        "total_approvals": 5
+      }
+    ]
+  },
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 184558.0,
+    "gap_usd": 54398.0
+  }
+}

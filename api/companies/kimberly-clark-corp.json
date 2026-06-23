@@ -1,0 +1,90 @@
+{
+  "slug": "kimberly-clark-corp",
+  "canonical_name": "Kimberly-Clark Corp.",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 7,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 3
+    },
+    {
+      "state": "WA",
+      "count": 2
+    },
+    {
+      "state": "WI",
+      "count": 1
+    },
+    {
+      "state": "TX",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "03/30/2020",
+      "effective_date": "06/30/2020",
+      "state": "CA",
+      "workers": 47,
+      "city": "Fullerton"
+    },
+    {
+      "date": "04/29/2019",
+      "effective_date": "07/01/2019",
+      "state": "CA",
+      "workers": 30,
+      "city": "Fullerton"
+    },
+    {
+      "date": "04/29/2019",
+      "effective_date": "07/01/2019",
+      "state": "CA",
+      "workers": 204,
+      "city": "Fullerton"
+    },
+    {
+      "date": "03/22/2019",
+      "effective_date": "03/15/2019",
+      "state": "WI",
+      "workers": 65,
+      "city": "Neenah"
+    },
+    {
+      "date": "04/29/2014",
+      "effective_date": "06/30/2014",
+      "state": "TX",
+      "workers": 87,
+      "city": "San Antonio"
+    },
+    {
+      "date": "01/01/2012",
+      "effective_date": "01/01/2012",
+      "state": "WA",
+      "workers": 760,
+      "city": "Everett"
+    },
+    {
+      "date": "10/19/2011",
+      "effective_date": "01/01/2012",
+      "state": "WA",
+      "workers": 760,
+      "city": "Everett"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "fox-valley-wda",
+      "name": "Fox Valley WDA",
+      "state": "WI"
+    }
+  ],
+  "sec8k_data": null,
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

@@ -1,0 +1,51 @@
+{
+  "slug": "intuitive-machines",
+  "canonical_name": "Intuitive Machines",
+  "fein": null,
+  "lca_filing_count": 0,
+  "warn_notice_count": 1,
+  "median_wage_usd": null,
+  "by_fy": [],
+  "top_titles": [],
+  "top_states": [
+    {
+      "state": "MD",
+      "count": 1
+    }
+  ],
+  "top_counties": [],
+  "warn_events": [
+    {
+      "date": "10/29/2024",
+      "effective_date": "12/01/2024",
+      "state": "MD",
+      "workers": 35,
+      "city": "8800 Greenbelt Road Greenbelt, MD 20771"
+    }
+  ],
+  "retraining_boards": [],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2024-02-01",
+        "formType": "8-K/A",
+        "accessionNumber": "0001844452-24-000021",
+        "items": [
+          "5.02"
+        ],
+        "itemDescriptions": [
+          "Departure/Election of Directors or Principal Officers"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001844452&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 1,
+    "itemCounts": {
+      "5.02": 1
+    },
+    "latestFilingDate": "2024-02-01",
+    "earliestFilingDate": "2024-02-01"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker"
+}

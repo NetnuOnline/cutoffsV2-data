@@ -1,0 +1,51 @@
+{
+  "slug": "fl2024-008",
+  "canonical_name": "FL2024-008, Inc.",
+  "fein": "33-2885379",
+  "lca_filing_count": 2,
+  "lca_worker_positions": 2,
+  "warn_notice_count": 0,
+  "median_wage_usd": 340000.0,
+  "by_fy": [
+    {
+      "fy": 2025,
+      "filings": 1,
+      "median_wage_usd": 340000.0
+    },
+    {
+      "fy": 2026,
+      "filings": 1,
+      "median_wage_usd": 340000.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Member of the Technical Staff - Software Engineering",
+      "count": 1,
+      "median_wage_usd": 340000.0
+    },
+    {
+      "title": "AI Researcher",
+      "count": 1,
+      "median_wage_usd": 340000.0
+    }
+  ],
+  "top_counties": [],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 2
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 340000.0,
+    "gap_usd": 209840.0
+  }
+}

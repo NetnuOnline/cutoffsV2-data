@@ -1,0 +1,84 @@
+{
+  "slug": "upmc-western-maryland",
+  "canonical_name": "UPMC Western Maryland Corporation",
+  "fein": null,
+  "lca_filing_count": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 232004.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 435000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 3,
+      "median_wage_usd": 229008.0
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Family Medicine Physician",
+      "count": 2,
+      "median_wage_usd": 229008.0
+    },
+    {
+      "title": "CRITICAL CARE PHYSICIAN",
+      "count": 1,
+      "median_wage_usd": 435000.0
+    },
+    {
+      "title": "Endocrinologist",
+      "count": 1,
+      "median_wage_usd": 235000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "MD",
+      "county": "ALLEGANY",
+      "count": 3
+    },
+    {
+      "state": "MD",
+      "county": "GARRETT",
+      "count": 1
+    }
+  ],
+  "top_states": [
+    {
+      "state": "MD",
+      "count": 4
+    }
+  ],
+  "warn_events": [],
+  "uscis_h1b": {
+    "initial_approvals": 6,
+    "initial_denials": 0,
+    "continuing_approvals": 9,
+    "continuing_denials": 0,
+    "total_approvals": 15,
+    "by_fy": [
+      {
+        "fy": 2021,
+        "initial_approvals": 1,
+        "initial_denials": 0,
+        "continuing_approvals": 2,
+        "continuing_denials": 0,
+        "total_approvals": 3
+      },
+      {
+        "fy": 2022,
+        "initial_approvals": 5,
+        "initial_denials": 0,
+        "continuing_approvals": 7,
+        "continuing_denials": 0,
+        "total_approvals": 12
+      }
+    ]
+  },
+  "lca_worker_positions": 4,
+  "top_socs": [],
+  "lca_periods": []
+}

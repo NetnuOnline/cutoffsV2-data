@@ -1,0 +1,67 @@
+{
+  "slug": "slipstream-it",
+  "canonical_name": "Slipstream IT, LLC",
+  "fein": "84-4282427",
+  "lca_filing_count": 4,
+  "lca_worker_positions": 4,
+  "warn_notice_count": 0,
+  "median_wage_usd": 138710.0,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 121831.5
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 151710.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Veeva CRM Business Analyst",
+      "count": 1,
+      "median_wage_usd": 156000.0
+    },
+    {
+      "title": "SR. VEEVA VAULT BUSINESS ANALYST",
+      "count": 1,
+      "median_wage_usd": 147420.0
+    },
+    {
+      "title": "Senior Data Architect",
+      "count": 1,
+      "median_wage_usd": 113663.0
+    },
+    {
+      "title": "Veeva Business Analyst",
+      "count": 1,
+      "median_wage_usd": 130000.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "PA",
+      "county": "MONTGOMERY",
+      "count": 2
+    }
+  ],
+  "top_states": [
+    {
+      "state": "PA",
+      "count": 4
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1211",
+    "soc_title": "Computer Systems Analysts",
+    "market_median_usd": 103800.0,
+    "employer_median_usd": 147420.0,
+    "gap_usd": 43620.0
+  }
+}

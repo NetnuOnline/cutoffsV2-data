@@ -1,0 +1,86 @@
+{
+  "slug": "attainment-holdco",
+  "canonical_name": "Attainment Holdco LLC",
+  "fein": "83-3246188",
+  "lca_filing_count": 8,
+  "lca_worker_positions": 8,
+  "warn_notice_count": 0,
+  "median_wage_usd": 233511.3,
+  "by_fy": [
+    {
+      "fy": 2024,
+      "filings": 3,
+      "median_wage_usd": 233398.0
+    },
+    {
+      "fy": 2025,
+      "filings": 3,
+      "median_wage_usd": 159100.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 233624.6,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Controller",
+      "count": 2,
+      "median_wage_usd": 233624.6
+    },
+    {
+      "title": "Sr. Manager, Quality Assurance",
+      "count": 2,
+      "median_wage_usd": 233398.0
+    },
+    {
+      "title": "Director, Quality Assurance",
+      "count": 1,
+      "median_wage_usd": 245225.0
+    },
+    {
+      "title": "Lead QA Engineer",
+      "count": 1,
+      "median_wage_usd": 129792.0
+    },
+    {
+      "title": "Senior Manager, Engineering",
+      "count": 1,
+      "median_wage_usd": 235000.0
+    },
+    {
+      "title": "Staff Data Engineer",
+      "count": 1,
+      "median_wage_usd": 159100.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "ALAMEDA",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 7
+    },
+    {
+      "state": "MA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "11-3021",
+    "soc_title": "Computer and Information Systems Managers",
+    "market_median_usd": 169510.0,
+    "employer_median_usd": 233398.0,
+    "gap_usd": 63888.0
+  }
+}

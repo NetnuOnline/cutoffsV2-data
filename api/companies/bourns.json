@@ -1,0 +1,82 @@
+{
+  "slug": "bourns",
+  "canonical_name": "Bourns, Inc.",
+  "fein": "95-1747120",
+  "lca_filing_count": 5,
+  "lca_worker_positions": 5,
+  "warn_notice_count": 0,
+  "median_wage_usd": 121826.0,
+  "by_fy": [
+    {
+      "fy": 2020,
+      "filings": 1,
+      "median_wage_usd": 99000.0
+    },
+    {
+      "fy": 2021,
+      "filings": 1,
+      "median_wage_usd": 101000.0
+    },
+    {
+      "fy": 2024,
+      "filings": 1,
+      "median_wage_usd": 121826.0
+    },
+    {
+      "fy": 2026,
+      "filings": 2,
+      "median_wage_usd": 152900.5,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Mechanical Engr, SAP PLM Systems Analyst",
+      "count": 1,
+      "median_wage_usd": 101000.0
+    },
+    {
+      "title": "SAP BW Developer",
+      "count": 1,
+      "median_wage_usd": 99000.0
+    },
+    {
+      "title": "Manager SAP IT Finance",
+      "count": 1,
+      "median_wage_usd": 140587.0
+    },
+    {
+      "title": "Manager IT HRIS",
+      "count": 1,
+      "median_wage_usd": 165214.0
+    },
+    {
+      "title": "SAP PLM Systems Analyst",
+      "count": 1,
+      "median_wage_usd": 121826.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "CA",
+      "county": "RIVERSIDE",
+      "count": 3
+    }
+  ],
+  "top_states": [
+    {
+      "state": "CA",
+      "count": 5
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 152900.5,
+    "gap_usd": 22740.5
+  }
+}

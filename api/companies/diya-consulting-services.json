@@ -1,0 +1,80 @@
+{
+  "slug": "diya-consulting-services",
+  "canonical_name": "Diya Consulting Services Inc",
+  "fein": "88-1762916",
+  "lca_filing_count": 7,
+  "lca_worker_positions": 7,
+  "warn_notice_count": 0,
+  "median_wage_usd": 106579.0,
+  "by_fy": [
+    {
+      "fy": 2023,
+      "filings": 2,
+      "median_wage_usd": 75566.0
+    },
+    {
+      "fy": 2024,
+      "filings": 2,
+      "median_wage_usd": 108826.0
+    },
+    {
+      "fy": 2026,
+      "filings": 3,
+      "median_wage_usd": 106579.0,
+      "through_quarter": 1
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "SOFTWARE DEVELOPER",
+      "count": 2,
+      "median_wage_usd": 75566.0
+    },
+    {
+      "title": "Software Engineer- II",
+      "count": 2,
+      "median_wage_usd": 108826.0
+    },
+    {
+      "title": "Full Stack Developer",
+      "count": 2,
+      "median_wage_usd": 106579.0
+    },
+    {
+      "title": "Data Analyst",
+      "count": 1,
+      "median_wage_usd": 103501.0
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "TX",
+      "county": "TRAVIS",
+      "count": 4
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "count": 4
+    },
+    {
+      "state": "MN",
+      "count": 2
+    },
+    {
+      "state": "VA",
+      "count": 1
+    }
+  ],
+  "warn_events": [],
+  "top_socs": [],
+  "lca_periods": [],
+  "bls_benchmark": {
+    "soc_code": "15-1252",
+    "soc_title": "Software Developers",
+    "market_median_usd": 130160.0,
+    "employer_median_usd": 106579.0,
+    "gap_usd": -23581.0
+  }
+}

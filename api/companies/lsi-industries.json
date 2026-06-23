@@ -1,0 +1,108 @@
+{
+  "slug": "lsi-industries",
+  "canonical_name": "LSI Industries Inc.",
+  "fein": null,
+  "lca_filing_count": 2,
+  "warn_notice_count": 1,
+  "median_wage_usd": 87661.5,
+  "by_fy": [
+    {
+      "fy": 2022,
+      "filings": 2,
+      "median_wage_usd": 87661.5
+    }
+  ],
+  "top_titles": [
+    {
+      "title": "Product Engineer",
+      "count": 1,
+      "median_wage_usd": 79581.0
+    },
+    {
+      "title": "Senior Product Engineer",
+      "count": 1,
+      "median_wage_usd": 95742.0
+    }
+  ],
+  "top_states": [
+    {
+      "state": "OH",
+      "count": 2
+    }
+  ],
+  "top_counties": [
+    {
+      "state": "OH",
+      "county": "HAMILTON",
+      "count": 2
+    }
+  ],
+  "warn_events": [
+    {
+      "date": "10/29/2018",
+      "effective_date": "01/28/2019",
+      "state": "NY",
+      "workers": 136,
+      "city": "New Windsor"
+    }
+  ],
+  "retraining_boards": [
+    {
+      "slug": "orange-county-lwia",
+      "name": "Orange County LWIA",
+      "state": "NY"
+    }
+  ],
+  "sec8k_data": {
+    "filings": [
+      {
+        "filingDate": "2016-09-23",
+        "formType": "8-K",
+        "accessionNumber": "0000892251-16-000309",
+        "items": [
+          "2.05"
+        ],
+        "itemDescriptions": [
+          "Costs Associated with Exit or Disposal Activities"
+        ],
+        "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000763532&type=8-K&dateb=&owner=include&count=40"
+      }
+    ],
+    "totalFilings": 1,
+    "itemCounts": {
+      "2.05": 1
+    },
+    "latestFilingDate": "2016-09-23",
+    "earliestFilingDate": "2016-09-23"
+  },
+  "bankruptcy_data": null,
+  "source": "warntracker",
+  "uscis_h1b": {
+    "initial_approvals": 0,
+    "initial_denials": 0,
+    "continuing_approvals": 2,
+    "continuing_denials": 0,
+    "total_approvals": 2,
+    "by_fy": [
+      {
+        "fy": 2022,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      },
+      {
+        "fy": 2023,
+        "initial_approvals": 0,
+        "initial_denials": 0,
+        "continuing_approvals": 1,
+        "continuing_denials": 0,
+        "total_approvals": 1
+      }
+    ]
+  },
+  "lca_worker_positions": 2,
+  "top_socs": [],
+  "lca_periods": []
+}
